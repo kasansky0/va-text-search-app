@@ -1,6 +1,5 @@
 import os
 import streamlit as st
-import random
 import re
 
 # Folder with your txt files (inside your repo)
@@ -37,12 +36,10 @@ if search_input:
     if not matching_files:
         st.warning("No files found with the given keywords.")
     else:
-        st.success(f"Found {len(matching_files)} files. Showing 10 random files:")
+        st.success(f"Found {len(matching_files)} files:")
 
-        # Pick 10 random files (or all if less than 10)
-        display_files = random.sample(matching_files, min(10, len(matching_files)))
-
-        for idx, file_name in enumerate(display_files, 1):
+        # Show all matching files
+        for idx, file_name in enumerate(matching_files, 1):
             file_path = os.path.join(folder_path, file_name)
             with open(file_path, "r", encoding="utf-8") as f:
                 content = f.read()
