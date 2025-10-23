@@ -2,53 +2,136 @@ import os
 import streamlit as st
 import re
 
-# Folder with your txt files (inside your repo)
+# -----------------------------
+# Force Light Mode in App Config
+# -----------------------------
+st.set_page_config(
+    page_title="VA Condition Search",
+    page_icon="🔍",
+    layout="centered",
+    initial_sidebar_state="collapsed"
+)
+
+# Force Streamlit light theme
+st.markdown(
+    """
+    <style>
+    /* Override global dark theme */
+    html, body, [class*="stAppViewContainer"], [class*="stApp"], [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
+        background-color: #FFFFFF !important;
+        color: #000000 !important;
+    }
+
+    /* Hide dark mode top bar (header) */
+    [data-testid="stHeader"] {
+        background-color: #FFFFFF !important;
+        color: #000000 !important;
+        box-shadow: none !important;
+    }
+
+    /* Force Streamlit toolbar (if any) to white */
+    [data-testid="stToolbar"] {
+        background-color: #FFFFFF !important;
+        color: #000000 !important;
+    }
+
+    /* Centered Header */
+    .centered-text {
+        text-align: center;
+        color: #000000 !important;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    /* Search result box */
+    .search-result {
+        border: 2px solid #007BFF;
+        border-radius: 10px;
+        padding: 15px;
+        margin-bottom: 15px;
+        background-color: #F9F9F9;
+        text-align: left;
+        color: #000000;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    }
+
+    /* Highlight text */
+    mark {
+        background-color: #FFFF00;
+        color: #000000;
+        padding: 0 2px;
+        border-radius: 2px;
+    }
+
+    /* Input label */
+    div.stTextInput > label > div {
+        color: #007BFF !important;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    /* Search input box */
+    div.stTextInput input {
+        border: 2px solid #007BFF !important;
+        border-radius: 5px !important;
+        padding: 10px !important;
+        width: 100% !important;
+        font-size: 16px !important;
+        color: #000000 !important;
+        background-color: #FFFFFF !important;
+        caret-color: #000000 !important;
+    }
+
+    /* Button */
+    div.stButton > button {
+        background-color: #007BFF !important;
+        color: white !important;
+        border-radius: 5px !important;
+        border: none !important;
+        padding: 8px 16px !important;
+        font-size: 14px !important;
+        cursor: pointer !important;
+        transition: background-color 0.2s !important;
+    }
+
+    div.stButton > button:hover {
+        background-color: #0056b3 !important;
+    }
+
+    /* Footer */
+    .footer-text {
+        font-size: 10px;
+        color: gray;
+        text-align: center;
+        margin-top: 30px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+# -----------------------------
+# Header
+# -----------------------------
+st.markdown('<h1 class="centered-text">VA Condition Search</h1>', unsafe_allow_html=True)
+
+# -----------------------------
+# Folder containing text files
+# -----------------------------
 folder_path = "documents"
 
-# Check if folder exists
 if not os.path.exists(folder_path):
     st.error(f"Error: Folder not found at {folder_path}")
     st.stop()
 
-# CSS styling
-st.markdown(
-    """
-    <style>
-    .centered-text { text-align: center; }
-    .search-result {
-        border: 2px solid #007BFF;  /* Blue border */
-        border-radius: 10px;
-        padding: 15px;
-        margin-bottom: 15px;
-        background-color: #f9f9f9;
-        text-align: left;
-        font-family: Arial, sans-serif;
-        word-wrap: break-word;
-    }
-    mark { background-color: #FFFF00; color: black; }
-
-    /* Style Streamlit input box */
-    div.stTextInput > label > div {
-        color: #007BFF;
-        font-weight: bold;
-    }
-    div.stTextInput > div > input {
-        border: 2px solid #007BFF;
-        border-radius: 5px;
-        padding: 8px;
-        width: 100%;
-        font-size: 16px;
-    }
-    </style>
-    """, unsafe_allow_html=True
-)
-
-# Header
-st.markdown('<h1 class="centered-text">VA Disability Search</h1>', unsafe_allow_html=True)
-
-# Search input with magnifying glass emoji
+# -----------------------------
+# Search Input
+# -----------------------------
 search_input = st.text_input("🔍 Enter the condition you are looking for")
 
+# -----------------------------
+# Search Logic
+# -----------------------------
 if search_input:
     search_phrase = search_input.strip()
     if not search_phrase:
@@ -66,10 +149,9 @@ if search_input:
         if not matching_files:
             st.warning("No files found with the given phrase.")
         else:
-            # Show "Found X files" in blue-framed box
             st.markdown(f"""
                 <div class="search-result">
-                    <strong>Found {len(matching_files)} files:</strong>
+                    <strong>Found {len(matching_files)} file(s):</strong>
                 </div>
             """, unsafe_allow_html=True)
 
@@ -78,7 +160,6 @@ if search_input:
                 with open(file_path, "r", encoding="utf-8") as f:
                     content = f.read()
 
-                # Highlight first 1000 characters
                 snippet = re.sub(
                     re.escape(search_phrase),
                     lambda m: f"<mark>{m.group(0)}</mark>",
@@ -94,7 +175,6 @@ if search_input:
                 """
                 st.markdown(html_content, unsafe_allow_html=True)
 
-                # Button to show full content
                 if st.button(f"Show full document: {file_name}", key=file_name):
                     full_content = re.sub(
                         re.escape(search_phrase),
@@ -103,3 +183,17 @@ if search_input:
                         flags=re.IGNORECASE
                     )
                     st.markdown(f'<div class="search-result">{full_content}</div>', unsafe_allow_html=True)
+
+# -----------------------------
+# Footer
+# -----------------------------
+st.markdown(
+    """
+    <div class="footer-text">
+    Disclaimer: This site indexes and displays excerpts from publicly available U.S. government documents (VA.gov).
+    No personal or private information is uploaded or stored. This tool is for informational use only and not a
+    substitute for legal or medical advice.
+    </div>
+    """,
+    unsafe_allow_html=True
+)
