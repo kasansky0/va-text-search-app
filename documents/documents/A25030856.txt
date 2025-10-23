@@ -1,0 +1,73 @@
+Citation Nr: A25030856
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240612-448948
+DATE: April 3, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea, as secondary to service-connected asthma, is granted.
+
+FINDING OF FACT
+
+The evidence is at least in approximate balance that the Veteran's obstructive sleep apnea was caused on a secondary basis by symptoms of and treatment for his primary service-connected asthma.
+
+CONCLUSION OF LAW
+
+Resolving reasonable doubt in the Veteran's favor, the criteria for service connection for sleep apnea, to include as secondary to service-connected asthma, are met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from October 1984 to February 1985 and from March 2009 to April 2010. This matter comes before the Board of Veterans' Appeals (Board) on appeal from a June 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the June 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+The Veteran's service connection claim was initially denied in a rating decision from October 2022. For the decision on appeal, the RO found that new and relevant evidence has been received to support readjudication of the Veteran's claim. Rating Decision, June 2024. The Board will not disturb that favorable finding. 38 C.F.R. § 3.104(c).
+
+As a final preliminary matter, the Board notes that the Veteran did not waive the remainder of his window to request a docket switch pursuant to Williams v. McDonough, 37 Vet. App. 305, slip op. (Jun. 21, 2024).  Because the current decision is a full grant of the the benefit sought, the lack of a waiver represents only harmless error by the Board.
+
+Service Connection
+
+Service connection can be granted on a secondary basis if a Veteran has (1) a current disability, (2) a separate disability already subject to service connection, and (3) the first disability is due to or the result of or aggravated by the service-connected disability. Allen v. Brown, 7 Vet. App. 439 (1995). 
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter (which includes but is not limited to equipoise), VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; see Lynch v. McDonough, 21 F.4th 776, 778 (Fed. Cir. 2021).
+
+Entitlement to service connection for obstructive sleep apnea, to include as secondary to service-connected asthma, is granted.
+
+The Veteran asserts that his sleep apnea is causally related to his service-connected asthma. The Board agrees.
+
+The RO has made favorable findings to the effect that (1) the medical evidence shows a current disability in the form of obstructive sleep apnea and (2) the Veteran's primary disability of asthma is service connected. Rating Decision, June 2024. The Board will not disturb those favorable findings. 38 C.F.R. § 3.104(c). Therefore, the Veteran has met the first two elements of secondary service connection for sleep apnea. See Allen, supra.
+
+The third element of secondary service connection generally requires medical evidence that shows the first disability is due to or the result of or aggravated by the primary service-connected disability. See id. After reviewing the medical evidence, the Board finds that the Veteran has met this final element and service connection must be granted.
+
+In June 2022, a private medical provider completed an etiological opinion to support the Veteran's claim. Medical Treatment Records - Nongovernment, May 2023. After examining the Veteran in-person and reviewing medical records, the provider gave the following opinion:
+
+"Researchers (Alkhali M; Schulman E; Getsy J. Obstructive Sleep Apnea Syndrome and Asthma: What Are the Links? J Clin Sleep Med 2009;[]5(1):71-78.) ha[ve] shown that asthma patients are almost 40% greater risk for sleep apnea than asthma-free patients. Asthma constricts bronchial airways due to inflammation. Data has shown that chronic or intermittent use of systemic steroids may increase upper airway collapsibility. Long term use of oral or inhaled bronchodilators causes the upper airway muscles to weaken resulting in impaired upper airway dilator muscle function. This is directly related to OSA, because sleep apnea is a state-dependent condition that is characterized by intermittent obstruction of the upper airway during sleep. When the muscles of the throat become weak because of asthma symptoms, there is a greater tendency for the throat to collapse causing obstruction of the airway. That is why people with OSA frequently wake up in the middle of the night gasping for air or choking in their own saliva."
+
+Upon review, the Board finds that the above opinion is well-explained, with clear reasoning and support from both the medical record and relevant medical literature. See Private Asthma Treatment Record, February 2017 (prescribing use of Symbicort, a steroidal inhalant, to treat asthma symptoms). Therefore, this opinion carries high probative weight to support the Veteran's claim. 
+
+In October 2022, the Veteran was afforded a VA examination to determine the nature and cause of his sleep apnea. The examiner acknowledged that "medical literature notes a link between bronchial Asthma and OSA. However, the literature did not provide concrete information and further research is needed to conclude the cause. Therefore, the claimed condition is less likely than not (less than 50 percent probability) proximately due to or the result of the Veteran's service connected condition."
+
+The Board notes that although this opinion is negative, the examiner's acknowledgement of "a link between bronchial Asthma and OSA" adds support to the private provider's positive nexus. Although the examiner stated that further research is needed, the private provider's medical literature and thorough explanation are sufficient to establish secondary causation on an at-least-as-likely-as-not basis. Therefore, the Veteran should receive benefit of the doubt that his sleep apnea was caused on a secondary basis by his service-connected asthma. See 38 C.F.R. § 3.102 ("By reasonable doubt is meant one which exists because of an approximate balance of positive and negative evidence which does not satisfactorily prove or disprove the claim"). 
+
+The RO obtained additional VA examinations which support denial of service connection on a secondary basis. See C&P Exam, March 2023 ("The obstructive sleep disorder is a separate entity entirely from the asthma and unrelated to it"); C&P Exam, October 2023 ("Asthma has not been known to be pathophysiologically linked to obstructive sleep apnea"); C&P Exam, October 2023 ("Respiratory conditions such as asthma ha[ve] not been shown to cause pathological changes of the upper pharyngeal airway leading to obstruction characteristic of OSA"). 
+
+An opinion from October 2023 is noteworthy for acknowledging that the Veteran "has other well-known risk factors that have been shown to be associated with obstructive sleep apnea, such as [his] BMI of 30, which is considered obese, and [his] prior smoking history, consuming 1 pack per day for 18 years. These risk factors more than likely caused the [V]eteran's obstructive sleep apnea since the[s]e risk factors have been shown to decrease the airway diameter of the upper pharyngeal airway through increased neck fat deposition and chronic inflammation of the respiratory mucosa leading to edema."
+
+The Board finds that this opinion is well-explained and supported by medical evidence in the record. Therefore, it carries a high degree of probative weight to support denial of the Veteran's claim. 
+
+As above, the private opinion from June 2022 (with support from the October 2022 examination) carries a high degree of probative weight in support of service connection. Because there are strong opinions to support both a grant and denial of service connection, the Board finds that the Veteran must receive benefit of the doubt in his favor.
+
+Therefore, service connection for obstructive sleep apnea, as secondary to service-connected asthma on a causation basis, is granted. As shown, the Veteran has received benefit of the doubt. See Lynch, supra. 
+
+ 
+
+Jenna Brant
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J.D. Shoup, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,79 @@
+Citation Nr: A25030977
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 201002-113836
+DATE: April 3, 2025
+
+REMANDED
+
+Entitlement to a rating higher than 10 percent for lumbar spine disability is remanded.
+
+Entitlement to a rating higher than 10 percent for right knee disability is remanded.
+
+Entitlement to a rating higher than 10 percent for right ankle disability is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active military service from August 1995 to November 1998.  His decorations include a Parachutist Badge, Air Assault Badge, and an Army Service Ribbon.
+
+These matters were previously before the Board of Veterans' Appeals (Board) in March 2024, at which time the Board denied entitlement to a disability rating higher than 10 percent for service-connected lumbar spine, right knee, and right ankle disabilities.  The Veteran appealed to the Court of Appeals for Veterans Claims (Court) in November 2024, and pursuant to a December 2024 Joint Motion for Remand (JMR), the Court vacated the March 2024 Board decision and remanded for action consistent with the terms of the JMR.
+
+Entitlement to a rating higher than 10 percent for lumbar spine disability is remanded.
+
+Entitlement to a rating higher than 10 percent for right knee disability is remanded.
+
+Entitlement to a rating higher than 10 percent for right ankle disability is remanded.
+
+The Veteran contends increased ratings are warranted for his service-connected lumbar spine (back), right knee, and right ankle disabilities.  Specifically, the Veteran contends his back disability warrants a 40 percent disability rating, his right knee disability warrants a 20 percent rating, and his right ankle disability warrants a 20 percent rating.  See October 2020, VA Form 10182.
+
+The parties to the December 2024 JMR agreed that the March 2024 Board decision erred in several regards.
+
+First, the JMR found the Board erred when it provided an inadequate statement of reasons or bases in violation of 38 U.S.C. § 7104(d)(1).  The parties agreed the Board failed to address all relevant evidence when adjudicating the appeal; to include independent medical examination results from March 2020 that discussed the severity of his lumbar spine, right knee, and right ankle disabilities.  
+
+Second, regarding the right knee disability, the JMR found that although the Board determined "joint stability tests are negative during the appeal period and there are no reports of falls to substantiate the Veteran's lay reports," the Board failed to address the Veteran's contentions in August 2016 that his right knee gives out and it has caused him to fall once every 2-3 months.  Additionally, the parties agreed that the Board erred when it relied on a lack of objective evidence to confirm instability when Diagnostic Code 5257 does not "speak to the type of evidence required and, thus, objective medical evidence [is not] required to establish lateral knee instability."  English v. Wilkie, 30 Vet. App. 347, 349 (2018).  Although the Board found the Veteran to be competent and credible to report knee instability, it found a separate instability rating was not warranted because he had not been diagnosed with meniscus or patellofemoral instability, nor has he been prescribed a knee brace, and, thus, his symptoms have not risen to the level to warrant a compensable, separate rating.
+
+Third, the JMR found that the Board erred when it failed to determine whether VA satisfied its duty to assist pursuant to 38 U.S.C. § 5103A and 38 C.F.R. § 3.159(c).  Specifically, the Veteran underwent VA examinations in September 2020 to assess his spine, knee, and ankle conditions.  However, it is unclear whether all the required testing was performed.  In each of the examinations, the physician noted that the Veteran did not experience pain with weight bearing or non-weight bearing but found that he did experience pain with movement.  As all movement testing must have been performed in either weight-bearing or non-weight bearing it is unclear how there could be pain with movement, but not in weight-bearing or non-weight bearing, or if all required testing was performed.
+
+Lastly, the parties agree that there are multiple references to the Gessler Clinic throughout the record, but it is unclear if VA obtained updated relevant records after 2007 or requested authorization to obtain these records. 
+
+After a review of the record, the Board finds that VA failed to satisfy its duty to assist pursuant to 38 U.S.C. § 5103A and 38 C.F.R. § 3.159(c).  Specifically, the September 2020 VA examinations are insufficient to determine whether an increased rating is warranted.  When VA undertakes to provide an examination or obtain an opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).  When a disability rating is based on limitation of motion, additional functional loss due to pain, such as weakness, lack of endurance or fatigability, on use, or during flare-ups, must be considered.  38 C.F.R. § 4.40; DeLuca v. Brown, 8 Vet. App. 202, 206 (1995).  Medical examiners should indicate whether and at what point during the range of motion that limitation of motion is specifically attributable to pain.  Mitchell v. Shinseki, 25 Vet. App. 32, 44 (2011).  
+
+For the lumbar spine disability, the September 2020 VA examiner determined that passive range of motion (ROM) could not be performed "as it is not feasible to do this in a safe and reasonable manner."  However, the examiner did not explain how that medical conclusion was reached.  Further, the Board finds the September 2020 examination insufficient, as the examiner noted there is no indication of pain on weight bearing or non-weight bearing, however, found pain in movement.  This is inconsistent because the pain must have been in either weight bearing or non-weight bearing.  Jones v. Shinseki, 23 Vet. App. 382, 392-94 (2010) (finding that the Board erred by relying on an internally inconsistent and thus inadequate medical opinion).  The medical examination is otherwise insufficient in that it did not address his contended flare-ups and associated functional loss.  The Veteran reported that he experiences flare-ups 10-15 times a month that last "hours," described as "twisting sharp pain" in the lower back and rated the pain at a 9/10.  However, the examiner only noted his examination was not being conducted during a flare up and the examination is medically inconsistent with his statements describing functional loss during a flare up because his examination showed no loss in active or passive range of motion.
+
+Likewise, the September 2020 VA examiner determined during the knee and ankle examinations that there is no indication of pain on weight bearing or non-weight bearing, but also reported that there was pain on motion.  This is inconsistent because the pain must have been in either weight bearing or non-weight bearing.  Id.  On remand, the examiner can specifically address the Veteran's contentions regarding right knee instability.
+
+Regarding the back, right knee, and right ankle disabilities, the March 2020 private report by Dr. R.A. Jr., is also insufficient to determine whether an increased rating is warranted.  The March 2020 non-comprehensive examination lacked the medical information necessary to accurately analyze whether increased ratings are warranted under the schedular criteria, to include all the range of motion testing required by VA regulation.  See Correia v. McDonald, 28 Vet. App. 158 (2016).  The private examination did not address/provide range of motion measurements for repetitive use, repeated use, or during flare-ups. 
+
+As such, there is insufficient medical evidence to determine whether a rating in excess of 10 percent is warranted for the Veteran's service-connected back, right knee, and right ankle disabilities.  Remand is warranted to cure the pre-decisional duty to assist errors identified above and provide the Veteran with an adequate examination.
+
+Remand is also necessary to cure the pre-decisional duty to assist error in not obtaining updated private treatment records from Gessler Clinic, although the Veteran had reported private treatment at that facility relevant to the claims on appeal.
+
+The matters are REMANDED for the following action:
+
+1. Obtain and associate with the file updated private treatment records from Gessler Clinic from 2007 forward (a VA Form 21-4142 for Gessler Clinic is contained in the file dated July 2007).
+
+2. Schedule the Veteran for a VA examination by an appropriate clinician to address the current severity of his service-connected lumbar spine, right knee, and right ankle disabilities.  The entire claims file, including a copy of the Court remand and Board remand must be reviewed.  
+
+The examiner is asked to:
+
+(a.) Provide a full description of the disabilities and report all signs and symptoms necessary for evaluating the Veteran's disability under the rating criteria.
+
+(b.) KNEE: Comment as to whether (and if so, to what extent (i.e., slight, moderate, or severe)) the Veteran's right knee disability results in recurrent subluxation or lateral instability.  The examiner should specifically address: (1) the Veteran's contentions of knee buckling, including his August 2016 contention that his right knee gives out and it has caused him to fall once every 2-3 months; and (2) the March 2020 private examination results that reported right knee instability on examination. Objective medical evidence is not required to establish lateral knee instability under Diagnostic Code 5257, so objective medical evidence cannot be categorically found more probative than lay evidence with respect to this Diagnostic Code.  See English, 30 Vet. App. at 352-53.
+
+(c.) BACK: In formulating any opinion, please specifically address the March 2020 medical examination results supplied by Dr. R.A. Jr., that reported the Veteran suffers from muscle spasms and abnormal gait due to his service-connected lumbar spine disability and his flexion was limited to 60 degrees on examination.
+
+(d.) ANKLE: In formulating any opinion, please specifically address the March 2020 medical examination results supplied by Dr. R.A. Jr., that reported the Veteran had 0 degrees of dorsiflexion (i.e., a 100 percent loss) and ankle instability.
+
+ 
+
+ 
+
+H.M. WALKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Johnson, Krista M. (BVA)
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

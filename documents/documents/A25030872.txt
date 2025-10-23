@@ -1,0 +1,73 @@
+Citation Nr: A25030872
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240501-437043
+DATE: April 3, 2025
+
+ORDER
+
+Entitlement to a 10 percent initial disability rating, but no higher, for service-connected asthma is granted, subject to the applicable regulations concerning the payment of monetary benefits.
+
+FINDING OF FACT
+
+Resolving reasonable doubt in the Veteran's favor, his asthma has resulted in a pre-bronchodilator FEV-1/FVC level of 76 percent, but without a showing of an FEV-1 of 56 to 70 percent predicted, FEV-1/FVC of 56 to 70 percent, or daily inhalational or oral bronchodilator therapy, an FEV-1 of 40 to 55 percent predicted, or FEV-1/FVC of 40 to 55 percent, or at least monthly visits to a physician for required care of exacerbations, or intermittent (at least 3 times per year) course of systemic (oral or parenteral) corticosteroids, or an FEV-1of less than 40 percent predicted, or FEV-1/FVC less than 40 percent, or more than 1 attack per week with episodes of respiratory failure, or requires daily use of systemic (oral or parenteral) high dose corticosteroids or immunosuppressive medications.
+
+CONCLUSION OF LAW
+
+The criteria for a 10 percent initial disability rating, but no higher, for asthma have been met. 38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.96, 4.97, Diagnostic Code 6602.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 2004 to January 2009.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a September 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office.
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Increased Rating
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities, found in 38 C.F.R., Part 4. The rating schedule is primarily a guide in the evaluation of disability resulting from all types of diseases and injuries encountered as a result of or incident to military service. The ratings are intended to compensate, as far as can practicably be determined, the average impairment of earning capacity resulting from such diseases and injuries and their residual conditions in civilian occupations. 38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating. 38 C.F.R. § 4.7.
+
+1. Entitlement to an initial compensable disability rating for service-connected asthma
+
+The Veteran seeks a compensable rating for his service-connected asthma. See May 2024 VA Form 10182. He stated that service connection was granted for asthma but there was no percentage change to his overall disability rating. Id. In that regard, the Board notes, although the Veteran was granted service connection for asthma, the September 2023 rating decision resulted in the same compensation at the same combined rating because the Veteran was awarded a noncompensable, or zero percent, rating for his service-connected asthma. See September 2023 rating decision. Thus, an increase in his overall combined disability rating was not possible.
+
+Nevertheless, the Board will consider whether a compensable rating is warranted at any time during the appeal period. 
+
+The Veteran's asthma is rated under Diagnostic Code 6602, which rates the severity of pulmonary disorders based primarily on objective numerical results of pulmonary function testing (PFT). 
+
+Asthma is evaluated using the following tests: (1) Forced Expiratory Volume in one second (FEV-1) and (2) the ratio of FEV-1 to Forced Vital Capacity (FEV-1/FVC). See 38 C.F.R. § 4.97. 
+
+Under Diagnostic Code 6602, a 10 percent evaluation is warranted for FEV-1 of 71 to 80 percent predicted, FEV-1/FVC of 71 to 80 percent, or intermittent inhalational or oral bronchodilator therapy. A 30 percent disability evaluation is assigned where there is FEV-1 of 56 to 70 percent predicted, FEV-1/FVC of 56 to 70 percent, or daily inhalational or oral bronchodilator therapy. A 60 percent rating is assigned for an FEV-1 of 40 to 55 percent predicted, or FEV-1/FVC of 40 to 55 percent, or at least monthly visits to a physician for required care of exacerbations, or intermittent (at least 3 times per year) course of systemic (oral or parenteral) corticosteroids. A maximum 100 percent rating is assigned under Diagnostic Code 6602 for bronchial asthma with an FEV-1of less than 40 percent predicted, or FEV-1/FVC less than 40 percent, or more than 1 attack per week with episodes of respiratory failure, or requires daily use of systemic (oral or parenteral) high dose corticosteroids or immunosuppressive medications. 38 C.F.R. § 4.97, Diagnostic Code 6602.
+
+Pulmonary function test results are generally reported before and after the administration of bronchodilator therapy. VA regulations instruct that post-bronchodilator results be used when considering PFT criteria for ratings under Diagnostic Codes 6600, 6603, 6604, 6825-6833, and 6840-6845. 38 C.F.R. § 4.96 (d)(4). There are no regulations identifying whether pre- or post-bronchodilator results should be used when determining disability ratings under Diagnostic Code 6602, as 38 C.F.R. § 4.96(d)(4) does not explicitly apply to Diagnostic Code 6602.
+
+The Veteran was afforded a VA respiratory examination in July 2023. The Veteran reported that he uses an albuterol inhaler, taking two puffs, about four to five times per day, which he was prescribed. However, the available medical records do not show that the Veteran was prescribed an inhaler, or any other medication for his asthma. Indeed, a November 2022 VA treatment record shows that no current outpatient medications were found. The VA examiner noted that the Veteran's asthma did not require the use of oral corticosteroids, parenteral corticosteroid medications, inhaled medications, or oral bronchodilators. The Veteran did not have any asthma attacks with episodes of respiratory failure in the past 12 months. He did not have exacerbations of his asthma. PFT testing showed pre-bronchodilator FVC at 97 percent predicted, FEV-1 at 90 percent predicted, and FEV-1/FVC was 76 percent predicted. The examiner indicated that FVC most accurately represents the Veteran's level of disability and noted that post-bronchodilator testing was not completed because pre-bronchodilator results were normal.
+
+As noted above, a 10 percent rating requires evidence of FEV-1 of 71 to 80 percent predicted; FEV-1/FVC of 71 to 80 percent; or intermittent inhalational or oral bronchodilator therapy.
+
+Based on the July 2023 PFT test results and resolving reasonable doubt in favor of the Veteran, the Board finds that the Veteran's asthma manifested itself through symptomatology including PFT FEV-1/FVC predicted values of 76 percent, corresponding to a 10 percent rating under Diagnostic Code 6602. 
+
+The July 2023 PFT is the only PFT testing of record. As the testing does not reflect that the Veteran demonstrated an FEV-1 of 56 to 70 percent predicted, FEV-1/FVC of 56 to 70 percent, or daily inhalational or oral bronchodilator therapy, an FEV-1 of 40 to 55 percent predicted, or FEV-1/FVC of 40 to 55 percent, or at least monthly visits to a physician for required care of exacerbations, or intermittent (at least 3 times per year) course of systemic (oral or parenteral) corticosteroids, or an FEV-1of less than 40 percent predicted, or FEV-1/FVC less than 40 percent, or more than 1 attack per week with episodes of respiratory failure, or requires daily use of systemic (oral or parenteral) high dose corticosteroids or immunosuppressive medications during the appeal period, an initial rating in excess of 10 percent is not warranted.  
+
+Accordingly, the functional impairment resulting from the Veteran's service-connected asthma most nearly approximates the criteria for a 10 percent initial disability rating, but no higher, under 38 C.F.R. § 4.97, Diagnostic Code 6602 for the entire appeal period. See 38 C.F.R. § 4.7. Therefore, an increased 10 percent rating for the Veteran's service-connected asthma, but no higher, is granted.
+
+ 
+
+ 
+
+Scott W. Dale
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Aston, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,91 @@
+Citation Nr: A25030028
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240515-440410
+DATE: April 1, 2025
+
+REMANDED
+
+Entitlement to service connection for a low back disability, including as secondary to service connected bilateral knee and/or bilateral hip disabilities, is remanded.
+
+Entitlement to service connection for benign paroxysmal positional vertigo (BPPV), including as secondary to tinnitus and/or bilateral hearing loss, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from August 1976 to August 1979, April 2002 to August 2002, and October 2009 to January 2010.
+
+The February 2024 rating decision on appeal, which denied entitlement to service connection for BPPV constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In October 2023 the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of entitlement to service connection for a low back disability most recently addressed in a June 2014 Board decision.  In March 2024, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision.  
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the February 2024 (BPPV) and March 2024 (low back) agency of original jurisdiction (AOJ) decisions on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+Applicable Legal Principles 
+
+Under the provisions of the AMA, the Board must remand any appeal that cannot be granted in full for correction of a pre-decisional duty-to-assist error.  38 C.F.R. § 20.802(a).
+
+VA also has a duty to ensure any medical examination or opinion it provides is adequate.  Barr v. Nicholson, 2 Vet. App. 303, 312 (2007) (overruled on other grounds, Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013)). A medical opinion is adequate where it is based upon consideration of the full medical history and describes a disability in sufficient detail so that the Board's evaluation will be fully informed. Stefl v. Nicholson, 21 Vet. App. 120, 123 (2007).
+
+Service connection is warranted for a disability which is proximately due to or the result of service-connected disease or injury.  38 C.F.R. § 3.310(a).  Secondary service connection under 38 C.F.R. § 3.310(a) is warranted where a non-service-connected disability would have been less severe but for a service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability.  See Spicer v. McDonough, 61 F.4th 1360, 1364-66 (2023).  A secondary service connection opinion which addresses a causal relationship, but which does not address the question of aggravation, is inadequate.  Causation and aggravation are independent concepts and should have separate findings and rationales.  See El-Amin v. Shinseki, 26 Vet. App. 136, 139-41 (2013); Atencio v. O'Rourke, 30 Vet. App. 74 (2018).  When a VA examiner opines on secondary service connection, the examiner must directly address whether the service-connected disability or disabilities aggravated any functional impairment associated with the non-service-connected disability.
+
+The Veteran is considered to have participated in a toxic exposure risk activity (TERA) based on his military occupational specialties (MOSs) during service.  The Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxins Act of 2022 (PACT Act) provides that, if a veteran submits a claim for service connection with evidence of disability and evidence of participation in a TERA, then VA shall obtain a medical opinion as to whether it is at least as likely as not that there is a nexus between the disability and the TERA, unless certain exceptions apply, including when the claim is based on a physical trauma.  38 U.S.C. § 1168.  
+
+1. Entitlement to service connection for a low back disability, including as secondary to service connected bilateral knee and bilateral hip disabilities, is remanded.
+
+The Veteran seeks service connection for a low back disability.  The March 2024 rating decision now on appeal included favorable findings that new and relevant evidence had been received to warrant readjudication of the previously denied claim; service connection has been granted for bilateral knee and bilateral hip disabilities; and a current back disability is diagnosed.  These favorable findings are binding of the board.  See 38 U.S.C. § 5104A ; 38 C.F.R. § 3.104(c).
+
+The Veteran asserts he experienced back and hip pain as he compensated for pain associated with his service connected knee disabilities.  In April 2023 and September 2023 statements, he explained that he "would shift the burden to [his] hip and back" while walking with knee pain.  A May 2023 rating decision granted service connection for bilateral hip disabilities.  Accordingly, the Veteran's assertions include a claim for a back disability secondary to both bilateral knee and bilateral hip disabilities.       
+
+In January 2024, a VA back conditions examination was provided.  The examiner opined a lower back disability was less likely than not proximately due to the service connected left knee disability.  In support he stated there was no "orthopedic literature to suggest that an injury to one joint would have any significant impact on another joint or limb unless the injury resulted in a major muscle or nerve damage causing partial or complete paralysis or shortening of the injured limb resulting in length discrepancy of more than 5 [centimeters] so that the individual's gait pattern has been altered to the extent that clinically there is an obvious Trendelenburg gait."  He also stated, "one joint's disease does not 'spread' to another or cause damage to it."  The examiner limited his opinion to whether the left knee caused the back disability.  He did not discuss whether the bilateral knee and/or hip disabilities caused the back disability or whether the service connected disabilities aggravated the back condition.  The January 2024 opinion is inadequate.    
+
+In March 2024, an addendum opinion was obtained.  The examiner reviewed the records and stated a back disability of multilevel degenerative disc disease had been diagnosed by x-rays in July 2023.  She opined the back disability was less likely than not proximately due to the service connected right knee disability.  In support she stated disc degeneration is correlated with increased age.  She explained that recent research showed genetic components were associated with disc disease and contemporary etiology theories indicated environmental factors were "minor contributors to disease onset."  She discussed smoking, economic factors, and occupational exposures as potential contributors to disc disease and concluded the Veteran's right knee disability was not a causative factor for his back disability.  This opinion was limited to the right knee only, it did not address weight shifting with walking due to bilateral knee and bilateral hip pain, and it did not include any discussion of aggravation.  The opinion is inadequate.  
+
+The failure to obtain an adequate etiology opinions is a pre-decisional duty to assist error.  The claim must be remanded to correct the error.  38 C.F.R. § 20.802(a).  However, as the Veteran claims his back condition is due to physical trauma (weight shifting with walking due to other joint conditions) a TERA examination is not required.  Id.
+
+2. Entitlement to service connection for benign paroxysmal positional vertigo (BPPV), including as secondary to tinnitus and/or bilateral hearing loss, is remanded.
+
+The Veteran seeks service connection for vertigo.  The February 2024 rating decision now on appeal included favorable findings that BPPV is diagnosed; service connection for tinnitus, a primary disability is established; and in-service participation in a TERA is conceded.  These favorable findings are binding on the Board.  See 38 U.S.C. § 5104A ; 38 C.F.R. § 3.104(c).  The Board further notes a September 2023 VA Memorandum concedes the Veteran's in-service risk of toxic exposure from spraying chemicals while he was attached to a civil engineering squad.  A May 2024 VA Memorandum concedes the Veteran's in-service exposure to noise, fuels from transport, and fuels from equipment.  In April 2023, the Veteran asserted his dizziness was secondary to his service connected bilateral hearing loss disability.  In an October 2023 statement, he asserted his personal physicians told him his tinnitus caused his vertigo disability.  
+
+An April 2023 VA ear conditions examination was provided to evaluate the claim.  The examiner diagnosed BPPV.  She opined the condition was less likely than not proximately due to hearing loss or tinnitus.  In support she noted tinnitus was onset in 1979, but BPPV did not develop until December 2020.  She stated, without additional supporting rationale, that tinnitus and hearing loss were not associated with BPPV.  The opinion as to causation is inadequate because it not supported by a sufficient rationale.  It is additionally inadequate because it does not address aggravation.  
+
+In November 2023, a TERA opinion was obtained.  The clinician noted vertigo is commonly an inner ear balance problem, but it can also be caused by "problems in certain parts of the brain."  It is generally not caused by chemical exposure.  The opinion is conclusory in nature and does not discuss the potential effect of fuel and chemical exposure on the brain or inner ear.  It is inadequate to evaluate the claim.  The claim for service connection for BPPV, including as secondary to tinnitus or bilateral hearing loss or as due to the conceded in-service TERAs must be remanded to obtain adequate etiology opinions.  38 C.F.R. § 20.802(a).  
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion from an appropriate clinician regarding whether the Veteran's low back disability is at least as likely as not (at least an approximate balance of the positive and negative evidence) proximately due to his service connected bilateral knees and/or bilateral hip disabilities OR aggravated by his service connected bilateral knees and/or bilateral hip disabilities.  The examiner must fully address the Veteran's contention that, because of pain associated with the service connected disabilities, he shifted a burden to his back while walking.
+
+The opinion provided must explicitly address both causation and aggravation to be deemed adequate, acknowledging these are separate inquires that require different rationales.  In this context, the examiner must be advised aggravation means any increase in disability, i.e., additional functional impairment in earning capacity, resulting from the secondarily claimed condition due to the primary disability.  There is no requirement that such increase be permanent in nature.  An opinion that simply states there is no anatomical or biological connection between the conditions without addressing whether there is additional functional impairment in earning capacity will be deemed insufficient to facilitate an informed decision on the Veteran's claim.
+
+Any opinion provided must be supported by a complete rationale.  
+
+If the clinician determines that an additional examination is needed to provide the requested opinions, schedule an examination.
+
+2. Obtain an addendum opinion as to whether the Veteran's BPPV is at least as likely as not (at least an approximate balance of the positive and negative evidence) etiologically related to his conceded TERAs (September 2023 and May 2024 VA Memorandums).  The examiner must address the synergistic, combined effect of all of the Veteran's TERAs and any potential toxic exposures from his MOS duties generally.  
+
+Any opinion provided must be supported by a complete rationale. 
+
+If a positive opinion is not provided based on the Veteran's in-service TERAs, obtain an addendum opinion from an appropriate clinician regarding whether the Veteran's BPPV is at least as likely as not (at least an approximate balance of the positive and negative evidence) proximately due to his service connected tinnitus and/or bilateral hearing loss disabilities OR aggravated by his service connected tinnitus and/or bilateral hearing loss disabilities.  
+
+The opinion provided must explicitly address both causation and aggravation to be deemed adequate, acknowledging these are separate inquires that require different rationales.  In this context, the examiner must be advised aggravation means any increase in disability, i.e., additional functional impairment in earning capacity, resulting from the secondarily claimed condition due to the primary disability.  There is no requirement that such increase be permanent in nature.  An opinion that simply states there is no anatomical or biological connection between the conditions without addressing whether there is additional functional impairment in earning capacity will be deemed insufficient to facilitate an informed decision on the Veteran's claim. 
+
+Any opinion provided must be supported by a complete rationale.
+
+If clinician determines the requested opinions cannot be provided without an additional examination, schedule an examination.
+
+ 
+
+ 
+
+M. HYLAND
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jeanne Celtnieks
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

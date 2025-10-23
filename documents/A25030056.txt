@@ -1,0 +1,95 @@
+Citation Nr: A25030056
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240515-442416
+DATE: April 1, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+Entitlement to service connection for sleep disturbances is remanded.
+
+REASONS FOR REMAND
+
+The appellant had active service in the United States Marine Corps from August 1998 to August 2002.  
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from a February 2024 rating decision of the Department of Veterans Affairs' (VA) Veterans Benefits Administration (the agency of original jurisdiction (AOJ)), which denied service connection for both OSA and sleep disturbances.  In May 2024, the appellant submitted a notice of disagreement (NOD), via VA Form 10182, appealing those decisions to the Board, and requesting Direct Review by a Veterans Law Judge.  
+
+Evidentiary Window
+
+When an appellant selects the Direct Review Docket, the Board may only consider the evidence of record before the AOJ at the time of its decision on the issue(s) on appeal. See 38 C.F.R. §§ 20.300(a), 301. However, because the Board is remanding the claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Under the Appeals Modernization Act (AMA), VA's duty to assist ends when VA issues the notice of decision on a claim or returned claim and does not recommence unless a supplemental claim is submitted, or a claim is returned to the AOJ for correction of an error. 38 U.S.C. § 5103A(e); 38 C.F.R. § 3.159(c). 
+
+Given the limitations of when the duty to assist applies, remand by the Board in the AMA is proper for correction of (1) duty to assist errors occurring prior to the date of the AOJ decision on appeal (i.e., pre-decisional duty to assist errors); and (2)?AOJ errors in satisfying a regulatory or statutory duty, if correction of such error would have a reasonable possibility of aiding in substantiating the appellant's claim. 38?C.F.R. §?20.802(a).
+
+While additional delay is regrettable, remand is necessary in order to correct a pre-decisional duty to assist error.
+
+1. Entitlement to service connection for OSA is remanded.
+
+The appellant contends that his OSA had its onset during service, after returning from his deployment. See VA Fully Developed Claim, May 19, 2023; VA Form 21-4138, May 21, 2023.  In the February 2024 rating decision, the AOJ favorably found the appellant's service in Yemen confirmed his participation in a toxic exposure risk activity (TERA). Favorable findings made by the AOJ are generally binding on the Board, unless rebutted by evidence that identifies a clear and unmistakable error in the favorable finding.  See 38 U.S.C. § 5104A; 38 C.F.R. §§ 3.104(c); 20.801(a).  Such evidence is not present in this case.
+
+In September 2023, the appellant was afforded a VA examination, and a VA TERA medical opinion was obtained. See VA OSA Disability Benefits Questionnaire (DBQ), September 1, 2023; VA Medical Opinion DBQ, September 1, 2023. Unfortunately, the September 2023 examination is inadequate for rating purposes because the clinician noted that the examination was conducted of the appellant's records only and made no mention of the appellant and buddy lay statements of record. See VA OSA DBQ, September 1, 2023. The clinician opined that the claimed condition was less likely used by the indicated toxic exposure risk activity(ies), after considering the total potential exposure through all applicable military deployments of the appellant and the synergistic, combined effect of all toxic exposure risk activities of the appellant. See VA Medical Opinion DBQ, September 1, 2023. Unfortunately, the TERA opinion is inadequate for rating purposes because although the clinician noted common risk factors for OSA, there was no discussion on the relevancy to the appellant's case. Additionally, although the clinician noted that the appellant "has a deviated septum which more likely than not contributing to veteran's OSA rather than any toxic exposure," there was no discussion on when the appellant's deviated septum was diagnosed and how the clinician reached the conclusion provided. The AOJ's reliance on the inadequate examination and inadequate opinion are pre-decisional duty to assist errors. 38?C.F.R. §?20.802(a).
+
+In February 2024, the appellant was afforded a new VA examination. See VA OSA DBQ, February 5, 2024. The clinician noted that snoring and gasping had its onset in 2001. Id. Although the appellant reported currently experiencing daytime tiredness, the clinician indicated that there was no findings, signs, or symptoms attributable to OSA. Id. This examination report is inadequate for rating purposes because it does not contain sufficient detail and contains contradictory findings. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008) (noting "[I]nadequate medical examinations include examinations that contain only data and conclusions, do not provide an etiological opinion, are not based upon a review of medical records, or provide unsupported conclusions").  The AOJ's reliance on the inadequate examination and inadequate opinion are pre-decisional duty to assist errors. 38?C.F.R. §?20.802(a). No medical opinions were obtained in connection with this examination. 
+
+Once VA provides an examination, it must be adequate, or VA must notify the Veteran why one will not or cannot be provided. Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).  An examination is adequate if it considers the records of prior medical treatment, so that the evaluation of the claimed disability will be a fully informed one. Barr, 21 Vet. App. at 311 (quoting Green v. Derwinski, 1 Vet. App. 121, 124 (1991)). Moreover, an examination must be based upon consideration of the Veteran's prior medical history and examinations. Stefl v. Nicholson, 21 Vet. App. 120, 123 (2007). The Secretary has an affirmative duty to gather the evidence necessary to render an informed decision on a claim. Douglas v. Shinseki, 23 Vet. App. 19 (2009).  
+
+Another pre-decisional duty to assist error committed by the AOJ, was the failure to obtain a direct service connection opinion. 38?C.F.R. §?20.802(a).
+
+Based on the foregoing, remand is required in order to allow the AOJ to correct the identified pre-decisional duty to assist errors. 
+
+2. Entitlement to service connection for sleep disturbances is remanded.
+
+The appellant contends that he experiences sleep disturbances that began during service after returning from deployment. See VA Fully Developed Claim, May 19, 2023; VA Form 21-4138, May 21, 2023.
+
+Although sleep disturbances are not among the diseases presumptively associated with toxic exposures, direct service connection may still be available. See Combee v. Brown, 34 F.3d 1039 (Fed. Cir. 1994). Moreover, respiratory diseases are among those associated with toxic exposures, and sleep disturbances may have a respiratory etiology. See 38 C.F.R. § 4.97, Diagnostic Code 6847.
+
+Here, there is evidence indicating symptoms of a current disability, an in-service exposure event, and a possible nexus linking the disability and exposure. However, there is not enough evidence to decide the claim. Accordingly, VA's duty to provide the appellant an examination and obtain a medical opinion have been triggered. See McLendon v. Nicholson, 20 Vet. App. 79, 81-83 (2006). 
+
+The AOJ's failure to obtain an opinion addressing the appellant's contention is a pre-decisional duty to assist error. 38 C.F.R. § 20.802(a).
+
+Based on the foregoing, remand is required in order to allow the AOJ to correct the identified pre-decisional duty to assist error. 
+
+The matters are REMANDED for the following action:
+
+1. Schedule the appellant for an examination with an appropriate clinician, who has not previously examined the clinician or provided an opinion in this appeal, to determine the nature and likely etiology of the appellant's OSA. The claims file must be made available to and reviewed by the examiner. Any indicated tests and studies must be performed.
+
+Based on the examination results and review of the record, the clinician must provide an opinion as to whether it is likely (at least an approximate balance of positive and negative evidence) that the appellant's OSA had its onset during the appellant's service or is otherwise etiologically related to his military service. 
+
+In forming the opinion, the clinician must consider and discuss the relevance of the appellant's lay statements regarding onset and continuity of symptoms since service. An opinion based on the absence of treatment records without consideration of a veteran's competent lay statements is inadequate. Dalton v. Nicholson, 2 1 Vet. App. 2 3, 39-40 (2007); Smith v. Wilkie, 32 Vet. App. 3 32, 340 (2020). The Board does not intimate any opinion regarding the credibility of the appellant's lay statements at this time.
+
+Any opinion expressed by the clinician should be accompanied by a complete rationale. If medical literature is relied upon in rendering a determination, the clinician should identify and specifically cite each reference utilized. If the clinician is unable to offer an opinion without resort to speculation, a thorough explanation as to why an opinion cannot be rendered should be provided.
+
+2. Schedule the appellant for an examination with the appropriate clinician to determine the nature and likely etiology of the appellant's claimed sleep disturbances. The claims file should be available to the clinician. Any necessary testing should be performed.
+
+The clinician is asked to address the following:
+
+(a) Diagnose all current disabilities manifested by sleep disturbances.
+
+(b) For each disability diagnosed in subpart (a), opine as to whether it is likely (at least an approximate balance of positive and negative evidence) that such disability had its onset during or is otherwise etiologically related to the appellant's service, to include conceded TERA.
+
+The clinician should consider:
+
+(1) the total potential exposure through all applicable non-deployment related exposure of the appellant; and
+
+(2) the synergistic, combined effect of all TERAs of the appellant.
+
+A complete rationale for the clinician's opinion should be provided, citing to specific evidence of record, as necessary. If the clinician cannot provide an opinion without resort to speculation, the clinician must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), a deficiency in the record (additional facts are required), or the examiner (does not have the knowledge or training).
+
+If the inability to provide an opinion without resorting to speculation is due to a deficiency in the record (additional facts are required), the AOJ should develop the claim to the extent it is necessary to cure any such deficiency. If the inability to provide an opinion is due to the clinician's lack of requisite knowledge or training, then the AOJ should obtain an opinion from a medical professional who has the knowledge and training needed to render such an opinion.
+
+3. Thereafter, readjudicate the claims.
+
+ 
+
+K.A. KENNERLY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. Camille NeSmith, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

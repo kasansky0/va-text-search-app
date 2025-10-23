@@ -1,0 +1,63 @@
+Citation Nr: A25030859
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240116-408374
+DATE: April 3, 2025
+
+REMANDED
+
+Entitlement to service connection for asthma is remanded.
+
+REASON FOR REMAND
+
+The Veteran served on active duty in the Marine Corps from June 1991 to August 1991, from June 1992 to September 1992, and from April 2007 to September 2007, and in the Navy from January 21, 2009 to January 31, 2009 and from April 2010 to September 2010.  
+
+In December 2023, the Veteran submitted a VA Form 0996 Request for Higher Level Review (HLR) to a November 2023 rating decision under the modernized appeals system known as the Appeals Modernization Act (AMA).  During HLR, development error was discovered and the claim was assigned to the supplemental review lane on December 15, 2023 for additional development.  The subsequent decision was rendered in a January 2024 rating decision.  
+
+In January 2024, the Veteran submitted a VA Form 10182, Decision Review Request: Board Appeal, and requested the AMA direct docket review.  Under the rules of the AMA, the Board's review is limited to the evidence associated with the claims file as of the date of the January 2024 rating decision on appeal.  38 C.F.R. § 20.301.
+
+Entitlement to service connection for asthma.
+
+The Veteran contends his currently diagnosed asthma is related to service.
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1131, 5107; 38 C.F.R. § 3.303.  Generally, service connection requires three elements: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Sheddon v. Principi, 381 F.3d. 1163, 1166-67 (Fed. Cir. 2004).  Service connection may also be granted for any disease diagnosed after discharge when the evidence establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+In deciding the Veteran's claim, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the Veteran prevailing in either event; or whether the persuasive evidence is against the claim, in which case the claim is denied.  38 U.S.S. § 5107; Gilbert v. Derwinski, 1 Vet. App. 49, 53-56 (1990).  When there is an approximate balance of positive and negative evidence regarding any issue material to the determination, the benefit of the doubt is afforded the claimant.
+
+The record reflects the Veteran has a diagnosis of asthma during the pendency of the appeal.  The Board notes the Veteran has other diagnoses of the upper respiratory system, such as bronchitis and allergic rhinitis.  However, as the Veteran's claim is specifically for asthma, the Board will not address the other diagnoses of the upper respiratory system in this claim and decision.  
+
+The January 2024 rating decision made the favorable finding that evidence shows a qualifying event, injury, or disease had its onset during service, and that private treatment records from G.M., DO, dated August 21, 2007 (this is a period of active duty) show treatment for bronchospasm.  The Board is bound by this favorable finding.  However, upon review, this specific medical notation further notes that the bronchospasm has apparently resolved; given the history, the patient will be scheduled for pulmonary function studies performed pre and post bronchodilator therapy, and; any recurrence of wheezing or bronchospasm should be reported to this office.  See VBMS, document labeled Medical Treatment Record- Non-Government Facility, receipt date 9/12/2023, pages 21-22 of 49.
+
+Upon review of the Veteran's service treatment records (STRs), there is additional documentation of a January 27, 2009 pre-deployment health assessment, where the final medical disposition of the Veteran was "not deployable", that also notes the Veteran has bronchospasm, which requires ongoing medications and as needed use of rescue inhaler 2-4 times monthly.  See VBMS, document labeled STR- Medical, receipt date 6/28/2017, page 135 of 225.  Given the aforementioned, the second element required for service connection has been met.
+
+The Board notes there are two Toxic Exposure Risk Activity (TERA) Memos in the Veteran's claims file.  The first one from September 2023 notes there is evidence of non-deployment related exposure, which is consistent with the Veteran's service.  Specifically, one of his DD-214s notes the Veteran's MOS as basic Marine, admin clerk.  The Board notes the MOS of admin clerk is not one usually associated with TERA.  Furthermore, the TERA Memo did not specifically indicate exactly what type of TERA exposure the Veteran experienced during his MOS of admin clerk.  However, there is a second TERA Memo from October 2023, which notes the Veteran did not participate in TERA.  Given the nature and order of the two memos, the Board finds that the second latter memo negates the TERA exposure found in the first September 2023 memo.  
+
+The Veteran has been afforded VA medical examinations to determine the nature and etiology of his asthma disability.  In November 2023, the examiner provided a negative nexus medical opinion.  Specifically, the examiner explained that the condition of asthma is less likely than not incurred in or caused during service, and that though the Veteran reported symptoms related to asthma and medical literature supports the effects of military duty on the body, there is no evidence in the records that can support the condition beginning during service.  In January 2024, the medical examiner also provided a negative nexus medical opinion and explained that they see no evidence in the STRs to show that the Veteran suffered from asthma in service.  However, both examiners did not adequately address the documentation in the Veteran's STRs as to his symptoms of bronchospasms during service, nor his use of a rescue inhaler.  Thus, a remand is necessary.    
+
+The matter is REMANDED for the following action:
+
+1. Obtain an addendum opinion addressing the etiology of the Veteran's asthma disability.  The examiner is requested to review the pertinent records in the claims file and render to obtain a medical opinion on the following question:
+
+(a.) Is it at least as likely as not that the Veteran's asthma disability is related to his service?
+
+The examiner is requested to review the following:
+
+See VBMS, document labeled Medical Treatment Record- Non-Government Facility, receipt date 9/12/2023, pages 21-22 of 49 (from G.M., DO, dated August 21, 2017, noting the Veteran shows treatment for bronchospasm and that it has apparently resolved.  Given the history, the patient will be scheduled for pulmonary function studies performed pre and post bronchodilator therapy.  Any recurrence of wheezing or bronchospasm should be reported to this office).
+
+See VBMS, document labeled STR- Medical, receipt date 6/28/2017, page 135 of 225 (January 27, 2007, pre-deployment health assessment, where the final medical disposition of the Veteran was "not deployable", that also notes the Veteran has bronchospasm, which requires ongoing medications and PRN use of rescue inhaler 2-4 times monthly).  
+
+The examiner is asked to explain the reasons behind any opinions expressed and conclusions reached. The examiner is reminded that the term "as likely as not" does not mean "within the realm of medical possibility," but rather that the likelihood is at least approximately balanced or nearly equal, if not higher.
+
+ 
+
+ 
+
+Bethany L. Buck
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	R. Smith, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

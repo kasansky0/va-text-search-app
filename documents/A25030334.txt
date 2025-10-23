@@ -1,0 +1,81 @@
+Citation Nr: A25030334
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 250218-518077
+DATE: April 2, 2025
+
+ORDER
+
+An initial evaluation in excess of 50 percent for obstructive sleep apnea (OSA) is denied.
+
+REMANDED
+
+Entitlement to a total disability rating based upon individual unemployability (TDIU) based on OSA alone is remanded.
+
+Entitlement to special monthly compensation (SMC) at the housebound rate is remanded.
+
+FINDING OF FACT
+
+The Veteran's service connected OSA requires the use of a continuous positive airway pressure (CPAP) machine; it does not manifest in chronic respiratory failure or cor pulmonale or the necessity for a tracheostomy. 
+
+CONCLUSION OF LAW
+
+The criteria for an initial evaluation in excess of 50 percent for obstructive sleep apnea (OSA) are not met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.400, 4.1, 4.2, 4.6, 4.7, 4.10, 4.15, 4.97, Diagnostic Code (DC) 6847
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty service from December 1968 to July 1970.
+
+The rating decision on appeal was issued in February 2024 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies. 
+
+In September and November 2023, the Veteran submitted VA Forms 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of entitlement to TDIU and an increased initial rating for OSA, most recently addressed in the September and November 2022 rating decisions, respectively. In February 2024, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and granted TDIU but denied the increased initial evaluation for OSA claim based on the evidence of record at the time of that decision. Therefore, the Board may only consider the evidence of record at the time of the February 2024 decision on appeal.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. §3.2501. If the evidence is new and relevant, VA will issue another decision on the corresponding claim, considering the new evidence in addition to the evidence previously considered. Specific instructions for filing a Supplemental Claim are included herein.
+
+Increased Rating
+
+VA's percentage ratings are based on the average impairment of earning capacity as a result of service-connected disability. 38 U.S.C. §1155; 38 C.F.R. §4.1.  If two disability evaluations are potentially applicable, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating; otherwise, the lower rating will be assigned. 38 C.F.R. §4.7. All reasonable doubt will be resolved in favor of the claimant.  38 C.F.R. §4.3.
+
+This decision will focus on the evidence pertinent to the rating criteria and disability severity during the relevant period on appeal, but the Board has considered the entire record to have a full picture of the disability.  See 38 C.F.R. §§4.1, 4.2, 4.41; Gonzales v. West, 218 F. 3d 1378 (Fed. Cir. 2000).
+
+Increased initial evaluation of OSA 
+
+The Veteran contends that he is entitled to an initial evaluation in excess of 50 percent for OSA. See February 2025 Notice of Disagreement. The Veteran was service connected at a 50 percent disability rating for OSA, effective April 29, 2021. See November 2022 Rating Decision. Therefore, the question before the Board is whether he is entitled to the next and maximum initial evaluation of 100 percent.
+
+A 50 percent rating under DC 6847 requires use of a breathing assistance device such as continuous airway pressure (CPAP) machine. A maximum 100 percent rating, which requires chronic respiratory failure with carbon dioxide retention or cor pulmonale or requires tracheostomy. See 38 C.F.R. 4.97.
+
+A December 2023 VA examiner opined that the Veteran's OSA manifested in persistent daytime hypersomnolence. The examiner also noted that the Veteran had been prescribed a CPAP machine which he had been using since his diagnosis. No other symptoms were present at that time. The Veteran's representative contends that the AOJ's assignment of a 50 percent rating was based solely on evidence contained within the reports of VA examinations. However, the examiner indicated that the Veteran's record was reviewed, and relevant findings as a result are presumed to be incorporated therein. To the extent that such findings were omitted, the Board also reviewed the Veteran's records and was unable to locate any evidence to support a finding that the Veteran has chronic respiratory failure or cor pulmonale or the necessity for a tracheostomy. The Board acknowledges the Veteran's contentions that his CPAP mask bothers him and falls apart during the night, requiring that he put it back together, keeping him up.  The Board further acknowledges that he has difficulty finding a comfortable position wearing the mask, and that he gets no more than 3-5 hours of sleep per night, causing him to feel tired and preventing him from focusing during the day as he should, and causing him to be forgetful and to fall asleep without intending to do so.  However, it is precisely these symptoms that the assigned 50 percent rating contemplates. As the record is devoid of evidence demonstrating the criteria associated with the higher 100 percent rating, the Veteran's request to for an initial evaluation for OSA in excess of 50 percent cannot be granted.
+
+REASONS FOR REMAND
+
+Entitlement to TDIU
+
+Currently, the Veteran has been granted TDIU on a schedular basis based on the combined effects of his service-connected disabilities. However, the Veteran and his representative contend that "the evidence supports entitlement to TDIU effective April 29, 2021, based solely on the occupational impact of obstructive sleep apnea." See February 2025 Argument in Support of Appeal.
+
+Because the Veteran the award of a TDIU based on OSA alone cannot be granted on a schedular basis, the Board finds that it must refer the matter to the Director, Compensation Service, for extraschedular consideration via remand. 38 C.F.R. §4.16(b). In Snider v. McDonough, the Court clarified the standard by which VA is to determine whether referral for extraschedular consideration for a TDIU is appropriate. 35 Vet. App. 1 (2021). In Snider, the Court held that in determining whether extraschedular referral is warranted, VA is to consider whether there is sufficient evidence to substantiate a "reasonable possibility" that the veteran at issue is unemployable because of service-connected disabilities. Id. at 8. The Court then specified that a decision regarding whether referral is appropriate is analogous to a determination as to whether a VA examination is warranted under McLendon v. Nicholson, 20 Vet. App. 79 (2006). See id., at 8-9.
+
+Applying Snider in the instant case leads the Board to conclude that there is a reasonable possibility that OSA alone rendered the Veteran unemployable. As mentioned above, A December 2023 VA examiner opined that OSA for this Veteran manifested in persistent daytime hypersomnolence. The examiner also noted the Veteran was reassigned from being a driver for CTA to working in the Tower due to excessive day time sleepiness. The Veteran's representative argues that being well rested is paramount in any work setting, be it physical or sedentary, skilled or unskilled, because daytime fatigue contributes to problems completing tasks in an efficient, timely, accurate and safe manner. See February 2025 Argument in Support of Appeal. 
+
+Based on the record evidence, the Board finds that there is a reasonable possibility that the Veteran's service-connected OSA alone rendered him unemployable effective April 29, 2021.  Thus, the claim for a TDIU based on OSA alone is referred to the Director for initial consideration of whether a TDIU is warranted on an extraschedular basis.
+
+Special monthly compensation (SMC) at the housebound rate
+
+The Veteran and his representative contend that the Veteran is entitled to SMC at the housebound rate. Id. This claim is inextricably intertwined with the claim for TDIU based solely on OSA, as the remand for referral to the Director of Compensation Service on an extraschedular basis pursuant to 38 C.F.R. §4.16(b) could materially affect the Veteran's eligibility for SMC. Therefore, the matter of entitlement to SMC must also be remanded. See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991) (two issues are "inextricably intertwined" when they are so closely tied together that a final Board decision cannot be rendered unless both issues have been considered). In this regard, 38 C.F.R. §20.802(a) does not prohibit remanding claims as inextricably intertwined.
+
+The matters are REMANDED for the following action:
+
+Refer the issue of entitlement to a TDIU to the Director, Compensation Service, for extraschedular consideration.
+
+ 
+
+ 
+
+S. C. Krembs
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jackson, Atossa K.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,135 @@
+Citation Nr: A25030278
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240125-411535
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for headaches is denied.
+
+Entitlement to service connection for left lower extremity radiculopathy is denied.
+
+Entitlement to a restoration of a 20 percent rating for degenerative joint disease of the thoracic and lumbar spine, previously rated as lumbosacral strain, is granted.
+
+FINDINGS OF FACT
+
+1. For the entire appeal period, the Veteran's headaches have not resulted in characteristic prostrating attacks averaging one in two months over the last several months.
+
+2. There has not been a diagnosis of left lower extremity radiculopathy.
+
+3. The reduction of the Veteran's 20 percent disability rating for degenerative joint disease of the thoracic and lumbar spine, previously rated as lumbosacral strain, to 10 percent was improper. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to a compensable disability rating for headaches are not met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. § 4.1, 4.3, 4.124a, Diagnostic Code 8100.
+
+2. The criteria for service connection for left lower extremity radiculopathy have not been met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304.
+
+3. The criteria for a restoration of 20 percent degenerative joint disease of the thoracic and lumbar spine have been met. 38 U.S.C. § 1155, 5107(b), 5112; 38 C.F.R. §§ 3.105(e), 3.344, 4.1, 4.3, 4.7, 4.71a, Diagnostic Code 5237.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from July 2015 to February 2022, and was honored with multiple decorations for their service, including the Army Commendation Medal; Joint Service Achievement Medal; Army Achievement Medal; Army Good Conduct Medal; National Defense Service Medal; Korea Defense Service Medal; Armed Forces Service Medal; Development Ribbon; and Overseas Service Ribbon.
+
+The matter comes before the Board on appeal from a rating decision issued in September 2023 by a Department of Veterans Affairs (VA) Regional Office. 
+
+In the January 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. §?20.301.  
+
+1. Entitlement to an initial compensable rating for headaches.
+
+The Veteran contends that his headaches are severe enough to warrant a compensable rating. 
+
+Disability ratings are determined by applying a schedule of ratings that is based on average impairment of earning capacity. Separate diagnostic codes identify the various disabilities. 38 U.S.C. § 1155; 38 C.F.R., Part 4. Each disability must be viewed in relation to its history and the limitation of activity imposed by the disabling condition should be emphasized. 38 C.F.R. § 4.1. Examination reports are to be interpreted in light of the whole recorded history, and each disability must be considered from the point of view of the Veteran working or seeking work. 38 C.F.R. § 4.2. 
+
+All reasonable doubt will be resolved in the claimant's favor. 38 C.F.R. § 4.3. Where there is a question as to which of two disability evaluations shall be applied, the higher evaluation is to be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating is to be assigned. 38 C.F.R. § 4.7.
+
+Separate ratings can be assigned for separate periods based on the facts found - a practice known as "staged" ratings. Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007). Staged ratings are appropriate whenever the factual findings show distinct periods where the service-connected disability exhibits symptoms that would warrant different ratings. Id.
+
+Pursuant to 38 C.F.R. § 4.124a, under Diagnostic Code (DC) 8100, a 0 percent rating is warranted with less frequent attacks. A 10 percent rating is warranted for migraines with characteristic prostrating attacks averaging one in two months over the last several months. A 30 percent rating is warranted for migraines with characteristic prostrating attacks occurring on an average once a month over the last several months. A 50 percent rating is warranted for migraines with very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability. A 50 percent rating is the highest schedular rating under Diagnostic Code 8100.
+
+The phrase "characteristic prostrating attacks" is used in the rating criteria under DC 8100 to describe the nature and severity of migraines, but it is not defined in the regulation. Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness." Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+The rating criteria for a 50 percent rating contain several undefined phrases. The descriptive phrase "very frequent" connotes a frequency at least greater than once a month, as is required by the rating criteria corresponding to a lesser 30 percent rating. Johnson v. Wilkie, 30 Vet. App. 245, at 253 (2018). The phrase "completely prostrating' generally means that the migraines attack must render the veteran entirely powerless. Id. The completely prostrating attacks must also be "prolonged," which is defined as "to lengthen in time: extend duration: drawn out: continue, protract." Id. Lastly, the 50 percent rating criteria requires that the very frequent completely prostrating and prolonged attacks be "productive of severe economic inadaptability." Productive can be read as having either the meaning of "producing" or "capable of producing," and, with regard to severe economic inadaptability, nothing in Diagnostic Code 8100 requires that the claimant be completely unable to work in order to qualify for a 50 percent rating. Pierce v. Principi, 18 Vet. App. 440, 445-46 (2004).
+
+In rating headaches or migraines under DC 8100, the Board may not consider the ameliorative effects of medication. See Jones v. Shinseki, 26 Vet. App. 56, 63 (2012). Additionally, in Holmes v. Wilkie, 33 Vet. App. 67 (2020), the United States Court of Appeals for Veterans Claims held that DC 8100 contemplates all migraine symptoms, not just headache pain. Therefore, to evaluate migraines, VA must consider all symptoms experienced due to migraine attacks and then rate the symptoms based on the frequency, duration, and economic impact of those attacks.
+
+As an initial matter, the Board notes during the pendency of this appeal, the AOJ granted a 10 percent rating for migraine headaches effective November 7, 2023. Thus, the Board must now address whether the Veteran is entitled to an initial compensable rating prior to November 7, 2023. 
+
+In this matter, the Veteran's headaches were service connected at a noncompensable rating as of February 13, 2022, the day after the Veteran left service. 
+
+The Veteran's service treatment records (STRs) were silent of any complaints, treatment, symptoms, or diagnosis of headaches. Also, his medical records since service have been sparce regarding treatment for headaches.
+
+Since service, the Veterans medical records reflect multiple VA examinations and some treatment for headaches. In the November 2022 VA examination, the examiner diagnosed the Veteran with migraine including migraine variants. The Veteran stated in his examination that he never reported headaches in service, but believed they began during active service. The Veteran also stated that his headaches occurred three to four times weekly, sometimes waking up with them in the morning. The Veteran also said he took BC Powder or Ibuprofen 800mg to help relieve his pain. The VA examiner noted symptoms of constant head pain, pain on both sides of the head and temple area, and sensitivity to light. The examiner also noted that the Veteran stated such headaches only lasted less than a day and did not result in prostrating headaches. The examiner also noted the Veteran worked from home and was still able to perform his job when he had a headache. 
+
+Then in March 2023 during a Primary Care Visit, the Veteran noted he was having headaches three to four times a week that it had been going on for the last ten plus years. The Veteran described them as squeezing with no focal neuro changes. The Veteran was also going to try a new medication, Topiramate 50 mg. However, no further VA medical records note headaches since service.
+
+Here, the Board affords the November 2022 VA examination significant probative value, as it considers the Veteran's lay testimony and medical records regarding his headaches in light of the rating criteria. The Board also affords the Veteran's medical records and lay statements some probative weight, as the Veteran is able to describe his symptoms and functional loss from his headaches.
+
+In order for the Board to award a compensable rating for headaches, the Veteran's headache symptoms must demonstrate characteristic prostrating attacks averaging one in two months over the last several months. As stated above, prostrating attacks is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness. Throughout the entire appeal period, none of the Veteran's records describe extreme exhaustion or powerlessness due to the Veteran's headaches. Specifically, the November 2022 VA examination and medical records do not reflect any prostrating attacks for the Veteran's headaches. While the Board recognizes that the Veteran is competent to describe his symptomatology, he is not competent to provide an opinion regarding the severity of his symptomatology in accordance with the rating criteria. See Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007). Ultimately, the Board finds the medical evidence in which professionals with specialized expertise examined the Veteran, acknowledged his reported symptoms, and described the manifestations of such disabilities in light of the rating criteria to be more persuasive than his own reports regarding the severity of his disability. 
+
+Furthermore, the Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record, with regard to the rating claim adjudicated herein. Doucette v. Shulkin, 28 Vet. App. 366 (2017). 
+
+Based on the foregoing, the Board finds the Veteran's headaches did not manifest in symptomatology resulting in characteristic prostrating attacks averaging one in two months over the last several months. Therefore, a noncompensable rating for headaches is continued pursuant to DC 8100. Thus, the Board finds a compensable rating for headaches is not warranted. 38 U.S.C. § 5107; 38 C.F.R. §§ 4.3, 4.7. In reaching such determination, the Board has considered the applicability of the benefit of the doubt doctrine. However, the probative evidence is not in approximate balance and weighs against the Veteran's claim. Thus, the benefit of the doubt doctrine is not applicable in such regard, and his increased rating claim must be denied. 38 U.S.C. § 5107; 38 C.F.R. §§ 4.3, 4.7.
+
+2. Entitlement to service connection for left lower extremity radiculopathy.
+
+The Veteran contends that his claimed left lower extremity radiculopathy began in service. Specifically, the Veteran states he experienced numbness, tingling, and pain in his left leg in service, that continues to this day. The Veteran also contends that if his condition is not caused by service, it is at least caused secondarily to his service connected back condition. 
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303(a). Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d). Direct service connection may not be granted without evidence of a current disability; in-service incurrence or aggravation of a disease or injury; and a nexus between the claimed in-service disease or injury and the present disease or injury. Id.: see also Caluza v. Brown, 7 Vet. App. 498, 506 (1995) aff'd, 78 F.3d 604 (Fed. Cir. 1996).
+
+Service connection may also be established on a secondary basis for a disability which is proximately due to or the result of service-connected disease or injury. 38 C.F.R. § 3.310(a). Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) proximately caused by or (b) proximately aggravated by a service-connected disability. Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc). Further, service connection may not be awarded based on aggravation without establishing a pre-aggravation baseline level of disability and comparing it to the current level of disability. 38 C.F.R. § 3.310 (b).
+
+Pertinent to a claim for service connection, such a determination requires a finding of a current disability that is related to an injury or disease in service. Watson v. Brown, 4 Vet. App. 309 (1993); see also Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992); Rabideau v. Derwinski, 2 Vet. App. 141, 143 (1992). Under applicable regulation, the term "disability" means impairment in earning capacity resulting from diseases and injuries and their residual conditions. 38 C.F.R. § 4.1; see also Hunt v. Derwinski, 1 Vet. App. 292, 296 (1991); Allen v. Brown, 7 Vet. App. 439 (1995); Saunders v. Wilkie, 886 F.3d 1356 (Fed. Cir. 2018) (the term "disability" as used in 38 U.S.C. § 1110" refers to the functional impairment of earning capacity, not the underlying cause of said disability," and held that "pain alone can serve as a functional impairment and therefore qualify as a disability").
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+After resolving all reasonable doubt in the Veteran's favor, the Board concludes that the Veteran does not have a current diagnosis of left lower extremity radiculopathy and has not had a diagnosis for the claimed condition at any time during the pendency of the claim or recent to the filing of the claim. Romanowsky v. Shinseki, 26 Vet. App. 289, 294 (2013); McClain v. Nicholson, 21 Vet. App. 319, 321 (2007).
+
+Additionally, the Veteran's STRs are silent of any complaints, treatment, or diagnosis for such symptoms or disabilities in service. The Board notes the Veteran is directly service connected for his back condition, however there is still no symptoms or diagnosis of his claimed left lower extremity radiculopathy throughout the appeal period. 
+
+Further, the Veteran was never afforded a VA examination or opinion for his claimed left lower extremity radiculopathy. The duty to assist includes providing a medical examination or obtaining a medical opinion when necessary to decide on a claim, as defined by law. See 38 C.F.R. § 3.159(c)(4). Under 38 U.S.C. § 5103A(d), VA must provide a medical examination and/or obtain a medical opinion when there is: (1) competent evidence that the Veteran has a current disability (or persistent or recurrent symptoms of a disability); (2) evidence establishing that an event, injury or disease occurred in service; (3) an indication that the current disability or symptoms may be associated with service; and (4) there is not sufficient medical evidence to make a decision on the claim. See McLendon v. Nicholson, 20 Vet. App. 79 (2006). The third prong, which requires that the evidence of record "indicate" that the claimed disability or symptoms "may be" associated with the established event, is a low threshold. McLendon, 20 Vet. App. at 83. As stated above, in this case, the Veteran was not afforded a VA examination and no VA opinion was obtained with respect to the claimed disabilities. The Board, however, finds that no VA exam or opinion is necessary for this claim, as there is no evidence to show that the Veteran suffered from or had any symptoms of these conditions during service, within a year following service, or since service.
+
+The threshold requirement for the granting of service connection is evidence of a current disability. In the absence of evidence of a current disability, in this matter a diagnosis of left lower extremity radiculopathy, there can be no valid claim. Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). The requirement in a claim of service connection for a current disability "is satisfied when a claimant has a disability at the time a claim for VA disability compensation is filed or during the pendency of that claim and that a claimant may be granted service connection even though the disability resolves prior to the Secretary's adjudication of the claim." See McClain v. Nicholson, 21 Vet. App. 319 (2007).
+
+The Board recognizes the Veteran's sincere belief that his claimed left lower extremity radiculopathy was caused by his military service. Although the Board is grateful for the Veteran's service, the evidence of record weighs against the Veteran's claim for entitlement to service connection left lower extremity radiculopathy. In reaching such determination, the Board has considered the applicability of the benefit of the doubt doctrine. However, the probative evidence is not in approximate balance and weighs against the Veteran's claim. Thus, the benefit of the doubt doctrine is not applicable in such regard, and his service connection claims must be denied. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+3. Entitlement to a restoration of a 20 percent rating for degenerative joint disease of the thoracic and lumbar spine, previously rated as lumbosacral strain.
+
+The Veteran contends that his degenerative joint disease of the thoracic and lumbar spine, previously rated as lumbosacral strain, should not have been reduced, because his condition did not improve and more likely worsened. 
+
+Where a reduction in a rating of a service connected disability is considered warranted and the lower rating would result in a reduction or discontinuance of compensation payments currently being made, a rating proposing the reduction or discontinuance must be prepared setting forth all material facts and reasons. VA must also notify the Veteran that he or she has 60 days to present additional evidence showing that compensation should be continued at the present level. 38 C.F.R. § 3.105(e). 
+
+Here, the Veteran was not provided with an opportunity to submit evidence or argument showing that his disability should not have been reduced prior to the September 2023 rating decision. However, when the overall compensation amount for the Veteran does not result in a reduction, the procedural requirements of 38 C.F.R. § 3.105(e) will not apply. Here, the September 2023 rating decision also service connected the Veteran's right ankle strain at a 10 percent evaluation which resulted in the Veteran's combined rating remaining at a 90 percent. Thus, the requirements of 38 C.F.R. § 3.105(e) does not apply.
+
+Additionally, as the Veteran's 20 percent rating was in effect for less than five years prior to reduction, the provisions of 38 C.F.R. § 3.344(c) are applicable. Where a rating has been in effect for less than five years, reduction is warranted where an adequate examination shows actual improvement in a Veteran's ability to function under the ordinary conditions of life and work. Faust v. West, 13 Vet. App. 342, 350 (2000); see also 38 C.F.R. § 3.344(c). 
+
+Here, the Board finds that the evidence on which the reduction was based does not support the reduction. In these types of cases, VA must establish that the rating reduction was warranted. Brown v. Brown, 5 Vet. App. 413, 421 (1993); Kitchens v. Brown, 7 Vet. App. 320, 324 (1995). A reduction in rating must be based on review of the entire history of the disability. Brown, 5 Vet. App. at 420, see also 38 C.F.R. §§ 4.1, 4.2, 4.10. VA must then ascertain whether the evidence reflects an actual change in the disability and whether the examination reports reflecting such a change are based on thorough and adequate examinations. Faust v. West, 13 Vet. App. 342, 349 (2000). Finally, in any rating reduction case, not only must it be determined that an improvement in disability has occurred, but also that the improvement reflects an improvement in the veteran's ability to function under the ordinary conditions of life and work. Stern v. McDonough, 34 Vet. App. 51 (2021). A claim as to whether a rating reduction was proper must be resolved in the veteran's favor unless the Board concludes that the evidence weighs against the claim. Id.
+
+In this matter, the Board finds the disability rating reduction from 20 percent to 10 percent for degenerative joint disease of the thoracic and lumbar spine, previously rated as lumbosacral strain, was not proper, as the AOJ relied on an inadequate examination and failed to address whether there was "an actual improvement in the Veteran's ability to function under the ordinary conditions of life and work." Rather, the AOJ treated the reduction like an increased rating claim and relied solely on the inadequate September 2023 VA examination to reduce the Veteran's rating. 
+
+(Continued on the next page)
+
+ 
+
+Further, the Veteran's medical records indicate that the Veteran has continued to complain of symptoms for his back conditions since the assignment of his 20 percent rating effective February 13, 2022. The June 2022 VA examination showed the Veteran met the criteria for a 20 percent rating for lumbosacral strain, as the Veteran's active range of motion for forward flexion was 60 degrees and continued to decrease to 45 degrees during flare-ups. While the September 2023 VA examination does not show the Veteran met the 20 percent criteria for range of motion testing conducted at the time of the examination. However, the September 2023 VA examination was inadequate as it did not provide estimates of the Veteran's range of motion for repeated use over time or flare-ups or provide rationale for why such estimates were not provided. Additionally, it is noted in the June 2022 VA examination that the Veteran had a functional impact to include difficulty bending forward, sitting, standing, and walking for long periods of time, to include picking up the Veteran's son. 
+
+While the September 2023 VA examination noted that the Veteran had additional functional impacts, to include difficulty walking, running, standing, or sitting for long periods of time, lifting heavy objects, bending, and squatting and such activities as lawn work. Therefore, the evidence does not show the Veteran's symptoms resulted in an actual improvement in his ability to function under the ordinary conditions of life and work.
+
+Decisions that do not apply the provisions of 38 C.F.R. § 3.344, when applicable, are void ab initio (i.e., at their inception). Brown, 5 Vet. App. at 413; see also Hayes v. Brown, 9 Vet. App. 67, 73 (1996). As these were not properly considered here when rating degenerative joint disease of the thoracic and lumbar spine, previously rated as lumbosacral strain, was reduced, the reduction is void. 
+
+Thus, the appropriate remedy is to restore the 20 percent rating. See Hayes, 9 Vet. App. at 73.
+
+ 
+
+ 
+
+Melanie J. Mann
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Hageman Gaina, Samantha L.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

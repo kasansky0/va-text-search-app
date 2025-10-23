@@ -1,0 +1,185 @@
+Citation Nr: A25030150
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240418-434753
+DATE: April 1, 2025
+
+ORDER
+
+Entitlement to an increased rating of 100 percent for an acquired psychiatric disorder, to include PTSD (previously rated as a chronic adjustment disorder) is granted effective August 15, 2023.
+
+REMANDED
+
+Entitlement to service connection for a lower back disability, to include degenerative disc disease, is remanded.
+
+FINDING OF FACT
+
+From August 15, 2023, the severity, frequency, and duration of the Veteran's symptoms most closely approximated total occupational and social impairment.
+
+CONCLUSION OF LAW
+
+The criteria for a disability rating of 100 percent for an acquired psychiatric disorder, to include PTSD, have been met from August 15, 2023.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.126, 4.130, Diagnostic Code 9411.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 2007 to October 2014.  This matter comes before the Board of Veterans' Appeals (Board) on appeal from January 2024 (psychiatric) and April 2024 (back) rating decisions by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the January 2024 agency of original jurisdiction (AOJ) decision on appeal, for the psychiatric disability, and the evidence of record at the time of the April 2024 decision, for the back disability.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim for service connection for a back disability, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+As an initial matter, the Board construes the Veteran's appeal of a denial of service connection for PTSD more broadly as a claim for an increased initial rating for his service-connected acquired psychiatric disabilities, to include PTSD.  As will be addressed in greater detail in the next section, the Veteran's diagnosis has changed several times, and the individual diagnoses were addressed separately.  Due to the unique procedural history of this claim, the Veteran's claim must be recharacterized in order to meaningfully address the only issue still in controversy.
+
+By way of background, the January 2024 rating decision on appeal denied entitlement to service connection for PTSD, but it also granted service connection for another acquired psychiatric disability, an adjustment disorder, and assigned an initial effective date and rating.  The Veteran's April 2024 VA Form 10182 appealed the issue of "post-traumatic stress disorder-0%-Service connection for posttraumatic stress disorder is denied.  Area of Disagreement: service connection, I clearly have depression and anxiety caused by PTSD..."  In a subsequent September 2024 rating decision, the RO recharacterized the Veteran's disability as PTSD, and assigned a 100 percent disability rating effective May 23, 2024.  
+
+Thus, the Veteran appealed a denial of service connection for PTSD, and he is now service connected for PTSD.  This claim is not moot, however.  The January 2024 rating decision on appeal is also an initial grant of service connection, which assigned a rating and an effective date.  The Veteran timely appealed that decision and preserved a claim for a higher initial rating with an earlier effective date.  
+
+The Veteran is entitled to a sympathetic reading of his pleadings.  See Clemons v. Shinseki, 23 Vet. App. 1 (2009)(A veteran does not file a claim to receive benefits only for a particular diagnosis, but instead for the symptoms of their disability, however it is described).  Here, the Veteran was diagnosed with and has sought treatment for multiple acquired psychiatric disabilities.  Some of those disabilities have been pursued separately, and the rating decision on appeal has one issue for PTSD, and another issue for an adjustment disorder.  
+
+However, at its core, this is a single claim for acquired psychiatric disorders, to include PTSD.  Acquired psychiatric disabilities are rated together under the General Rating Formula for Mental Disorders.  Further, as the RO did in the September 2024 rating decision, the diagnosis can be updated without a new grant of service connection.
+
+Moreover, the Veteran is generally presumed to be seeking the maximum possible benefit.  See AB v. Brown, 6 Vet. App. 35, 38 (1993).  The Veteran likely appealed the denial of his PTSD claim in order to receive a higher rating.  This rule weighs in favor of liberally treating the Veteran's claim as a claim for an increased rating, rather than reading the Veteran's 10182 in a way that renders his claim moot or minimizes his benefits.  38 C.F.R. § 20.202(a).
+
+As a final preliminary matter, for the lower back claim, the Board notes that the Veteran did not waive the remainder of his window to request a docket switch pursuant to Williams v. McDonough, 37 Vet. App. 305, slip op. (Jun. 21, 2024).  Because the current decision is not a final determination on the benefit sought, the lack of a waiver represents only harmless error by the Board.
+
+Entitlement to an increased rating of 100 percent for an acquired psychiatric disorder, to include PTSD (previously rated as a chronic adjustment disorder) is granted effective August 15, 2023.
+
+The Veteran contends his service connected acquired psychiatric disorder is more serious than the initial 50 percent rating.  The Board agrees.
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities, found in 38 C.F.R., Part 4.  The rating schedule is primarily a guide in the evaluation of disability resulting from all types of diseases and injuries encountered as a result of or incident to military service.  The ratings are intended to compensate, as far as can practicably be determined, the average impairment of earning capacity resulting from such diseases and injuries and their residual conditions in civilian occupations.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.   Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating.  38 C.F.R. § 4.7.
+
+In considering the severity of a disability, it is essential to trace the medical history of the veteran.  38 C.F.R. §§ 4.1, 4.2, 4.41.  Consideration of the whole-recorded history is necessary so that a rating may accurately reflect the elements of disability present.  38 C.F.R. § 4.2; Peyton v. Derwinski, 1 Vet. App. 282 (1991).   While the regulations require review of the recorded history of a disability by the adjudicator to ensure a more accurate evaluation, the regulations do not give past medical reports precedence over the current medical findings.
+
+Where entitlement to compensation has already been established and an increase in the disability rating is at issue, it is the present level of disability that is of primary concern.  Francisco v. Brown, 7 Vet. App. 55, 58 (1994).  However, where the question for consideration is the propriety of the initial rating assigned, evaluation of the evidence since the effective date of the grant of service connection is required.  Fenderson v. West, 12 Vet. App. 119, 125-26 (1999).  Where VA's adjudication of the claim for increase is lengthy and factual findings show distinct time periods where the service-connected disability exhibits symptoms which would warrant different ratings, different or "staged" ratings may be assigned for such different periods of time.  Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007); Fenderson, 12 Vet. App. at 126-27.
+
+Additionally, the evaluation of the same disability under several Diagnostic Codes, known as pyramiding, must be avoided.  See 38 C.F.R. § 4.14.  Separate ratings may be assigned for distinct disabilities resulting from the same injury only where the symptomatology for one condition is not duplicative or overlapping with the symptomatology of the other condition.  See Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994).
+
+Under 38 C.F.R. § 4.130, a 50 percent disability rating is warranted for occupational and social impairment with reduced reliability and productivity due to symptoms such as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short-term and long-term memory (e.g., retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; and difficulty in establishing and maintaining effective work and social relationships.
+
+A 70 percent disability rating is warranted for occupational and social impairment
+
+with deficiencies in most areas, such as work, school, family relations, judgment,
+
+thinking, or mood due to symptoms such as: suicidal ideation; obsessive rituals
+
+which interfere with routine activities; speech intermittently illogical, obscure, or
+
+irrelevant; near-continuous panic or depression affecting the ability to function
+
+independently, appropriately, and effectively; impaired impulse control (such as
+
+unprovoked irritability with periods of violence); spatial disorientation; neglect of
+
+personal appearance and hygiene; difficulty in adapting to stressful circumstances
+
+(including work or a work-like setting); and an inability to establish and maintain
+
+effective relationships.
+
+A 100 percent disability rating is warranted for total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); and disorientation to time or place; memory loss for names of close relatives, own occupation, or own name.
+
+When determining the appropriate disability evaluation to assign, the Board's primary consideration is a Veteran's symptoms, but it must also make findings as to how those symptoms impact a Veteran's occupational and social impairment.   Vazquez-Claudio v. Shinseki, 713 F.3d 112, 118 (Fed. Cir. 2013); Mauerhan v. Principi, 16 Vet. App. 436, 442 (2002).  
+
+Because the use of the term "such as" in the rating criteria demonstrates that the symptoms after that phrase are not intended to constitute an exhaustive list, the Board need not find the presence of all, most, or even some, of the enumerated symptoms to award a specific rating.  Mauerhan, 16 Vet. App. at 442; see also Sellers v. Principi, 372 F.3d 1318, 1326-27 (Fed. Cir. 2004).  Nevertheless, all ratings in the general rating formula are also associated with objectively observable symptomatology and the plain language of the regulation makes it clear that the Veteran's impairment must be "due to" those symptoms, a Veteran may only qualify for a given disability by demonstrating the particular symptoms associated with that percentage, or others of similar severity, frequency, and duration.  Vazquez-Claudio, 713 F.3d at 118.
+
+By way of background, in the January 2024 rating decision on appeal, the Veteran was initially granted service connection for an adjustment disorder, and assigned a 50 percent rating, effective August 15, 2023, under Diagnostic Code 9440, for chronic adjustment disorder.  As explained above, the Veteran appealed that decision in an April 2024 VA Form 10182.  
+
+Therefore, the relevant rating period begins on August 15, 2023, which is based on the date VA received notice of the Veteran's intent to file.  Accordingly, the Board has reviewed all relevant evidence, to include evidence received by January 2024.  38 U.S.C. § 5110(b)(3).
+
+Turning to the evidence of record, the Veteran began treating for a mental health disability during service.  His service treatment records (STRs) from November 2010 reflect a diagnosis of an adjustment disorder with depressed mood.  In January 2011, he was diagnosed with major depression, single episode.  The Veteran told a friend he was contemplating self-harm and was hospitalized for six days.  He was also placed in an alcohol rehabilitation program, as he was drinking heavily.  The Veteran continued to treat for alcohol use disorder and the adjustment disorder through the rest of his service.  Treatment notes regularly stated his risk for suicide was "moderately elevated."
+
+Private emergency room records from July 2018 show the Veteran was admitted for seven days after attempting suicide.  The Veteran left a 100 dollar tip for a bartender, and went back to his hotel room, where he slit his left wrist and took 100 to 150 aspirin tablets.  See also September 2023 VA mental health treatment notes.  The concerned bartender called 9-1-1, and the Veteran's suicide attempt was interrupted by the first responders.  A note in the July 2018 treatment records states, "[h]e does have a history of an involuntary hold 6 or 7 years ago for suicidal ideation."
+
+In December 2019, the Veteran had to be intubated in the emergency room for an anoxic brain injury.  See October 2023 CAPRI records.  He was also in "[a]cute renal failure related to cocaine use after being found unresponsive in asystole."  The Veteran consumed alcohol and cocaine with a coworker or friend on the last day of barber school, but he had little memory of the event.  
+
+In March 2020, the Veteran was evaluated by VA neuropsychology following the December 2019 anoxic brain injury.  The Veteran's current mental health symptoms included amotivation, difficulty engaging in activities he once enjoyed (such as exercising), apathy, poverty of speech/content, physical slowing, extreme fatigue, and decreased appetite.  "He continues to experience consistent social anxiety regarding public speaking and meeting new people resulting in a cold sweat and stuttering.  The Veteran has a history of SA (deep arm laceration and heavy alcohol intake) in 7/2018 during financial and job stress."  The Veteran denied current suicidal ideation.
+
+As to the Veteran's employment, the provider wrote, "[f]ollowing his departure from the military, he worked at a wine cellar for 4 years and worked for 6 months as a barber before the December 2019 event.  He returned to work full-time 2-3 weeks post-hospital discharge.  He denied experiencing any occupational difficulties."
+
+The Veteran had not driven for two years, as his driver's license was suspended after a DUI.  The provider wrote that "[i]n terms of alcohol, [the Veteran] endorsed an extensive history of alcohol consumption since his teenage years, drinking 30 beers daily or 5-10 shots with 10-15 beers daily from ages 20-26.  He underwent a 28-day alcohol rehabilitation treatment while in service."
+
+The Veteran was previously married for five years with no children.  He had been with his current girlfriend for a year.  His girlfriend typically manages his day-to-day needs, which include managing his schedule, managing his medications, and ensuring he eats.  He has one older brother, who he sees during the holidays.  
+
+At the end of the report, the neuropsychologist opined as to the Veteran's overall cognitive function after the anoxic brain injury.  As is relevant here, they opined "[h]is depression, anxiety, and psychological distress may be an additional contributor to overall cognitive functioning, which can manifest as difficulties in executive functioning and mental control in the presence of increased demand."  The author then encouraged the Veteran to seek treatment for his clinically significant depression and anxiety.
+
+A September 2023 VA treatment note reads, "Vet tried to go back to work last [M]onday when saved leave ended and he got stressed very quickly.  Tuesday gave his resignation letter."  The author encouraged the Veteran to balance avoiding stressful situations with his need for a routine and structure.  The treating provider diagnosed major depressive disorder, generalized anxiety disorder, social anxiety disorder, and alcohol use disorder in sustained remission.  
+
+VA first examined the Veteran for his acquired psychiatric disability in September 2023.  The examiner noted a prior November 2010 diagnosis of an adjustment disorder with depressed mood.  The examiner recorded symptoms of anxiety, depressed mood, chronic sleep impairment, flat affect, impaired judgment, and disturbances of motivation and mood.  The examiner diagnosed adjustment disorder with mixed anxiety and depressed mood, and severe alcohol use disorder.  
+
+Although the examiner noted the Veteran's suicide attempt in July 2018, and those treatment notes reference suicidal ideation several years earlier, the examiner wrote "he denies suicidal ideation, intent or plans..."  The examiner did not mark the box for suicidal ideation.  The examiner also wrote, "[t]he suicide risk level is not at elevated acute risk."
+
+As to the Veteran's employment, the examiner wrote, "[h]e works for an agency that assisted ships coming in and out of port.  He missed a call from a captain and he was forced to resign.  He is looking for work."  
+
+The Veteran described heavy alcohol use, including three DUIs after service.  On his last day of barber school in 2019, he reported drinking himself into a coma, during which he stopped breathing.  He was hospitalized for a week.  He was sober for "a couple of years" afterwards but began drinking again three months before the examination. 
+
+In January 2024, VA evaluated the Veteran for PTSD.  The examiner did not diagnose PTSD, but did note a diagnosis of an adjustment disorder with mixed anxiety & depressed mood, chronic.  The examiner wrote that the Veteran was part of a unit responsible for funerals for fallen servicemembers.  The Veteran's brother is also a servicemember and asked the Veteran to participate in the funeral for a friend who was killed in action.  The Veteran stated, "[t]he thought of losing my brother and watching my mother be handed a folded US flag absolutely broke me mentally."  
+
+The examiner opined, without explanation, that this stressor did not meet the criteria for a PTSD stressor.  When asked, "[i]s the stressor related to the Veteran's fear of hostile military or terrorist activity?", the examiner wrote, "[t]he event did not occur during hostile or terrorist activity."
+
+As to the Veteran's symptoms, the examiner wrote that they included depressed mood, feelings of worthlessness, feeling keyed up or on edge, irritability, muscle tension, mild sleep disturbance, tiredness, fatigue, low energy, decreased efficiency with which routine tasks are completed, and difficulty concentrating.  The examiner also wrote, "[t]hough he has a history of suicidal ideation, he denied any current suicidal ideation and was not at elevated acute risk for suicide.  He was aware of the Veterans Crisis Line and was provided with that number."
+
+The examiner noted that the Veteran began drinking during service, which persisted after he left.  The examiner opined that the Veteran did not meet the criteria diagnosis of an alcohol use disorder.  They did not elaborate.
+
+The examiner noted that the Veteran was not currently employed.  
+
+The Veteran's symptoms most closely resembled the criteria for a 100 percent disability rating, total occupational and social impairment, through the entire period at issue, beginning August 15, 2023.  There is no shortage of evidence of the Veteran's symptoms at that time that supports a finding that he was totally disabled due to symptoms such as gross impairment in thought processes or communication; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); and grossly inappropriate behavior.  See, 38 C.F.R. § 4.130.
+
+The Board finds that the Veteran exhibited, or was at risk of, suicidal ideation through the entire relevant period.  Although there is some evidence the Veteran did not exhibit suicidal ideation during the examinations, treatment records regularly assessed the Veteran as at risk of suicide throughout his treatment during and after service.  There is no evidence whatsoever that the Veteran no longer experienced suicidal ideation at all.  The 2024 examiner still felt it was necessary to discuss the Veteran's Crisis Line and other resources with the Veteran.  
+
+The Board notes that the rating criteria do not distinguish between active and passive suicidal ideation and that, in some cases, the mere presence of suicidal ideation (ranging from passive thoughts of one's own death to active thoughts of engaging in suicide-related behavior), may cause occupational and social impairment with deficiencies in most areas.  See Bankhead v. Shulkin, 29 Vet. App. 10 (2017).
+
+As to the Veteran's social impairment, he sees his brother on holidays and has had a romantic partner.  He has no children, and there is no evidence concerning extended family or friends.  Per the March 2020 VA treatment notes, the Veteran relied on his girlfriend to manage his medications and ensure that he eats.  While there is some indication he socializes, those situations seem to involve alcohol or other substances.  Otherwise, he is socially isolated.  Total social impairment does not mean that the Veteran does not interact with others at all.  Rather, as is the case here, the Veteran is totally socially impaired because he self-isolates to such an extreme degree due to his service-connected symptoms.
+
+As to the Veteran's occupational impairment, the most probative evidence is the September 2023 VA treatment note.  The note describes the Veteran using all of his saved leave and returning to work.  On his return to work, he quickly became so stressed that he resigned almost immediately.  That note was taken right at the start of the relevant period, which begins in August 2023.  Further, the note was made for purposes of treatment, and directly addresses the Veteran's ability to function in a work setting.  
+
+Moreover, there is a pattern of stress at work or financial stress leading to other serious problems such as resuming alcohol consumption or suicidal ideation.  The author of the September 2023 VA treatment note encouraged the Veteran to avoid stressful situations but find some routine and structure.  Work always involves some amount of stress, and the Veteran was unemployed by the January 2024 VA examination.  There is no evidence the Veteran was able to find a very low-stress work environment, or any suggestion as to what that might be.  The Veteran also has a history of adverse employment actions.
+
+Accordingly, the evidence is in at least approximate balance, and the Veteran must be afforded the benefit of the doubt.  He is entitled to a 100 percent disability rating for his acquired psychiatric disability, to include PTSD, for the entire period on appeal beginning August 15, 2023.
+
+REASONS FOR REMAND
+
+The Veteran contends he has a lower back disability due to his active-duty service.  Remand is required to correct a pre-decisional duty to assist error.  38 C.F.R. § 20.802(a).  Specifically, the VA examination is inadequate.  See Barr v. Nicholson, 21 Vet. App. 303 (2007)(When VA undertakes to provide an examination for a claim for service connection, it must provide an adequate one or, at minimum, notify the Veteran why one will not or cannot be provided).
+
+The Veteran's STRs reflect an "inactive problem" of a low back sprain.  The issue does not appear on his exit examination.
+
+In May 2013, the Veteran was deadlifting, when he hurt his back.  The next day, he went to the emergency room, complaining of pain in his lower back.  He was given a shot in his back and prescription pain medication.  The next day, the Veteran was placed on a profile restricting him to lifting no more than 20 pounds, for seven days.  The treating provider advised the Veteran to continue with some activity, believing bedrest would prolong the healing process.  No diagnostic imaging was performed.
+
+In October 2023, the Veteran went to a VA medical provider after hearing a pop in his back while deadlifting at the gym.  VA took X-rays of the Veteran's spine but noted that there were no prior X-rays for comparison.  The X-rays showed a number of "early" degenerative changes throughout the spine, including "[m]ultilevel diffuse disc bulges, worst at L4-5 and L5-S1 with suggestion of central spinal canal stenosis and bilateral neural foraminal narrowing."  The provider also noted facet arthritic changes in the lower lumbar spine.  The Veteran was simply diagnosed with "low back pain."
+
+In April 2024, VA examined the Veteran's back.  The examiner diagnosed degenerative disc disease.  The examiner wrote that the Veteran "states that he was seen for his lower back pain in [M]ay of 2013.  [H]e was deadlifting in the gym ... he felt a pop in his back.  [H]e couldn't move right away.  [H]e was out of commission for 6 weeks and on bedrest."
+
+The examiner opined that the Veteran's current degenerative disc disease was less likely than not due to his injury during service.  The examiner reasoned that there was a gap from the injury during service and the present diagnosis.  The examiner noted that the Veteran was diagnosed with a lumbar sprain during service, but the recent diagnosis was for degenerative disc disease.  The examiner then reiterated that it had been approximately 12 years since the injury during service.  
+
+This opinion is inadequate, as the opinion does not explain why the passage of time is significant.  As this is the sole basis for the negative nexus opinion, the Board cannot determine why the examiner opined the Veteran's disability was unlikely due to his injury during service.  The Veteran injured his lower back in 2013 when he was deadlifting during service, but it appears the sprain or resulting pain went "inactive" prior to his exit from service.  There is no indication that the issue fully resolved.  Then, years later, the Veteran again injured his lower back while deadlifting, this time hearing a pop when he did so.  When the Veteran's spine was X-rayed (possibly for the first time) in 2023, the interpreting medical provider found a number of degenerative issues throughout the spine, particularly the discs at L4-S1.  These facts raise the possibility that the Veteran's earlier injury caused degenerative changes, or he reinjured the same disc(s) or some other part of his back.  In either scenario, it is not clear why the passage of ten or more years is significant or even relevant.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (holding that a medical opinion obtains probative weight from "factually accurate, fully articulated, sound reasoning for the conclusion").
+
+Accordingly, a remand is required to correct a pre-decisional duty to assist error.  38 C.F.R. § 20.802(a).  
+
+The matter is REMANDED for the following action:
+
+Obtain an addendum opinion to determine the nature and etiology of the Veteran's current lower back disability.  An examination should only be scheduled if the examiner deems it necessary.
+
+The examiner should provide a medical opinion as to whether the Veteran's lower back disability is caused by or the result of military service.
+
+The examiner should review all relevant medical evidence including the following documents:
+
+(a) May 2013 service treatment records concerning the Veteran's lower back sprain; and
+
+(b) October 2023 VA treatment records concerning the Veteran's low back pain.
+
+A clear and complete rationale should be given for each opinion expressed, as well as a discussion of all the facts and medical principles involved. 
+
+ 
+
+Jenna Brant
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T.E. Yahner, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

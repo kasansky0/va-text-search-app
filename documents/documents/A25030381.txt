@@ -1,0 +1,103 @@
+Citation Nr: A25030381
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 220930-281409
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) is denied.
+
+FINDING OF FACT
+
+The persuasive weight of the evidence does not show that the Veteran's service-connected disabilities, alone or in combination, preclude his ability to obtain or maintain employment. 
+
+CONCLUSION OF LAW
+
+The criteria for a TDIU have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. § 4.16.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service in the United States Army from February 1982 to February 1992.
+
+The rating decision on appeal was issued in August 2022 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In April 2022, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of TDIU most recently addressed in a March 2022 rating decision.  In August 2022, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision.  
+
+In the September 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the August 2022 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. The claim for entitlement to individual unemployability remains denied.
+
+The Veteran seeks entitlement to TDIU stemming from his claimed inability to work due to his service-connected psychiatric disability, irritable bowel syndrome (IBS), tinnitus, and right foot condition. See April 2022 VA Form 21-8940 Veterans Application for Increased Compensation Based on Unemployability; See also, September 2022 VA Form 10182 Notice of Disagreement.
+
+An award of TDIU "does not require proving 100 percent unemployability."  Roberson v. Principi, 251 F.3d 1378, 1385 (Fed. Cir. 2001).  Rather, an award of TDIU requires that the claimant show an inability "to secure and follow a substantially gainful occupation by reason of service-connected disabilities."  38 C.F.R. § 4.16(b).  When making this determination, "the central inquiry is whether the veteran's service-connected disabilities alone are of sufficient severity to produce unemployability."  Pederson v. McDonald, 27 Vet. App. 276, 286 (2015) (internal citations and quotations omitted).  Additionally, the Board "must take into account the individual veteran's education, training, and work history" but "may not consider [nonservice]-connected disabilities or advancing age."  Id. (internal citations omitted).
+
+The phrase "substantially gainful employment" has an economic component and a non-economic component.  Ray v. Wilkie, 31 Vet. App. 58, 73 (2019).  "The economic component simply means an occupation earning more than marginal income (outside of a protected environment) as determined by the U.S. Department of Commerce as the poverty threshold for one person."  Id. 
+
+The noneconomic component goes to the veteran's individualized ability to secure and follow substantially gainful employment.  Ray, 31 Vet. App. at 73.  Attention should be given to the veteran's history, education, skills, and training; whether the veteran has the physical ability (both exertional and non exertional) to perform the types of activities required by the occupation at issue (e.g., lifting, bending, sitting, standing, walking, climbing, as well as auditory and visual limitations); and whether the veteran has the mental ability to perform the activities required by the occupation at issue (e.g., memory, concentration, ability to adapt to change, handle work place stress, get along with coworkers, and demonstrate reliability and productivity). Id.  These factors do not constitute a checklist; rather, "discussion of any factor is only necessary if the evidence raises it."  Id.  
+
+"'[E]mployment in a protected environment' ... unambiguously means employment in a lower-income position that, due to the veteran's service-connected disability or disabilities, is shielded in some respect from competition in the employment market."  LaBruzza v. McDonough, 37 Vet. App. 111, 123-24 (CAVC 2024).  Neither employer intent nor accomodation is dispositive.  Id.
+
+When entitlement to a TDIU is raised during the adjudicatory process of the underlying disability, it is part of the claim for benefits for the underlying disability.  Rice v. Shinseki, 22 Vet. App. 447 (2009).  A claim for a TDIU is a claim for an increased rating.  Dalton v. Nicholson, 21 Vet. App. 23, 31-32 (2007).  The general rule with respect to the effective date of an award of increased compensation is that the effective date of award "shall not be earlier than the date of receipt of the application thereof."  38 U.S.C. § § 5110(a).  This statutory provision is implemented by regulation that provides that the effective date for an award of increased compensation will be the date of receipt of claim or the date entitlement arose, whichever is later.  38 C.F.R. § 3.400(o)(1).  
+
+An exception to that rule regarding increased ratings applies to circumstances where the evidence demonstrates that a factually ascertainable increase in disability occurred within the one-year period preceding the date of receipt of a claim for increased compensation.  If an increase in disability occurred one year prior to the claim, the increase is effective as of the date the increase is "factually ascertainable."  If the increase occurred more than one year prior to the claim, the increase is effective the date of claim.  If the increase occurred after the date of claim, the effective date is the date of increase.  38 U.S.C. § 5110(b)(2); 38 C.F.R. § 3.400(o); Dalton, 21 Vet. App. at 31-32.
+
+VA regulations indicate that when a veteran's schedular rating is less than total (for a single or combination of disabilities), a total rating may nonetheless be assigned: 1) if there is only one disability, this disability shall be ratable at 60 percent or more; and 2) if there are two or more disabilities, at least one disability shall be ratable at 40 percent or more, and there must be sufficient additional disability to bring the combined rating to 70 percent or more.  38 C.F.R. § 4.16(a).  Disabilities of one or both upper extremities, or of one or both lower extremities, including the bilateral factor, if applicable, constitutes a single disability under § 4.16(a).  The same is true for disabilities resulting from common etiology or a single accident.  
+
+A total disability rating may also be assigned pursuant to the procedures set forth in 38 C.F.R. § 4.16(b) for veterans who are unable to secure and follow a substantially gainful occupation by reason of service-connected disabilities, but who fail to meet the percentage standards set forth in § 4.16(a).
+
+Entitlement to a TDIU is a legal determination, not a medical one. Geib v. Shinseki, 733 F.3d 1350 (Fed. Cir. 2013). Medical examiners may provide evidence regarding functional and occupational impairment, but the Board must decide whether a veteran may "secure and follow a substantially gainful occupation" based on all evidence of record. See Delrio v. Wilkie, 32 Vet. App. 232, 243 (2019).
+
+As discussed in Withers v. Wilkie, 30 Vet. App. 139 (2018), the term "sedentary employment" is not defined in statute or regulation, and there is no requirement that it be used. However, if it is used, the Board should explain the meaning of sedentary work on a case-by-case basis as derived from the term and how the term applies to the Veteran's specific educational and occupational history. Similarly, if an examiner used the term, the Board should explain how the term is being applied to the Veteran's specific disability picture and vocational history.
+
+"Sedentary" means "doing or requiring much sitting" or "not physically active." Merriam-Webster's Collegiate Dictionary 1123 (11th ed. 2012). It also means "1. Sitting habitually; of inactive habits. 2. Pertaining to a sitting posture." Dorland's Illustrated Medical Dictionary 1687 (32nd ed. 2012).
+
+The Veteran's service-connected disabilities are panic disorder with other specified anxiety disorder (also claimed as PTSD), evaluated as 50 percent disabling effective March 31, 2020, and 70 percent disabling effective August 11, 2021; lumbar spine degenerative arthritis with degenerative disc disease and irritable bowel syndrome, evaluated as 30 percent disabling effective August 11, 2021; hallux valgus of the right foot, evaluated as 10 percent disabling effective April 12, 2012; tinnitus, evaluated as 10 percent disabling effective August 19, 2020; and sinusitis, evaluated as zero percent disabling effective August 5, 2021 with a combined rating of 80 percent.  The Veteran does meet the percentage rating standards to be considered for individual unemployability under 38 C.F.R. § 4.16(a).
+
+Contrary to the lay assertions, the record evidence does not show that the Veteran's service-connected disabilities, alone or in combination, preclude his employability such that he is entitled to a TDIU at any time during the appeal period. The Board notes here that there are multiple opinions currently of record addressing the occupational impact of several of the Veteran's service-connected disabilities.  Having reviewed the record evidence, the Board finds that there is sufficient medical evidence already of record to evaluate the occupational impact of the Veteran's service-connected disabilities, in combination, on his employability.  See Geib v. Shinseki, 733 F.3d 1350, 1354 (Fed. Cir. 2013) (holding those applicable regulations place responsibility for ultimate TDIU determination on VA).  
+
+The Veteran asserted on his April 2022 VA Form 21-8940 that his service-connected PTSD, IBS, tinnitus, and right foot condition prevented him from securing or following a substantially gainful occupation. These disabilities affected his full-time employment in June 2020 when he stopped working and became too disabled to work.  He had worked as a manager for Fairgrounds Race Course and Slots from July 2012 to June 2020.  He left this last job due to his disability.  He did not receive or expect to receive retirement benefits or workers compensation benefits.  He had not tried to obtain employment since becoming too disabled to work.  His highest level of education was 1 year of college.  He had not had any other education or training since he became too disabled to work.  
+
+The Veteran's available Social Security Administration (SSA) records, associated with the claims file in April 2022, show that he is not in receipt of Social Security Disability (SSD) for any claimed disabilities. 
+
+Given the evidence of record, the Board finds that the Veteran's service-connected disabilities, alone or in combination, do not preclude his ability to obtain or maintain employment.  For example, on a VA hearing loss and tinnitus Disability Benefits Questionnaire (DBQ) in May 2022, the VA examiner stated that the Veteran's service-connected tinnitus impacted his ability to work. This examiner stated, "The tinnitus increases his anxiety and irritates his panic disorder . . ." The examiner further reported the Veteran reportedly retired early due to trouble at work. 
+
+The Veteran was also afforded a VA examination for IBS in May 2022. The VA examiner described the Veteran's functional impact as causing emotional distress in social and work settings due to the frequent episodes of alternating constipation and diarrhea resulting in multiple trips to the bathroom. 
+
+The Veteran's right foot condition was also evaluated by VA in May 2022. During the examination, the Veteran reported prolonged periods of standing or walking made his foot pain worse. The Veteran also reported limitations in running, jumping, prolonged ambulation or standing, and high impact activities.
+
+In the tinnitus examination in May 2022 by VA, the examiner noted the Veteran experienced increases in anxiety and irritability which caused him to retire early.  
+
+During a June 2022 PTSD DBQ, a VA examiner found occupational and social impairment with deficiencies in most areas, including work. The Veteran rarely socializes due to anxiety and retired from work following several instances of going to the emergency room with panic attacks. Symptoms included anxiety, panic, chronic sleep impairment, mild memory loss, difficulty in maintaining and establishing relationships, and obsessional rituals. The VA examiner concluded that the Veteran is easily provoked to extreme physical anxiety and panic by even minor stress. There was no finding of an elevated acute risk. 
+
+The Veteran has submitted notes from his private mental health counselor as part of the record. See, generally, F. CSW Correspondence. The private counselor noted symptoms of survival guilt, anxiety, anger, homicidal tendencies, panic, and nausea stemming from his deployment to Kuwait and exacerbated by his civilian employment at the fairgrounds. The private counselor recommended the Veteran resign from the fairgounds job and find something less stressful, but later opined that the Veteran's symptoms rendered him unemployable. See July 2020 F. CSW Correspondence. The Board will note that while managing an office of 35 personnel may be stressful, this does not preclude the Veteran from seeking employment managing a smaller team or outside the field of management altogether. 
+
+Two months later, the Veteran was afforded a VA examination in September 2020 where the VA examiner noted the Veteran's occupational and social impairment with reduced reliability and productivity. However, the conditions of the Veteran's departure from employment vary as he provides he quit the fairgounds position because he got COVID and had to leave the job. See September 2020 C&P Examination. He describes it as a mutual parting. See Id. While the Veteran states he experiences bouts of anxiety, panic attacks, and hypervigilance, there is no noted concerns of suicidal or homicidal thoughts. See Id. Furthermore, there is no indication of irritability or anger. The VA examiner detailed his observations of the Veteran as neat, polite, moderately anxious, and with good memory recall. The VA examiner further noted no signs of malingering nor exaggeration and that the Veteran was credible in his presentation. See Id. 
+
+The Veteran further submitted evidence concerning the character of his departure from his job at the fairgrounds. While the Veteran has described that he had to quit due to increased symptoms from PTSD and contests it was not a mutual parting (See September 2022 VA Form 10182), the evidence suggests this was indeed a voluntary resignation despite accommodations made by his former employer. While the Separation Notice describes the reason for separation as mutual agreement without further context, the record shows the Veteran had applied for reasonable accommodations in May 2020. See Reasonable Accommodations Correspondence. The fairgrounds staff responded approving three of the five requests with a request for clarification on the remaining two in June 2020. See Workplace Accommodations Approved Correspondence. The Veteran subsequently resigned. 
+
+The Board finds the inconsistencies in the Veteran's reporting of symptoms, the contradictory reasons for either resigning or retiring from his last job, and that the Veteran is not precluded from securing substantially gainful employment, entitlement to TDIU is not warranted. 
+
+Regarding the economic component of TDIU, there is no evidence of income from employment during the period on appeal.  The Veteran meets the Poverty Threshold as defined by the U.S. Census Bureau.  See https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-thresholds.html.  
+
+Given the overall disability picture, and the Veteran's history of employment, the Board finds that the evidence as a whole establishes that the Veteran retains the ability to obtain and maintain employment.  Therefore, the Board finds that referral of the claim to the Director, VA Compensation Service, is not warranted.
+
+(Continued on the next page)
+
+In conclusion, the Board finds that the evidence of record persuasively weighs against the Veteran's claim for TDIU.  As the evidence of record persuasively weighs against the Veteran's claim, the benefit-of-the-doubt rule does not apply.  38 U.S.C. § 5107 (b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+T. Berry
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Faul, Frank J.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

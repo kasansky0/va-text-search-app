@@ -1,0 +1,65 @@
+Citation Nr: A25030876
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 230216-324613
+DATE: April 3, 2025
+
+ORDER
+
+The Veteran's motion to revise the May 20, 2010, Regional Office (RO) rating decision that granted service connection for cervical strain and assigned a noncompensable rating, and no higher, on the grounds of clear and unmistakable error (CUE), is denied.
+
+FINDING OF FACT
+
+The Veteran's motion to revise the May 20, 2010, RO rating decision that granted service connection for cervical strain and assigned a noncompensable rating, and no higher, correctly applied existing legal authority, and no undebatable error is shown that would have manifestly changed the outcome of the matter at issue.
+
+CONCLUSION OF LAW
+
+A clear and unmistakable error in the May 20, 2010, RO rating decision that granted service connection for cervical strain and assigned a noncompensable rating, and no higher, has not been established. 38 U.S.C. §§ 5101, 5109A, 5110; 38 C.F.R. §§ 3.105, 4.59, 4.71a, Diagnostic Code (DC) 5243 (2010).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the Army from November 1983 to December 1991. 
+
+In a January 2023 rating decision, the agency of original jurisdiction (AOJ) denied revision of the May 20, 2010, RO rating decision that granted service connection for cervical strain and assigned a noncompensable rating, and no higher, finding that CUE was not shown. In February 2023, the Veteran appealed the January 2023 rating decision to the Board of Veterans' Appeals (Board) and requested direct review of the evidence considered by the AOJ. While this would generally mean that under direct review the Board may only consider the evidence of record at the time of the January 2023 rating decision on appeal, new evidence cannot be considered in this decision because CUE must be based upon the facts and law that existed at the time of the prior decision. See 38 C.F.R. § 3.105(a)(1)(iii).
+
+CLEAR AND UNMISTAKABLE ERROR
+
+A previous determination that is final and binding will be accepted as correct in the absence of CUE. Where evidence establishes such error, the prior decision will be reversed or amended. 38 C.F.R. § 3.105(a). 
+
+The Court has set forth a three-pronged test to determine whether CUE is present in a prior determination: (1) either the correct facts, as they were known at the time, were not before the adjudicator (i.e., more than a simple disagreement as to how the facts were weighed or evaluated) or the statutory or regulatory provisions extant at that time were incorrectly applied; (2) the error must be "undebatable" and of the sort which, had it not been made, would have manifestly changed the outcome at the time it was made; and (3) a determination that there was CUE must be based on the record and law that existed at the time of the prior adjudication in question. Damrel v. Brown, 6 Vet. App. 242 (1994), Russell v. Principi, 3 Vet. App. 310 (1992).
+
+CUE is a very specific and rare kind of error. It is the kind of error, of fact or of law, that when called to the attention of later reviewers compels the conclusion, to which reasonable minds could not differ, that the result would have been manifestly different but for the error. Fugo v. Derwinski, 6 Vet. App. 40 (1993). 
+
+Simply to allege CUE on the basis that previous adjudications improperly weighed and evaluated the evidence, failed to apply the benefit of the doubt doctrine, or failed to give reasons and bases, can never rise to the stringent definition of CUE. Disagreements as to how facts are weighed do not constitute CUE. Russell v. Principi, 3 Vet. App. 310 (1992).
+
+A judicial decision that formulates a new interpretation of the law subsequent to a final VA decision cannot be the basis of a valid CUE claim. George v. Wilkie, 30 Vet. App. 364 (2019); Damrel v. Brown, 6 Vet. App. 242 (1994). Although a judicial decision must be given full retroactive effect in all cases that are still open on direct review, it does not affect decisions that are final. Smith v. West, 11 Vet. App. 134 (1998); Reynoldsville Casket Co. v. Hyde, 514 U.S. 749 (1995) ("new legal principles, even when applied retroactively, do not apply to cases already closed").
+
+The Veterans Claims Assistance Act of 2000 (VCAA) is inapplicable to CUE claims, and therefore need not be discussed herein. Livesay v. Principi, 15 Vet. App. 165 (2001) (en banc); see also Parker v. Principi, 15 Vet. App. 407 (2002).
+
+Entitlement to revision of the May 20, 2010, RO rating decision that granted service connection for cervical strain and assigned a noncompensable rating, on the grounds of CUE.
+
+A review of the evidence demonstrates that CUE has not been shown in the May 20, 2010, RO rating decision that granted service connection for cervical strain and assigned a noncompensable rating, and no higher, and revision on the grounds of CUE is therefore not warranted. 
+
+In the October 2022 CUE motion, it was asserted that there is CUE in the May 20, 2010, RO rating decision because 38 C.F.R. § 4.59 was not properly considered and because incapacitating episodes were not properly considered, which would have warranted a compensable initial rating. First, it was asserted that during the May 2010 VA examination, the Veteran reported experiencing shooting pain that was characterized as constant and moderate as well as experiencing severe flare-ups. It was argued that such pain warranted a compensable rating under 38 C.F.R. § 4.59. Second, it was asserted that as during the May 2010 VA examination the Veteran reported experiencing severe flare-ups happening every 2 to 3 weeks that lasted for 1 to 2 days and the VA examiner noted that the Veteran missed 20 weeks of work due to neck and back pain, such symptoms should have been characterized as incapacitating episodes. Therefore, it was argued that the Veteran was entitled to an initial compensable rating for such incapacitating episodes. 
+
+A review of the evidence demonstrates that in the May 2010 VA examination, the Veteran reported experiencing neck pain that was characterized as shooting, daily, constant, and moderate. He also reported experiencing flare-ups every 2 to 3 weeks that weeks that lasted for 1 to 2 days, and the VA examiner noted that the Veteran missed 20 weeks of work due to neck and back pain. The examiner diagnosed cervical strain. Lastly, the examiner did not note any objective evidence of pain upon examination. 
+
+In the May 20, 2010, RO rating decision, service connection was granted for cervical strain, and it was determined that a noncompensable rating was warranted based on no evidence of limitation of motion to a compensable degree nor objective evidence of pain noted on examination.
+
+The Board notes that 38 C.F.R. § 4.59 provides for a minimum compensable rating when the evidence demonstrates painful motion with less than otherwise compensable limited motion. However, under the law in effect at the time of the May 20, 2010, RO rating decision, it was not undebatable that the provisions of 38 C.F.R. § 4.59 were applicable to musculoskeletal disabilities other than arthritis. This question was not conclusively answered until 2011, when the Court clarified in Burton v. Shinseki, 25 Vet. App. 1 (2011) that 38 C.F.R. § 4.59 was applicable to non-arthritis contexts. The Board notes that the Court in Burton indicated this clarification of the existing rule of law was required because of an ongoing lack of consistency in how 38 C.F.R. § 4.59 was applied in non-arthritis contexts. Id. at 5 ("Compare, e.g., Wesenick v. Nicholson, 2005 U.S. App. Vet. Claims 583 (2005) (table) ("Because the appellant has not been diagnosed with arthritis, 38 C.F.R. § 4.59 has no application to his claim."), with Abbey v. Principi, 2001 U.S. App. Vet. Claims 1147 (2001) (table) (remanding case for Board to address § 4.59 in non-arthritis claim)"). In this case, the evidence of record at the time of the May 20, 2010, RO rating decision, did not indicate that the Veteran had been diagnosed as having arthritis. To the contrary, the May 2010 VA examination findings only documented a diagnosis of cervical strain. Thus, the RO in the May 20, 2010, rating decision did not clearly and undebatably err in not awarding the minimum compensable rating for painful motion with less than otherwise compensable limited motion of the cervical spine pursuant to 38 C.F.R. § 4.59, as there was no evidence of a diagnosis of arthritis of the cervical spine. See George, 30 Vet. App. 364 (2019). 
+
+Additionally, it has been asserted that a compensable rating should have been assigned due to incapacitating episodes caused by the Veteran's cervical spine symptoms and that the failure to award such constituted CUE. The Board notes that spine disabilities based on invertebral disc disease (IVDS) with incapacitating episodes may be rated under 38 C.F.R. § 4.71a, DC 5243. Note 1 to DC 5243 provides that an incapacitating episode is a period of acute signs and symptoms due to IVDS that requires bedrest prescribed by a physician and treatment by a physician. However, the findings of the May 2010 VA examination do not document a diagnosis of IVDS. Rather, only a diagnosis of cervical strain was documented. Further, the medical evidence does not document that the Veteran was prescribed bedrest. Thus, the RO in the May 20, 2010, rating decision did not clearly and undebatably err in not assigning a compensable rating based on IVDS with incapacitating episodes. 
+
+Accordingly, the Veteran's motion to revise the May 20, 2010, RO rating decision that granted service connection for cervical strain and assigned a noncompensable rating, and no higher, on the grounds of CUE, is denied.
+
+ 
+
+M.E. Larkin
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Page-Nelson, A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

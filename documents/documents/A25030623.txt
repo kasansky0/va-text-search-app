@@ -1,0 +1,57 @@
+Citation Nr: A25030623
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 250306-523601
+DATE: April 2, 2025
+
+ORDER
+
+An increased 10 percent disability rating for hypertension is granted.
+
+FINDING OF FACT
+
+The Veteran has a clinical history of diastolic pressure predominantly 100 or more requiring continuous medication for control.  His hypertension has not been productive of diastolic pressure predominantly 110 or more, or systolic pressure predominantly 200 or more.
+
+CONCLUSION OF LAW
+
+The criteria for an increased 10 percent disability rating for hypertension are met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.104, Diagnostic Code 7101.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from March 1962 to October 1982.  The Agency of Original Jurisdiction (AOJ) denied the claim in a September 2023 rating decision.  The Veteran thereafter requested Higher-Level Review of the September 2023 rating decision.  In response, the AOJ issued a Higher-Level Review rating decision in April 2024 which again denied the Veteran's claim.
+
+The Veteran selected Direct Review by a Veterans Law Judge on his March 6, 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement).  In adjudicating the claim, the Board may consider evidence associated with the record at the time of the September 2023 rating decision which prompted the Higher-Level Review.
+
+The Board generally may not decide an appeal before the deadline for requesting a docket switch under the Appeals Modernization Act (AMA) has elapsed.  See Williams v. McDonough, 37 Vet. App. 305 (2024).  38 C.F.R. § 20.202(c)(2) allows claimants to switch Appeals Modernization Act (AMA) dockets by completing and submitting a new NOD within one year from the date the AOJ mails notice of the decision on appeal, or 60 days from when the Board receives an NOD, whichever is later, unless a claimant has already submitted evidence or testimony.  In this case, less than a year has passed from when the AOJ mailed notice of the April 2024 decision on appeal.  However, the Board interprets the request to advance the Veteran's case on the docket as a waiver of his right to switch to a different docket before the deadline to do so has elapsed and will proceed with adjudication of the claim.
+
+Turning to the merits of the increase rating claim, disability ratings are determined by applying the rating criteria set forth in VA's Schedule for Rating Disabilities (Rating Schedule) and represent the average impairment of earning capacity.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.  The basis of disability evaluations is the ability of the body as a whole, or of the psyche, or of a system or organ of the body to function under the ordinary conditions of daily life including employment.  38 C.F.R. § 4.10.
+
+In determining the severity of a disability, the Board is required to consider the potential application of various other provisions of the regulations governing VA compensation as well as the whole recorded history of the Veteran's disability.  38 C.F.R. §§ 4.1, 4.2; see generally Schafrath v. Derwinski, 1 Vet. App. 589 (1991). Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability more closely approximates the criteria for that rating.  38 C.F.R. § 4.7.  Otherwise, the lower rating is assigned.  Id.  Additionally, while it is not expected that all cases will show all the findings specified, findings sufficiently characteristic to identify the disease and the disability therefrom and coordination of rating with impairment of function will be expected in all instances.  38 C.F.R. § 4.21.  The Board has considered whether separate ratings for different periods of time are warranted based on the facts, which is a practice of assigning ratings that is referred to as "staging the ratings." Fenderson v. West, 12 Vet. App. 119 (1999).
+
+Throughout the period on appeal, the Veteran's hypertension is rated as noncompensable under 38 C.F.R. § 4.101, Diagnostic Code 7101.  Diagnostic Code 7101 provides for a 10 percent evaluation when diastolic pressure is predominantly 100 or more, or when systolic pressure is predominantly 160 or more, or as a minimum evaluation for an individual with a history of diastolic pressure predominantly 100 or more who requires continuous medication for control.  A 20 percent evaluation is provided if diastolic pressure is predominantly 110 or more, or if systolic pressure is predominantly 200 or more.  A 40 percent evaluation is provided if diastolic pressure is predominantly 120 or more.  A 60 percent evaluation is provided if diastolic pressure is predominantly 130 or more. See 38 C.F.R. § 4.104, Diagnostic Code 7101.
+
+In McCarroll v. McDonald, the United States Court of Appeals for Veterans Claims interpreted the language of Diagnostic Code 7101.  28 Vet. App. 267 (2016).  The Court succinctly interpreted Diagnostic Code 7101 as follows:
+
+The criteria for compensable evaluations under Diagnostic Code 7101 thus contemplate two factual alternatives.  First, a veteran whose blood pressure is currently controlled by medication-i.e., whose blood pressure does not otherwise meet the criteria for a compensable evaluation-but who has a history of diastolic pressure predominantly 100 or more is entitled to receive the minimum compensable evaluation of 10%.  Second, a veteran whose blood pressure is currently elevated to varying degrees is entitled to evaluations ranging from 10% to 60%.  Read together, these two scenarios clearly contemplate the effects of medication: either a veteran's blood pressure is controlled by medication, warranting a 10% evaluation if there is a history of elevated systolic pressure, or it is not, in which case the actual blood pressure level determines the disability rating.  Id. at 272 (citations omitted).
+
+Thus, the question for the Board is whether the Veteran's diastolic pressure was predominantly 100 or more, systolic pressure was predominantly 160 or more, or the Veteran's hypertension had a history of diastolic pressure predominantly 100 or more requiring continuous medication for control.  
+
+After review of the evidence, the Board finds that the Veteran's hypertension has been productive of a history of diastolic pressure predominantly 100 or more requiring continuous medication for control.
+
+In this regard, the evidence includes an August 2023 VA Hypertension examination report in which the examiner indicated that the Veteran's treatment plan includes taking continuous medication.  The Veteran's VA and private treatment records confirm continued use of medication to control his blood pressure.  The August 2023 VA examiner indicated that the Veteran's hypertension does not have a history of a diastolic blood pressure elevation to predominantly 100 or more.  However, the Veteran's private treatment records reflect that the Veteran's diastolic pressure was 100 or more on multiple occasions in the past.  See January 1995 Private Treatment Records.  See February 1995 Private Treatment Records.  See May 1995 Private Treatment Records.  See June 1995 Private Treatment Records. 
+
+Therefore, based on the above, after resolving doubt in favor of the Veteran, the Board finds that the evidence supports a finding that the Veteran had a history of diastolic pressure predominantly 100 or more requiring continuous medication for control.  Accordingly, the criteria for a disability rating of 10 percent for hypertension are met and the appeal is granted.  
+
+A higher 20 percent disability rating is not wanted.  The Board notes that the Veteran does not argue, and the evidence does not show, that the Veteran's hypertension has manifested with diastolic blood pressure readings of predominately 110 or more or systolic pressure predominately 200 or more at any time.  
+
+ 
+
+S.C. Krembs
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Smith-Jennings, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

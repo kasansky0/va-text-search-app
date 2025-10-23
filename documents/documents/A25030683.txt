@@ -1,0 +1,61 @@
+Citation Nr: A25030683
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240705-453361
+DATE: April 2, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from November 1993 to April 1998.  
+
+This appeal to the Board of Veterans' Appeals (Board) is from a January 29, 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO), which is the Agency of Original Jurisdiction (AOJ). On the July 2024 VA Form 10182, the Veteran elected the Direct Review docket. As such, the Board's review is limited to the evidence of record at the time of the issuance of the rating decision on appeal (January 29, 2024). 38 C.F.R. § 20.301. The Board cannot consider evidence submitted during the period after the issuance of the decision on appeal (January 30, 2024, and later). Id. If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision on the claim. 38 C.F.R. § 20.300. 
+
+The Veteran asserts that his OSA is secondary to, meaning caused or aggravated by his service-connected chronic bronchitis, anxiety, and/or GERD.
+
+In March 2022 the Veteran submitted an opinion from a private provider as to secondary service connection for his OSA. This provider opined that the Veteran's OSA is both caused and aggravated by his service-connected chronic bronchitis, anxiety, and GERD. However, while the rationale states that there was correlation of the Veteran's OSA symptoms and the onset of his service-connected disabilities, the rationale does not address why there is causation and/or aggravation. As such, this opinion is inadequate as it fails to fully address and explain the requirements for secondary service connection.  See Guerrieri v. Brown, 4 Vet. App. 467 (1993) (the probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion the physician reaches.); Hernandez-Toyens v. West, 11 Vet. App. 379, 382 (1998) (the failure of the physician to provide a basis for his/her opinion affects the weight or credibility of the evidence).
+
+Subsequently, VA attempted to obtain adequate VA opinions in March 2022, June 2022, September 2023, and January 2024. However, a review of these opinions shows that VA has not obtained a full or adequate opinion concerning service connection. A January 2023 addendum opinion addresses the aggravation prong of secondary service connection, but there is not an opinion or addendum opinion addressing the proximate cause prong of secondary service connection. A secondary service connection opinion must address both causation and aggravation to be adequate. See Atencio v. O'Rourke, 30 Vet. App. 74, 90 (2018) (holding that, in claims involving service connection on a secondary basis, VA medical opinions must provide separate findings and rationales regarding both causation and aggravation); but cf., El-Amin?v. Shinseki,?26 Vet. App. 136, 140?(2013) (a medical opinion is inadequate when it fails to adequately address the question of aggravation). 
+
+The direct service connection opinions are also inadequate. More specifically, the March 2022 VA opinion does not contain a rationale, and the September 2023 opinion is negative based on the gap in time between the Veteran's service and his OSA diagnosis. A medical opinion is inadequate if it is based solely on the absence of documentation in the record and does not take into account the Veteran's reports of symptoms and history (even if recorded in the course of the examination). See Dalton v. Nicholson, 21 Vet. App. 23 (2007) (examination was inadequate where the examiner did not comment on the appellant's report of in-service injury and instead relied on the absence of evidence in the service medical records to provide a negative opinion). 
+
+Finally, in January 2024, VA obtained an opinion as to whether the Veteran's OSA is due to his conceded toxic exposure risk activities (TERAs). The Board also finds this opinion to be inadequate as it is negative based on the time between the Veteran's service, including his TERAs, and the onset of his OSA. The rationale did not discuss any long term complications of his TERAs and why his exposures did or did not contribute to his later diagnosis of OSA. Again, a negative opinion based solely on the time between the Veteran's service and the diagnosis of a disability is inadequate. See Dalton, supra. Further, a TERA opinion requests that the examiner discuss the effect of the Veteran's TERAs on development of the claimed condition, and the January 2024 VA examiner did not address this at all, instead only discussing the gap between service and diagnosis. 
+
+When VA undertakes to provide a VA examination or obtain a VA opinion it must ensure that the examination or opinion is adequate. Barr v. Nicholson, 21 Vet. App. 303 (2007). It was a pre-decisional duty to assist error to rely on multiple inadequate VA examinations and as such, remand is required to obtain adequate VA opinions addressing the Veteran's contentions. 
+
+The matter is REMANDED for the following action:
+
+Schedule the Veteran for a VA examination from an appropriate clinician in order to determine whether his OSA is related to military service. The examiner must review the claims file and a copy of this remand. All tests deemed necessary should be conducted and the results reported in detail. 
+
+During the examination, the examiner must obtain a detailed medical history regarding onset of symptoms and the medical course of the Veteran's symptoms.
+
+After examination and review of the claims file, the examiner must opine as to the following: 
+
+A)	Did any sleep apnea disorder found, including OSA, begin in service or is otherwise the result of military service? 
+
+B)	Is any sleep apnea disorder due to any toxic exposures as a result of his service? A December 2023 VA Memorandum indicates that the Veteran had Persian Gulf service in Southwest Asia, as well as regular exposure to jet fuels, aircraft exhaust, and industrial solvents. In providing this opinion, the examiner is asked to consider total potential exposure through all applicable military deployments and the synergistic, combined effect of all toxic exposure risk activities of the Veteran. 
+
+C)	If the examiner cannot find that any sleep apnea disorder is directly related to military service (including toxic exposures therein), the examiner should then opine whether it is either (1) caused by; or (2) aggravated (i.e., worsened) by his service-connected disabilities, particularly his chronic bronchitis, anxiety, and/or gastroesophageal reflux disease (GERD), including any medications prescribed for those disabilities.
+
+D)	Finally, if the examiner cannot find a direct or secondary relationship, the examiner must then consider whether the Veteran's service-connected disabilities have caused obesity and if so, if his obesity caused or aggravated his sleep apnea. In this regard, the examiner should opine as to: (1) whether the Veteran's service-connected disabilities-anxiety, GERD, chronic bronchitis, and acne-have caused or aggravated (i.e., worsened) his obesity. If so, then (2) whether the Veteran's obesity has either caused, substantially contributed to, or otherwise aggravated the Veteran's sleep apnea disorder. And, if so, finally (3) whether the Veteran's sleep apnea disorder would not have occurred if-but-for his obesity due to his service-connected disabilities.
+
+In discussing the above, the examiner must address the Veteran's statements regarding the onset of symptomatology and any statements regarding continuity of symptomatology since onset and/or since discharge from service. The Board highlights that this is requesting consideration of continuity of symptomatology, NOT continuity of treatment. 
+
+A complete rationale should be provided for all opinions rendered. The examiner is further reminded that separate and distinct medical opinions with supporting rationales are required for each theory of entitlement addressed, including secondary causation and aggravation.  
+
+ 
+
+ 
+
+MARTIN B. PETERS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Pak
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

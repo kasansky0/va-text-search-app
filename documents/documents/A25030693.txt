@@ -1,0 +1,81 @@
+Citation Nr: A25030693
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 211227-227747
+DATE: April 2, 2025
+
+REMANDED
+
+Whether discharge from participation in VA's Program of Comprehensive Assistance for Family Caregivers (PCAFC) was appropriate is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from August 1997 to May 2013.  His awards and decorations include a Navy and Marine Corps Commendation Medal, Combat Action Ribbon, and Iraq Campaign Medal, among others. 
+
+For clarity, the Board notes the Veteran initially filed a VA Form 10182, Decision Review Request: Board Appeal in December 2021 and elected the Hearing docket.  In a January 2022 letter, VA notified the Veteran that his December 2021 VA Form 10182 could not be accepted because it was not signed.  In February 2022, he submitted a new VA Form 10182 and elected the Direct Review docket. 
+
+Therefore, the Board may only consider the evidence of record at the time of the October 2021 agency of original jurisdiction (AOJ), here the Veterans Health Administration (VHA), decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+The Veteran contends he remains eligible for PCAFC and should not have been discharged from the program following an October 2021 reassessment.  The Veteran contends that the VHA determination was made without seeing the Veteran in person and the VA has "refused to see me in person" for the past two years.  See VA Form 10182, February 4, 2022.
+
+The AOJ's October 2021 decision notice explained that the Veteran was a Legacy participant in PCAFC, stemming from a March 2014 application and grant of benefits.  Further, VA made changes to improve and expand the PCAFC program and Legacy participants needed to be reassessed to ensure the new eligibility criteria remains met.  Based on the reassessment, the Veteran was found to no longer be eligible for the PCAFC because he was no longer in need of personal care services for a minimum of six continuous months based on an inability to perform an activity of daily living (ADL) and/or a need for supervision, protection or instruction.
+
+In the October 2021 decision, the AOJ determined that the Veteran did not meet the PCAFC eligibility criteria because he is not in need of personal care services for a minimum of six continuous months based on an inability to perform an ADL, or have a need for supervision, protection, or instruction.  See 38 C.F.R. § 71.20(a)(3).  The need for supervision, protection, or instruction was previously defined as an individual that has a functional impairment that directly impacts the individual's ability to maintain his or her personal safety on a daily basis.   However, in Veteran Warriors, Inc. v. Sec'y of Veterans Affairs, 29 F.4th 1320 (Fed. Cir. 2022), the United States Court of Appeals for the Federal Circuit invalidated the definition of "[n]eed for supervision, protection, or instruction" in 38 C.F.R. § 71.15 because the frequency requirement (that the functional impairment directly impacts the individual's ability to maintain his or her personal safety on a daily basis) was inconsistent with the statute.
+
+Thus, the Board finds that the conclusion that the Veteran does not require care from a Family Caregiver for a minimum of six continuous months due to an inability to perform an ADL or have a need for supervision, protection, or instruction to be inadequate as it applies an improper legal standard.  Id.  The Board finds that the incorrect standard was applied to the Veteran's claim for continued PCAFC eligibility, and as this constitutes a pre-decisional duty-to-assist error, remand is warranted to obtain an opinion to satisfy a statutory duty under 38 U.S.C. § 5104.  38 C.F.R. § 20.802.
+
+Moreover, the October 2021 decision that the Veteran was not entitled to continued participation in VA's PCAFC relied on an October 2021 Veteran Functional Assessment Instrument (VFAI) completed via clinical video telehealth.  The VFAI found the Veteran was independent in eating, grooming, toileting, and bathing, but required assistance with putting on/taking off socks and shoes as his spinal cord stimulator makes bending over painful.  The Veteran was reported to require visual and verbal reminders for medication management.  The examiner determined the Veteran had "minimal" judgment and physical ability to cope, make appropriate decisions, and take action in a changing environment or a potentially harmful situation.  The Veteran was reported to require daily redirection due to his tendency to become upset/angered.  Severe PTSD, triggered by people wearing masks due to his time in Afghanistan and everyone wearing face coverings, was noted.
+
+In this case, the issue turns on the medical judgment of VHA and Centralized Eligibility and Appeals Team (CEAT) in determining whether the Veteran continued to meet the basic medical eligibility criteria under PCAFC.  Decisions regarding eligibility under a Caregiver Program have been held to be subject to Board review.  See Beaudette v. McDonough, 34 Vet. App. 95, 105 (2021).  It is within the Board's authority to review the adequacy of the evaluations upon which eligibility decisions are made, including CEAT evaluations.  See Owens v. Brown, 7 Vet. App. 429, 433 (1995); Wilson v. Derwinski, 2 Vet. App. 614 (1992).
+
+Here, CEAT's October 2021 review is not adequate to inform a decision on the merits.  There was no explanation provided for the conclusory statement that the Veteran was not in need of personal care services for a minimum of six continuous months based on an inability to perform an ADL, or have a need for supervision, protection, or instruction.  Additionally, the CEAT determination does not appear to be supported by the information in the functional assessment.
+
+Finally, the AOJ shall notify the applicable individuals regarding decisions affecting the furnishing of PCAFC assistance using standardized letters, as the Secretary determines such notifications and letters to be appropriate.  38 U.S.C. § 1720(G)(a)(12)(A).  The notification provided shall include the elements required for notices of decisions under section 5104(b) of this title to the extent that those elements apply to such notification.  38 U.S.C. § 1720G(a)(12)(B).  Notice under 38 U.S.C. § 5104 must include: (1) identification of the issues adjudicated; (2) a summary of the evidence considered by the Secretary; (3) a summary of the applicable laws and regulations; (4) identification of findings favorable to the claimant; (5) in the case of a denial, identification of elements not satisfied leading to the denial; (6) an explanation of how to obtain or access evidence used in making the decision; and (7) if applicable, identification of the criteria that must be satisfied to grant service connection or the next higher level of compensation.  38 U.S.C. § 5104(b).  Notice must also set forth the right to a hearing, the right of representation, and the right to appeal to the Board of Veterans' Appeals.  38 C.F.R. § 3.103(b)(1).
+
+Here, the October 2021 notification letter does not meet the requirements of 38 U.S.C. § 5104; and this is a pre-decisional duty to assist error.  
+
+As correction of these errors by the AOJ in satisfying its duty to assist and regulatory and statutory duties would have at least a reasonable possibility of aiding in substantiating the claim on appeal, the appeal must be remanded for the AOJ to (1) obtain a medical opinion from CEAT as to whether the Veteran is in need of personal care services based on the criteria listed in 38 U.S.C. § 1720G(a)(2)(C); (2) properly consider the Veteran's claim under the eligibility criteria set forth in 38 U.S.C. § 1720G(a)(2)(C)(ii)-(iii); and (3) provide the Veteran with complete notice of the decision as required by 38 U.S.C. § 5104.  See 38 C.F.R. § 20.802.
+
+The matter is REMANDED for the following action:
+
+1. Obtain a current medical opinion from the CEAT as to whether the Veteran: 
+
+(a.) Requires personal care services each time he completes one or more of the following:
+
+i.	Dressing or undressing oneself;
+
+ii.	Bathing;
+
+iii.	Grooming oneself in order to keep oneself clean and presentable;
+
+iv.	Adjusting any special prosthetic or orthopedic appliance, that by reason of the particular disability, cannot be done without assistance (this does not include the adjustment of appliances that nondisabled persons would be unable to adjust without aid, such as supports, belts, lacing at the back, etc.);
+
+v.	Toileting or attending to toileting;
+
+vi.	Feeding oneself due to loss of coordination of upper extremities, extreme weakness, inability to swallow, or the need for a non-oral means of nutrition; or 
+
+vii.	Mobility (walking, going up stairs, transferring from bed to chair, etc.).
+
+b.	Has a need for supervision or protection based on symptoms or residuals of neurological or other impairment or injury; or
+
+c.	Has a need for regular or extensive instruction or supervision without which the ability of the Veteran to function in daily life would be seriously impaired.
+
+d.	In answering all questions, the medical facts and reasons underpinning every conclusion must be articulated.
+
+2.	Issue a notice of the decision on the issue of entitlement to eligibility for PCAFC benefits as described in 38 U.S.C. § 5104.  The notice shall include but is not limited to, a summary of the evidence; a summary of the applicable laws and regulations; identification of findings favorable to the claimant; and identification of the elements not satisfied but necessary for establishing eligibility for PCAFC benefits under 38 C.F.R. § 71.15-71.25.  Notice must be sent to the Veteran, his representative (if applicable), and the Caregiver-Applicant.
+
+ 
+
+ 
+
+H.M. WALKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Johnson, Krista M. (BVA)
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

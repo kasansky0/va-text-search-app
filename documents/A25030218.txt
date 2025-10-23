@@ -1,0 +1,71 @@
+Citation Nr: A25030218
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240726-457859
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to service connection for cervical spine degenerative disc disease (DDD) and intervertebral disc syndrome (IVDS), on a direct basis, is granted.
+
+FINDING OF FACT
+
+The evidence is at least evenly balanced as to whether the Veteran's current cervical spine DDD and IVDS had its onset in service.
+
+CONCLUSION OF LAW
+
+With reasonable doubt resolved in favor of the Veteran, the criteria for service connection for cervical spine DDD and IVDS have been met.  38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Air Force from February 1981 to June 1984.
+
+This case was docketed by the Board of Veterans' Appeals (Board) of the Department of Veterans Affairs (VA) based on a VA Form 10182, Notice of Disagreement (NOD), filed by the Veteran on July 26, 2024.  In the NOD, the Veteran elected the Direct Review docket.  He identified the appealed issue as entitlement to service connection for a cervical spine condition from a July 2024 Higher-Level Review (HLR) rating decision.  The July 2024 HLR rating decision was issued in response to a HLR request for a March 2024 rating decision.  The March 2024 rating decision found that new and relevant evidence had been received for the claimed cervical spine disability, and this determination is binding upon the Board.  38 U.S.C. § 5104A; 38 C.F.R. § 3.104(c).  
+
+The instant decision results in a complete grant of the benefit sought.  Further delay in adjudicating this claim to allow the docket modification period to lapse would not benefit the Veteran.  Williams v. McDonough, 37 Vet. App. 305 (2024); 38 C.F.R. § 20.202(c)(2).  
+
+As to the evidentiary period, the Board may only consider the evidence of record at the time of the March 2024 rating decision, which was subsequently subject to the July 2024 HLR rating decision.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the March 2024 rating decision, which was subsequently subject to HLR, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Service connection
+
+Service connection will be granted if the evidence demonstrates that current disability resulted from an injury suffered or disease contracted in active military, naval, air, or space service.  38 U.S.C. § 1131; 38 C.F.R. § 3.303(a).  Establishing service connection generally requires competent evidence of three things: (1) current disability; (2) in-service injury or disease; and (3) a relationship between the two.  Saunders v. Wilkie, 886 F.3d 1356, 1361 (Fed. Cir. 2018).  Consistent with this framework, service connection is warranted for a disease first diagnosed after service when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Service department records confirm that the Veteran's military occupational specialty was as a fuel specialist.
+
+Service treatment records (STRs) from November 1983 showed that the Veteran sought medical attention for neck pain.  It started approximately two months ago.  He denied any traumatic injury.  Physical findings were detailed.  The clinician assessed muscle spasm and issued medication.  
+
+February 1984 STRs included a medical history questionnaire for a periodic physical examination.  The Veteran's workplace location information was listed as spending 60 percent of his time in the shop and 40 percent of his time on the flight line.  The Veteran had worked as a fuel systems mechanic for approximately three years.  In relevant part, for musculoskeletal issues, he endorsed experiencing stiff joints.  
+
+June 1984 STRs included a separation examination.  The examiner assessed the Veteran's spine, other musculoskeletal as clinically normal.  
+
+In his original November 2020 service connection claim, the Veteran stated that he had a neck condition related to constant twisting while working on jets and awkward positions while working on components in tight spaces.  He sought medical attention during service and recalled being assessed as having neck strain or pulled muscle.  
+
+In November 2023, the Veteran asserted that his neck disorders were secondary to service-connected pes planus and plantar fasciitis.  He had initially thought the neck disorders were related to a military accident, but a doctor informed him that it was due to his foot problems affecting his back.  
+
+In December 2023, the Veteran had a VA-contract neck conditions examination with a nurse practitioner (NP).  The NP diagnosed cervical DDD and IVDS.  The Veteran reported that in 1983 he started experiencing stiffness and soreness in his neck following a tractor accident in an airport hangar.  After separation, he started having headaches with neck pain and stiffness.  The NP detailed the clinical findings for the cervical spine.  She furnished a negative medical opinion for direct service connection.  She detailed the pathologies for cervical DDD and plantar fasciitis.  She was unable to finding any supporting medical literature connecting these two medical conditions.  She concluded that these medical conditions did not share any pathophysiological etiology and that the injury mechanisms were separate and distinct.   
+
+For the following reasons, the Board concludes that service connection for cervical spine DDD and IVDS is warranted.
+
+The December 2023 VA-contract examination report confirms current cervical spine DDD and IVDS diagnoses.  The current disability requirement has thus been met.
+
+STRs showed that the Veteran sought medical attention in November 1983 for neck pain and was assessed as having associated muscle spasms.  Service department records also confirm he worked as an Air Force fuel supply specialist.  The in-service injury requirement has therefore been met.
+
+The disputed issue is a relationship to service for the currently diagnosed cervical spine DDD and IVDS.  The Veteran's report from the November 2020 claim and December 2023 VA-contract examination indicates that he started experiencing neck pain during service.  The Veteran is competent to report about neck pain and its history.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 n.4 (Fed. Cir. 2007).  The Veteran's reports are plausible.  STRs included a consultation for neck pain treatment.  The Veteran's November 2020 and December 2023 about the history of neck pain starting in service are consistent with the circumstances of his service as a fuel supply specialist in the Air Force.  STRs provide some corroboration to these reports.  The Board finds the Veteran's assertions about neck pain symptoms starting in service credible.  With this background, the Veteran's reports are probative to indicate that the Veteran had continuous symptoms starting in service for neck pain leading to the current cervical spine DDD and IVDS diagnoses.  
+
+The December 2023 VA-contract medical opinion weighs against a relationship of the cervical spine disability to service-connected plantar fasciitis but the NP's rationale does not address service connection on a direct basis.  She did not address the issue of direct service connection or consider the Veteran's reports about neck pain dating to service.  Thus, the December 2023 VA-contract medical opinion is not probative on the issue of direct service connection.  There is no other pertinent medical opinion.
+
+For the foregoing reasons, the Board finds that a relationship to service for cervical spine DDD and IVDS based on onset in service is approximately evenly balanced.  As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection for cervical spine DDD and IVDS is warranted.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.  As service connection is awarded on a direct basis, further consideration of alternative theories of entitlement is unnecessary.
+
+ 
+
+ 
+
+Jonathan Hager
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. D. Simpson, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,143 @@
+Citation Nr: A25030265
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240628-451305
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to service connection for a mental health disability is denied.
+
+Entitlement to a rating in excess of 10 percent for right knee tendinitis disability is denied.
+
+Entitlement to service connection for lumbosacral strain (claimed as low back condition) is granted.
+
+FINDINGS OF FACT
+
+1. The probative evidence of record does not show a current mental health disability.
+
+2. Throughout the period on appeal, the Veteran's right knee tendinitis disability was manifested by noncompensable limitation of flexion with pain.
+
+3. The Veteran has a diagnosis from the VA of lumbosacral strain.
+
+4. The Veteran's lumbosacral strain resulted from changes to his gait caused by the symptoms of his service-connected right knee tendinitis. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for a mental health disability have not been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304.
+
+2. The criteria for entitlement to a rating in excess of 10 percent for right knee tendinitis disability have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.71a, Diagnostic Code (DC) 5024-5260. 
+
+3. The criteria for entitlement to service connection for lumbosacral strain have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.10.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service from April 2018 to August 2021. The Board recognizes the Veteran's service to his country and the sacrifices it entailed. 
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from a May 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO) denying service connection for lumbosacral strain and a mental health disability and an April 2024 rating decision denying a rating in excess of 10 percent for his service-connected right knee tendinitis disability.
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may consider only the evidence of record at the time of the April 2024 and May 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the lumbosacral strain claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+1. Entitlement to service connection for a mental health disability is denied.
+
+The Veteran contends that his mental health disability is secondary to his service connected right knee tendinitis disability. See VA Form 21-526EZ.
+
+In general, service connection may be established on a secondary basis for a disability which is the result of a service-connected disease or injury. See generally 38 C.F.R. § 3.310(a). Establishing service connection on a secondary basis requires evidence sufficient to show (1) a current disability exists and (2) that it was either caused or aggravated by a service-connected disability. See Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+Thus, the threshold question for the Board is whether at any time during the period on appeal the Veteran has had a mental health disability. The Board concludes he has not.
+
+In this case, the Veteran's service treatment records do not show any complaints or treatment for symptoms related a mental health disability. There are also no post-service treatment notes in the record that shows complaints of or treatment for a mental health disability.
+
+While the Veteran may believe he has a mental health disability, he is not competent to provide a diagnosis in this case. Diagnosing a condition is medically complex, as it requires specialized medical education. Jandreau v. Nicholson, 492 F.3d 1372, 1377, 1377 n.4 (Fed. Cir. 2007).
+
+The Board notes that it is possible to find a disability where there is no diagnosis, but to do so, there must be sufficient evidence to establish that the symptoms the veteran is experiencing create a functional impairment that would encumber the veteran's post-service employability or earning capacity. Saunders v. Wilkie, 886 F.3d 1356 (Fed. Cir. 2018). Here, the evidence does not provide the Board with enough information concerning the symptoms and effects of his claimed condition to find a disability.
+
+Accordingly, the Board finds the first element of service connection, a current disability, has not been satisfied.
+
+The Board naturally considered the propriety of a remand for a VA medical examination that might potentially generate evidence of a disability. However, the VA had no duty to provide an examination because there is no evidence of record indicating the existence of a disability, or persistent or recurrent symptoms of disability, nor is there evidence the Veteran suffered an event, injury, or disease in service. 38 C.F.R. § 3.159(c)(4)(i); McLendon v. Nicholson, 20 Vet. App. 79, 81 (2006).
+
+Because the evidence of record does not show the Veteran has a mental health disability, the Board cannot grant service connection for it. Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). In such cases, the Board does not address the other elements of service connection.
+
+The Board also observes the Veteran may file a supplemental claim with additional evidence of a disability (and other elements of service connection) within one year of this decision to maintain the effective date of the claim. 38 C.F.R. § 3.2500. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+This appeal is denied.
+
+2. Entitlement to a rating in excess of 10 percent for right knee tendinitis disability is denied.
+
+The Veteran contends that he is entitled to a higher disability rating for his service connected right knee tendinitis disability. See January 2024 VA Form 21-526EZ.
+
+Disability ratings are determined by the application of VA's Schedule for Rating Disabilities (Schedule), which is based on the average impairment of earning capacity. Separate DCs identify the various disabilities. 38 U.S.C. § 1155; 38 C.F.R. Part 4.
+
+Pertinent regulations do not require that all cases show all findings specified by the Schedule, but that findings sufficient to identify the disease and the resulting disability and, above all, coordination of the rating with impairment of function will be expected in all cases. 38 C.F.R. § 4.21; See also Mauerhan v. Principi, 16 Vet. App. 436 (2002).
+
+When after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding the degree of disability, that doubt is resolved in favor of the claimant. 38 C.F.R. § 4.3. Where there is a question as to which of two ratings shall be applied, the higher rating is assigned only if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating is assigned. 38 C.F.R. § 4.7.
+
+The Board also considers whether separate ratings should be assigned for separate periods of time based on changes in the severity of the Veteran's disability over time, a practice known as "staged ratings," in all claims for increased ratings. Fenderson v. West, 12 Vet. App. 119, 126-27 (1999). Based on the facts of this case, however, the Board finds that does not apply here.
+
+In rating disabilities of the musculoskeletal system, it is necessary to consider, along with the schedular criteria, functional loss due to flare-ups of pain, fatigability, incoordination, pain on movement, and weakness. DeLuca v. Brown, 8 Vet. App. 202 (1995). The functional loss may be due to absence of part, or all, of the necessary bones, joints and muscles, or associated innervation, or other pathology and evidenced by visible behavior of the claimant undertaking the motion. Weakness is as important as limitation of motion, and a part that becomes painful on use must be regarded as seriously disabled. 38 C.F.R. § 4.40. Pain on movement, swelling, deformity, or atrophy of disuse as well as instability of station, disturbance of locomotion, interference with sitting, standing, and weight bearing are relevant considerations for determination of joint disabilities. 38 C.F.R. § 4.45. Painful, unstable, or malaligned joints, due to healed injury, are entitled to at least the minimal compensable rating for the joint. 38 C.F.R. § 4.59; Burton v. Shinseki, 25 Vet. App. 1 (2011) (holding that 38 C.F.R. § 4.59 applies to disabilities other than arthritis).
+
+However, painful motion alone is not a functional loss-the pain must cause some restriction of the normal working movements of the body. Mitchell v. Shinseki, 25 Vet. App. 32, 43 (2011). 
+
+Of note, separate compensable ratings may be assigned for limitation of flexion and for limitation of extension, without violating the rule against pyramiding. See 38 C.F.R. § 4.14.
+
+The Veteran's right knee tendinitis disability, is currently rated at 10 percent under DC 5024-5260, based on painful motion of the knee.
+
+Hyphenated DCs are used when a rating under one DC requires use of an additional DC to identify the basis for the rating assigned; the additional code is shown after the hyphen. 38 C.F.R. § 4.27.
+
+DC 5024 pertains to tendinitis. The provisions state that diseases under DCs 5013 through 5024 will be rated on limitation of motion of affected parts, as arthritis, except gout which will be rated under DC 5002.
+
+Under DC 5260, a noncompensable evaluation is warranted when flexion is limited to 60 degrees, a 10 percent disability evaluation when flexion is limited to 45 degrees, a 20 percent disability evaluation when flexion is limited to 30 degrees, and a 30 percent disability rating when flexion is limited to 15 degrees. 38 C.F.R. § 4.71a, DC 5260.
+
+The Veteran was afforded a VA examination in January 2024. The Veteran reported experiencing pain especially with activities and movement. He also reported experiencing flare-up four times a week precipitated by running and prolonged walking. Range of motion testing in the right knee revealed flexion endpoint to 100 degrees and extension to zero degrees. Range of motion testing during flare-ups and with repeated use over time was estimated as flexion endpoint of 80 degrees and extension to zero degrees. There was no evidence of pain with weightbearing, no objective evidence of localized tenderness or pain on palpation, and no evidence of crepitus. There was also no ankylosis, no muscle atrophy, and no recurrent subluxation or persistent instability. See January 2024 Disability Benefits Questionnaire (DBQ).
+
+The Board also considered the Veteran's treatment notes, but they do not reflect greater limitations.
+
+Thus, the Board finds the Veteran's symptoms are consistent with a 10 percent rating based on noncompensable limitation of flexion with pain. While the record shows complaints of pain, the VA examination and the Veteran's treatment notes do not reflect flexion limited to 60 degrees or less. 
+
+The Board has also considered the other DCs pertaining to the knee and leg. Other disability ratings may be assigned only if the symptomatology for a disability is not duplicative or overlapping with the symptomatology of any other disability. See Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994); Lyles v. Shulkin, 29 Vet. App. 107 (2017) (holding that 38 C.F.R. § 4.14 prohibits paying compensation twice for the same symptoms or functional impairment).
+
+Here, there is no lay or medical evidence showing the Veteran's right knee tendinitis disability has manifested by ankylosis, instability, limitation of extension greater than zero degrees, impairment of the tibia or fibula, or genu recurvatum at any time during the appeal period. Therefore, DCs 5256, 5257, 5261, 5262, and 5263 are not applicable in this case. The appeal is denied.
+
+3. Entitlement to service connection for lumbosacral strain (claimed as low back condition) is granted.
+
+The Veteran contends that his lumbosacral strain disability is secondary to his service connected right knee tendinitis disability. See January 2024 VA Form 10182.
+
+Entitlement to service connection on a secondary basis requires evidence of three elements: (1) the claimed disability; (2) a service-connected disability; and (3) a nexus, or causal relationship, between the service-connected disability and the claimed disability. 38 C.F.R. § 3.310.
+
+Here, the Veteran unquestionably has a current disability of lumbosacral strain, and he is service connected for right knee tendinitis disability. See May 2024 Medical Opinion Disability Benefits Questionnaire (DBQ) and May 2024 Rating Decision Codesheet. The only remaining issue is whether the symptoms of the right knee disability caused the lumbosacral strain.
+
+The VA examiner completing the May 2024 DBQ opined that there was no connection. However, while that opinion used language relevant to a secondary service connection analysis, the examiner expressly found no connection because there is no medical literature supporting a direct causal relationship between tendinitis of the knee and lumbosacral strain.  See May 2024 DBQ. This demonstrates a fundamental misunderstanding of what secondary service connection is, and it renders this opinion patently inadequate.
+
+Failure to provide the Veteran with an adequate medical examination and opinion is a predecisional duty to assist error. 38 U.S.C. § 5103A(d)(1); 38 C.F.R. § 3.159(c)(4); see also, Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (the Secretary is responsible not merely for providing an examination or an opinion-they must provide an adequate one).
+
+Frequently, when confronted with a predecisional error, the Board remands the appeal so the AOJ can rectify that error. 38 C.F.R. § 20.802(a). The Board will not remand an appeal, however, when the evidence as it stands is sufficient to resolve the ultimate issue before the Board, even if a remand could provide greater clarity or certainty, because to do so would not only unquestionably prolong the adjudication process, but it may also arguably run afoul of the prohibition on remanding an appeal in order to obtain evidence against the Veteran. 38 C.F.R. § 3.304(c). Mariano v. Principi, 17 Vet. App. 305, 312 (2003); Andrews v. McDonough, 34 Vet. App. 216, 225 (2021).  See also, Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015) (acknowledging a veteran's interests are often better served by providing an immediate and final resolution of their claims versus remanding to cure errors not necessarily affecting the final resolution).
+
+When evaluating the sufficiency of the evidence to decide the appeal, the Board is sensitive to the need to "stay in its lane," so to speak, and avoid invading the province of scientific or medical experts by exercising independent judgment on matters requiring specialized knowledge. See, e.g., Colvin v. Derwinski, 1 Vet. App. 171, 175 (1991). Accordingly, the Board eschews engaging in medical diagnosis. The existence of service connection for a given disability is not a medical diagnosis, however-it is a question of fact. See, e.g., Wood v. Derwinski, 1 Vet. App. 190, 191 (1991). Though the Board carefully considers input from medical professionals and other experts when deciding questions of fact, it does not "outsource" to them its role as the finder of fact.; See, e.g., Sizemore v. Principi, 18 Vet. App. 264 (2004); Delrio v. Wilkie, 32 Vet. App. 232, 242 (2019); Miller v. Wilkie, 32 Vet. App. 249, 259 (2020). As a result, when the question of whether a disability is service-connected is on appeal, providing the ultimate answer is the exclusive province of the Board. See, e.g., Madden v. Gober, 125 F.3d 1477, 1481 (Fed. Cir. 1997); Owens v. Brown, 7 Vet. App. 429, 433 (1995). 
+
+When making factual findings, the Board applies an intentionally generous standard of proof unique in American jurisprudence, created in recognition of the nation's great debt to its veterans. Wise v. Shinseki, 26 Vet. App. 517, 531 (2014).  
+
+Specifically, the Board gives veterans the benefit of the doubt on any material issue when the positive and negative evidence concerning that issue are approximately balanced or nearly equal.  38?U.S.C. §?5107(b); 38 C.F.R. § 3.102.  Therefore, unless the totality of the evidence persuasively weighs against them, the Board finds in favor of the veteran.  Ortiz v. Principi, 274 F.3d 1361, 1364-1365 (Fed. Cir. 2001); Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc); Mattox v. McDonough, 56 F.4th 1369, 1378-1379 (2023).
+
+As a result, after a holistic review of the evidence as a whole, the Board finds the benefit of the doubt doctrine applies to the factual question of whether the Veteran's knee disability caused him to alter his gait in a way that substantially contributed to the development of his lumbosacral strain. 
+
+Secondary service connection for lumbosacral strain is warranted.  This appeal is granted.
+
+ 
+
+ 
+
+Timothy Cothrel
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	I. Duclos
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

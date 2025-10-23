@@ -1,0 +1,61 @@
+Citation Nr: A25030036
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240613-448197
+DATE: April 1, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea is granted.
+
+FINDING OF FACT
+
+The Veteran's obstructive sleep apnea was caused by his service-connected type II diabetes mellitus and/or service-connected posttraumatic stress disorder (PTSD).
+
+CONCLUSION OF LAW
+
+The criteria for service connection for obstructive sleep apnea are met.  38 U.S.C. §§ 1110, 1101, 1112, 1113, 1131, 1137, 5103, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309, 3.310.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from March 1971 to March 1973.  The Veteran passed away in February 2023.  The Appellant is the Veteran's surviving spouse and VA has recognized her as the substituted party in the instant case.  The Agency of Original Jurisdiction (AOJ) denied the claim in a June 2023 rating decision.  
+
+The Appellant submitted a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), on June 13, 2024, in response to the June 2023 rating decision.  The Veteran selected Direct Review by a Veterans Law Judge on her June 13, 2024 Notice of Disagreement.  In adjudicating the claim, the Board may consider evidence associated with the record at the time of the June 2023 rating decision.
+
+Turning to the merits of the service connection claim, service connection may be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred or aggravated in active military service.  This means that the facts establish that a particular injury or disease resulting in disability was incurred coincident with service in the Armed Forces, or if preexisting such service, was aggravated therein.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).
+
+Generally, in order to prove service connection, there must be competent, credible evidence of (1) a current disability, (2) in-service incurrence or aggravation of an injury or disease, and (3) a nexus, or link, between the current disability and the in-service disease or injury.  See Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Pond v. West, 12 Vet. App. 341 (1999).
+
+Further, service connection may be established on a secondary basis for a disability which was either caused or aggravated by a service-connected disability.  38 C.F.R. § 3.310(a); Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+Determinations as to service connection will be based on review of the entire record, to include all pertinent medical evidence.  VA must also consider all favorable lay evidence of record.  38 U.S.C. § 5107(b); see also Layno v. Brown, 6 Vet. App. 465, 469-70 (1994) (a Veteran is competent to report on that of which he or she actually observed and is within the realm of his or her personal knowledge).
+
+At the outset, the Board notes that prior to his death, the Veteran was service connected for type II diabetes mellitus and PTSD.  The Board also notes that the Veteran had a current diagnosis of obstructive sleep apnea.  See November 2019 Sleep Apnea Examination Report.  Thus, the remaining question is whether the Veteran's obstructive sleep apnea was related to his service-connected type II diabetes mellitus and/or PTSD.
+
+In this regard, the evidence of record includes an opinion from C.R.L. concluding that the Veteran's obstructive sleep apnea was at least as likely as not due to the combined effects of his PTSD and type II diabetes mellitus.  With regard to PTSD, C.R.L. reasoned that review of current medical and scientific literature reveals a general consensus of a relationship between PTSD and obstructive sleep apnea.  Specifically, current medical literature reflects that those diagnosed with PTSD have higher rates of obstructive sleep apnea than the general population.  Prolonged sleep deprivation along with sleep fragmentation and hyperarousal due to PTSD related stressors of combat contribute to the etiology of obstructive sleep apnea in that hyperarousal and sympathetic activation from PTSD predisposes to upper airway collapse.  Sleep disturbance is often called the "hallmark" of PTSD and formal DSM-5 criteria includes several sleep-related complaints, including recurrent distressing dreams and sleep disturbances.  Prevalence estimations for obstructive sleep apnea in PTSD patients range from 52 percent to 69 percent with some as high as 95 percent.
+
+With regard to type II diabetes mellitus, C.R.L. reasoned that there is an ever-growing body of literature showing a strong correlation between type II diabetes mellitus and the development of obstructive sleep apnea.  The overall prevalence of obstructive sleep apnea diagnosed by full polysomnography in type II diabetic patients is approximately 71 percent based on the average of data from five studies including a total number of nearly 1200 type II diabetic patients.  With almost two-thirds of those affected by diabetes having moderate to severe obstructive sleep apnea, the coexistence of the association between obstructive sleep apnea and type II diabetes is well-established.
+
+Based on the medical and scientific literature showing a significant relation between both PTSD and type II diabetes mellitus to the development, severity and risk of developing obstructive sleep apnea, and the Veteran's medical records reflecting his type II diabetes mellitus predated his obstructive sleep apnea diagnosis by eight years and his PTSD diagnosis predated his obstructive sleep apnea diagnosis by five years, C.R.L. ultimately concluded that the Veteran's obstructive sleep apnea is at least as likely as not due to the combined effects of his PTSD and type II diabetes mellitus.  C.R.L. cited to medical literature in support of his opinion.
+
+A September 2019 VA examiner opined that the Veteran's sleep apnea was due to his long history of obesity.  The examiner reasoned that it is known that those with obesity are at increased risk for health conditions including sleep apnea and breathing problems.  It is also known that the most common cause of obstructive sleep apnea is excess weight and obesity, which is associated with soft tissue of the mouth and throat.  During sleep, when throat and tongue muscles are more relaxed, this soft tissue can cause the airway to become blocked.  The Veteran had a consistent history of more than two decades of being overweight and obese.  At the time of rendering the opinion, his BMI was 33.9 which is defined by the CDC as Class 1 obesity and in 2009 he was categorized as class 2 obesity with a BMI of 36.9.
+
+A May 2023 VA examiner also indicated that obesity is the most significant risk factor for the Veteran's development of obstructive sleep apnea and that the Veteran's obesity was caused by underlying metabolic syndrome.  The examiner reasoned that the Veteran had clear evidence of underlying metabolic syndrome (insulin resistance), which is manifested as type II diabetes mellitus, obesity, hypertension, hyperlipidemia, coronary artery disease, and hepatic cirrhosis.  The examiner further reasoned that obesity is a significant risk factor for obstructive sleep apnea.  The examiner noted that the prevalence of obstructive sleep apnea in the United States appeared to be increasing due to rising rates of obesity.
+
+The Board finds the opinions from C.R.L. and the September 2019 and May 2023 VA examiners to be particularly probative because they considered the relevant history of the Veteran's obstructive sleep apnea, provided a sufficiently detailed description of the condition, and provided analysis to support the opinion concerning the etiology of the condition.  See Stefl v. Nicholson, 21 Vet. App. 120, 123-24 (2007).  The Board interprets the September 2019 and May 2023 VA opinions as collectively concluding that metabolic syndrome (and diabetes mellitus) caused the veteran to become obese, and his obesity was an intermediate step in developing obstructive sleep apnea.  Therefore, the Board resolves all doubt and finds that sleep apnea was caused by his service-connected type II diabetes mellitus. 
+
+The Board acknowledges that the September 2019 and May 2023 VA examiners ultimately concluded that it is less likely than not that the Veteran's obstructive sleep apnea was aggravated by, is related to, proximately due to, or a result of, or secondary to his service-connected type II diabetes and/or PTSD.  However, in light of the above opinion from C.R.L. linking the Veteran's obstructive sleep apnea to his service-connected type II diabetes mellitus and service-connected PTSD and the above opinion from the September 2019 VA examiner along with the May 2023 VA examiner linking obesity to the Veteran's service-connected type II diabetes mellitus as an intermediate step to developing obstructive sleep apnea; resolving all doubt in the Veteran favor, the Board finds that service connection for obstructive sleep apnea is warranted.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+S.C. Krembs
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Smith-Jennings, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

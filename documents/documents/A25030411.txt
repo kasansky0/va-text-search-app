@@ -1,0 +1,67 @@
+Citation Nr: A25030411
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240122-409614
+DATE: April 2, 2025
+
+REMAND
+
+Entitlement to service connection for obstructive sleep apnea, to include as secondary to a service-connected disability, is remanded.  
+
+Introduction
+
+The Veteran had active service from July 2005 to July 2009. 
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from January 2024 decision issued by a Department of Veterans Affairs (VA) Regional Office. The Veteran filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) in January 2024. He elected the Direct Review docket.  
+
+REASONS FOR REMAND
+
+Under the Appeals Modernization Act (AMA), the Board must remand to the AOJ to correct pre-decisional duty to assist errors (including when the AOJ failed to make reasonable efforts to obtain VA treatment records or relevant federal or private treatment records, failed to obtain a VA examination, or provided an             inadequate VA examination or opinion). 38 C.F.R. § 20.802 (a).
+
+The Veteran has a current diagnosis of obstructive sleep apnea. See July 2021 VA Polysomnography.  The Veteran's service-connected disabilities include PTSD with alcohol use disorder, tendonitis, allergic rhinitis, and other orthopedic disabilities See April 2016 Rating Decision.  
+
+The record raises entitlement to service connection on a secondary, to include on the basis of obesity as an intermediate step.  Obesity may constitute an intermediate step in demonstrating service connection on a secondary basis for sleep apnea if (1) a service-connected disability aggravated weight gain, causing obesity; (2) that obesity was a substantial factor in causing sleep apnea; and (3) sleep apnea would not have occurred but for such obesity. See VAOGCPREC 1-2017; Walsh v. Wilkie, 32 Vet. App. 300 (2020).  
+
+A June 2023 VA examiner concluded that the Veteran's "obesity is the cause of his sleep condition," and explain that, at the time of diagnosis, his body mass index (BMI) was considered obese. The examiner also reasoned that he "has PTSD and alcohol use disorder and history of tendonitis. All of these factors "could contribute" to weight gain."  
+
+In a subsequent addendum opinion, the examiner stated that, because the Veteran was "overweight" at the time of his enlistment to service, his service-connected PTSD with alcohol use disorder (and right hamstring tendonitis) could not be "the cause of him becoming obese."  
+
+The Board finds these medical opinions inadequate.  In this regard, the first June 2023 opinion, indicating that the Veteran's service-connected disabilities "could" contribute to weight gain, is speculative and therefore of reduced probative value.  See Warren v. Brown, 6 Vet. App. 4, 6 (1993) (A physician's statement framed in terms such as "may" or "could" is not probative).  The examiner also did not opine as to whether the Veteran's sleep apnea would not have occurred but for such obesity.
+
+Likewise, the addendum opinion does not provide a sufficient rationale as to the difference between being "overweight" at service entrance and "obese" at the time of the OSA diagnosis.  As discussed above, "obesity" and not only being "overweight" is required for there to be an intermediate step in demonstrating service connection on a secondary basis. See VAOGCPREC 1-2017; Walsh v. Wilkie, 32 Vet. App. 300 (2020).  
+
+Further, the evidence of record at that time of the January 2024 rating decision on appeal includes a sinusitis/rhinitis disability benefits questionnaire.  The report noted that the Veteran's service-connected allergic rhinitis disability caused him to have post-nasal drip, running nose, sneezing, and resulted in difficulty sleeping. This suggests the possibility that the Veteran's OSA may also be secondary to his service-connected rhinitis disability.  
+
+Failure by the AOJ to obtain clarifying and adequate medical opinions (as it pertains to obesity as an intermediate step and as to whether his OSA may be secondary to his service-connected rhinitis disability) constitutes a pre-decisional duty to assist error.  Remand is required. 
+
+The Board does notes that there appears to be a favorable VA medical opinion regarding the Veteran's OSA and his exposure to risk activities in service.  However, this opinion may not be considered by the Board at this time as it is outside of the applicable review period currently on appeal.  
+
+The matters are REMANDED for the following action:
+
+1. Obtain a medical opinion regarding the likely etiology of the Veteran's sleep apnea.  
+
+(a.) The examiner is asked to opine as to whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher), that the Veteran's OSA is either caused or aggravated by his service-connected rhinitis disability.
+
+**Please also note that "aggravation" need not be permanent in nature.  See Ward v. Wilkie, 31 Vet. App. 233, 241-42 (2019).
+
+(b.) State whether it is at least as likely as not that the Veteran's obesity is related, at least in part, to his service-connected disabilities.  
+
+(c.) IF the answer to (b) is yes, then opine whether the Veteran's obesity was a substantial factor in causing the Veteran's sleep apnea.
+
+(d.) IF the answer to (c) is yes, then opine whether the Veteran's sleep apnea would not have occurred but for the obesity caused by his service-connected disabilities? 
+
+(e.) The examiner must provide reasons for all opinions rendered.
+
+ 
+
+ 
+
+R. Casadei
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	W. Dwyer
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

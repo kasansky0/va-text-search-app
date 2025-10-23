@@ -1,0 +1,81 @@
+Citation Nr: A25030527
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240508-439040
+DATE: April 2, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea (OSA), to include as secondary to obesity associated with the service-connected generalized anxiety disorder and left knee disabilities, is granted.
+
+FINDING OF FACT
+
+Resolving reasonable doubt in the Veteran's favor, the evidence suggests that his OSA is etiologically related to his active service; the evidence also supports a finding that OSA was caused or aggravated by his service-connected generalized anxiety disorder and left knee disabilities and their manifestations. 
+
+CONCLUSION OF LAW
+
+The criteria to establish service connection for OSA are met. 38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from October 2013 to October 2018.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a May 2023 supplemental claim decision from a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the May 2023 agency of original jurisdiction (AOJ) supplemental claim decision on appeal. 38 C.F.R. § 20.301. If evidence was submitted after the AOJ issued the supplemental claim decision on appeal, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+The Board notes that the AOJ acknowledged in the May 2023 decision that new and relevant evidence had been received to readjudicate the claim for service connection for OSA. As Board is bound by favorable findings of the AOJ, new and relevant evidence need not be addressed, and the Board may proceed with addressing the issue of entitlement to service connection for OSA.  See 38?C.F.R. §?3.2501.
+
+Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection may be granted for a disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease is due to disease or injury that was incurred or aggravated in service. 38 C.F.R. § 3.303 (d).
+
+Service connection may also be granted for a disability that is proximately due to or the result of a service-connected disability. See 38 C.F.R. § 3.310 (a). When service connection is thus established for a secondary condition, the secondary condition shall be considered a part of the original condition. See 38 C.F.R. § 3.310 (a); Harder v. Brown, 5 Vet. App. 183, 187 (1993). The controlling regulation has been interpreted to permit a grant of service connection not only for disability caused by a service-connected disability, but for the degree of disability resulting from aggravation of a non-service-connected disability by a service-connected disability. See Allen v. Brown, 7 Vet. App. 439, 448 (1995).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall resolve reasonable doubt in favor of the claimant. 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776, 781-782 (Fed. Cir. 2021).
+
+Service Connection for OSA
+
+The Veteran contends that his OSA is related to his active service. Alternatively, he also contends that his OSA is due to weight gain (obesity) secondary to his service-connected anxiety and left knee strain disabilities. He essentially asserts that his service-connected anxiety disorder and musculoskeletal disabilities led to obesity that ultimately caused OSA, as his mental health condition, fatigue, and physical disability cause him to be less motivated to exercise, resulting in his weight gain. See October 2022 Lay Statement. Specifically, the Veteran stated that due to his mental health condition, he has a dry mouth upon awakening, insomnia, nighttime sweating, and that his leg kicks during sleep. Id. He reiterated that his left knee strain limitation of extension and left knee strain recurrent instability disabilities, for which he is service-connected, prevent him from exercising. Id. He also stated that he experiences symptoms of difficulty breathing while sleeping, loud snoring, trouble sleeping, frequent awakening, daytime fatigue, poor concentration, and difficulty completing tasks, due to his sleep apnea. Id. 
+
+The Veteran has a current diagnosis of OSA. See, e.g., October 2022 Sleep Apnea Medical Assessment. He is also currently service-connected for generalized anxiety disorder, left knee strain limitation of extension, and left knee strain recurrent instability. 
+
+Based on the evidence of record, both lay and medical, the Board finds that the evidence is at least in approximate balance that the Veteran's OSA is related to his active service. 
+
+A review of the Veteran's service treatment records (STRs) reveal that he reported sleep disturbance in September 2016. In July 2018, it was noted that the Veteran snores at night. It was also noted that there were concerns for OSA. On his October 2018 Report of Medical History, associated with his separation physical examination, the Veteran reported that he had frequent trouble sleeping. He explained that he experienced sleep paralysis and that he could not sleep. 
+
+In May 2022, a VA examiner opined that OSA is not secondary to the Veteran's allergic rhinitis, concluding that medical literature does not support this contention. The examiner stated that rhinitis may significantly disturb sleep in patients with OSA, although nonallergic rhinitis does not influence the severity of OSA.
+
+In October 2022, a private clinician conducted a sleep apnea medical assessment of the Veteran, diagnosed the Veteran with OSA, and indicated that the Veteran takes medication and requires the use of a continuous positive airway pressure (CPAP) machine for OSA. It was noted that a sleep study was performed. The clinician opined that it is at least as likely as not that the Veteran's weight gain is related to his service-connected generalized anxiety disorder, left knee strain limitation of extension, and left knee strain recurrent instability disabilities; that OSA is secondary to, or aggravated by, the weight gain from the service-connected generalized anxiety disorder and left knee disabilities; and that without the Veteran's weight gain, OSA would not have occurred. The clinician stated that obesity or weight gain is the number one risk factor for developing OSA and that studies further show a relationship between mental health conditions, chronic pain, and chronic sleep impairment. He related this to the Veteran's situation, explaining that the Veteran gained 20 pounds from inactivity due to his anxiety disorder and left knee disabilities. The clinician noted that the Veteran has difficulty sleeping due to nocturnal leg kicks, insomnia, and pain. The clinician also stated that the Veteran developed persistent daytime hypersomnolence, snoring, apneic episodes, trouble falling or staying asleep, fatigue, and poor concentration or difficulty completing tasks. The clinician referred to medical literature and explained how it relates to the Veteran's OSA.
+
+In February 2023, a VA examiner opined that the Veteran's OSA is not related to his anxiety disorder, stating that current medical literature notes OSA as caused by an anatomical condition in which there is an obstruction of the upper airway during sleep. The examiner concluded that, at this time, there is no medical evidence found to support the claim that mood disorders such as generalized anxiety disorder cause the anatomic abnormality responsible for OSA. 
+
+In May 2023, a VA examiner opined that the Veteran's OSA is not related to the left knee strain disabilities, stating that the conditions are not medically related. She explained that OSA is a separate entity entirely from the left knee strain recurrent instability and left knee strain limitation of extension. However, she stated that certain physical traits and clinical features are common in patients with OSA, to include excessive weight, a large neck, and structural abnormalities reducing the diameter of the upper airway, such as nasal obstruction, a low-hanging soft palate, enlarged tonsils, or a small jaw with an overbite. She further noted that central fat distribution and obesity are among the Veteran's risk factors for OSA.
+
+The Board also acknowledges arguments from the Veteran's attorney, submitted in May 2024 with the NOD. The attorney's arguments state, inter alia, that the Veteran's current OSA exhibits the same symptoms that the Veteran experienced in service; that the Veteran's OSA started in service and has continued to the present.
+
+After reviewing the evidence above, the Board finds that, in giving the Veteran the benefit of the doubt, his OSA is directly related to his active service. The Board also concludes that the evidence supports a finding that the Veteran's OSA was etiologically caused or aggravated by his service-connected anxiety disorder and left knee strain disabilities and their manifestations. Here, the Veteran has a current diagnosis of OSA. He experienced OSA symptoms in service, similar to the symptoms he experienced after leaving service. Although OSA was not officially diagnosed in service, it is documented in the Veteran's STRs that OSA was suspected. The Board finds that the Veteran's symptoms have continued since service until the present. Thus, direct service connection for OSA is warranted. 
+
+The Board acknowledges that the medical opinions of record do not address direct service connection. However, given that the evidence contains a sufficient basis on which to grant service connection, the Board finds that a remand could be construed as remanding in order to obtain negative evidence, in violation of 38 C.F.R. § 3.304 (c) ("The development of evidence in connection with claims for service connection will be accomplished when deemed necessary but it should not be undertaken when evidence present is sufficient for this determination."). Accordingly, the Board resolves reasonable doubt in the Veteran's favor in finding that his OSA is related to the OSA symptoms he experienced in service. Service connection is therefore granted for OSA on a direct basis. 
+
+The Board also notes that there is evidence both for and against the claim for secondary service connection for OSA. Specifically, the Board finds that there is at least an approximate balance of positive and negative evidence as to whether the Veteran's OSA is secondary to obesity associated with his service-connected anxiety disorder and left knee strain disabilities.
+
+In making this determination, the Board finds that the private medical opinion is probative to the issue at hand. The clinician reviewed the claims file and discussed relevant medical literature. Although arriving at different conclusions, the private clinician and May 2023 VA examiner both acknowledged that the Veteran's weight gain or obesity was a risk factor for developing OSA. The private clinician specifically indicated that obesity was an intermediate step between the Veteran's service-connected anxiety disorder and left knee strain disabilities. The medical opinion includes an adequate rationale supported by the Veteran's medical records, medical literature, and the medical professional's expertise. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Allen v. Brown, 7 Vet. App. 439 (1995); see also Barr v. Nicholson, 21 Vet. App. 303 (2007). Thus, resolving reasonable doubt in the Veteran's favor, the Board reiterates that service connection for OSA is warranted. 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+A. J. Spector
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T. Trowers
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

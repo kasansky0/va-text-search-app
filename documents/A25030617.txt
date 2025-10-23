@@ -1,0 +1,85 @@
+Citation Nr: A25030617
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240415-433058
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to an initial rating in excess of 30 percent for adjustment disorder with mixed anxiety and depressed mood is denied.
+
+FINDING OF FACT
+
+During the rating period on appeal, the symptoms and overall impairment associated with the Veteran's adjustment disorder have most closely approximated occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks.
+
+CONCLUSION OF LAW
+
+The criteria for an initial disability rating in excess of 30 percent for adjustment disorder with mixed anxiety and depressed mood have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.126, 4.130, DC 9440.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from November 1987 to October 1991.
+
+This matter comes to the Board of Veterans' Appeals (Board) from a February 2024 rating decision of a Department of Veterans Affairs (VA) Agency of Original Jurisdiction (AOJ).
+
+In October 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of an April 2023 decision.  In February 2024 the AOJ issued the HLR decision on appeal, which considered the evidence of record at the time of the prior April 2023 decision. 
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the April 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Increased Rating  
+
+Disability ratings are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects their ability to function under the ordinary conditions of daily life, including employment, by comparing their symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule). See 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.10. If two ratings are potentially applicable, the higher rating will be assigned if the disability more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran. See 38 C.F.R. § 4.3.
+
+In evaluating the severity of a particular disability, it is essential to consider its history. 38 C.F.R. §§ 4.1, 4.2, 4.41. However, where an increase in the disability rating, rather than the propriety of the initial rating, is at issue, the present level of disability is of primary importance, and past medical reports should not take precedence over current findings. Francisco v. Brown, 7 Vet. App. 55, 58 (1994). Regardless of whether an appeal stems from disagreement with the initial rating assigned following an award of service connection or from disagreement with the rating assigned following a claim for increase, separate ratings can be assigned for separate periods of time based on the facts found. Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007) (citing Fenderson v. West, 12 Vet. App. 119, 126 (1999)).
+
+Entitlement to an increased rating for adjustment disorder with mixed anxiety and depressed mood. 
+
+The criteria for rating psychiatric disabilities, other than eating disorders, are set forth in the General Rating Formula for Mental Disorders (General Rating Formula). 38 C.F.R. § 4.130. Under the General Rating Formula, the following ratings are provided:
+
+100 percent rating (the maximum schedular rating) - Total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; memory loss for names of close relatives, own occupation or own name.
+
+70 percent - Occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work like setting); inability to establish and maintain effective relationships.
+
+50 percent - Occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short- and long-term memory (e.g. retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; difficulty in establishing and maintaining effective work and social relationships.
+
+30 percent - Occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks (although generally functioning satisfactorily, with routine behavior, self care, and conversation normal), due to such symptoms as: depressed mood, anxiety, suspiciousness, panic attacks (weekly or less often), chronic sleep impairment, and mild memory loss (such as forgetting names, directions, recent events).
+
+10 percent - Occupational and social impairment due to mild or transient symptoms which decrease work efficiency and ability to perform occupational tasks only during periods of significant stress, or; symptoms controlled by continuous medication.
+
+When determining the appropriate disability evaluation to assign, the Board's primary consideration is the veteran's symptoms, but it must also make findings as to how those symptoms impact a veteran's occupational and social impairment. Vazquez-Claudio v. Shinseki, 713 F.3d 112 (Fed. Cir. 2013). The use of the term "such as" in the rating criteria demonstrates that the symptoms after that phrase are not intended to constitute an exhaustive list, but rather are to serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating. Mauerhan v. Principi, 16 Vet. App. 436 (2002). Thus, the Board need not find the presence of all, most, or even some, of the enumerated symptoms to award a specific rating. Id. at 442.
+
+Nevertheless, all ratings in the General Rating Formula are also associated with objectively observable symptomatology and the plain language of the regulation makes it clear that the veteran's impairment must be "due to" those symptoms; a veteran may only qualify for a given disability rating by demonstrating the particular symptoms associated with that percentage, or others of similar severity, frequency, and duration. Vazquez-Claudio, 713 F.3d at 118. The Board recognizes that in Mauerhan 16 Vet. App. 436, the United States Court of Appeals for Veterans Claims (Court) stated that the symptoms listed in VA's General Rating Formula is not intended to constitute an exhaustive list, but rather are to serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating. However, the Court further indicated that without those examples, differentiating between rating evaluations would be extremely ambiguous.
+
+In July 2021 correspondence, the Veteran reported that due to his physical limitations associated with his service-connected disabilities, he often felt down, sad, and unmotivated. He reported withdrawing from people sometimes because of how he feels and because he wants to be by himself. He reported getting overwhelmed and feeling anxious because of his limitations, and he reported worrying that he will not be able to be independent in the future due to his disabilities. He further reported difficulty being intimate with his wife due to his service-connected disabilities and concerns.
+
+A March 2022 private opinion from Dr. C.W. notes that the Veteran has frequent panic attacks, difficulty understanding complex commands, short- and long-term memory impairment, impaired judgement, motivation and mood disturbances, and difficulty in establishing and maintaining relationships. She stated she based this assessment on review of the Veteran's lay statement and the medical evidence of record.
+
+The Veteran was afforded a VA Mental Disorders examination in March 2023. The examiner documented symptoms of depressed mood, anxiety, and chronic sleep impairment. The examiner noted that when asked about mental health concerns, the Veteran stated that he gets depressed "a lot" but does not have the "luxury to express my emotions."  He described not wanting to get out and do things socially due to limitations of physical pain and awkwardness due to his size. Further, issues related to his knee pain have impacted both social interactions and family matters. The Veteran reported that he resides with his wife of thirty-four years, maintains contact with his three grown children, and has a "handful of friends," but mostly socializes with family. He reported engaging in some leisure activities including hunting, watching television, and occasional household projects. With regard to work, the Veteran reported that he has worked in the same field for twenty-five years and is currently a systems engineer for a government contractor. He indicated his daily routine consists of waking up at 4:00am for work and returning home around 4:00pm to eat dinner and watch television before bed.  No symptoms of psychosis were observed during the interview and the Veteran displayed adequate insight and judgement. He denied thoughts of harm to himself or others.
+
+VA clinical records note that the Veteran has denied feelings of depression, anxiety, and an unusual amount of stress (e.g., March 24, 2022, September 30, 2022, March 4, 2021, October 20, 2020). There is no probative evidence of suicidal ideation, and his suicide screens were negative (e.g., September 2022, December 2022, March 2022). He has not been clinically found to be a danger to himself or others, and at no time has hospitalization been required due to his mental health.
+
+While the Veteran has reported psychiatric symptoms, including feeling withdrawn and unmotivated, overwhelmed, anxious, and depressed, the evidence persuasively weighs against a rating in excess of the currently assigned rating of 30 percent. The clinical records do not support symptoms of the severity or frequency to more closely approximate the criteria for a 50 percent rating at any point during the claim period. Again, it is not the mere presence of a symptom listed as an example in the rating criteria which warrants the rating, but the effect that the symptom has on a veteran's functional ability.
+
+The evidence does not establish that the Veteran's symptoms cause occupational and social impairment with reduced reliability and productivity, or impairment consistent with even higher ratings. In that regard, the most probative evidence of record does not establish legal troubles, physical violence, drug abuse, neglect of personal hygiene, flattened affect, panic attacks more than once per week, difficulty understanding complex commands, memory loss so significant that only highly learned material is retained, speech impairment, impaired judgment or abstract thinking, or difficulty establishing and maintaining work and social relationships. Although the Veteran has described disturbances of mood and motivation, the Board finds they are consistent with the contemplated symptoms of depressed mood and anxiety contemplated by the 30 percent rating criteria. Notably, the Veteran has been married to the same woman throughout the claim period and has been married to her for over three decades. He has a small group of friends, enjoys hunting, and socializes with family. He maintains contact with his adult children. His twenty-five-year work history in the same field and continued ability to wake up at 4:00am for work as a systems engineer is not suggestive of the occupational impairment with reduced reliability and productivity contemplated by the 50 percent rating criteria. 
+
+Although the March 2022 private opinion states that the Veteran has frequent panic attacks, difficulty understanding complex commands, short- and long-term memory impairment, impaired judgement, motivation and mood disturbances, and difficulty in establishing and maintaining relationships, the March 2023 examination report notes only depression, anxiety, and chronic sleep impairment. The Board finds the March 2022 opinion less probative than the other evidence of record, including the March 2023 VA examination and the Veteran's own July 2021 statement, because the private opinion was not based on an interview with or other assessment of the Veteran and appears to misconstrue the symptoms described in the Veteran's lay statement. In that regard, although the Veteran's July 2021 lay statement discusses feelings of being overwhelmed and anxious, it does not describe panic attacks, let alone frequent panic attacks. It also does not discuss difficulty understanding complex commands, memory impairment, or impaired judgment. The clinician who conducted the Veteran's VA examination observed that the Veteran displayed adequate insight and judgment and did not note memory issues. The other clinical evidence of record also does not support the symptoms listed by the private clinician. VA treatment records note that the Veteran has consistently denied suicidal ideation, depression, anxiety, and unusual stress. See March 24, 2022, September 30, 2022, March 4, 2021, October 20, 2020 VA treatment records. Thus, the Board finds the March 2022 private opinion does not establish that the level of occupational and social impairment contemplated by the 50 percent rating criteria is more closely approximated. 
+
+In sum, the Veteran's current 30 percent rating adequately compensates him for the occupational and social impairment caused by his service-connected psychiatric disability throughout the claim period. His impairment does not more closely approximate the level of impairment associated with a higher rating. As the evidence is persuasively against entitlement to a rating in excess of 30 percent, the benefit of the doubt rule does not apply, and the claim for a higher rating must be denied.
+
+ 
+
+ 
+
+L. STEPANICK
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Barbato
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

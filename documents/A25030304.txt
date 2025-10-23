@@ -1,0 +1,115 @@
+Citation Nr: A25030304
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240411-432410
+DATE: April 2, 2025
+
+ORDER
+
+The appeal concerning service connection for diabetes is dismissed.
+
+REMANDED
+
+Entitlement to service connection for hepatitis C is remanded.
+
+Entitlement to service connection for non-Hodgkin's lymphoma is remanded.
+
+FINDING OF FACT
+
+The December 2023 Higher-Level Review (HLR) rating decision that found additional development was necessary to adjudicate the claim for entitlement to service connection for diabetes is not an adjudicative determination that can be appealed. 
+
+CONCLUSION OF LAW
+
+The criteria for dismissal of the issue of entitlement to service connection for diabetes have been met. 38 U.S.C. § 7105; 38 C.F.R. §§ 3.2500, 3.2601(g), 20.202(a). 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from March 1971 to February 1973.
+
+A rating decision regarding entitlement to service connection for hepatitis C and non-Hodgkin's lymphoma was issued under the legacy system in May 2018.  In October 2018, the Veteran opted into the modernized review system, also known as the Appeals Modernization Act (AMA), by submitting a Rapid Appeals Modernization Program (RAMP) election form and selecting the higher-level review (HLR) lane.  The agency of original jurisdiction (AOJ) issued a RAMP HLR decision in February 2024, which is the decision on appeal. In the February 2024 rating decision, the AOJ explained that in processing the Veteran's HLR request, a duty to assist error was identified and additional development was completed.  
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. 
+
+Therefore, the Board may only consider the evidence of record at the time of the February 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claims for service connection for hepatitis C and non-Hodgkin's lymphoma, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+The procedural history of the appeal regarding entitlement to service connection for diabetes will be discussed thoroughly in the following section. 
+
+The appeal concerning service connection for diabetes. 
+
+In August 2023, the AOJ issued a denial of the Veteran's claim for service connection for diabetes. Later that month, VA received the Veteran's VA Form 20-0996 Request for HLR of the August 2023 rating decision regarding diabetes. In December 2023, the AOJ issued a HLR rating decision determining that a duty to assist error was identified during the higher-level review for diabetes.  In April 2024, VA received the Veteran's Notice of Disagreement which listed, in part, the Veteran's disagreement with the December 2023 rating decision regarding diabetes. In June 2024, the AOJ issued a rating decision which granted service connection for diabetes, effective August 23, 2023. In September 2024, the AOJ issued a rating decision granting an effective date of August 10, 2022, for date for the award of service connection for diabetes. 
+
+The Board finds that the December 2023 HLR decision, which identified a duty to assist error in the August 2023 decision in this matter, is not a final decision eligible for another AMA review option. The AOJ's identification of a duty to assist error and notice of its intent to correct the error is the equivalent of a deferred rating decision and is not a decision on the merits of the claim, which remained pending before the AOJ until correction of the duty to assist error and issuance of a supplemental decision. 38 C.F.R. § 3.2601(g) (when an HLR adjudicator both identifies a duty to assist error that existed at that time and cannot grant the maximum benefit for the claim, the claim is then returned to the AOJ to correct all identified duty to assist errors, complete a new decision and issue notice to the claimant and his or her representative). In other words, a decision such as the December 2023 HLR decision that merely identifies an error and refers to future action is not a determination by the AOJ, and, therefore, the filing of a Notice of Disagreement on such a decision does not place the issue in appellate status. See 38 C.F.R. § 20.201; Shipley v. Shinseki, 24 Vet. App. 458 (2011) (concluding that a deferred rating decision does not constitute an appealable adjudicative action). 
+
+Accordingly, the Board finds that the April 2024 NOD did not express dissatisfaction or disagreement with an adjudicative determination regarding the issue of service connection for diabetes. Consequently, there is no specific adjudicative determination with which the claimant disagrees, and the appeal must therefore be dismissed. See 38 U.S.C. § 7105(d).
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for hepatitis C.
+
+The Veteran contends that his hepatitis C is due to service. Specifically, the Veteran contends that such is due to the receipt of vaccinations during service. 
+
+Notably, in the February 2024 rating decision, the AOJ found that the Veteran is diagnosed with hepatitis C, according to the December 2023 VA examination; that service treatment records (STRs) dated March 1971 reflects that the Veteran received vaccinations; and it is conceded that the Veteran participated in toxic risk exposure risk activities (TERA), pursuant to VA Memorandum. Specifically, the November 2023 and December 2023 TERA memorandums explain that the Veteran was exposed to military occupational specialty (MOS) related hazards due to his work as an army wheel vehicle mechanic and quartermaster equipment repairman, respectively.
+
+A review of the Veteran's STRs reveals that in October 1972, the Veteran presented with yellowed eyes, nausea, vomiting, jaundice, and reported infrequent needle use. The clinician's notes include "check for hepatitis." About one week later, STRs reflect "yellow nearly gone from eyes" and "resolving hep [sic]." 
+
+In May 2018, a VA examiner opined that the Veteran's hepatitis C is not due to tattoos in service as he did not receive such during service. Upon examination, the examiner indicated that the Veteran's STRs reflect "yellowing of eyes, generalized anorexia, nausea and vomiting" in October 1972. However, the examiner did not opine as to whether the Veteran's current hepatitis C is related to the documented in-service reports. The Board finds that this opinion is inadequate as it does not address the in-service documentation of symptoms of hepatitis C. 
+
+In December 2023, VA obtained an additional examination and opinion regarding the Veteran's hepatitis C. Again, upon examination, the examiner acknowledged the Veteran's acute hepatitis noted in service in 1972. However, when rendering a nexus opinion, the VA examiner opined that such condition is not due to vaccine injections. The examiner explained that the diagnosis is resolved and provided no rationale for the negative nexus opinion provided. The Board further finds this opinion is inadequate as it does not address the in-service documentation of symptoms of hepatitis C.
+
+The December 2023 examiner also opined that the Veteran's hepatitis C is less likely than not caused by the indicated TERA, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran. The examiner's only rationale is that the Veteran's medical records do not support that his hepatitis C is caused by his military TERA. The Board finds this opinion is inadequate as the examiner does not provide any rationale beyond a vague reference to lack of support in the Veteran's medical records. Moreover, the examiner only acknowledged one of the sources of the Veteran's TERA, his MOS as army wheel vehicle mechanic and did not acknowledge the Veteran's exposures due to his MOS as quartermaster equipment repairman. 
+
+Accordingly, the Board finds that the failure to obtain adequate medical opinions regarding the etiology of the Veteran's hepatitis C is a pre-decisional duty to assist error and remand is required obtain adequate opinions regarding such.  
+
+2. Entitlement to service connection for non-Hodgkin's lymphoma.
+
+The Veteran contends that his non-Hodgkin's lymphoma is caused by his hepatitis C. 
+
+The Board notes that in the February 2024 rating decision, the AOJ found that the Veteran is diagnosed with non-Hodgkin's lymphoma (hereafter "lymphoma"); that the lymphoma is secondary to hepatitis C; that the lymphoma is a chronic disability that may be presumptively linked to the Veteran's military service; that the Veteran meets the minimum requirements for presumptive service connection; that the lymphoma has manifested to a compensable degree following service; and that the Veteran was exposed to TERA. The Board is bound by the AOJ's favorable findings under the AMA. 38 C.F.R. § 3.104(c).
+
+While the Veteran's primary contention is that his lymphoma is due to hepatitis C and the record already contains a medical opinion supporting such; VA has obtained a medical opinion regarding whether the Veteran's lymphoma is caused by his participation in TERA during active duty. The Board finds that there is a pre-decisional duty to assist error because such opinion is inadequate. In this regard, the Board emphasizes that once VA undertakes the effort to obtain an examination or opinion when developing a service connection claim, such must be adequate. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). 
+
+As previously explained, the November 2023 and December 2023 TERA memorandums explain that the Veteran was exposed to MOS related hazards due to his work as an army wheel vehicle mechanic and quartermaster equipment repairman, respectively.
+
+The December 2023 examiner opined that the Veteran's lymphoma is less likely than not caused by the indicated TERA, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran. The examiner's only rationale is that the Veteran's medical records do not support that his lymphoma is caused by his military TERA. The Board finds this opinion is inadequate as the examiner does not provide any rationale beyond a vague reference to lack of support in the Veteran's medical records. Moreover, the examiner only acknowledged one of the sources of the Veteran's TERA, his MOS as army wheel vehicle mechanic and did not acknowledge the Veteran's exposures due to his MOS as quartermaster equipment repairman. 
+
+Accordingly, the Board finds that the failure to obtain an adequate medical opinion regarding whether the Veteran's TERA caused the Veteran's lymphoma is a pre-decisional duty to assist error and remand is required obtain an adequate opinion. 
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for a VA examination regarding hepatitis C with an examiner other than the December 2023 examiner. Following a review of this remand and other pertinent records, the examiner is asked to provide a response to the following:
+
+(a.) Is the hepatitis C approximately at least as likely as not related to service, including the documented yellowing eyes, jaundice, and documentation of resolved hepatitis noted in the Veteran's October 1972 STRs?
+
+In providing the requested opinion, consider the Veteran's description of the in-service symptoms as well as post-service symptoms. If there is any medical reason to accept or reject the proposition that the Veteran's reported symptoms in service and thereafter represented the onset of the current disability, this should be noted. Stated another way, do the Veteran's reports about the symptoms align with how the currently diagnosed disability is known to develop or are the Veteran's reports generally inconsistent with medical knowledge or implausible? 
+
+A rationale must be provided. 
+
+(b.) Is the hepatitis C due to the combined synergistic effect of the Veteran's total potential toxic exposure in service?
+
+In rendering this opinion, consider and discuss the Veteran's in-service exposure based on his exposures related to two different military occupational specialties as established in the November 2023 and December 2023 VA memorandums.
+
+Provide a rationale to support each opinion.
+
+2. Schedule the Veteran for a VA examination for the non-Hodgkin's lymphoma with an examiner other than the December 2023 examiner. Following a review of this remand and other pertinent records, the examiner is asked to provide a response to the following:
+
+(a.) Is the non-Hodgkin's lymphoma due to the combined synergistic effect of the Veteran's total potential toxic exposure in service?
+
+In rendering this opinion, consider and discuss the Veteran's in-service exposure based on his exposures related to two different military occupational specialties as established in the November 2023 and December 2023 VA memorandums.
+
+Provide a rationale to support each opinion.
+
+ 
+
+ 
+
+Nathaniel Doan
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	N. M. Younan
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,73 @@
+Citation Nr: A25030140
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 231105-391747
+DATE: April 1, 2025
+
+ORDER
+
+Entitlement to an initial disability rating of 10 percent, but no higher, for service-connected asthma is granted. 
+
+FINDING OF FACT
+
+The Veteran treated his asthma with intermittent inhalational bronchodilator therapy.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial disability rating of 10 percent, but no higher, for service-connected asthma have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.96, 4.97, Diagnostic Code 6602.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the U.S. Army Reserves with an initial period of active duty for training from June 1998 to November 1998 and subsequent active-duty service from February 2003 to August 2003 and from October 2004 to January 2006.
+
+The rating decision on appeal was issued in October 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the November 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the October 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+While this appeal was pending, the Veteran filed a supplemental claim for an increased rating in March 2024, so additional documentation and VA examination report(s) were added to the file. This evidence was received by VA and associated with the claims file after the rating decision on appeal and, therefore, cannot be considered by the Board based on the Veteran's choice of the Direct Review docket. 
+
+Separately, VA medical records containing treatment records from prior to the October 2023 rating decision were associated with the claims file after the rating decision. While ordinarily the Board may not consider evidence received outside the evidentiary window in its decision, see 38 C.F.R. § 20.300, when implementing the AMA, VA incorporated the constructive possession concept set forth in Turner in the drafting of § 3.103(c)(2)(iii) for determining when constructive receipt occurs. See 84 Fed. Reg. 138, 141 (Jan. 18, 2019); see Turner v. Shulkin, 29 Vet. App. 207, 218 (2018) (holding, in part, that constructive receipt requires "knowledge by VA adjudicators at the [Veterans Benefits Administration (VBA)] of the existence of those VA treatment records.").  Therefore, 38 C.F.R. § 3.103(c)(2)(iii) explicitly states VA will not consider any evidence associated with the file after the AMA decision, to include evidence constructively received, unless VBA had knowledge of the existence of the records.  Here, the Board has considered test results and prescription dosage information referenced in the VA treatment records dated prior to the decision on appeal, but not downloaded to the claims file until after that decision. VA was aware of these records, and, therefore, these records are considered constructively received prior to the decision on appeal under 38 C.F.R. § 3.103(c)(2)(iii) and may be considered in the instant appeal. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Veteran seeks an initial compensable rating for asthma. The period on review currently before the Board under the AMA is limited to the period considered by the AOJ (i.e., ends at the issuance of the AOJ decision on appeal). The review period and the evidentiary windows are distinct concepts in AMA that are not interchangeable (the review period is the time which VA is assigning a rating for the issue on appeal; the evidentiary window is the time which evidence may be submitted and considered for the issue on appeal). Here, the applicable rating period is from January 23, 2023, the effective date of service connection for this disability, through October 27, 2023, the date of the rating decision on appeal. See 38 C.F.R. § 3.400. 
+
+Again, the Veteran filed a supplemental claim in 2024, which was adjudicated in a September 2024 rating decision. Based on the AMA's evidentiary rules and his choice of the Direct Review docket, none of the evidence added to the file after October 2023 can be considered as part of this appeal.
+
+Since January 23, 2023, the Veteran has had an initial noncompensable rating for service-connected asthma under 38 C.F.R. § 4.97, Diagnostic Code 6602.
+
+Under Diagnostic Code 6602, a 10 percent rating is warranted for an FEV-1 of 71 to 80 percent predicted, or; FEV-1/FVC of 71 to 80 percent, or; intermittent inhalational or oral bronchodilator therapy. 
+
+A 30 percent rating is warranted for an FEV-1 of 56 to 70 percent predicted, or; FEV-1/FVC of 56 to 70 percent, or; daily inhalational or oral bronchodilator therapy, or; inhalational anti-inflammatory medication.
+
+A 60 percent rating is warranted for an FEV-1 of 40 to 55 percent predicted, or; FEV-1/FVC of 40 to 55 percent, or; at least monthly visits to a physician for required care of exacerbations, or; intermittent (at least three per year) courses of systemic (oral or parenteral) corticosteroids.
+
+A 100 percent rating is warranted for an FEV-1 of less than 40-percent predicted, or; FEV-1/FVC of less than 40 percent, or; more than one attack per week with episodes of respiratory failure, or; requires daily use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medications.
+
+When evaluating pulmonary function test (PFT) results, post-bronchodilator results studies are required except when the results of pre-bronchodilator PFTs are normal or when the examiner determines that post-bronchodilator studies should not be done and states why. 38 C.F.R. § 3.96 (d)(4). When evaluating PFT's, the post-bronchodilator results are used in applying the rating criteria in the rating schedule unless the post-bronchodilator results were poorer than the pre-bronchodilator results. In those cases, the pre-bronchodilator values are used for rating purposes. 38 C.F.R. § 3.96 (d)(5).
+
+During the period on appeal, the Veteran completed several PFTs. In February 2023, the Veteran's pre-bronchodilator FEV-1 was 87 percent predicted and his pre-bronchodilator FEV-1/FVC was 83 percent. Because his spirometry was within normal limits, post-bronchodilator testing was not completed. See February 2023 PFT. In August 2023, the Veteran completed PFTs as part of a VA examination. In these PFTs, his post-bronchodilator FEV-1 was 85 percent predicted and his post-bronchodilator FEV-1/FVC was 111 percent. See August 2023 VA Examination; August 2023 PFTs. In October 2023, the Veteran again completed PFTs as part of a VA examination. In these PFTs, his post-bronchodilator FEV-1 was 93 percent predicted and his post-bronchodilator FEV-1/FVC was 84 percent. See September 2023 VA Examination; October 2023 PFTs. 
+
+None of these spirometry results warrant a compensable rating because all post-bronchodilator FEV-1 results are greater than 80 percent predicted and all FEV-1/FVC results are greater than 80 percent. Therefore, a compensable rating is not warranted based on the results of the Veteran's pulmonary function testing. 
+
+Turning to the Veteran's asthma medications, in the Veteran's September 2023 VA examination, he told the examiner that he has "an albuterol inhaler but [he does not] like using it." See September 2023 VA examination. The Board notes that an albuterol inhaler is an inhalational bronchodilator medication. The Veteran's VA medical records do not show an albuterol inhaler prescription prior to September 2023. However, the Board observes that, in a January 2023 VA treatment record prior to the period on appeal, the Veteran reported to VA providers that he had been given an inhaler earlier that month for treatment of his COVID-19 and/or COVID-related pneumonia. See January 2023 VA Treatment Records. 
+
+The day after the VA examination (September 21, 2023), the Veteran had a six-month follow-up appointment with VA, during which he complained of shortness of breath and not feeling like he could breathe deeply when exercising. He reported he had previously used Flonase and an inhaler but was currently not using either. At this encounter he was prescribed a refill of his albuterol inhaler, to be used "four times a day, if needed." See VAMC records, received March 2024, list of medications, entry dated September 22, 2023, Albuterol ordered with instructions "INHALE 2 PUFFS FROM ORAL INHALER FOUR TIMES A DAY IF NEEDED FOR BREATHING" (emphasis added).  This is consistent with the Veteran's statement in his November 2023 VA Form 10182 that his albuterol inhaler is prescribed "to be used as needed daily." See November 2023 VA Form 10182 (emphasis added). 
+
+Therefore, resolving all doubt in favor of the Veteran, the Board finds that the Veteran treated his asthma with intermittent inhalational bronchodilator therapy for the entire period on appeal, which warrants an initial 10 percent disability rating.  The record before the Board does not support a finding that the Veteran's asthma is treated with daily inhalational or oral bronchodilator therapy, or; inhalational anti-inflammatory medication. First, there is no inhalational anti-inflammatory medication prescription of record. Next, while the Veteran is prescribed an inhalational bronchodilator which could be used daily, it was ordered on an "as needed" basis only. No medical professional has indicated his asthma required daily use of the bronchodilator. Instead, the September 2023 albuterol prescription orders inhaler use "if needed," not "daily." It is clear that prior to that prescription, he was not even using his inhaler intermittently, since he told the September 2023 VA examiner that he had "an albuterol inhaler but [did not] like using it."); September 2023 VA Treatment Record (stating he was not currently using his prescribed inhaler). Moreover, the Veteran does not contend, and the records do not reflect, that he was prescribed any corticosteroids, or immuno-suppressive medications for treatment of his asthma, nor did he experience monthly exacerbations or any respiratory failures due to asthma during the period on appeal. Therefore, a disability rating in excess of 10 percent is not warranted. 
+
+In conclusion, the Veteran used an inhalational bronchodilator intermittently to treat his asthma, therefore, an initial 10 percent disability rating, but no higher, is granted. 
+
+ 
+
+ 
+
+MICHELLE L. KANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	L.C. Reader, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

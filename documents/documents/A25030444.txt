@@ -1,0 +1,83 @@
+Citation Nr: A25030444
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240424-435498
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to an initial disability rating in excess of 10 percent for the Veteran's service-connected asthma is denied.
+
+FINDING OF FACT
+
+The evidence persuasively shows that the Veteran's asthma has manifested Forced Expiratory Volume in one second (FEV-1) of 71- to 80-percent predicted and requires intermittent inhalational bronchodilator therapy.
+
+CONCLUSION OF LAW
+
+The criteria for establishing entitlement to an initial disability rating in excess of 10 percent for the Veteran's service-connected asthma have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.10, 4.21, 4.96, 4.97, Diagnostic Code 6602
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from August 2004 to January 2006.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an April 2024 rating decision from a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In March 2023, the RO issued a rating decision granting entitlement to service connection for the Veteran's asthma, and assigning an initial 10 percent disability rating.  Thereafter, on December 19, 2023, the Veteran filed a VA Form 20-0996, Decision Review Requests, seeking Higher-Level Review of the March 2023 decision.  Pursuant to this Decision Review Request, a Higher-Level Review rating decision was issued in April 2024.  In this rating decision, the VA continued the previous 10 percent disability rating. 
+
+In April 2024, the Veteran disagreed with the above-noted Higher Level Review rating decision and filed a VA Form 10182 (Decision Review Request: Board Appeal (Notice of Disagreement)).  The Veteran selected the Direct Review Docket by submitting notice of disagreement under the Appeals Modernization Act (AMA).  38 C.F.R. § 19.2(d).  Accordingly, based on the Veteran's selections of the Higher-Level Review and the Direct Review option, the Board is limited to review of the evidence in the record up and until the date of notification of the March 2023 rating decision for the issues on appeal.  See 38 C.F.R. §§ 3.2601, 20.301.
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision on the above claim.  38 C.F.R. § 20.300.  If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Increased Rating-Legal Criteria
+
+Disability ratings are determined by applying the criteria set forth in VA's Schedule for Rating Disabilities.  Ratings are based on the average impairment of earning capacity.  Individual disabilities are assigned separate diagnostic codes.  See 38 U.S.C. § 1155; 38 C.F.R. § 4.1.  Where there is a question as to which of the two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned.  See 38 C.F.R. § 4.7. 
+
+In both initial rating claims and normal increased rating claims, the Board must discuss whether "staged ratings" are warranted, and if not, why not.  Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007).  The analysis in the following decision is therefore undertaken with consideration of the possibility that different ratings may be warranted for different time periods.
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).  To deny a claim on its merits, the weight of the evidence must persuasively stand against a finding that the evidence is in "approximate balance" or "nearly equal" to the evidence that supports the claim.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+Asthma-Legal Criteria
+
+The Veteran was assigned a 10 percent rating for his service-connected asthma disability under 38 C.F.R. § 4.97, Diagnostic Code 6602.
+
+Under Diagnostic Code 6602, a 10 percent evaluation is warranted for FEV-1 of 71- to 80-percent predicted; the ratio of FEV-1 to Forced Vital Capacity (FEV-1/FVC) of 71 to 80 percent; or intermittent inhalational or oral bronchodilator therapy.  
+
+A 30 percent evaluation is warranted for FEV-1 of 56- to 70-percent predicted; FEV-1/FVC of 56 to 70 percent; daily inhalational or oral bronchodilator therapy; or inhalational anti-inflammatory medication.  
+
+A 60 percent rating, the evidence must show FEV-1 of 40- to 55-percent predicted; FEV-1/FVC of 40 to 55 percent; at least monthly visits to a physician for required care of exacerbations; or, intermittent (at least three per year) courses of systemic (oral or parenteral) corticosteroids.  
+
+A 100 percent evaluation is warranted for FEV-1 less than 40-percent predicted; FEV-1/FVC less than 40 percent; more than one attack per week with episodes of respiratory failure; or requires daily use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medications.
+
+The Board further notes that under 38 C.F.R. § 4.96(d), entitled "Special provisions for the application of evaluation criteria for diagnostic codes 6600, 6603, 6604, 6825-6833, and 6840-6845," seven subsections are provided with specific instructions for rating under those Diagnostic Codes.  38 C.F.R. § 4.96(d)(1)-(7).  However, the Board observes that Diagnostic Code 6602 for bronchial asthma, which is the most appropriate diagnostic code for the Veteran's service-connected disability, is not included in these special provisions.  Thus, the provisions of 38 C.F.R. § 4.96(d)(1)-(7) do not specifically apply here.  The Board observes that one of those provisions provide for instruction as to which results to use from pulmonary function testing (PFT) results.  With regard to DC 6620, however, there are no regulations identifying whether pre- or post-bronchodilator results should be used when determining disability ratings.  In offering the Veteran every benefit of the doubt, the Board will consider both pre-bronchodilator and post-bronchodilator PFT results in evaluating whether he is entitled to a higher rating for his service-connected asthma disability. In other words, the Board will use the PFT results that allow the most favorable disability rating to the Veteran.
+
+Asthma-Analysis 
+
+The Veteran seeks entitlement to an initial disability rating in excess of 10 percent for his service-connected asthma condition.  For the reasons below, upon review of the record, the Board finds that a disability rating in excess of 10 percent for the Veteran's service-connected asthma is not warranted.   
+
+The Veteran was initially provided with a January 2022 VA Respiratory Conditions examination. The examiner noted that the Veteran's respiratory condition did not require the use of corticosteroid medication, oral bronchodilators, antibiotics, or oxygen therapy.  The examiner noted that the Veteran's condition did require the use of inhaled medication, with intermittent use of inhalational bronchodilator therapy.  The Veteran had not had any asthma attacks with episodes of respiratory failure, nor had he had any physician visits required for care of exacerbations.  Pulmonary function testing (PFT) showed FEV-1 measurements of 73% pre bronchodilator and 73% post-bronchodilator; and FEV-1/FVC measurements of 101% pre-bronchodilator and 106% post-bronchodilator.
+
+The Veteran was next provided with an October 2022 VA Respiratory conditions examination.  The examiner noted that the Veteran's respiratory condition did not require the use of corticosteroid medication, oral bronchodilators, antibiotics, or oxygen therapy.  The examiner noted that the Veteran's condition did require the use of inhaled medication, with intermittent use of inhalational bronchodilator therapy.  The Veteran had not had any asthma attacks with episodes of respiratory failure, nor had he had any physician visits required for care of exacerbations.  PFT testing showed FEV-1 measurements of 86% pre bronchodilator and 88% post-bronchodilator; and FEV-1/FVC measurements of 101% pre-bronchodilator and 105% post-bronchodilator.  The examiner noted that the Veteran's FEV-1 measurement most accurately reflected the level of disability for the condition.  
+
+The Veteran's VA treatment records do not contain specific findings or measurements of his asthma condition which would warrant increased disability ratings for his claimed condition.  
+
+The Board has carefully considered the evidence of record.  The Board notes that the VA examiners are medical professionals, competent to opine as to the severity of his disability.  There is no evidence that the VA examiners are not credible.  Moreover, the examiners provided an analysis based upon both subjective and objective information to form an opinion based upon medical expertise.  
+
+The Board also notes that at no time during the appeal period were the Veteran's PFT measurements severe enough to warrant a higher disability rating.  A 30 percent rating under Diagnostic Code 6602 would require measurements of FEV-1 of 56- to 70-percent predicted; FEV-1/FVC of 56 to 70 percent; daily inhalational or oral bronchodilator therapy; or inhalational anti-inflammatory medication.  At no time during the appeal does the Veteran meet the requirements for a higher rating under the applicable diagnostic criteria.
+
+Further, the Board has considered the lay statements of the Veteran and finds the lay statements are competent insofar as they report observable symptoms, such as shortness of breath or difficulty breathing.  However, to the extent the Veteran asserts that his current disability entitles him to a higher disability rating, such statements are less probative than, the objective medical evidence of record.  See Caluza v. Brown, 7 Vet. App. 498, 506 (1995).  Indeed, with regard to the actual degree of the Veteran's impairment, the objective findings contained within the multiple VA examination reports of record is more probative because it is based on actual PFTs.  This medical evidence is persuasively against the notion that the Veteran's asthma warrants a disability rating higher than that already assigned.
+
+For the above reasons, the evidence is neither evenly balanced nor approximately so with regard to whether an initial disability rating in excess of 10 percent for the Veteran's asthma disability is warranted.  Rather, the evidence persuasively weighs against the Veteran's claim for a higher rating.  The benefit of the doubt doctrine of 38?U.S.C. §?5107(b) is therefore not for application as to this claim.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side, or another is the benefit of the doubt doctrine not for application).  As such, the claim is denied.
+
+ 
+
+ 
+
+A.	C. MACKENZIE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Gresham, Trevor
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

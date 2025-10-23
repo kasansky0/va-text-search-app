@@ -1,0 +1,79 @@
+Citation Nr: A25030258
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240624-450200
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA) secondary to service-connected major depressive disorder (MDD) is granted.
+
+FINDING OF FACT
+
+The evidence is at least evenly balanced as to whether the Veteran's OSA was secondary to service-connected MDD.
+
+CONCLUSION OF LAW
+
+With reasonable doubt resolved in favor of the Veteran, the criteria for service connection for OSA, secondary to service-connected MDD, have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from February 1971 to September 1995.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a May 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) which denied service connection for OSA.
+
+By way of background, in a September 2022 rating decision, the RO denied service connection for sleep apnea because it found that the condition neither occurred in nor was it caused by service and/or service-connected disability. 
+
+In a February 2023 VA Decision Review Request: Supplemental Review Claim Review (VA Form 20-0995), the Veteran elected to appeal the September 2022 rating decision via the Supplemental Review lane in accordance with the Appeals Modernization Act (AMA). 38 U.S.C. § 5108. 
+
+In a September 2023 rating decision, after Supplemental Review, the RO denied the claim.
+
+In a January 2024 VA Decision Review Request: Supplemental Review Claim Review (VA Form 20-0995), the Veteran elected to appeal the September 2023 rating decision via the Supplemental Review lane in accordance with the AMA.
+
+In a May 2024 rating decision, after Supplemental Review, the RO implicitly found new and relevant evidence had been submitted by readjudicating the claim and denying service connection for OSA on the merits. 
+
+In a June 2024 Decision Review Request: Board Appeal (Notice of Disagreement, VA Form 10182), the Veteran timely appealed the May 2024 decision to the Board and selected the direct review docket. As the Veteran has elected direct review under the AMA, the Board will only consider the evidence of record as of the date of the May 2024 rating decision. 38 C.F.R. § 20.301. 
+
+Entitlement to service connection for OSA
+
+The Veteran contends his sleep apnea is related to service-connected MDD.
+
+Establishing service connection generally requires competent evidence of three things: (1) current disability; (2) in-service disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Saunders v. Wilkie, 886 F.3d 1356, 1361 (Fed. Cir. 2018). Consistent with this framework, service connection is warranted for a disease first diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in-service. 38 C.F.R. § 3.303(d). 
+
+Service connection may also be established on a secondary basis for a disability that is proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310(a).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the benefit of the doubt shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+The Board is bound by the favorable findings identified by the RO in its May 2024 rating decision. Favorable findings included the diagnosis of OSA and that the Veteran was service-connected for MDD (the claimed underlying service-connected condition). 38 C.F.R. § 3.104(c). 
+
+Regarding nexus between service-connected MDD and OSA, in August 2023 the Veteran underwent VA examination in connection with his February 2023 Supplemental Claim. The examiner opined that the Veteran's OSA was less likely than not related to service-connected psychiatric disorder. As rationale, she stated that OSA is a "separate entity entirely from the depressive disorder and unrelated to it. A thorough review of medical literature failed to demonstrate a causal relationship."
+
+However, the Board affords little probative weight to this opinion because in providing her negative opinion, the examiner relied exclusively on the absence of medical literature supporting a link between OSA and depressive disorder. See Bailey v. O'Rourke, 30 Vet. App. 54, 60 (2018) (reliance on the absence of medical literature supporting nexus without discussing the specific facts of the case renders an opinion inadequate).
+
+In January 2024, the Veteran submitted a November 2023 medical opinion from Dr. G., a private physician. He opined that the Veteran's OSA was at least as likely as not related to service-connected MDD. As rationale, he indicated that he had evaluated the Veteran and reviewed the pertinent medical records from the Veteran. Dr. G. noted the October 2020 sleep study diagnosing the Veteran with OSA and that he uses a continuous positive airway pressure machine (CPAP). Dr. G. cited a medical study that people with depression were found to be five times more likely to suffer sleep breathing disorders such as OSA (the most common form of sleep disorder). He also noted another study noting a positive relationship between depression and OCA. Dr. G. further indicated that the medical records reflect that the Veteran's service-connected MDD caused weigh gain, which in turn contributed to his development of sleep apnea. Therefore, Dr. G. concluded that the Veteran's MDD caused his current OSA.
+
+In May 2024 the Veteran underwent additional VA examination. The examiner opined that the Veteran's OSA was less likely than not related to service-connected depressive disorder. As rationale, she noted the Veteran's assertions regarding MDD and OSA, but concluded that there is no medical or scientific evidence of a causal relationship between depression and OSA. 
+
+Upon review of the pertinent evidence of record, the Board finds that entitlement to service connection for OSA is warranted. Specifically, the Board notes that Dr. G. provided a thorough rationale to support his opinion based on an accurate characterization of the evidence of record, to include review of the lay evidence as well as the medical literature indicating a positive medical relationship between MDD symptoms and OSA. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (most of the probative value of a medical opinion comes from its reasoning). Therefore, Dr. G opinion is afforded significant probative weight. 
+
+(Continued on the next page)
+
+?
+
+The Board acknowledges the negative opinion of the May 2024 VA examiner. However, the relative equipoise between the positive medical opinion of Dr. G. and the negative medical opinion of the May 2024 VA examiner must be resolved in the Veteran's favor.
+
+Thus, the above evidence is at least evenly balanced as to whether the Veteran's OSA is secondary to service-connected MDD. As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection for OSA on a secondary basis is warranted. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+Marcus N. Fulton
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Kovacs, Mayer
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

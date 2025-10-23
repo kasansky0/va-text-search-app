@@ -1,0 +1,59 @@
+Citation Nr: A25030288
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240318-425941
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to a compensable rating for obstructive sleep apnea (OSA) is denied.
+
+FINDING OF FACT
+
+The Veteran's OSA required the use of a breathing assistance device, a continuous positive airway pressure (CPAP) machine, but the Veteran is currently granted a 100 percent evaluation for bronchitis with allergic rhinitis to include OSA.
+
+CONCLUSION OF LAW
+
+The criteria for an initial compensable rating for OSA have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.96, 4.97, Diagnostic Code (DC) 6847. 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from August 1994 to August 1998.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a rating decision issued in January 2024 by a Department of Veterans Affairs (VA) Regional Office, the Agency of Jurisdiction (AOJ).
+
+In the March 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the January 2024 AOJ rating decision on appeal.  38 C.F.R. § 20.301.  If evidence was submitted after the AOJ issued the rating decision on appeal, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Considering the record, the Board finds that the Veteran's current representative was sufficiently notified of this appeal.
+
+Entitlement to a compensable rating for OSA. 
+
+The Veteran seeks a higher rating for his OSA as his physicians have recommended the use of a CPAP and the Veteran has reported use of the CPAP machine. 
+
+Disability ratings are based on a schedule of reductions in earning capacity from specific injuries or combination of injuries. The ratings shall be based, as far as practicable, upon the average impairments of earning capacity resulting from such injuries in civil occupations. 38 U.S.C. § 1155. Generally, the degrees of disability specified are considered adequate to compensate for considerable loss of working time from exacerbations or illnesses proportionate to the severity of the several grades of disability. 38 C.F.R. § 4.1.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. An exception to this rule applies when the rating criteria are successive. In such a case, all the requirements of the lower levels must be met before a higher level is awarded, and 38 C.F.R. §§ 4.7 and 4.21 do not apply. Johnson v. Wilkie, 30 Vet. App. 245 (2018).
+
+Rating coexisting respiratory conditions is covered under 38 C.F.R. § 4.96(a) which provides that ratings under diagnostic codes 6600 through 6817 and 6822 through 6847 will not be combined with each other. Where there is lung or pleural involvement, ratings under diagnostic codes 6819 and 6820 will not be combined with each other or with diagnostic codes 6600 through 6817 or 6822 through 6847. A single rating will be assigned under the diagnostic code which reflects the predominant disability with elevation to the next higher evaluation where the severity of the overall disability warrants such elevation.  However, in cases protected by the provisions of Pub. L. 90-493, the graduated ratings of 50 and 30 percent for inactive tuberculosis will not be elevated.
+
+The Veteran's OSA is currently rated as noncompensable under 38 C.F.R. § 4.97, DC 6847.  For the entire period under consideration, the service-connected bronchitis is rated as 100 percent disabling. Although cognizant of a proposed reduction, such as not been finalized or effectuated and the Board must decide this appeal based on the currently assigned ratings. Therefore, in accordance with 38 C.F.R. § 4.96(a), there is no legal basis for a higher rating for OSA, as combining ratings for DC 6600 and DC 6847 is proper, and a single rating was assigned under the DC which reflected the predominant disability, which is 100 percent for bronchitis.
+
+The Board recognizes the Veteran's attorney-representative's argument that a 50 percent evaluation is warranted for OSA, because the Veteran has been prescribed a CPAP machine.  The Board reiterates that as the 100 percent rating is currently assigned under DC 6600 that a separate compensable rating under DC 6847 is not permitted under 38 C.F.R. § 4.96(a). If there is a future change to the assigned ratings, the Veteran will have the opportunity to seek further review.
+
+The Board has also considered the representative's argument that rhinitis warrants a separate rating. Considering the rating decision on appeal and the evidence considered by this decision, the Board finds that the issue of rating for rhinitis is not before the Board at this time. The rating decision on appeal did not address this question of rating for rhinitis; although the 100 percent service-connected disability includes rhinitis as part of the characterized issue, the rating decision did not address the question of rating for rhinitis. 
+
+Accordingly, as the Board is precluded by law from granting an increased rating for OSA, the claim must be denied. 38 C.F.R. § 4.96(a).
+
+ 
+
+Nathaniel Doan
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Scherba, Heather L.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

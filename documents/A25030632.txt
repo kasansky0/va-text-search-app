@@ -1,0 +1,71 @@
+Citation Nr: A25030632
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240702-456247
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to a compensable rating for bilateral hearing loss is denied.
+
+FINDING OF FACT
+
+Without good cause, the Veteran cancelled a VA examination necessary to decide the issue of entitlement to a compensable rating for bilateral hearing loss. 
+
+CONCLUSION OF LAW
+
+The criteria for a compensable rating for bilateral hearing loss have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.655(b), 4.1, 4.2, 4.3, 4.7, 4.85, 4.86, Diagnostic Code 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 1995 to September 1999.
+
+This matter comes before the Board of Veterans' Appeals (Board) from an August 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office.  In the July 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal.  38?C.F.R. § 20.301.  The Board cannot consider evidence submitted after the AOJ issued the August 2023 decision on appeal.  Id.
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision on the claim of increased rating.  38 C.F.R. § 20.300.  If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+The Board notes that Veteran also appealed claims related to a respiratory condition, a skin condition, migraine headaches, and hypertension on his July 2024 VA Form 10182 Notice of Disagreement.  However, later that month, the Veteran submitted an additional VA Form 10182 Notice of Disagreement requesting a docket switch to have a hearing with a Veterans Law Judge for all of the issues appealed in the earlier VA Form 10182 Notice of Disagreement except for the issue seeking an increased rating for bilateral hearing loss.  
+
+Increased Rating
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities (Schedule), found in 38 C.F.R. Part 4.  The Schedule is primarily a guide in the evaluation of disability resulting from all types of diseases and injuries encountered as a result of or incident to military service.  The ratings are intended to compensate, as far as can practicably be determined, the average impairment of earning capacity resulting from such diseases and injuries and their residual conditions in civilian occupations.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+Hearing impairment is evaluated pursuant to 38 C.F.R. § 4.85, Diagnostic Code 6100.  Ratings for hearing impairment are derived by a mechanical application of the rating schedule to the numeric designations assigned after audiometric evaluations are rendered.  Lendenmann v. Principi, 3 Vet. App. 345 (1992).  Evaluations of defective hearing range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of a controlled Maryland CNC speech discrimination test together with the average hearing threshold level measured by pure tone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz).  38 C.F.R. § 4.85, Diagnostic Code 6100.
+
+The rating schedule establishes eleven auditory acuity levels, designated from Level I for essentially normal hearing acuity, through Level XI for profound deafness.  38 C.F.R. § 4.85.  The horizontal rows in Table VI (in 38 C.F.R. § 4.85) represent nine categories of the percentage of discrimination based on the controlled speech discrimination test.  The vertical columns in Table VI represent nine categories of decibel loss based on the pure tone audiometry test.  The Roman numeral designation is located at the point where the percentage of speech discrimination and pure tone threshold average intersect.  See 38 C.F.R. §§ 4.85, 4.86.
+
+An exceptional pattern of hearing impairment occurs when the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more.  38 C.F.R. § 4.86(a).  In that situation, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral.  Further, when the average pure tone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and that numeral will then be elevated to the next higher numeral.  38 C.F.R. § 4.86(b).
+
+Entitlement to a compensable disability rating for bilateral hearing loss.  
+
+The Veteran is seeking an increase in the rating assigned for his service-connected bilateral hearing loss.  
+
+Service connection for bilateral hearing loss was granted in a July 2014 rating decision and assigned an initial noncompensable rating, effective November 27, 2013.  The Veteran did not appeal this decision, and it became final.  In June 2020, the Veteran sought an increased rating for his bilateral hearing loss. He underwent VA examination in August 2020, and a compensable rating for bilateral hearing loss was denied in a September 2021 rating decision.  The Veteran did not appeal this decision, and it became final.
+
+A March 2021 VA treatment record reflects that in the section for sensory status, the Veteran's hearing was marked as normal.  See May 2023 CAPRI.  A February 2023 VA treatment record documents that under unique communication needs, hearing impairment was marked as "none".  See May 2023 CAPRI.  
+
+In May 2023, the Veteran again filed a claim for entitlement to a compensable rating for bilateral hearing loss.  The Veteran submitted private treatment records when filing the claim, which are silent for any discussion or mention of hearing loss.  
+
+Per a July 2023 Exam Scheduling Request Contention Cancellation, a July 2023 examination for bilateral hearing loss was cancelled at the Veteran's request.  See July 2023 Exam Request.  
+
+According to a subsequent July 2023 Exam Scheduling Request, another examination request was created.  See July 2023 Exam Request.  Per a subsequent August 2023 Exam Scheduling Request Contention Cancellation, the Veteran again cancelled the requested examination to address the nature and severity of his bilateral hearing loss.  See August 2023 Exam Request.  
+
+The Board notes that two separate examinations were cancelled at the request of the Veteran, and there was no reason provided for the cancellations.  "When a veteran misses a scheduled VA examination, the Board must consider (1) whether the examination was necessary to establish entitlement to the benefit sought, and (2) whether the veteran lacked good cause to miss the scheduled examination.  See 38 C.F.R. § 3.655(a)."  Turk v. Peake, 21 Vet. App. 565, 569 (2008).  An examination could have yielded information beneficial to his claim, and the Veteran failed to cooperate with that development and has not provided good cause or requested to reschedule the examination.  See Wood v. Derwinski, 1 Vet. App. 190, 193 (1991) ("The duty to assist is not always a one-way street.").
+
+On review, the Veteran last underwent a VA audiology examination in August 2020.  Considering the length of time since the last examination and the lack of objective findings in the record, the Board finds that the examination was necessary to establish entitlement to an increased rating.  As noted above, ratings for hearing impairment are derived by a mechanical application of the rating schedule to the numeric designations assigned after audiometric evaluations are rendered.  Lendenmann, 3 Vet. App. 345.  Thus, audiometric test results are crucial to determining the proper rating for the Veteran's bilateral hearing loss.
+
+Finally, the current appeal does not stem from an original compensation claim, but rather, from a claim for an increased rating.  When a claimant fails to report for an examination scheduled in conjunction with a claim for increase, the claim shall be denied.  38 C.F.R. § 3.655(b).  The Veteran did not provide any reason for cancelling the examination twice in conjunction with his claim for an increased rating, and in the absence of good cause, the claim for a compensable rating is denied.  38 C.F.R. § 3.655(b); Sabonis v. Brown, 6 Vet. App. 426, 430 (1994).
+
+ 
+
+ 
+
+M. M. Celli
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Rasul, H.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,67 @@
+Citation Nr: A25030903
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240903-471147
+DATE: April 3, 2025
+
+ORDER
+
+A compensable rating for bilateral sensorineural hearing loss is denied.
+
+FINDING OF FACT
+
+The service-connected bilateral hearing loss has been shown to be manifested by no more than right ear Level I auditory acuity; left ear Level II auditory acuity; and difficulty hearing clearly and hearing other people.   
+
+CONCLUSION OF LAW
+
+The criteria for a compensable rating for bilateral hearing loss have not been met.  38 U.S.C. § 1155; 38 C.F.R. §§ 4.85, 4.86, Diagnostic Code 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from January 1980 to December 1982 and from December 1990 to June 1991.  He had additional duty with the Army Reserve and the New Jersey Army National Guard.
+
+In February 2024, the Agency of Original Jurisdiction granted service connection for bilateral hearing loss and assigned a noncompensable rating, effective July 21, 2023.  In September 2024, the Veteran submitted a Decision Review Request: Board Appeal (Notice of Disagreement), VA Form 10182, and elected the Direct Review docket.  Therefore, the Board of Veterans' Appeals (Board) may only consider the evidence of record at the time of the Agency of Original Jurisdiction decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the Agency of Original Jurisdiction decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  If the Veteran would like the Department of Veterans Affairs (VA) to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim, VA Form 20-0995, and submit or identify this evidence.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  38 C.F.R. § 3.2501.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Compensable Rating for Bilateral Hearing Loss
+
+The Veteran contends that a compensable rating is warranted for the service connected bilateral hearing loss.
+
+Disability ratings are determined by comparing the Veteran's symptoms during the relevant period with the criteria set forth in the Schedule for Rating Disabilities.  38 U.S.C. § 1155; 38 C.F.R. Part 4.
+
+Evaluations of defective hearing range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of a controlled Maryland CNC speech discrimination test together with the average hearing threshold level measured by pure tone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz).  38 C.F.R. § 4.85, Diagnostic Code 6100.  To evaluate the degree of disability from service-connected hearing loss, the schedule establishes 11 auditory hearing acuity levels designated from Level I for essentially normal hearing acuity through Level XI for profound deafness.  38 C.F.R. § 4.85, Tables VI and VII.
+
+An exceptional pattern of hearing impairment occurs when the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more.  In that situation, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral.  38 C.F.R. § 4.86(a).
+
+When the average pure tone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and that numeral will then be elevated to the next higher numeral.  38 C.F.R. § 4.86(b).
+
+In rating hearing loss, ratings on a schedular basis are derived by a mechanical application of the ratings schedule to the numeric designations assigned after audiometric evaluations are made.  Lendenmann v. Principi, 3 Vet. App. 345 (1992).  VA audiological evaluations should include both objective test results and a full description of the functional effect of the Veteran's hearing loss disability.  Martinak v. Nicholson, 21 Vet. App. 447 (2007).
+
+The report of a January 2024 audiological examination conducted for VA states that the Veteran complained of impaired hearing which necessitated that people raise their voice when speaking to him.  The examiner noted that the Veteran "described moderate difficulty with his ability to hear clearly."  On audiometric evaluation, the Veteran exhibited pure tone thresholds, in decibels, as follows:
+
+	HERTZ
+
+ 	1000	2000	3000	4000
+
+RIGHT	30	40	55	60
+
+LEFT	45	50	65	70
+
+Speech audiometry revealed speech recognition ability of 98 percent in the right ear and 96 percent in the left ear.  The examiner found that the diagnosed bilateral sensorineural hearing loss impacted the Veteran's "ordinary conditions of daily life, including his ability to work."  The audiometric testing results show bilateral hearing loss productive of right ear Level I auditory acuity and left ear Level II auditory acuity.  An exceptional pattern of hearing loss was not shown.  38 C.F.R. §§ 4.85, 4.86(a), Table VI.
+
+Bilateral hearing loss has been shown to be manifested by no more than right ear Level I auditory acuity; left ear Level II auditory acuity; and difficulty hearing clearly and hearing other people.  An exceptional pattern of hearing loss was not shown.  Such findings do not warrant a compensable rating.  38 C.F.R. §§ 4.85, Diagnostic Code 6100.
+
+The Board expressly acknowledges its consideration of the lay evidence of record which reflects that the bilateral hearing loss impacts the Veteran's daily life including causing difficulty hearing clearly and hearing other people which necessitated that sometimes people raise their voice when speaking to him.  The Veteran is competent to report difficulty with his hearing.  However, ratings for hearing loss are derived from a mechanical application of the rating schedule to the numeric designations resulting from audiometric testing.  Lendenmann v. Principi, 3 Vet. App. 345 (1992).  Accordingly, the Board finds that a compensable rating for bilateral hearing loss is not warranted.
+
+ 
+
+ 
+
+J. T. HUTCHESON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Kuramoto, Justin U.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

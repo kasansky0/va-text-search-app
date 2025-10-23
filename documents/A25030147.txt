@@ -1,0 +1,115 @@
+Citation Nr: A25030147
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240530-444111
+DATE: April 1, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is granted. 
+
+FINDING OF FACT
+
+The Veteran has a current bilateral hearing loss disability for VA compensation purposes that is consistent with her in-service noise exposure.
+
+CONCLUSION OF LAW
+
+Resolving doubt in the Veteran's favor, the criteria for service connection for a bilateral hearing loss disability are met.  38 U.S.C. § § 1110, 1131, 5107 (2012); 38 C.F.R. §§ 3.102, 3.303 (2021).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from October 1989 to September 1997.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a May 2024 supplemental statement of the case (SSOC) of a Department of Veterans Affairs (VA) Regional Office (RO). 
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+                                          Service Connection
+
+Laws and Regulations
+
+Service connection will be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred in or aggravated by active military service.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).
+
+To establish a right to compensation for a present disability, a Veteran must show: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service."  Davidson v. Shinseki, 581 F.3d 1313, 1315-16 (Fed. Cir. 2009); Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Certain diseases, to include sensorineural hearing loss, may be presumed to have been incurred in service when manifest to a compensable degree within one year of discharge from active duty.  38 U.S.C. § 1112 (2012); 38 C.F.R. §§ 3.307, 3.309 (2021). 
+
+Under 38 C.F.R. § 3.303(b), an alternative method of establishing the second and third Shedden for certain chronic disabilities such as sensorineural hearing loss is through a demonstration of continuity of symptomatology.  
+
+In relevant part, 38 U.S.C. § 1154(a) requires that the VA give "due consideration" to "all pertinent medical and lay evidence" in evaluating a claim to disability or death benefits.  Lay evidence can be competent and sufficient to establish a diagnosis of a condition when (1) a layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional."  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed.Cir.2007).  In fact, competent medical evidence is not necessarily required when the determinative issue involves either medical etiology or a medical diagnosis. Id. at 1376-77; see also Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006); Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009).
+
+Once evidence is determined to be competent, the Board must determine whether such evidence is also credible.  See Layno, supra (distinguishing between competency ("a legal concept determining whether testimony may be heard and considered") and credibility ("a factual determination going to the probative value of the evidence to be made after the evidence has been admitted"). 
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the VA shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107(b).
+
+For the purposes of applying the laws administered by VA, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Tests are less than 94 percent.  38 C.F.R. § 3.385.  Additionally, it is noted that the threshold for normal hearing is from 0 to 20 decibels, and higher threshold levels indicate some degree of hearing loss.  See Hensley v. Brown, 5 Vet. App. 155, 157 (1993).
+
+Factual Background and Analysis
+
+The Veteran's service treatment records are negative for complaints or treatments of hearing loss. 
+
+The Veteran underwent a VA examination in September 2018. The September 2018 audiogram revealed pure tone thresholds, in decibels, as follows:
+
+			HERTZ		
+
+	500	1000	2000	3000	4000
+
+RIGHT	5	15	10	20	20
+
+LEFT	20	10	5	10	20
+
+Speech audiometry revealed speech recognition ability of 98 percent in the right ear and 94 in the left ear.
+
+In a September 2018 VA examination report, the Veteran's hearing acuity did not meet the criteria for hearing loss under 38 C.F.R. § § 3.385. The examiner specifically noted that the Veteran's hearing was normal for VA purposes, with hearing loss at 6000 and 8000 Hertz only. The examiner also noted that it was less likely than not that the Veteran's claimed bilateral hearing disability was a result of her in service noise exposure.
+
+In support of her claim, the Veteran submitted a March 2020 private opinion in which the physician noted that the Veteran reported first noticing ringing in her bilateral ears while she was still in service. The physician determined that it is clearly at least as likely as not that the Veteran's bilateral hearing loss, as well as her tinnitus, were both service connected since she was exposed to hazardous noise during service.
+
+Per an August 2023 Board remand instructions, the Veteran underwent a VA examination in February 2024. The February 2024 audiogram revealed pure tone thresholds, in decibels, as follows: 
+
+			HERTZ		
+
+	500	1000	2000	3000	4000
+
+RIGHT	15	20	25	30	40
+
+LEFT	15	20	25	25	35
+
+Speech audiometry revealed speech recognition ability of 100 percent in the right ear and 100 in the left ear.
+
+The examiner opined that it was less likely than not that the Veteran's bilateral hearing loss was caused by or a result of her service as the examiner noted that there was no permanent threshold shift when comparing her entrance examination with her separation examination. Both the entrance and separation examinations revealed normal hearing bilaterally.
+
+The record shows that the Veteran currently has bilateral hearing loss for VA compensation purposes. Accordingly, the first element of evidence of a current disability is accordingly met. 
+
+Therefore, the question to be decided in the present appeal is whether the current bilateral hearing loss disability is associated with the Veteran's active duty. In this regard, the Board acknowledges that service treatment records are negative for complaints of, treatment for, or findings of hearing loss. However, when considering the circumstances of the Veteran's service, she was undoubtedly exposed to some noise in service.  Moreover, the RO conceded that the evidence showed that a qualifying event, injury or disease had its onset during service.  
+
+After resolving all reasonable doubt in favor of the Veteran, the Board finds service connection for bilateral hearing loss is warranted. 
+
+In support of this conclusion, the Board notes that the Veteran's conceded in-service noise exposure was sufficient to result in a grant of service connection for bilateral tinnitus in a March 2024 rating decision. This grant was based on the positive nexus opinion of the February 2024 VA examiner who expressly conceded in-service noise exposure.  
+
+Additionally, in March 2020 opinion, a private physician determined that it is clearly at least as likely as not that the Veteran's bilateral hearing loss was service connected since the Veteran was exposed to hazardous noise during service.
+
+The Board acknowledges that February 2024 VA examiner opined that it was less likely than not that the Veteran's bilateral hearing loss was caused by or the result of her military service.
+
+However, the negative nexus opinions that were provided by the VA examiner appear to be based in large part on the absence of documented bilateral hearing loss in the Veteran's service treatment records as the VA examiner again found that the Veteran's bilateral hearing loss was less likely than not caused by or a result of military service since there was no hearing loss in service. The absence of documented hearing loss in service is not fatal to a service connection claim for hearing loss.  See Ledford v. Derwinski, 3 Vet. App. 87, 89 (1992).  
+
+Additionally, while the February 2024 VA examiner opined that the Veteran's bilateral hearing loss was not a result of in-service noise exposure, the VA examiner again indicated that the Veteran's tinnitus was related to in-service noise exposure.
+
+While an April 2024 VA medical opinion notes that the March 2020 private opinion was given without review of the claims file, STR's and the Veteran's 2018 C&P exam, and the opinion was given solely off lay testimony, the Board notes the private opinion stated pertinent records from the VA claims file were reviewed. Therefore, the Board continues to find the private opinion probative. 
+
+As a result, the Board finds that there is an approximate balance of positive and negative evidence regarding the question of whether the Veteran had a current bilateral hearing loss disability that was caused by her service.
+
+In sum, for the reasons and bases discussed above, the Board has resolved doubt in favor of the Veteran, and service connection for a bilateral hearing loss disability is granted.  See 38 U.S.C. § 5107(b).
+
+ 
+
+ 
+
+R. Bisignani
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	James A. DeFrank
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,117 @@
+Citation Nr: A25030176
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 230928-380778
+DATE: April 1, 2025
+
+ORDER
+
+Entitlement to an initial disability rating of 60 percent, but no higher, for bronchial asthma is granted.
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) is granted.
+
+FINDING OF FACT
+
+1. Throughout the entire appeal period, the Veteran's asthma symptoms more nearly approximated FEV-1 of 40 to 55 percent predicted but not FEV-1 less than 40-percent predicted, or; FEV-1/FVC less than 40 percent, or; more than one attack per week with episodes of respiratory failure, or; daily use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medications at any point during the appeal period.
+
+2. Affording the Veteran the benefit of the doubt, the Veteran's service-connected asthma is of such severity as to preclude him from securing or following a substantially gainful occupation.
+
+CONCLUSION OF LAW
+
+1. Throughout the entire appeal period, the criteria for an increased disability rating of 60 percent, but no higher, for asthma have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.326, 4.1-4.3, 4.6-4.7, 4.10, 4.96(d), 4.97, Diagnostic Code 6602.
+
+2. Resolving reasonable doubt in the Veteran's favor, the criteria for TDIU have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.340, 3.341, 4.16, 4.18.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Air Force from October 1972 to October 1976, including overseas service.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from September 2022 and January 2023 rating decisions issued by a Department of Veterans Affairs (VA) Regional Office (RO).  In August 2022, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), requesting review of the November 2021 rating decision.  In September 2022, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal regarding the claim for an increased evaluation for asthma and identified a duty to assist error regarding the claim for entitlement to a TDIU.  The RO then issued a separate TDIU rating decision in January 2023.  
+
+In the January 2023 rating decision, the RO found that the Veteran has not worked since December 31, 1997.  The Board is bound by this favorable finding, absent clear and convincing evidence to the contrary. 38 C.F.R. § 3.104(c).
+
+Applicable Evidentiary Windows
+
+Although the Veteran initially requested Higher-Level Review when submitting the August 2022 VA Form 20-0996, Decision Review Request: Higher-Level Review, the Higher-Level Reviewer determined that there had been a duty to assist error regarding the claim for entitlement to a TDIU and transferred the claim to the Supplemental Claim decision review option for additional development. 
+
+In the September 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2021 agency of original jurisdiction (AOJ) decision, which was subject to the September 2022 higher-level review, and the January 2023 AOJ supplemental claim decision on appeal, respectively. 38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decisions the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+1. Entitlement to an initial disability rating in excess of 30 percent for bronchial asthma.
+
+The Veteran is in receipt of a 30 percent evaluation for asthma from February 26, 2013, under 38 C.F.R. § 4.97, Diagnostic Code 6602.
+
+Disability evaluations are determined by comparing a Veteran's present symptomatology with criteria set forth in VA's Schedule for Rating Disabilities (Rating Schedule), which is based on average impairment in earning capacity. 38 U.S.C. § 1155; 38 C.F.R. § 4.1.  
+
+In the case of an initial increased rating claim, the entire evidentiary record from the time of a veteran's claim for service connection to the present is of importance in determining the proper evaluation of disability. See Fenderson v. West, 12 Vet. App. 119, 126 (1999).  Further, the Board must evaluate the medical evidence of record since the filing of the claim for increased rating and consider the appropriateness of a "staged rating" (i.e., assignment of different rating for distinct periods of time, based on the facts). See Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007).  Where an increase in the level of a service-connected disability is at issue, the primary concern is the present level of disability. See Francisco v. Brown, 7 Vet. App. 55, 58 (1994).  Nevertheless, the Board acknowledges that a claimant may experience multiple distinct degrees of disability that might result in different levels of compensation from the time the increased rating claim was filed until a final decision is made. See Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007).
+
+If there is a question as to which two evaluations should apply, the higher rating is assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating is assigned. 38 C.F.R. § 4.7.
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.  When a veteran seeks benefits and the evidence is in relative equipoise, the veteran prevails. See Gilbert v. Derwinski, 1 Vet. App. 49 (1990).  The benefit of the doubt rule does not apply when the evidence persuasively favors one side or the other. See Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).
+
+Diagnostic Code 6602 provides a 30 percent rating for forced expiratory volume (FEV-1) of 56 to 70 percent predicted, or FEV-1/forced vital capacity (FVC) of 56 to 70 percent, or daily inhalational or oral bronchodilator therapy or inhalational anti-inflammatory medication.  A 60 percent rating is assigned for FEV-1 of 40 to 55 percent predicted, or FEV-1/FVC of 40 to 55 percent, or at least monthly visits to a physician for required care of exacerbations, or intermittent (at least three per year) courses of systemic (oral or parenteral) corticosteroids.  A 100 percent rating is assigned for FEV-1 less than 40-percent predicted, or FEV-1/FVC less than 40 percent, or more than one attack per week with episodes of respiratory failure.  A 100 percent rating is also assigned if the veteran's condition requires daily use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medications.
+
+Pulmonary Function Test (PFT) results are generally reported before and after the administration of bronchodilator therapy.  VA regulations require the use of post-bronchodilator results in determining disability ratings for DC 6600, 6603, 6604, 6825-6833, and 6840-6845, unless post-bronchodilator results are poorer than pre-bronchodilator results. 38 C.F.R. § 4.96(d)(4).  There are no regulations specifying whether pre- or post-bronchodilator results should be used when determining disability ratings under Diagnostic Code 6602.
+
+The special provisions also note that when there is a disparity between the results of different PFTs (e.g., FEV-1, FVC, or FEV-1/FVC) such that the evaluation would be different depending on which test was used, use the test result that the examiner states most accurately reflect the level of disability. 38 C.F.R. § 4.96 (d)(6).  Again, these provisions are not specific to DC 6602.
+
+Thus, as 38 C.F.R. § 4.96(d) omits DC 6602, the Board will use the PFT results that allow the most favorable disability rating to the Veteran.
+
+The Veteran was provided a VA examination in December 2019, which confirmed his diagnosis of asthma dating back to 1974.  The Veteran reported that he began having problems with wheezing while stationed in Virginia in 1974.  He noted that he worked in hangers as an aircraft electrician and was exposed to exhaust fumes from his equipment and the airplanes.  The examiner noted that the Veteran's asthma required daily use of inhalational bronchodilator therapy and inhalational anti-inflammatory medication, but did not require use of corticosteroids, oral bronchodilators, antibiotics, or oxygen therapy.  The Veteran had not had an asthma attack with episodes of respiratory failure in the past 12 months and had not had any physician visits for required care of exacerbations.  A PFT resulted in an FEV-1 of 47 percent pre-bronchodilator and 59 percent post-bronchodilator.  FEV-1/FVC was 54 percent pre-bronchodilator and 61 percent post-bronchodilator. See December 2019 VA Treatment Records.  The examiner noted severe airflow limitation with significant improvement after bronchodilator therapy to moderately severe airflow limitation, and that lung volumes and diffusing capacity were normal. See April 2020 Addendum Opinion.
+
+The Veteran was provided another VA examination in August 2021, which confirmed his diagnosis of asthma.  The Veteran reported that he began having problems with wheezing while stationed in Virginia in 1974 that was triggered by exhaust fumes from his equipment and the airplanes.  The examiner noted that the Veteran's asthma required daily use of inhalational bronchodilator therapy and inhalational anti-inflammatory medication, intermittent use of oral bronchodilators, but did not require use of corticosteroids, antibiotics, or oxygen therapy.  The Veteran had not had an asthma attack with episodes of respiratory failure in the past 12 months and had not had any physician visits for required care of exacerbations.  A PFT resulted in an FEV-1 of 42 percent pre-bronchodilator and 60 percent post-bronchodilator.  FEV-1/FVC was 60 percent pre-bronchodilator and 64 percent post-bronchodilator.
+
+For the following reasons, the Board finds that an initial disability rating of 60 percent is warranted for asthma.
+
+The December 2019 and August 2021 VA examination findings show pre- and post-bronchodilator FEV-1 of 47 and 59 percent and 42 and 60 percent, respectively, which is consistent with a 60 percent rating.  Using the PFT results that allow the most favorable disability rating to the Veteran, here the pre-bronchodilator results, the Board finds that the Veteran meets the criteria for a 60 percent disability rating for his service-connected asthma.  Therefore, resolving all reasonable doubt in favor of the Veteran, a 60 percent rating is warranted for the entire appeal period.
+
+However, at no point during the appeal period does the evidence of record show the symptoms of the Veteran's asthma more nearly approximated an FEV-1 of less than 40 percent predicted or an FEV-1/FVC less than 40 percent, or; more than one asthma attack per week with episodes of respiratory failure, or; the daily use of systemic high dose corticosteroids or immuno-suppressive medications.  Therefore, a disability rating higher than 60 percent is not warranted at any time during the appeal period.
+
+For the foregoing reasons, the Board finds that the evidence of record reflects that throughout the appeal period, the Veteran exhibited symptoms of such type, severity, and frequency as to more closely approximate an increased disability rating of 60 percent for asthma.  The evidence is neither evenly balanced nor approximately so with regard to whether an increased disability rating higher than 60 percent is warranted at any point during the appeal period.  Rather, the evidence at this time weighs persuasively against approximation of the symptoms required for a disability rating higher than 60 percent, and the benefit of the doubt doctrine is therefore not for application. See Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc).
+
+2. Entitlement to a TDIU.
+
+The Veteran contends that he is precluded from substantial gainful employment due to his service-connected bronchial asthma and allergic rhinitis. 
+
+It is the established policy of VA that all veterans who are unable to secure and follow a substantially gainful occupation by reason of service-connected disabilities shall be rated totally disabled. See 38 C.F.R. § 4.16. A finding of total disability is appropriate "when there is present any impairment of mind or body which is sufficient to render it impossible for the average person to follow a substantially gainful occupation." See 38 C.F.R. §§ 3.340(a)(1), 4.15.
+
+Total disability ratings for compensation may be assigned, where the schedular rating is less than total, when a veteran is unable to secure or follow a substantially gainful occupation as a result of service connected disabilities, provided that if there is only one such disability, such disability shall be ratable as 60 percent or more, and if there are two or more disabilities, there shall be at least one disability ratable at 40 percent or more and sufficient additional disability to bring the combined rating to 70 percent or more. 38 C.F.R. § 4.16(a).  Disabilities resulting from common etiology or single accident or affecting both upper and lower extremities are considered as one collective disability for the purpose of determining whether the threshold minimum rating requirements are met.
+
+Unlike the regular disability rating schedule, which is based on the average work-related impairment caused by a disability, "entitlement to a TDIU is based on an individual's particular circumstances." See Rice v. Shinseki, 22 Vet. App. 447, 452 (2009).  Therefore, when adjudicating a TDIU claim, VA must take into account the individual veteran's education, training, and work history. See Hatlestad v. Derwinski, 1 Vet. App. 164 (1991) (level of education is a factor in deciding employability); see Friscia v. Brown, 7 Vet. App. 294 (1994) (considering a veteran's experience as a pilot, his training in business administration and computer programming, and his history of obtaining and losing 19 jobs in the previous 18 years); Beaty v. Brown, 6 Vet. App. 532 (1994) (considering a veteran's 8th grade education and sole occupation as a farmer); Moore v. Derwinski, 1 Vet. App. 356 (1991) (considering a veteran's master's degree in education and his part-time work as a tutor).
+
+Age may not be considered as a factor when evaluating unemployability or intercurrent disability, and it may not be used as a basis for a total disability rating. 38 C.F.R. § 4.19.  There must be a determination that the service-connected disabilities are sufficient to produce unemployability without regard to advancing age or a nonservice connected disability. 38 C.F.R. §§ 3.340, 3.341, 4.16.
+
+The sole fact that a claimant is unemployed or has difficulty obtaining employment is not enough.  A high rating in itself is recognition that the impairment makes it difficult to obtain or keep employment.  The ultimate question, however, is whether the veteran is capable of performing the physical and mental acts required by employment, not whether he or she can find employment. See Van Hoose v. Brown, 4 Vet. App. 361, 363 (1993).
+
+The Veteran is currently rated 30 percent for bronchial asthma from February 26, 2013, and has a noncompensable rating for allergic rhinitis from October 9, 1976.  However, pursuant to the Board's decision above, the Board has granted an increased evaluation of 60 percent for his bronchial asthma for the entire period on appeal.  Thus, he meets the schedular criteria of 38 C.F.R. § 4.16(a) throughout the rating period on appeal.  Therefore the issue is whether his service-connected disabilities have precluded him from engaging in substantially gainful employment (i.e., work that is more than marginal, which permits the individual to earn a "living wage"). See Moore v. Derwinski, 1 Vet. App. 356 (1991).
+
+A June 24, 2021, VA Form 21-8940, Application for Increased Compensation Based on Unemployability, shows that the Veteran has not worked since December 31, 1997, when he was working as a self-employed landscaper on a part-time basis.  The Veteran indicated that he became too disabled to work due to his service-connected disabilities in December 1997.  He noted that bronchial asthma and allergic rhinitis prevented him from securing or following any substantially gainful employment.
+
+The Veteran was provided VA examinations in December 2019 and August 2021, as discussed above.  The December 2019 VA examiner found that the Veteran's respiratory condition did not impact his ability to work; however, the August 2021 VA examiner found that he is only capable of sedentary work and that he is able to do tasks like grocery shopping only if he is able to take breaks as needed.
+
+The Veteran submitted a private vocational assessment in April 2021. See April 2021 Medical Treatment Record - Non-Government Facility.  After review of the Veteran's medical records and educational and vocational histories, the vocational expert opined that the Veteran's bronchial asthma has prevented him from participating in gainful employment since he last worked in 1997.  The Veteran reported that he was unable to do much during the day other than rest or watch television, and that while he was able to prepare simple meals, his brother handled all inside and outside chores.  He stated that he was not able to walk far or climb steps due to shortness of breath on exertion and he used a walker or cane when he must go further than a single grocery store aisle.  He stated he was able to handle his own activities of daily living but performs them slower than normal.  He used a nebulizer and air purifier to control his asthma.  The vocational expert reported that he graduated high school and completed some college but did not earn a degree.  During service in the Air Force the Veteran was an aerospace ground equipment repairman, which is defined as light physical demand, and that the Veteran reported his asthma was exacerbated by the airplanes and equipment used.  After service, the Veteran worked as an outreach worker (light physical demand level), electrician (heavy physical demand), and a seasonal landscaper (heavy physical demand).  
+
+The Veteran reported that he has been unable to work since 1997 due to difficulties breathing and minimal stamina, with periods in which he had to visit the VA medical center up to 5 times per month due to breathing difficulties, as a result of his asthma.  He also stated that the severity of his condition has continued to worsen causing more limitations due to asthma attacks, dyspnea, wheezing, and coughing, including limited to walking no more than 3 blocks, climb stairs, or bending/rising from a stooped position.  The vocational expert thoroughly discussed the Veteran's medical treatment records and VA examinations, which include several emergency room visits due to shortness of breath and wheezing, including during the period on appeal, and noted that he used his inhaler four times per day, but still experienced shortness of breath.  The vocational expert found that the Veteran's symptoms have rendered him unemployable since 1997, and that even though he initially stopped working due to a knee and back injury, his asthma alone would have also rendered him unemployable.  The vocational expert also found that although the VA examiner indicated that the Veteran was only capable of sedentary work; his work experience, education, and training have not prepared him with transferrable skills to be employable in sedentary work, and that he would not be able to maintain employment at any level due to the required accommodations of the work environment to prevent respiratory distress.  Therefore, the vocational expert opined that the Veteran "has been unable work in any non-protected setting due to the severity of his respiratory disability since 1997."
+
+(Continued on the next page)
+
+?
+
+In light of the Veteran's occupational and educational background and functional limitations, and giving him the benefit of the doubt, the Board finds that his service-connected bronchial asthma and allergic rhinitis are sufficient to render him unable to obtain and maintain any form of substantially gainful employment in accordance with his occupational background and education level throughout the period on appeal.  The most persuasive factor in this case is the medical and lay evidence demonstrating the Veteran has difficulties with shortness of breath, minimal stamina, physical limitations, and regular hospitalizations due to breathing difficulties.  Thus, the Board finds that, throughout the entire period on appeal, the Veteran's service-connected bronchial asthma and allergic rhinitis disabilities preclude him from maintaining substantially gainful employment that is consistent with his educational and occupational experience.  Accordingly, based on the foregoing, the Board finds that entitlement to a TDIU is warranted. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+Colleen M. Glaser-Allen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Birley, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided.  This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

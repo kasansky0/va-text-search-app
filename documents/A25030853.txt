@@ -1,0 +1,83 @@
+Citation Nr: A25030853
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240305-421196
+DATE: April 3, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss (BHL) is denied.
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+FINDING OF FACT
+
+The Veteran does not have BHL for Department of Veterans Affairs (VA) purposes.
+
+CONCLUSION OF LAW
+
+The criteria to establish service connection for BHL have not been met.  38 U.S.C. §§ 1110, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from November 1998 to January 2006. 
+
+The rating decision on appeal was issued in February 2024.  The Veteran timely appealed this rating decision to the Board of Veterans' Appeals (Board) and requested direct review of the evidence considered by the Agency of Original Jurisdiction (AOJ).  See March 2024 VA Form 10182.
+
+The Board may only consider the evidence of record at the time of the AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+A veteran is entitled to VA disability compensation if there is a disability resulting from personal injury suffered or disease contracted in the line of duty in active service, or for aggravation of a preexisting injury suffered or disease contracted in the line of duty in active service.  38 U.S.C. § 1110.
+
+Generally, to establish a right to compensation for a present disability, a veteran must show: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service, the so-called "nexus" requirement.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service connection may be granted for any disease diagnosed after discharge, when all of the evidence, including that pertinent to service, establishes that a disease was incurred in service.  38 C.F.R. § 3.303(d).  
+
+Service connection for impaired hearing shall only be established when hearing status as determined by audiometric testing meets specified pure tone and speech recognition criteria.  Audiometric testing measures threshold hearing levels (in decibels) over a range of frequencies (in Hertz).  See Hensley v. Brown, 5 Vet. App. 155, 158 (1993). 
+
+For the purposes of applying the laws administered by VA, impaired hearing will be considered to be a disability when the auditory thresholds in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.
+
+The available audiological examinations of record during the period on appeal do not register audiometric testing results exhibiting BHL for VA compensation purposes.  See December 2023 examination report.  There are no additional audiometric testing results during the period on appeal that are adequate for VA rating purposes.  Therefore, the evidentiary record does not show that the Veteran suffers from BHL for VA compensation purposes.  
+
+The Veteran is competent to testify as to facts he personally observed or described; this includes recalling what he personally felt, saw, smelled, heard, or tasted.  See Layno v. Brown, 6 Vet. App. 465, 469 (1994).  However, he is not competent to offer opinions on complex medical matters.  Whether the Veteran has hearing loss for VA purposes cannot be determined by mere observation alone.  This requires specialized training and audiometric testing.  The Board finds that determining the etiology of the Veteran's hearing symptoms is not within the realm of knowledge of a non-expert, and concludes that his opinion in this regard is not competent evidence and therefore not probative of whether he has hearing loss for VA purposes.  
+
+The existence of disability is the cornerstone of a claim for VA disability compensation.  Degmetich v. Brown, 104 F.3d 1328, 1332 (Fed. Cir. 1997).  As such, without a current disability, the Veteran lacks the evidence necessary to substantiate his claim for service connection.  In the absence of proof of a present disability, there can be no valid claim.  Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992).  
+
+Thus, the Board denies the Veteran's claim of entitlement to service connection for BHL.
+
+REASONS FOR REMAND
+
+The Veteran served in Afghanistan during the presumptive period.  See DD Form 214.  As such, it is presumed that the Veteran had participated in a toxic exposure risk activity (TERA) during service.  The Veteran claims his sleep apnea was due to burn pits in Afghanistan and also factory smoke close to his base while stationed in Bosnia.  See October 2023 VA Form 21-526EZ; DD Form 214.  
+
+The Veteran also stated he did not have any sleep apnea issues prior to Afghanistan.  See October 2023 VA Form 21-526EZ.  The January 2024 examination report would also note the Veteran's reported details of onset of symptoms dating back to 2001. 
+
+However, the January 2024 opinion did not find a nexus to service.  The opinion noted TERA and burn pits in Afghanistan.  However, the opinion failed to consider direct service connection other than TERA, as continued symptomatology since service given the Veteran's reports.  The opinion also failed to consider the Veteran's competent and credible statements of factory smoke exposure in Bosnia.  As such, the opinion failed to consider all theories of entitlement.  As such, the Board finds the January 2024 opinion inadequate.  Failure in obtaining an adequate medical opinion is a duty to assist error.  Remand is required for a new opinion.  
+
+The matter is REMANDED for the following action:
+
+Obtain an opinion from a qualified clinician to determine the nature and etiology of the Veteran's OSA.  The evidentiary record, including a copy of this remand, must be made available to and be reviewed by the reviewing clinician.  It is up to the discretion of the reviewing clinician as to whether a new examination is necessary to provide an adequate opinion.
+
+After the record review and examination of the Veteran, if deemed necessary, the reviewing clinician is asked to respond to the following inquiries:
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's OSA was incurred in, or is otherwise related, to his time on active service, to include, but not limited to, in-service TERA (both exposures in Afghanistan and Bosnia)?  The reviewing clinician is to also consider the Veteran's reports of continued symptoms since service.  
+
+Is the etiology OR pathophysiology of the condition not conclusive as to this particular Veteran?
+
+In rendering these opinions, the reviewing clinician is advised that the Veteran is competent to report his symptoms and history.  Such reports must be acknowledged and considered in formulating any opinion.  If the reviewing clinician rejects the Veteran's reports, he or she must provide an explanation for such rejection.  The reviewing clinician is not to improperly discount the Veteran's lay statements or mistakenly rely on an absence of medical evidence in the record to support his or her conclusions.
+
+A complete rationale for all opinions should be set forth and a discussion of the facts and medical principles involved would be of considerable assistance to the Board. 
+
+If an opinion cannot be provided without resorting to mere speculation, the reviewing clinician must provide a complete explanation for why an opinion cannot be rendered.  In so doing, the reviewing clinician must explain whether the inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question(s). 
+
+ 
+
+DONNIE R. HACHEY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Zheng, Andrew
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

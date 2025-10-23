@@ -1,0 +1,101 @@
+Citation Nr: A25030998
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240329-430227
+DATE: April 3, 2025
+
+REMANDED
+
+Entitlement to service connection for a heart disability, to include paroxysmal atrial fibrillation, is remanded.
+
+Entitlement to service connection for a respiratory disability, to include shortness of breath, is remanded.
+
+REASONS FOR REMAND
+
+The appellant served honorably in the United States Navy from December 1989 to December 1996, with service in Southwest Asia.
+
+Procedural History
+
+These matters come before the Board of Veterans' Appeals (Board) from an appeal of a March 2024 rating decision of the Department of Veterans Affairs' (VA) Veterans Benefits Administration, the agency of original jurisdiction (AOJ).  That same month, the appellant filed timely a VA Form 10182, Notice of Disagreement (NOD), electing the Direct Review Docket. 
+
+Applicable Evidentiary Window
+
+As the appellant has selected the Direct Review Docket, the Board may only consider the evidence of record before the AOJ at the time of its decision on the issue(s) on appeal.  See 38 C.F.R. §§ 20.300(a), 301.  The Board will not consider evidence received after the AOJ decision unless the claimant files a timely request for a Board hearing or an opportunity to submit additional evidence on the NOD (VA Form 10182). 38 C.F.R. § 20.301. The appellant has not filed such a request. If additional evidence was submitted after the AOJ decision, the Board will not consider it. If the appellant would like VA to consider any evidence that was added to the claims file that the Board could not consider, the appellant may file a supplemental claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim(s), considering the new evidence in addition to the evidence previously considered.  Id.  See also Cook v. McDonough, 36 Vet. App. 175 (2023).  However, because the Board is remanding both claims, any evidence the Board could not consider will be considered by the AOJ. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The Board regrets further delay, but a remand is required in order to correct a pre-decisional duty to assist error in the form of failure to obtain an adequate medical opinion for the claimed conditions. 
+
+1. Entitlement to service connection for a heart disability, to include paroxysmal atrial fibrillation, is remanded.
+
+The appellant has been diagnosed with paroxysmal atrial fibrillation and acute systolic heart failure.  See VA Heart Examination, December 14, 2023.  The appellant has indicated he believes his toxic exposure risk activities (TERA) during service, to include service in Southwest Asia and exposure to asbestos, are responsible for his heart disabilities.  See Claim, September 8, 2023; VA Memorandum, September 22, 2023 (documenting Persian Gulf War Service and asbestos exposure).  Accordingly, the issue in this case is whether a nexus, or link, exists between the diagnosed disabilities and the appellant's service. 
+
+VA has obtained four opinions on the matter at issue, none of which are adequate for the Board's current purpose. 
+
+The first of these opinions purported to address whether the appellant's heart disabilities were the result of his TERA, finding that they were not related.  See VA Heart Opinion, December 14, 2023.  However, the opinion did not specifically address this question.  Rather, the clinician opined that the systolic heart failure is "usually caused" by another cardiovascular condition.  Id.  The question in this case is not "what are the usual causes of systolic heart failure," but rather whether this particular appellant's heart disabilities are related to his TERA.  Although this examiner used the term "toxic exposure risk activities," she did not differentiate between service in Southwest Asia, which can include burn pits, and exposure to asbestos.  Id.  This is relevant because Persian Gulf Veterans, such as the appellant in this case, may be a medically unexplained chronic multi symptom illness (MUCMI) under Stewart v. Wilkie, 30 Vet. App. 383, 389 (2018) (clarifying that under 38 C.F.R. § 3.317, an illness is a MUCMI where either etiology or pathophysiology of the illness is inconclusive).  The examiner did not address whether the appellant's disabilities could be characterized as a MUCMI.  See VA Heart Opinion, December 14, 2023.  Finally, in the absence of either a relationship to the appellant's TERA or a MUCMI, the clinician also did not offer a direct service connection opinion.  Id.  In the absence of a presumption, an appellant may prove service connection on a facts-found, or direct, basis.  See generally Combee v. Brown, 34 F.3d 1039 (Fed. Cir. 1994).  For all of these reasons, the Board cannot rely upon this opinion.  See Barr v. Nicholson, 21 Vet. App. 303 (2007).
+
+The next VA Heart Opinion again purported to address the relationship between the appellant's heart disabilities and his TERA.  See VA Heart Opinion, February 2, 2024.  This opinion first concluded that the appellant's atrial fibrillation was the result of surgery, without providing any supporting rationale.  Id.  An opinion that states a conclusion without providing support for that conclusion is inadequate.  See Stefl v. Nicholson, 21 Vet. App. 120 (Vet. App. 2007).  The opinion then also stated that atrial fibrillation is not on the list of presumptive conditions for Gulf War exposures.  See VA Heart Opinion, February 2, 2024.  A negative opinion cannot be based solely on the fact that the United States Congress or the Secretary of VA has not promulgated a legal presumption establishing a nexus.  Unlike the prior opinion, this clinician did attempt to provide an opinion on the issue of a MUCMI.  See VA Heart Opinion, February 2, 2024.  However, the clinician found that the appellant's heart condition is a MUCMI before providing rationale as to why it is not a MUCMI.  Id.  This apparent confusion renders this opinion inadequate for rating purposes.  For these reasons, the Board cannot rely upon this opinion. See Barr, supra, 21 Vet. App. at 303.
+
+The third opinion purported to address direct service connection, as opposed to TERA.  See VA Direct Heart Opinion, March 13, 2024.  This opinion contained more detail regarding the appellant's heart disabilities, as well as causes of atrial fibrillation in general.  Id. The opinion concludes that "[t]here is no medical or scientific evidence that provides any indication of a relationship between the development of the condition at issue and the TERA."  Id.  However, the next paragraph, titled "Conclusion," states "Our study demonstrates that apart from cancer and chronic respiratory diseases, asbestos exposure may also have a cardiac effect..."  Id.   This paragraph is followed by a citation to a scholarly article.  In other words, this conclusion, which appears to be cut-and-paste from a scholarly article, actually indicates the opposite of the conclusion drawn by the clinician.  Id.  Because the clinician cited an article stating the opposite of her opinion without any explanation as to how this citation supports the opinion rendered, the Board cannot rely upon this opinion.  See Barr, supra, 21 Vet. App. at 303.
+
+The fourth opinion was written by the same clinician on the same day, but purports to address the appellant's TERA.  See VA Heart TERA Opinion, March 13, 2023.  This opinion actually checks the box for a positive nexus opinion before providing negative rationale.  This opinion then contains the same citation to the same scholarly article.  Id.  Due to this apparent confusion, the Board cannot rely upon this opinion.  See Barr, supra, 21 Vet. App. at 303.    
+
+When VA affords a claimant a medical opinion on the etiology of a disability, a duty exists for VA to obtain at least one adequate opinion.  Because all of the opinions on the mater are inadequate for the Board's current purposes, a remand is required to correct a pre-decisional duty to assist error in the form of failure to obtain an adequate opinion.  See Barr, supra, 21 Vet. App. at 303.
+
+2. Entitlement to service connection for a respiratory disability, to include shortness of breath, is remanded.
+
+The appellant has been afforded a single VA examination of the claimed condition, which diagnosed him with shortness of breath "with exertion."  See VA Respiratory Examination, December 14, 2023.  Both of the opinions on this claimed condition concluded that the appellant's shortness of breath is thus a result of his heart condition.  See VA Respiratory Opinion, December 14, 2023; VA Respiratory Opinion, February 2, 2024.  However, the VA examination also noted that no diagnostic testing was performed to determine whether any other respiratory conditions were present.  See VA Respiratory Examination, December 14, 2023.  In effect, all of the VA medical evidence appears to take for granted that the appellant's shortness of breath is simply a result of his heart condition - an assumption which may be accurate.  See VA Respiratory Opinion, December 14, 2023; VA Respiratory Opinion, February 2, 2024.  However, without the requisite diagnostic testing, the Board lacks sufficient information to determine whether any respiratory conditions exist other than the shortness of breath that would result from the appellant's heart disabilities.  See Ardison v. Brown, 6 Vet. App. 405, 407 (Vet. App. 1994) ([a]n adequate medical opinion must be based upon a consideration of the Veteran's prior medical history and must describe the Veteran's condition in sufficient detail so as to allow the Board to make a fully informed evaluation).  This is problematic in this particular case because both of the appellant's TERA - Gulf War and asbestos exposures - have been linked to certain respiratory conditions. 
+
+If no other respiratory conditions are present, then the issue of the appellant's shortness of breath is inextricably intertwined with his heart claim.  In that case, because the heart claim is being remanded, a remand of the shortness of breath claim is also proper.  See Harris v. Derwinski, 1 Vet. App. 180 (Vet. App. 1991).  If, on the other hand, there are any other respiratory conditions present, then neither of the VA examinations address those other potential conditions.  See VA Respiratory Opinion, December 14, 2023; VA Respiratory Opinion, February 2, 2024.  Thus, in either case, a remand of this claim is also appropriate.  See Harris, supra, 1 Vet. App. at 180; Barr, supra, 21 Vet. App. at 303.     
+
+The matters are REMANDED for the following action:
+
+1. Schedule the appellant for a VA examination and obtain an opinion from an appropriate clinician to assist in determining the likely nature and etiology of his heart disability.  The clinician must review the claims file, including this remand, and address the following: 
+
+(a.) Identify all disabilities associated with the appellant's heart noted during the appeal period. 
+
+(b.) For each diagnosed heart disability, please state whether is it likely (an approximate balance of positive and negative evidence) the disability is related to service, to include as due to the conceded TERAs of Gulf War and asbestos exposures? 
+
+(c.) The clinician must consider the total potential exposure through all applicable military deployments of the appellant and the synergistic, combined effect of all toxic exposure risk activities of the appellant.  See 38 U.S.C. § 1168. 
+
+(d.) If the clinician determines that the appellant's heart disability is not the result of his TERA, the clinician should then opine whether the etiology of the appellant's heart disability is: (1) inconclusive, (2) partially understood, or (3) fully understood.  This determination must be based on the appellant's specific case and cannot be based on the etiology of the disease or disability population as a whole. 
+
+(e.) The clinician should also opine whether the pathophysiology of the appellant's heart disability is: (1) inconclusive, (2) partially understood, or (3) fully understood.  This determination must be based on the appellant's specific case and cannot be based on the pathophysiology of the disease or disability population as a whole.
+
+(f.) If both the etiology and pathophysiology are partially understood or fully understood, then the clinician should opine on whether it is likely (an approximate balance of positive and negative evidence) that the appellant's heart disability was incurred in, or is otherwise related to, his active service.
+
+(g.) In answering these questions, the clinician should take into consideration the appellant's lay statements regarding any in-service heart issues, and continuity of these symptoms since service.  An opinion based on the absence of treatment records without consideration of an appellant's competent lay statements is inadequate.  The Board does not intimate any opinion regarding the credibility of the appellant's lay statements at this time. 
+
+(h.) Any opinion expressed by the clinician should be accompanied by a complete rationale. If medical literature is relied upon in rendering a determination, the clinician should identify and specifically cite each reference utilized.  If the clinician is unable to offer an opinion without resort to speculation, a thorough explanation as to why an opinion cannot be rendered should be provided.
+
+2. After the development in directive 1 is complete, schedule the appellant for a VA examination to determine the nature and etiology of his respiratory disability, to include shortness of breath.  Any necessary diagnostic testing should be performed.  The clinician must review the claims file, including this remand, and address the following: 
+
+(a.) Identify all respiratory disabilities the appellant experienced during the appeal period. 
+
+(b.) ONLY for any respiratory disability diagnosed separate and apart from shortness of breath that is symptomatic of the appellant's heart condition, please answer the following:
+
+i.	Please state whether any diagnosed respiratory disability is likely (an approximate balance of positive and negative evidence) related to service, to include as due to the conceded TERAs of Gulf War and asbestos exposures?
+
+The clinician must consider the total potential exposure through all applicable military deployments of the appellant and the synergistic, combined effect of all toxic exposure risk activities of the appellant.  See 38 U.S.C. § 1168.
+
+ii.	If the clinician determines that any respiratory disability is not the result of the appellant's TERA, the clinician should opine whether the etiology of the appellant's respiratory disability is: (1) inconclusive, (2) partially understood, or (3) fully understood.  This determination must be based on the appellant's specific case and cannot be based on the etiology of the disease or disability population as a whole.
+
+iii.	The clinician should also opine whether the pathophysiology of any respiratory disability is: (1) inconclusive, (2) partially understood, or (3) fully understood.  This determination must be based on the appellant's specific case and cannot be based on the pathophysiology of the disease or disability population as a whole.
+
+iv.	If both the etiology and pathophysiology are partially understood or fully understood, then the clinician should state whether it is likely (an approximate balance of positive and negative evidence) that the any respiratory disability was incurred in, or is otherwise related to, the appellant's active service.
+
+In answering these questions, the clinician should take into consideration the appellant's lay statements regarding any in-service respiratory issues, and continuity of these symptoms since service.  An opinion based on the absence of treatment records without consideration of an appellant's competent lay statements is inadequate.  The Board does not intimate any opinion regarding the credibility of the appellant's lay statements at this time. 
+
+Any opinion expressed by the clinician should be accompanied by a complete rationale. If medical literature is relied upon in rendering a determination, the clinician should identify and specifically cite each reference utilized. If the clinician is unable to offer an opinion without resort to speculation, a thorough explanation as to why an opinion cannot be rendered should be provided.
+
+3. Thereafter, readjudicate the claims.
+
+ 
+
+K.A. KENNERLY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Alexander Maisel, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

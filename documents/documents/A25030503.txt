@@ -1,0 +1,83 @@
+Citation Nr: A25030503
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240611-450457
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to service connection for tension headaches, as secondary to the Veteran's service-connected unspecified depressive disorder with anxious distress and chronic sinusitis, is granted.
+
+FINDING OF FACT
+
+The Veteran's tension headaches are but-for due to his service-connected unspecified depressive disorder with anxious distress and chronic sinusitis.
+
+CONCLUSION OF LAW
+
+The criteria for secondary service connection for tension headaches have been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from March 1992 to July 1992 and from May 1993 to January 2000.
+
+This matter was initially denied in a May 2023 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO), the Agency of Original Jurisdiction (AOJ).
+
+In August 2023, the Veteran requested Higher-Level Review of the May 2023 denial of service connection for tension headaches.  The AOJ found a duty to assist error occurred and, after further development, denied the claim in the June 2024 supplemental review rating decision on appeal.
+
+In June 2024 the Veteran submitted a VA Form 10182 Decision Review Request: Board Appeal (Notice of Disagreement) (NOD) and requested direct review by a Veterans Law Judge.  
+
+As an initial matter, in the June 2024 NOD, the Veteran specifically appealed the May 2023 rating decision in pursuit of review of his claim for tension headaches.  The June 2024 rating decision involves the application of identical law to identical facts; the appeals are the same.  Thus, the Board construes the Veteran's claim to relate to the June 2024 rating decision that was within one year of the VA Form 10182. ?
+
+Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+The Board is cognizant of the recent decision issued by the United States Court of Appeals for Veterans Claims (Court) in the case of Williams v. McDonough, 37 Vet. App. 305 (2024).  There, the Court held, in essence, that the Board must refrain from deciding a case until the case proceeds to the point where a docket switch is no longer permitted under the terms of 38 C.F.R. § 20.202(c)(2).  In this case, a docket switch is still permitted under the terms of 38 C.F.R. § 20.202(c)(2) as it is less than one year from the date that the AOJ mailed notice of the decision on appeal, but it is more than 60 days of the date that the Board received the June 2024 NOD.  However, as the instant decision represents a full grant of the benefits sought, there is no prejudice to the Veteran for proceeding before the end of one year from rating decision on appeal, and the Board shall proceed with adjudication.
+
+The Board further notes that after filing the June 2024 NOD, the Veteran filed a VA Form 20-0995 Supplemental Claim Application for service connection for tension headaches in late June 2024 and resubmitted a private medical nexus letter already of record.  In October 2024, the AOJ determined that the claim remained denied as the evidence submitted was not new and relevant.
+
+Service Connection
+
+Establishing service connection generally requires evidence of 1) a current disability; 2) an in-service incurrence or aggravation of a disease or injury; and 3) a nexus between the claimed in-service disease or injury and the present disability. See Shedden v. Principi,?381 F.3d 1163?(Fed. Cir. 2004).
+
+Service connection may be granted for any disease initially diagnosed after service, when all the evidence establishes that the disease was incurred in service.? 38 C.F.R. § 3.303(d).
+
+Establishing service connection on a secondary basis requires evidence sufficient to show: 1) a current disability; 2) a primary, service-connected disability; and 3) a nexus between the current disability and the service-connected disability.  See Wallin v. West, 11 Vet. App. 509, 512 (1988).
+
+Service connection may be established on a secondary basis for a disability resulting from a service-connected disease or injury.  38?U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.310.  Establishing service connection on a secondary basis requires evidence sufficient to show that a current disability exists and that the current disability results from the service-connected disability.  Spicer v. McDonough, 61 F.4th 1360, 1364 (Fed. Cir. 2023) (holding that section 1110 "requires compensation when a service-connected disease or injury is a but-for cause of a present-day disability"); Allen v. Brown, 7 Vet. App. 439 (1995) (en banc). Compensation may also be established for "the natural progression of a condition not caused by a service-connected injury or disease, but that nonetheless would have been less severe were it not for the service-connected disability."  See Spicer, 61 F.4th 1364.
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107(b).  It follows, that when the evidence persuasively favors one side or the other, the benefit-of-the-doubt rule is not applied.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+1. Entitlement to service connection for tension headaches, as secondary to the Veteran's service-connected unspecified depressive disorder with anxious distress, is granted.
+
+The Veteran contends that his tension headaches, are related to service based on a theory of secondary service connection from his service-connected unspecified depressive disorder with anxious distress.  See February 2023 VA 21-4138 Statement in Support of Claim.  While the Veteran's claim asserted that his tension headaches are secondary to his unspecified depressive disorder with anxious distress, the Veteran is also service connected for chronic sinusitis, and the Board considers all possible theories of service connection.  See Id.; see also El Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013).
+
+The AOJ made favorable findings that the Veteran has a current diagnosis of tension headaches and participated in a toxic exposure risk activity (TERA) in service in Southwest Asia.  The Board is bound by these favorable findings.  See 38 C.F.R. § 3.104(c).  The Veteran was service connected for unspecified depressive disorder with anxious distress in a November 2022 rating decision and for chronic sinusitis in a September 2023 rating decision.  The Veteran does not contend, nor does the evidence of record support a finding, that his migraines are directly related to service.
+
+Therefore, the only remaining question before the Board is whether the Veteran's migraines are caused or aggravated by a service-connected disability. 
+
+The Board has reviewed the March 2023 VA Headaches examination, July 2023 VA Sinusitis examination, and the multiple medical opinions afforded to the Veteran for his tension headaches.  The March 2023 VA examiner confirmed a diagnosis of tension headaches in the examination report.  The examiner opined that the Veteran's tension headaches were less likely than not proximately due to or the result of his service-connected condition.  No intercurrent causes or etiology were provided, no further explanation was given, and no medical literature was proffered in support of the examiner's conclusion.  Aggravation was not addressed.
+
+In the July 2023 VA Sinusitis examination, the examiner noted that the Veteran reported recurring sinus pressure that causes headaches.  The examiner further noted that the Veteran's reported headaches were a symptom attributable to chronic sinusitis.
+
+A TERA VA medical opinion was obtained in January 2024.  The VA examiner opined that, after considering the total potential exposure through all applicable military deployment of the veteran and the synergistic combined effect of all toxic exposure risk activities of the Veteran, his claimed tension headaches are not caused by a TERA as there is no evidence in the medical records that the claimed disability is chronic or persisted for a period of six months.
+
+The Board finds the VA medical opinions inadequate because 1) each fail to address the aggravation prong of causation for secondary service connection, 2) each fail to address the Veteran's relevant medical records and lay statements, 3) each are conclusory with no rationale provided, and 4) the March 2023 opinion does not implement the "but-for" causation standard of 38 U.S.C. § 1110 as articulated in Spicer.  see Spicer v. McDonough, 61 F.4th 1360.  When the VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).  To be considered adequate, medical examination reports must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008).  Therefore, the Board finds the VA medical opinions proffered less persuasive and affords each limited probative weight on the issue of nexus for secondary service connection.
+
+Additionally, the Veteran submitted a private medical opinion in support of his claim.  See February 2023 Independent Medical Examination.  The private examiner confirmed the Veteran's diagnosis of tension headaches and explained that tension headaches are multifactorial, meaning there are often more than a single cause or contributing element.  The private examiner further explained that, consistent with his own experience and relevant medical literature, the Veteran's tension headache symptoms related to his unspecified depressive disorder with anxious distress serve as triggers which significantly increase the frequency and intensity of the Veteran's headaches. The examiner ultimately opined that the Veteran's tension headaches were more likely than not "clearly" aggravated by and, therefore, secondary to his service-connected unspecified depressive disorder with anxious distress.  The examiner provided multiple studies discussing psychiatric disorders and headaches.
+
+The Board finds the private medical opinion adequate and substantially probative. The opinion provided reasons for conclusions based on accurate characterization of the evidence of record and relevant medical literature available.  Therefore, the private medical opinion is entitled to significant probative weight.  Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (most of the probative value of a medical opinion comes from its reasoning).
+
+Accordingly, the Board finds the evidence of record persuasively weighs in favor of the Veteran's contention that his service-connected unspecified depressive disorder with anxious distress and chronic sinusitis are a but-for cause of his diagnosed tension headaches.  As the evidence persuasively weighs in favor of the claim for service connection of tension headaches as secondary to the Veteran's service-connected unspecified depressive disorder with anxious distress and chronic sinusitis, service connection is warranted.  The Veteran's claim is granted.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+R. Bisignani
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Herring, Victoria B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

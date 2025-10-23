@@ -1,0 +1,65 @@
+Citation Nr: A25030069
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 210304-196615
+DATE: April 1, 2025
+
+ORDER
+
+The appeal with respect to the validity of a debt in the total calculated amount of $1,633.67 for educational assistance benefits under Chapter 35 of Title 38 of the United States Code, also known as the Dependents Educational Assistance (DEA) benefits, to include whether the debt should be waived, is REMANDED.   
+
+FACTUAL AND PROCEDURAL BACKGROUND
+
+The Veteran served on active duty in the United States Air Force from December 1992 to January 2006.  The Appellant is her dependent son.  
+
+The case is on appeal to the Board of Veterans' Appeals (Board) from a February 2021 Department of Veterans Affairs (VA) Committee on Waivers and Compromises (COWC) decision that denied a request for a waiver of overpayment in the amount of $1,633.67. 
+
+In the March 2021 Notice of Disagreement (NOD or VA Form 10182), the Appellant elected the Evidence Submission docket.  Therefore, the Board may only consider the evidence of record at the time of the February 2021 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Appellant with, or within 90 days from receipt of, the VA Form 10182. 38 C.F.R. § 20.303.  If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the date the Board received the VA Form 10182, or (2) more than 90 days following the date the Board received the VA Form 10182, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.303, 20.801. 
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+REASONS FOR REMAND
+
+At the outset, every overpayment case, such as the one discussed herein, potentially has three issues: (1) the validity of debt; (2) the amount of debt; and (3) waiver of the debt.  
+
+The February 2021 COWC decision on appeal found that the Appellant was not entitled to Chapter 35 benefits as he "preregistered but never attended."  In the March 2021 VA Form 10182, the Appellant contends that he did attend school and that the reason for his withdrawal was due to "mental health treatment [received] during the time school started."  As such, prior to adjudicating the issue of a waiver of overpayment, adjudication of the underlying threshold issue of the validity of the debt is required. Schaper v. Derwinski, 1 Vet. App. 430, 434-35 (1991) (noting that before adjudicating a waiver application, the lawfulness of the overpayment must first be decided).  Although the present appeal was certified to the Board as one for a waiver of an overpayment of educational assistance benefits under Chapter 35, the Board has recharacterized it to reflect the contentions as raised by the Appellant.  
+
+VA regulations provide that education benefits under Chapter 35 are paid only for the period of a student's enrollment in pursuit of an educational program.  Thus, no amount is paid to the student for a course for which the grade assigned is not used in computing the requirements for graduation, to include for a course from which he or she elects to withdraw, unless the student withdraws because he or she was called to active duty or because the Secretary finds that there were mitigating circumstances for the withdrawal. 38 U.S.C. § 3680(a); 38 C.F.R. § 21.3132(d).  Regarding mitigating circumstances, 38 C.F.R. § 21.3132(d)(1)(ii)(C) provides, however, that payment is warranted if the eligible person submits evidence supporting the existence of mitigating circumstances within one year of the date that evidence is requested by VA, or at a later date if the eligible person is able to show good cause why the one-year time limit should be extended to the date on which he or she submitted the evidence supporting the existence of mitigating circumstances.  If the individual withdraws from all courses with mitigating circumstances or withdraws from all courses such that a punitive grade is or will be assigned for those courses, the effective date of withdrawal will be the last date of attendance for residence training, or the official date of change in status under the practices of the institution.  38 C.F.R. § 21.4135(e).  If an eligible person withdraws from a course during a drop-add period, VA will consider the circumstances which caused the withdrawal to be mitigating.  Eligible persons who withdraw from a course during a drop-add period are not subject to the reporting requirement found in paragraph (d)(1)(ii) of this section. 38 C.F.R. §21.3132(d)(5). If there are no mitigating circumstances, the educational allowance is reduced or terminated as of the first day of the term in which the withdrawal occurred. 38 C.F.R. §§ 21.3135(c) (cross referencing 21.4135(e)(1)). 
+
+A review of the record shows that the Appellant enrolled for a total of 7 credit hours at Georgia Highlands College for two overlapping terms during the 2020 Fall semester; from September 8, 2020 to December 10, 2020 (5 credits), and from September 22, 2020 to December 10, 2020 (2 credits).  In October 2020, the school notified VA via Notice of Change in Student Status (VA Form 22-1999b) that the Appellant "preregistered but never attended."  His withdrawals were made effective September 7, 2020 for one term, and September 21, 2020 for the additional term.  Both effective dates of withdrawal correspond to the day before the beginning of each of the terms.  
+
+In October 2021, the Appellant was notified by the AOJ that because he stopped his training on September 8, 2020, VA stopped his benefits effective on that date.  The Appellant was notified that he was responsible for all debts resulting from reductions or terminations of his enrollments and the overpayment must be repaid.  The notification concludes indicating that upon referral, the VA's Debt Management Center (DMC) will provide him with detailed information about the amount.  The notification, however, does not provide the Appellant with an opportunity to submit evidence explaining the reasons for his withdrawal and whether mitigating circumstances existed in connection with his withdrawal.  
+
+In the March 2021 VA Form 10182, the Appellant indicates that he was undergoing mental health treatment during the time the school started.  The Board construes the foregoing argument as one in support of mitigating circumstances that prevented him from the continuous pursuit of his program of education.  The Appellant also notes that he did attend school the first few weeks of his enrollment.  The foregoing argument suggests that the Appellant in fact attended school as opposed to the school's Change in Student Status notification indicating that he "preregistered but never attended."  This, in turn, appears to be supported by additional evidence submitted with the March 2021 NOD; a copy of a September 14, 2020, email communication thread with one of his professors.    
+
+The Board has reviewed the evidence of record and for the reasons set forth below, finds that a remand is necessary prior to adjudicating the appeal on the merits.  
+
+First, in the October 2020 notification letter the AOJ failed to provide the Appellant with an opportunity to submit evidence of the circumstances surrounding his withdrawal as set forth in 38 C.F.R. § 21.3132(d)(1)(ii)(C).  As noted above, the notification was limited to notify that benefits had been stopped without an opportunity to the Appellant to explain the reasons for his withdrawal.  The foregoing constitutes a pre-decisional duty to assist error that must be corrected on remand.  
+
+Second, the AOJ stopped the Appellant's benefits effective the first day of the term on the basis that he "preregistered but never attended."  Nonetheless, the additional evidence identified above strongly suggests that the Appellant attended the first weeks of his term as the email communication thread with one of his professors is dated September 14, 2020, which is six days after the beginning of the first term beginning on September 8, 2020.  Further clarification from the school is necessary as the evidence in this regard is conflicting.  If the Appellant withdrew during the drop-add due to mitigating circumstances, the provisions of 38 C.F.R. § 21.3132 (d)(5) could potentially be applied to the facts of this case and any applicable reduction must applied pursuant to 38 C.F.R. §21.4135(e) (the last date of attendance or the official date of change in status as applicable). 
+
+The Board may remand for correction of any error by the AOJ in satisfying a regulatory or statutory duty if correction of the error would have a reasonable possibility of aiding in substantiating the Veteran's claim. 38 C.F.R. § 20.802(a). 
+
+For the reasons set forth above, the Board finds that the claim must be remanded to the AOJ to correct the errors explained herein.  That is, to obtain from Georgia Highlands College clarification as to the Appellant's attendance during the 2020 Fall term considering the communication with one of his professors which suggests that he did attend some portion of his enrollment.  The AOJ must also provide the Appellant with an opportunity to submit additional evidence in support of any mitigating circumstances surrounding his withdrawal.  
+
+The matter is REMANDED for the following action: 
+
+1. Request and obtain clarification from Georgia Highlands College as to the Appellant's attendance for the 2020 Fall terms from September 8, 2020 to December 10, 2020, and from September 22, 2020 to December 10, 2020.  The school is asked to provide an explanation as to the basis relied on to notify VA that the Appellant "preregistered but never attended" by considering the Appellant's arguments that he did attend the first few weeks of enrollment and the supporting evidence showing direct communication with one of his professors.  All efforts to obtain this evidence must be documented and associated with the education file. 
+
+2. Thereafter, if it is found that the Appellant withdrew after the school's drop-add period for any of the terms, provide the Appellant with an opportunity to submit evidence of any mitigating circumstances surrounding his withdrawal.  
+
+3. Once the above actions have been completed, readjudicate the claim pursuant to the provisions set forth in 38 C.F.R. §§ 21.3132(d), 21.3135(c), and 21.4135(e) as explained above and as applicable to the facts of this case.      
+
+ 
+
+ 
+
+TIFFANY HANSON
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	William Pagan, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

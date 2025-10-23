@@ -1,0 +1,71 @@
+Citation Nr: A25030497
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 250319-521190
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to an assignment of separate disability ratings for the Veteran's service-connected asthma and his service-connected obstructive sleep apnea (OSA) is denied.
+
+FINDING OF FACT
+
+The Veteran's service-connected asthma and OSA are co-existing respiratory disorders both of which are productive of breathing difficulty; asthma is the Veteran's predominant respiratory disorder.  
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to assignment of separate disability ratings for the Veteran's service-connected asthma and his service-connected OSA have not been met.  38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.96(a), 4.97, Diagnostic Codes 6847-6602.  
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran, who is the appellant in this appeal, served on active duty from December 1968 to January 1989.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a February 2025 Appeals Modernization Act (AMA) rating decision by a Department of Veterans Affairs (VA) Regional Office, the agency of original jurisdiction (AOJ), that granted the Veteran service connection for his OSA disability with a 50 percent evaluation effective May 31, 2022, and assigning a single 60 percent disability rating for OSA with asthma under 38 C.F.R. § 4.97, Diagnostic Codes 6847-6602.  
+
+In March 2025, the Veteran initiated this appeal to the Board with the filing of a Decision Review Request (VA Form 10182), requesting direct review by a Veterans Law Judge on the evidence of record at the time of the February 2025 rating decision.? In?a March 2025 correspondence, the Board acknowledged the appeal and informed the Veteran and his representative that the appeal had been placed on the Board's direct review docket.? Therefore, the Board may only consider the evidence of record at the time of the AOJ's rating decision on appeal, here as of February 21, 2025.? 38?C.F.R. §?20.301.? If evidence was submitted during the period after the AOJ issued the February 2025 decision, the Board did not consider it herein.? 38 C.F.R. §§?20.300, 20.301, 20.801.? 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. §?3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board observes that one year has not elapsed since the rating decision on appeal was mailed by the AOJ on February 25, 2025.  Generally, the Board may not decide an appeal before the deadline for requesting an Appeals Modernization Act (AMA) docket switch has elapsed.  38 C.F.R. § 20.202(c)(2) allows appellants to switch AMA dockets by completing and submitting a new VA Form 10182 within 60 days from when the Board receives the original VA Form 10182, or one year from the date the AOJ mails notice of the decision on appeal, whichever is later, unless (1) an appellant or representative has already submitted evidence or testimony as described in 38 C.F.R. §§ 20.302 and 20.303, or (2) the appellant or the representative has requested a waiver of the ability to request to switch dockets during this timeframe.  See Williams v. McDonough, 37 Vet. App. 305 (2024).  In the instant matter, the Veteran, through his representative, waived his ability to request to switch dockets by stating "[i]n making this election, [the Veteran] confirms that he does not want a Board hearing or to submit additional evidence for review in this appeal."  See March 2025 Appeal Brief submitted concurrently with the March 2025 VA Form 10182.  The Board will therefore proceed to adjudicate this appeal.
+
+Preliminary Matter
+
+The Board has limited the discussion below to the relevant evidence required to support its findings of fact and conclusions of law, as well as to the specific contentions regarding the case as raised directly by the Veteran and those reasonably raised by the record.? See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Peake, 21?Vet. App.?545, 552 (2008); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016). 
+
+Entitlement to separate disability ratings for the Veteran's obstructive sleep apnea with asthma.  
+
+The Veteran is in receipt of a single 60 percent disability rating for OSA with asthma under 38 C.F.R. § 4.104, Diagnostic Codes 6847-6602.  See February 2025 Rating Decision.  He contends that he should be awarded separate ratings for his OSA and asthma.  See March 2025 VA Form 10182.     
+
+The evaluation of the same disability under several diagnostic codes, known as pyramiding, must be avoided; however, separate ratings may be assigned for distinct disabilities resulting from the same injury so long as the symptomatology for one condition is not duplicative of or overlapping with the symptomatology of the other. Esteban v. Brown, 6 Vet. App. 259, 262 (1994); 38 C.F.R. § 4.14.
+
+Rating coexisting respiratory conditions is governed by 38 C.F.R. § 4.96 (a).  When there are two co-existing respiratory conditions (including for Diagnostic Codes 6602 and 6847), a single rating will be assigned under the Diagnostic Code that reflects the predominant disability with elevation to the next higher evaluation where the severity of the overall disability warrants such evaluation.  38 C.F.R. § 4.96 (a).  In other words, VA will evaluate coexisting service-connected respiratory conditions covered by § 4.96(a) under the criteria enumerated in the predominant disability's Diagnostic Code.  See Urban v. Shulkin, 29 Vet. App. 82, 97, 106 (2017) (declining to consider non-dominant disability and stating, "given that the regulation prescribes that to avoid pyramiding VA must not separately evaluate the listed respiratory conditions and combine them under 38 C.F.R. § 4.25, as would occur in a conventional evaluation, the Secretary's decision to adhere to the criteria in the predominant DC makes sense.")
+
+Diagnostic Code 6847 is applicable to sleep apnea syndromes that includes obstructive, central and mixed.  Diagnostic Code 6847 provides a noncompensable (zero) rating for asymptomatic sleep apnea, but with documented sleep disorder breathing.  A 30 percent rating is warranted for sleep apnea with persistent daytime hypersomnolence.  A 50 percent rating is warranted for sleep apnea requiring use of a breathing assistance device such as a continuous airway pressure (CPAP) machine. The maximum rating of 100 percent is warranted for chronic respiratory failure with carbon dioxide retention or cor pulmonale, or for sleep apnea requiring a tracheostomy.
+
+Asthma is rated under Diagnostic Code 6602.  A 10 percent rating is warranted when Pulmonary Functions Tests (PFTs) reveal a Forced Expiratory Volume in One Second (FEV-1) of 71 to 80 percent predicted, an FEV-1/Forced Vital Capacity (FVC) ratio of 71 to 80 percent, or intermittent inhalational or oral bronchodilator therapy.  A 30 percent rating is warranted when PFTs reveal an FEV-1 of 56 to 70 percent predicted, an FEV-1/FVC ratio of 56 to 70 percent, daily inhalational or oral bronchodilator therapy, or inhalational anti-inflammatory medication.  A 60 percent rating is warranted for an FEV-1 of 40 to 55 percent predicted, an FEV-1/FVC ratio of 40 to 55 percent, at least monthly visits to a physician for required care of exacerbations, or intermittent (at least three per year) courses of systemic (oral or parenteral) corticosteroids. The maximum rating of 100 percent is warranted for an FEV-1 of less than 40 percent predicted, an FEV-1/FVC ratio of less than 40 percent, more than one attack per week with episodes of respiratory failure, or required daily use of systemic (oral or parenteral) high-dose corticosteroids or immuno-suppressive medications.
+
+Here, the evidence of record reflects that the Veteran has been awarded a 60 percent disability rating as of March 8, 2022, based on FEV-1 of 40 to 55 percent of predicted value (51 percent).  See June 2022 Rating Decision.  The Veteran was awarded a 50 percent disability rating for his OSA as of May 31, 2022, based on his use of a breathing device such as a CPAP.  See February 2025 Rating Decision.  Accordingly, the Veteran's asthma is shown to be his predominant respiratory disability, and a single 60 percent rating for the Veteran's OSA with asthma was awarded.  Id.     
+
+On review, the Board finds that the assignment of separate disability ratings for the Veteran's service-connected asthma and his service-connected OSA is not warranted.
+
+The Veteran's OSA and asthma are co-existing respiratory conditions, and both produce breathing difficulty, and as such, are necessarily both manifested by respiratory involvement.  See 38 C.F.R. § 4.14.  The Board recognizes the Veteran's disagreement with only a single rating assigned for his OSA and asthma. However, as indicated, separate ratings are specifically prohibited by 38 C.F.R. § 4.96 (a).  Indeed, the Board is legally barred from assigning separate ratings for his co-existing sleep apnea and asthma.    
+
+The Board recognizes that the Veteran's representative argues that 38 C.F.R. 4.96(a) only precludes assigning and combining separate rating evaluations under diagnostic codes 6600 through 6817, and separately precludes combining separate rating evaluations under diagnostic codes 6822 through 6847.  See March 2025 Appeal Brief submitted concurrently with the March 2025 VA Form 10182.  This is a misinterpretation of the plain language of 38 C.F.R. § 4.96(a).  The first sentence of 38 C.F.R. § 4.96(a) provides that "[r]atings under [DCs] 6600 through 6817 and 6822 through 6847 will not be combined with each other..." (emphasis added).  The first sentence means that the assignment of separate evaluations for certain respiratory conditions covered under Diagnostic Codes 6600 through 6817 (of which asthma is 6602) and Diagnostic Codes 6822 through 6847 (of which sleep apnea is 6847), is prohibited.  See Urban, supra.  Indeed, the plain language of the regulation aligns with VA's regulatory structure and scheme to avoid duplicate compensation for the same symptoms or for conditions that manifest in the same manner.        
+
+Given the binding nature of the applicable statutory and regulatory provisions as referenced above and the facts of this Veteran's case, his request for separate ratings for his OSA with asthma is therefore denied.  
+
+Neither the Veteran nor his representative have raised any other issues, nor have any other issues been reasonably raised by the record.  See Doucette v. Shulkin, 28 Vet. App. 366, 369-70 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).
+
+Accordingly, the appeal is denied.   
+
+ 
+
+S. B. MAYS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Pawlowski, E. Jennifer 
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

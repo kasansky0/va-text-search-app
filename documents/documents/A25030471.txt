@@ -1,0 +1,65 @@
+Citation Nr: A25030471
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 241108-493167
+DATE: April 2, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea is remanded.
+
+Entitlement to service connection for migraine headaches is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from August 1967 to August 1970.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from March 2024 and October 2024 rating decisions by a Department of Veterans Affairs (VA) Regional Office (RO).  The March 2024 rating decision is a Higher-Level Review (HLR) decision, issued in response to a November 2023 VA Form 20-0996, Decision Review Request: HLR, which requested review of a December 2022 decision by the agency of original jurisdiction (AOJ) which denied service connection for migraine headaches while the October 2024 rating decision is a HLR decision, issued in response to a June 2024 VA Form 20-0996, Decision Review Request: HLR, which requested review of a June 2024 decision by the AOJ which, in pertinent part, denied service connection for obstructive sleep apnea.
+
+As an initial matter, the Board notes that on the VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), received by VA on November 8, 2024, the Veteran listed decision dates of November 2, 2023 and December 2, 2022 as the migraine headache decisions he disagreed with.  However, the November 8, 2024 VA Form 10182 cannot be a timely appeal of the November 2, 2023 or December 2, 2022 rating decisions as it was submitted more than one year following those rating decisions.  Nevertheless, as indicated above, service connection for migraine headaches was also denied in a March 2024 HLR rating decision.  Therefore, the Board will liberally construe the November 2024 VA Form 10182 as an appeal of the March 2024 HLR rating decision's denial of service connection for migraine headaches.  See 38 C.F.R. § 20.202(a).
+
+In the November 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the December 2022 and June 2024 rating decisions, which were subsequently subject to higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the respective decisions, which were subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the claims of entitlement to service connection for obstructive sleep apnea and entitlement to service connection for migraine headaches, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii).
+
+Lastly, a veteran is entitled to a one-year window within which the veteran may switch Board review dockets, if desired, by submitting a new, completed VA Form 10182.  A veteran may also waive this docket switch window.  See Williams v. McDonough, 37 Vet. App. 205 (2024).  Here, the Veteran's VA Form 10182 was received in November 2024.  In January 2025, the Board sent the Veteran correspondence informing him of his right to select a different Board review option and his waiver options.  In February 2025, the Veteran waived his right to select a different Board docket.  As such, the Board may proceed to adjudicate the case.
+
+1. Entitlement to service connection for obstructive sleep apnea
+
+The Veteran contends that his obstructive sleep apnea is related to his service-connected hypertension in that his high blood pressure is affecting his sleep.  See March 2024 VA Form 21-526EZ.  
+
+In June 2024 and August 2024, the Veteran was afforded VA sleep apnea examinations.  The examiners confirmed the Veteran's obstructive sleep apnea diagnosis and rendered negative toxic exposure risk activities service connection opinions.  
+
+The June 2024 VA examiner also rendered a negative secondary service connection opinion.  The June 2024 examiner provided the following secondary service connection rationale: "The conditions of sleep apnea and hypertension are not medically related.  The sleep apnea is a separate entity entirely from the hypertension and unrelated to it.  A thorough review of medical literature failed to demonstrate a causal relationship.  A nexus has not been established."  The Board finds the VA secondary opinion to be insufficient for rating purposes because the opinion is conclusory and lacks a well-reasoned medical rationale.  Failure to obtain adequate opinion is a pre-decisional duty to assist error.  See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007) (when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate).  Additionally, secondary service connection opinion is also incomplete as the examiner only addressed the question of causation and did not address whether the Veteran's obstructive sleep apnea was aggravated by his service-connected hypertension.  See El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013) (a medical opinion is inadequate when it fails to adequately address the question of aggravation).  
+
+While the Board regrets delay in the adjudication of the Veteran's claim, not obtaining an adequate or complete secondary medical opinion for the Veteran's claim constitutes a pre-decisional duty to assist error.  Therefore, a remand is required to obtain another medical opinion consistent with the directives herein.
+
+2. Entitlement to service connection for migraine headaches
+
+The Veteran contends that his migraine headaches are related to his service including related to herbicide agent exposure.  See April 2023 VA Form 20-0995.
+
+The Veteran was afforded a VA headache examination in October 2023.  The examiner confirmed the Veteran's migraine diagnosis and listed the date of diagnosis as "1970s".  Later in the examination report, the examiner documented the date of onset as "1970 while in Army" and the details of onset as "gradual onset of migraine headaches since 1970 while in Army."  The examiner also noted that a March 2022 VA treatment record noted a "50+ year history of migraine".
+
+Despite the foregoing, the examiner only rendered a medical opinion for toxic exposure risk activities.  No direct service connection opinion was provided or has since been associated with the claims file.  The failure to obtain such an opinion constitutes a pre-decisional duty to assist error, and remand is consequently warranted to obtain a VA medical opinion consistent with the directives herein.
+
+The matters are REMANDED for the following actions:
+
+1. Obtain an addendum opinion from an appropriate clinician regarding whether it is at least as likely as not that the Veteran's obstructive sleep apnea is due to or aggravated, i.e., made worse, by his service-connected hypertension.
+
+A complete rationale must be provided for all opinions presented. If the examiner cannot provide the requested opinion without resorting to speculation, he or she should provide an explanation stating why this is so. In so doing, the examiner should explain whether the inability to provide a more definitive opinion is the result of a need for additional information or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question.
+
+2. Obtain an addendum opinion from an appropriate clinician regarding whether it is at least as likely as not that the Veteran's migraine headaches (1) began during active service, (2) manifested within 1 year after discharge from service, or (3) were noted during service with continuity of the same symptomatology since service?  The examiner should specifically consider and address the Veteran's lay reports that his migraine headaches had a gradual onset starting in the 1970s while in the Army.
+
+A complete rationale must be provided for all opinions presented.  If the examiner cannot provide the requested opinion without resorting to speculation, he or she should provide an explanation stating why this is so. In so doing, the examiner should explain whether the inability to provide a more definitive opinion is the result of a need for additional information or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question.
+
+ 
+
+ 
+
+A. ISHIZAWAR
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Coburn
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

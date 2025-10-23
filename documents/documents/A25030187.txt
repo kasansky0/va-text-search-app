@@ -1,0 +1,59 @@
+Citation Nr: A25030187
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240721-457147
+DATE:        April 2, 2025
+
+     
+
+ORDER
+
+Entitlement to service connection for sleep apnea, to include as secondary to posttraumatic stress disorder (PTSD) is granted.
+
+FINDING OF FACT
+
+The Veteran's sleep apnea is etiologically linked to his service-connected PTSD.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for sleep apnea as secondary to PTSD have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Navy from June 1993 to October 1996.
+
+In the present case, the agency of original jurisdiction (AOJ) issued the rating decision on appeal on July 17, 2024. The Veteran filed a timely appeal of that decision using VA Form 10182 in July 2024 and requested the direct review lane with the Board. Accordingly, the Board will consider evidence of record up to the July 17, 2024, rating decision. Evidence outside of this time period cannot be considered.
+
+The Veteran's claim for service connection for sleep apnea was finally denied in a November 2021 rating decision. In a June 2023 rating decision, the AOJ found new and relevant evidence to readjudicate the claim. The Board is bound by this favorable finding and the Veteran has continuously pursued his claims since that decision. Accordingly, the question of whether new and relevant evidence was submitted sufficient to readjudicate these claims shall not be considered herein.
+
+Entitlement to service connection for sleep apnea
+
+Service connection may be granted where a disability is proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310. Establishing service-connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability. See Allen v. Brown, 7 Vet. App. 439, 48 (1995) (en banc). 
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall resolve reasonable doubt in favor of the claimant. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990). 
+
+The Veteran contends that his service-connected PTSD caused him to gain weight and as a result has caused or aggravated his obstructive sleep apnea.
+
+Obesity, being overweight, or a particularity of body type alone is not considered a disability for which service connection may be granted. See generally 38 C.F.R. Part 4 (VA Schedule for Rating Disabilities, which does not contemplate a separate disability rating for obesity); see also Wanner v. Principi, 370 F.3d 1124, 1131 (Fed. Cir. 2004) (holding that VA's discretion over the rating schedule is insulated from judicial review and that "review of the content of the rating schedule is indistinguishable from review of what should be considered a disability"). Rather, applicable VA regulations use the term "disability" to refer to the average impairment in earning capacity resulting from diseases or injuries encountered as a result of or incident to military service. Allen v. Brown, 7 Vet. App. 439, 448 (1995); Hunt v. Derwinski, 1 Vet. App. 292, 296 (1991); 38 C.F.R. § 4.1. There must be competent evidence of a current disability to support service connection, and particularities of body type, such as being overweight or underweight, do not in and of themselves constitute disease or disability. Obesity that is not due to underlying pathology cannot be considered a deviation from the normal function of the body (such as for a "disease"); rather, the storage of calories for future use represents the body working as it is designed to do. To award service connection with obesity as an intermediate cause, the obesity must be a substantial factor in causing the claimed disability, and there must be evidence that the claimed disability would not have occurred or worsened but for the weight gain caused or aggravated by his service-connected disability. The Court of Appeals for Veterans Claims (CAVC) recently held that obesity as an "intermediate step" in a causal chain for service connection can be established on either a causal or aggravation basis. See Walsh v. Wilkie, 32 Vet. App. 300 (2020). 
+
+In its July 2024 rating decision, the AOJ favorably found the Veteran was diagnosed with obstructive sleep apnea and service connected for PTSD. Thus, the first and second elements of secondary service connection are established. 
+
+The remaining issue is a nexus, for which conflicting opinions have been provided. VA examiners provided opinions in May and November 2023. The first May 2023 opinion addressed only direct service connection. The second May 2023 opinion was inadequate as it failed to address obesity as an intermediate cause.  In November 2023, a VA examiner opined it was less likely than not the Veteran's sleep apnea was caused or aggravated by his service-connected PTSD, to include consideration of obesity as an intermediate cause. The examiner explained that per records and the Veteran's history he had symptoms of sleep apnea while in service and afterwards. He was diagnosed with obstructive sleep apnea prior to his diagnosis of PTSD. He had gradual weight increase through his years in service prior to the January 1995 stressor incident: 1992; 168lbs, 1993; 184 lbs. 1996; 195 lbs. While PTSD has been identified as contributory to the Veteran's obesity which in turn has been indicated as contributing to his development of OSA the examiner found the Veteran had a gradual increase of weight over the years due to dietary intake, daily alcohol consumption, and inactivity. The Board finds the opinion somewhat probative. However, the examiner failed to adequately address whether the Veteran's obesity was aggravated by his service-connected PTSD. Thus, the Board finds that the May 2023 VA opinion is incomplete
+
+In December 2022, a private FNP opined that the Veteran's service-connected PTSD contributed to weight gain which caused his sleep apnea. The FNP explained that recent studies found people who suffer from depression, anxiety, and other mental health disorders are more likely to gain weight over time and become obese than people who do not. The FNP noted the Veteran specifically reported withdrawing from activities and eating throughout the day due to bouts of depression and anxiety. The FNP acknowledged the Veteran's reports of self- medicating his PTSD with excessive alcohol use which can also cause or aggravate both weight gain and sleep apnea. Finally, the examiner noted that obesity is a major risk factor in the development of OSA. The Board finds the opinion probative as it reflects reasoned consideration of the evidence of record and includes a sufficient explanation.
+
+Based on the opinions, the Board finds the most persuasive evidence supports a relationship between the Veteran's sleep apnea and his service-connected PTSD. Thus, the Board finds that the evidence supports the Veteran's claim. As such, service connection for obstructive sleep apnea as secondary to the Veteran's service-connected PTSD is granted.
+
+ 
+
+ 
+
+GAYLE STROMMEN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Sherman, C
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

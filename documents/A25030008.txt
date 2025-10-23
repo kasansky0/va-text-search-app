@@ -1,0 +1,119 @@
+Citation Nr: A25030008
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240609-446320
+DATE: April 1, 2025
+
+ORDER
+
+Entitlement to restoration of a 100 percent rating for hypothyroidism, from August 1, 2024, is granted.
+
+Entitlement to restoration of special monthly compensation based on housebound criteria (SMC) (38 U.S.C. § 1114 (s)), from August 1, 2024, is granted.
+
+REMANDED
+
+Entitlement to a rating in excess of 30 percent for chronic kidney disease is remanded.
+
+FINDINGS OF FACTS
+
+1. Service connection for hypothyroidism was awarded in a December 2023 rating decision.  An initial 100 percent evaluation was assigned effective August 10, 2022.
+
+2. A May 2024 rating decision reduced the evaluation assigned to the hypothyroidism from 100 percent to 0 percent effective August 1, 2024.
+
+3. It had not been six months since an examination physician determined crisis stabilization for the Veteran's hypothyroidism. 
+
+4. With the restoration of the Veteran's service connection hypothyroidism to a 100 percent evaluation from August 1, 2024, the Veteran had a service-connected disability rated as total and an additional service-connected disability independently ratable at 60 percent or more.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for reduction of the Veteran's rating for migraines from 100 percent to 0 percent were not met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.344, 4.119, Diagnostic Code 7903.
+
+2. The criteria for restoration of SMC have been met.  38 U.S.C. § 1114, 5107; 38 C.F.R. § 3.120, 3.350, 3.351, 3.352. 
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Army from September 1966 to September 1969.
+
+The Appeals Modernization Act (AMA) automatically applies to all claims for which VA issues notice of an initial decision on or after February 19, 2019.  See 38 C.F.R. § 3.2400(a)(1).  The rating decisions on appeal were issued in January 2024 for issue of entitlement to a rating in excess of 30 percent for chronic kidney disease and in May 2024 for the issues of entitlement to restorations of a 100 percent rating for hypothyroidism and of SMC, from August 1, 2024.  The rating decisions constitute initial decisions; therefore, the modernized review system, also known as the AMA, applies.
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal Notice of Disagreement (NOD), the Veteran timely appealed the January 2024 and May 2024 rating decisions and elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the January 2024 rating decision for issue of entitlement to a rating in excess of 30 percent for chronic kidney disease and the May 2024 rating decision for the issues of entitlement to restorations of a 100 percent rating for hypothyroidism and of SMC.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim of entitlement to a rating in excess of 30 percent for chronic kidney disease, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+In June 2024, the Board notified the Veteran that the appeal has been placed on the docket.  Thus, the appeal is properly before the Board, and this decision follows.
+
+Entitlement to restoration of a 100 percent rating for hypothyroidism, from August 1, 2024, is granted.
+
+The Veteran contends that discontinuation of the 100 percent rating for his hypothyroidism, effective August 1, 2024, was improper.  Service connection for hypothyroidism was granted in a December 2023 rating decision.  An initial 100 percent evaluation was assigned effective August 10, 2022 for hypothyroidism under Diagnostic Code 7903.  In the January 2024 rating decision, the Veteran was notified of a proposed reduction for the Veteran's hypothyroidism from 100 percent to 0 percent.  The May 2024 rating decision on appeal reduced the disability rating assigned the Veteran's hypothyroidism to 0 percent effective August 1, 2024.  The question before the Board is whether the reduction of the rating assigned to the Veteran's hypothyroidism in May 2024 was proper.  
+
+When a rating reduction results in a reduction in the overall amount of compensation paid, VA must comply with the notice procedures of 38 C.F.R. § 3.105(e).  See Kitchens v. Brown, 7 Vet. App. 320, 325 (1995).  The Board notes that VA complied with notice requirements that apply to standard rating reductions (even though this reduction was not a standard rating reduction, as explained below).  See 38 C.F.R. § 3.105(e), (i).  
+
+Generally, a rating reduction is not proper unless the Veteran's disability shows actual improvement in his or her ability to function under the ordinary conditions of life and work.  See Faust v. West, 13 Vet. App. 342, 349 (2000).  In considering the propriety of a reduction, the Board must focus on the evidence available to the regional office at the time the reduction was effectuated (although post-reduction medical evidence may be considered in the context of considering whether actual improvement was demonstrated).  Dofflemyer v. Derwinski, 2 Vet. App. 277, 281-82 (1992).  The Veteran need not demonstrate that retention of the higher evaluation is warranted; rather, the burden is on the Board "to establish, by a preponderance of the evidence...that a rating reduction is warranted."  See Brown v. Brown, 5 Vet. App. 413, 418 (1993).  The U.S. Court of Appeals for Veterans Claims (Court) in Brown further held that "in any rating-reduction case not only must it be determined that an improvement in a disability has actually occurred but also that improvement actually reflects an improvement in the veteran's ability to function under the ordinary conditions of life and work."  5 Vet. App. at 121.
+
+Pursuant to 38 C.F.R. § 4.119, Diagnostic Code 7903, a 100 percent rating is warranted for hypothyroidism manifesting as myxedema (cold intolerance, muscular weakness, cardiovascular involvement (including, but not limited to hypotension, bradycardia, and pericardial effusion)), and mental disturbance (including, but not limited to dementia, slowing of thought and depression).  Note (1) to the 100 percent evaluation under Diagnostic Code 7903 states: "[t]his evaluation shall continue for six months beyond the date that an examining physician has determined crisis stabilization.  Thereafter, the residual effects of hypothyroidism shall be rated under the appropriate diagnostic code(s) within the appropriate body system(s) (e.g., eye, digestive, and mental disorders)."
+
+Although this issue has been treated as a reduction by the AOJ, the actual issue on appeal is whether the discontinuance of the 100 percent rating for the Veteran's hypothyroidism was appropriate under Diagnostic Code 7903.
+
+There are certain rating determinations that are not considered to be rating reduction actions, such that neither the procedural nor the substantive requirements for reductions apply.  In Rossiello v. Principi, 3 Vet. App. 430 (1992), the Court held that diagnostic codes requiring assignment of a 100 percent evaluation and then a lower rating after a certain a period of time do not require application of the rating reduction provisions because the 100 percent ceases to exist by operation of the law.  Building on Rossiello, in Foster v. McDonough, 34 Vet. App. 338 (2021), the Court explained that where the plain language of the diagnostic code assigns a 100 percent evaluation that predicates a reduction in compliance with specific enumerated criteria, such is not a reduction in the traditional sense but rather a component of a "rating package" by which the initial 100 percent rating is assigned. 
+
+The Board has considered whether the claim at issue would be most appropriately characterized as a formal reduction issue under the substantive provisions of 38 C.F.R. §§ 3.343 and 3.344.  However, Note (1) to the 100 percent evaluation under Diagnostic Code 7903 contains a temporal element for the continuance of a 100 percent rating.  Namely, after "crisis stabilization" is determined by an examining physician, the 100 percent evaluation shall continue for six months, at which point the residuals of hypothyroidism will be rated under a diagnostic code for the appropriate body system.  Consequently, the Board does not find that the substantive provisions of 38 C.F.R. §§ 3.343 and 3.344 are applicable in the present case, owing to the temporal component in Note (1) to the 100 percent evaluation of Diagnostic Code 7903.  Therefore, the May 2024 rating decision was not a "rating reduction," as that term is commonly understood, but rather was essentially effectuating a staged rating under the rating package criteria of Diagnostic Code 7903.
+
+For the reasons that follow, the Board finds that the discontinuance of a 100 percent rating under Diagnostic Code 7903, effective August 1, 2024, was not warranted.  On September 12, 2023, the Veteran was afforded a VA examination filed on November 1, 2023.  The examiner noted a diagnosis of hypothyroidism from 2020 and that the Veteran had myxedema, cold intolerance, and had mental disturbance, slowing of thought.  See November 1, 2023 VA Examination.  The examiner indicated that the Veteran did not have thyroiditis or symptoms attributable to a parathyroid condition and that he had normal eyes; normal neck; normal pulse; absent reflexes of the biceps, triceps, brachioradialis, and ankles, and hypoactive reflexes of the knees; and no neoplasm or metastases related to hypothyroidism.  Id.  
+
+On February 28, 2024, the Veteran was afforded another VA examination signed and filed on March 2, 2024.  The examiner noted a diagnosis of hypothyroidism from 2020.  See March 2, 2024VA Examination.  The examiner indicated that the Veteran did not have a diagnosis of thyroiditis or symptoms attributable to a thyroid condition or a hyperthyroid condition.  Id.  Although the examiner indicated the Veteran had findings, signs, or symptoms attributable to a hypothyroid condition, the examiner noted the Veteran did not have myxedema or a mental disturbance.  Id.  The examiner indicated that the Veteran did not have symptoms attributable to a parathyroid condition, a hyperparathyroid condition, or hypoparathyroid condition.  Id.  The Veteran had normal eyes; normal neck; normal pulse; normal reflexes of the biceps, triceps, brachioradialis, ankles, and knees; and no neoplasm or metastases related to the hypothyroidism.  Id.  The examiner stated that there was no objective evidence that supported the Veteran was in any hypothyroid crisis including myxedema as noted in the November 1, 2023 VA examination and that no current medical records showed a level of severity supporting a hypothyroid crisis since the Veteran was diagnosed in 2020.  Id.  
+
+The determination of crisis stabilization of the Veteran's hypothyroidism was first evaluated in the March 2, 2024 VA examination.  Based on Note (1) of Diagnostic Code 7903, the 100 percent evaluation shall continue for six months beyond the date that an examining physician has determined crisis stabilization and should have continued until September 2, 2024.  The January 2024 rating decision reduced the evaluation of the Veteran's service-connected hypothyroidism effective August 1, 2024, prior to the date allowed, which conflicts with regulations.  Additionally, Note (1) of Diagnostic Code 7903 states that the determination needs to be made by an examining physician.  See 38 C.F.R. § 4.115b.  The March 2, 2024 VA examination was signed by a nurse practitioner, which conflicts with regulations.  For the foregoing reasons, the Board finds that the restoration of the 100 percent evaluation for the Veteran's hypothyroidism is warranted from August 1, 2024, the effective date of the discontinuation.  Therefore, the appeal of the propriety of the discontinuance of the 100 percent evaluation for hypothyroidism, effective August 1, 2024, is granted in full.
+
+The Board acknowledges the Veteran raised the issue of a compensable rating for his service-connected hypothyroidism in a March 2023 Appellate Brief.  As the Board is restoring the 100 percent evaluation for the Veteran's service-connected hypothyroidism, this issue is moot.  
+
+Entitlement to restoration of special monthly compensation based on housebound criteria, from August 1, 2024, is granted.
+
+The Veteran had been granted SMC effective August 10, 2022 in a January 2024 rating decision.  A May 2024 rating decision reduced the Veteran's evaluation for his hypothyroidism from 100 percent to 0 percent, effective August 1, 2024.  For that reason, the Veteran's entitlement to his SMC status was discontinued for not meeting the criteria for SMC.  See May 2024 Rating Decision.
+
+VA's duty to maximize benefits requires it to assess all service-connected disabilities to determine whether any combination of the disabilities establishes eligibility for SMC under 38 U.S.C. § 1114(s).  See Buie v. Shinseki, 24 Vet. App. 242, 250-51 (2010); Bradley v. Peake, 22 Vet. App. 280, 294 (2008).
+
+SMC benefits by reason of being housebound are payable if a veteran has a single permanent disability rated 100 percent disabling and has either (1) additional service-connected disability or disabilities independently ratable at 60 percent or more, or (2) is "permanently housebound" by reason of service-connected disability or disabilities. 38 U.S.C. § 1114(s); 38 C.F.R. § 3.350(i).  The disabilities independently ratable at 60 percent or more must be separate and distinct from the 100 percent service-connected disability and involving different anatomical segments or bodily systems.  38 C.F.R. § 3.350 (i)(1).
+
+The Veteran had been granted SMC effective August 10, 2022, the date he met the criteria based on housebound criteria for his 100 percent evaluation for his service-connected hypothyroidism.  See 38 U.S.C. § 1114(s); 38 C.F.R. § 3.350(i).  The Veteran's other service-connected disabilities are independently rated at 70 percent.  See December 2023 Rating Codesheet.  The AOJ severed the SMC due to the reduction of reduced the Veteran's evaluation for his hypothyroidism from 100 percent to 0 percent, effective August 1, 2024.  However, the Board has found that the evaluation of 0 percent effective August 1, 2024 was not proper and restored the 100 percent evaluation effective August 1, 2024.  Therefore, the Board finds that the Veteran had a service-connected disability rated as 100 percent disabling with additional service-connected disabilities independently ratable at more than 60 percent effective August 1, 2024, the date the AOJ discontinued SMC, and that restoration of SMC is warranted.  The appeal is granted in full.
+
+REASONS FOR REMAND
+
+Entitlement to a rating in excess of 30 percent for chronic kidney disease is remanded.
+
+The Veteran contends that a rating in excess of 30 percent for chronic kidney disease is warranted.  His service-connection chronic kidney disease is currently assigned a 30 percent evaluation under Diagnostic Code 7530. 
+
+As a preliminary matter, the Board finds that a change in the Veteran's assigned Diagnostic Code 7530 is warranted.  The assignment of a particular diagnostic code is completely dependent on the facts of a particular case.  See Butts v. Brown, 5 Vet. App.  32, 538 (1993).  One diagnostic code may be more appropriate than another based on such factors as an individual's relevant medical history, the diagnosis, and demonstrated symptomatology.  Furthermore, the selection of diagnostic codes or applicable rating criteria is not protected and may be appropriately revised if the action does not result in the reduction of compensation payments.  See 38 C.F.R. §§ 3.951.  
+
+The Veteran's service-connected chronic kidney disease was rated under Diagnostic Code 7530, chronic renal disease requiring regular dialysis, but the Veteran did not require regular dialysis.  See December 22, 2023 VA Examination.  Additionally, the Veteran denied having any symptoms for his chronic kidney disease and denied any treatment.  Id.  However, the Veteran has benign neoplasm.  Id.  Accordingly, the Board finds that the Veteran's relevant medical history, the diagnosis, and demonstrated symptomatology is more appropriate under Diagnostic Code 7529, benign neoplasm of the genitourinary system, and that a rating under Diagnostic Code 7530 is not the appropriate Diagnostic Code to rate the Veteran's disability.  The Board notes that Diagnostic Code 7529 and 7530 both rate as renal dysfunction under 38 C.F.R. § 4.115a, but Diagnostic Code 7529 may also be rate as voiding dysfunction, whichever is predominant.  Thus, the change in diagnostic code does not result in a reduction of compensation payments for the Veteran. 
+
+Additionally, the Board acknowledges the Veteran raised the issue that his chronic kidney disease is more disabling due to cipro side effects, neuropathy, vision, and tendon damage, which was first raised in the June 2024 NOD.  However, as neither the Veteran nor the evidence of record sufficiently raised this theory prior to the rating decision on appeal, the Board does not have the authority to order additional development pertaining to this theory.   See 38 C.F.R. § 20.802(a).  Therefore, the Board will proceed to address the issue based on the evidence of record.  However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+Diagnostic Code 7529, for benign neoplasms of the genitourinary system is rated as a renal dysfunction.  See 38 C.F.R. § 4.115a.  Under the rating criteria in effect as of November 14, 2021, renal dysfunction warrants a noncompensable rating with a glomerular filtration rate (GFR) from 60 to 89 mL/min/1.73 m2 and either recurrent red blood cell (RBC) casts, white blood cell (WBC) casts, or granular casts for at least 3 consecutive months during the past 12 months; or GFR from 60 to 89 mL/min/1.73 m2 and structural kidney abnormalities (cystic, obstructive, or glomerular) for at least 3 consecutive months during the past 12 months; or GFR from 60 to 89 mL/min/1.73 m2 and albumin/creatinine ratio (ACR) 30 mg/g for at least 3 consecutive months during the past 12 months.  A 30 percent rating applies to chronic kidney disease with GFR from 45 to 59 mL/min/1.73 m2 for at least 3 consecutive months during the past 12 months.  A 60 percent rating applies to chronic kidney disease with GFR from 30 to 44 mL/min/1.73 m2 for at least 3 consecutive months during the past 12 months.  An 80 percent rating applies to chronic kidney disease with GFR from 15 to 29 mL/min/1.73 m2 for at least 3 consecutive months during the past 12 months.  A 100 percent rating applies to chronic kidney disease with GFR less than 15 mL/min/1.73 m2 for at least 3 consecutive months during the past 12 months; or requiring regular routine dialysis; or eligible kidney transplant recipient.  See 38 C.F.R. § 4.115a. GFR, estimated GFR (eGFR), and creatinine-based approximations of GFR will be accepted for evaluation purposes when determined to be appropriate and calculated by a medical professional. 
+
+On September 12, 2023, the Veteran was afforded a VA examination filed on November 1, 2023.  The examiner indicated that the Veteran did not have renal dysfunction.  See November 1, 2023 VA Examination.  The examiner noted that blood urea nitrogen (BUN) test and protein (albumin) results from April 2022 were normal.  Id.  The examiner also noted the Veteran had GFR results of 47 mL/min/1.73m2 from April 2022.  Id.  The examiner did not provide a basis for finding that the Veteran did not have renal dysfunction even though the Veteran had GFR results of 47 mL/min/1.73m2 from April 2022.  The November 1, 2023 VA examination appears internally contradictory without an adequate rationale to support the conclusion.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008); Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007) (stating that a medical opinion must support its conclusion with an analysis that the Board can weigh, and a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision).
+
+On December 22, 2023, the Veteran was afforded a VA examination.  The examiner indicated that the Veteran had renal dysfunction.  See December 22, 2023 VA Examination.  The examiner noted diagnostic studies in the Veteran's medical record.  Id.  The examiner noted BUN and protein (albumin) test results from April 25, 2022.  Id.  However, the examiner did not provide GFR or eGFR results as necessary for evaluation of renal dysfunction.  Id.
+
+The AOJ did not obtain a new medical opinion to address these deficiencies at the time of the initial decision on appeal for this issue; such was a pre-decisional duty to assist error, and a remand is necessary to correct it. 
+
+The matter is REMANDED for the following actions:
+
+1. Obtain an examination from an appropriate examiner for the Veteran's chronic kidney disease.  A copy of this remand request and the Veteran's casefile should be provided.  If the examiner determines it is necessary, schedule the Veteran for an in-person examination.  The examiner must evaluate the Veteran's chronic kidney disease and provide the glomerular filtration rate (GFR) or estimated GFR for at least 3 consecutive months between August 10, 2022 and the date of the examination.  The examiner must indicate if the provided GFR and/or eGFR are determined to be appropriate and calculated by the examiner.   
+
+2. After ensuring full compliance with this remand, readjudicate the claim on appeal.
+
+ 
+
+ 
+
+Danette Mincey
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T. Hahn
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

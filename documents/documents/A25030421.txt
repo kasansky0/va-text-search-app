@@ -1,0 +1,59 @@
+Citation Nr: A25030421
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 230522-348573
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA) as secondary to PTSD is granted.
+
+FINDING OF FACT
+
+The Veteran's OSA is proximately due to service-connected PTSD.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA as secondary to PTSD are met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from December 1969 to August 1973.
+
+In the May 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Hearing docket.  A Board hearing was held on January 16, 2025.
+
+Therefore, the Board may only consider the evidence of record at the time of the March 2023 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran [or representative] at the hearing or within 90 days following the hearing.  38 C.F.R. § 20.302(a).  If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the Board hearing, or (2) more than 90 days following the hearing, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.302(a), 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. Entitlement to service connection for obstructive sleep apnea (OSA) as secondary to PTSD is granted.
+
+Secondary service connection is warranted if there is (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) medical evidence establishing a nexus (i.e. link) between the current disability and the service-connected disability.  Wallin v. West, 11 Vet. App. 509, 512 (1998).
+
+As to the first element of secondary service connection, the AOJ made a favorable finding that the Veteran has a current diagnosis of OSA, and that element is conceded here.
+
+As to the second element of secondary service connection, the AOJ made a favorable finding that the Veteran's primary disability of PTSD is service connected, and that element is similarly conceded.
+
+There still must be a found a nexus that between the service-connected disability and the current disability.
+
+There are two medical opinions in the evidence of record which address a nexus between the Veteran's current diagnosis of OSA and his service-connected PTSD.
+
+The Veteran was afforded a VA examination in November 2021 to assess the connection between his PTSD and OSA.  The examiner conducted a review of the Veteran's available medical records and conducted an in-person examination.  The examiner concluded that it was more likely than not that the Veteran's PTSD caused his OSA.  The rationale offered to support this conclusion was that current medical literature supports a supports a link between PTSD symptoms and diagnosis of OSA.  The examiner stated that as the Veteran's OSA occurred subsequent to his PTSD that the proximity of the two diagnoses supported a finding of a nexus.  The examiner is deemed to be competent and credible to offer such an opinion and it afforded high probative weight.
+
+In August 2022 the VA completed a second examination to address the Veteran's assertion of secondary service connection.  The examiner reviewed the Veteran's records including his previous examination that found a positive nexus between the conditions, but did not conduct an in-person examination.  The examiner provided an opinion on whether there was conflicting medical evidence regarding a link between PTSD and OSA and concluded that there was not a nexus established.  In support of this contention the examiner supplied that the Veteran's sleep apnea diagnosis was established before the Veteran's PTSD diagnosis.  The Board does not find this argument compelling.  As the Veteran is service connected for his PTSD that condition by definition is related to events of the Veteran's service period.  While there was significant time between those events and the Veteran receiving a formal diagnosis for PTSD, this does not mean that Veteran did not experience significant symptoms of the disability before such a diagnosis.  The mere technicality of when either disability was formally diagnosed does not outweigh the previous examiner's contention that the two conditions shared a nexus by proximity.  As the board finds this opinion to be inadequately supported, it is assigned low probative value.
+
+In weighing the evidence of record concerning a nexus, the opinion which found a positive nexus between the Veteran's current disability and service-connected disability was provided high probative weight, and the opinion which found no nexus was determined to be low probative weight.  As such the evidence of record persuasively weighs in favor of the finding of a nexus.
+
+As a nexus has been established between the Veteran's current disability of OSA and his service-connected disability of PTSD, all three elements of secondary service connection have been satisfied.  Accordingly, entitlement to service connection for OSA as secondary to PTSD is hereby GRANTED.
+
+ 
+
+J.P. Norman
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Arner, Jonathan T.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

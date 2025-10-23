@@ -1,0 +1,73 @@
+Citation Nr: A25030048
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 241016-479891
+DATE: April 1, 2025
+
+ORDER
+
+A rating in excess of 10 percent for hypertension is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran served on active duty from July 1951 to July 1955; he has been 100 disabled based on unemployability since August 2022 and on a schedular basis since September 2023 plus in receipt of special monthly compensation (SMC).
+
+2. The Veteran's blood pressure readings predominately range from 120s-130s/60s-70s.
+
+CONCLUSION OF LAW
+
+The criteria for a rating in excess of 10 percent for hypertension have not been met. 38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 3.102, 4.3, 4.7, 4.104, Diagnostic Code (DC) 7101 (2024).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+This decision has been written under the guidelines of the Veterans Appeals Improvement and Modernization Act, also known as the Appeals Modernization Act (AMA). In July 2022, the Board granted service connection for hypertension. The agency of original jurisdiction (AOJ) effectuated that decision in July 2022 and again in October 2022 and assigned a noncompensable rating. In October 2023, the Veteran requested a Higher-Level Review (HLR). Later that month, the AOJ issued a HLR decision that granted a 10 percent rating. 
+
+In October 2024, the Veteran appealed to the Board via a VA Form 10182 and elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal. 38 C.F.R. § 20.301.
+
+Turning to the relevant laws and regulations, disability evaluations are determined by the application of a schedule of ratings which is based on average impairment of earning capacity. Generally, the degrees of disability specified are considered adequate to compensate for considerable loss of working time from exacerbations or illnesses proportionate to the severity of the several grades of disability. 38 C.F.R. § 4.1. Separate diagnostic codes identify the various disabilities. 38 U.S.C. § 1155; 38 C.F.R. Part 4.
+
+Hypertension is currently rated at 10 percent pursuant to DC 7101, which provides a 10 percent rating where diastolic blood pressure is predominantly 100 or more, or systolic blood pressure is predominantly 160 or more, or when an individual with a history of diastolic blood pressure predominantly 100 or more requires continuous medication for control. To warrant the next higher 20 percent rating, the evidence must show:
+
+"	A diastolic pressure predominantly 110 or more, or a systolic pressure predominantly 200 or more.
+
+Neither the rating schedule nor the regulations provide a definition for the term "predominantly." In the absence of guidance, the Board will consider that term as it is commonly understood. "Predominantly" is defined as "for the most part," or "mainly." See Merriam-Webster.com Dictionary (https://www.merriam-webster.com/dictionary/predominantly. Accessed March 25, 2025). 
+
+In other words, the Veteran's blood pressure readings would have to "for the most part" exhibit the criteria for a higher rating. Isolated blood pressure readings meeting the criteria do not qualify for a higher rating without evidence that the symptoms predominantly meet the relevant criteria. McCarroll v. McDonald, 28 Vet. App. 267, 274 (2016).
+
+Turning to the evidence, a March 2024 VA examiner noted the Veteran had been prescribed two blood pressure medications, which he took two or three times daily. The blood pressure readings were 100/62, 113/66, and 113/65 during the examination. Additionally, the examiner indicated that the Veteran did not have a history of diastolic blood pressure elevated to 100 or more.
+
+The VA and private clinical records were reviewed, specifically the historical blood pressure readings. Clinical records reflect blood pressure readings generally from 120s-130s/60s-70s with occasional readings in the 140s/150s/70s and more rarely in the 170s-180s/80s range. 
+
+Of note, there was a single "isolated" blood pressure reading (218/98 on 8/30/2023) that exceeded the systolic threshold for a higher rating; otherwise, the other blood pressure readings have been predominantly in or below the range of blood pressure readings for a 10 percent rating. 
+
+Moreover, the clinical records supported the VA examiner's conclusion that the Veteran's diastolic blood pressure had not been elevated above 100 or more at any point, but specifically during the appeal period.
+
+In making the above findings, the Board recognizes that the Veteran has used medications to treat hypertension. The Court has held that in assigning a rating, VA may not consider the ameliorative effects of medication where such effects are not explicitly contemplated by the rating criteria. Jones v. Shinseki, 26 Vet. App. 56 (2012). 
+
+As the ratings for hypertension contemplate the ameliorative effects of hypertension, the Board cannot consider the hypothetical level of impairment the Veteran might experience if he were not using the prescribed medication. See McCarroll v. McDonald, 28 Vet. App. 267, 272-73 (2016) ( (holding that Jones v. Shinseki, 26 Vet. App. 56, 63 (2012), does not apply to DC 7101).
+
+In sum, the medical evidence has not shown a systolic pressure reading predominantly in excess of 200 or a diastolic reading predominately in excess of 110. As such, the medical evidence does not support the appeal for a rating in excess of 10 percent.
+
+The Board has considered the Veteran's lay statements that his disability is worse than currently rated. While he is competent to report symptoms because this requires only personal knowledge as it comes to him through his senses, he is not competent to identify a specific level of disability of this disorder according to the appropriate diagnostic codes.
+
+Such competent evidence concerning the nature and extent of the Veteran's hypertension has been provided by the medical personnel who have examined him during the current appeal and who have rendered pertinent opinions in conjunction with the evaluations.  The medical findings (as provided in the examination report and other clinical evidence) directly address the criteria under which this disability is evaluated.  
+
+Moreover, as the examiner has the requisite medical expertise to render a medical opinion regarding the degree of impairment caused by the disability and had sufficient facts and data on which to base the conclusion, the Board affords the medical opinion great probative value.  
+
+As such, these records are more probative than the Veteran's subjective complaints of increased symptomatology.  In sum, after a careful review of the evidence of record, the benefit of the doubt rule is not applicable, and the appeal is denied.
+
+Finally, the Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record, for the Board's consideration. See Doucette v. Shulkin, 28 Vet. App. 366, 369-370 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).
+
+ 
+
+ 
+
+L. HOWELL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B. J. Ferguson, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

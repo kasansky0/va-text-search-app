@@ -1,0 +1,151 @@
+Citation Nr: A25030232
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 230928-383691
+DATE: April 2, 2025
+
+REMANDED
+
+Entitlement to service connection for an acquired psychiatric disorder, to include post-traumatic stress disorder, bipolar disorder, unspecified personality disorder with opioid use and alcohol use disorder, major depressive disorder, and mood disorder, is remanded.
+
+Entitlement to service connection for epilepsy and seizure disorder is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty for initial training in the United States Army from October 2007 through April 2008, training as a power generation equipment repairer.  The Veteran had additional Reserve and National Guard service, presumably also on active duty for training and inactive duty training.  
+
+Applicable Evidentiary Windows
+
+This matter comes before the Board of Veterans' Appeals (Board) on the Veteran's appeal of a September 2022 higher-level review rating decision, reviewing a June 2022 VA rating decision, both issued by a Department of Veterans Affairs (VA) Regional Office, which is the Agency of Original Jurisdiction (AOJ).  The September 2022 higher-level review rating decision denied service connection for the Veteran's various psychiatric disorders and epilepsy.  In September 2023, the Veteran filed a timely VA Form 10182: Decision Review Request: Board Appeal (Notice of Disagreement).  The Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the June 2022 rating decision, which was subsequently subject to the September 2022 higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+Ordinarily, this would preclude obtaining and considering additional evidence.  However, there are pre-decisional, duty-to-assist errors that need correcting before deciding the claims on appeal.  The additional evidence received since June 2022 will be considered by the RO when subsequently readjudicating the claims.  See 38 C.F.R. § 3.103(c)(2)(ii).
+
+Veteran Status
+
+As already alluded to, the Veteran served in the Army Reserve and National Guard, but it is somewhat unclear which periods of that service qualify as active duty (AD), active duty for training (ACDUTRA), or inactive duty for training (INACDUTRA).
+
+"Active military, naval, or air service" includes AD and any period of ACDUTRA during which the individual concerned was disabled or died from a disease or an injury incurred or aggravated in the line of duty, or any period of INACDUTRA during which the individual concerned was disabled or died from an injury, though not also disease, incurred or aggravated in the line of duty or from an acute myocardial infarction, cardiac arrest, or a cerebrovascular accident occurring during such training.  38 U.S.C. §§ 101(21), (24), 106; 38 C.F.R. § 3.6(a), (d).
+
+Reserve and National Guard service generally means ACDUTRA and INACDUTRA.  ACDUTRA is full time duty for training purposes performed by Reservists and National Guardsmen pursuant to 32 U.S.C. §§ 316, 502, 503, 504, or 505.  See 38 U.S.C. § 101(22); 38 C.F.R. § 3.6(c).  This typically refers to the two weeks of annual training that each Reservist or National Guardsman must perform each year.  It can also refer to the Reservist's or Guardsman's initial period of training.  INACDUTRA includes duty, other than full-time duty, performed for training purposes by Reservists and National Guardsmen pursuant to 32 U.S.C. §§ 316, 502, 503, 504, or 505. 38 U.S.C. § 101(23); 38 C.F.R. § 3.6(d).  This refers to the 12, incremented four-hour weekend drills that each Reservist or National Guardsman must perform each year.  These drills are deemed to be part-time training.
+
+To the extent this claimant contends that he has disability owing to an injury or a disease incurred or aggravated during his time in the Reserve, he must first establish his status as a "Veteran" in connection with that service and then that he was disabled from disease or injury incurred or aggravated in the line of duty during that service, such as while on Reserve ACDUTRA/INACDUTRA or during Federalized National Guard service.  38 C.F.R. § 3.1(a), (d); Harris v. West, 13 Vet. App. 509, 511 (2000); Paulson v. Brown, 7 Vet. App. 466, 470 (1995).  In the absence of any such evidence, the period of service would not qualify as "active military, naval, or air service" and the claimant would not achieve veteran status for purposes of that claim.  See 38 U.S.C. § 101(2)-(24).
+
+Here, the DD214 notes military service of more than 90 days, from October 2007 through April 2008.  The Veteran was discharged due to "completion of required active service" with his characterization of service notated as "honorable."  Id.  The claims file also contains October 2007 orders for the Veteran to attend active duty for individual training at Fort Benning, GA and December 2007 orders transferring the Veteran from Fort Benning, GA to Aberdeen Proving Grounds, MD for continued training in his military occupational specialty.  However, although the Veteran was afforded some medical services in military medical facilities, records including October 2015 Emergency Room Service Treatment Records do not appear to correspond with AD or ACDUTRA orders in the claims file.  
+
+Thus, while the claims file contains some military personnel records relating to the Veteran's service, there is no document that reflects the precise dates when he served in an AD, ACDUTRA, or INACDUTRA capacity.  This information is crucial in addressing his contentions that his disabilities are related or attributable to his service.  Failure to obtain these records constitutes a pre-decisional duty to assist error.  38 C.F.R. §20.802(a).  Therefore, on remand, these relevant records should be obtained.  
+
+1. Entitlement to service connection for an acquired psychiatric disorder, to include post-traumatic stress disorder, bipolar disorder, unspecified personality disorder with opioid use and alcohol use disorder, major depressive disorder, and mood disorder, is remanded.
+
+Acquired Psychiatric Disorder
+
+The Board notes that the U. S. Court of Appeals for Veterans Claims (Court) has held that, although a Veteran claims entitlement to service connection for a specific diagnosed disability, it cannot be a claim limited only to that diagnosis, but also must be considered a claim for any disability that reasonably may be encompassed by several factors including the Veteran's description of the claim, the symptoms he describes, and the information he submits or that VA obtains in support of the claim.  The Court reasoned that a Veteran does not file a claim to receive benefits only for a particular diagnosis, but for the affliction (symptoms) his condition, however described, causes him.  See Clemons v. Shinseki, 23 Vet. App. 1 (2009).  Here, although the Veteran filed his claims for service connection specifically for bipolar disorder, major depressive disorder, and borderline personality disorder, the Board notes that he has sought treatment in the past for other acquired psychiatric disorders and received other mental health disorder diagnoses.  Thus, pursuant to Clemons, the Board has recharacterized his claim more generally as for an acquired psychiatric disorder, inclusive of the Veteran's several diagnoses.
+
+Legal Criteria
+
+Generally, service connection for a disability will be granted when a disease or injury is incurred in, or aggravated by, active military service.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.102, 3.303.  For a disability to be directly service connected a Veteran must show: (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  See Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).  
+
+With regard to?service connection for PTSD?claims, there must also be: (1) medical evidence establishing a diagnosis of the condition pursuant to?38 C.F.R. § 4.125(a) (conforming to the appropriate edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM)); (2) credible supporting evidence that the claimed in-service traumatic stressors actually occurred; and (3) medical evidence of a link between the current symptomatology and the claimed in-service stressors.? 38 C.F.R. §?3.304(f); Cohen v. Brown,?10 Vet. App. 128?(1997).
+
+VA regulations do not permit granting service connection for personality disorders, such as unspecified personality disorder.  38 C.F.R. § 3.303(c) ('[c]ongenital or developmental defects, refractive error of the eye, personality disorders and mental deficiency as such are not diseases or injuries within the meaning of applicable legislation'); See also 38 C.F.R. § 4.127 ('personality disorders are not diseases or injuries for compensation purposes and . . . disability resulting from them may not be service connected').  The Board's consideration of service connection for a personality disorder is not warranted as a matter of law, however, service connection can be granted for additional disability resulting from a mental disorder that is superimposed upon the personality disorder.  38 C.F.R. §§ 3.303(c), 4.9, 4.127; See also VAOPGCPREC 82-90, 55 Fed Reg. 45,711 (July 18, 1990).
+
+Generally, a medical opinion "must support its conclusion with an analysis that the Board can consider and weigh against contrary opinions."  See Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).  In determining the probative value to be assigned to a medical opinion, the Board considers whether a medical expert was fully informed of the pertinent facts of the case, whether the expert provided a fully articulated opinion, and whether the opinion is supported by reasoned analysis.  Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008).  An expert must also consider whether any lay evidence was satisfactory.  See Dalton v. Nicholson, 21 Vet. App. 23 (2007); Buchanan v. Nicholson, 451 F.3d 1331, 1336 (Fed. Cir. 2006).  Lastly, the absence of documented diagnosis or symptoms in service or at separation is not fatal to a claim for service connection.  See Ledford v. Derwinksi, 3 Vet. App. 87, 89 (1992); Dalton at 23.        
+
+An inadequate medical examination may be assigned low probative value.  See, e.g., Reonal v. Brown, 5 Vet. App. 458, 460-61 (1993) (medical opinion based on inaccurate factual premise may properly be rejected as non-probative); Swann v. Brown, 5 Vet. App. 229, 233 (1993) (Board may properly reject medical opinion where it is based on facts contradicted by the record).  Lastly, when faced with conflicting medical opinions, the Board may favor one opinion over the other.  Evans v. West, 12 Vet. App. 22, 30 (1998).  
+
+Evidence
+
+As previously noted, the Veteran has been diagnosed with several psychiatric disorders.  Various private medical providers have made such diagnoses, including bipolar disorder, post-traumatic stress disorder (PTSD), major/unspecified depressive disorder, borderline personality disorder, and mood disorder.  See, e.g., February 2022 Private Medical Records (August 2020 ED Provider Note 'Clinical Impression[:] Severe episode of recurrent major depressive disorder [with] suicidal ideation'); January 2022 Private Medical Records (diagnosing unspecified depressive disorder, major depressive disorder, and noting some signs and reports of PTSD symptoms); January 2022 Private Medical Records (February 2021 BH Discharge Note announcing a DSM-5 diagnosis for bipolar I disorder and borderline personality disorder); May 2021 Private Medical Records (diagnosing bipolar II and severe depression and PTSD).  
+
+However, the Board notes that none of the private medical records have discussed or analyzed service connection or the etiology of the Veteran's conditions.   
+
+The record also contains three VA psychiatric examination reports and opinions.  See May 2021 VA Mental Disorders (Other than PTSD and Eating Disorders) Disability Benefits Questionnaire; May VA 2021 Medical Opinion Disability Benefits Questionnaire; May 2022 VA Medical Disability Benefits Questionnaire.  The two May 2021 VA Disability Benefits Questionnaires were completed contemporaneously, after a video telehealth examination, by the same examiner.  
+
+The May 2021 VA Mental Disorders (Other than PTSD and Eating Disorders) Disability Benefits Questionnaire (DBQ) and May 2021 VA Medical Opinion Disability Benefits Questionnaire (DBQ) were performed by the same examiner.  
+
+In the Mental Disorders DBQ, the clinician noted the various mental health conditions and symptoms but focused solely on the Veteran's unspecified personality disorder and opiod and alcohol use disorders.  The examiner did not discuss service connection or etiology for any of these conditions.  Lastly, the Veteran was also notated as suffering from epilepsy, which the examiner stated was relevant to "understanding or management of" the Veteran's other psychiatric disorders, without further explanation.  
+
+In the Medical Opinion DBQ, the examiner opined that the Veteran's unspecified personality disorder was at least as likely as not incurred or caused by depression and suicidal thoughts in service because the Veteran had no history of mental illness before military service and was psychologically fit for unrestricted duty, and he developed depression and suicidal thoughts, along with alcohol and drug use, during his military service.  However, the Board was unable to locate notations of depression and suicidal thoughts within the Veteran's contemporaneous records from his short time on active service.    
+
+As discussed above, personality disorders are noncompensable.  However, service connection can be granted for additional disability resulting from a mental disorder that is superimposed upon the personality disorder.  This opinion did not discuss whether any of the Veteran's other conditions were superimposed upon his unspecified personality disorder, nor did the examiner consider or discuss any other psychiatric disorders in their opinion.    
+
+The May 2022 VA Medical Disability Benefits Questionnaire (DBQ) was completed after a records review, but no examination of the Veteran.  The examiner opined that the Veteran's psychiatric condition was less likely than not incurred or caused by an in-service injury, event, or illness, because the examiner did not find evidence of a psychiatric diagnosis or treatment during active duty and because the Veteran's mental health treatment was completed post active military service.  The Board notes that this opinion was short and conclusory and did not discuss or consider any of the other psychological conditions that the Veteran's medical records notated.    
+
+Analysis
+
+Here, the Board must determine whether the combined VA medical opinions considered the pertinent facts of the case, provided a fully articulated opinion, were supported by reasoned analysis, considered lay evidence of record, and did not improperly base its opinion on lack of notations in service treatment records.  After review, the Board finds that they were inadequate.  See Spicer at 1365; Nieves-Rodriguez v. Peake at 295; Stefl at 124; Reonal at 460-61.   
+
+The private examiners did not opine on service connection.  Although the May 2021 VA Mental Disorders (Other than PTSD and Eating Disorders) DBQ identified the Veteran's psychiatric signs and symptoms and diagnosed him with unspecified personality disorder, opiod use disorder, and alcohol use disorder, it did not offer an opinion on service connection or discuss the Veteran's other mental health diagnoses.  The May VA 2021 Medical Opinion DBQ offered a positive nexus opinion for a legally noncompensable condition, without considering its effect on any other psychiatric condition or whether any other condition was superimposed on his personality disorder.  Further, the opinion did not consider or discuss any of the Veteran's additional diagnoses.  Lastly, the Board was unable to locate notations of in-service symptomology referenced by the examiner.  The May 2022 VA Medical DBQ inadequacies included that the examiner did not specify which psychiatric condition(s) their opinion applied to, did not directly discuss the previous contradictory positive opinion contained in the May 2021 VA Medical Opinion DBQ, did not discuss or consider the Veteran's lay reports of symptomology and diagnoses, did not discuss the various other psychological diagnoses, or discuss or consider whether any personality disorder had superimposed additional disorders, that could be subject to compensation.  
+
+While the Board regrets the additional delay this remand causes, there is no adequate medical opinion of record and the AOJ's reliance on an inadequate medical opinion is a pre-decisional duty to assist error.  38 U.S.C. § 5103A; 38 C.F.R. § 20.802; Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (once VA undertakes to provide an examination, it must be adequate).  The Board finds the matter must be remanded to correct the pre-decisional duty to assist error and obtain an adequate VA medical opinion.  
+
+2. Entitlement to service connection for epilepsy and seizure disorder.
+
+The AOJ made the favorable finding that the Veteran suffered from seizure disorder.  See September 2022 VA Rating Decision Narrative.  The Board is bound by favorable findings of the AOJ.  38 C.F.R. § 3.104.  The Board further notes the record contains notations of diagnoses for epilepsy.  See, e.g., May 2021 Private Medical Records; December 2021 Private Medical Records.  Therefore, the Board construes this claim to encompass both epilepsy and seizure disorder.  Clemons at 5.
+
+In addition to direct service connection discussed above, under 38 C.F.R. § 3.303(b), service connection may also be established for chronic diseases listed under 38 C.F.R. § 3.309(a) by the existence of such a chronic disease noted during service, or during an applicable presumption period under 38 C.F.R. § 3.307.  When a veteran asserts entitlement to a chronic disease, but there is insufficient evidence of a diagnosis in service, service connection may also be established under 38 C.F.R. § 3.303(b) by demonstrating a continuity of symptomatology of the chronic disease since service, but only for chronic disease listed in 38 C.F.R. § 3.309(a).  Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).  Epilepsy is a chronic disease listed in 38 C.F.R. § 3.309(a).  
+
+In addition to the duty to provide an adequate medical examination and opinion, VA has a duty to assist a claimant by providing a thorough and contemporaneous medical examination when the record does not adequately reveal the current state of the claimant's disability.  38 U.S.C. § 5103A(d)(1); Green v. Derwinski, 1 Vet. App. 121, 124 (1991).  A VA examination is required when (1) competent evidence of a current disability or persistent or recurrent symptoms of a disability, (2) evidence establishes an in-service event, injury, or disease, and (3) an indication that the disability or symptoms may be associated with service, but (4) there is insufficient medical evidence of record for the Board to decide the claim.  McLendon v. Nicholson, 20 Vet. App. 79 (2006).
+
+The Board recognizes that the third prong of the analysis sets a "low threshold." McLendon at 83.  Evidence that might indicate a potential association between a current disability and service may include "medical evidence that suggests a nexus but is too equivocal or lacking in specificity to support a decision on the merits, or credible evidence of continuity of symptomatology such as pain or other symptoms capable of lay observation."   The low threshold requires that the evidence "indicates" that there "may" be a causal nexus between the disability or persistent symptoms of a disability and military service. 
+
+There is March 2018 Progress Note contained in the May 2021 Private Medical Records submitted by the Veteran.  There, the Veteran is notated as suffering from seizures for the past "10-11 years," and that he did not seek treatment sooner because "he was in the military and afraid that diagnosis would affect his service."  Ten years prior to March 2018 was during the timeframe of the Veteran's active service. 
+
+The Board, remembering the low threshold for a VA medical examination and opinion, finds that the evidence indicates that the Veteran's epilepsy may have manifested in active service and the Veteran did not report it to providers contemporaneously because he did not want it to affect his future service prospects.  Therefore, a VA medical examination and medical opinion is warranted
+
+Entitlement to epilepsy is not ripe for adjudication as it is inextricably intertwined with the forthcoming readjudication of service connection for a psychiatric condition.  Entitlement to service connection for both conditions should be adjudicated together.  
+
+While the Board regrets the additional delay this remand causes, there is no adequate medical opinion of record and the AOJ's reliance on inadequate medical opinions is a pre-decisional duty to assist error.  38 U.S.C. § 5103A; 38 C.F.R. § 20.802; Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (once VA undertakes to provide an examination, it must be adequate).  The Board finds the matter must be remanded to correct the pre-decisional duty to assist error and obtain an adequate VA medical opinions.  
+
+The matters are REMANDED for the following action:
+
+1. Contact the appropriate entities, including the National Personnel Records Center (NPRC), DPRIS, and any other appropriate source (since the Joint Services Records Research Center (JSRRC) no longer exist), and request verification of all dates of AD, ACDUTRA, and INACDUTRA this claimant had in the Army, Army Reserves, Army National Guard, or other military branch or component.  Reports of retirement points are insufficient to meet the requirement of this remand order.  
+
+A listing of the specific dates of service and whether within those dates the service can be characterized as AD, ACDUTRA, or INACDUTRA is required.
+
+2. Please request a medical opinion from a qualified clinician, regarding the nature and etiology of the Veteran's mental health conditions.  The entire claims file, including a copy of this remand, must be made available to the clinician, and the clinician should confirm that such records were reviewed.  If the clinician believes that a physical examination should be conducted to provide the requested opinions, one should be provided.
+
+The clinician should address the following:
+
+(a.) The various psychiatric diagnoses of record, to include, but not limited to, PTSD, bipolar disorder, unspecified and borderline personality disorders, and depressive disorder, and express why or why not these diagnoses are appropriate. 
+
+(b.) For any diagnosis, other than a personality disorder, express an opinion as to whether it is at least as likely as not that the conditions began during service or are otherwise etiologically related to service?
+
+(c.) The examiner should also opine whether it is at least as likely as not that any psychiatric disability was superimposed on a personality disorder, resulting in additional disability.  If so, identify the additional disability.
+
+(d.) The examiner should attempt to elicit complete information regarding the history of the Veteran's symptoms and their onset.  The examiner is reminded that the Veteran is competent to report symptoms and their history, and that any lay reports must be specifically considered in formulating a medical opinion.  If the examiner rejects the Veteran's reports, the examiner should provide a reason for doing so.
+
+(e.) The examiner is requested to include a detailed rationale for their opinion(s), citing to supporting clinical data/medical literature as appropriate.  If medical literature is referenced, please provide a copy of it or a full citation that allows general access. 
+
+Consistent with Lynch v. McDonough, 21 F.4th 776, 781-82 (2021), the clinician is advised that the term "at least as likely as not" means that the likelihood is at least approximately balanced or nearly equal, if not higher.
+
+3.  Please request a medical opinion from a qualified clinician, regarding the nature and etiology of the Veteran's epilepsy and/or seizure conditions. The entire claims file, including a copy of this remand, must be made available to the clinician, and the clinician should confirm that such records were reviewed.  If the clinician believes that a physical examination should be conducted to provide the requested opinions, one should be provided.
+
+The clinician should address the following:
+
+(a.) The various psychiatric diagnoses of record, to include epilepsy or a seizure disorder, and express why or why not these diagnoses are appropriate.
+
+(b.) The relationship, if any, between the Veteran's psychiatric conditions and his epilepsy/seizure conditions. 
+
+(c.). For any diagnosis, express an opinion as to whether it is at least as likely as not that the epilepsy or seizure conditions began during service or are otherwise etiologically related to service?
+
+(d.) The examiner is requested to include a detailed rationale for their opinion, citing to supporting clinical data/medical literature as appropriate.  If medical literature is referenced, please provide a copy of it or a full citation that allows general access.
+
+(Continued on the next page)
+
+?
+
+Consistent with Lynch v. McDonough, 21 F.4th 776, 781-82 (2021), the clinician is advised that the term "at least as likely as not" means that the likelihood is at least approximately balanced or nearly equal, if not higher.
+
+ 
+
+Colleen M. Glaser-Allen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Stanley, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

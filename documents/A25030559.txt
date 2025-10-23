@@ -1,0 +1,113 @@
+Citation Nr: A25030559
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 230823-373399
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to service connection for atrial fibrillation is denied. 
+
+REMANDED
+
+Entitlement to service connection for a right hand disability, claimed as arthritis, is remanded. 
+
+Entitlement to service connection for left hand disability, claimed as arthritis, is remanded. 
+
+FINDING OF FACT
+
+The evidence of record persuasively weighs against finding that the Veteran's atrial fibrillation began during active service, or is otherwise related to an in-service injury or disease.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for atrial fibrillation are not met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310. 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty for training from August 1963 to February 1964; and on active duty from March 1964 to February 1967.  
+
+The appeal comes to the Board of Veterans' Appeal (Board) under the modernized review system, or Appeals Modernization Act (AMA).  
+
+The Veteran submitted a timely Board notice of disagreement (NOD) with a June 2023 rating decision that continued the denials of service connection for atrial fibrillation; bilateral athlete's foot with toenail fungus; bladder issues; left hand arthritis; right hand arthritis; left knee issues; an acquired psychiatric disorder, including posttraumatic stress disorder (PTSD); tinea cruris (or jock itch); and back issues following a requested higher-level review of a March 2023 rating decision that denied November 2022 claims for service connection.  He requested direct review of the evidence considered by the Agency of Original Jurisdiction (AOJ). See August 2023 VA Form 10182.  
+
+In a November 2023 decision, the Board denied the claims of entitlement to service connection for atrial fibrillation, bilateral athlete's foot with toenail fungus; bladder issues; left hand arthritis; right hand arthritis; left knee issues; tinea cruris (or jock itch); and back issues.  The Board also remanded the issue of entitlement to service connection for an acquired psychiatric disorder, to include PTSD.  
+
+The Veteran subsequently appealed to the United States Court of Appeals for Veterans Claims (CAVC or "Court").  In an Order granting a May 2024 Joint Motion for Partial Remand (JMPR), the Court vacated the November 2023 Board decision as to the denials of service connection for left hand arthritis, right hand arthritis, atrial fibrillation and remanded the issues to the Board.
+
+In November 2024 correspondence, the Veteran requested a Board Hearing; however, this request is invalid.  As discussed above, the Veteran selected the Direct Review docket in the August 2023 VA Form 10182, and 38 C.F.R. § 20.202(c)(2) only allows switching dockets in certain scenarios, none of which have been met here.  The case must stay on the Direct Review docket.  Specifically, a Board hearing can only be requested by filing a 10182 requesting one initially, or by requesting and being granted a docket switch to the Hearing Docket.  Here, there was no request to switch dockets within a timely period.  The case stays on the Direct Review docket post-CAVC and the Board may only consider the evidence of record at the time of the March 2023 AOJ decision.  Under the AMA, there is no legal right to switch dockets, request a hearing, or submit additional evidence following a CAVC appeal.
+
+Service Connection 
+
+Service connection will be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).  
+
+In addition, service connection may be established on a secondary basis for a disability which is shown to be proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310.  Establishing service connection on a secondary basis requires evidence sufficient to show that a current disability exists and that the current disability was either caused by or aggravated by a service-connected disability. 38 C.F.R. § 3.310; Allen v. Brown, 7 Vet. App. 439 (1995).
+
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+When a veteran seeks benefits and the evidence is in relative equipoise, the veteran prevails. Gilbert v. Derwinski, 1 Vet. App. 49 (1990).  The benefit-of-the-doubt rule does not apply when the evidence persuasively favors one side or the other. Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).
+
+Entitlement to service connection for atrial fibrillation
+
+At the outset, the Board notes that the parties to the May 2024 JMPR agreed that the Board erred in denying the atrial fibrillation claim because that issue was inextricably intertwined with the remanded issue of entitlement to service connection for an acquired psychiatric disorder, claimed as PTSD.  See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991) (Claims are "inextricably intertwined" when a decision on one claim would have a "significant impact" on the other).  The parties noted that a May 10, 2021, VA treatment record indicated that the Veteran had a "history of atrial fibrillation" and "episodes of panic attacks, with palpitations, that may or may not be associated," and that it was unknown whether the "episodes of panic attacks are associated with atrial fibrillation."  The parties thus agreed that remand of the atrial fibrillation issue was warranted because the Board remanded the issue of entitlement to service connection for an acquired psychiatric disorder for correction of a pre-decisional duty-to-assist error, which, once corrected, would have a reasonable possibility of substantiating the Veteran's claim of entitlement to service connection for atrial fibrillation.  
+
+Notably, in a recent September 2024 rating decision, the RO denied the claim of entitlement to service connection for the claimed acquired psychiatric disorder, to include PTSD.  As of the date of this decision, the Veteran has not sought review of that denial.  Since the claim for service connection for an acquired psychiatric disorder (i.e., the primary disorder) has been denied, the present claim for atrial fibrillation is no longer inextricably intertwined with that issue and thus the need for further remand pursuant to the terms of the JMPR is moot.  As the Veteran's acquired psychiatric disorder is not service connected and not currently under the Board's jurisdiction, any service connection claim for atrial fibrillation based on the theory of secondary service connection must fail.  The Veteran is advised that if he would like to appeal the September 2024 RO decision denying service connection for an acquired psychiatric disorder, including PTSD, he can find instructions regarding exactly how to do so in the September 2024 letter provided to the Veteran by the Board.  In short, there is no basis for a secondary service connection grant here. 
+
+Turning to direct service connection, the Veteran has generally asserted that his atrial fibrillation is due to his military service.  See, generally, September 2023 Written Brief Presentation.  
+
+In the March 2023 rating decision, the AOJ made the favorable finding that a June 2021 private treatment record documented a current diagnosis of atrial fibrillation.
+
+In this case, however, the Board concludes that the most probative evidence of record weighs against a finding that the currently diagnosed atrial fibrillation began during service or is otherwise related to an in-service injury, event, or disease.
+
+Here, STRs are silent as to complaints, treatment, and/or diagnoses of atrial fibrillation and/or any other cardiac or heart related problems.  The Veteran's separation examination noted a normal clinical evaluation of the heart and he expressly denied having "palpitations or pounding heart" on the contemporaneous Report of Medical History.  Additionally, post-service VA and private treatment records reflect that the Veteran was first diagnosed with atrial fibrillation in 2014, which is approximately 38 years after separation from active-duty service.  This lengthy period without treatment likewise tends to weigh against a finding of in-service onset. See Maxson v. West, 12 Vet. App. 453 (1999), aff'd, 230 F.3d 1330 (Fed. Cir. 2000) (holding that service incurrence may be rebutted by the absence of medical treatment of the claimed disorder for many years after the military discharge).
+
+Notably, the Veteran's post-service VA treatment and private medical records currently associated with the claims file lack any competent indication of an etiological relationship between the Veteran's atrial fibrillation and service.  The Veteran has not otherwise identified or submitted any medical evidence or supporting statements that would suggest that the current atrial fibrillation is related to his military service.
+
+The Board acknowledges that the Veteran has not been afforded a VA examination for his atrial fibrillation.  However, a medical examination or opinion is only necessary when the appellant presents a claim for service connection in which there is a pertinent event, injury, or disease in service; there is evidence of current disability; the medical evidence of record does not contain sufficient competent medical evidence to decide the claim; and there is an indication that the claimed disability or symptoms may be associated with service. See 38C.F.R. §3.159(c)(4); See McLendon v. Nicholson, 20 Vet. App. 79 (2006). 
+
+In this case, there is no indication in the record that the Veteran's atrial fibrillation is due to an in-service event, injury, or disease.  As outlined atrial fibrillation was not shown in-service; it manifested many years after the Veteran's separation from service; and there is no competent or credible indication that it may be related to his military service.  Accordingly, a VA examination regarding this direct service connection claim was neither necessary nor warranted.  
+
+The Board has considered the Veteran's own argument that his atrial fibrillation is related to his service by nature of his claim.  Although lay persons are competent to provide opinions on some medical issues, as to the specific issue in this case, providing an opinion as to the etiology of the claimed atrial fibrillation falls outside the realm of common knowledge of a lay person. See Kahana v. Shinseki, 24 Vet. App. 428, 435 (2011); Jandreau, supra.  As such, to the extent the Veteran is relating these conditions to service, the Board finds his statements are not competent lay evidence.  The Board finds the in-service normal separation examination to be more credible and probative than the Veteran's after-the-fact lay assertions.  The Board therefore finds the Veteran's statements with regard to a nexus between his disabilities and service to be of minimal probative value.  
+
+For these reasons, the Board finds that the evidence is persuasively against the claim for service connection for atrial fibrillation.  Accordingly, the benefit-of-the-doubt rule does not apply, and the claim is denied. See 38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102; 4.3; Lynch, supra. 
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for a right hand disability, claimed as arthritis, is remanded.
+
+2. Entitlement to service connection for a left hand disability, claimed as arthritis, is remanded.
+
+The Veteran contends that he has bilateral hand disabilities related to service.  
+
+With respect to the issue of current diagnoses, the May 2024 JMPR found that the Board erred when it failed to address potentially favorable evidence of record.  Specifically, in the November 2023 decision, the Board determined that weight of the evidence was against a finding that the Veteran had a current right and/or left hand disability.  However, the JMPR noted that the Board had failed to address a June 24, 2022, VA "Primary Care Nursing Note" reflecting that the Veteran requested an appointment to see a doctor about arthritis in his hands.  The Board also did not address a July 1, 2022, VA "Primary Care Note" showing that the Veteran complained of chronic numbness of his right hand and was observed to have "some Dupuytren contracture mildly at the palm."  In addition to the foregoing, the Board notes that a VA treatment record dated in 2013 shows a surgical history of left carpal tunnel correction.  The June 2023 rating decision on appeal noted this to be a favorable finding of a current left-hand disability.  The June 2023 rating decision likewise noted a favorable finding that the Veteran had been diagnosed with a right-hand disability, namely, Dupuytren's contracture.  In light of the foregoing, the Board concedes that the Veteran has current diagnoses related to the right and left hands.  
+
+The Board further finds that under the duty to assist, the Veteran should have been afforded a VA examination to determine the nature and etiology of his claimed bilateral hand disabilities based upon the evidence of record at the time of the rating decision on appeal. See 38 U.S.C. § 5103A; 38 C.F.R. § 3.159; see also McLendon v. Nicholson, 20 Vet. App. 79 (2006).
+
+Service treatment records are silent for complaints, treatment, and/or diagnoses related to the hands.  Nevertheless, in his November 2022 claim for service connection, the Veteran indicated that the onset of his clamed hand disabilities was in 1965 and that they were due to his 6 years of service in various Army units.  Personnel records reflect military occupational specialties with various duties, including ammo handler (field artillery), lineman, motor car driver, and clerk/typist.  
+
+In the September 2023 Appellate Brief, the Veteran's representative additionally argued that "although there may have been no documented complaints or treatment of [these conditions] while in the military, that does not preclude the possibility it went unreported and/or untreated."  The Veteran's representative went on to note that an examination in the Military Personnel Record shows "Purpose of examination" as Airborne Duty.  The representative stated that this would indicate that the Veteran, at a minimum, had some airborne training and that this type of training and subsequent duties was known to be very punishing on the musculoskeletal system.  
+
+To date, the Veteran has not been afforded a VA examination for his claimed bilateral hand disabilities.  Thus, there is insufficient competent medical evidence of record to determine the nature and etiology of any diagnosed right or left hand condition.  Consequently, this matter is remanded to afford the Veteran a VA examination in order to correct the duty to assist error that occurred prior to the rating decision on appeal.
+
+The matters are REMANDED for the following action:
+
+Schedule the Veteran for a VA examination before an appropriate examiner to determine the nature and etiology of any current bilateral hand disabilities, including left carpal tunnel syndrome (status post correction), right Dupuytren's contracture, and arthritis (if diagnosed on examination).  The examiner shall be provided with the entire claims file including this remand for review.  
+
+The examiner should provide an opinion addressing whether it is approximately at least as likely as not that any current right and/or left hand disabilities were incurred in, caused by, or are otherwise related to the Veteran's active service, to include physical duties associated with his various military occupational specialties.
+
+The examiner must provide a complete rationale for any opinion expressed, based on the examiner's clinical and medical expertise; established medical principles; and references to the evidence of record, as appropriate.
+
+If any opinion cannot be expressed without resort to speculation, ensure that the examiner so indicates and discusses why an opinion is not possible, to include whether there is additional evidence that could enable an opinion to be provided, or whether the inability to provide the opinion is based on the limits of medical knowledge.
+
+ 
+
+ 
+
+JONATHAN B. KRAMER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	H. Hoeft, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

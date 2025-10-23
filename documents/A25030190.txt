@@ -1,0 +1,87 @@
+Citation Nr: A25030190
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240524-452258
+DATE: April 2, 2025
+
+ORDER
+
+Service connection for tinnitus is denied.
+
+Service connection for allergic rhinitis is denied.
+
+Service connection for chronic headaches is denied.
+
+Service connection for bilateral hearing loss is denied.
+
+FINDINGS OF FACT
+
+1.  The Veteran served on active duty from November 1989 to May 1990.
+
+2.  Disorders manifested by tinnitus, allergic rhinitis, chronic headaches have not been shown.
+
+3.  Bilateral hearing loss, for VA purposes, has not been shown.
+
+CONCLUSIONS OF LAW
+
+1.  Tinnitus was not incurred in service. 38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107, 7105 (2012); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 (2024). 
+
+2.  Allergic rhinitis was not incurred in service. 38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107, 7105 (2012); 38 C.F.R. §§ 3.102, 3.303 (2024).
+
+3.  Chronic headaches were not incurred in service. 38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107, 7105 (2012); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 (2024).
+
+4.  Bilateral hearing loss was not incurred in service. 38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107, 7105 (2012); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 (2024).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+This decision has been written under the guidelines of the Veterans Appeals Improvement and Modernization Act, also known as the Appeals Modernization Act (AMA).  In March 2024, the agency of original jurisdiction (AOJ) denied service connection for the claims on appeal. In May 2024, the Veteran appealed to the Board via a Form 10182 and elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal. 38 C.F.R. § 20.301.
+
+Turning to the relevant laws and regulations, service connection may be granted on a direct basis as a result of disease or injury incurred in service based on nexus using a three-element test: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred in or aggravated by service. Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+For a disorder to be service connected, it must be shown at the time a claim for VA disability compensation is filed or during or contemporary to the pendency of the appeal. McClain v. Nicholson, 21 Vet. App. 319 (2007); Romanowsky v. Shinseki, 26 Vet. App. 289 (2013). That is, service connection may only be granted for a current disability; when a claimed condition is not shown, there may be no grant of service connection. See Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). 
+
+The Veteran claims service connection is warranted for tinnitus, allergic rhinitis, chronic headaches, and bilateral hearing loss. It is noted that he is incarcerated and was only able to complete a VA audiological examination. The service treatment records (STRs) are also unavailable. Records are silent for any post service clinical treatment records. At a March 2024 VA audiological examination, he denied tinnitus.
+
+As to tinnitus, rhinitis, and headaches, to date, the Veteran has failed to provide or allege any documentation supporting current diagnoses for the disorders. Moreover, the competent medical evidence of record fails to show a diagnosis of, or symptoms related to the disorders at any time during the appeal period. 
+
+To the extent that the Veteran believes he has the disorders claimed, he is not competent to provide a diagnosis as the record does not show that he has the medical training or credentials to make such a determination.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 n.4 (Fed. Cir. 2007).  
+
+Consequently, the Board gives more probative weight to the medical evidence of record which does not demonstrate any complaints, treatment, or diagnosis for tinnitus, allergic rhinitis, and chronic headaches. In sum, as there is no showing of the current disorders claimed, service connection is not warranted.
+
+Bilateral Hearing Loss 
+
+Hearing loss is considered a disability for VA purposes when the threshold level in any of the frequencies 500, 1000, 2000, 3000 and 4000 Hertz (Hz) is 40 decibels or greater; when the thresholds for at least three of these frequencies are 26 decibels or greater; or when speech recognition scores, using the Maryland CNC test, are less than 94 percent.  38 C.F.R. § 3.385. 
+
+At a March 2024 VA audiological examination, results showed puretone thresholds, in decibels, as follows:
+
+			HERTZ		
+
+	500	1000	2000	3000	4000
+
+RIGHT	30	20	25	20	10
+
+LEFT	25	35	25	15	15
+
+Speech recognition testing using the Maryland CNC word list revealed a score of 96 percent in both ears. There are no other audiograms during the appeal period.
+
+Based on the above, the evidence does not support a current diagnosis of bilateral hearing loss that meets the criteria for a hearing disability for VA purposes.  See Degmetich v. Brown, 104 F.3d 1328, 1333 (Fed. Cir. 1997) (holding that the existence of a current disability is the cornerstone of a claim for VA disability compensation).  
+
+Even accepting that the Veteran was exposed to acoustic trauma in service as a field radio operator, audiological testing does not show bilateral hearing loss sufficient to constitute a disability for VA compensation purposes. 
+
+While the Veteran is competent to report hearing difficulties, he is not competent to diagnose bilateral hearing loss for VA purposes. Such a diagnosis requires specialized knowledge of audiograms and an ability to interpret all pertinent responses. In the absence of a present disability there can be no valid claim.  See Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992).  
+
+Finally, the Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record, for the Board's consideration. See Doucette v. Shulkin, 28 Vet. App. 366, 369-370 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).
+
+ 
+
+ 
+
+L. HOWELL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Y.Asfaw, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.
