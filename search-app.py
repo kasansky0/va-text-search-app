@@ -1,5 +1,6 @@
 import os
 import streamlit as st
+import random
 
 # Folder with your txt files (inside your repo)
 folder_path = "documents"
@@ -33,43 +34,19 @@ if search_input:
     if not matching_files:
         st.warning("No files found with the given keywords.")
     else:
-        st.success(f"Found {len(matching_files)} files:")
-        files_row = ", ".join([f"{i + 1}:{file}" for i, file in enumerate(matching_files)])
-        st.write(files_row)
+        st.success(f"Found {len(matching_files)} files. Showing 10 random files:")
 
-        # Select a file to open
-        file_choice = st.number_input(
-            "Enter the file number to open (0 to search new words):",
-            min_value=0,
-            max_value=len(matching_files),
-            step=1
-        )
+        # Pick 10 random files (or all if less than 10)
+        display_files = random.sample(matching_files, min(10, len(matching_files)))
 
-        if file_choice != 0:
-            file_to_open = os.path.join(folder_path, matching_files[file_choice - 1])
-
-            st.markdown("### " + "="*50)
-            st.markdown("### " + "="*50)
-            st.markdown("### " + "="*50)
-            st.markdown(f"**FILE {file_choice}: {matching_files[file_choice - 1]}**")
-            st.markdown("### " + "="*50)
-            st.markdown("### " + "="*50)
-            st.markdown("### " + "="*50)
-
-            with open(file_to_open, "r", encoding="utf-8") as f:
+        for idx, file_name in enumerate(display_files, 1):
+            file_path = os.path.join(folder_path, file_name)
+            with open(file_path, "r", encoding="utf-8") as f:
                 content = f.read()
 
-            # Show first 1000 characters
-            st.text(content[:1000])
+            st.markdown(f"### {idx}: {file_name}")
+            st.text(content[:1000])  # show first 1000 characters
 
-            # Button to show full document
-            if st.button("Show full document"):
+            # Button to show full content
+            if st.button(f"Show full document: {file_name}", key=file_name):
                 st.text(content)
-
-            st.markdown("### " + "="*50)
-            st.markdown("### " + "="*50)
-            st.markdown("### " + "="*50)
-            st.markdown(f"**END OF FILE {file_choice}**")
-            st.markdown("### " + "="*50)
-            st.markdown("### " + "="*50)
-            st.markdown("### " + "="*50)
