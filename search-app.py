@@ -1,6 +1,7 @@
 import os
 import streamlit as st
 import random
+import re
 
 # Folder with your txt files (inside your repo)
 folder_path = "documents"
@@ -18,7 +19,8 @@ search_input = st.text_input("Enter words to search for (comma or space separate
 
 if search_input:
     # Prepare search keywords
-    search_keywords = [kw.strip().lower() for kw in search_input.replace(",", " ").split()]
+    search_keywords = [kw.strip() for kw in search_input.replace(",", " ").split()]
+    search_keywords_lower = [kw.lower() for kw in search_keywords]
 
     # Find matching files
     matching_files = []
@@ -26,8 +28,9 @@ if search_input:
         if filename.endswith(".txt"):
             file_path = os.path.join(folder_path, filename)
             with open(file_path, "r", encoding="utf-8") as f:
-                content = f.read().lower()
-            if any(kw in content for kw in search_keywords):
+                content = f.read()
+            # Case-insensitive check
+            if any(kw.lower() in content.lower() for kw in search_keywords):
                 matching_files.append(filename)
 
     # Show results
@@ -45,8 +48,17 @@ if search_input:
                 content = f.read()
 
             st.markdown(f"### {idx}: {file_name}")
-            st.text(content[:1000])  # show first 1000 characters
 
-            # Button to show full content
+            # Highlight search keywords in the first 1000 chars
+            snippet = content[:1000]
+            for kw in search_keywords:
+                snippet = re.sub(f"({re.escape(kw)})", r'<mark>\1</mark>', snippet, flags=re.IGNORECASE)
+
+            st.markdown(snippet, unsafe_allow_html=True)
+
+            # Button to show full content with highlighted keywords
             if st.button(f"Show full document: {file_name}", key=file_name):
-                st.text(content)
+                full_content = content
+                for kw in search_keywords:
+                    full_content = re.sub(f"({re.escape(kw)})", r'<mark>\1</mark>', full_content, flags=re.IGNORECASE)
+                st.markdown(full_content, unsafe_allow_html=True)
