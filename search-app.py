@@ -1,7 +1,7 @@
 import os
 
 # Folder with your txt files
-folder_path = "/Users/trojannoescape/Desktop/CS50/PS0/documents"
+folder_path = "documents"
 
 # Check if folder exists
 if not os.path.exists(folder_path):
