@@ -10,47 +10,96 @@ if not os.path.exists(folder_path):
     st.error(f"Error: Folder not found at {folder_path}")
     st.stop()
 
-st.title("VA Disability Search App")
-st.write("Search through the documents for specific health condition or phrase.")
+# CSS styling
+st.markdown(
+    """
+    <style>
+    .centered-text { text-align: center; }
+    .search-result {
+        border: 2px solid #007BFF;  /* Blue border */
+        border-radius: 10px;
+        padding: 15px;
+        margin-bottom: 15px;
+        background-color: #f9f9f9;
+        text-align: left;
+        font-family: Arial, sans-serif;
+        word-wrap: break-word;
+    }
+    mark { background-color: #FFFF00; color: black; }
 
-# Text input for phrases
-search_input = st.text_input("Enter condition/body part or exact phrase to search for")
+    /* Style Streamlit input box */
+    div.stTextInput > label > div {
+        color: #007BFF;
+        font-weight: bold;
+    }
+    div.stTextInput > div > input {
+        border: 2px solid #007BFF;
+        border-radius: 5px;
+        padding: 8px;
+        width: 100%;
+        font-size: 16px;
+    }
+    </style>
+    """, unsafe_allow_html=True
+)
+
+# Header
+st.markdown('<h1 class="centered-text">VA Disability Search</h1>', unsafe_allow_html=True)
+
+# Search input with magnifying glass emoji
+search_input = st.text_input("🔍 Enter the condition you are looking for")
 
 if search_input:
     search_phrase = search_input.strip()
     if not search_phrase:
         st.warning("Please enter a valid phrase to search.")
     else:
-        # Find matching files
         matching_files = []
         for filename in os.listdir(folder_path):
             if filename.endswith(".txt"):
                 file_path = os.path.join(folder_path, filename)
                 with open(file_path, "r", encoding="utf-8") as f:
                     content = f.read()
-                # Case-insensitive exact phrase search
                 if search_phrase.lower() in content.lower():
                     matching_files.append(filename)
 
-        # Show results
         if not matching_files:
             st.warning("No files found with the given phrase.")
         else:
-            st.success(f"Found {len(matching_files)} files:")
+            # Show "Found X files" in blue-framed box
+            st.markdown(f"""
+                <div class="search-result">
+                    <strong>Found {len(matching_files)} files:</strong>
+                </div>
+            """, unsafe_allow_html=True)
 
             for idx, file_name in enumerate(matching_files, 1):
                 file_path = os.path.join(folder_path, file_name)
                 with open(file_path, "r", encoding="utf-8") as f:
                     content = f.read()
 
-                st.markdown(f"### {idx}: {file_name}")
+                # Highlight first 1000 characters
+                snippet = re.sub(
+                    re.escape(search_phrase),
+                    lambda m: f"<mark>{m.group(0)}</mark>",
+                    content[:1000],
+                    flags=re.IGNORECASE
+                )
 
-                # Highlight search phrase in the first 1000 chars
-                snippet = content[:1000]
-                snippet = re.sub(f"({re.escape(search_phrase)})", r'<mark>\1</mark>', snippet, flags=re.IGNORECASE)
-                st.markdown(snippet, unsafe_allow_html=True)
+                html_content = f"""
+                <div class="search-result">
+                    <h4>{idx}: {file_name}</h4>
+                    <p>{snippet}</p>
+                </div>
+                """
+                st.markdown(html_content, unsafe_allow_html=True)
 
-                # Button to show full content with highlighted phrase
+                # Button to show full content
                 if st.button(f"Show full document: {file_name}", key=file_name):
-                    full_content = re.sub(f"({re.escape(search_phrase)})", r'<mark>\1</mark>', content, flags=re.IGNORECASE)
-                    st.markdown(full_content, unsafe_allow_html=True)
+                    full_content = re.sub(
+                        re.escape(search_phrase),
+                        lambda m: f"<mark>{m.group(0)}</mark>",
+                        content,
+                        flags=re.IGNORECASE
+                    )
+                    st.markdown(f'<div class="search-result">{full_content}</div>', unsafe_allow_html=True)
