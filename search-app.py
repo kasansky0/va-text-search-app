@@ -10,11 +10,11 @@ if not os.path.exists(folder_path):
     st.error(f"Error: Folder not found at {folder_path}")
     st.stop()
 
-st.title("VA Text Search App")
-st.write("Search through your documents for specific keywords.")
+st.title("VA Disability Search App")
+st.write("Search through the documents for specific health condition.")
 
 # Text input for keywords
-search_input = st.text_input("Enter words to search for (comma or space separated)")
+search_input = st.text_input("Enter condition/body part to search for (comma or space separated)")
 
 if search_input:
     # Prepare search keywords
