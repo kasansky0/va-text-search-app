@@ -11,51 +11,46 @@ if not os.path.exists(folder_path):
     st.stop()
 
 st.title("VA Disability Search App")
-st.write("Search through the documents for specific health condition.")
+st.write("Search through the documents for specific health condition or phrase.")
 
-# Text input for keywords
-search_input = st.text_input("Enter condition/body part to search for (comma or space separated)")
+# Text input for phrases
+search_input = st.text_input("Enter condition/body part or exact phrase to search for")
 
 if search_input:
-    # Prepare search keywords
-    search_keywords = [kw.strip() for kw in search_input.replace(",", " ").split()]
-    search_keywords_lower = [kw.lower() for kw in search_keywords]
-
-    # Find matching files
-    matching_files = []
-    for filename in os.listdir(folder_path):
-        if filename.endswith(".txt"):
-            file_path = os.path.join(folder_path, filename)
-            with open(file_path, "r", encoding="utf-8") as f:
-                content = f.read()
-            # Case-insensitive check
-            if any(kw.lower() in content.lower() for kw in search_keywords):
-                matching_files.append(filename)
-
-    # Show results
-    if not matching_files:
-        st.warning("No files found with the given keywords.")
+    search_phrase = search_input.strip()
+    if not search_phrase:
+        st.warning("Please enter a valid phrase to search.")
     else:
-        st.success(f"Found {len(matching_files)} files:")
+        # Find matching files
+        matching_files = []
+        for filename in os.listdir(folder_path):
+            if filename.endswith(".txt"):
+                file_path = os.path.join(folder_path, filename)
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+                # Case-insensitive exact phrase search
+                if search_phrase.lower() in content.lower():
+                    matching_files.append(filename)
 
-        # Show all matching files
-        for idx, file_name in enumerate(matching_files, 1):
-            file_path = os.path.join(folder_path, file_name)
-            with open(file_path, "r", encoding="utf-8") as f:
-                content = f.read()
+        # Show results
+        if not matching_files:
+            st.warning("No files found with the given phrase.")
+        else:
+            st.success(f"Found {len(matching_files)} files:")
 
-            st.markdown(f"### {idx}: {file_name}")
+            for idx, file_name in enumerate(matching_files, 1):
+                file_path = os.path.join(folder_path, file_name)
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read()
 
-            # Highlight search keywords in the first 1000 chars
-            snippet = content[:1000]
-            for kw in search_keywords:
-                snippet = re.sub(f"({re.escape(kw)})", r'<mark>\1</mark>', snippet, flags=re.IGNORECASE)
+                st.markdown(f"### {idx}: {file_name}")
 
-            st.markdown(snippet, unsafe_allow_html=True)
+                # Highlight search phrase in the first 1000 chars
+                snippet = content[:1000]
+                snippet = re.sub(f"({re.escape(search_phrase)})", r'<mark>\1</mark>', snippet, flags=re.IGNORECASE)
+                st.markdown(snippet, unsafe_allow_html=True)
 
-            # Button to show full content with highlighted keywords
-            if st.button(f"Show full document: {file_name}", key=file_name):
-                full_content = content
-                for kw in search_keywords:
-                    full_content = re.sub(f"({re.escape(kw)})", r'<mark>\1</mark>', full_content, flags=re.IGNORECASE)
-                st.markdown(full_content, unsafe_allow_html=True)
+                # Button to show full content with highlighted phrase
+                if st.button(f"Show full document: {file_name}", key=file_name):
+                    full_content = re.sub(f"({re.escape(search_phrase)})", r'<mark>\1</mark>', content, flags=re.IGNORECASE)
+                    st.markdown(full_content, unsafe_allow_html=True)
