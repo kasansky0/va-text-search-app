@@ -27,12 +27,11 @@ if "client_id" not in st.session_state:
 # -----------------------------
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
-# Hardcoded service account info
 SERVICE_ACCOUNT_INFO = {
   "type": "service_account",
   "project_id": "vasearchlogger",
   "private_key_id": "af33a5e53b5393a04a168eadaed33b6aee186a67",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDER0T+bNukJfU3\nTGrvsMukLcBoy0yy1t1v+H+2ON+HQYWlf07W875eyT+EhlOMpot2BU0kRQ8xi7zG\n5ljGj4RE0jKAvXA4SIq30hu+a8EqhDdFHr4lBjgszYpyJIkAoz4LjAA5vNjVQSv+\n7ujcvGF0AuHIcoNX8JLmnD0oazwuXADUWY8zIKg2ocEpQAuAtPb0tNn1Zf90XCvS\nzLI3rn2/jGTu9T4RUAJMgi+YRpKz6dM9Irr0n2vfxths8rK06BIEzbc4Kru1lXBl\nZKFTsmpQ2iHGFpIuFjvZrf8TezijuK1ia+rKNaPb878SKMNPFaPQJXChZpbFLPzt\nRcuE7ZkvAgMBAAECggEAAMCeLDBMYOOlNrjwhGXBi8ufVUiOr89xYOrRKf2D0rNS\ngJJJwfOETKqnnkDH/xSCMnwZgTHX46QPrEN0clJ6v+X4Jwj5sV3N0tqJ8inUAmkT\nTxD3QEqPAk6p9fCUX6Pw0oFtbWq1sqw9CeeejYbKfcOjCAEbZCZNoTRSlQHSQzBo\nGgLSZoykz6FBF1/Q99IAVrK9YEHWl1ele2yhOKDlNo3KtZAnjZiwyixBs+FkX6gV\nTxoqNHZ8yTTXfqVEHAGOAw7NZIiIe+Ib5AhAyCAXB6wJltpsn+lBhVc9TduCDvde\n2nNzEIK5MejZwmKgvlEPxk1GizkpJ6bsIuSpysFBqQKBgQDnEv+Ds/a0Z6w+73FA\ncFwLz7RL4VFAA9iJuclJ5pXlkeXDxlMfSe7KuGb29UrX5g/5tbfCI7JB6aWWlCMQ\nJomuFG5lYyBvyhh7A0SziK9nn6oy1IwKr4wybQmunxCv08ZMBiNR+B+5Zaet1cHQ\nfD9S5MwdDoWwrI9u07Y2B5eyUwKBgQDZc2bjmFN7BYicVGEC/nzfReF1bOYhC4JX\njlEckJ9P/Y2ODekyhusfPsgKpHlGLBWjO788Ki0F7IUSZLCQNE4RdiqCCLvAAtat\nEzLcc75LyLSjA9Xukkn34LMxSQIZPhQKV/uMHZcGqolX9RAFBXvvHDnYTWdjMCyD\nPvMqCUnaNQKBgFEaD+hPz7T99iyYqa0uQoA6xFMln/jR4LxmIsn3ToEmtfgCscX3\nkwI/upPPABfKvaytJPPUx4nu0ZmKIMxYWlZpAV5AbnAOBI2YVhKVVMsP9RKmGwjd\nGF3Se2V4msi7kYu5U8g/SBMwJKwUrFPaZ/dWKnXAVRfvWOBTGk7YV1vVAoGAYDA6\nLScullamTXDN0QM9vY4t40GesrNintRncNlQf5PLUDE7HIyt6Q5ecsa6lp3dnG1L\ndJO7gslTPAWqTL+2YOcCeq7eTltzFvBNKVNRtDg+H3YM5hF0AuA0o/KFqSDawJCW\nxy43pk09n9jZkz8PyX+U3ueueiPPLOdlrQyazJkCgYBRW3u+SNBswQ/3K9/GrO1f\nUSD180J029IpA0IrnVTSQbCHK+9oV7sjapXdJb+st95oMpxtM7DBqq0dru3ypLR3\nyYqH6lhb+3fOaRMuLDdvbP9hX/W0MNTs7TUwQk4/a8m0wnO6SmlIgiKF5j6rtBAX\nPpGwSqXMCp/kCpGyhQ+rSQ==\n-----END PRIVATE KEY-----\n",
+  "private_key": "-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDER0T+bNukJfU3\\nTGrvsMukLcBoy0yy1t1v+H+2ON+HQYWlf07W875eyT+EhlOMpot2BU0kRQ8xi7zG\\n5ljGj4RE0jKAvXA4SIq30hu+a8EqhDdFHr4lBjgszYpyJIkAoz4LjAA5vNjVQSv+\\n7ujcvGF0AuHIcoNX8JLmnD0oazwuXADUWY8zIKg2ocEpQAuAtPb0tNn1Zf90XCvS\\nzLI3rn2/jGTu9T4RUAJMgi+YRpKz6dM9Irr0n2vfxths8rK06BIEzbc4Kru1lXBl\\nZKFTsmpQ2iHGFpIuFjvZrf8TezijuK1ia+rKNaPb878SKMNPFaPQJXChZpbFLPzt\\nRcuE7ZkvAgMBAAECggEAAMCeLDBMYOOlNrjwhGXBi8ufVUiOr89xYOrRKf2D0rNS\\ngJJJwfOETKqnnkDH/xSCMnwZgTHX46QPrEN0clJ6v+X4Jwj5sV3N0tqJ8inUAmkT\\nTxD3QEqPAk6p9fCUX6Pw0oFtbWq1sqw9CeeejYbKfcOjCAEbZCZNoTRSlQHSQzBo\\nGgLSZoykz6FBF1/Q99IAVrK9YEHWl1ele2yhOKDlNo3KtZAnjZiwyixBs+FkX6gV\\nTxoqNHZ8yTTXfqVEHAGOAw7NZIiIe+Ib5AhAyCAXB6wJltpsn+lBhVc9TduCDvde\\n2nNzEIK5MejZwmKgvlEPxk1GizkpJ6bsIuSpysFBqQKBgQDnEv+Ds/a0Z6w+73FA\\ncFwLz7RL4VFAA9iJuclJ5pXlkeXDxlMfSe7KuGb29UrX5g/5tbfCI7JB6aWWlCMQ\\nJomuFG5lYyBvyhh7A0SziK9nn6oy1IwKr4wybQmunxCv08ZMBiNR+B+5Zaet1cHQ\\nfD9S5MwdDoWwrI9u07Y2B5eyUwKBgQDZc2bjmFN7BYicVGEC/nzfReF1bOYhC4JX\\njlEckJ9P/Y2ODekyhusfPsgKpHlGLBWjO788Ki0F7IUSZLCQNE4RdiqCCLvAAtat\\nEzLcc75LyLSjA9Xukkn34LMxSQIZPhQKV/uMHZcGqolX9RAFBXvvHDnYTWdjMCyD\\nPvMqCUnaNQKBgFEaD+hPz7T99iyYqa0uQoA6xFMln/jR4LxmIsn3ToEmtfgCscX3\\nkwI/upPPABfKvaytJPPUx4nu0ZmKIMxYWlZpAV5AbnAOBI2YVhKVVMsP9RKmGwjd\\nGF3Se2V4msi7kYu5U8g/SBMwJKwUrFPaZ/dWKnXAVRfvWOBTGk7YV1vVAoGAYDA6\\nLScullamTXDN0QM9vY4t40GesrNintRncNlQf5PLUDE7HIyt6Q5ecsa6lp3dnG1L\\ndJO7gslTPAWqTL+2YOcCeq7eTltzFvBNKVNRtDg+H3YM5hF0AuA0o/KFqSDawJCW\\nxy43pk09n9jZkz8PyX+U3ueueiPPLOdlrQyazJkCgYBRW3u+SNBswQ/3K9/GrO1f\\nUSD180J029IpA0IrnVTSQbCHK+9oV7sjapXdJb+st95oMpxtM7DBqq0dru3ypLR3\\nyYqH6lhb+3fOaRMuLDdvbP9hX/W0MNTs7TUwQk4/a8m0wnO6SmlIgiKF5j6rtBAX\\nPpGwSqXMCp/kCpGyhQ+rSQ==\\n-----END PRIVATE KEY-----\\n",
   "client_email": "streamlit-logger@vasearchlogger.iam.gserviceaccount.com",
   "client_id": "110380397944810111696",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
@@ -42,15 +41,25 @@ SERVICE_ACCOUNT_INFO = {
   "universe_domain": "googleapis.com"
 }
 
+# Fix key formatting for deployed environment
+SERVICE_ACCOUNT_INFO["private_key"] = SERVICE_ACCOUNT_INFO["private_key"].replace("\\n", "\n")
+
 SHEET_KEY = "1Hhlezm78LIA4Dudt9fHlSTyoSmsOYKAk8_HXO5uUsLc"
 
+# Initialize Google Sheets client
 creds = Credentials.from_service_account_info(SERVICE_ACCOUNT_INFO, scopes=SCOPES)
 gs_client = gspread.authorize(creds)
 sheet = gs_client.open_by_key(SHEET_KEY).sheet1  # first worksheet
 
+# -----------------------------
+# Logging function with error handling
+# -----------------------------
 def log_to_sheet(session_id, search_term, document_viewed):
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    sheet.append_row([timestamp, session_id, search_term, document_viewed])
+    try:
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        sheet.append_row([timestamp, session_id, search_term, document_viewed])
+    except Exception as e:
+        st.error(f"Logging to Google Sheets failed: {e}")
 
 # -----------------------------
 # CSS Styling
