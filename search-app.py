@@ -1,8 +1,8 @@
 import os
 import re
-import streamlit as st
-import streamlit.components.v1 as components
 import uuid
+import requests
+import streamlit as st
 
 # -----------------------------
 # Force Light Mode in App Config
@@ -15,21 +15,31 @@ st.set_page_config(
 )
 
 # -----------------------------
-# Google Analytics Integration
+# Google Analytics Configuration
 # -----------------------------
-GA_MEASUREMENT_ID = "G-4LPXYWL47V"  # 👈 Your real Measurement ID
+GA_MEASUREMENT_ID = "G-4LPXYWL47V"          # Your GA4 Measurement ID
+GA_API_SECRET = "9-w9pPt_RFqr2ZXUho8Tpw"   # Your GA4 Measurement Protocol API Secret
 
-# Use Streamlit components to inject GA script
-components.html(f"""
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){{dataLayer.push(arguments);}}
-  gtag('js', new Date());
-  gtag('config', '{GA_MEASUREMENT_ID}');
-</script>
-""", height=0, width=0)
+# Generate unique client ID per session
+if "client_id" not in st.session_state:
+    st.session_state.client_id = str(uuid.uuid4())
+
+def send_ga_event(event_name, event_params=None):
+    """Send server-side event to Google Analytics 4"""
+    payload = {
+        "client_id": st.session_state.client_id,
+        "events": [
+            {
+                "name": event_name,
+                "params": event_params or {}
+            }
+        ]
+    }
+    url = f"https://www.google-analytics.com/mp/collect?measurement_id={GA_MEASUREMENT_ID}&api_secret={GA_API_SECRET}"
+    try:
+        requests.post(url, json=payload)
+    except Exception as e:
+        print(f"GA event failed: {e}")
 
 # -----------------------------
 # CSS Styling
@@ -156,19 +166,8 @@ if search_input:
     if not search_phrase:
         st.warning("Please enter a valid phrase to search.")
     else:
-        # Track search event in GA using components
-        client_id = str(uuid.uuid4())
-        components.html(f"""
-            <script>
-                if (typeof gtag !== 'undefined') {{
-                    gtag('event', 'search', {{
-                        'event_category': 'interaction',
-                        'event_label': '{search_phrase}',
-                        'client_id': '{client_id}'
-                    }});
-                }}
-            </script>
-        """, height=0, width=0)
+        # Track search event in GA
+        send_ga_event("search", {"event_category": "interaction", "event_label": search_phrase})
 
         matching_files = []
         for filename in os.listdir(folder_path):
@@ -212,17 +211,7 @@ if search_input:
 
                 if st.button(f"Show full document: #{idx} {file_name}", key=file_name):
                     # Track "view document" event in GA
-                    components.html(f"""
-                        <script>
-                            if (typeof gtag !== 'undefined') {{
-                                gtag('event', 'view_document', {{
-                                    'event_category': 'interaction',
-                                    'event_label': '{file_name}',
-                                    'client_id': '{client_id}'
-                                }});
-                            }}
-                        </script>
-                    """, height=0, width=0)
+                    send_ga_event("view_document", {"event_category": "interaction", "event_label": file_name})
 
                     full_content = re.sub(
                         re.escape(search_phrase),
