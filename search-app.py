@@ -37,9 +37,13 @@ def send_ga_event(event_name, event_params=None):
     }
     url = f"https://www.google-analytics.com/mp/collect?measurement_id={GA_MEASUREMENT_ID}&api_secret={GA_API_SECRET}"
     try:
-        requests.post(url, json=payload)
+        response = requests.post(url, json=payload, headers={"Content-Type": "application/json"})
+        if response.status_code != 204:
+            print(f"GA event failed ({response.status_code}): {response.text}")
+        else:
+            print(f"GA event sent: {event_name}")
     except Exception as e:
-        print(f"GA event failed: {e}")
+        print(f"GA event exception: {e}")
 
 # -----------------------------
 # CSS Styling
