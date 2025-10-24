@@ -12,30 +12,29 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-# Force Streamlit light theme
+# -----------------------------
+# CSS Styling
+# -----------------------------
 st.markdown(
     """
     <style>
-    /* Override global dark theme */
-    html, body, [class*="stAppViewContainer"], [class*="stApp"], [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
+    html, body, [class*="stAppViewContainer"], [class*="stApp"], 
+    [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
     }
 
-    /* Hide dark mode top bar (header) */
     [data-testid="stHeader"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
         box-shadow: none !important;
     }
 
-    /* Force Streamlit toolbar (if any) to white */
     [data-testid="stToolbar"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
     }
 
-    /* Centered Header */
     .centered-text {
         text-align: center;
         color: #000000 !important;
@@ -43,7 +42,6 @@ st.markdown(
         margin-bottom: 20px;
     }
 
-    /* Search result boxes */
     .search-result-blue {
         border: 2px solid #007BFF;
         border-radius: 10px;
@@ -66,7 +64,6 @@ st.markdown(
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
     }
 
-    /* Highlight text */
     mark {
         background-color: #FFFF00;
         color: #000000;
@@ -74,14 +71,12 @@ st.markdown(
         border-radius: 2px;
     }
 
-    /* Input label */
     div.stTextInput > label > div {
         color: #007BFF !important;
         font-weight: bold;
         font-size: 16px;
     }
 
-    /* Search input box */
     div.stTextInput input {
         border: 2px solid #007BFF !important;
         border-radius: 5px !important;
@@ -93,7 +88,11 @@ st.markdown(
         caret-color: #000000 !important;
     }
 
-    /* Button */
+    div.stTextInput input::placeholder {
+        color: #888888 !important;
+        opacity: 1 !important;
+    }
+
     div.stButton > button {
         background-color: #007BFF !important;
         color: white !important;
@@ -109,7 +108,6 @@ st.markdown(
         background-color: #0056b3 !important;
     }
 
-    /* Footer */
     .footer-text {
         font-size: 10px;
         color: gray;
@@ -136,9 +134,13 @@ if not os.path.exists(folder_path):
     st.stop()
 
 # -----------------------------
-# Search Input
+# Search Input with placeholder
 # -----------------------------
-search_input = st.text_input("🔍 Enter the condition you are looking for")
+search_input = st.text_input(
+    "🔍 Enter the condition you are looking for",
+    value="",
+    placeholder="Knee, Sleep apnea, Migraines"
+)
 
 # -----------------------------
 # Search Logic
@@ -180,15 +182,17 @@ if search_input:
 
                 box_class = "search-result-blue" if idx % 2 != 0 else "search-result-green"
 
+                # Add # sequence in front of file name
                 html_content = f"""
                 <div class="{box_class}">
-                    <h4>{idx}: {file_name}</h4>
+                    <h4>#{idx} {file_name}</h4>
                     <p>{snippet}</p>
                 </div>
                 """
                 st.markdown(html_content, unsafe_allow_html=True)
 
-                if st.button(f"Show full document: {file_name}", key=file_name):
+                # Button with # sequence number
+                if st.button(f"Show full document: #{idx} {file_name}", key=file_name):
                     full_content = re.sub(
                         re.escape(search_phrase),
                         lambda m: f"<mark>{m.group(0)}</mark>",
