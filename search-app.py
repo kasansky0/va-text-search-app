@@ -12,39 +12,76 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-# -----------------------------
 # Force Streamlit light theme
-# -----------------------------
 st.markdown(
     """
     <style>
-    html, body, [class*="stAppViewContainer"], [class*="stApp"], 
-    [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
+    /* Override global dark theme */
+    html, body, [class*="stAppViewContainer"], [class*="stApp"], [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
     }
+
+    /* Hide dark mode top bar (header) */
     [data-testid="stHeader"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
         box-shadow: none !important;
     }
+
+    /* Force Streamlit toolbar (if any) to white */
     [data-testid="stToolbar"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
     }
-    .centered-text { text-align: center; color: #000000 !important; font-weight: bold; margin-bottom: 20px; }
-    .search-result {
+
+    /* Centered Header */
+    .centered-text {
+        text-align: center;
+        color: #000000 !important;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    /* Search result boxes */
+    .search-result-blue {
         border: 2px solid #007BFF;
         border-radius: 10px;
         padding: 15px;
         margin-bottom: 15px;
-        background-color: #F9F9F9;
+        background-color: #E6F0FF;
         text-align: left;
         color: #000000;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
     }
-    mark { background-color: #FFFF00; color: #000000; padding: 0 2px; border-radius: 2px; }
-    div.stTextInput > label > div { color: #007BFF !important; font-weight: bold; font-size: 16px; }
+
+    .search-result-green {
+        border: 2px solid #28A745;
+        border-radius: 10px;
+        padding: 15px;
+        margin-bottom: 15px;
+        background-color: #E6FFE6;
+        text-align: left;
+        color: #000000;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    }
+
+    /* Highlight text */
+    mark {
+        background-color: #FFFF00;
+        color: #000000;
+        padding: 0 2px;
+        border-radius: 2px;
+    }
+
+    /* Input label */
+    div.stTextInput > label > div {
+        color: #007BFF !important;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    /* Search input box */
     div.stTextInput input {
         border: 2px solid #007BFF !important;
         border-radius: 5px !important;
@@ -55,6 +92,8 @@ st.markdown(
         background-color: #FFFFFF !important;
         caret-color: #000000 !important;
     }
+
+    /* Button */
     div.stButton > button {
         background-color: #007BFF !important;
         color: white !important;
@@ -65,16 +104,17 @@ st.markdown(
         cursor: pointer !important;
         transition: background-color 0.2s !important;
     }
-    div.stButton > button:hover { background-color: #0056b3 !important; }
-    .footer-text { font-size: 10px; color: gray; text-align: center; margin-top: 30px; }
-    .warning-banner {
-        background-color:#FFF3CD;
-        border: 2px solid #FFEEBA;
-        color: #856404;
-        border-radius:10px;
-        padding:12px;
-        margin-bottom:15px;
-        font-weight: bold;
+
+    div.stButton > button:hover {
+        background-color: #0056b3 !important;
+    }
+
+    /* Footer */
+    .footer-text {
+        font-size: 10px;
+        color: gray;
+        text-align: center;
+        margin-top: 30px;
     }
     </style>
     """,
@@ -90,6 +130,7 @@ st.markdown('<h1 class="centered-text">VA Condition Search</h1>', unsafe_allow_h
 # Folder containing text files
 # -----------------------------
 folder_path = "documents"
+
 if not os.path.exists(folder_path):
     st.error(f"Error: Folder not found at {folder_path}")
     st.stop()
@@ -104,12 +145,8 @@ search_input = st.text_input("🔍 Enter the condition you are looking for")
 # -----------------------------
 if search_input:
     search_phrase = search_input.strip()
-
     if not search_phrase:
-        st.markdown(
-            '<div class="warning-banner">Please enter a valid phrase to search.</div>',
-            unsafe_allow_html=True
-        )
+        st.warning("Please enter a valid phrase to search.")
     else:
         matching_files = []
         for filename in os.listdir(folder_path):
@@ -121,13 +158,10 @@ if search_input:
                     matching_files.append(filename)
 
         if not matching_files:
-            st.markdown(
-                '<div class="warning-banner">No files found with the given phrase.</div>',
-                unsafe_allow_html=True
-            )
+            st.warning("No files found with the given phrase.")
         else:
             st.markdown(f"""
-                <div class="search-result">
+                <div class="search-result-blue">
                     <strong>Found {len(matching_files)} file(s):</strong>
                 </div>
             """, unsafe_allow_html=True)
@@ -144,12 +178,15 @@ if search_input:
                     flags=re.IGNORECASE
                 )
 
-                st.markdown(f"""
-                <div class="search-result">
+                box_class = "search-result-blue" if idx % 2 != 0 else "search-result-green"
+
+                html_content = f"""
+                <div class="{box_class}">
                     <h4>{idx}: {file_name}</h4>
                     <p>{snippet}</p>
                 </div>
-                """, unsafe_allow_html=True)
+                """
+                st.markdown(html_content, unsafe_allow_html=True)
 
                 if st.button(f"Show full document: {file_name}", key=file_name):
                     full_content = re.sub(
@@ -158,7 +195,7 @@ if search_input:
                         content,
                         flags=re.IGNORECASE
                     )
-                    st.markdown(f'<div class="search-result">{full_content}</div>', unsafe_allow_html=True)
+                    st.markdown(f'<div class="{box_class}">{full_content}</div>', unsafe_allow_html=True)
 
 # -----------------------------
 # Footer
