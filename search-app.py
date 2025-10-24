@@ -13,6 +13,25 @@ st.set_page_config(
 )
 
 # -----------------------------
+# Google Analytics Integration
+# -----------------------------
+GA_MEASUREMENT_ID = "G-4LPXYWL47V"  # 👈 Your real Measurement ID
+
+# Inject Google Analytics script (AFTER set_page_config)
+st.markdown(f"""
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){{dataLayer.push(arguments);}}
+      gtag('js', new Date());
+      gtag('config', '{GA_MEASUREMENT_ID}', {{
+          'send_page_view': true
+      }});
+    </script>
+""", unsafe_allow_html=True)
+
+# -----------------------------
 # CSS Styling
 # -----------------------------
 st.markdown(
@@ -143,13 +162,25 @@ search_input = st.text_input(
 )
 
 # -----------------------------
-# Search Logic
+# Search Logic + Analytics Events
 # -----------------------------
 if search_input:
     search_phrase = search_input.strip()
     if not search_phrase:
         st.warning("Please enter a valid phrase to search.")
     else:
+        # 🔹 Track Search Event in Analytics
+        st.markdown(f"""
+            <script>
+                if (typeof gtag !== 'undefined') {{
+                    gtag('event', 'search', {{
+                        'event_category': 'interaction',
+                        'event_label': '{search_phrase}'
+                    }});
+                }}
+            </script>
+        """, unsafe_allow_html=True)
+
         matching_files = []
         for filename in os.listdir(folder_path):
             if filename.endswith(".txt"):
@@ -182,7 +213,6 @@ if search_input:
 
                 box_class = "search-result-blue" if idx % 2 != 0 else "search-result-green"
 
-                # Add # sequence in front of file name
                 html_content = f"""
                 <div class="{box_class}">
                     <h4>#{idx} {file_name}</h4>
@@ -191,8 +221,19 @@ if search_input:
                 """
                 st.markdown(html_content, unsafe_allow_html=True)
 
-                # Button with # sequence number
                 if st.button(f"Show full document: #{idx} {file_name}", key=file_name):
+                    # 🔹 Track "View Document" event
+                    st.markdown(f"""
+                        <script>
+                            if (typeof gtag !== 'undefined') {{
+                                gtag('event', 'view_document', {{
+                                    'event_category': 'interaction',
+                                    'event_label': '{file_name}'
+                                }});
+                            }}
+                        </script>
+                    """, unsafe_allow_html=True)
+
                     full_content = re.sub(
                         re.escape(search_phrase),
                         lambda m: f"<mark>{m.group(0)}</mark>",
