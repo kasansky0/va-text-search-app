@@ -3,7 +3,7 @@ import streamlit as st
 import re
 
 # -----------------------------
-# Force Light Mode in App Config
+# App Configuration (force light mode)
 # -----------------------------
 st.set_page_config(
     page_title="VA Condition Search",
@@ -12,30 +12,32 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-# Force Streamlit light theme
+# -----------------------------
+# CSS Styling for Light Mode
+# -----------------------------
 st.markdown(
     """
     <style>
-    /* Override global dark theme */
+    /* Force global light theme */
     html, body, [class*="stAppViewContainer"], [class*="stApp"], [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
     }
 
-    /* Hide dark mode top bar (header) */
+    /* Hide Streamlit dark top bar */
     [data-testid="stHeader"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
         box-shadow: none !important;
     }
 
-    /* Force Streamlit toolbar (if any) to white */
+    /* Toolbar */
     [data-testid="stToolbar"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
     }
 
-    /* Centered Header */
+    /* Centered header */
     .centered-text {
         text-align: center;
         color: #000000 !important;
@@ -43,7 +45,7 @@ st.markdown(
         margin-bottom: 20px;
     }
 
-    /* Search result box */
+    /* Search result boxes */
     .search-result {
         border: 2px solid #007BFF;
         border-radius: 10px;
@@ -55,7 +57,7 @@ st.markdown(
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
     }
 
-    /* Highlight text */
+    /* Highlight search terms */
     mark {
         background-color: #FFFF00;
         color: #000000;
@@ -82,7 +84,7 @@ st.markdown(
         caret-color: #000000 !important;
     }
 
-    /* Button */
+    /* Buttons */
     div.stButton > button {
         background-color: #007BFF !important;
         color: white !important;
@@ -96,6 +98,16 @@ st.markdown(
 
     div.stButton > button:hover {
         background-color: #0056b3 !important;
+    }
+
+    /* Custom warning banner */
+    .warning-banner {
+        background-color:#FFF3CD;
+        border: 2px solid #FFEEBA;
+        color: #856404;
+        border-radius:10px;
+        padding:12px;
+        margin-bottom:15px;
     }
 
     /* Footer */
@@ -119,7 +131,6 @@ st.markdown('<h1 class="centered-text">VA Condition Search</h1>', unsafe_allow_h
 # Folder containing text files
 # -----------------------------
 folder_path = "documents"
-
 if not os.path.exists(folder_path):
     st.error(f"Error: Folder not found at {folder_path}")
     st.stop()
@@ -135,7 +146,7 @@ search_input = st.text_input("🔍 Enter the condition you are looking for")
 if search_input:
     search_phrase = search_input.strip()
     if not search_phrase:
-        st.warning("Please enter a valid phrase to search.")
+        st.markdown('<div class="warning-banner">Please enter a valid phrase to search.</div>', unsafe_allow_html=True)
     else:
         matching_files = []
         for filename in os.listdir(folder_path):
@@ -147,7 +158,7 @@ if search_input:
                     matching_files.append(filename)
 
         if not matching_files:
-            st.warning("No files found with the given phrase.")
+            st.markdown('<div class="warning-banner">No files found with the given phrase.</div>', unsafe_allow_html=True)
         else:
             st.markdown(f"""
                 <div class="search-result">
