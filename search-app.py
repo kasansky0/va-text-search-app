@@ -3,7 +3,7 @@ import streamlit as st
 import re
 
 # -----------------------------
-# App Configuration (force light mode)
+# Force Light Mode in App Config
 # -----------------------------
 st.set_page_config(
     page_title="VA Condition Search",
@@ -13,39 +13,26 @@ st.set_page_config(
 )
 
 # -----------------------------
-# CSS Styling for Light Mode
+# Force Streamlit light theme
 # -----------------------------
 st.markdown(
     """
     <style>
-    /* Force global light theme */
-    html, body, [class*="stAppViewContainer"], [class*="stApp"], [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
+    html, body, [class*="stAppViewContainer"], [class*="stApp"], 
+    [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
     }
-
-    /* Hide Streamlit dark top bar */
     [data-testid="stHeader"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
         box-shadow: none !important;
     }
-
-    /* Toolbar */
     [data-testid="stToolbar"] {
         background-color: #FFFFFF !important;
         color: #000000 !important;
     }
-
-    /* Centered header */
-    .centered-text {
-        text-align: center;
-        color: #000000 !important;
-        font-weight: bold;
-        margin-bottom: 20px;
-    }
-
-    /* Search result boxes */
+    .centered-text { text-align: center; color: #000000 !important; font-weight: bold; margin-bottom: 20px; }
     .search-result {
         border: 2px solid #007BFF;
         border-radius: 10px;
@@ -56,23 +43,8 @@ st.markdown(
         color: #000000;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
     }
-
-    /* Highlight search terms */
-    mark {
-        background-color: #FFFF00;
-        color: #000000;
-        padding: 0 2px;
-        border-radius: 2px;
-    }
-
-    /* Input label */
-    div.stTextInput > label > div {
-        color: #007BFF !important;
-        font-weight: bold;
-        font-size: 16px;
-    }
-
-    /* Search input box */
+    mark { background-color: #FFFF00; color: #000000; padding: 0 2px; border-radius: 2px; }
+    div.stTextInput > label > div { color: #007BFF !important; font-weight: bold; font-size: 16px; }
     div.stTextInput input {
         border: 2px solid #007BFF !important;
         border-radius: 5px !important;
@@ -83,8 +55,6 @@ st.markdown(
         background-color: #FFFFFF !important;
         caret-color: #000000 !important;
     }
-
-    /* Buttons */
     div.stButton > button {
         background-color: #007BFF !important;
         color: white !important;
@@ -95,12 +65,8 @@ st.markdown(
         cursor: pointer !important;
         transition: background-color 0.2s !important;
     }
-
-    div.stButton > button:hover {
-        background-color: #0056b3 !important;
-    }
-
-    /* Custom warning banner */
+    div.stButton > button:hover { background-color: #0056b3 !important; }
+    .footer-text { font-size: 10px; color: gray; text-align: center; margin-top: 30px; }
     .warning-banner {
         background-color:#FFF3CD;
         border: 2px solid #FFEEBA;
@@ -108,14 +74,7 @@ st.markdown(
         border-radius:10px;
         padding:12px;
         margin-bottom:15px;
-    }
-
-    /* Footer */
-    .footer-text {
-        font-size: 10px;
-        color: gray;
-        text-align: center;
-        margin-top: 30px;
+        font-weight: bold;
     }
     </style>
     """,
@@ -145,8 +104,12 @@ search_input = st.text_input("🔍 Enter the condition you are looking for")
 # -----------------------------
 if search_input:
     search_phrase = search_input.strip()
+
     if not search_phrase:
-        st.markdown('<div class="warning-banner">Please enter a valid phrase to search.</div>', unsafe_allow_html=True)
+        st.markdown(
+            '<div class="warning-banner">Please enter a valid phrase to search.</div>',
+            unsafe_allow_html=True
+        )
     else:
         matching_files = []
         for filename in os.listdir(folder_path):
@@ -158,7 +121,10 @@ if search_input:
                     matching_files.append(filename)
 
         if not matching_files:
-            st.markdown('<div class="warning-banner">No files found with the given phrase.</div>', unsafe_allow_html=True)
+            st.markdown(
+                '<div class="warning-banner">No files found with the given phrase.</div>',
+                unsafe_allow_html=True
+            )
         else:
             st.markdown(f"""
                 <div class="search-result">
@@ -178,13 +144,12 @@ if search_input:
                     flags=re.IGNORECASE
                 )
 
-                html_content = f"""
+                st.markdown(f"""
                 <div class="search-result">
                     <h4>{idx}: {file_name}</h4>
                     <p>{snippet}</p>
                 </div>
-                """
-                st.markdown(html_content, unsafe_allow_html=True)
+                """, unsafe_allow_html=True)
 
                 if st.button(f"Show full document: {file_name}", key=file_name):
                     full_content = re.sub(
