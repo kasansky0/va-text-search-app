@@ -1,8 +1,10 @@
 import os
 import re
 import random
-import requests
 import streamlit as st
+from datetime import datetime
+import gspread
+from google.oauth2.service_account import Credentials
 
 # -----------------------------
 # Force Light Mode in App Config
@@ -15,38 +17,25 @@ st.set_page_config(
 )
 
 # -----------------------------
-# Google Analytics Configuration
+# Session ID for tracking
 # -----------------------------
-GA_MEASUREMENT_ID = "G-4LPXYWL47V"          # Your GA4 Measurement ID
-GA_API_SECRET = "9-w9pPt_RFqr2ZXUho8Tpw"   # Your GA4 Measurement Protocol API Secret
-
-# Generate GA4-compatible client ID per session
 if "client_id" not in st.session_state:
     st.session_state.client_id = f"{random.randint(1000000000,9999999999)}.{random.randint(1000000000,9999999999)}"
 
-def send_ga_event(event_name, event_params=None):
-    """Send server-side event to Google Analytics 4 without showing banners"""
-    payload = {
-        "client_id": st.session_state.client_id,
-        "events": [
-            {
-                "name": event_name,
-                "params": {
-                    "page_location": "https://your-streamlit-app-name.streamlit.app",
-                    "page_title": "VA Condition Search",
-                    **(event_params or {})
-                }
-            }
-        ]
-    }
-    url = f"https://www.google-analytics.com/mp/collect?measurement_id={GA_MEASUREMENT_ID}&api_secret={GA_API_SECRET}"
-    try:
-        response = requests.post(url, json=payload, headers={"Content-Type": "application/json"})
-        if response.status_code != 204:
-            # Only log to console if it fails
-            print(f"GA event FAILED ({response.status_code}): {response.text}")
-    except Exception as e:
-        print(f"GA event exception: {e}")
+# -----------------------------
+# Google Sheets Setup
+# -----------------------------
+SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
+SERVICE_ACCOUNT_FILE = "vasearchlogger-af33a5e53b53.json"  # your JSON key file
+SHEET_KEY = "1Hhlezm78LIA4Dudt9fHlSTyoSmsOYKAk8_HXO5uUsLc"
+
+creds = Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
+gs_client = gspread.authorize(creds)
+sheet = gs_client.open_by_key(SHEET_KEY).sheet1  # first worksheet
+
+def log_to_sheet(session_id, search_term, document_viewed):
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    sheet.append_row([timestamp, session_id, search_term, document_viewed])
 
 # -----------------------------
 # CSS Styling
@@ -163,14 +152,14 @@ search_input = st.text_input(
 )
 
 # -----------------------------
-# Search Logic + Analytics Events
+# Search Logic + Google Sheets Logging
 # -----------------------------
 if search_input:
     search_phrase = search_input.strip()
     if not search_phrase:
         st.warning("Please enter a valid phrase to search.")
     else:
-        send_ga_event("search", {"event_category": "interaction", "event_label": search_phrase})
+        log_to_sheet(st.session_state.client_id, search_phrase, "")  # log search only
 
         matching_files = []
         for filename in os.listdir(folder_path):
@@ -201,7 +190,7 @@ if search_input:
                 st.markdown(f'<div class="{box_class}"><h4>#{idx} {file_name}</h4><p>{snippet}</p></div>', unsafe_allow_html=True)
 
                 if st.button(f"Show full document: #{idx} {file_name}", key=file_name):
-                    send_ga_event("view_document", {"event_category": "interaction", "event_label": file_name})
+                    log_to_sheet(st.session_state.client_id, search_phrase, file_name)  # log doc viewed
                     full_content = re.sub(
                         re.escape(search_phrase),
                         lambda m: f"<mark>{m.group(0)}</mark>",
