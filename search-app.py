@@ -3,8 +3,6 @@ import re
 import random
 import streamlit as st
 from datetime import datetime
-import gspread
-from google.oauth2.service_account import Credentials
 
 # -----------------------------
 # Streamlit App Config
@@ -23,28 +21,24 @@ if "client_id" not in st.session_state:
     st.session_state.client_id = f"{random.randint(1000000000,9999999999)}.{random.randint(1000000000,9999999999)}"
 
 # -----------------------------
-# Google Sheets Setup
-# -----------------------------
-SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
-
-# Load service account credentials from Streamlit secrets
-SERVICE_ACCOUNT_INFO = st.secrets["gcp_service_account"]
-
-# Initialize credentials
-creds = Credentials.from_service_account_info(SERVICE_ACCOUNT_INFO, scopes=SCOPES)
-gs_client = gspread.authorize(creds)
-SHEET_KEY = "1Hhlezm78LIA4Dudt9fHlSTyoSmsOYKAk8_HXO5uUsLc"
-sheet = gs_client.open_by_key(SHEET_KEY).sheet1  # first worksheet
-
-# -----------------------------
-# Logging Function
+# Logging Function (reads secrets at runtime)
 # -----------------------------
 def log_to_sheet(session_id, search_term, document_viewed):
     try:
+        if "gcp_service_account" not in st.secrets:
+            return
+        import gspread
+        from google.oauth2.service_account import Credentials
+        SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
+        SERVICE_ACCOUNT_INFO = st.secrets["gcp_service_account"]
+        creds = Credentials.from_service_account_info(SERVICE_ACCOUNT_INFO, scopes=SCOPES)
+        gs_client = gspread.authorize(creds)
+        SHEET_KEY = "1siHLnL8t1OZMvbrALNrgMp9w54IhtlSTgeGqMXSt7JA"
+        sheet = gs_client.open_by_key(SHEET_KEY).sheet1
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        sheet.append_row([timestamp, session_id, search_term, document_viewed])
-    except Exception as e:
-        st.error(f"Logging to Google Sheets failed: {e}")
+        sheet.append_row([timestamp, search_term, session_id, document_viewed])
+    except:
+        pass
 
 # -----------------------------
 # CSS Styling
@@ -168,38 +162,74 @@ if search_input:
     if not search_phrase:
         st.warning("Please enter a valid phrase to search.")
     else:
-        log_to_sheet(st.session_state.client_id, search_phrase, "")  # Log search term
+        log_to_sheet(st.session_state.client_id, search_phrase, "")
 
         matching_files = []
         for filename in os.listdir(folder_path):
             if filename.endswith(".txt"):
                 with open(os.path.join(folder_path, filename), "r", encoding="utf-8") as f:
                     content = f.read()
-                if search_phrase.lower() in content.lower():
-                    matching_files.append(filename)
+                matches = re.findall(re.escape(search_phrase), content, flags=re.IGNORECASE)
+                if matches:
+                    matching_files.append((filename, len(matches)))
 
         if not matching_files:
             st.warning("No files found with the given phrase.")
         else:
-            st.markdown(f'<div class="search-result-blue"><strong>Found {len(matching_files)} file(s):</strong></div>', unsafe_allow_html=True)
+            st.markdown(
+                f'<div class="search-result-blue"><strong>Found {len(matching_files)} file(s):</strong></div>',
+                unsafe_allow_html=True
+            )
 
-            for idx, file_name in enumerate(matching_files, 1):
+            for idx, (file_name, match_count) in enumerate(matching_files, 1):
+                clean_name = file_name.replace(".txt", "")
                 with open(os.path.join(folder_path, file_name), "r", encoding="utf-8") as f:
                     content = f.read()
 
+                # Create snippet around first match
+                match = re.search(re.escape(search_phrase), content, re.IGNORECASE)
+                if match:
+                    start = max(0, match.start() - 300)
+                    end = min(len(content), match.end() + 700)
+                    snippet_text = content[start:end]
+                else:
+                    snippet_text = ""
+
+                # Trim snippet to 1000 characters
+                snippet_text = snippet_text[:1000]
+
+                # Highlight matches
                 snippet = re.sub(
                     re.escape(search_phrase),
                     lambda m: f"<mark>{m.group(0)}</mark>",
-                    content[:1000],
+                    snippet_text,
                     flags=re.IGNORECASE
                 )
 
+                # Count matches in snippet
+                matches_in_snippet = len(re.findall(re.escape(search_phrase), snippet_text, flags=re.IGNORECASE))
+
+                # Header text: always show full document info
+                header_text = f'<b><mark>#{idx} {clean_name} — {match_count} match{"es" if match_count != 1 else ""} found</mark></b><br>'
+                if match_count > matches_in_snippet:
+                    header_text += '<b><mark>Click "Show Full Document" to see all matches.</mark></b>'
+                else:
+                    header_text += '<b><mark>Click "Show Full Document" to read the full document.</mark></b>'
+
+                snippet_html = f"{header_text}<br><br>{snippet}" if snippet else f"{header_text}<br><i>No snippet available.</i>"
+
+                # Determine snippet box color
                 box_class = "search-result-blue" if idx % 2 != 0 else "search-result-green"
 
-                st.markdown(f'<div class="{box_class}"><h4>#{idx} {file_name}</h4><p>{snippet}</p></div>', unsafe_allow_html=True)
+                # Display snippet
+                st.markdown(
+                    f'<div class="{box_class}"><p>{snippet_html}</p></div>',
+                    unsafe_allow_html=True
+                )
 
-                if st.button(f"Show full document: #{idx} {file_name}", key=file_name):
-                    log_to_sheet(st.session_state.client_id, search_phrase, file_name)  # Log doc viewed
+                # Full document button
+                if st.button(f"Show full document: #{idx} {clean_name}", key=file_name):
+                    log_to_sheet(st.session_state.client_id, search_phrase, clean_name)
                     full_content = re.sub(
                         re.escape(search_phrase),
                         lambda m: f"<mark>{m.group(0)}</mark>",
