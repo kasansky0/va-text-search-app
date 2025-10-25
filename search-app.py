@@ -5,23 +5,23 @@ import streamlit as st
 from datetime import datetime
 
 # -----------------------------
-# Streamlit App Config
+# Streamlit Config
 # -----------------------------
 st.set_page_config(
-    page_title="VA Condition Search",
+    page_title="BVA Finder Pro",
     page_icon="🔍",
     layout="centered",
     initial_sidebar_state="collapsed"
 )
 
 # -----------------------------
-# Session ID for tracking users
+# Session ID
 # -----------------------------
 if "client_id" not in st.session_state:
     st.session_state.client_id = f"{random.randint(1000000000,9999999999)}.{random.randint(1000000000,9999999999)}"
 
 # -----------------------------
-# Logging Function (reads secrets at runtime)
+# Google Sheet Logging
 # -----------------------------
 def log_to_sheet(session_id, search_term, document_viewed):
     try:
@@ -41,108 +41,122 @@ def log_to_sheet(session_id, search_term, document_viewed):
         pass
 
 # -----------------------------
-# CSS Styling
+# Modern Blue-Grey Theme
 # -----------------------------
 st.markdown("""<style>
 html, body, [class*="stAppViewContainer"], [class*="stApp"], 
 [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
-    background-color: #FFFFFF !important;
-    color: #000000 !important;
+    background-color: #f6f7f9 !important;
+    color: #1c1e21 !important;
 }
-[data-testid="stHeader"] {
-    background-color: #FFFFFF !important;
-    color: #000000 !important;
-    box-shadow: none !important;
-}
-[data-testid="stToolbar"] {
-    background-color: #FFFFFF !important;
-    color: #000000 !important;
+[data-testid="stHeader"], [data-testid="stToolbar"] {
+    background-color: #ffffff !important;
+    color: #1c1e21 !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
 }
 .centered-text {
     text-align: center;
-    color: #000000 !important;
+    color: #1877f2 !important;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 8px;
 }
-.search-result-blue {
-    border: 2px solid #007BFF;
-    border-radius: 10px;
-    padding: 15px;
-    margin-bottom: 15px;
-    background-color: #E6F0FF;
-    text-align: left;
-    color: #000000;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+.sub-title {
+    text-align: center;
+    color: #555555;
+    font-size: 16px;
+    margin-bottom: 25px;
 }
-.search-result-green {
-    border: 2px solid #28A745;
+.search-result {
+    border: 1px solid #d0d7de;
     border-radius: 10px;
-    padding: 15px;
-    margin-bottom: 15px;
-    background-color: #E6FFE6;
+    padding: 18px;
+    margin-bottom: 30px;
+    background-color: #ffffff;
     text-align: left;
-    color: #000000;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+.search-result:nth-child(even) {
+    background-color: #f0f4f9;
 }
 mark {
-    background-color: #FFFF00;
+    background-color: #ffe58f;
     color: #000000;
-    padding: 0 2px;
-    border-radius: 2px;
+    padding: 0 3px;
+    border-radius: 3px;
 }
 div.stTextInput > label > div {
-    color: #007BFF !important;
+    color: #1877f2 !important;
     font-weight: bold;
     font-size: 16px;
 }
 div.stTextInput input {
-    border: 2px solid #007BFF !important;
-    border-radius: 5px !important;
+    border: 2px solid #1877f2 !important;
+    border-radius: 6px !important;
     padding: 10px !important;
     width: 100% !important;
     font-size: 16px !important;
     color: #000000 !important;
-    background-color: #FFFFFF !important;
-    caret-color: #000000 !important;
+    background-color: #ffffff !important;
+    caret-color: #1877f2 !important;
 }
 div.stTextInput input::placeholder {
     color: #888888 !important;
-    opacity: 1 !important;
 }
 div.stButton > button {
-    background-color: #007BFF !important;
+    background-color: #1877f2 !important;
     color: white !important;
-    border-radius: 5px !important;
+    border-radius: 6px !important;
     border: none !important;
-    padding: 8px 16px !important;
-    font-size: 14px !important;
+    padding: 8px 18px !important;
+    font-size: 15px !important;
     cursor: pointer !important;
-    transition: background-color 0.2s !important;
 }
 div.stButton > button:hover {
-    background-color: #0056b3 !important;
+    background-color: #145dbf !important;
 }
 .footer-text {
-    font-size: 10px;
-    color: gray;
+    font-size: 11px;
+    color: #555555;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 40px;
+    line-height: 1.5;
 }
 </style>""", unsafe_allow_html=True)
 
 # -----------------------------
 # Header
 # -----------------------------
-st.markdown('<h1 class="centered-text">VA Condition Search</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="centered-text">BVA Finder Pro</h1>', unsafe_allow_html=True)
+st.markdown('<p class="sub-title">Quickly search and explore BVA documents for conditions and claims information.</p>', unsafe_allow_html=True)
 
 # -----------------------------
-# Folders containing text files
+# Folders with text files
 # -----------------------------
 folders = [f"document{i}" for i in range(1, 8)]
 existing_folders = [f for f in folders if os.path.exists(f)]
 if not existing_folders:
     st.error("No folders found! Make sure the folders document1..document7 exist.")
     st.stop()
+
+# -----------------------------
+# Cache all files in memory
+# -----------------------------
+@st.cache_data(show_spinner=False)
+def load_all_documents(folders):
+    documents = []
+    for folder in folders:
+        for filename in os.listdir(folder):
+            if filename.endswith(".txt"):
+                file_path = os.path.join(folder, filename)
+                try:
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        content = f.read()
+                    documents.append((filename, content))
+                except Exception:
+                    pass
+    return documents
+
+all_documents = load_all_documents(existing_folders)
 
 # -----------------------------
 # Search Input
@@ -154,7 +168,7 @@ search_input = st.text_input(
 )
 
 # -----------------------------
-# Search Logic + Logging
+# Search Logic
 # -----------------------------
 if search_input:
     search_phrase = search_input.strip()
@@ -162,85 +176,75 @@ if search_input:
         st.warning("Please enter a valid phrase to search.")
     else:
         log_to_sheet(st.session_state.client_id, search_phrase, "")
+        words = search_phrase.split()
+        phrases_to_try = [" ".join(words[:len(words)-i]) for i in range(len(words)) if " ".join(words[:len(words)-i])]
 
         matching_files = []
-        for folder in existing_folders:
-            for filename in os.listdir(folder):
-                if filename.endswith(".txt"):
-                    file_path = os.path.join(folder, filename)
-                    with open(file_path, "r", encoding="utf-8") as f:
-                        content = f.read()
-                    matches = re.findall(re.escape(search_phrase), content, flags=re.IGNORECASE)
-                    if matches:
-                        matching_files.append((filename, len(matches), file_path))
+        used_phrase = None
+
+        for phrase in phrases_to_try:
+            temp_matches = []
+            pattern = re.compile(re.escape(phrase), re.IGNORECASE)
+            for file_name, content in all_documents:
+                matches = pattern.findall(content)
+                if matches:
+                    temp_matches.append((file_name, len(matches), content))
+            if temp_matches:
+                matching_files = temp_matches
+                used_phrase = phrase
+                break
 
         if not matching_files:
-            st.warning("No files found with the given phrase.")
+            st.warning("No files found with the given or related phrase.")
         else:
-            # <-- UPDATED: only show number of files found -->
+            if used_phrase != search_phrase:
+                st.info(f'No exact matches found for "{search_phrase}". Showing results for "{used_phrase}".')
+
             st.markdown(
-                f'<div class="search-result-blue"><strong>Found {len(matching_files)} file(s)</strong></div>',
+                f'<div class="search-result"><strong>Found {len(matching_files)} file(s)</strong></div>',
                 unsafe_allow_html=True
             )
 
-            for idx, (file_name, match_count, file_path) in enumerate(matching_files, 1):
+            for idx, (file_name, match_count, content) in enumerate(matching_files, 1):
                 clean_name = file_name.replace(".txt", "")
-                with open(file_path, "r", encoding="utf-8") as f:
-                    content = f.read()
-
-                # Snippet around first match
-                match = re.search(re.escape(search_phrase), content, re.IGNORECASE)
+                match = re.search(re.escape(used_phrase), content, re.IGNORECASE)
+                snippet_text = ""
                 if match:
                     start = max(0, match.start() - 300)
                     end = min(len(content), match.end() + 700)
                     snippet_text = content[start:end]
-                else:
-                    snippet_text = ""
 
                 snippet_text = snippet_text[:1000]
-
                 snippet = re.sub(
-                    re.escape(search_phrase),
+                    re.escape(used_phrase),
                     lambda m: f"<mark>{m.group(0)}</mark>",
                     snippet_text,
                     flags=re.IGNORECASE
                 )
 
-                matches_in_snippet = len(re.findall(re.escape(search_phrase), snippet_text, flags=re.IGNORECASE))
-
-                # Header text (clean, no folder)
-                header_text = f'<b><mark>#{idx} {clean_name} — {match_count} match{"es" if match_count != 1 else ""} found</mark></b><br>'
-                if match_count > matches_in_snippet:
-                    header_text += '<b><mark>Click "Show Full Document" to see all matches.</mark></b>'
-                else:
-                    header_text += '<b><mark>Click "Show Full Document" to read the full document.</mark></b>'
+                header_text = f'<b>#{idx} {clean_name}</b> — <mark>{match_count} match{"es" if match_count != 1 else ""}</mark><br>'
+                header_text += '<small style="color:#555;">Click “Show Full Document” to read the entire file.</small>'
 
                 snippet_html = f"{header_text}<br><br>{snippet}" if snippet else f"{header_text}<br><i>No snippet available.</i>"
+                st.markdown(f'<div class="search-result">{snippet_html}</div>', unsafe_allow_html=True)
 
-                box_class = "search-result-blue" if idx % 2 != 0 else "search-result-green"
-
-                st.markdown(
-                    f'<div class="{box_class}"><p>{snippet_html}</p></div>',
-                    unsafe_allow_html=True
-                )
-
-                if st.button(f"Show full document: #{idx} {clean_name}", key=f"{file_name}"):
-                    log_to_sheet(st.session_state.client_id, search_phrase, clean_name)
+                if st.button(f"Show Full Document: #{idx} {clean_name}", key=f"{file_name}"):
+                    log_to_sheet(st.session_state.client_id, used_phrase, clean_name)
                     full_content = re.sub(
-                        re.escape(search_phrase),
+                        re.escape(used_phrase),
                         lambda m: f"<mark>{m.group(0)}</mark>",
                         content,
                         flags=re.IGNORECASE
                     )
-                    st.markdown(f'<div class="{box_class}">{full_content}</div>', unsafe_allow_html=True)
+                    st.markdown(f'<div class="search-result">{full_content}</div>', unsafe_allow_html=True)
 
 # -----------------------------
 # Footer
 # -----------------------------
 st.markdown("""
 <div class="footer-text">
-Disclaimer: This site indexes and displays excerpts from publicly available U.S. government document1 (VA.gov).
-No personal or private information is uploaded or stored. This tool is for informational use only and not a
-substitute for legal or medical advice.
+Disclaimer: This site indexes and displays excerpts from publicly available U.S. government documents (VA.gov).<br>
+No personal or private information is uploaded or stored.<br>
+This tool is for informational use only and not a substitute for legal or medical advice.
 </div>
 """, unsafe_allow_html=True)
