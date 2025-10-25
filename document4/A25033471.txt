@@ -1,0 +1,195 @@
+Citation Nr: A25033471
+Decision Date: 04/09/25	Archive Date: 04/10/25
+
+DOCKET NO. 240215-418038
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to a rating of 30 percent, but no higher, for gastroesophageal reflux disease (GERD) is granted.
+
+REMANDED
+
+1. Entitlement to service connection for chronic cough, to include as secondary to the service-connected GERD disability is remanded.
+
+2. Entitlement to service connection for tooth enamel damage, to include as secondary to the service-connected GERD disability is remanded.
+
+FINDING OF FACT
+
+The Veteran's GERD more nearly approximates symptoms productive of considerable impairment of health because he reports dysphagia, pyrosis, and regurgitation, accompanied by substernal pain; but the evidence does not show vomiting, material weight loss, or hematemesis.
+
+CONCLUSION OF LAW
+
+The criteria for a rating of 30 percent, but no higher, for service-connected GERD are met. 38 U.S.C. §§ 5104C, 5110, 1155; 38 C.F.R. §§ 3.400, 3.2500, 4.1, 4.3, 4.7, 4.14, 4.20, 4.21, 4.27, 4.113, 4.114, Diagnostic Code (DC) 7203, 7399-7346, 20.1100, 20.1400, 20.300, 20.301, 20.801.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the United States Air Force from April 1997 to April 2001 with additional service with the Air National Guard from October 2015 to June 2016.
+
+The decision on appeal to the Board of Veterans' Appeals (Board) from the regional office (referred to as the Agency of Original Jurisdiction (AOJ)), was issued in July 2023 and is a supplemental decision. Therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+As is relevant to the present appeal, in October 2022, the Veteran filed VA Form 21-526EZ (Claim) for an increased rating of his service-connected GERD. In March 2023, the AOJ denied the claim. In May 2023, the Veteran filed VA Form 20-0995 (Supplemental Claim) for his GERD disability citing the AOJ decision dated March 2023. In July 2023, the AOJ denied the claim. In February 2024, the Veteran filed VA Form 10182 (Notice of Disagreement), citing the July 2023 decision regarding the AOJ's evaluation of his GERD disability, and selecting direct review of his claim.
+
+Therefore, the Board may only consider evidence of record at the time of the July 2023 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+The Board notes the Veteran filed VA Form 20-0996 (Request for Higher-Level Review) in July 2024, citing the July 2023 decision for his GERD disability rating. 
+
+In Terry v. McDonough, the United States Court of Appeals for Veterans Claims (Court) discussed simultaneous actions with respect to the same underlying request for benefits, noting that 38 U.S.C. § 5104C(a)(2)(A) "prevents claimants from taking simultaneous actions 'with respect to the same claim or same issue within the claim.'" See Terry v. McDonough, 37 Vet. App. 1, 13 (2023).
+
+Here, the Board observes the Veteran's July 2024 Request for Higher-Level Review constitutes a concurrent appeal because of the pending February 2024 Notice of Disagreement at issue in this decision. 38 C.F.R. § 3.2500(b); see generally Terry, 37 Vet. App. at 1 (indicating a claimant may file more than one administrative review request within one year of an initial AOJ decision on a claim, provided that such an administrative review request is not pending concurrently with another administrative review request).
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. 38 C.F.R. § 3.2501. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Increased Rating
+
+Disability ratings are determined by comparing the Veteran's symptoms with criteria listed in VA's Schedule for Rating Disabilities, which is based, as far as practically can be determined, on average impairment in earning capacity. Separate Codes identify the various disabilities. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. 
+
+Where entitlement to compensation has already been established and an increase in the disability rating is at issue, the primary concern is the present level of disability. Francisco v. Brown, 7?Vet. App.?55, 58 (1994). Staged ratings are appropriate for any rating claim when the factual findings show distinct time periods during the appeal period where the service-connected disability exhibits symptoms that would warrant different ratings. Hart v. Mansfield, 21?Vet. App.?505 (2007).  
+
+And the entire medical history must be considered. Schafrath v. Derwinski, 1 Vet. App. 589 (1991). The "effective date for an increased rating, indeed, as well as for an initial rating or for staged ratings," depends on when the change in disability level can be "ascertained."  Swain v. McDonald, 27 Vet. App. 219, 224 (2015). As such, this decision will focus on the evidence pertinent to the rating criteria and disability severity during the relevant period on appeal, but the Board will consider the entire record to have a full picture of the disability. See 38 C.F.R. §§ 4.1, 4.2, 4.41; Gonzales v. West, 218 F. 3d 1378 (Fed. Cir. 2000).
+
+In rendering a decision on appeal, the Board must also analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive and provide the reasons for its rejection of any material evidence favorable to the claimant. Gabrielson v. Brown, 7?Vet. App.?36, 39 (1994); Gilbert v. Derwinski, 1?Vet. App.?49, 57 (1990). 
+
+Competency of evidence differs from weight and credibility. Competency is a legal concept determining whether testimony may be heard and considered by the trier of fact, while credibility is a factual determination going to the probative value of the evidence to be made after the evidence has been admitted. Layno v. Brown, 6?Vet. App.?465, 469 (1994); see also Cartright v. Derwinski, 2?Vet. App.?24, 25 (1991) ("although interest may affect the credibility of testimony, it does not affect competency to testify"). 
+
+In making all determinations, the Board must fully consider the lay assertions of record. A layperson is competent to report on the onset and continuity of his current symptomatology. See Layno v. Brown, 6 Vet. App. 465, 470 (1994). Lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition; (2) the layperson is reporting a contemporaneous medical diagnosis; or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional. Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Jandreau v. Nicholson, 491 F.3d 1372, 1376-77 (Fed. Cir. 2007). When considering whether lay evidence is competent the Board must determine, on a case-by-case basis, whether the Veteran's particular disability is the type of disability for which lay evidence may be competent. Kahana v. Shinseki, 24 Vet. App. 428 (2011); see also Jandreau, 492 F.3d at 1376-77.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. Any reasonable doubt regarding a degree of disability will be resolved in favor of the Veteran. 38 C.F.R. § 4.3. 
+
+The evaluation of the same disability under several diagnostic codes, known as pyramiding, must be avoided; however, separate ratings may be assigned for distinct disabilities resulting from the same injury so long as the symptomatology for one disability is not duplicative of or overlapping with the symptomatology of the other. Esteban v. Brown, 6?Vet. App.?259, 262 (1994); 38 C.F.R. § 4.14. 
+
+And not all claims will exhibit all the findings specified in the ratings schedule.  Findings sufficiently characteristic to identify the disease and the disability from the rating schedule, and above all, coordination of rating with impairment of function is expected in all instances. 38 C.F.R. § 4.21.  
+
+The Board is obligated to discount the beneficial effects of medications taken for a disability and evaluate the baseline severity of the disability. See Ingram v. Collins, No. 23-1798, Vet. App. *19 (2025)(affirming Jones v. Shinseki, 26 Vet. App. 56, 62-63 (2012), noting the Board may not deny entitlement to a higher rating based on relief provided by medication when those effects are not specifically contemplated by the rating criteria); see also Jackson v. McDonough, 37 Vet. App. 87, 92 (2023)(noting VA may not rely on factors outside the rating criteria, including the use of medication, unless the rating criteria contemplate the use of medication.)
+
+Moreover, the Veteran's disabilities may be evaluated as more severe if they are untreated by medication, or if the beneficial effects of medication are discounted so that he is evaluated on his baseline without those beneficial effects. See Ingram v. Collins, No. 23-1798, Vet. App. *18 (2025).
+
+Finally, the Board must determine whether the evidence persuasively favors the claim or if there is an approximate balance of positive and negative evidence (i.e., relative equipoise) regarding any issue material to the determination of a matter, with the Veteran prevailing in either event, or whether the evidence persuasively weighs against the claim in which case it must be denied. See Lynch v. McDonough, 999 F.3d 1391 (Fed. Cir. 2021); Gilbert v. Derwinski, 1?Vet. App.?49, 53 (1990). 
+
+Legal Criteria for Rating GERD
+
+There are diseases of the digestive system, particularly within the abdomen, which, while differing in the site of pathology, produce a common disability picture characterized in the main by varying degrees of abdominal distress or pain, anemia, and disturbances in nutrition. Consequently, certain coexisting diseases in this area, do not lend themselves to distinct and separate disability evaluations without violating the fundamental principle relating to pyramiding as outlined in 38 C.F.R. §§ 4.14, 4.113.
+
+Additionally, the regulations stipulate VA is not permitted to combine ratings for the digestive system under diagnostic codes 7301 through 7329 inclusive, 7331, 7342, 7345 through 7350 inclusive, 7352, and 7355 through 7357 inclusive, with each other. Instead, when more than one rating is warranted under those diagnostic codes, assign a single evaluation under the diagnostic code that reflects the predominant disability picture, and elevate it to the next higher evaluation if warranted by the severity of the overall disability. 38 C.F.R. § 4.114.
+
+The Veteran's GERD is evaluated under DC 7399-7346 under 38 C.F.R. § 4.114. Hyphenated diagnostic codes, including diagnostic codes ending in "99," are used when there is no specifically applicable diagnostic code for the disability, and it is rated by analogy. 38 C.F.R. § 4.27. Here, GERD is rated by analogy as hiatal hernia (DC 7346), which is rated as stricture of the esophagus under DC 7203. 38 C.F.R. §§ 4.20, 4.114.
+
+Under the diagnostic code for GERD, a 60 percent rating is assigned for a disability with symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health. A 30 percent rating is assigned for a disability with persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health. And a 10 percent rating is assigned for a disability with two or more of the symptoms for the 30 percent evaluation of less severity. 38 C.F.R. § 4.114, DC 7346, 7203.
+
+The term "considerable" is defined as large in extent or degree. Merriam-Webster's Collegiate Dictionary 267 (11th ed. 2012). And "severe" is defined as very painful or harmful. Merriam-Webster's Collegiate Dictionary 1140 (11th ed. 2012).
+
+The Board notes during the pendency of this appeal, the rating criteria for evaluating diseases of the digestive system under 38 C.F.R. § 4.114 were amended effective May 19, 2024. 89 Fed. Reg. 19735 (March 20, 2024). The amendments were to ensure the rating schedule uses current medical terminology and provides detailed and updated criteria for evaluation of digestive conditions for disability rating purposes.
+
+If a law or regulation changes during the course of a claim or an appeal, the version more favorable to the Veteran will apply, to the extent permitted by any stated effective date in the amendment in question. 38 U.S.C. § 5110(g); see also Kuzuma v. Principi, 341 F.3d 1327 (Fed. Cir. 2003). If the revised version of the regulation is more favorable, the implementation of that regulation under 38 U.S.C. § 5110(g) can be no earlier than the effective date of that change. If the former version is more favorable, VA can apply the earlier version of the regulation for the period prior to, and from, the effective date of the change. 38 U.S.C. § 5110; Kuzuma v. Principi, 341 F.3d 1327 (Fed. Cir. 2003).
+
+Under the updated diagnostic code, the maximum 80 percent evaluation is warranted for a documented history of recurrent or refractory esophageal stricture(s) causing dysphagia with at least one of the symptoms present: (1) aspiration, (2) undernutrition, and/or (3) substantial weight loss as defined by § 4.112(a) and treatment with either surgical correction or percutaneous esophago-gastrointestinal tube (PEG tube). A 50 percent evaluation is warranted for a documented history of recurrent or refractory esophageal stricture(s) causing dysphagia which requires at least one of the following (1) dilatation 3 or more times per year, (2) dilatation using steroids at least one time per year, or (3) esophageal stent placement. A 30 percent evaluation is warranted for a documented history of recurrent esophageal stricture(s) causing dysphagia which requires dilatation no more than 2 times per year. A 10 percent evaluation is warranted for a documented history of esophageal stricture(s) that requires daily medications to control dysphagia otherwise asymptomatic, and a 0 percent evaluation is warranted for a documented history without daily symptoms or requirement for daily medications. 38 C.F.R. § 4.114, DC 7206 (effective May 19, 2024).
+
+Additionally, findings must be documented by barium swallow, computerized tomography, or esophagogastroduodenoscopy; and non-gastrointestinal complications of procedures should be rated under the appropriate system. 38 C.F.R. § 4.114, DC 7206, Notes 1 and 2 (effective May 19, 2024).
+
+Further, this diagnostic code applies, but is not limited to, esophagitis, mechanical or chemical; Mallory Weiss syndrome (bleeding at junction of esophagus and stomach due to tears) due to caustic ingestion of alkali or acid; drug-induced or infectious esophagitis due to Candida, virus, or other organism; idiopathic eosinophilic, or lymphocytic esophagitis; esophagitis due to radiation therapy; esophagitis due to peptic stricture; and any esophageal condition that requires treatment with sclerotherapy. 38 C.F.R. § 4.114, DC 7206, Note 3 (effective May 19, 2024).
+
+And a recurrent esophageal stricture is defined as the inability to maintain target esophageal diameter beyond 4 weeks after the target diameter has been achieved. 38 C.F.R. § 4.114, DC 7206, Note (4) (effective May 19, 2024). Finally, a refractory esophageal stricture is defined as the inability to achieve target esophageal diameter despite receiving no fewer than 5 dilatation sessions performed at 2-week intervals. 38 C.F.R. § 4.114, DC 7206, Note (5) (effective May 19, 2024).
+
+However, Because the Board is limited to considering the evidence at the time of the July 2023 Rating Decision on appeal, the Board cannot consider the revised regulations in its decision and further discussion is not warranted. 38 U.S.C. § 5110(g).
+
+Factual Background
+
+The Veteran is currently rated at 10 percent disabled for his GERD disability, and he seeks a higher rating. The Veteran contends he has heartburn, acid reflux with pain radiating into his shoulder, a sore throat with painful swallowing, upper abdominal pain, nausea, changes in his voice with hoarseness, dark colored stool, and tooth enamel damage from stomach acid coming into his mouth. Additionally, he has pain in his chest, arm, and shoulder when his GERD symptoms flare up. He is not able to sleep more than three straight hours due to being awakened by his GERD symptoms. And he cannot lie down soon after eating without making his regurgitation worse. Finally, he takes pantoprazole twice a day. See October 2022 Lay Statement; May 2023 Lay Statement.
+
+This appeal constitutes a non-initial appeal of the July 2023 rating decision by the AOJ, as such, the Board will consider evidence from the date the Veteran filed his Claim (October 14, 2022) to the date of the AOJ's decision (July 18, 2023) with a one-year lookback period (October 14, 2021). Per 38 C.F.R. § 3.400(o)(2) and Gaston v. Shinseki, 605 F.3d 979 (2010), there is a one-year lookback period for non-initial claims for an increased rating, such as in this case. Therefore, the Board must consider whether an increase in disability occurred at any time from October 14, 2022.
+
+Relevant to the appeal period, the record includes a February 2023 VA examination, a June 2023 VA examination, a May 2023 private opinion, and VA treatment records from March 2022 and March 2023. 
+
+Beginning with the February 2023 VA examination, the examiner notes the Veteran's symptoms as worsening. And the Veteran reports having to take medication multiple times per day, waking with pyrosis (heartburn) which causes him to have substernal pain (chest pain). Additionally, the examiner notes the Veteran's 2003 endoscopy demonstrating a nonerosive esophagitis. See February 2023 VA Examination. 
+
+At the June 2023 VA examination, the examiner notes the Veteran's symptoms as worsening. The Veteran reports recently switching medications from omeprazole to pantoprazole because his symptoms were not well controlled. He reports his current symptoms to include a burning sensation in his chest (pyrosis/heartburn), substernal pain, reflux, regurgitation, and nausea. Additionally, he has sleep disturbances a couple of times a week due to his GERD and states that even with the new medication, his symptoms are not well controlled. See June 2023 VA Examination. 
+
+And both VA examiners note the Veteran does not have esophageal stricture, spasm of esophagus (cardiospasm or achalasia); an acquired diverticulum of the esophagus or malignant neoplasm or metastases; and found no functional impact on his ability to work. See February 2023 VA Examination; See June 2023 VA Examination.
+
+In reviewing the Veteran's VA treatment records, in March 2022, the Veteran reports stable acid reflux; and denies weight loss within the last three months and dental problems limiting his ability to bite or chew food. See March 2022 VA Treatment Records. And in March 2023, the Veteran denies bloody stool, weight loss within the last three months, dental problems limiting his ability to bite or chew food, fatigue, change in appetite, abdominal pain, change in bowel habits, diarrhea, frequent heartburn, nausea, and vomiting; but reports constipation and bloating beginning after his hernia repair. During this appointment, the Veteran's provider changed the Veteran's medication to pantoprazole three times a day. See March 2023 VA Treatment Records.
+
+Turning to the May 2023 private opinion, the practitioner urges assignment of a 60 percent rating for the Veteran's disability stating the Veteran should be evaluated holistically by reviewing the Veteran's physical symptoms, the psychological impact of his symptoms, and the effects on his behavior. And notes the Veteran's reports of abdominal pain, hoarseness or voice changes, chronic cough, vitamin deficiencies due to limited food choices, and tooth enamel erosion. See May 2023 Private Opinion. 
+
+Analysis
+
+As noted above, the Veteran is currently rated at 10 percent disabled for his GERD disability, and he seeks a higher rating. He states his GERD is worse than currently rated and his symptoms are not well controlled with medication. See October 2022 Lay Statement; May 2023 Lay Statement; June 2023 VA Examination. 
+
+The Board finds the Veteran's GERD more nearly approximates symptoms productive of considerable impairment of health because he reports dysphagia, pyrosis, and regurgitation, accompanied by substernal pain; but he does not report vomiting, material weight loss, or hematemesis. 38 C.F.R. § 4.114, DC 7346, 7203.
+
+The Board notes a key difference between a 10 percent and 30 percent rating is the severity of GERD symptoms. A 10 percent rating is warranted for symptoms of less severity and a 30 percent rating is warranted for symptoms productive of considerable impairment of health. Again, the term "considerable" is defined as large in extent or degree. 38 C.F.R. § 4.114, DC 7346, 7203; Merriam-Webster's Collegiate Dictionary 267 (11th ed. 2012).
+
+As discussed above, during the two VA examinations, the Veteran reports pyrosis, and regurgitation, accompanied by substernal pain. Additionally, both VA examiners note the Veteran's symptoms are worsening but do not impact his ability to work. And the Veteran's VA treatment records demonstrate he denies vomiting and there is no evidence demonstrating he suffers from anemia. See VA Treatment Records. Although the Veteran reports having dark colored stool in his October 2022 and May 2023 statements, he denies having bloody stool in March 2023. See October 2022 Lay Statement; May 2023 Lay Statement. 
+
+Additionally, although the Veteran reports taking medications to alleviate his symptoms, the Board is obligated to discount the beneficial effects of medications taken for his GERD and evaluate the baseline severity of the disability. See Ingram v. Collins, No. 23-1798, Vet. App. 19 (March 2025). And, as noted above, his symptoms have worsened even with medication. Thus, the Veteran's GERD symptoms more nearly approximate a 30 percent rating productive of considerable impairment of health. 38 C.F.R. § 4.114, DC 7346, 7203.
+
+The Board finds both the February 2023 and June 2023 VA examinations to be competent and credible. Both examiners reviewed the Veteran's medical history and considered his reported symptoms in concluding his GERD disability worsened. Thus, the Board awards both examinations considerable weight. Gabrielson v. Brown, 7?Vet. App.?36, 39 (1994); Gilbert v. Derwinski, 1?Vet. App.?49, 57 (1990).
+
+However, the Board finds the May 2023 private examination to be less persuasive. VA is charged with determining disability ratings by comparing the Veteran's reported symptoms with those outlined in the diagnostic codes for each disability. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. In doing so, the Board considers the Veteran's entire medical history with a focus on the evidence pertinent to the rating criteria which predominantly reflects the Veteran's disability and the severity of his symptoms during the appeal period. Schafrath v. Derwinski, 1 Vet. App. 589 (1991); Gonzales v. West, 218 F. 3d 1378 (Fed. Cir. 2000); 38 C.F.R. §§ 4.1, 4.2, 4.41,4.114.
+
+As noted above, the regulations contemplate a common disability picture when analyzing diseases of the digestive system-but symptoms of abdominal distress or pain, anemia and disturbances in nutrition do not lend themselves to distinct and separate disability evaluations without violating the fundamental principle against pyramiding. Esteban v. Brown, 6?Vet. App.?259, 262 (1994); 38 C.F.R. §§ 4.14, 4.113. 
+
+Additionally, the practitioner considers the Veteran's symptoms of hoarseness or voice changes, chronic cough, vitamin deficiencies due to limited food choices (which is considered by the rating criteria see 38 C.F.R. §§ 4.14, 4.113), and tooth enamel erosion to be probative of the Veteran's GERD. However, for VA compensation purposes, these symptoms are not listed in the diagnostic code and to consider them with the Veteran's GERD disability would be to violate the Board's prohibition against pyramiding. Esteban v. Brown, 6?Vet. App.?259, 262 (1994); 38 C.F.R. §§ 4.14, 4.113. Rather, these symptoms may be considered as secondary to the Veteran's GERD disability as discussed below. See Bailey v. Wilkie, 33 Vet. App. 188, 201 (2021). Accordingly, the Board finds the May 2023 private examination to be less persuasive and awards it little weight. Gabrielson v. Brown, 7?Vet. App.?36, 39 (1994); Gilbert v. Derwinski, 1?Vet. App.?49, 57 (1990). 
+
+Accordingly, the Board finds a 60 percent rating is not warranted. Because the Veteran does not report vomiting, material weight loss, or hematemesis, he does not meet the rating criteria for a 60 percent rating productive of severe impairment of health. 38 C.F.R. § 4.114, DC 7346, 7203; Merriam-Webster's Collegiate Dictionary 1140 (11th ed. 2012). Additionally, he reports his acid reflux is stable with medication. See March 2022 VA Treatment Records. As noted above, the Veteran takes medication for his GERD, and the Board has considered the beneficial effects of his medication in determining that the Veteran does not meet the criteria for a severe impairment. See Ingram v. Collins, No. 23-1798, Vet. App. *18 (2025).
+
+Finally, although the Board considered a staged rating, as noted above, the Veteran's symptomatology and functional impact more closely approximates to a 30 percent rating during the period on review (October 14, 2021 to July 18, 2023), due to his reports of dysphagia, pyrosis, and regurgitation, accompanied by substernal pain. Hart v. Mansfield, 21?Vet. App.?505 (2007).  
+
+The Board acknowledges the Veteran's contentions of experiencing pyrosis/heartburn; substernal, arm and shoulder pain; reflux; regurgitation; nausea; sleep disturbances; as well as abdominal pain; hoarseness or voice changes; and chronic cough. See October 2022 Lay Statement; May 2023 Lay Statement; February 2023 VA Examination; June 2023 VA Examination. The Veteran is competent to make these assertions based on his observable symptomatology and the Board finds his statements credible. See Layno v. Brown, 6?Vet. App.?465, 469 (1994). 
+
+However, the Veteran is not competent to identify a specific level of disability according to the appropriate diagnostic codes or diagnose vitamin or tooth enamel erosion. Thus, the Board affords greater probative value to the VA examiners and treating physicians who have greater training and expertise than the Veteran in assessing his GERD. See Layno v. Brown, 6?Vet. App.?465, 469 (1994); Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Jandreau v. Nicholson, 491 F.3d 1372, 1376-77 (Fed. Cir. 2007); Kahana v. Shinseki, 24 Vet. App. 428 (2011).
+
+Considering all relevant evidence of record, the Board concludes the Veteran's GERD more nearly approximates symptoms of considerable impairment of health throughout the appeal period, warranting a disability rating of 30 percent. And the Board finds the Veteran's GERD did not more nearly approximate a combination of symptoms productive of severe impairment of health at any time during the appeal period. 38 C.F.R. § 4.114, DC 7346, 7203.
+
+Accordingly, the most probative evidence of record persuasively supports the claim, and the benefit-of-the-doubt rule does not apply. See Lynch v. McDonough, 999 F.3d 1391 (Fed. Cir. 2021); Gilbert v. Derwinski, 1?Vet. App.?49, 53 (1990). The Veteran's GERD more nearly approximates symptoms productive of considerable impairment of health throughout the appeal period, warranting a 30 percent rating, but no higher; and his appeal is granted. 
+
+REASONS FOR REMAND
+
+The Veteran asserts he suffers from chronic cough, and tooth enamel damage from stomach acid coming into his mouth secondary to his GERD disability. See May 2023 Private Opinion; October 2022 Lay Statement; May 2023 Lay Statement.
+
+Under the AMA, unless the claim on appeal can be granted in full, the Board shall remand the appeal to the AOJ for correction of an error by the AOJ which occurred prior to the rating decision on appeal, including those relating to VA examinations. The Board may also remand for correction of any other error by the AOJ to satisfy a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the Veteran's claim. See 38 C.F.R. § 20.802.
+
+And VA is obligated to develop and adjudicate claims for secondary service connection that are reasonably raised during the processing of a properly initiated claim as to the primary service-connected disability's evaluation level. See Bailey v. Wilkie, 33?Vet. App.?188, 202-03 (2021) (holding the Board is required to develop and adjudicate related claims for secondary service connection for disabilities that are reasonably raised during the adjudication of a formally initiated claim for an increased rating for a primary service-connected disability); Wilson v. McDonough, 35?Vet. App.?103, 105 (2022) (finding Board error in a failure to address a claim of peripheral vestibular disease and dizziness as a secondary service connection claim within the scope of an increased rating claim.)   
+
+Here, there is not enough evidence to adjudicate a claim for secondary service connection for the Veteran's claimed chronic cough and tooth enamel damage; and the Veteran's statements were received by VA prior to the July 2023 AOJ decision on appeal. 
+
+Accordingly, a secondary service-connection claim for chronic cough and tooth enamel damage associated with the Veteran's GERD disability is bifurcated from the Veteran's increased rating claim for GERD, as raised by the record, and the claim must be remanded for additional evidentiary development. See Bailey v. Wilkie, 33 Vet. App. 188, 201 (2021); 38 C.F.R. § 21.1032.
+
+The matters are REMANDED for the following action:
+
+Obtain an opinion from an appropriate clinician regarding the nature and etiology of the Veteran's claimed chronic cough and tooth enamel disability. If an opinion cannot be provided without an examination, the Veteran should be scheduled for a new examination.
+
+Based on a review of the record, and if necessary, a new examination, the examiner is asked to respond to the following for both of the Veteran's claimed disabilities:
+
+(a.) Determine whether it is at least as likely as not (i.e., likelihood is at least approximately balanced or nearly equal) that the Veteran's service-connected disabilities caused his claimed chronic cough and tooth enamel disability, including his GERD disability. Why or why not?
+
+(b.) Determine whether it is at least as likely as not (i.e., likelihood is at least approximately balanced or nearly equal) that medication the Veteran takes for his service-connected disabilities caused his claimed chronic cough and tooth enamel disabilities, including omeprazole and pantoprazole. Why or why not?
+
+(c.) Determine whether it is at least as likely as not (i.e., likelihood is at least approximately balanced or nearly equal) that medication the Veteran takes for his service-connected disabilities aggravated his claimed chronic cough and tooth enamel disabilities, including omeprazole and pantoprazole. Why or why not?
+
+A complete medical rationale for all opinions expressed must be provided.
+
+The term "incremental increase in disability" means additional impairment of earning capacity. Objective measurement, or numerical quantification, is not required to ascertain an increase in disability.
+
+The term "at least as likely as not" does not mean "within the realm of medical possibility." Rather, it means that the weight of medical evidence both for and against a conclusion is so evenly divided that it is as medically sound to find in favor of the conclusion (e.g., diagnosis, etiology) as it is to find against the conclusion.
+
+The examiner is advised that the Veteran is competent to report his symptoms and history, and such reports must be acknowledged and considered in formulating any opinion.
+
+The examiner should also be aware that in rendering an opinion, it must "contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two." See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008).
+
+Furthermore, if medical literature is relied upon in rendering this determination, the VA examiner should identify and specifically cite each reference material utilized.
+
+Citation to accepted medical literature and principles would be of great assistance to the Board. If the medical professional is unable to provide any opinion without resorting to speculation, he or she must explain why this is so.
+
+ 
+
+ 
+
+T. Berry
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	L. Davidson
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

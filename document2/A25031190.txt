@@ -1,0 +1,91 @@
+Citation Nr: A25031190
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240612-445628
+DATE: April 3, 2025
+
+ORDER
+
+A rating for asthma in excess of 30 percent is denied.
+
+FINDING OF FACT
+
+The evidence of record fails to show that the Veteran's asthma resulted in 55 percent or less of the FEV-1 predicted or FEV-1/FVC values, or any episodes of respiratory failure, or at least 3 intermittent courses of systemic corticosteroids per year, or monthly visits to a physician for required care of exacerbations, or daily use of high dose systemic corticosteroid or immuno-suppressive medications. 
+
+CONCLUSION OF LAW
+
+The criteria for rating asthma in excess of 30 percent have not been met. 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.21, 4.96, 4.97, Diagnostic Code (DC) 6602.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran honorably served on active duty from January 2007 to January 2012. Since August 2020, he has continuously pursued his supplemental claim for a non-initial rating increase for asthma in excess of 30 percent. In its most recent June 2023 rating decision, the Regional Office (RO) denied an evaluation of asthma in excess of 30 percent. The Veteran appealed, electing the Board's Direct Review. 
+
+Under the laws, regulations, and rules governing the Board's Direct Review, the Board's decision will be based on the evidentiary record deemed closed as of the date on which the agency of original jurisdiction (AOJ) issued its notice of the decision that is on appeal. 38 C.F.R. § 20.301.  Any evidence received thereafter, if the Veteran so wishes, may be considered upon filing a supplemental claim with the AOJ. 38 C.F.R. § 3.2501. To this end, the Veteran is encouraged to consult with his representative. 
+
+Upon turning to the merits of the claim, the Board defers to the RO's favorable finding that rating the Veteran's asthma at 30 percent throughout the rating period on appeal, namely from August 2020 to June 2023, is warranted.
+
+However, the evidentiary record before the Board, to include the Veteran's VA treatment records along with the reports of VA examinations in September 2020, October 2021, April 2022, and March 2023, shows that the severity levels of the Veteran's asthma most closely approximate the severity levels that are ratable at no higher than 30 percent and are incongruent with the severity levels for a higher rating. The Board will endeavor to explain. 
+
+The principal guide to evaluating disabilities is the VA rating schedule, as codified in 38 C.F.R. Part 4, that is intended, insofar as practicable, to represent the average impairment in earning capacity in civil occupations, due to limitations imposed by service-connected disabilities. 38 C.F.R. § 4.1. The schedule is organized by body systems subdivided into the diagnostic codes (DCs) setting forth specific criteria such as anatomical localization, diagnoses, signs, symptoms, treatments, and/or the resulting functional impairments, based on which a specific rating percentage is ultimately assigned. 
+
+Asthma is evaluated based on the criteria listed under the diagnostic code (DC) 6602 of the schedule for rating respiratory disorders and may be rated on the basis of the pulmonary function testing (PFT) results, or frequency and character of the asthma attacks, or the type and frequency of the required treatment, as follows. See 38 C.F.R. § 4.97.
+
+A 10 percent is assigned for FEV-1 (Forced Expiratory Volume in one second) of 71 to 80 percent predicted, or FEV-1/FVC (ratio of Forced Expiratory Volume in one second to Forced Vital Capacity) of 71 to 80 percent, as based on a pulmonary function testing (PFT); or based on intermittent inhalational or oral bronchodilator therapy. 38 C.F.R. § 4.97, DC 6602. For rating purposes based on the PFT results, the post-bronchodilator values are used, unless the pre-bronchodilator results are normal or greater than the post-bronchodilator results. 38 C.F.R. § 4.96(d)(4)-(5). In those cases, the pre-bronchodilator values are used for rating purposes. Id. In cases where the evaluation is based on the PFTs and there is a disparity between the different PFT data, the test result the examiner states most accurately reflects the disability level is to be used. See 38 C.F.R. § 4.96(d)(6). 
+
+A 30 percent is assigned for FEV-1 predicted or FEV-1/FVC of 56 to 70 percent, or based on daily inhalational or oral bronchodilator therapy, or inhalational anti-inflammatory medication. Id.
+
+A 60 percent is assigned based on the FEV-1 predicted or FEV-1/FVC of 40 to 55 percent; or based on at least monthly visits to a physician for required care of exacerbations; or based on intermittent (at least three per year) courses of systemic (oral or parenteral) corticosteroids.  Id. Of note, for rating purposes under DC 6602 based on corticosteroids therapy, the regulations clearly distinguish "systemic (oral or parenteral) corticosteroids" that affect the body as a whole from the inhaled type of medications, such as budesonide and albuterol inhalers, having only a localized effect on the respiratory and pulmonary functions of the body in the bronchi and/or lungs. See Johnson v. Shulkin, 862 F.3d 1351, 1355 n.2 (Fed. Cir. 2017).
+
+A total rating is assigned based on the FEV-1 predicted or FEV-1/FVC less than 40 percent; or based on more than one attack per week with episodes of respiratory failure; or based on daily use of systemic high-dose corticosteroids (oral or parenteral) or immuno-suppressive medications. Id. 
+
+To that end, it is not expected that all of the listed rating criteria for the particular rating percentage will be met in every case presenting the Board with the unique set of factual circumstances of each veteran. 38 C.F.R. § 4.21. As such, the Board ensures that all of its decisions are equitable and just. 38 C.F.R. § 4.6. To this end, when a reasonable doubt as to the degree of disability arises, such doubt is resolved in the Veteran's favor. 38 C.F.R. § 4.3. Further, in cases where the severity levels of the disability on review do not squarely meet the criteria listed for particular rating percentage but do approximate the criteria for the higher rating percentage more closely than for the lower rating, the higher rating is assigned. See 38 C.F.R. § 4.7. 
+
+Of note, however, these general principles in evaluating disabilities do not permit the Board to deflate the foundational legal criteria or overinflate the facts shown by the evidence of record. Rather, a specific rating percentage is ultimately assigned based on whichever rating criteria most closely approximates the disability picture on review, as shown by the evidence of record. Id. 
+
+This ultimately means that the schedule provides for two ratings for asthma in excess of 30 percent the Veteran is seeking, namely at 60 or at 100 percent, each of which will be discussed below. 
+
+Establishing entitlement to 60 percent requires the Veteran's FEV-1 predicted or FEV-1/FVC to be shown at no greater than 55 percent; or at least monthly visits to a physician for required care of exacerbations; or three or more courses of systemic corticosteroids per year. To this end, the evidence of record fails.
+
+Specifically, a rating for asthma in excess of 30 percent based on the Veteran's PFT results may not be assigned. The spirometric data of record reflects that his FEV-1 predicted value was shown at 67 percent and FEV-1/FVC at 82 percent in March 2023; 65 and 79 percent shown in April 2022; 87 and 82 percent shown in October 2021; and 79 and 83 percent shown in September 2020. These results, to include the lowest and thus most favorable FEV-1 value of 65 percent as shown in April 2022, are substantially above the regulatory threshold set at 55 percent for rating asthma in excess of 30 percent which thus is not warranted based on the Veteran's PFT results.
+
+Likewise, unless it is shown that asthma management requires at least monthly visits to a physician for required care of exacerbations, a rating at 60 percent may not be assigned based on the type and frequency of treatment by a physician. The Board does note that the Veteran began receiving injections of omalizumab (Xolair) approximately every four to five weeks beginning in January 2022. However, as reflected in a March 2023 VA examination addendum report, the examiner explains that Xolair is a long-term medication and is not for care of asthma exacerbations. The examiner also explains that this drug may be self-administered, which largely aligns with the Veteran's VA treatment records, apart from an annotation that the three introductory doses require clinical observation for 2 hours after injection administrations. Beyond that titration period, the Veteran's visits for injections by a nurse, apparently are elective and not required at all, let alone "visits to a physician for required care of exacerbations." By implication, a rating at 60 percent may not be assigned on the basis of the Veteran's monthly visits to a nurse for his Xolair injections.
+
+Further, unless the evidence shows at least three requisite courses of systemic corticosteroids per year, a rating at 60 percent may not be assigned. Xolair is not corticosteroid and therefore falls outside the scope of the criteria for 60 percent. The record is devoid of any evidence to the contrary.
+
+Furthermore, although the Veteran's daily Symbicort does contain corticosteroids, his particular regimen has only localized anti-inflammatory impact on his airways and therefore is not classified as "systemic corticosteroids" such prednisone or solu-medrol taken intravenously or orally and swallowed. This much is reflected in the March 2023 addendum report which has not been challenged by the Veteran or his representative. Absent any affirmative evidence to the contrary, the Board finds that the discussed evidence of record fails to support the legal criteria for rating asthma at 60 percent.
+
+This finding leaves the Board with consideration of a total rating which may not be assigned, unless the evidence shows the FEV-1 predicted or FEV-1/FVC to be less than 40 percent; or at least two asthma attack per week with episodes of respiratory failure; or requiring daily use of systemic high-dose corticosteroids or immuno-suppressive medications. 
+
+Yet, as discussed, the most favorable PFT results of record, showing the Veteran FEV-1 at 65 percent predicted in April 2022, are substantially above the regulatory threshold at 40 percent required for a total rating. Further, the record is devoid of any episodes of respiratory failure, which is required for a total rating but has not been shown, suggested, or even alleged in this case. Likewise, the record is devoid of any evidence showing that the Veteran's asthma requires daily use of systemic high-dose corticosteroids or immuno-suppressive medications. Per VA examiner, the only daily medication for asthma the Veteran uses is Symbicort which is daily inhaler medication containing corticosteroids that are neither systemic nor high dose. The Veteran and his representative have not pointed out any evidence to the contrary.  
+
+Rather, as reflected in a June 2024 correspondence enclosed with the Veteran's notice of disagreement (VA Form 10182), his representative points out that the Veteran's monthly injections of Xolair. The representative acknowledges that this monoclonal antibody treatment is not specifically listed under Diagnostic Code 6602 for asthma, but notes that DC 6602 does provide for a total (100 percent) rating based on "high dose corticosteroids or immuno-suppressive medications." None of this is in dispute here.
+
+With that, however, the representative contends that the Veteran's circumstances most closely approximate the criteria for a total rating which thus should be assigned pursuant to the regulatory provisions of 38 C.F.R. § 4.7 and § 4.21. The Board disagrees.
+
+Unfortunately, in quoting the criteria for a total rating, the representative overlooks that "high dose corticosteroids or immuno-suppressive medications" is preceded by the qualifying regulatory phrase requiring "daily use" of such medications, which means that all of the listed criteria must be satisfied. The monthly frequency of the Xolair injections clearly fails to satisfy this regulatory requirement for a daily use and therefore clearly does not approximate the rating criteria for a total rating more closely than for the lower rating percentages contemplating an intermittent use of medications. 
+
+By implication, the representative's reliance on § 4.7 and § 4.21 is misplaced. As discussed, § 4.21 explains that not all legal criteria are expected to be satisfied in every case. This is why § 4.7 provides for resolving a question between the higher and the lower rating to be assigned in cases where such question arises. In this case, however, no such question has arisen. 
+
+Moreover, § 4.21 is clear that coordination of rating with impairment of function will be expected in all instances. This essentially means that the rating criteria should not be applied mechanically in any case and the focus of the inquiry must be placed on the functional impairment, as contemplated by the rating schedule, in every case. Of note here is the regulatory distinction between corticosteroids and immuno-suppressive medications, as readily apparent from the regulations read as a whole. A rating for asthma at 60 percent is clearly limited to intermittent courses of systemic corticosteroids. As such, any non-systemic and/or non-corticosteroid medications may not be reasonably construed as "systemic corticosteroids." From the criteria for a total rating, it is further readily apparent that administration of any medication that is not "systemic," and/or somewhat lesser than "high dose," and/or any less frequent than "daily," is not ratable as totally disabling.
+
+Furthermore, the March 2023 addendum report reflects the uncontested medical opinion that the daily Symbicort inhaler is neither systemic nor high dose, while Albuterol and Xolair are not daily. To this end, as noted by the representative, Xolair is "monoclonal antibody treatment," which implies that Xolair acts on the body's very specific immune response to very specific allergens and therefore functionally is a preventative anti-inflammatory medication. By implication, Xolair does not compromise the body's immune system as a whole like systemic immuno-suppressant medication do, weakening the body's immune system ability to fight off viral and bacterial infections. As such, Xolair is not immunogenic or systemic. Given the monthly frequency of the Veteran's Xolair injections alone falls far too short of the daily use required for a total rating, which is conclusively dispositive here. 
+
+Ultimately, the Veteran's PFT results fall within the ranges ratable at no higher than 30 percent. His daily use of Symbicort inhaler containing corticosteroids is not systemic and also falls squarely fall within the criteria for 30 percent. His Albuterol inhaler required less frequently than daily is ratable at no higher than 10 percent. His even less frequent monthly Xolair treatment is neither daily nor corticosteroid, nor immuno-suppressive, nor systemic, and thus does not even remotely, let alone most closely, approximate the criteria for a total rating. Rather, its intermittent frequency is ratable at no higher than 10 percent and its anti-inflammatory impact most closely approximates the criteria for 30 percent. This finding ultimately leaves the Board without any factual circumstances that may reasonably support the legal basis for rating the Veteran's asthma in excess of 30 percent. 
+
+No other material issues have been raised by the Veteran and his representative, or reasonably raised by the evidence of record. 
+
+Accordingly, the appeal is denied.
+
+ 
+
+ 
+
+MATTHEW W. BLACKWELDER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Alex Bardin, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

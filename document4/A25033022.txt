@@ -1,0 +1,91 @@
+Citation Nr: A25033022
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240726-458952
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran does not have a current left ear hearing loss disability for VA purposes.
+
+2. The Veteran's right ear hearing loss manifested more than one year after separation and is not shown to be causally or etiologically related to service.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for bilateral hearing loss have not been met.  38 U.S.C. §§ 1110, 1112, 1154, 5107(b); 38 C.F.R. §§ 3.102, 3.303, 3.304(d), 3.307, 3.309, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service with the United States Army from October 2009 to December 2012.  This case comes before the Board of Veterans' Appeals (Board) on appeal from a January 2024 rating decision of a Department of Veterans Affairs (VA) Agency of Original Jurisdiction (AOJ).
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the January 2024 AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  The three-element test for service connection requires evidence of: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).  
+
+In determining whether service connection is warranted for a disability, VA must determine whether the evidence supports the claim or is in approximate balance, with the Veteran prevailing in either event.  The evidence is not in approximate balance, or nearly equal, when the evidence persuasively favors one side or the other.  See Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).  
+
+Lay assertions may serve to support a claim for service connection by establishing the occurrence of observable events or the presence of disability or symptoms of disability that are subject to lay observation.  38 U.S.C. § 1153 (a); 38 C.F.R. § 3.303 (a); Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007); Buchanan v. Nicholson, 451 F.3d 1331, 1336 (Fed. Cir. 2006).
+
+Some chronic diseases, including organic diseases of the nervous system like sensorineural hearing loss, may be presumed to have been incurred in service, if they become manifest to a degree of ten percent or more within the applicable presumptive period.  38 U.S.C. §§ 1101(3), 1112(a); 38 C.F.R. §§ 3.307(a), 3.309(a).  For those listed chronic conditions, a showing of continuity of symptoms affords an alternative route to service connection.  38 C.F.R. § 3.303 (b); Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).  The applicable presumptive period for sensorineural hearing loss is one year from separation.
+
+The Veteran contends that he has bilateral hearing loss related to his active service.
+
+The determination of whether a veteran has a disability based on hearing loss is governed by 38 C.F.R. § 3.385, which states that impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.
+
+The Veteran was afforded a VA audiological examination in January 2024.  The testing revealed speech recognition ability of 98 percent in the left ear and 100 percent in the right ear.  Auditory threshold testing revealed:
+
+	HERTZ
+
+	500	1000	2000	3000	4000
+
+LEFT	25	25	25	30	30
+
+RIGHT	25	25	30	30	30
+
+Left Ear
+
+The Veteran's January 2024 VA examination does not show impaired hearing in the left ear that meets the requirements of 38 C.F.R. § 3.385, and there is no hearing test of record that contradicts this.  The evidence is against a finding that the Veteran has a left ear hearing loss disability by VA standards.  See 38 C.F.R. § 3.385.
+
+The existence of a current disability is the cornerstone of a claim for VA disability compensation, and in the absence of proof of a present disability, there can be no valid claim.  See Degmetich v. Brown, 104 F.3d 1328 (Fed. Cir. 1997).  Therefore, service connection is not warranted for left ear hearing loss.
+
+Right Ear
+
+The Veteran's January 2024 VA examination shows impaired hearing in the right ear that meets the requirements of 38 C.F.R. § 3.385.  Further, the AOJ made a favorable finding that the Veteran has a right ear hearing loss disability.  In addition, in-service acoustic trauma has been conceded based on the Veteran's military occupational specialty (MOS).  The Board is bound by these favorable findings.  38 C.F.R. § 3.104.  The first two elements for service connection have been met.  
+
+The remaining question is whether the in-service noise exposure at least as likely as not caused the Veteran's right ear hearing loss.
+
+Service treatment records (STRs) are silent for any complaints related to hearing loss or ear trauma.  The Veteran's audiograms conducted in October 2009 at entrance and in June 2012 at separation do not show hearing loss; there are minor shifts in thresholds, both positive and negative, between entry and separation. In his June 2012 report of medical history, the Veteran reported no hearing loss.
+
+In a February 2015 statement, received in April 2015, the Veteran reported that he noticed hearing loss in service when exposed to loud noise. It had persisted since active-duty service.  In a September 2021 statement, the Veteran reported that while in service he was exposed to loud equipment and tools, explosives, and hours at the shooting range without hearing protection.
+
+VA treatment records are silent for any complaints of or treatment for hearing loss.  No private treatment records are associated with the claims file or identified by the Veteran related to any treatment for hearing loss.
+
+At a July 2016 VA examination, the Veteran's audiogram did not show impaired hearing that met the requirements of 38 C.F.R. § 3.385.  Additionally, the VA examiner opined that hearing loss noted in frequencies of 6000 Hz or higher was less likely than not caused by or the result of military service.  The VA examiner reasoned that the Veteran's hearing was within normal limits at entrance and separation from service, and based on current medical literature, there is an insufficient scientific basis to conclude that permanent hearing loss directly attributable to noise exposure will develop long after noise exposure.  
+
+A January 2024 VA examiner reached a similar conclusion, reasoning that in-service testing showed no significant threshold shifts from entrance to separation, beyond test variability. The Veteran did not report hearing problems in service, though he reported onset in service at the examination. He also denied any noise exposure post-service. While noise exposure is established, there was no showing of corresponding damage at the time of such.
+
+The Board assigns great probative value to the VA examiners' opinions. The VA examiners both reviewed the STRs and concluded that there was no shift in hearing thresholds from entrance to separation, which was objective evidence of no permanent auditory damage on active duty from conceded noise. The Board notes that the largest shifts, at 6000 Hz, showed improvement of 15 to 20 decibels from entry to separation, further supporting the rationales offered.
+
+The Board acknowledges the Veteran's assertions that his bilateral hearing loss is related to service, but he is not considered competent to opine that his hearing loss is related to service as opposed to other factors.  Such an opinion lies outside his knowledge and expertise as a layperson.  See Kahana v. Shinseki, 24 Vet. App. 428 (2011).  He is not reporting a directly observed cause and effect relationship; he is applying reasoning and logic to draw conclusions of a medical nature.  His belief is not entitled to any probative weight in this case.  
+
+Additionally, while the Veteran has complained of progressive hearing loss that began in-service, there is no medical evidence to support his contention that he had hearing loss in service or within one year of separation from service, or that his reported symptoms are related to his current hearing loss. As is noted above, the objective testing refutes his assertions. While it is possible he experienced a temporary dip in acuity at the time of noise exposure, as he reports in February 2015, the examiners have found that such did not result in a chronic loss.  
+
+Without any competent medical evidence establishing a nexus between the Veteran's current right ear hearing loss and in-service noise exposure, there is no basis to grant entitlement to service connection.  In reaching this conclusion, the Board has considered the applicability of the benefit of the doubt doctrine; the evidence is persuasively against the Veteran's claim, and the doctrine is not applicable. 38 U.S.C. § 5107(b).  The appeal is denied.
+
+ 
+
+WILLIAM H. DONNELLY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Welsh, Brigid C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

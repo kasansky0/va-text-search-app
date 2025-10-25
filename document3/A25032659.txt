@@ -1,0 +1,75 @@
+Citation Nr: A25032659
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240626-451232
+DATE: April 9, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea (OSA) is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran served on active duty from July 2006 to November 2009. 
+
+2. OSA was not shown in service, is not causally or etiologically related to service, and was not caused by or permanently worsened in severity by a service-connected disability.
+
+CONCLUSION OF LAW
+
+OSA was not incurred in service and is not proximately due to, aggravated by, or the result of a service-connected disability. 38 U.S.C. §§ 1110, 5103(a), 5103A, 5107 (2012); 38 C.F.R. §§ 3.159, 3,303, 3.310 (2024).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+This decision has been written under the guidelines of the Veterans Appeals Improvement and Modernization Act, also known as the Appeals Modernization Act (AMA). In June 2023, the agency of original jurisdiction (AOJ) denied the claim. In June 2024, the Veteran appealed to the Board via a Form 10182 and elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal. 38 C.F.R. § 20.301.
+
+Turning to the relevant laws and regulations, service connection may be granted on a direct basis as a result of disease or injury incurred in service based on nexus using a three-element test: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred in or aggravated by service.  See 38 C.F.R. §§ 3.303(a), (d); Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009). 
+
+Service connection may be granted on a secondary basis for a disability which is aggravated by, proximately due to, or the result of a service-connected disease or injury under 38 C.F.R. § 3.310.  Allen v. Brown, 7 Vet. App. 439 (1995).  In order to establish service connection on a secondary basis, there must be (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) medical evidence establishing a link between the service-connected disability and the current disability.  See Wallin v. West, 11 Vet. App. 509, 512 (1998).
+
+The Board also notes the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act) created a new presumption for service connection for certain conditions based on exposure to burn pits and other toxins (BPOT) and added new examination requirements where toxic exposure risk activities (TERA) were implicated. 38 U.S.C. § 1119.
+
+Turning to the medical evidence, the Veteran was diagnosed with OSA in an April 2023 sleep study. As such, a current diagnosis is shown and the first element of service connection is met. 
+
+As to an in-service incurrence, the service treatment records (STRs) do not reflect complaints of, treatment for, or a diagnosis of OSA. Specifically, the Veteran did not report problems sleeping or still feeling tired after sleeping during a December 2008 post deployment health assessment or at a January 2009 post-deployment health re-assessment. 
+
+In July 2009, the Veteran reported having problems sleeping for the past month during the separation examination; however, the examiner noted that these sleep complaints should be followed up with a mental health evaluation. 
+
+The STRs contain no indication that sleep complaints were related to OSA. Further, the STRs do not reflect complaints of snoring, choking during sleep, daytime fatigue, or other symptoms reasonably associated with OSA. Accordingly, the medical evidence does not support the in-service incurrence of OSA. 
+
+Further, there are no medical opinions which support a nexus between current OSA and service. Therefore, the medical evidence does not support service connection for OSA on a direct basis. 
+
+Next, the Veteran contends that OSA is secondary to service-connected sinusitis. Weighing against the claim, a June 2023 VA examiner found it less likely than not that OSA was proximately due to or the result of a service-connected disability. The clinician explained that OSA and sinusitis were not medically related and that OSA was a separate entity entirely from chronic sinusitis. 
+
+Further, the examiner cited to medical literature which showed no causal relationship between OSA and chronic sinusitis. There are no conflicting medical opinions of record. Accordingly, the medical evidence does not support service connection on a secondary basis. 
+
+Next, the Veteran is presumed to have been exposed to toxins during active duty based on service in Iraq and Kuwait. As such, service connection based on participation in a TERA will be considered. 
+
+In a June 2023 medical opinion, a VA clinician concluded that OSA was less likely than not caused by TERAs after considering the total potential exposure through all deployments and the synergistic, combined effect of all TERAs of the Veteran. The examiner cited to a medical study which concluded that burn pit exposure did not influence OSA development in veterans who previously deployed. 
+
+Further, the clinician noted that more common causes of OSA were excess weight, obesity, narrow throat, allergies, smoking, and alcohol use. There are no conflicting medical opinions of record. As such, the medical evidence does not support OSA based on toxic exposure. 
+
+The Board has considered the Veteran's lay statements that the current OSA was caused by service. While he is competent to report symptoms as this requires only personal knowledge as it comes to him through his senses, he is not competent to offer an opinion as to the etiology of the current disorder due to the medical complexity of the matters involved. 
+
+Specifically, the Veteran is not competent to attribute the etiology of OSA to service-connected sinusitis or toxic exposure. Such competent evidence concerning the nature and extent of the Veteran's OSA has been provided by the medical personnel who examined him during the current appeal, and who rendered pertinent opinions in conjunction with the evaluations. 
+
+Their findings (as provided in the examination reports and other clinical evidence) directly address the criteria under which this disorder is evaluated. The VA medical professionals explained their reasoning based on an accurate characterization of the evidence. Therefore, the Board attaches greater probative weight to the clinical findings than to the lay statements regarding etiology. 
+
+In sum, after a careful review of the record, the evidence weighs persuasively against the claim for service connection and there is no doubt to be resolved. As such, the appeal is denied.  
+
+Finally, the Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record, for the Board's consideration.  See Doucette v. Shulkin, 28 Vet. App. 366, 369-370 (2017) (confirming that the Board is not 
+
+?
+
+required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).
+
+ 
+
+L. HOWELL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Kokolas, Thomas
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

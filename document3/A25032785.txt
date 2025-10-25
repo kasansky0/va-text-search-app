@@ -1,0 +1,75 @@
+Citation Nr: A25032785
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240402-459834
+DATE: April 9, 2025
+
+REMANDED
+
+The issue of entitlement to service connection for the cause of death is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from October 1959 to October 1962. The Veteran died in May 2018, and the Appellant is his surviving spouse.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a November 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO). 
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Appellant elected the Direct Review docket. The Board notes that while the Appellant initially submitted the April 2024 VA Form 10182 discussing numerous facts and arguments related to the Veteran's cause of death, she responded to the Board's June 2024 clarification letter with a July 2024 VA Form 10182 noting that she wished to appeal decisions from May 2019, October 2019, November 2022, and November 2023, and the issue of entitlement to service connection for cause of death and entitlement to Dependency and Indemnity Compensation (DIC) benefits. As the VA Form 10182 was submitted more than one year after the issuance of the May 2019 rating decision, October 2019 rating decision, and November 2022 notification letter identified by the Appellant, it cannot be considered a valid appeal of those decisions. Therefore, the Board docketed the only valid appeal arising from the April 2024 VA Form 10182, the Appellant's appeal of the November 2023 rating decision that denied service connection for cause of death. 
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+New evidence submitted with a VA Form 10182 on which the Direct Review option is selected creates uncertainty as to which Board review option the claimant intended, triggering the Board's duty to seek clarification under 38 C.F.R. § 20.202(f). See Edwards v. McDonough, 36 Vet. App. 56 (2023). However, the Board finds that clarification is not needed, as the evidence added to the claims file with the April 2024 VA Form 10182 consists of argument in support of the Appellant's appeal and evidence already associated with the claims file prior to the decision on appeal. Additionally, evidence added to the claims file with the July 2024 VA Form 10182 consists of argument in support of the Appellant's appeal, evidence already associated with the claims file prior to the decision on appeal, and evidence not relevant to the claim. Accordingly, the Board will proceed with direct review.
+
+Initially, the Board notes that in the November 2023 rating decision on appeal, the RO stated that evidence submitted did not constitute new and relevant evidence. See 38 C.F.R. § 3.2501. However, after the Appellant filed the October 2022 supplemental claim, the RO ordered further development of the claim, to include ordering new VA medical opinions. By affording the Appellant new VA opinions after she submitted her supplemental claim, the RO conducted a de facto reopening of the claim. See Falzone v. Brown, 8 Vet. App. 398, 404 (1995). Additionally, although stating that no new and relevant evidence was received, the RO readjudicated the claim in the November 2023 rating decision on appeal, considering a September 2023 VA medical opinion that was not part of the record at the time of the previous denial. By doing so, the RO de facto determined that new and relevant evidence had been submitted to reopen a previously denied claim of service connection for cause of death, adjudicated the decision on the merits, and continued the denial of the claim. The adjudication of the claim by the RO on the merits represents a de facto finding of new and relevant evidence sufficient to readjudicate the claim, which is also a favorable finding that is binding on the Board.
+
+Under the Appeals Modernization Act (AMA), the Board must remand appeals to the RO to correct pre-decisional duty to assist errors. See 38 C.F.R. § 20.802 (a). Remand is also appropriate for correction of any AOJ error in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the claim. Id. 
+
+The Veteran's death certificate lists his cause of death as respiratory failure due to septic shock, due to hemorrhagic shock, due to gastrointestinal hemorrhage, with diabetes mellitus and coronary artery disease being significant conditions contributing to death but not resulting in the underlying cause. An amendment to the Veteran's death certificate notes that chronic osteomyelitis of the right leg was also a significant condition contributing to death but not resulting in the underlying cause. 
+
+As part of developing the claim, VA prepared a Toxic Exposure Risk Activity (TERA) memorandum in June 2023 that found the Veteran did not participate in a TERA while in service. This memorandum contained no information about the Veteran's service. Another TERA memorandum was prepared in July 2023 that noted the Veteran's military occupational specialty (MOS) and his exposure to asbestos, finding that the Veteran participated in a TERA while in service.
+
+VA obtained opinions in June 2023 and September 2023 regarding the Veteran's service-connected disabilities and whether they related to, resulted in, contributed substantially to, or aided or lent assistance to his death. No medical opinions were obtained regarding whether the Veteran's respiratory failure, septic shock, hemorrhagic shock, gastrointestinal hemorrhage, diabetes mellitus, coronary artery disease, or chronic osteomyelitis of the right leg were related to his conceded TERA. In September 2023, VA ordered an opinion that considers the Veteran's TERAs. However, no opinion was actually obtained prior to the November 2023 decision on appeal.
+
+In August 2022, the SFC Heath Robinson Honoring Our PACT Act, Pub. L. 117-168, 136 Stat. 1759 ("PACT Act") was passed.  Under the PACT Act, VA is required to provide a disability examination and secure a medical nexus opinion when a veteran submits a compensation claim and has evidence of a disability and participation in a "toxic exposure risk activity," or TERA, but the evidence is not sufficient to establish service connection for the disability. See 38 U.S.C. § 1168(a). Although an examination in compliance with the PACT Act is not possible because the Veteran passed away in May 2018, the Board finds that VA should have obtained an adequate medical opinion to determine whether his cause of death was related to his conceded TERA to satisfy the duty to assist and the statutory duty created by the PACT Act. 
+
+Additionally, the Board finds that the medical opinions obtained by VA in June 2023 and September 2023 failed to adequately address all favorable opinions expressed by the Veteran's private physicians that his in-service right leg injury contributed to his cause of death. The record contains opinions provided by Dr. Salvatore in July 2018 and January 2019. The July 2018 opinion notes that the Veteran's circulation was compromised due to an injury during service, which resulted in frequent infections becoming more difficult to treat. The January 2019 opinion notes that the inability of the Veteran's leg to heal properly from surgery was due to poor circulation and atrophy of muscles which had its origin during active service. The record also contains an opinion provided by Dr. Cuadra in February 2019 that notes that vascular disease and the development of gangrene was contributory to the Veteran's death. The record also contains an opinion provided by Dr. Fishberg in February 2019 that notes that the Veteran's existing disability from previous injury led to inactivity which complicated his peripheral vascular disease with claudication, peripheral arterial disease, cardiomyopathy, and diabetes. They wrote that although the Veteran's in-service injury did not cause his death, they felt that inactivity was a key factor in his decline. The Board notes that none of these favorable opinions provided by the Veteran's private providers contain rationale sufficient to grant service connection for cause of death at this time.
+
+The June 2023 VA medical examiner only addressed the July 2018 opinion by Dr. Salvatore and the February 2019 opinion by Dr. Fishberg. The September 2023 VA medical examiner did not address any of these favorable opinions. On remand, the examiner should consider all these opinions.
+
+The Board recognizes that the Appellant's representative submitted argument in August 2024 that cites an article via hyperlink. In Bowey v. West, the U.S. Court of Appeals for Veterans Claims (CAVC) held the mere reference to non-VA documents is insufficient to incorporate them into the record. 11 Vet. App. 106, 108-09 (1998); see also Hilkert v. West, 12 Vet. App. 145, 151 (1999) ("Publications referred to or relied upon by expert witnesses are not publications before the Board."). The CAVC acknowledged that it "is not reasonable to expect the Secretary or the Board to have investigated, gathered, and considered the [scientific evidence] where those documents were merely referenced in expert opinion letters. Bowey, 11. Vet. App. at 109; see also Nici v. Brown, 9 Vet. App. 494, 497-98 (1996) (medical treatises appended to appellant's brief were not part of record on appeal and could not be considered by the CAVC); Obert v. Brown, 5 Vet. App. 30, 32 (1993) (excerpt from medical treatise not before Board could not be considered by the CAVC on appeal). Therefore, if the Appellant wants VA to consider the article cited in the August 2024 argument, she or her representative must submit the article, not simply a hyperlink. 
+
+The matter is REMANDED for the following action:
+
+Obtain a medical opinion as to the etiology of the Veteran's cause of death. The examiner must review the claims file, including this remand, and respond to the following:
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's respiratory failure, septic shock, hemorrhagic shock, gastrointestinal hemorrhage, diabetes mellitus, coronary artery disease, chronic osteomyelitis of the right leg, or any other disability determined to be related to the Veteran's death, were related to the in-service right leg injury? See opinions cited below suggesting the in-service leg injury led to inactivity and compromised circulation, resulting in frequent infections, vascular disease and ultimately gangrene.
+
+If not, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's respiratory failure, septic shock, hemorrhagic shock, gastrointestinal hemorrhage, diabetes mellitus, coronary artery disease, chronic osteomyelitis of the right leg, or any other disability determined to be related to the Veteran's death, were related to in-service toxic exposure? 
+
+The examiner must address the synergistic, combined effect of all of the Veteran's TERAs from his service. 
+
+In responding to this question, the examiner must note that asbestos exposure has been conceded.
+
+In providing this opinion, the examiner must consider the following in the Medical Treatment Record - Non-Government Facility received February 11, 2019:
+
+"	July 10, 2018, opinion by Dr. Salvatore at page 7
+
+"	January 27, 2019, opinion by Dr. Salvatore at page 8
+
+"	February 6, 2019, opinion by Dr. Cuadra at Page 18
+
+"	February 7, 2019, opinion by Dr. Fishberg at Page 20
+
+ 
+
+ 
+
+MICHELLE L. KANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Dorsey, J.T.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

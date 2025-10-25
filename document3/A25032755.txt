@@ -1,0 +1,83 @@
+Citation Nr: A25032755
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 231004-381803
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to nonservice-connected (NSC) pension from May 1, 2020 is denied.  
+
+FINDING OF FACT
+
+From May 1, 2020, the Veteran's service-connected compensation benefit resulted in a greater award than the amount he would be entitled from a pension benefit.  
+
+CONCLUSION OF LAW
+
+As compensation and pension benefits may not be concurrently awarded, the criteria for NSC pension from May 1, 2020 have not been met.  38 U.S.C. §§ 1513, 1521, 5107; 38 C.F.R. § 3.102, 3.151, 3.700.  
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Navy from September 1975 to October 1979, October 1980 to October 1986, and August 1989 to December 1991.  
+
+In July 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a June 2023 decision which terminated pension benefits effective May 1, 2020.  In August 2023, VA issued the HLR decision on appeal, which considered the evidence of record at the time of the prior June 2023 decision.  
+
+In an October 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the June 2023 decision, which was subsequently subject to higher-level review.  See 38 C.F.R. § 20.301.  If evidence was submitted during the period after VA issued the decision that was subsequently subject to higher-level review, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.  
+
+Law and Analysis
+
+Where a Veteran is in receipt of compensation for service-connected disabilities and claims a pension, the greater benefit will be awarded, unless the claimant specifically elects the lesser benefit.  38 C.F.R. § 3.151(a).  
+
+The governing laws and regulations have long held that a Veteran may not receive concurrent payments of compensation and pension benefits and require a Veteran to elect to receive one benefit or the other.  See 38 U.S.C. § 5304; 38 C.F.R. § 3.700.  
+
+Basic entitlement to pension exists if, among other things, the claimant's income is not in excess of the maximum annual pension rate (MAPR) specified in 38 C.F.R. § 3.23.  38 U.S.C. § 1521; 38 C.F.R. § 3.3(a)(3).  The MAPR shall be reduced by the amount of the countable annual income.  38 U.S.C. §§1503, 1521; 38 C.F.R. §§ 3.3, 3.23(b).  In determining annual income, all payments of any kind or from any source (including salary, retirement or annuity payments, or similar income, which has been waived) shall be included during the 12-month annualization period in which received, except for listed exclusions.  38 U.S.C. § 1503(a); 38 C.F.R. § 3.271(a).  Income from the Social Security Administration (SSA) is included as countable income as it is not specifically excluded under 38 C.F.R. § 3.272.  
+
+Total income may be reduced by amounts equal to amounts paid by a claimant for unreimbursed medical expenses that were "in excess of 5 percent of the applicable maximum annual pension rate or rates...as in effect during the 12-month annualization period in which the medical expenses were paid."  38 C.F.R. § 3.272(g)(1)(iii).  
+
+Whether pension benefits were properly terminated effective May 1, 2020.  
+
+In a June 2023 decision, VA terminated the Veteran's pension benefits effective March 1, 2020, based on information from SSA showing the Veteran had been entitled to SSA benefits as of March 1, 2020.  In May 2020, the evidence showed the Veteran was in receipt of SSA benefits in the amount of $757.00, which is an annual income for VA purposes of $9,084.00.  
+
+At that time, he was also entitled to a 30 percent compensation for service-connected disabilities which, if not paid VA pension, would result in a payment amount of $435.69 per month.  
+
+Compensation benefits for a service-connected disability and pension benefits may not be received at the same time.  38 U.S.C. § 5304; 38 C.F.R. § 3.700.  
+
+Ultimately, the Veteran's SSA income results in a greater benefit than the maximum pension benefit the Veteran would be eligible to receive.  As the maximum allowable pension rate for a single Veteran was $13,752.00, the Veterans monthly pension payment would have been reduced to $389.00.  See Veterans Pension Rates for 2020 (https://www.va.gov/pension/veterans-pension-rates/past-rates-2020/).  In this case, the Board has illustrated the difference in alternative VA benefits payment options below.  
+
+13,752 (maximum pension rate for 2022) 
+
+    -	9,084 (Veteran's monthly $757 SSA payment multiplied by 12 months)
+
+    =	4,668 annually
+
+4,668 (total annual pension that would be paid by VA) 
+
+    ÷	12 (months)
+
+    = 	$389 (monthly pension)
+
+Since the Veteran was also service connected at a 30 percent compensation evaluation at that time, that service-connected compensation rate totalling $435.69 results in the greater benefit when compared with the $389 pension.  See Compensation Rates for 2020 (https://www.va.gov/disability/compensation-rates/veteran-rates/past-rates-2020/).  
+
+Although the Veteran may elect to receive either benefit, even if one is a lesser amount, the Board will not make such a determination.  See 38 C.F.R. § 3.701.  The Board has not reviewed a communication that the Veteran has expressly indicated that he would have otherwise wished to receive a lesser benefit.  
+
+(Continued on the next page)
+
+?
+
+Moreover, the Board finds that the notice requirements of 38 C.F.R. § 3.103 and § 3.105 were met.  The Veteran was notified of the proposed termination in a March 2023 letter setting forth all material facts and reasons and he was given 60 days to provide additional information before terminating the pension benefits in a June 2023 decision.  
+
+Therefore, as the compensation benefit for his service-connected disabilities since May 1, 2020 has been greater, and the Veteran may not concurrently receive compensation and pension benefits, entitlement to pension benefits from May 1, 2020 is denied.
+
+ 
+
+ 
+
+T. Raymond
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Kuczynski, B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,65 @@
+Citation Nr: A25033993
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 191113-47348
+DATE: April 11, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+Entitlement to a compensable disability rating for gastroesophageal reflux disease (GERD) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the Army from February 2003 to March 2004 and November 2008 to December 2009.
+
+In November 2019, the Board of Veterans' Appeals (Board) received a VA Form 10182, Decision Review Request: Board Appeal electing hearing docket to review May and July 2019 rating decisions issued by the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In a January 2021 correspondence, the Veteran's representative indicated that the Veteran wished not to have a hearing with a VLJ.  In such a case, under the governing AMA framework, the Veteran had 90 days after withdrawal to submit additional evidence.  38C.F.R. §20.302(b).  However, in that same correspondence of January 2021, the representative indicated that the Veteran "ha[d] no additional evidence to submit at this time," and subsequently, none was submitted.
+
+In September 2023, the Board issued a decision denying the Veteran's claim for service connection for OSA and denying the Veteran's request for a compensable rating for his GERD.
+
+The Veteran subsequently appealed to the U.S. Court of Appeals for Veterans Claims (the Court).  In an August 2024 Memorandum Decision, the Court vacated the Board's September 2023 decision and remanded the claim to the Board for readjudication consistent with the Memorandum Decision.
+
+1. Entitlement to service connection for OSA
+
+The Memorandum Decision found the record demonstrated that the Veteran experiences chronic sleep impairment, a symptom that the Board previously found the Veteran competent and credible to report.  To that end, the Court found sleep disturbances were specifically included as a potential manifestation of a qualifying chronic disabilities for Persian Gulf veterans.  38 U.S.C. §1117(g)(9); 38C.F.R. §3.317(b)(9) (2024).  Although the Veteran's diagnosed medical conditions result in disturbed sleep, the Veteran has not been provided with a VA examination and opinion that specifically focuses on sleep problems.  Thus, the Court found it remained unclear whether the Veteran had OSA or a co-existent sleep disability resulting in additional sleep impairment.  See Stinson v. McDonough, 92F.4th 1355, 1362 (Fed. Cir. 2024); Tadlock v. McDonough, 5F.4th 1327, 1337 (Fed. Cir. 2021).  
+
+Thus, the Board finds that a remand is warranted to obtain a new examination that adequately considers whether the Veteran has a sleep disability and the etiology of same.
+
+2. Entitlement to a compensable disability rating for GERD
+
+The Memorandum Decision found the Board relied on DORLAND'S dictionary to explain that esophageal banding was a procedure used to treat esophageal varices that develop from a liver condition (hypertension in the portal vein) that causes increased pressure in the veins that surround the esophagus.  The Court reiterated that the Board "must consider only independent medical evidence to support their findings rather than provide their own medical judgment in the guise of a Board opinion."  Colvin v. Derwinski, 1 Vet. App. 171, 175 (1991).  Therefore, the parties agreed that the Board erred when it substituted its own medical judgment for that of the April 2019 Gulf War examiner regarding the Veteran's banding procedure.  The Secretary conceded, "the Board is not permitted, let alone competent, to find that a banding procedure means [the veteran] does not have an esophageal stricture, spasm, or acquired diverticulum of the esophagus without medical evidence."
+
+Thus, the Board finds that a remand is warranted to obtain a new opinion and examination as to the severity of the Veteran's GERD and any ameliorative impacts the Veteran's banding procedure may have had.  
+
+The matters are REMANDED for the following action:
+
+1. The RO should arrange for a VA examination of the Veteran to determine the nature and etiology of any sleep impairments.  The examiner should provide an opinion with detailed rationale that responds to the following:
+
+(a.) Please identify, by diagnosis, all sleep impairments present. 
+
+(b.) For each sleep impairment diagnosed, whether that disability was either incurred in or otherwise related to the Veteran's military service?
+
+(c.) If there are no diagnosed sleep impairment disabilities, can the sleep impairment be a symptom of any of the Veteran's service-connected disabilities.  If so, which ones.
+
+(d.) If there are no diagnosed sleep impairment disabilities, whether the Veteran's reported symptomology of sleep impairment is the result of an undiagnosed illness or medically unexplained chronic multisymptom illness (MUCMI.)  The term "MUCMI" refers to a diagnosed illness without conclusive pathophysiology or etiology, that is characterized by overlapping symptoms and signs and has features such as fatigue, pain, disability out of proportion to physical findings, and inconsistent demonstration of laboratory abnormalities. Chronic MUCMIs of partially understood etiology and pathophysiology will not be considered "medically unexplained."
+
+2. The RO should arrange for a VA examination to address the severity of the Veteran's GERD.  The examiner is asked to specifically address the Veteran's banding procedure and the affects it may have on the Veteran's GERD symptoms.
+
+The clinician must provide a rationale to support the opinion.
+
+ 
+
+ 
+
+DUSTIN L. WARE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Simons
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

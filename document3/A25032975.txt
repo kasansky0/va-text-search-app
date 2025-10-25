@@ -1,0 +1,67 @@
+Citation Nr: A25032975
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 241007-482489
+DATE: April 9, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea (OSA), as secondary to the service-connected adjustment disorder with mixed anxiety and depressed mood is granted.
+
+FINDING OF FACT
+
+Resolving all reasonable doubt in the Veteran's favor, his OSA was caused by obesity resulting from his service-connected adjustment disorder with mixed anxiety and depressed mood. 
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA, as secondary to service-connected adjustment disorder with mixed anxiety and depressed mood have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United Stats Navy from August 1997 to December 2008. 
+
+This matter is before the Board of Veterans' Appeals (the Board) on appeal from an October 2023 Department of Veterans Affairs (VA) Regional Office (RO) rating decision.  
+
+In the October 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the October 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to service connection for OSA.
+
+The Veteran contends his OSA is due to his service-connected adjustment disorder with mixed anxiety and depressed mood, causing obesity which in turn caused his OSA. October 2024 VA Form 10182.
+
+Service connection may be established on a secondary basis for a disability that is due to, the result of, or aggravated by a service-connected disability. 38 C.F.R. § 3.310. In such an instance, the Veteran may be compensated for the degree of disability over and above the degree of disability existing before the aggravation. 38 C.F.R. § 3.310(b); Allen v. Brown, 7 Vet. App. 439 (1995). To establish entitlement to service connection on a secondary basis, there must be (1) evidence of a current disability, (2) evidence of a service-connected disability, and (3) medical evidence establishing a nexus between the service-connected disability and the current disability. Wallin v. West, 11 Vet. App. 509 (1998).
+
+While obesity cannot be service-connected on a direct basis, and obesity cannot qualify as an in-service injury or disease for service connection purposes, obesity may serve as an "intermediate step" between a service-connected disability and a current disability that may be service connected on a secondary basis under 38 C.F.R. § 3.310(a). Walsh v. Wilkie, 32 Vet. App. 300 (2020); see also VAOGCPREC 1-2017. In such a case, the evidence would need to reflect that (1) a service-connected disability or disabilities caused the Veteran to become obese or aggravated the Veteran's obesity, (2) the obesity or aggravation of obesity resulting from service-connected disability or disabilities was a substantial factor in causing another disability, and (3) the disability would not have occurred but for the obesity caused by the Veteran's service-connected disability or disabilities or the obesity aggravated by the service-connected disability or disabilities. Walsh, 32 Vet. App. at 306-7.
+
+The October 2023 rating decision rendered favorable findings that the Veteran is diagnosed with OSA and that the Veteran is service connected for an adjustment disorder with mixed anxiety and depressed mood. Thus, the first and second elements of secondary service connection have been satisfied. Wallin, at 512.
+
+Regarding the nexus element, the Veteran submitted two private medical opinions.  One is dated July 2021, from G.U., a nurse practitioner.  The second is dated January 2022, from M.B., a physician's assistant. 
+
+The July 2021 opinion indicates that the Veteran's weight gain and obesity are due to his service-connected adjustment disorder and/or his service-connected musculoskeletal disabilities.  The opinion also goes on to stated that the Veteran's OSA was caused by the weight gain and obesity, which was due to his service-connected disabilities.  The Veteran's wight gain, including his weight during separation and after developing mental health symptoms was noted, including his body mass index (BMI), and a gain of approximately 50 lbs.  The Veteran's BMI at the time of the diagnosis was noted to be 35.3, which is considered obese.  G.U. cited appropriate medical literature, as well as the Veteran's medical records, contending that the Veteran was less active due to his mental health symptoms.  It was also noted that the medications that the Veteran took for his mental health symptoms caused weight gain, as noted in their side effects.  G.U. also reviewed the pathology of the Veteran's OSA, noting that it is due to obesity. 
+
+The second January 2022 private opinion from M.B. reviewed the Veteran's medical records, and similarly cited medical literature concluding that the Veteran's OSA is at least as likely as not related to the weight gain and obesity caused by his service-connected adjustment disorder. 
+
+Notably, the December 2020 VA sleep study, which contains the Veteran's OSA diagnosis indicates that it is recommended that the Veteran lose excess weight. 
+
+The Veteran was afforded VA examinations in August 2021 and May 2023.  Both examiners found that the Veteran's OSA was not related to his service-connected disabilities.  The August 2021 VA examiner stated that OSA is caused by the muscles in the back of the throat relaxing, causing the airway to narrow or close, and that there is no pathophysiologic correlation or causation between OSA and the Veteran's service-connected disabilities.  The May 2023 VA examiner found that OSA is caused by the same airway obstruction, and that although the Veteran's sleep may decrease due to his service-connected disabilities, those disabilities do not cause the airway obstruction.  
+
+The August 2021 and May 2023 VA medical opinions are of diminished probative value.  Namely, neither examiner addressed the Veteran's contentions that his weight gain was caused by his service-connected adjustment disorder.  In other words, the opinions acknowledged that OSA is caused by airway obstruction, which may be caused by weight gain.  However, the opinions did not address whether that weight gain was caused by the Veteran's service-connected disabilities, including his adjustment disorder.  
+
+On the other hand, the Board assigns high probative value to both private medical opinions.  This is based on the medical providers' knowledge and skill in analyzing the data, the thorough review of the Veteran's medical and military file, including any lay statements, and the medical conclusion that was reached. Both G.U. and M.B. reviewed relevant treatment records and the opinions are consistent with all the statements and the Veteran's medical history of OSA. They also provided rationales that considered both medical and lay evidence and that is clear and consistent with the evidence of record. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008). The Board therefore finds the privat medical opinions to be highly probative medical evidence in favor of the Veteran's claim. The Board assigns little probative weight to the VA examinations as they failed to provide a complete rationale and support for their conclusions and failed to address the Veteran's contentions, as well as the existing private medical opinions submitted by the Veteran.  
+
+In sum, the competent, credible, and probative evidence in the record establishes that the Veteran's OSA is secondary to his service-connected adjustment disorder as a result of obesity caused by his mental health symptoms. Therefore, resolving all reasonable doubt in the Veteran's favor, the Board finds that the Veteran's service-connected adjustment disorder resulted in his weight gain and obesity, and if not for his obesity, he likely would not have developed OSA.  Thus, service connection for OSA on a secondary basis is warranted.
+
+ 
+
+ 
+
+DUSTIN L. WARE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Kuksova, Kseniya
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,141 @@
+Citation Nr: A25032457
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240904-470126
+DATE: April 8, 2025
+
+ORDER
+
+Service connection for insomnia as secondary to service-connected tinnitus is granted.
+
+REMANDED
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+Entitlement to service connection for Meniere's syndrome, to include as secondary to a service-connected disability, is remanded.
+
+FINDING OF FACT
+
+Resolving reasonable doubt in favor of the Veteran, his insomnia was caused by his service-connected tinnitus.
+
+CONCLUSION OF LAW
+
+The criteria to establish service connection for insomnia are met.  38 U.S.C. §§ 1131, 5107(b); 38 C.F.R. §§ 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from November 1979 to December 1980.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from October 2023 and November 2023 Appeals Modernization Act (AMA) rating decisions from a Department of Veterans Affairs (VA) Regional Office, the agency of original jurisdiction (AOJ), that denied the Veteran's claims for service connection for bilateral hearing loss, Meniere's syndrome, and insomnia.  The October 2023 rating decision reflects the favorable finding that the AOJ conceded in-service exposure to excessive military noise based on the Veteran's military occupational specialty (MOS), and the November 2023 rating decision reflects the favorable findings that the Veteran has been diagnosed with Meniere's syndrome and insomnia, and the claimed primary disability of tinnitus is service connected.  The Board is bound by these favorable findings unless they are rebutted by clear and unmistakable error.  38 U.S.C. § 5104A.
+
+In September 2024, the Veteran initiated this appeal to the Board with the filing of a Decision Review Request (VA Form 10182), requesting direct review by a Veterans Law Judge on the evidence of record at the time of the rating decision. In September 2024 correspondence, the Board acknowledged the appeal and informed the Veteran and his representative that the appeal had been placed on the Board's direct review docket.  Therefore, the Board may only consider the evidence of record at the time of the AOJ's rating decisions on appeal, here as of October 31, 2023 for the bilateral hearing loss claim and November 29, 2023 for the Meniere's syndrome and insomnia claims, respectively.  38 U.S.C. § 7113(a). The Board cannot consider evidence submitted after the AOJ issued the decision on appeal.  38 C.F.R. § 20.301.  However, because the Board is remanding the claims for service connection for bilateral hearing loss and Meniere's syndrome, any evidence the Board could not consider will be considered by the AOJ in the adjudication of these claims.  38 C.F.R. § 3.103(c)(2)(ii).
+
+The Board notes that in addition to the issues of service connection for bilateral hearing loss, Meniere's syndrome, and insomnia, the Veteran's VA Form 10182 identified the issues of service connection for bilateral knees disabilities and a mental disorder for appeal.  November 2024 Board correspondence notified the Veteran that the issues of service connection for bilateral knee, mental disorder, and vertigo/dizziness could not be docketed because the September 2024 VA Form 10182 was not a timely appeal for those claims.  Review of the record shows that the claims for service connection for a bilateral knees disability and a mental disorder were denied in March 2021 and July 2021 rating decisions, which were not timely appealed and are therefore final.  38 U.S.C. § 7105; 38 C.F.R. §§ 3.160(d)(2), 20.203(b), 20.1103.  However, the issue of service connection for dizziness was deferred in the October 2023 rating decision and denied as Meniere's syndrome in the November 2023 decision.  Therefore, the September 2024 VA Form 10182 is a timely appeal for the Meniere's syndrome claim.
+
+Service Connection
+
+Applicable Laws and Regulations
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active military, naval, or air service.  38 U.S.C. § 1131; 38 C.F.R. § 3.303(a).  Service connection may be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Establishing service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the current disability.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service connection is also warranted for a disability which is proximately due to or the result of service-connected disease or injury.  38 C.F.R. § 3.310(a).  Secondary service connection under 38 C.F.R. § 3.310(a) is warranted where a non-service-connected disability would have been less severe but for a service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability.  Spicer v. McDonough, 61 F.4th 1360, 1364-66 (2023) (invalidating the requirement of "proximate cause" and instead holding "but for" causation or aggravation is enough to show entitlement to secondary service connection).
+
+An alternative means of establishing service connection is showing continuity of symptomatology under 38 C.F.R. § 3.303(b); however, this alternative means is only available for certain "chronic disease" specifically enumerated under 38 C.F.R. § 3.309(a), and the Veteran's diagnosed insomnia is not among the listed diseases.  Therefore, the presumptive service connection provisions of 38 C.F.R. § 3.303(b) do not apply.  Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+In rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or?unpersuasive and?provide the reasons for its rejection of any material evidence favorable to the claimant.  Gabrielson v. Brown, 7?Vet. App.?36, 39-40 (1994).  Competency of evidence differs from weight and credibility.
+
+A lay person is competent to report on the onset and reoccurrence of current symptomatology.  See Layno v. Brown, 6?Vet. App.?465, 470 (1994) (a veteran is competent to report on that of which he or she has personal knowledge).? The Board must determine, on a?case-by-case?basis, whether a veteran's particular disability is the type of disability for which lay evidence may be competent.  See Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).
+
+Generally, the degree of probative value which may be attributed to a medical opinion issued by a VA or private treatment provider takes into account such factors as its thoroughness and degree of detail, and whether there was review of the claims file.  See Nieves-Rodriguez v. Peake, 22?Vet. App. 295, 304 (2008).  Also significant is whether the examining medical provider had a sufficiently clear and well-reasoned rationale, as well as a basis in objective supporting clinical evidence.  See?Bloom v. West, 12 Vet. App. 185, 187 (1999).
+
+VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with a claimant prevailing in either event.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.  The claimant is entitled to the benefit of the doubt when there is an "approximate" (meaning nearly equal) balance of positive and negative evidence regarding any material determination.  See Lynch v. McDonough, 21 F.4th 776, 781 (2021); Ortiz?v.?Principi, 274 F.3d 1361, 1364 (Fed. Cir. 2001).
+
+Insomnia
+
+The Veteran asserts that his insomnia is caused by constant ringing in the ears due to his service connected tinnitus.  See Application for Disability Compensation.
+
+As an initial matter, the November 2023 rating decision reflects the favorable findings that the Veteran has a current diagnosis of insomnia and that the Veteran's is service connected for tinnitus, the primary disability upon which his secondary service connection claim is based.  The Board is bound by these favorable findings as they are not rebutted by clear and unmistakable error.  38 U.S.C. § 5104A; Shedden, supra.
+
+Therefore, the dispositive issue in this case is whether there is a nexus between the Veteran's insomnia and his service connected tinnitus.
+
+The Veteran' service treatment records do not reflect symptoms, complaints, or diagnosis of a sleep disorder, including insomnia, and the post-service treatment notes in the record on appeal are also negative for such evidence.
+
+In October 2023, the Veteran was afforded a VA examination, at which time he reported that ringing in his ears prevented him from sleeping at night.  The Veteran reported that he was diagnosed with bipolar disorder about 20 years earlier and he received treatment and medication, but he had not received any mental health services for many years.  Notably, the Veteran said he developed sleep problems in approximately 2021 in relation to his tinnitus, specifically, problems with sleep onset and with awakening at night, which resulted in his feeling fatigued during the day.  A VA psychologist diagnosed insomnia pursuant to criteria in the Diagnostic and Statistical Manual of Mental Disorders, fifth edition (DSM-5).  See October 2023 VA Mental Disorders Disability Benefits Questionnaire (DBQ).
+
+The examiner opined that it is at least as likely as not that the Veteran's insomnia was caused by his tinnitus, emphasizing the Veteran's "difficulty falling asleep, staying asleep, and awakening feeling tired and fatigued in the morning," and noting that June 2018 medical literature entitled "An Examination of the Relationship Between Insomnia and Tinnitus: A Review and Recommendations" found that "Tinnitus is a prevalent medical disorder which frequently becomes chronic and severe.  Furthermore, quality of life can become compromised with many experiencing comorbid insomnia."  The examiner added that the literature reflected that "the overwhelming majority of the studies evaluating comorbid insomnia in patients with tinnitus [nearly 94 percent of] 16 studies reported on the presence of insomnia as a symptom."  See October 2023 VA Medical Opinion DBQ.
+
+In November 2023, the AOJ requested an addendum opinion on the basis that the VA psychologist's diagnosis was based on a diagnosis code relevant to insomnia that is not due to a known physiological condition and that the diagnosis was based solely on the Veteran's self-report.  The AOJ also took issue with the Veteran's subjective history of a prior bipolar disorder diagnosis, noting that sleep disturbances are a core symptom of bipolar disorder.  See November 2023 Examination Rework Scheduling Request.
+
+In November 2023, the same VA psychologist replied that a 2020 study entitled, "Insomnia in Tinnitus Patients: A Prospective Study Finding a Significant Relationship," explains that tinnitus "often becomes chronic and severe, affecting quality of life contributing to significant psychiatric consequences" and that "comorbid insomnia occurs in 10-80 percent of tinnitus patients with most reports finding over a 40 percent frequency."  The VA psychologist noted that "while the Veteran reported a past diagnostic history of bipolar disorder, there is insufficient documentary evidence to support the diagnosis."  See November 2023 VA Medical Opinion DBQ.
+
+The October 2023 VA medical opinion and November 2023 addendum are competent, credible and probative: The opinions were authored by a licensed clinical psychologist who reviewed the Veteran's claims file and was therefore familiar with the Veteran's symptoms and diagnoses of tinnitus and insomnia; and the opinions are based on a review of the evidence of record as well as lay statements of the Veteran.  The opinions are consistent with the medical evidence of record and contain clear conclusions with supporting medical literature connected by a reasoned medical explanation as to how the literature is relevant to the Veteran's circumstances.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301-02 (2008).  Notably, there are no medical opinions or other competent medical evidence of record that weighs against the October 2023 and November 2023 VA opinions.  Accordingly, the Board finds the October and November 2023 VA medical opinions highly probative, competent and persuasive medical evidence in this case.
+
+Based on this body of evidence, and resolving any reasonable doubt in the Veteran's favor, the Board finds that the evidence is persuasively in favor of the claim, and that service connection for insomnia, as secondary to service connected tinnitus, is warranted.  See 38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS FOR REMAND
+
+When VA undertakes to provide an examination or obtain an opinion, it must ensure that the examination or opinion is adequate.  See Barr v. Nicholson, 21 Vet. App. 303, 311-12 (2007).
+
+Bilateral Hearing Loss
+
+Regarding the Veteran's claimed hearing loss, the September 2023 VA hearing loss examination is inadequate.  The examination notes that all puretone thresholds could not be tested (CNT), bilaterally.  The examiner's explanation, "PTA and SRT do not match consistent with non-organic hearing loss; reflex thresholds are not consistent with behavioral thresholds" is unclear.  Furthermore, there is no indication of equipment malfunction or that the Veteran was uncooperative during the examination that might explain the findings.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302-04 (2008) (a central issue in determining the probative value of a medical report is whether the examiner provides explanation for conclusions).  Although the VA examiner noted that "use of [the] speech discrimination score is appropriate for the Veteran," the examiner noted "CNT" for the Veteran's speech discrimination, bilaterally. Id.  Thus, at this juncture, it is unclear whether the Veteran has hearing loss, and there is no indication why the Veteran was not afforded another hearing examination given the aforementioned deficiencies in the September 2023 VA examination report.
+
+Failing to obtain an adequate examination and relying on an inadequate examination is a pre-decisional duty to assist error, which must be remedied on remand by providing the Veteran with a VA hearing loss examination.  38 C.F.R. § 20.802(a); Barr, supra.
+
+Meniere's Syndrome
+
+The Veteran asserts that his dizziness, diagnosed as Meniere's syndrome, is secondary to hearing loss.  However, the AOJ's September 2023 VA examination request specifies an opinion as secondary to tinnitus.  The September 2023 VA examiner opined that the Veteran's Meniere's syndrome is secondary to tinnitus because "this condition results in ringing in the ears as well as dizziness linking these two conditions together for this Veteran."  However, the supporting rationale describes common symptoms rather than explaining the likely etiology of Meniere's syndrome.  See Nieves-Rodriguez, supra. 
+
+In a November 2023 addendum, the examiner stated that he should have rendered a "negative opinion as there is no medical literature that shows that tinnitus can cause dizziness," and that "[i]t is more likely that these two conditions and symptoms are lumped under one larger condition as opposed to one causing the other."  However, the foregoing phrase is unclear and could be construed as either a favorable or unfavorable opinion.  See Nieves-Rodriguez, 22 Vet. App. at 304 (holding that a medical opinion obtains probative weight from "fully articulated, sound reasoning for the conclusion").  Furthermore, the addendum does not address aggravation.  See Allen v. Brown, 7 Vet. App. 439, 448 (1995) (opinion regarding secondary service connection is inadequate if it does not address both causation and aggravation of the nonservice-connected condition).
+
+Critically, neither opinion addresses whether the Veteran's Meniere's syndrome is secondary to his hearing loss, the theory of service connection reflected in the Veteran's September 2023 claim for compensation.
+
+Failing to obtain an adequate medical opinion and relying on an inadequate opinion is a pre-decisional duty to assist error, which must be remedied on remand by obtaining addendum opinions.  38 C.F.R. § 20.802(a); Barr, supra.
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for a VA hearing loss examination.  The claims file, including a copy of this Remand, must be made available to, and be reviewed by, the examiner.  All indicated studies, tests, and evaluations must be conducted, and all findings reported in detail and correlated to a specific diagnosis.
+
+After a complete review of the claims file, the examiner is asked to respond to the following:
+
+(a) Elicit from the Veteran and the record the history of his symptoms of hearing loss.
+
+(b) Determine whether the Veteran has hearing loss.  If the examiner is unable to perform any puretone threshold and/or Maryland CNC speech discrimination testing, please clearly explain the reason(s) why such testing cannot be performed.
+
+(c) Provide an opinion as to whether it at least as likely as not that hearing loss had its onset during or is otherwise related to the Veteran's service, to include hazardous noise exposure associated with the Veteran's military occupational specialty (MOS) as conceded by VA in the October 2023 rating decision. *In providing this opinion, please consider the Veteran's September 7, 2023 claim application in which he endorsed hearing loss that was due to in-service noise exposure.
+
+A full and thorough rationale must be provided for all opinions, referencing relevant medical and lay evidence where appropriate.
+
+2. Then, obtain VA medical opinions from an appropriately qualified examiner regarding the nature and etiology of the Veteran's currently diagnosed Meniere's syndrome.  The claims file, including a copy of this Remand, must be made available to, and be reviewed by, the examiner.
+
+After a complete review of the claims file, the examiner is asked to provide opinions as to:
+
+(a) whether the Veteran's Meniere's syndrome was as likely as not caused by his hearing loss; and
+
+(b) whether the Veteran's Meniere's syndrome is as likely as not aggravated (any incremental increase in disability regardless of permanence) by his hearing loss. 
+
+*The examiner must consider any causal link between the Veteran's Meniere's syndrome and his hearing loss.  
+
+(c) whether the Veteran's Meniere's syndrome was as likely as not caused by his tinnitus; and
+
+(d) whether the Veteran's Meniere's syndrome is as likely as not aggravated (any incremental increase in disability regardless of permanence) by his tinnitus. 
+
+*The examiner must consider any causal link between the Veteran's Meniere's syndrome and his tinnitus.  
+
+A full and thorough rationale must be provided for all opinions, referencing relevant medical and lay evidence where appropriate.
+
+ 
+
+ 
+
+S. B. MAYS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B. Farrell, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

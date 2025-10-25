@@ -1,0 +1,85 @@
+Citation Nr: A25033056
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240418-434210
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for insomnia, claimed as secondary to service-connected major depressive disorder, recurrent, moderate, with anxious distress (hereinafter, "MDD"), is denied.
+
+FINDING OF FACT
+
+The Veteran's claimed insomnia is a symptom of his service-connected MDD rather than a separate and distinct disability. 
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for insomnia as secondary to service-connected MDD have not been met. 38 U.S.C. § 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310; Martinez-Bodon v. Wilkie, 32 Vet. App. 393 (2020).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from May 2015 to November 2018.
+
+The matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office, which is the agency of original jurisdiction (AOJ).
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the March 2024 rating decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the rating decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to service connection for insomnia, claimed as secondary to service-connected MDD, is denied.
+
+The Veteran asserted in the January 2024 VA Form 21-526EZ (Fully Developed Claim) that his insomnia is secondary to his service-connected MDD. 
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004). Service connection may also be granted for a disability that is proximately due to, or aggravated by, service-connected disease or injury.  38 U.S.C. § 1110; Allen v. Brown, 7 Vet. App. 439 (1995) (en banc); 38 C.F.R. § 3.310(a).
+
+The threshold requirement for substantiating a claim of service connection (whether direct or secondary) is that there must be competent evidence of the disability for which service connection is sought. In the absence of proof of a current disability, there is no valid claim for service connection. Boyer v. West, 210 F.3d 1351, 1353 (Fed. Cir. 2000); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). 
+
+The plain language of 38 C.F.R. § 4.130, which is the schedule of ratings for mental disorders, requires a diagnosis pursuant to the [Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)] to compensate a psychiatric disability and the most reasonable interpretation of 38 C.F.R. § 4.125(a), when read in conjunction with § 4.130, requires the same. Martinez-Bodon v. Wilkie, 32 Vet. App. 393, 401 (2020). Accordingly, the holding in Saunders v. Wilkie, 886 F.3d 1356 (2018), that service connection may be granted for functional impairment of earning capacity during or proximate to the appeal period due to pain even if there is no identified underlying diagnosis, is not for application with regards to psychiatric disabilities. Id. "With respect to mental conditions, we hold that VA has used its authority to limit compensation to disabilities that conform to a DSM-5 diagnosis." Id. at 404.
+
+The VA Adjudication Procedures Manual (M21-1) provides guidance regarding "Considering [Service Connection] for Insomnia" in Section V.iii.13.1.l. Although the M21-1 is not binding on the Board, the Board must address relevant provisions of the M21-1 and conduct an independent analysis before determining whether the provisions may be relied upon as a factor to support its decision. Overton v. Wilkie, 30 Vet. App. 257 (2018); DAV v. Sec'y of Veterans Affairs, 859 F.3d 1072, 1077 (Fed. Cir. 2017). The Board finds the M21-1 provisions highly instructive in the present case, particularly in light of the absence of any other legal authority on this matter, and the Board accepts them as appropriate guidance.
+
+The M21-1 provides that "Insomnia is generally considered a symptom of another disability due to coexisting medical or neurological conditions. Insomnia can occur as an independent condition or can be a symptom associated with another mental disorder (for example, major depressive disorder), medical condition (for example, pain), or another sleep disorder (for example, a breathing-related sleep disorder). When insomnia is adequately identified as a symptom of another underlying disability, [service connection] should be established for that diagnosis rather than for "insomnia," and the insomnia symptoms should be included in the evaluation for the primary [service-connected] disability. A separate evaluation is not warranted for insomnia that is considered secondary to, or a symptom of, another disability." See M21-1, Section V.iii.13.1.l (emphasis in original).
+
+The M21-1 also provides that, [service connection] can be established on a direct basis for 'insomnia' in the absence of a known or established underlying etiology if there is an event in service (such as a diagnosis of primary insomnia or insomnia disorder in service), a current diagnosis of insomnia disorder meeting DSM-5 diagnostic criteria, a nexus establishing insomnia disorder post service is connected to the event in service, and the condition is not associated with any other disease or injury." Id. (emphasis in original).
+
+The M21-1 also provides that, "A separate [service-connected] evaluation for a diagnosis of insomnia disorder is only warranted if all other potential causes are ruled out and [service connection] can be established on a direct basis." The Note to this Section provides that the "DSM-5 revised the diagnostic terminology from 'primary insomnia' to 'insomnia disorder.' In both the current and prior versions of DSM, the diagnostic criteria includes ruling out all other potential causes. Accordingly, a valid diagnosis of insomnia disorder meeting DSM-5 criteria means that the insomnia condition is not caused by (or secondary to) any other condition." Id. (emphasis in original).
+
+The Board now turns to the lay and medical evidence of record.
+
+Review of the claims file shows that the Veteran was awarded service connection for MDD in an August 2022 rating decision and assigned an initial rating of 70 percent on the basis of symptoms that include chronic sleep impairment.
+
+The Veteran's service treatment records (STRs) show complains related to sleep difficulties assessed as unspecified insomnia. 
+
+The Veteran underwent a VA examination in August 2022, and the examiner noted a sole diagnosis of MDD, and indicated the presence of a chronic sleep impairment.
+
+A private medical treatment record, which was received by VA in January 2024, lists multiple mental health conditions and "other insomnia."
+
+VA treatment records associated with the claims file in February 2024 show complaints of falling and staying asleep and quality of sleep, as well as medications for sleep symptoms and for sleep and anxiety symptoms.
+
+The Veteran underwent a VA examination for mental disorders in March 2024. The sole diagnosis was noted to be MDD. The examiner found the presence of a chronic sleep impairment. The Veteran reported that "there has not been significant change or worsening in sleep problems. Only that he finds this to be the most pervasive and disruptive symptom." The examiner also noted that since the last VA examination in August 2022, the Veteran reported trying multiple medications to help with sleep. He reported difficulty falling asleep, with 2 to 4 hours delayed onset, followed by 2 to 3 hours of sleep with wakening and no return to sleep. He reported that this pattern occurs even while taking Ambien. He reported a similar pattern without medication. Fatigue impacts his ability to work and interact or socialize. 
+
+On review of the record, the Board finds that service connection for insomnia is not warranted. The Veteran does not have a separate diagnosis of insomnia that is not caused by or secondary to the primary service-connected MDD. Rather, the Veteran's insomnia is shown to be a symptom of the service-connected MDD. Moreover, as set out in the M21-1, a separate evaluation is not warranted where, as here, insomnia is considered secondary to or a symptom of MDD, which is already subject to service connection. See also 38 C.F.R. § 4.14 (prohibiting evaluation of the same manifestation under various diagnoses); Esteban v. Brown, 6 Vet. App. 259, 262 (1994). 
+
+Moreover, when it is not possible to separate the effects of service-connected and non-service-connected disabilities, such effects should be attributed to the service-connected condition.  Mittleider v. West, 11 Vet. App. 181, 182 (1998).  In addition, it is important to recognize that the evaluation of the same disability or manifestations of the same disability under various diagnoses is to be avoided.  38 C.F.R. § 4.14; see also Amberman v. Shinseki, 570 F.3d 1377 (Fed. Cir. 2009). As such, there would be no benefit to granting a claim for insomnia as the Veteran's insomnia symptoms are being accounted for in his rating for his service-connected psychiatric disorder.
+
+Furthermore, the Board does not find that the AOJ committed a duty to assist error prior to the March 2024 rating decision on appeal with respect to records development. 38 C.F.R. § 20.802. 
+
+VA has a duty to make reasonable efforts to assist the claimant in obtaining evidence necessary to substantiate the claim for the benefit sought, unless no reasonable possibility exists that such assistance would aid in substantiating the claim. 38 U.S.C.A. § 5103A (West 2002); 38 C.F.R. § 3.159 (2010). As part of this duty, VA shall make reasonable efforts to obtain relevant records that the claimant has adequately identified and authorized VA to obtain. 38 U.S.C.A. § 5103A(b)(1). In?Golz?v. Shinseki,?590 F.3d 1317?(Fed. Cir. 2010), the Federal Circuit defines VA's duty to obtain "relevant" records holding that "[r]elevant records for the purpose of § 5103A are those records that relate to the injury for which the claimant is seeking benefits and have a reasonable possibility of helping to substantiate the veteran's claim." Id. at 1321. The?Golz?Court noted that VA need not obtain records in every case in order to rule out their relevance and stated that such decision would be akin to a determination that all medical records must be obtained. Id. at 1323. Similarly, it is not the case that a record's relevance can always be determined without reviewing the record itself. "The legal standard for relevance requires VA to examine the information it has related to medical records and if there exists a reasonable possibility that the records could help the veteran substantiate his claim for benefits, the duty to assist requires VA to obtain the records. [. . .] In close or uncertain cases, the VA should be guided by the principles underlying this uniquely pro-claimant system. [. . .] As long as a reasonable possibility exists that the records are relevant to the veteran's claim, VA is required to assist the veteran in obtaining the identified records. At the same time, we acknowledge that Congress has placed reasonable limits on VA's duty to assist. The relevancy limitation allows VA to focus its efforts on obtaining documents that have a reasonable possibility of assisting claimants in substantiating their claims for benefits." Id. 
+
+Here, the Board acknowledges that the January 2024 private medical treatment record references prior and ongoing treatment, which leaves open the possibility that there may be outstanding records. However, the Board does not find that any outstanding private medical treatment records have a reasonable possibility of helping to substantiate the Veteran's claim; the AOJ did not need to obtain these records in order to rule out their relevance. The existing record is clear that the insomnia is associated with service-connected MDD. Thus, the Board does not find an error in this regard.
+
+In sum, for the above reasons, the evidence is neither evenly balanced nor approximately so with regard to whether service connection for the Veteran's insomnia is warranted. Rather, the evidence persuasively weighs against the claim. The benefit of the doubt doctrine, see 38?U.S.C. §?5107(b), is therefore not for application as to this claim. Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application). Accordingly, service connection for insomnia is denied. 
+
+ 
+
+Jenna Brant
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. M., Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

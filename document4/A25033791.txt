@@ -1,0 +1,71 @@
+Citation Nr: A25033791
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 250127-502898
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to a compensable disability rating for hypertension is denied.
+
+FINDING OF FACT
+
+The Veteran's hypertension does not manifest in diastolic pressure predominantly 100 or more or systolic pressure predominantly 160 or more; it does require continuous medication for control, but does not have a history of diastolic pressure predominantly 100 or more.
+
+CONCLUSION OF LAW
+
+The criteria for a compensable disability rating for hypertension have not been met.  38 U.S.C. §§ 1155, 5103, 5103A, 5107;?38 C.F.R. §§ 3.102, 3.321, 4.21, 4.104, Diagnostic Code 7101.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from August 1961 to August 1965.
+
+In January 2024, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a January 2023 decision.  In February 2024, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior January 2023 decision.  
+
+In the January 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the January 2023 decision, which was subsequently subject to higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to a compensable disability rating for hypertension is denied.
+
+The Veteran contends a compensable disability rating is warranted for his service-connected hypertension.  See VA Form 20-0996, Request for Higher-Level Review, January 2024.  Specifically, the Veteran contends the VA clinician that assessed his hypertension at a VA examination in November 2022 did not review his blood pressure readings prior to his 2010 use of medication for treatment.  Id. ("In this instance, the VA errs by failing to ensure that the examiner considered blood pressure readings prior to [Veteran's] medication regimen. ... Because the holding in Wilson v. McDonough instructs VA to consider veterans' blood pressure readings prior to medication use, the examiner should have inquired into [Veteran's] condition prior to 2010.").  The Board finds a compensable disability rating is not warranted.
+
+Disability evaluations are determined by the application of the facts presented to the VA's Schedule for Rating Disabilities (Rating Schedule) at?38 C.F.R. Part 4. The percentage ratings contained in the Rating Schedule represent, as far as can be practicably determined, the average impairment in earning capacity resulting from diseases and injuries incurred or aggravated during military service and the residual conditions in civilian occupations.? 38 U.S.C. § 1155;?38 C.F.R. § 4.1.  Reasonable doubt as to the degree of disability will be resolved in the Veteran's favor. ?38 C.F.R. § 4.3. 
+
+Under Diagnostic Code 7101, a 10 percent evaluation is warranted where diastolic blood pressure is predominantly 100 or more, or systolic blood pressure is predominantly 160 or more, or when an individual with a history of diastolic blood pressure predominantly 100 or more requires continuous medication for control.  A 20 percent evaluation is warranted where diastolic blood pressure is predominantly 110 or more, or systolic blood pressure is predominantly 200 or more.  A 40 percent evaluation is warranted where diastolic pressure is predominantly 120 or more, and a 60 percent evaluation is warranted where diastolic blood pressure is predominantly 130 or more.? 38 C.F.R. § 4.104, Diagnostic Code 7101. 
+
+The term "predominant" is not defined in the rating criteria.  Merriam-Webster defines predominant to mean "being most frequent or common."  See, e.g., "predominant," Merriam-Webster.com Online Dictionary, https://www.merriam-webster.com/dictionary/predominant.
+
+In Wilson v. McDonough, the United States Court of Appeals for Veterans Claims (Court) reiterated that the structure of Diagnostic Code 7101 clearly signals that VA intended to compensate veterans who do not have current readings establishing entitlement to a 10 percent rating if those veterans are using medication to control their blood pressure.  See Wilson v. McDonough, 35 Vet. App. 75, 78-79 (2021).  The Court outlined the three avenues for a compensable rating under Diagnostic Code 7101: "DC 7101 offers three distinct avenues for veterans to pursue: Veterans can either demonstrate current blood pressure readings-either systolic pressures predominantly 160 or above or diastolic pressure of 100 or greater-or, if a veterans (sic) use (sic) medication to control their hypertension, historical [diastolic] blood pressure readings predominantly greater than 100."  Id. at 78.
+
+Given the Veteran's contention that the November 2022 VA clinician did not review blood pressure readings prior to his 2010 medication regimen, the Board ensured review of blood pressure readings prior to 2010.  In this regard, the earliest available medical evidence of blood pressure readings come from when he initiated treatment at the Omaha VA Medical Center (VAMC) in December 2005 and January 2006.  See CAPRI, received December 2013, dated December 2005 (indicating the Veteran's request for primary care at the Omaha VAMC); see also CAPRI, received December 2013, dated January 2006 ("New pt. appt. 3/1/2006 per wait letter response - new pt. packet mailed 1/19/06.").  The Veteran's blood pressure when he initiated treatment with the Omaha VAMC in January 2006 was recorded as 166/83.  Id.  Notably, at this time, he was already prescribed a medication to treat his hypertension-Losartan.  See CAPRI, received December 2013, dated January 2006 ("Medications- Refilled... which included glipizide, felodipine, gemfibrozil, and losartan[;]" and listing Losartan as a current active medication.).
+
+Additional VA treatment records show the Veteran's blood pressure as 160/64 and 157/76 in March 2006, 154/82 in June 2006, 153/79 in October 2006, 159/76 in March 2007, 139/75 in June 2010, 135/74 in December 2010, 147/71 in April 2011, 163/78 in December 2011, 162/78 in February 2012, 144/67 in March 2012, 140/90 and 148/73 in April 2012, 139/63 in October 2012 at which time the Veteran reported that his pressure was normally not high, 125/63 and 142/67 in July 2013, 162/67 in September 2013, 125/61 and 120/43 in November 2013, and 142/62 in December 2013.  See generally CAPRI, received December 2013, dated March 2006 to December 2013.  VA treatment records dated March 2014 show the Veteran's blood pressure as 150/78 lying down, 150/82 sitting, and 134/77 standing.  See CAPRI, received April 2014, dated March 2014.  These same records also note that while the Veteran's sitting blood pressure remained above goal, his other recent blood pressure readings were well controlled with medications.  Id.  VA treatment records dated July and August 2014 show the Veteran with blood pressure readings of 139/75; 136/58; and 146/71.  See CAPRI, received September 2014, dated August 2014.  Further records from August 2014 show the Veteran was advised to continue home amlopidine, losartan, and atenolol to treat his hypertension.  Id.  They also show the Veteran reporting his home systolic blood pressures between 100 and 118 and diastolic blood pressures between 54-72.  Id. ("HTN - home systolics are 100-118. office bp is at goal. rates at home are 54-72. no need to change meds at this time.").
+
+More recent VA treatment records include a December 2016 endocrinology appointment that included blood pressure monitoring readings from November 2016.  They were listed as 138/77, 135/69, 135/73, 136/71, 144/77, 136/73, 139/69, 143/67, 150/69, 130/67, 146/77, 140/72, 118/56, and 143/76.  See CAPRI, received April 2020, dated December 2016.  
+
+In May 2017, when the Veteran sought treatment for dizziness and "black-out sensation," his blood pressure was recorded as 149/67 on his right arm, with a re-take showing blood pressure to 126/63.  After standing for two minutes, it was re-taken a third time to show 126/71.  See CAPRI, received April 2020, dated May 2017.  His blood pressure in October 2018 was recorded as 127/73.
+
+In November 2022, the Veteran attended the VA examination addressed in his January 2024 filing for higher-level review.  Here, the VA clinician incorrectly noted the Veteran's hypertension as having onset around 2010.  As to this, the Board reiterates that the Veteran was diagnosed with and already treated for hypertension when he initiated treatment with the Omaha VAMC in December 2005 and January 2006.  At the very least, he was diagnosed with hypertension as early as March 2006.  See CAPRI, received April 2013, dated March 2006 (noting a diagnosis of and treatment for hypertension).  Accordingly, as to when the Veteran's hypertension onset, the November 2022 VA examination is not accurate.  However, regardless of the inaccurately listed onset date, the Board finds no reason to doubt the validity of the blood pressure readings taken at the examination.  See Monzingo v. Shinseki, 26 Vet. App. 97, 106 (2012) (a medical report must be read as a whole in the context of the claim and, even an opinion lacking in detail may be provided some probative value based upon the amount of information and analysis contained therein); Acevedo v. Shinseki, 25 Vet. App. 286, 294 (2012) (medical reports must be read as a whole and in the context of the evidence of record).  In this regard, the examination report shows the Veteran's blood pressure was recorded as 148/86, 145/85, and 149/89.  See C&P Exam, received December 2022, dated November 2022.
+
+Based on this evidence, the Board finds a compensable disability rating is not warranted for the Veteran's hypertension.  The evidence of record demonstrates that the Veteran's hypertension is controlled and that his systolic blood pressure readings are predominantly below 160 and his diastolic blood pressure readings predominantly below 100.  The Board recognizes that the beneficial effects of the Veteran's hypertension medication are not known, as he was already on a medication to treat his hypertension when he initiated VA treatment in December 2005 and January 2006.  Accordingly, any reasonable doubt as to the Veteran's diastolic blood pressure readings prior to his medication use will be resolved in the Veteran's favor.  However, even resolving doubt in the Veteran's favor, there are no diastolic blood pressure readings at 100 or above that would allow the Board to conclude his diastolic blood pressure was predominantly 100 or above prior to his medication use.  Importantly, the Veteran has not reported diastolic blood pressure readings, current or historical, at 100 or above.  The Board acknowledges the Veteran's blood pressure was recorded as 166/83 in January 2006, 160/64 in March 2006, 163/78 in December 2011, 162/78 in February 2012, and 162/67 in September 2013; however, finds that these five readings of systolic pressure at 160 or above do not demonstrate systolic pressure predominantly at 160 or above when compared to the much greater number of readings showing systolic pressure below 160.
+
+As such, the evidence does not support finding that the Veteran's systolic pressure is predominantly (i.e., most frequently or commonly) 160 or more, that the Veteran's diastolic pressure is predominantly 100 or more, or that the Veteran's historical diastolic pressure was predominantly 100 or more prior to his use of medication for control.
+
+The Board is sympathetic to the Veteran's belief that a higher rating is warranted.  However, he has not been shown to possess the required medical expertise and therefore competency to render an opinion on the severity of his hypertension.  Moreover, the criteria are objective, and the objective evidence does not meet the above-mentioned criteria for a compensable disability rating for hypertension.  Accordingly, for the foregoing reasons, the Board finds a compensable disability rating for the Veteran's hypertension is not warranted.  The objective criteria have not been met.  38 U.S.C. § 5107;?38 C.F.R. § 3.102; Lynch v. McDonough,?21 F.4th 776 (Fed. Cir. 2021).  The claim must be denied. 
+
+ 
+
+ 
+
+A. S. CARACCIOLO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Infante, Peter
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

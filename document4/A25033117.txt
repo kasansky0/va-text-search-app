@@ -1,0 +1,65 @@
+Citation Nr: A25033117
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240307-421798
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to an initial rating in excess of 10 percent for allergic rhinitis is denied.
+
+FINDING OF FACT
+
+The competing lay and medical evidence weighs persuasively against finding that the Veteran's allergic rhinitis was manifested by polyps. The evidence is not in approximate balance.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial rating in excess of 10 percent for allergic rhinitis are not met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.7, 4.97, Diagnostic Code (DC) 6522.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from October 2000 to January 2015. 
+
+Entitlement to service connection for allergic rhinitis was granted in an October 24, 2022 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO), effective August 10, 2022. In October 2023, the AOJ issued a rating decision as a result of a "special review." The decision found that entitlement to service connection, originally assigned on a presumptive basis, was warranted on a direct basis. Therefore, the 10 percent rating was reassigned, effective August 10, 2022. 
+
+The Veteran requested higher-level review of the October 2023 rating decision, and entitlement to an increased rating was denied in a February 2024 higher-level review rating decision. The Veteran appealed from that higher-level review rating decision.  As the October 2023 rating decision reassigned the initial rating for allergic rhinitis, this appeal is from the initial rating for allergic rhinitis. 
+
+In the March 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the?Board of Veterans' Appeals?(Board) may only consider the evidence of record at the time of the October 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the October 2023 decision, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Veteran contends that his allergic rhinitis is more severely disabling than contemplated by the currently assigned noncompensable rating. 
+
+Under DC 6522, a 10 percent rating is warranted for allergic or vasomotor rhinitis without polyps, but with greater than 50 percent obstruction of nasal passage on both sides or complete obstruction on one side. A 30 percent rating is warranted for allergic or vasomotor rhinitis with polyps. 38 C.F.R. § 4.97.
+
+On VA examination in July 2022, the Veteran reported allergic rhinitis flare-ups "all the time." He reported that he was always sneezing and coughing with running eyes/nose and pain in the eyes/face. He described embarrassment in a social setting due to symptom flare-ups and stated that flare-ups caused him to want to rest in bed and prevented him from playing with his children. The examiner found greater than 50 percent obstruction of the nasal passages on both sides, but no nasal polyps.  
+
+A November 2022 private treatment record revealed an "assessment [and] plan" of "[c]ough, [m]edication [r]efill..., [n]asal [p]olyps and [s]hin [s]plints." In the body of the report it was explained that the Veteran was requesting to be checked for nasal polyps. That record did not report any specific finding of nasal polyps at that time. On the contrary, the physician found "all systems reviewed and negative except cough, nasal congestion, fatigue, shoulder pain, leg pain and headaches." 
+
+A January 2023 VA treatment record reported allergic rhinitis with congestion and runny nose over the past week. There was post-nasal drip and cough when lying flat. The clinician reported poor adherence to medication.
+
+A June 2023 VA treatment record described allergic rhinitis and conjunctivitis with intermittent congestion and runny nose. The clinician again reported poor adherence to medication. 
+
+The evidence of record weighs persuasively against finding that a rating in excess of 10 percent is warranted for allergic rhinitis, because there is no evidence of nasal polyps during the appeal period.
+
+The Board acknowledges the Veteran's reports of symptoms of sneezing and coughing with running eyes/nose, conjunctivitis, pain in the eyes/face, conjunctivitis, embarrassment in social settings, wanting to lie in bed and being unable to play with his children during allergic rhinitis flare-ups. These symptoms are not explicitly contemplated by DC 6522. However, allergic rhinitis is defined as a general term used to denote any allergic reaction of the nasal mucosa; it may occur perennially (nonseasonal allergic) or seasonally (hay fever). Dorland's Illustrated Medical Dictionary, 1639 (32nd ed. 2012). Seasonal allergies (sometimes called hay fever) are defined as "a type of allergic rhinitis that occurs at the same time every year, marked by acute conjunctivitis [of the eyes] and lacrimation and itching, swelling of the nasal mucosa, sneezing, and often asthmatic symptoms." Id. at 692. Considering these definitions, the Board finds that the Veteran's complaints of sneezing and coughing, running eyes/nose, pain in the eyes/face and conjunctivitis are symptoms which are contemplated in the rating criteria which consider the symptomatology associated with nasal obstruction and/or polyps. Additionally, limitations such as embarrassment in social settings, wanting to lie in bed and being unable to play with his children during flare-ups are contemplated by the rating criteria, in that these are expected results of the Veteran's symptoms.
+
+However, even to the extent that symptoms of embarrassment in social settings, wanting to lie in bed and being unable to play with his children are not contemplated by DC 6522, the Veteran is already separately service connected for an adjustment disorder with mixed anxiety and depressed mood, rated 50 percent disabling, based on symptoms including anxiety, depressed mood, chronic sleep impairment, and disturbances of motivation and mood resulting in occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks, although generally functioning satisfactorily, with normal routine behavior, self-care and conversation. See June 2022 VA examination; 38 C.F.R. § 4.130, DC 9440. To the extent the Veteran's embarrassment in social settings, wanting to lie in bed, and being unable to play with his children during allergic rhinitis flare-ups are not contemplated under DC 6522, they are contemplated by the already assigned rating under DC 9440. Any additional award of benefits based on those symptoms would violate the rule against pyramiding (rating the same disability or its manifestations under different DCs). See 38 C.F.R. § 4.14; Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994).
+
+Finally, the Board acknowledges that the Veteran uses medication to treat his rhinitis symptoms. In Jones v. Shinseki, 26 Vet. App. 56, 63 (2012), the Court of Appeals for Veterans Claims held that, when assigning a disability rating, the Board may not consider the ameliorative effects of medication where those effects are not explicitly contemplated by the rating criteria. "Thus, if [the applicable DC] does not specifically contemplate the effects of medication, the Board is required, pursuant to Jones, to discount the ameliorative effects of medication when evaluating [the disability]. Conversely, if [the applicable DC] does specifically contemplate the effects of medication, then Jones is inapplicable." McCarroll v. McDonald, 28 Vet. App. 267, 271 (2016) (en banc). Here, DC 6522 does not contemplate the effects of medication. However, there is no evidence of record that, in the absence of medication, the Veteran's rhinitis would be manifested by nasal polyps. Indeed, the January and June 2023 VA treatment records suggest that the Veteran had poor adherence to medication, yet there was no indication of nasal polyps at that time. Therefore, no higher rating can be assigned on this basis. 
+
+Based on the foregoing, the Board finds that the competent and credible evidence is neither evenly nor approximately balanced as to whether a rating in excess of 10 percent for allergic rhinitis is warranted. Rather, the evidence persuasively weighs against finding that allergic rhinitis was manifested by polyps. The benefit of the doubt doctrine does not apply. 38 U.S.C. § 5107(b), Lynch, supra. The claim is denied.
+
+ 
+
+ 
+
+LAURA E. COLLINS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Bametzreider, Paul J.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

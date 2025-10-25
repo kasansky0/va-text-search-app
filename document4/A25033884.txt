@@ -1,0 +1,75 @@
+Citation Nr: A25033884
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 191015-38467
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for a neck disability is dismissed.
+
+Entitlement to service connection for obstructive sleep apnea is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran requested a withdrawal of his neck disability service connection appeal at a Board hearing on December 1, 2023, prior to the promulgation of a decision in the appeal.
+
+2. The withdrawal of the neck disability service connection appeal at the December 2023 Board hearing was explicit, unambiguous, and done with a full understanding of the consequences.
+
+3. Resolving reasonable doubt in the Veteran's favor, his obstructive sleep apnea was caused by his service-connected posttraumatic stress disorder.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for withdrawal of a neck disability service connection appeal by the Veteran have been met. 38 U.S.C. § 7105; 38 C.F.R. § 20.205.
+
+2. The criteria for service connection for obstructive sleep apnea have been met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from February 5, 1983, to February 6, 1983; February 20, 1991, to May 31, 1991; and October 6, 1994, to November 14, 1994, with additional National Guard service. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2019 Department of Veterans Affairs (VA) Regional Office rating decision. 
+
+In October 2019, the Veteran submitted VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), and selected the Hearing docket. The Veteran testified before a Veterans Law Judge in December 2023. A copy of the transcript has been associated with the electronic claims file.
+
+As the Veteran selected the Hearing docket, the Board may only consider the evidence of record at the time of the July 2019 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran at the hearing or within 90 days following the hearing. 38 C.F.R. § 20.302(a). If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the Board hearing, or (2) more than 90 days following the hearing, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.302(a), 20.801. 
+
+With respect to the obstructive sleep apnea claim, if the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. Entitlement to service connection for a neck disability is dismissed.
+
+The Board may dismiss any appeal that fails to allege a specific error of fact or law in the determination being appealed. 38 U.S.C. § 7105. An appeal may be withdrawn as to any or all issues involved in the appeal at any time before the Board promulgates a decision. 38 C.F.R. § 20.205. Withdrawal may be made by the claimant or their authorized representative. 38 C.F.R. § 20.205(a). To be effective, a withdrawal of an appeal made verbally on the record during a hearing before the Board, must be "explicit, unambiguous, and done with a full understanding of the consequences of such action on the part of the claimant." Delisio v. Shinseki, 25 Vet. App. 45, 57 (2011).
+
+At the Veteran's December 2023 Board hearing the Veterans Law Judge (VLJ) stated, "The second claim is a neck condition. However, [the Veteran] is seeking to withdraw that as he believes it is not related to his active-duty service." The VLJ then asked the Veteran if this was correct, and the Veteran responded, "Yes." The VLJ proceeded to ask if the Veteran understood that "if the court dismisses your neck condition claim based on your withdrawal request, that any future granted benefits for such neck condition claim would be based on any future application." The Veteran responded that he understood.
+
+As the Veteran expressed an understanding that he was withdrawing his neck disability appeal and any future compensation for a neck disability would be based on a future application for benefits, the Board finds that the withdrawal of the appeal at the December 2023 Board hearing was explicit, unambiguous, and done with a full understanding of the consequences.
+
+As the Veteran has withdrawn this appeal, there remain no allegations of errors of fact or law for appellate consideration. Accordingly, the Board does not have jurisdiction to review the appeal and it is dismissed.
+
+2. Entitlement to service connection for obstructive sleep apnea is granted.
+
+The Veteran seeks service connection for obstructive sleep apnea (OSA).
+
+Service connection may be established on a secondary basis for a present disability that is caused or aggravated by a service-connected disease or injury. 38 C.F.R. § 3.310(a). 
+
+The criteria for secondary service connection "contemplate[] multi-causal links." Spicer v. McDonough, 61 F. 4th 1360, 1364 (Fed. Cir. 2023). Obesity may serve as an "intermediate step" in a causal chain between a service-connected disability and another present disability. VA Office of General Counsel Precedent Opinion 1-2017. In other words, if a service-connected disability causes obesity, and that obesity causes or aggravates another disability, then secondary service connection is warranted for the second disability.
+
+The "present disability" service connection requirement has been satisfied, as the Veteran was diagnosed with OSA by sleep study in July 2018.
+
+Resolving reasonable doubt in the Veteran's favor, the Board finds that the Veteran's OSA was caused by his service-connected posttraumatic stress disorder (PTSD). In March 2019, a VA examiner rendered an opinion that the Veteran's PTSD caused his OSA, citing to two internet resources. One of the cited resources, a press release by the American Academy of Sleep Medicine described study findings that showed a strong correlation between PTSD and OSA, including a finding that the risk for OSA increases with PTSD symptom severity. The March 2019 opinion is accorded probative weight because it is supported by both medical literature suggestive of a causal relationship and evidence indicating that the Veteran's OSA symptoms began during periods of active service and active duty for training with intense physical and psychological demands. Specifically, the Veteran's fellow service members offered written statements in April 2019 and February 2024, stating that they recalled him snoring heavily and struggling to breathe in his sleep during these periods. 
+
+The Board notes that the same VA examiner who rendered the March 2019 opinion rendered a second, negative nexus opinion in July 2019. In the second opinion, the examiner stated that medical literature does not support the proposition that the Veteran's OSA was caused by obesity due to his service-connected PTSD, and that to say that the Veteran's PTSD caused obesity would be mere speculation. This opinion is inadequate for adjudication because it rests on the examiner's aversion to speculation. Medical opinions are inherently speculative, requiring not medical certainty but an assessment of probability. Jones v. Shinseki, 23 Vet. App. 382, 388 (2016). As the examiner refused to assess probability, the opinion is accorded no probative weight.
+
+Resolving reasonable doubt in the Veteran's favor, the probative evidence of record supports a finding that his OSA was caused by his service-connected PTSD. See 38 U.S.C. § 5107(b) ("When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant."); Lynch v. McDonough, 21 F.4th 776, 780 (Fed. Cir. 2021). Accordingly, service connection for OSA is granted. 
+
+ 
+
+KRISTI L. GUNN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Karp, B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

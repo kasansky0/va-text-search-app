@@ -1,0 +1,87 @@
+Citation Nr: A25033074
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240514-442219
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for sleep apnea is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from June 1992 to June 1996.
+
+The rating decision on appeal was issued in November 2023; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  The AMA automatically applies to all claims for which VA issues notice of an initial decision on or after February 19, 2019.  See 38 C.F.R. § 3.2400(a)(1).
+
+In July 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the issue of entitlement to service connection for OSA most recently addressed in an April 2023 rating decision.  See VA Form 20-0995 Supplemental Claim Application (July 2023); Rating Decision (April 2023).  In a November 30, 2023, rating decision, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision.  See Rating Decision (November 2023).  
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  See VA Form 10182 Notice of Disagreement (May 2024).  Therefore, the Board may only consider the evidence of record at the time of the November 30, 2023, AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of this claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+Entitlement to service connection for sleep apnea is remanded.
+
+The Veteran contends that his OSA is secondary to his service-connected PTSD because his mental health and fatigue decreased his activity and caused poor food choices which led to obesity, and in turn, his OSA.  See VA 21-4138 Statement In Support of Claim (December 2022).  
+
+Service connection may be granted for a disability that is proximately due to, or aggravated by, service-connected disease or injury. 38 C.F.R. § 3.310. A claim for secondary service connection requires medical evidence that connects the asserted secondary disability to the service-connected disability. Wallin v. West, 11 Vet. App. 509, 512 (1998). In order to establish entitlement to service connection on this secondary basis, there must be (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) medical evidence establishing a link between the service-connected disability and the current disability. Id. Secondary service connection may also be established for a nonservice-connected disability which is aggravated by a service-connected disability. In such an instance, a veteran may be compensated for the degree of disability over and above the degree of disability existing prior to the aggravation. 38 C.F.R. § 3.310(b); see Allen v. Brown, 7 Vet. App. 439, 448 (1995).
+
+Indirect secondary service connection can be granted with obesity acting as an "intermediate step." See VAOPGCPREC 1 2017 (Jan. 6, 2017). Specifically, a grant is warranted (1) if the service-connected disability caused or aggravated the obesity, (2) if obesity was a substantial factor in causing a subsequent disability, and (3) if the subsequent disability would not have occurred but for obesity. Id. 
+
+The issue of entitlement to service connection for OSA is remanded to correct a duty to assist error that occurred prior to the rating decision on appeal.  
+
+VA's duty to assist claimants in the development of their claims includes obtaining an examination and/or opinion when necessary to decide the claim. 38 U.S.C. § 5103A(d); 38 C.F.R. § 3.159(c)(4). Further, once an examination or opinion is obtained, VA must ensure that it is adequate. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that it is adequate). 
+
+Here, there are December 2022 and September 2023 VA-obtained examinations.  See C&P Exam (January 2023); C&P Exam (September 2023).  Additionally, etiological opinions were obtained.  See C&P Exam (April 2023); C&P Exam (September 2023); C&P Exam (October 2023).  The VA examinations provided a diagnosis of OSA.  See C&P Exam at 2 (January 2023); C&P Exam at 3 (September 2023).  In an April 2023 VA-obtained opinion report, the clinician opined that OSA was not proximately due to or the result of the Veteran's service-connected PTSD or headaches because there were no shared underlying mechanisms.  See C&P Exam at 3 (April 2023).  In a September 2023 VA-obtained opinion report, the clinician opined that OSA is less likely as not incurred in or caused by the claimed in-service injury, event, or illness, reasoning that the earliest diagnosis was in 2018 which was 22 years after service discharge.  See C&P Exam at 3 (September 2023).  In an October 2023 VA-obtained opinion report, the clinician opined that the OSA was less likely than not caused by the indicated TERAs after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all TERAs of the Veteran.  See C&P Exam at 4 (October 2023).  The clinician reasoned that medical literature does not have conclusive evidence to connect OSA and the Gulf War and that the Veteran's obesity as a risk factor far outweighed the risk factor of TERAs.  See C&P Exam at 6 (October 2023).  
+
+The Board finds that, taken together, the etiological opinions are insufficient for adjudicative purposes.  First, none of the opinions address the Veteran's main theory of service connection:  that his OSA is secondary to his service-connected PTSD with obesity as an intermediate step.  See VA 21-4138 (December 2022).  Generally, a medical opinion should address the appropriate theories of entitlement.  Stefl v. Nicholson, 21 Vet. App. 120, 123-24 (2007).  Second, the opinion improperly considered "proximate" causation when addressing the causation prong of secondary service connection and did not address the aggravation prong of secondary service connection.  See Spicer v. McDonough, 61 F.4th 1360, 1364-66 (2023) (invalidating the requirement of "proximate cause" and instead held a "but-for" causation or aggravation is enough to show entitlement to secondary service connection); El-Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013) (noting that in a secondary service connection claim, a medical opinion that a disorder is not the result of an already service-connected disability does not address the issue of aggravation).  
+
+Therefore, remand is necessary to correct a duty to assist error on the part of the originating agency in satisfying its duties under 38 U.S.C. § 5103A, which occurred prior to the rating decision on appeal.  See 38 C.F.R. § 20.802.
+
+The Board acknowledges that the Veteran provided VA with two private medical opinions. The first opinion is from C. Michael Bucci, P.A., dated in November 2022. The second is from Z. Marcos, M.D., dated in July 2023.  See Medical Treatment Record Non-Government Facility (December 2022); Medical Treatment Record Non-Government Facility (July 2023).  The Board finds, however, that the opinions are inadequate to decide the matter.  
+
+The November 2022 opinion of Mr. Bucci reflects that it was prepared for the purpose of supporting the Veteran's claim for benefits-noting VA recognized standards of review (e.g. "at least as likely as not"). It further reflects that the Veteran has a medical history of gaining 110 pounds due to inactivity and his service-connected PTSD, that he has difficulty sleeping due to nocturnal leg kicks, vivid nightmares, and insomnia, and currently takes Zoloft which studies show contribute to weight gain.  The clinician opined that the Veteran's obesity was at least as likely as not due to and/or related to his service-connected PTSD, that the OSA is related to, or aggravated by, obesity from the PTSD, and that the OSA would not have occurred without the weight gain and obesity.  See Medical Treatment Record - Non-Government Facility at 3 (December 2022).  
+
+The Board finds that this opinion is inadequate because it is largely conclusory, lacking a clear and sufficiently reasoned explanation for the conclusions reached. In this regard, it cites broadly to medical literature, but the cited studies that, at best, note only a correlation or association between symptoms of mental health disorders and obesity, and appears to conflate correlation with causation; Mr. Bucci seems not to know whether there is either causation or aggravation, given that he states that the Veteran's PTSD both causes and/or aggravates his obesity; and Mr. Bucci does not provide independent rationales for causation or aggravation conclusions, nor has he identified any baseline level of severity for aggravation. Here, Mr. Bucci appears to find that, because there are studies showing an association between PTSD and obesity, the Veteran's PTSD  must be caused or aggravated by his obesity. This logic is not persuasive as it relies wholly, and without medical or scientific support, on the premise that two condition cannot exist at the same time without them being causally related. Therefore, Mr. Bucci appears to confuse causation with an association. It is true that if X causes Y, then the two are associated; however, conversely, associations can arise between variables in the presence and absence of causal relationships, which is ignored or unaddressed in the opinion.
+
+The Board has further considered the July 2023 Dr. Morcos opinion that it is at least as likely as not that the Veteran's OSA is secondary to his service-connected PTSD with weight gain/obesity.  See Medical Treatment Record - Non-Government Facility at 1 (July 2023).  However, this opinion is similarly flawed. Again, providing summaries of relevant studies and articles showing an association PTSD and weight gain to support the conclusion that PTSD "predisposes" individuals to weight gain, Dr. Morcos leaps to conclude that this Veteran's obesity is due to his service connected PTSD.  However, the referenced studies or articles show no causal or aggravation type relationships. Moreover, Dr. Morcos does not discuss the studies vis-à-vis facts specific to the Veteran apart from he has weight gain and he has PTSD.  Dr. Morcos' logic is no persuasive. 
+
+Also, Dr. Morcos considered the Veteran's PTSD medications as a causative agent for his weight gain and/or obesity to support the conclusion reached. However, the studies and articles relied on by Dr. Morcos and summarized in his opinion show that medication, such as antidepressants, "may" disrupt sleep and "may worsen or induce" sleep disorders such as OSA. See e.g., MTR at 13 (July 2023). The underlying support for the conclusion lacks certainty and is couched in speculative terms.  See Polovick v. Shinseki, 23 Vet. App. 48, 54 (2009) (holding that a doctor's statement that a veteran's brain tumor "may well be" connected to Agent Orange exposure was speculative); Bloom v. West, 12 Vet. App. 185, 187 (1999) (noting that the use of the term "could," without other rationale or supporting data, is speculative); Obert v. Brown, 5 Vet. App. 30, 33 (1993) (noting that a medical opinion expressed in terms of "may" also implies "may or may not" and is too speculative to establish a causal relationship).
+
+For the above reasons, the Board finds the Veteran-obtained medical opinions are inadequate to decide the matter.
+
+In remanding this matter, the Board makes no finding, implicit or otherwise, as to the credibility of the Veteran's assertions.  Neither the Veteran's credibility nor any lack thereof should be presumed in this remand.
+
+The matters are REMANDED for the following action:
+
+Obtain a medical opinion addressing the etiology of the Veteran's OSA.  The entire claims file, to include a copy of this REMAND, should be made available to and reviewed by the clinician.  The phrase "at least as likely as not" means the likelihood is at least approximately balanced or nearly equal.  
+
+NOTE (1): If any medical history is rejected, a complete explanation is required. 
+
+NOTE (2): If an opinion cannot be expressed without resort to speculation, the clinician must indicate and discuss why an opinion is not possible, to include whether there is additional evidence that could enable an opinion to be provided, or whether the inability to provide the opinion is based on the limits of medical knowledge. Jones v. Shinseki, 23 Vet. App. 382, 391 (2010).
+
+The clinician should address the following:
+
+(a)	Is it at least as likely not that the Veteran's service-connected disabilities, including PTSD,:
+
+(1) caused the Veteran's obesity; or (2) aggravated (worsened beyond normal progression) his obesity?  Explain.  Provide a separate rationale for the causation and aggravation questions.  If there is aggravation, provide a baseline severity before the aggravation.
+
+(b)	If so, was the resulting obesity a substantial factor in causing or aggravating the Veteran's OSA?  Explain.   
+
+(c)	If yes, "but for" the Veteran's obesity would he have developed OSA? Explain.
+
+Consider the November 2022 and July 2023 Veteran-provided opinions of Mr. Bucci and Dr. Morcos, to include the studies and/or medical literature summarized therein.
+
+ 
+
+ 
+
+C.A. SKOW
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K.M., Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

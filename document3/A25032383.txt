@@ -1,0 +1,113 @@
+Citation Nr: A25032383
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240102-404551
+DATE: April 8, 2025
+
+ISSUE
+
+Entitlement to service connection for left shoulder rotator cuff tendonitis ("left shoulder"), to include as secondary to service-connected right shoulder rotator cuff tendonitis ("right shoulder").
+
+REMAND ORDER
+
+Entitlement to service connection for left shoulder, to include as secondary to service-connected right shoulder is REMANDED.
+
+FACTUAL AND PROCEDURAL HISTORY
+
+The Veteran served on active duty in the United States Army from May 1986 to January 2007.  
+
+On October 10, 2021, the Veteran filed a disability claim for entitlement to service connection for left shoulder with the Department of Veterans Affairs (VA).  On December 28, 2021, the VA Regional Office (RO) issued a rating decision denying service connection for left shoulder.
+
+On November 9, 2022, the Veteran filed a supplemental claim for entitlement to service connection for left shoulder with the VA.  On March 13, 2023, the RO issued a rating decision confirming the denial of service connection for left shoulder.
+
+On May 4, 2023, the Veteran filed a supplemental claim for entitlement to service connection for left shoulder with the VA.  On July 25, 2023, the RO issued a rating decision confirming the denial of service connection for left shoulder.
+
+On July 31, 2024, the Appellant filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Appellant elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the rating decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the July 2023, rating decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the RO in the readjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+REASONS FOR REMAND
+
+The Veteran seeks service connection of his left shoulder, and contends his left shoulder is secondary to his service-connected disability of right shoulder.  See October 2021, Statement in Support of Claim.  Specifically, the Veteran contends his left shoulder condition is "due to relying on my healthier shoulder to avoid pain in my VA-rated shoulder."  Id.  
+
+Service Connection
+
+Review of the Veteran's Service Treatment Records (STRs) show a treatment note concerning the Veteran's shoulders.   On August 23, 2004, the Veteran completed a Report of Medical History, where he indicated "Yes" for painful shoulder, elbow or wrist.  See December 2017, STR.  The Veteran then wrote an explanation for his "Yes" answer, stating "elbow pain, shoulder, neck pain."  Id.  
+
+This evidence was part of the record at the time the RO issued the rating decision on appeal.  And, on this record, the RO did not obtain a direct medical opinion for the claimed left shoulder at issue.
+
+In McLendon v. Nicholson, 20 Vet. App. 79 (2006), the Court of Appeals for Veterans Claims (Court) set forth criteria considered when determining whether a VA examination is necessary to assist in establishing service connection on a direct basis.  
+
+The Court held that a VA examination is warranted when there is:  
+
+(1) competent evidence of a current disorder or persistent or recurrent symptoms of a disorder; (2) evidence establishing that an event, injury, or disease occurred in service or establishing certain diseases manifesting during an applicable presumptive period for which the claimant qualifies; and (3) an indication that the disorder, or persistent or recurrent symptoms of a disorder, may be associated with the Veteran's active military service, but that (4) insufficient competent medical evidence is on file for the VA Secretary to make a decision on the claim.? 
+
+Id. at 81. 
+
+The Court further explained that: 
+
+The types of evidence that indicate that a current disability may be associated with military service include, but are not limited to, medical evidence that suggests a nexus but is too equivocal or lacking in specificity to support a decision on the merits, or credible evidence of continuity of symptomatology such as pain or other symptoms capable of lay observation. 
+
+Id. at 83 (internal quotation marks and citation omitted). The threshold for finding a link between current disability and service is low.  Id.; Locklear v. Nicholson, 20?Vet. App.?410 (2006). 
+
+The law establishing the modernized review system abrogated the Secretary's duty to assist for cases on appeal to the Board. 38?U.S.C. §?5103A(e)(2).  But the duty to assist remains in full force when a claim is before the RO for adjudication. Id. § 5103A(e)(1). And if the Board identifies a duty-to-assist error that occurred prior to the issuance of the decision on appeal, it must remand the matter to the RO to cure the error. Id. § 5103A(f)(2)(A). 
+
+So, the question for the Board is whether deciding the claim without obtaining a medical opinion, of the Veteran constitutes a pre-decisional duty-to-assist error, for which the Board must remand the claim to cure.  Accordingly, the locus of the inquiry is on what was before the RO at the time of the decision on appeal and if that evidence met the low threshold to indicate an association triggering the duty to assist. 
+
+Applying this legal framework to the facts of the instant matters pertaining to the claimed left shoulder, the Board finds that at the time the RO issued the rating decision on appeal there was competent evidence of a left shoulder condition ; and evidence in the Veteran's STR's indicate that while he was in service he had pain in his shoulder; there is an indication the Veteran's left shoulder condition could be associated with his military service; but there is insufficient competent medical evidence to decide the claims.? 
+
+Based only on the evidence of the record at the time the RO issued the rating decision on appeal, and under the?low bar?of?McLendon, the Board finds each of the four elements have been met and concludes that the Veteran should have been afforded VA direct medical opinion to determine the nature and etiology of the claimed left shoulder prior to a decision being made on his claim.  
+
+The Board concludes that error must be cured, on remand, by scheduling the Veteran for an examination, as outlined below. 
+
+Secondary Service Connection
+
+Because the legal landscape has shifted appreciably on the question of secondary service connection, the Board believes the following explication will be of some small service to the cause of justice and judicial economy and efficiency-the avoidance of remands.
+
+The United States Court of Appeals for the Federal Circuit (Federal Circuit) had recent occasion to consider matters relevant to the instant case and their holding illuminates the Board's way (and the RO's on remand). 
+
+In Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023), the Federal Circuit held that under the causation standard of section 1110 of Title 38 of the United States Code, secondary service connection is warranted where a nonservice-connected disability would have been less severe "but-for"  a service connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability.  Id. at 1365.
+
+In the same case, the Federal Circuit expressly held that section 3.310(b) of Title 38 of Code of Federal Regulations, the regulation that would otherwise control the outcome here, is unlawful because it is inconsistent with section 1110 of Title 38 of the United States Code.  Id. at 1366.
+
+After careful review, the Board concludes that the opinion in the record does not address the correct legal standards and the holding in Spicer.  61 F.4th at 1364-66.  
+
+The June 2023, VA examiner opined it was less likely than not the Veteran's left shoulder was proximately due to or the result of the Veteran's service-connected right shoulder.  Specifically, the examiner stated 
+
+There is no clear evidence form review of orthopedic literature to suggest than an injury to one joint would have any significant impact on another or opposite uninjured joint or limb, unless the injury resulted in a major muscle or nerve damage causing partial or complete paralysis, or shortening of the injured limb resulting in length discrepancy of more than 5 cm so that the individual's gain pattern has been altered to the extent that clinically there is an obvious Trendelenburg gait.  This level of severity is not supported based on record review, history or exam.  It is not unusual for two joints to share properties in the same person, but one joint's disease does not 'spread' to another or cause damage to it.  Therefore the LT Shoulder Rotator Cuff Tendonitis is less likely than not related to RT Shoulder Rotator Cuff Tendonitis.   
+
+In reaching their opinion, the examiner used the proximate cause standard from the then-controlling regulation now struck down by the Spicer court.  Accordingly, the Board finds this opinion inadequate because it is premised upon a standard which has departed the firmament; that is to say, it is no longer good law.  Barr v. Nicholson, 21 Vet. App. 303 (2007).  ("Once VA undertakes the effort to provide an examination when developing a service-connection claim . . . VA must provide an adequate one").  
+
+Additionally, the examiner does not address the Veteran's contention from his October 2021, Statement in Support of Claim that his left shoulder condition is "due to relying on my healthier shoulder to avoid pain in my VA-rated shoulder."  See October 2021, Statement in Support of Claim.
+
+Therefore, the Board finds that a remand is warranted to obtain an addendum opinion, as outlined below, in accordance with the holding in Spicer.
+
+The matter is REMANDED for the following actions:
+
+Obtain a medical opinion from an appropriate VA clinician regarding the etiology of the Veteran's left shoulder.  The evidentiary record, including a copy of this remand decision, must be made available to, and reviewed by, the clinician.  The reviewing clinician must opine on:
+
+(a)	Whether it is at least as likely as not that the Veteran's left shoulder was incurred in service and is related to an in-service injury, event, or illness.
+
+(b)	Whether it is approximately at least as likely as not that the service-connected right shoulder, was a "but-for cause" of (caused an increase in the severity of, or an inability to treat) the Veteran's left shoulder?  Spicer, 61 F.4th at 1364-66.
+
+A complete rationale, including citation to appropriate medical principles, for the opinion reached must be provided. 
+
+(Continued on the next page)
+
+?
+
+The examiner is respectfully reminded that the absence of in-service evidence of disability is not fatal to a service connection claim. Ledford v. Derwinski, 3 Vet. App. 87, 89 (1992).
+
+ 
+
+ 
+
+STEVEN V. ADLER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	H.E. Toole, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

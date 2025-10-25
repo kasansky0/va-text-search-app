@@ -1,0 +1,97 @@
+Citation Nr: A25033404
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240531-444850
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for nonalcoholic fatty liver disease (NAFLD) is granted. 
+
+FINDING OF FACT
+
+The evidence is at least in approximate balance as to whether the Veteran's NAFLD is proximately due to obesity caused by his service-connected asthma.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for NAFLD, secondary to obesity caused by service-connected asthma, have been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Marine Corps from August 2008 to April 2013.
+
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a May 2024 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO).  In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the May 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to service connection for NAFLD is granted.
+
+The Veteran seeks service connection for NAFLD as secondary to his service-connected asthma.  See January 2024 VA Form 21-526EZ.  Upon review, the Board finds that the evidence is at least in approximate balance as to whether the Veteran's NAFLD is due to obesity caused by his service-connected asthma.
+
+Service Connection
+
+Service connection may be granted for any current disability that is the result of a disease contracted or an injury sustained in the line of duty during active military service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  Service connection may be granted for a disease diagnosed after discharge, when the evidence, including that pertinent to service, establishes the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Establishing service connection on a "direct" basis generally requires medical, or in certain circumstances, lay evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a link between the claimed in-service disease or injury and the present disability.  Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).  Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38?C.F.R. §?3.303(d).
+
+Service connection may also be established on a secondary basis for a disability which is due to, or the result of, a service-connected disability.  38 C.F.R. § 3.310(a).  Service connection on a secondary basis may also be established for a disorder which is aggravated by a service-connected disability; compensation may be provided for the degree of disability (but only that degree) over and above the degree of disability existing prior to the aggravation.  38 C.F.R. § 3.310(b); Allen v. Brown, 8 Vet. App. 374 (1995).
+
+In order to prevail on the issue of secondary service connection, the record must show: (1) a current disability; (2) a service-connected disability; and (3) a medical nexus between the current disability and the service-connected disability.  See Wallin v. West, 11 Vet. App. 509 (1998); Allen v. Brown, supra.
+
+While obesity is not recognized by VA as a disease or disability for compensation purposes, it may serve as an intermediate step when considering secondary service connection under 38 C.F.R. § 3.310.  See VAOPGCPREC 1-2017.  In Walsh v. Wilkie, 32 Vet. App. 300, 307 (2020), the United States Court of Appeals for Veterans Claims (Court) held that proper interpretation of G.C. Prec. Op. 1-2017 requires consideration of both proximate causation and aggravation in its analytical framework.  If the following questions are answered in the affirmative, then the current disability may be service connected on a secondary basis: (1) whether the service-connected disability caused the veteran to become obese or aggravated the veteran's obesity; (2) if so, whether obesity was a substantial factor in causing the current disability; and (3) whether the current disability would not have occurred but for obesity caused or aggravated by the service-connected disability.  Id. 
+
+The determination as to whether the requirements for service connection are met is based on an analysis of all evidence of record and an evaluation of its credibility and probative value.  Baldwin v. West, 13 Vet. App. 1 (1999); 38 C.F.R. § 3.303(a).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.?  See 38?U.S.C. §?5107;?38?C.F.R. §?3.102.
+
+Factual Background
+
+In January 2007, the Veteran underwent a commissioning physical which noted no abnormalities of the abdomen and viscera upon clinical evaluation.  See January 2007 Report of Medical Examination.  In April 2013, the Veteran underwent a separation assessment, and no liver related issues were indicated.  See April 2013 Report of Medical Assessment.  The Veteran's remaining service treatment records (STRs) are silent to complaints of, or treatment for, NAFLD or related symptomatology.  See STR - Medical.
+
+VA treatment records reveal diagnoses of obesity and NAFLD.  In December 2021, the Veteran was diagnosed with obesity and a body mass index (BMI) of 33 was indicated.  See December 2021 Gastroenterology Note.  In September 2023, the Veteran was diagnosed with NAFLD and instructed to follow up with his gastroenterologist.  See September 2023 Primary Care Note.
+
+In January 2024, the Veteran submitted a liver conditions disability benefits questionnaire (DBQ) which had been completed by his private physician.  See January 2024 Liver Conditions DBQ.  The physician indicated a diagnosis of NAFLD and indicated an onset date of January 1, 2023.  Id.  The Veteran reported experiencing right upper quadrant pain, abdominal tenderness, chronic fatigue, occasional nausea, and vomiting.  Id.  The Veteran further reported that he was placed on dietary restrictions and that his doctor recommended using weight loss medication.  Id.  
+
+In an associated medical opinion, the physician opined that the Veteran's NAFLD was at least as likely as not due to his service-connected asthma.  See January 2024 Medical Opinion DBQ.  The physician supported his opinion with the following rationale: 
+
+The Veterans NAFLD is obesity related, and his medical record demonstrates a progressive weight gain and obese BMI of 36. Considering the Veteran's complete records, asthma is likely the etiology of his weight gain. Per peer-reviewed medical literature, asthma patients have a significantly increased risk for obesity due to reduced physical activity since symptoms like wheezing and shortness of breath restrict exercise. Obesity can cause fatty liver disease by increasing insulin resistance, inflammation, triglycerides, and fatty acids in the body, which lead to fat accumulation in the liver. The Veteran's medical file lacks a contrary interval history that would otherwise result in his NAFLD condition; therefore, a nexus connection is warranted.
+
+Id.  
+
+In May 2024, the Veteran was afforded a VA examination for his claimed NAFLD.  See May 2024 Liver Conditions DBQ.  The examiner noted the Veteran's NAFLD and indicated a diagnosis date of September 21, 2023.  Id.  The Veteran reported symptoms of fatigue and nausea and noted that his doctor wanted to put him on weight loss medication, but his insurance wouldn't cover it.  Id.  
+
+In a May 2024 VA medical opinion, the examiner opined that it was less likely than not that the Veteran's NAFLD was caused by his service-connected asthma.  See May 2024 Medical Opinion DBQ.  The examiner stated that the Veteran has multiple risk factors for NAFLD to include, obesity, obstructive sleep apnea, and hyperlipidemia.  Id.  The examiner concluded that there is no pathophysiological correlation between the two conditions and, therefore, the Veteran's NAFLD was not due to his asthma.  Id.  
+
+Analysis
+
+As STRs are silent to complaints of NAFLD, and as the Veteran has not asserted that his NAFLD began in service, the following analysis will address the theory of secondary service connection with obesity as an intermediate step.  As noted above, to prevail on the issue of secondary service connection, the record must show: (1) a current disability; (2) a service-connected disability; and (3) a medical nexus between the current disability and the service-connected disability.  See Wallin v. West, supra; Allen v. Brown, supra.
+
+In May 2024, the Veteran was afforded a VA examination for his claimed liver condition.  See May 2024 Liver Conditions DBQ.  The examiner indicated that the Veteran had been diagnosed with NAFLD in September 2023.  Id.  VA treatment records confirm that the Veteran's primary care physician diagnosed him with NAFLD in September 2023.  See September 2023 Primary Care Note. 
+
+Given the above, the Board finds that the first element of service connection, a current disability, has been satisfied.
+
+The Veteran is service connected for the following disabilities: asthma, tension headaches, irritable bowel syndrome, left shoulder strain, plantar fasciitis, tinnitus, lumbar scoliosis, left forearm scar, right forearm scar, and allergic rhinitis.  See August 2024 Codesheet.  As such, the Board finds that the second element of service connection, a service-connected disability, has been satisfied. 
+
+Thus, the final remaining question is whether a medical nexus exists between the Veteran's NAFLD and his service-connected disabilities.  As previously discussed, obesity may serve as an intermediate step when considering secondary service connection under 38 C.F.R. § 3.310.  See VAOPGCPREC 1-2017.  
+
+In January 2024, the Veteran submitted a private medical opinion pertaining to his NAFLD.  See January 2024 Medical Opinion DBQ.  The physician opined that that the Veteran's asthma caused his obesity, thereby resulting in NAFLD.  Id.  In support of this opinion, the examiner referenced the Veteran's medical treatment records, ruled out alternate etiologies, discussed medical literature, and explained how asthma can lead to obesity.  Id.  The examiner concluded by opining that a medical nexus was warranted.  Id.  The Board notes that this is the only opinion of record which addresses the impact of the Veteran's asthma, or any service-connected disability, on his obesity. 
+
+Generally, the degree of probative value which may be attributed to a medical opinion is determined by such factors as thoroughness, degree of detail, and whether there was review of the claims file.  See Prejean v. West, 13 Vet. App. 444, 448-9 (2000).  Here, the private physician's review of the claims file is evident as he referenced treatment records contained therein.  The physician also ruled out alternate etiologies and explained how asthma can lead to obesity.  As such, the Board finds the January 2024 private medical opinion highly probative in determining whether the Veteran's service-connected asthma caused or aggravated his obesity. 
+
+The January 2024 private medical opinion is bolstered by the May 2024 VA medical opinion.  See January 2024 Medical Opinion DBQ.  Although the examiner ultimately opined that the Veteran's asthma did not cause his NAFLD, it was noted that obesity is one of the leading risk factors in developing NAFLD.  Id.  The examiner did not provide an opinion as to whether the Veteran's asthma or other service-connected disabilities caused or aggravated his obesity.  Id.  Irrespective of the VA examiner's ultimate conclusion, the Board finds that the evidence is at least in approximate balance as to whether the Veteran's NAFLD is due to obesity caused by his service-connected asthma.  Therefore, reasonable doubt is resolved in favor of the Veteran and the claim of entitlement to service connection for NAFLD is granted.  See 38?U.S.C. §?5107;?38?C.F.R. §?3.102.
+
+ 
+
+ 
+
+YVETTE R. WHITE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Zachary J. Ellis, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

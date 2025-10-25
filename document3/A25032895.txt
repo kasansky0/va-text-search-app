@@ -1,0 +1,65 @@
+Citation Nr: A25032895
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240513-439476
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for myelofibrosis as due to a toxic exposure risk activity is granted.
+
+FINDING OF FACT
+
+The Veteran's myelofibrosis is etiologically related to service.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for myelofibrosis as due to a toxic exposure risk activity have been met. 38 U.S.C. §§ 1110, 1116, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active military service from January 1968 to January 1973, to include service in the Republic of Vietnam from October 1968 to October 1969.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision issued by the Department of Veterans Affairs (VA), agency of original jurisdiction (AOJ). The rating decision on appeal constitutes initial decisions; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Hearing docket. A Board hearing was held on April 7, 2025 before the undersigned Veterans Law Judge; a hearing transcript has been associated with the claims file. Therefore, the Board may only consider the evidence of record at the time of the March 2024 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran or representative at the hearing or within 90 days following the hearing. 38 C.F.R. § 20.302(a). If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the Board hearing, or (2) more than 90 days following the hearing, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.302(a), 20.801. The Board notes that the Veteran has waived the 90 day period to submit additional evidence following the April 2025 hearing. See page 10, hearing transcript.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection Criteria
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303. Establishing service connection generally requires evidence of: (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship (nexus) between the claimed in-service disease or injury and the present disability. See Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+The law provides a presumption of service connection for certain diseases that are associated with exposure to herbicide agents and that become manifest within a specified time period in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam or in or near the Korean Demilitarized Zone during specified periods of time, even if there is no record of evidence of such disease during the period of service. S38 U.S.C. § 1116; 38 C.F.R. § 3.307(a)(6).
+
+If a veteran was exposed to an herbicide agent during active military, naval, or air service, certain diseases shall be service-connected even though there is no record of such disease during service. 38 C.F.R. § § 3.309(e). The diseases listed at 38 C.F.R. § § 3.309(e) shall have become manifest to a degree of 10 percent or more at any time after service, except that chloracne or other acneform disease consistent with chloracne, porphyria cutanea tarda, and acute and subacute peripheral neuropathy shall have become manifest to a degree of 10 percent or more within a year after the last date on which the veteran was exposed to an herbicide agent during active military, naval, or air service. 38 C.F.R. § § 3.307(a)(6)(ii). 
+
+The Board notes that the Veteran's myelofibrosis is not an enumerated disease listed in 38 C.F.R. § 3.309(e), presumptive service connection is not warranted for herbicide agent exposure. However, service connection may still be awarded based on that exposure on a direct basis. See Combee v. Brown, 34 F.3d 1039, 1043-44 (Fed. Cir. 1994).
+
+The veteran can provide competent reports of factual matters of which he has first-hand knowledge, such as experiencing pain in service, reporting to sick call, being placed on limited duty, and undergoing physical therapy. See Washington v. Nicholson, 19 Vet. App. 362, 368 (2005). Lay evidence can be competent and sufficient to establish a diagnosis of a condition when (1) a lay person is competent to identify the medical condition (noting that sometimes the lay person will be competent to identify the condition where the condition is simple, for example a broken leg, and sometimes not, for example, a form of cancer), (2) the lay person is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional. See Jandreau v. Nicholson, 492 F. 3d 1372 (Fed. Cir. 2007). Similarly, laypersons are competent to diagnose and provide nexus opinions to some extent, notably where the diagnosis or opinion is not of a complex nature. Id., see also Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009).
+
+The determination as to whether the requirements for service connection are met is based on an analysis of all the evidence of record and the evaluation of its credibility and probative value. 38 U.S.C. § 7104(a); Baldwin v. West, 13 Vet. App. 1 (1999). When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of the matter, the Secretary shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+1. Entitlement to service connection for myelofibrosis as due to a toxic exposure risk activity is granted.
+
+The Veteran contends that myelofibrosis is related to toxic exposure risk activity during service. See February 2024 Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ). A March 2024 rating decision made favorable findings that the Veteran had been diagnosed with myelofibrosis and that his exposure to toxic exposure risk activity was conceded; the Board is bound by these favorable findings.
+
+Thus, the remining question becomes whether the current disability is related to service. In a February 2024 VA Medical Center (VAMC) treatment report, the physician P.J.S., the Veteran's treating oncologist, states that just like non-Hodgkin's lymphoma, leukemia, and myeloma are bone marrow cancers caused by Deoxyribonucleic acid (DNA) mutation that have been associated with dioxin. The provider further indicated that likewise myelofibrosis is a bone marrow cancer that is also caused by DNA mutation. The physician indicated that myelofibrosis is much less common, and therefore, due to low incidence, has not been included in the registry. The physician stated as a Board Certified Oncologist for 25 years, it was his opinion that the Veteran's myelofibrosis is a direct result of stem cell mutation caused by Agent Orange the Veteran was exposed to while on active duty. The Board finds the opinion contained clear conclusions with supporting data and a thorough rationale. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301. Therefore, the February 2024 opinion is of great probative value.
+
+In sum, the Veteran has a diagnosis of myelofibrosis and he participated in toxic exposure risk activity. The February 2024 opinion from the Veteran's treating oncologist is the only probative opinion of record is in support of the Veteran's claim for entitlement to service connection on a direct basis. Moreover, there is no sufficient basis for the Board to reject this supportive opinion and to further develop the claim. Cf. Mariano v. Principi, 17 Vet. App. 305, 312 (2003) (holding that, because it is not permissible for VA to undertake additional development to obtain evidence against a Veteran's case, VA must provide an adequate statement of reasons or bases for its decision to pursue such development where such development could be reasonably construed as obtaining additional evidence for that purpose).
+
+Accordingly, as all elements of service connection are met the Board finds that service connection for myelofibrosis as due to a toxic exposure risk activity is warranted. The appeal is granted. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Lynch v. McDonough, supra.
+
+ 
+
+ 
+
+KRISTY L. ZADORA
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. McPhaull, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,71 @@
+Citation Nr: A25033018
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 220118-212681
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is granted.
+
+FINDING OF FACT
+
+Resolving all reasonable doubt in the Veteran's favor, his bilateral hearing loss is related to in-service acoustic noise exposure.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for bilateral hearing loss have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.385, 3.307, 3.309.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from August 1972 to August 1976.
+
+The rating decision on appeal was issued in November 2021. In the January 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Evidence Submission docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2021 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran or representative with, or within 90 days from receipt of, the VA Form 10182. 38 C.F.R. § 20.303. If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the date the Board received the VA Form 10182, or (2) more than 90 days following the date the Board received the VA Form 10182, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.303, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. Entitlement to service connection for bilateral hearing loss.
+
+The Veteran is seeking service connection for bilateral hearing loss, which he contends was caused by his exposure to hazardous noise levels during service.
+
+In order to establish service connection for the claimed disability, there must be (1) medical evidence of a current disability; (2) medical, or in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical, or in certain circumstances, lay evidence of a nexus between the claimed in-service disease or injury and the current disability. See 38 C.F.R. § 3.303; see also Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Additionally, certain chronic diseases, such as organic diseases of the nervous system, including bilateral hearing loss, may be presumed to have been incurred in or aggravated by service if manifest to a compensable degree within one year of discharge from service, even though there is no evidence of such disease during service. 38 U.S.C. §§ 1101, 1112; 38 C.F.R. §§ 3.307, 3.309(a). This presumption is rebuttable by affirmative evidence to the contrary. 38 U.S.C. §§ 1101, 1112, 1113, 1137; 38 C.F.R. §§ 3.307, 3.309. 
+
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102. When a Veteran seeks benefits and the evidence is in relative equipoise, the Veteran prevails. Gilbert v. Derwinski, 1 Vet. App. 49 (1990). The benefit-of-the-doubt rule does not apply when the evidence persuasively favors one side or the other. Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).
+
+In the November 2021 rating decision, the AOJ made the favorable findings that the Veteran has diagnosed bilateral hearing loss for VA compensation purposes and that the Veteran was exposed to hazardous noise in service.
+
+These favorable findings are binding on the Board and satisfy the first and second elements of service connection. See 38 C.F.R. § 3.104(c). Therefore, the remaining inquiry is whether the Veteran's current bilateral hearing loss is related to his conceded in-service noise exposure.
+
+Based on a comprehensive review of the record, the Board finds there is evidence for and against the Veteran's claim. 
+
+The evidence in favor of the claim includes statements from the Veteran and his service treatment records.
+
+In a July 2021 statement, the Veteran reported that as an artillery crewman during service he was regularly exposed to live fire exercises without hearing protection.  He stated his hearing seemed muffled at the time and that he experienced hearing difficulties from service to the present. He noted he worked in sales following service and was not exposed to loud noise.
+
+Evidence in the Veteran's service treatment records support his account of worsened hearing during service. His hearing acuity was within the normal range for VA purposes during his August 1972 service entrance and May 1976 separation examinations, but he experienced negative shifts in puretone threshold levels between the entrance and separation examinations at the 500 Hertz, 1000 Hertz, 2000 Hertz, and 4000 Hertz frequencies in both ears. In addition, the separation examination showed an auditory threshold of 25 decibels at the 4000 Hertz frequency for the left ear. Significantly, the United States Court of Appeals for Veterans Claims has held the puretone threshold for normal hearing is from 0 to 20 decibels, and higher thresholds indicate some degree of hearing loss. Hensley v. Brown, 5 Vet. App. 155, 157 (1993).
+
+While the Veteran is not competent to opine on the medical etiology between in-service events and his hearing loss, symptoms of hearing loss are capable of lay observation, and the Veteran is competent to report that his symptoms of hearing loss began in service. The Board finds his reports of in-service noise exposure and continuation of hearing-related symptomology since service to be credible. See Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (2007); Barr v. Nicholson, 21 Vet. App. 303 (2007). His descriptions of in-service trauma are credible and entitled to probative weight, as they are consistent with the places, types, and circumstances of his service. 38 U.S.C. § 1154(a). Moreover, the Veteran's statements and assertions are internally consistent, as well as consistent with other evidence of record. Caluza v. Brown, 7 Vet. App. 498 (1995). Notably, there are no post-treatment service records or prior claims for service connection associated with the file that suggest the Veteran denied having hearing loss between service and when he filed his claim for service connection. 
+
+The evidence against the claim also includes the Veteran's service treatment records, which do not document complaints of hearing-related concerns, and a November 2021 VA examination report. The examiner diagnosed bilateral hearing loss and opined the hearing loss was less likely than not caused by, or a result of, military noise exposure. The examiner noted the Veteran had a high probability of hazardous noise exposure during service but entered and exited active service with normal hearing. She concluded acoustic damage did not occur while the Veteran was in service and that his hearing loss had a delayed onset unrelated to service.
+
+However, the Board finds the examiner's opinion is of limited probative value.  While she observed the May 1976 VA examination showed normal hearing bilaterally, she did not address the negative shift in hearing acuity between the entrance and separation examinations. She also failed to acknowledge the separation examination showed an auditory threshold of 25 decibels at the 4000 Hertz frequency for the left ear, suggesting some level of hearing loss, even if not for VA purposes.  She also did not address the Veteran's reports that his current hearing difficulties began during active service and persisted to the present. Moreover, while she found the Veteran's hearing loss had a delayed onset unrelated to service, she did not explain what she believed caused the hearing loss or when the underlying acoustic trauma occurred.
+
+In summary, the Veteran has provided probative evidence regarding the nexus component of his bilateral hearing loss that is supported by the findings in his service treatment records. The VA examiner's opinion is of limited probative value because she failed to consider the lay and medical evidence regarding the onset of hearing loss symptoms during service and did not fully explain her findings.
+
+Given these considerations, the Board finds that the probative, competent, and credible evidence of record for and against the claim is of equal weight. Therefore, resolving reasonable doubt in the Veteran's favor, the Board determines that his bilateral hearing loss is due to his in-service hazardous noise exposure. Thus, entitlement to service connection for bilateral hearing loss is warranted.
+
+ 
+
+William Skowronski
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Fields, Ashley N.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

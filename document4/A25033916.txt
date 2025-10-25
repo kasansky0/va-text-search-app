@@ -1,0 +1,73 @@
+Citation Nr: A25033916
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240606-445869
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to a total disability rating based on individual unemployability (TDIU), to include on an extraschedular basis, is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's service-connected disabilities do not meet the minimum percentage requirements for an award of a schedular TDIU during the relevant appeal period.
+
+2. The most probative evidence of record persuasively weighs against a finding that the Veteran's service-connected disabilities rendered him unable to secure or follow a substantially gainful occupation, based on the employment history, educational and vocational attainment, and all other factors having a bearing on the issue available in the record during the relevant appeal period.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to a TDIU, to include on an extraschedular basis, have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.326, 3.340, 3.341, 4.16.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran had honorable active duty service with the United States Navy from March 1974 to March 1978, and from August 1979 to August 1995. Regrettably, the Veteran died in November 2020. The request of the Appellant, who is the Veteran's surviving spouse, for substitution was granted by the Agency of Original Jurisdiction (AOJ) in June 2021.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a September 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office, which serves as the AOJ in this case. While this decision did not specifically adjudicate the issue of TDIU, the claim for TDIU was raised in connection with a decision regarding the highest possible rating for a service-connected disability, and is thus before the Board. Rice v. Shinseki, 22 Vet. App. 447 (2009).
+
+In the December 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Appellant elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Appellant would like VA to consider any evidence that was submitted that the Board could not consider, the Appellant may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Entitlement to a TDIU, to include on an extraschedular basis.
+
+The Appellant, through counsel, contends that entitlement to TDIU has been raised by the record, specifically in the March 2020 VA Disability Benefit Questionnaires (DBQs). See June 2024 VA Form 10182. To that end, the March 2020 Knee and Lower Leg Conditions DBQ stated that the Veteran's knee condition impacted employability in that it "[l]imited prolonged standing, ambulation, no kneeling, bending, or squatting. No heavy lifting or carrying of items." The Appellant's attorney contended that "[t]hese are finding that suggest an inability to work at most if not all occupations." See November 2023 VA Form 20-0996.
+
+VA will grant a TDIU when the evidence shows that a veteran is precluded, by reason of his service-connected disabilities, from securing and following "substantially gainful employment" consistent with his education and occupational experience. 38 C.F.R. §§ 3.340, 3.341, 4.16. The central inquiry is "whether the Veteran's service-connected disabilities alone are of sufficient severity to produce unemployability." Hatlestad v. Brown, 5 Vet. App. 524, 529 (1993). 
+
+Being unable to maintain substantially gainful employment is not the same as being 100 percent disabled. "While the term 'substantially gainful occupation' may not set a clear numerical standard for determining TDIU, it does indicate an amount less than 100 percent." Roberson v. Principi, 251 F.3d 1378 (Fed Cir. 2001).
+
+Assignment of a TDIU evaluation requires that the record reflect some factor that "takes the claimant's case outside the norm" of any other veteran rated at the same level. Van Hoose v. Brown, 4 Vet. App. 361, 363 (1993) (citing 38 C.F.R. §§ 4.1, 4.15). The sole fact that a claimant is unemployed or has difficulty obtaining employment is not enough. A disability rating in itself is recognition that the impairment makes it difficult to obtain or keep employment, but the ultimate question is whether the veteran is capable of performing the physical and mental acts required by employment, not whether he or she can find employment. Id.
+
+Total disability ratings for compensation may be assigned, where the schedular rating is less than total, when the disabled person is unable to secure or follow a substantially gainful occupation as a result of service-connected disabilities, provided that, if there is only one such disability, the disability shall be ratable at 60 percent or more, and that, if there are two or more service-connected disabilities, at least one must be rated at 40 percent or more and the combined rating must be 70 percent or more. 38 C.F.R. § 4.16 (a).
+
+Here, the Veteran's service-connected disabilities were posttraumatic stress disorder (PTSD), rated 50 percent disabling, right knee osteoarthritis rated 10 percent disabling, left knee osteoarthritis rated 10 percent disabling, and gastroesophageal reflux disease, which was noncompensably rated (0 percent). Thus, the combined disability rating was 60 percent from December 5, 2017. The disabilities are not of the same body system or same origin as to combine to a "single" disability of 60 percent or greater; they do not combine overall to 70 percent or greater, even when the bilateral factor is considered. See 38 C.F.R. § 4.25.
+
+If the threshold minimum percentage standards enunciated in 38 C.F.R. § 4.16 (a) are not met, such as the case here, rating boards should refer to the Director of Compensation Service for extraschedular consideration all cases where the veteran is unable to secure or follow a substantially gainful occupation by reason of service-connected disability. 38 C.F.R. § 4.16 (b). That is, where there is plausible evidence that a claimant is unable to secure and follow a substantially gainful occupation and where there is not any affirmative evidence to the contrary, the claimant's case is eligible for consideration under 38 C.F.R. § 4.16 (b) by referral to the Director of Compensation Service. Bowling v. Principi, 15 Vet. App. 1, 10 (2001).
+
+In this case, the Board finds that referral to the Director of Compensation and Pension Service for consideration of TDIU on an extraschedular basis is not warranted. 
+
+At the March 2020 VA examination, the VA examiner noted the Veteran's degenerative arthritis in his left and right knees impacted his ability to perform occupational tasks. The VA examiner noted the physical limitations of limited prolonged standing, ambulation, no kneeling, no bending, no squatting, no heavy lifting, or carrying of items. 
+
+The Veteran was also provided a VA examination in March 2020 evaluating his PTSD. The examiner noted since separating from the military, the Veteran was employed in the construction field until recently when he started working as a repair analyst for a nationwide home improvement retailer for the past 5 years.
+
+Thus, after review of the evidence, the Board finds that referral for extraschedular consideration of TDIU is not warranted. Here, the central inquiry is whether the Veteran's service-connected disabilities, alone, are of sufficient severity to preclude him from obtaining and maintaining all forms of substantially gainful employment. See Hatlestad, 5 Vet. App. at 529. As such, the Board has looked to the specific symptoms and manifestations of his service-connected disabilities, particularly with respect to those likely to cause practical functional impairment in an occupational setting. 
+
+While the evidence of record does indicate that that Veteran's service-connected left and right knee disabilities would interfere with his ability to move physically, and there was a certain degree of impairment of employability inherent in the 50 percent rating assigned for the Veteran's PTSD, the evidence simply does not substantiate a reasonable possibility that the Veteran was unemployable due to his service-connected right knee, left knee, or PTSD, alone or in combination, prior to his death. The disability ratings assigned for service-connected disabilities, here the Veteran's PTSD, left knee, and right knee, are intended to reflect the impairment of employment. 38 C.F.R. § 4.1. 
+
+While the lack of an application for TDIU during the Veteran's lifetime is not dispositive, the more recent evidence prior to the Veteran's death shows that he remained employed. Indeed, the March 2020 VA exanimation report noted the Veteran's reported that the Veteran had been employed in the construction field since separation from the military, having transitioned to working as a repair analysis for the national home improvement retailer in the last five years prior to the examination. At that time, the Veteran was asked about his adjustment to this newer position, and responded that "It's going good. I get the job done. I've been written up a few times for sleeping on the job, but everything else is [great.]"
+
+Lastly, no medical professional has provided any indication or suggestion that the Veteran's service-connected disabilities would have prevented him from obtaining or maintaining substantially gainful employment. While the Board does not doubt that the Veteran's service-connected disabilities may have had an impact on his employability, the competent and probative evidence does not support the Appellant's assertion that the Veteran's service-connected disabilities were of such severity so as to result in unemployability. 
+
+Accordingly, the Board finds the evidence does not reflect that the Veteran was unable to secure or follow a substantially gainful occupation as a result of his service-connected disabilities. As such, the Board finds that referral of this claim to the Director of Compensation Service for extraschedular consideration under 38 C.F.R. § 4.16 (b) is not warranted. The appeal is denied.
+
+ 
+
+J. Kirby
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Bryan, L.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

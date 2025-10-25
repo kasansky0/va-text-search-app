@@ -1,0 +1,83 @@
+Citation Nr: A25033449
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240905-471229
+DATE: April 10, 2025
+
+ORDER
+
+Service connection for bilateral hearing loss is denied.
+
+Service connection for tinnitus is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran served on active duty from August 1954 to October 1956.
+
+2. Bilateral hearing loss and tinnitus were not shown in service, not shown to a compensable degree within one year of service, and symptoms were not continuous since service; bilateral hearing loss and tinnitus are not causally or etiologically related to service. 
+
+CONCLUSIONS OF LAW
+
+1. Bilateral hearing loss was not incurred in service and is not presumed to have been incurred in service. 38 U.S.C. §§ 1110, 1131, 5103(a), 5103A, 5107 (2012); 38 C.F.R. §§ 3.159, 3.303, 3.307, 3.309, 3.385 (2024).
+
+2. Tinnitus was not incurred in service and is not presumed to have been incurred in service. 38 U.S.C. §§ 1110, 1131, 5103(a), 5103A, 5107 (2012); 38 C.F.R. §§ 3.159, 3.303, 3.307, 3.309, 3.385 (2024).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+This decision has been written under the guidelines of the Veterans Appeals Improvement and Modernization Act, also known as the Appeals Modernization Act (AMA). In October 2023, the agency of original jurisdiction (AOJ) denied the claims. In September 2024, the Veteran appealed to the Board via a Form 10182 and elected the Hearing docket. 
+
+A hearing was held before the Board in December 2024. Therefore, the Board may consider only the evidence of record at the time of the AOJ decision on appeal, as well as any evidence submitted by the Veteran or his representative at the hearing or within 90 days following the hearing. 38 C.F.R. § 20.302(a).
+
+Turning to the relevant laws and regulations, service connection may be granted on a direct basis as a result of disease or injury incurred in service based on nexus using a three-element test: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred in or aggravated by service.  See 38 C.F.R. §§ 3.303(a), (d); Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009). 
+
+Service connection may be granted on a presumptive basis for diseases listed in 38 C.F.R. § 3.309 under the following circumstances: (1) where a chronic disease or injury is shown in service and subsequent manifestations of the same disease or injury are shown at a later date unless clearly attributable to an intercurrent cause; or (2) where there is continuity of symptomatology since service; or (3) by showing that the disorder manifested itself to a degree of 10 percent or more within one year from the date of separation from service. See 38 C.F.R. § 3.307.
+
+Hearing loss and tinnitus are recognized by VA as "chronic diseases" under 38 C.F.R. § 3.309 (a); therefore, the presumptive provisions of 38 C.F.R. §§ 3.303(b), 3.307, and 3.309 apply. Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013); Fountain v. McDonald, 27 Vet. App. 258 (2015). Thus, service connection will be considered on both a direct and presumptive basis. As the evidence for both is similar, bilateral hearing loss and tinnitus will be discussed together.
+
+Also relevant in this case, the record reflects that the Veteran's service treatment records (STRs) are unavailable. Given that complete STRs have been lost, the Board has considered the "heightened duty" to assist him in the development of the case, to explain its findings and conclusions, and to carefully consider the benefit-of-the-doubt rule. See O'Hare v. Derwinski, 1 Vet. App. 365 (1991).
+
+Turning to the medical evidence, the AOJ has made a favorable finding that the Veteran has current disabilities for VA purposes of both bilateral hearing loss and tinnitus, as shown in a September 2023 VA examination. Therefore, for each claimed disorder, the first element of service connection is met on a direct basis. 
+
+As to in-service incurrence, the Veteran contends that he was exposed to loud noise during service due to his military occupational specialty (MOS) as a power line distribution specialist. Specifically, he testified at the December 2024 Board hearing that he was regularly exposed to loud equipment and gun and artillery fire during service. 
+
+In August 1990, VA noted that the Veteran's physical examination reports from the time of induction and discharge could not be reconstructed. Further, an October 1990 VA decision noted that the STRs were not available due to a fire. Although there are no STRs, he is competent to state that he was exposed to loud noises during service. Therefore, the second element of service connection is met based on the lay statements and noise exposure is conceded. 
+
+As to nexus, a September 2023 VA examiner found that hearing loss was less likely than not caused by or a result of service. First, he noted that the Veteran's MOS as a powerline distribution specialist had a high probability of hazardous noise exposure. Further, he noted that at the time of the VA examination, the Veteran attributed hearing loss to a fall he experienced while serving in Korea. 
+
+The VA examiner explained that the medical records showed reports of a back injury due to a fall in Korea, but nothing involving a head injury or hearing loss. Further, the examiner noted that the hearing loss claim occurred more than 65 years after separation and that there was no medical evidence showing hearing loss in the interim. Moreover, he noted that the many years between the claim and service allowed for many other possible etiologies of hearing loss. As such, he found it less likely than not that current hearing loss was the result of service. 
+
+As to tinnitus, the September 2023 VA examiner found it less likely than not that tinnitus was caused by or a result of service. He explained that the brief and intermittent tinnitus that the Veteran described was not consistent with auditory damage due to noise exposure or head injury. Rather, he indicated that tinnitus was more consistent with transient ear noise that occurred in the general population without auditory damage or pathology. 
+
+Moreover, as the Veteran's claim was so remote from service, the examiner opined that there were many other possible etiologies for current tinnitus. Therefore, the examiner concluded that tinnitus was less likely than not the result of noise exposure or other event from military service.
+
+In sum, the medical evidence does not support a nexus between current bilateral hearing loss/tinnitus and service. There are no conflicting medical opinions of record. Therefore, the medical evidence does not support the claim on a direct basis. 
+
+As to presumptive service connection, no chronic disease or injury was shown in service. While the STRs are not available for review, the Veteran does not contend that he experienced hearing loss symptoms or tinnitus during active duty. As shown below, his statements have all indicated that hearing loss and tinnitus began after service separation. Therefore, the medical evidence does not support presumptive service connection on a "chronic disease or injury shown in service" basis.
+
+Next, the medical evidence does not support presumptive service connection based on continuity of symptomatology since service. Specifically, the Veteran separated from service in 1954. The medical records do not contain any complaints of hearing loss or tinnitus until an April 2023 VA audiology examination, nearly 70 years after separation. 
+
+Specifically, the Veteran indicated that he was experiencing increased difficulty hearing at church over the last few months. He denied any other significant concerns with hearing at that time and also denied the presence of tinnitus. Moreover, during the September 2023 VA examination, he reported that hearing difficulties began 40-50 years prior, dating the onset to more than 15 years after separation. Therefore, the medical evidence weighs against a finding of continuity of hearing loss since service. 
+
+Next, the disorders did not manifest to a degree of 10 percent or more within one year from the date of separation of service. The Veteran separated from service in 1954, but did not note hearing loss or tinnitus symptoms until 2023 at the earliest, nearly 70 years later. This evidence does not support presumptive service connection on a "manifest within one-year from separation" basis. Therefore, the medical evidence weighs against service connection on a presumptive basis for hearing loss and tinnitus. 
+
+The Board has considered the Veteran's lay statements that the current hearing loss and tinnitus were caused by service. While he is competent to report symptoms as this requires only personal knowledge as it comes to him through his senses, he is not competent to offer an opinion as to the etiology of the current disorders due to the medical complexity of the matters involved. 
+
+Specifically, the Veteran's statements about in-service noise exposure are not competent to suggest a particular etiology of hearing loss or tinnitus. Such competent evidence concerning the nature and extent of hearing loss and tinnitus has been provided by the medical personnel who examined him during the current appeal, and who rendered pertinent opinions in conjunction with the evaluations. 
+
+Their findings (as provided in the examination report and other clinical evidence) directly address the criteria under which the disorders are evaluated. The VA medical professional explained their reasoning based on an accurate characterization of the evidence. Therefore, the Board attaches greater probative weight to the medical opinions than to the lay statements regarding etiology. 
+
+In sum, after a careful review of the record, the evidence weighs persuasively against the claims for service connection and there is no doubt to be resolved. As such, the appeals are denied.  
+
+Finally, the Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record, for the Board's consideration.  See Doucette v. Shulkin, 28 Vet. App. 366, 369-370 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).
+
+ 
+
+L. HOWELL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Kokolas, Thomas
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,155 @@
+Citation Nr: A25033023
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240531-445006
+DATE: April 9, 2025
+
+ORDER
+
+A compensable evaluation for left ear hearing loss is denied.
+
+An evaluation in excess of 70 percent for posttraumatic stress disorder (PTSD) is denied.
+
+A total disability rating based on individual unemployability (TDIU) is denied.
+
+FINDINGS OF FACT
+
+1. For the period on appeal, the Veteran's hearing impairment has not been worse than a Level I impairment in the left ear.
+
+2. The persuasive evidence is against finding that the Veteran's mental health disorder caused total occupational and social impairment.
+
+3. For the entire period on appeal, the evidence reflects that the Veteran was employed in a substantially gainful occupation and was not in a protected or sheltered work environment.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for an evaluation in excess of 0 percent for left ear hearing loss have not been met or approximated. 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.10, 4.85, Diagnostic Code 6100.
+
+2. The criteria for a rating higher than 70 percent for PTSD have not been met or approximated. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.126, 4.130, Diagnostic Code (DC) 9411.
+
+3. The criteria for a finding of entitlement to a TDIU have not been met or approximated. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.340, 4.3, 4.16 (b), 4.18.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Navy from September 1984 to May 1988. 
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. 
+
+The Veteran indicated in his VA Form 10182 the issues of disagreement related to his left ear hearing loss, individual unemployability and post-traumatic stress disorder. While the Board recognizes that the Veteran did not indicate on his VA Form 10182 which rating decision he was appealing, the Board notes that a March 2024 rating decision was issued addressing these issues, therefore, in light of the timing of the filing of the VA Form 10182, the Board will construe the Notice of Disagreement as relating to the March 2024 rating decision. 
+
+As the Veteran selected the direct review docket, the Board may only consider the evidence of record at the time of the March 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Increased Ratings - General 
+
+Disability evaluations are determined by the application of the facts presented to VA's Schedule for Rating Disabilities (Rating Schedule) at 38 C.F.R. Part 4. The percentage ratings contained in the Rating Schedule represent, as far as can be practicably determined, the average impairment in earning capacity resulting from diseases and injuries incurred or aggravated during military service and the residual conditions in civilian occupations. 38U.S.C. §1155; 38C.F.R. §§3.321(a), 4.1. 
+
+If two disability evaluations are potentially applicable, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating; otherwise, the lower rating will be assigned. 38 C.F.R. § § 4.7. All reasonable doubt as to the degree of disability will be resolved in favor of the claimant. 38 U.S.C. §5107(b); 38 C.F.R. § § 4.3. 
+
+In evaluating the severity of a particular disability, it is essential to consider its history. 38 C.F.R. §4.1; Peyton v. Derwinski, 1 Vet. App. 282 (1991). Where entitlement to compensation has already been established and an increase in the disability rating is at issue, the present level of disability is of primary importance. Francisco v. Brown, 7 Vet. App. 55, 58 (1994). That said, higher evaluations may be assigned for separate periods based on the facts found during the appeal period. This practice is known as staged ratings. See Fenderson v. West, 12 Vet. App. 119, 126 (1999); see also Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+1. A compensable evaluation for left ear hearing loss is denied. 
+
+The Veteran is seeking an increased rating for his left ear hearing loss disability, claiming that his hearing loss disability is more severely disabling than contemplated by the currently assigned non-compensable rating.
+
+The Veteran's left ear hearing loss is rated under 38 C.F.R. § 4.85. The Rating Schedule provides a table (Table VI) to determine a Roman numeral designation (I through XI) for hearing impairment, based on puretone thresholds and controlled speech discrimination (Maryland CNC) testing. Table VII is used to determine the rating assigned by combining the Roman numeral designations for hearing impairment of each ear. 38 C.F.R. § 4.85.
+
+The "puretone threshold average" as used in Table VI is the sum of the puretone thresholds at 1000, 2000, 3000, and 4000 Hertz, divided by four. This average is used in all cases to determine the Roman numeral designation for hearing impairment from Table VI or VIA. 38 C.F.R. § 4.85(d). For unilateral hearing loss, where impaired hearing is service-connected in only one ear, a numeric designation of I is assigned for the non-service-connected ear. However, according to 38 C.F.R. § 3.383(a)(3), unilateral hearing loss is rated as bilateral hearing loss when the evidence shows hearing impairment in one ear compensable to a degree of 10 percent or more as a result of a service-connected disability, and hearing impairment as a result of a nonservice-connected disability that meets the requirements of § 3.385 in the other ear.
+
+Ratings for hearing impairment are derived by the mechanical application of the Rating Schedule to the numeric designations assigned after audiometric evaluations are rendered. Lendenmann v. Principi, 3 Vet. App. 345, 349 (1992). The schedular rating criteria specifically provide for ratings based on all levels of hearing loss in various contexts, as measured by both audiometric testing and speech recognition testing. The ability of the Veteran to hear sounds and voices is measured and rated by an audiometric test, as this test measures different frequencies and captures high frequency hearing loss from sources including voices, music, sirens, and certain high-pitched sounds. The ability of the Veteran to understand people and having to ask others to repeat themselves on a regular basis is rated by a speech recognition test, as this test measures conversation comprehension, words, and missed conversations. The schedular rating criteria specifically provide for ratings based on all levels of hearing loss, including exceptional hearing patterns, as measured by both audiometric testing and speech recognition testing. See Doucette v. Shulkin, 28 Vet. App. 366, 369 (2017).
+
+Turning to the evidence of record, the Veteran was afforded a VA audiological examination in January 2024. The results of the examination, as measured by a puretone audiometry test, were as follows:
+
+??? 	??? 	??? 	HERTZ??? 	??? 	??? 
+
+??? 	500??? 	1000??? 	2000??? 	3000??? 	4000??? 
+
+RIGHT??? 	30	35	35??? 	45?? 	50 
+
+LEFT??? 	40?? 	40 	50	50? 	60 
+
+??? 
+
+Based on these results, the average puretone threshold was 41 decibels for the right ear and 50 decibels for the left ear. See 38 C.F.R. § 4.85(d). Speech recognition was 100 percent in the right ear and 96 percent in the left ear as measured by the Maryland CNC test. Applying these values to Table VI, the result is a Level I Roman numeral designation for the left ear and his right ear must be assigned a Level I designation, because he is not service connected for his right ear and the exception under 38 C.F.R. § 3.383 (a)(3) is not applicable. As to functional impairment, the Veteran reported that his hearing loss impacted his ability to hear others, requiring him to have to ask people to repeat themselves and having to use his right ear on the phone, and turn the television up. He also reported having issues hearing at work, both in the factory and in the office, due to background noise, requiring him to have to turn to his right side. 
+
+In sum, during the period on appeal, the January 2024 VA examination reflected that the Veteran had Level I hearing impairment in the right ear and a Level I hearing impairment in the left ear. When the Level I and Level I designations are mechanically applied to Table VII, the result is a 0 percent rating. 38 C.F.R. § 4.85; Lendenmann, 3 Vet. App. at 345. During this period on appeal, none of the results reported in the Veteran's claims file meet the requirements for evaluation based on an exceptional pattern of impairment. 38 C.F.R. § 4.86(a)(b).
+
+In addition to objective test results, the functional effects of a hearing disability must be discussed for an audiological examination report to be adequate. Martinak, 21 Vet. App. at 455. The January 2024 VA examiner discussed the functional effects of the Veteran's left ear hearing disability in the audiological examination reports. The VA examiner noted the Veteran's reported problems hearing speech, as well as issues with background noise at his job. Thus, the functional impact of the Veteran's hearing loss was considered by the VA examiner. No other medical evidence concerning the Veteran's left ear hearing loss, specifically valid audiograms beyond the ones discussed, are of record for the period on appeal.
+
+The Board has considered the Veteran's lay statements, in which he contends difficulty hearing generally, and difficulty understanding speech. Further, as was indicated above, rating a hearing loss disability involves the mechanical application of rating criteria to the results of specified audiometric studies. Here, the objective medical evidence of record for this period on appeal consists of the January 2024 audiological examination. The results of this examination indicate that the Veteran's left ear hearing loss is at a non-compensable rating. See 38 C.F.R. § 4.85. For these reasons, the Veteran's claim for an increased rating in excess of 0 percent for left ear hearing loss for this period is denied.
+
+All potentially applicable codes have been considered, and there is no basis to assign an evaluation in excess of the currently assigned rating for the period on appeal for the Veteran's left ear hearing loss. See Schafrath v. Derwinski, 1 Vet. App. 589, 593 (1991).
+
+Legal Standards PTSD
+
+The Veteran's posttraumatic stress disorder is rated under Diagnostic Code 9411. 38 C.F.R. § 4.130. PTSD is rated using the General Rating Formula for Mental Disorders (General Formula).
+
+Under the General Formula, a 100 percent rating is assigned for total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance or minimal personal hygiene); disorientation to time or place; memory loss for names of close relatives and own occupation or name. Id.
+
+Symptoms listed in the General Rating Formula serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating. They are not intended to constitute an exhaustive list. Mauerhan v. Principi, 16 Vet. App. 436, 442-44 (2002). Rather, the Board must conduct a "holistic analysis" that considers all associated symptoms, regardless of whether they are listed as criteria. Bankhead v. Shulkin, 29 Vet. App. 10, 22; 38 C.F.R. § 4.130. A Veteran may only qualify for a given disability rating under § 4.130 by demonstrating the symptoms associated with that percentage, or others of similar severity, frequency, and duration. Vazquez-Claudio v. Shinseki, 713 F.3d 112, 114 (Fed. Cir. 2013).
+
+Facts and Analysis
+
+The Veteran is seeking an increased rating for his PTSD, claiming that the condition is more severely disabling than the currently assigned 70 percent rating. As the issue of an increased rating stems from a non-initial increased rating claim, the period for consideration before the Board dates back to the one year prior to the date of the non-initial increased rating claim, here December 1, 2023. Hart v. Nicholson, 21 Vet. App. 505, 509 (2007). Therefore, the Board has assessed and weighed the relevant evidence during the period on appeal.
+
+Turning to the evidence of record, VA outpatient treatment records document ongoing treatment for the Veteran's mental health disorder during the period on appeal. 
+
+The Veteran was afforded a VA PTSD examination in January 2024. The examiner, a psychologist, diagnosed PTSD and generalized anxiety disorder. The examiner indicated that it was not possible to differentiate between what symptoms were attributable to each diagnosis. During the examination the Veteran reported being married, stating that him and his wife were "doing fine." He had children and grandchildren who lived close but did not visit often. He had a few friends who he kept in contact with a few times a month. The Veteran denied involvement in clubs, groups or church. The Veteran was working as an assistant operations manager at a steel company, where he had been employed since August 2022. He stated that his memory and concentration issues were causing problems for him at work, causing him to make mistakes and work more slowly. He had minor issues with getting along with others but denied any altercations or write ups. He stated that due to his mental health he was "being treated with kid gloves", and more people were stepping in to help him. The Veteran was not in mental health counseling. He reported that after finding out that he had a tumor on his pituitary gland, he was experiencing more depression and anxiety. He was experiencing panic attacks one to four times weekly. He experienced anxiety when walking into groups and crowds, such as in grocery stores. He endorsed symptoms of depressed mood, anxiety, suspiciousness, panic attacks more than once a week, mild memory loss, impairment of short- and long-term memory, flattened affect, disturbances of mood and motivation, difficulty in establishing effective work and social relationships, difficulty in adapting to stressful circumstances. The Veteran was noted to be casually dressed and well-groomed during the examination. Rapport was easily established with the examiner, and the Veteran was described as pleasant and open. He had a logical and goal directed thought process. His mood was described as dysthymic, and his affect flattened. There was no evidence of suicidal or homicidal ideation. The examiner opined that the mental health disorder manifested in occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgement, thinking and/or mood.
+
+2. An evaluation in excess of 70 percent for posttraumatic stress disorder is denied. 
+
+The Board initially notes that the Court has held that the symptoms enumerated under the schedule for rating mental disorders are not intended to constitute an exhaustive list, but rather are to serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular disability rating. See Mauerhan v. Principi, 16 Vet. App. 436 (2002).
+
+After review of the evidence, the Board is unable to find that the persuasive evidence of record supports a rating higher than the current 70 percent for the Veteran's mental health disorder. The Board finds the substantial weight of the evidence is against a finding that the Veteran's symptoms more nearly approximate the criteria for a 100 percent disability rating at any time during the appeal period, as the Veteran's acquired psychiatric disorder symptoms do not more nearly approximate total occupational and social impairment. At no point during the appeal period has such symptomatology as gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance or minimal personal hygiene) or disorientation to time or place. As it relates to the question of whether he was a danger to himself or others, the Board notes that January 2024 VA examiner noted that the Veteran denied any suicidal ideation or homicidal ideation. There is no indication that he was unable to perform activities of daily living, such as maintenance of minimal personal hygiene, to the contrary was also described during the examination as casually dressed and well groomed. Further, he was described during the examination as pleasant with a goal directed thought process. Thus, while the Board is sympathetic to the Veteran and acknowledges the impact that his mental health has had upon his and his family's life, the evidence of record does not support a rating higher than 70 percent.
+
+In so finding, the Board has considered the lay statements of record. The Board finds that though the Veteran is competent to report his observable symptoms, he is not competent to identify a specific level of disability according to the appropriate diagnostic codes. Layno v. Brown, 6 Vet. App. 465 (1994). The identification of a disability and evaluation of the severity of his mental health disorder requires medical expertise that the Veteran has not shown he possesses. The medical findings, as provided in the examination reports, directly address the criteria under which his disability is rated. The Board finds that evidence is the most persuasive and outweighs lay statements in support of his claim for a higher rating.
+
+Thus, a rating higher than 70 percent for a mental health disorder is denied. Accordingly, as the persuasive evidence of record is against the claim, the benefit-of-the-doubt rule is not for application, and the claim must be denied. See 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+3. A total disability rating based on individual unemployability is denied. 
+
+The Veteran is seeking a total disability rating based on individual unemployability. 
+
+As the issue of entitlement to a TDIU stems from a non-initial increased rating claim, the period on appeal dates back to the one year prior to the date of the non-initial increased rating claim, here December 1, 2023. Hart v. Nicholson, 21 Vet. App. 505, 509 (2007). Therefore, the Board has assessed and weighed the relevant evidence during the period on appeal.
+
+To establish a total disability rating based on individual unemployability, there must be impairment so severe that it is impossible for the average person to follow a substantially gainful occupation. 38 C.F.R. § 3.340. In reaching such a determination, the central inquiry is whether the claimant's service-connected disabilities alone are of sufficient severity to produce unemployability. Hatlestad v. Brown, 5 Vet. App. 524, 529 (1993). Total disability will be considered to exist when there is present any impairment of mind or body which is sufficient to render it impossible for the average person to follow a substantially gainful occupation; provided that permanent total disability shall be taken to exist when the impairment is reasonably certain to continue throughout the life of the disabled person. 38 C.F.R. § 4.15.
+
+To qualify for a total rating for compensation purposes, the evidence must show: (1) a single disability rated as 100 percent disabling; or (2) that the veteran is unable to secure or follow a substantially gainful occupation as a result of his service-connected disabilities and there is one disability ratable at 60 percent or more, or, if more than one disability, at least one disability ratable at 40 percent or more and a combined disability rating of 70 percent. 38 C.F.R. § 4.16(a). For the purpose of establishing one 60 percent disability, or one 40 percent disability in combination, disabilities affecting a single body system are considered as one disability. Id. Disabilities that are not service connected cannot serve as a basis for a total disability rating. 38 C.F.R. §§ 3.341, 4.19.
+
+For a Veteran to prevail on a claim for a total compensation rating based on individual unemployability, the record must reflect some factor, which takes this case outside the norm. The sole fact that a Veteran is unemployed or has difficulty obtaining employment is not enough. A high rating in itself is recognition that the impairment makes it difficult to obtain or keep employment, but the ultimate question is whether the Veteran is capable of performing the physical and mental acts required by employment, not whether the Veteran can find employment. Van Hoose v. Brown, 4 Vet. App. 361 (1993).
+
+Substantially gainful employment is defined as work which is more than marginal, and which permits the individual to earn a living wage. Moore v. Derwinski, 1 Vet. App. 356 (1991). Marginal employment shall not be considered substantially gainful employment. For purposes of 38 C.F.R. § 4.16, marginal employment generally shall be deemed to exist when a Veteran's earned annual income does not exceed the amount established by the U.S. Department of Commerce as the poverty threshold for one person. Marginal employment may also be held to exist on facts found basis, including but not limited to employment in a protected environment such as family business or sheltered workshop, when earned annual income exceeds the poverty threshold. Ortiz-Valles v. McDonald, 28 Vet. App. 65 (2016). A veteran may be granted TDIU despite being employed and having an income in excess of the poverty line if his employment is sheltered. Cantrell v. Shulkin, 28 Vet. App. 382 (2017).
+
+LaBruzza v. McDonough, 37 Vet. App. 111 (2024), held that "employment in a protected environment" means a lower-income position that produces earned annual income that exceeds the poverty threshold, but, due to service-connected disability, is shielded in some respect from competition in the employment market. The phrase "employment in a protected environment" considers receipt of accommodations required by the Americans with Disabilities Act (ADA), which do not shield a person from the competitive labor market; however, accommodations beyond ADA accommodations may be relevant.
+
+Recently, in Ray v. Wilkie, 17-0781, the Court held that "substantially gainful employment" contains economic and noneconomic components; the economic component means "an occupation earning more than marginal income (outside of a protected environment) as determined by the U.S. Department of Commerce as the poverty threshold for one person," while the noneconomic component requires consideration of a Veteran's ability to secure or follow that type of employment. As to the meaning of a Veteran's ability to "secure and follow" such employment, the Court provided guidance that attention must be given to: the Veteran's occupational history, education, skill and training; whether the veteran has the physical ability to perform occupational activities; and whether the Veteran has the mental ability to perform occupational activities.
+
+In the case at hand, for the period on appeal, the Veteran had a combined disability rating of 70 percent. He was service connected for PTSD with a 70 percent evaluation, tinnitus with a 10 percent evaluation, left ear hearing loss with a non-compensable evaluation and penile deformity with a non-compensable evaluation. Hence for the entire period on appeal, the Veteran met the criteria for schedular TDIU rating per 38 C.F.R. §4.16 (a). The remaining question, then, is whether the Veteran's service-connected disabilities alone rendered him unemployable within the meaning of 38 C.F.R. §4.16.
+
+Turning to the evidence of record, the Veteran submitted a VA Form 21-8940, Veteran's Application for Increased Compensation Based on Unemployability in December 2023. The Veteran indicated that his service-connected PTSD, tinnitus and left ear hearing loss prevented him from securing or following substantially gainful employment. The Veteran wrote that the date that his disability affected his full-time employment was May 1, 2021. As to employment history, the Veteran reported working from July 29, 2019, to May 1, 2021 as a Production Supervisor. He reported that from August 30, 2021, to the present he had been working an Assistant Operations Manager at a Steel Company. At the time, he was working 50 hours a week in that position. The Veteran did not report his highest gross earning per month in that position. 
+
+Looking to the medical evidence, the Board incorporates its discussion from above by reference. As discussed in further detail above, the Veteran's claims file contains VA treatment records and the January 2024 VA examination that reference the impact of the Veteran's mental health disorder on his ability to work.
+
+Additionally, the Board notes that the Veteran was afforded a VA male reproductive examination in August 2023. The VA examiner opined that the service-connected penile deformity would not impact his ability to work.
+
+During a January 2024 VA hearing loss and tinnitus examination, the Veteran reported that his service-connected left ear hearing loss caused him to have difficulty hearing at work and in the office because of background noise. He also reported that his service-connected tinnitus made it difficult for him to hear his coworkers. 
+
+Upon review of the claims file, the Board finds that a TDIU is not warranted, as the weight of the evidence shows that the Veteran was employed full-time for the entire period on appeal. As he indicated in his December 2023 VA Form 21-8940, he had been working full-time from August 30, 2021, to the present as an Assistant Operations Manager at a Steel Company. The Veteran does not contend, nor does the evidence show that he received an income less than the poverty threshold limit during the period on appeal. Specifically, the Veteran did not report his highest gross earning per month on his December 2023 VA-Form 21-8940.  Additionally, the record does not reflect that at any point during the period on appeal the Veteran has asserted that his position was sheltered or protected. The Board has considered the Veteran's statements during the January 2024 VA examination that he was being treated with "kid gloves" and more people were stepping in to help him, however the Veteran has not provided any specific evidence that he required any accommodations that may have rendered her full-time employment sheltered or marginal.
+
+Finally, the Board has considered the Veteran's statements in June 2023 correspondence, where he wrote that he was unable to work due to his service-connected disabilities from May 1, 2021, until August 30, 2021, and was seeking a TDIU for this period. However, as noted above, the applicable period on appeal dates back to December 1, 2022, which is one year prior to the date of the non-initial increased rating claim. Therefore, for the purposes of this appeal, the Board may not consider whether a TDIU is warranted for the period from May 1, 2021 until August 30, 2021.
+
+Based on the foregoing, the Board concludes that the evidence for and against the claim is not in approximate balance, but rather weighs against the claim. Because there is not an approximate balance in the weight of the evidence, the doctrine of reasonable doubt is not for application, and the claim must be denied. 38 U.S.C. § 5107 (b); see also Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+Ardie A. Bland
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T. Nettey, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

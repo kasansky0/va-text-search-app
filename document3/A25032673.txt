@@ -1,0 +1,81 @@
+Citation Nr: A25032673
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240828-470216
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for Parkinson's disease is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from April 1976 to March 1980, and from February 1983 to September 2003.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from an April 2024 rating decision. The Veteran submitted a VA Form 10182 Decision Review Request: Board Appeal (Notice of Disagreement) in August 2024 and elected direct review. The Board may only consider the evidence of record when the rating decision on appeal was issued on April 3, 2024, and may not consider evidence submitted thereafter. 38 C.F.R. § 20.301. However, as the Board is remanding the matter, any evidence the Board could not consider shall be considered by the Agency of Original Jurisdiction (AOJ) upon remand.
+
+This appeal is subject to the Appeals Modernization Act. When a pre-decisional duty-to-assist error occurs, the Board may have those errors corrected before deciding the claims on appeal. The Board may also remand for correction of any other error by the AOJ in satisfying a regulatory or statutory duty if correction of the error would have a reasonable possibility of aiding in substantiating a Veteran's claim. 38 C.F.R. § 20.802. 
+
+1. Service connection for Parkinson's disease.
+
+The Veteran seeks service connection for his Parkinson's disease, which he has primarily claimed is related to exposures to trichloroethylene solvents during his service.
+
+After reviewing the record, the Board finds the appeal must be remanded to correct multiple pre-decisional duty to assist errors in developing the Veteran's claim for service connection for Parkinson's disease.
+
+First, the Board finds the appeal must be remanded to make another attempt to obtain the Veteran's service treatment records from his period of service from February 1983 to September 2003. VA's duty to assist also includes obtaining relevant records in the custody of a federal department or agency, such as military records, and records not in the custody of a federal department or agency, to include records from State or local governments. 38 C.F.R. § 3.159 (c). VA will make as many requests as are necessary to obtain relevant records from a federal department or agency, including medical and other records from VA medical facilities. VA will end its efforts to obtain records from a federal department or agency only if VA concludes that the records sought do not exist or that further efforts to obtain those records would be futile. Cases in which VA may conclude that no further efforts are required include those in which the federal department or agency advises VA that the requested records do not exist, or the custodian does not have them. 38 C.F.R. § 3.159 (c)(2).
+
+In August 2021, the AOJ mailed the Veteran a letter informing him that his service treatment records had been requested, that only partial dental records had been received, and that all other service treatment records were unavailable and any further attempts to obtain the service treatment records would be futile. However, in May 2022, VA received treatment records for the Veteran's period of active service from April 1976 to March 1980. The Veteran's service treatment records do not appear to be fully unavailable, and it is unclear whether VA has attempted to obtain records from the Veteran's period of service from February 1983 to September 2003 following receipt of these earlier records. As such, remand is warranted to correct this pre-decisional duty to assist error.
+
+Next, the claim for service connection for Parkinson's disease must be remanded to obtain an adequate medical opinions addressing the etiology of the Veteran's Parkinson's disease.
+
+The Veteran was provided a VA examination for Parkinson's disease in June 2021. The examiner noted the Veteran had been diagnosed with Parkinson's disease and provided two negative medical opinions in September 2021. First, the examiner concluded it was less likely than not that the Veteran's Parkinson's disease was incurred in or caused by his service, and explained there is no evidence in the medical records linking the Veteran's claimed condition to his service, with no evidence of a diagnosis, treatment or chronicity of care while in service. Second, the examiner concluded it was less likely than not that the Veteran's Parkinson's disease was related to exposures to chemicals in Southwest Asia, and again explained there was no evidence in the medical records linking the Veteran's claimed condition to his service with no evidence of diagnosis, treatment or chronicity of care while in service. The examiner did note the Veteran reported being exposed to trichloroethylene while in service but found no objective evidence of the exposure.
+
+Pursuant to 38 U.S.C. § 1168. Under 38 U.S.C. § 1168, if a Veteran submits a claim for compensation for a service-connected disability with evidence of a disability and evidence of participation in a toxic exposure risk activity during active military, naval, air, or space service, and such evidence is not sufficient to establish a service connection for the disability, then VA shall provide the Veteran with a medical examination and obtain a medical opinion as to whether it is at least as likely as not that there is a nexus between the claimed disability and the toxic exposure risk activity.
+
+VA issued a memorandum in February 2024 finding the Veteran had participated in toxic exposure risk activity ("TERA") during his service as an electrician's mate, with probable exposures to asbestos and trichloroethylene. The memorandum also notes the Veteran had verified service in the Southwest Asia theater of operations, and the Veteran is presumed to have been exposed to substances, chemicals, and airborne hazards during that service. The Veteran has claimed service connection for his Parkinson's disease primarily due to his in-service exposure to trichloroethylene used to clean equipment and tools as an electricians mate.
+
+The February 2024 TERA memorandum appears to concede exposure to herbicide agents during the Veteran's service. However, the Veteran's personnel records do not indicate he had "covered service" as defined in 38 U.S.C. § 1116 (d) to presume exposure to herbicide agents during service, and the record is otherwise silent for herbicide exposures. The Veteran does not argue that he was exposed to herbicide agents during his service.
+
+Following passage of the Honoring our Promise to Address Comprehensive Toxins Act of 2022 (PACT Act) and 38 U.S.C. § 1168, VA requested an addendum opinion to address whether the Veteran's Parkinson's disease was related to his toxic exposure risk activities during service, including his service in the Southwest Asia theater of operations and exposures to asbestos and trichloroethylene. An opinion was obtained in February 2024, and the examiner concluded the Veteran's Parkinson's disease was less likely than not caused by the Veteran's in-service toxic exposure risk activities. The examiner included an explanation of Parkinson's disease and its symptoms and noted that while the cause of the disease is unknown, genes and environmental exposures played a role and may increase the risk of Parkinson's disease. However, determined the risk of developing Parkinson's disease due to toxins and environmental factors was small, and found no substantial medical literature to support the Veteran's toxic exposure can lead to Parkinson's disease.
+
+First, the Board finds September 2021 opinions are not adequate to address the etiology of the Veteran's Parkinson's disease. The provided rationale in support of both opinions consists primarily of finding no evidence in the medical records linking the Veteran's claimed condition to his service with no evidence of diagnosis, treatment or chronicity of care while in service. However, in October 2023, the Veteran submitted multiple articles suggesting a relationship between Parkinson's disease and exposure to solvents, including trichloroethylene used to clean equipment during his service, indicating there may be a link between the Veteran's Parkinson's disease and his service. Furthermore, VA has established the Veteran was exposed to trichloroethylene during his service, contradicting the September 2021 examiner's findings of no objective evidence of such exposures. 
+
+In addition, the September 2021 opinions do not adequately address the Veteran's service in Southwest Asia. As noted above, the Veteran had service in the Southwest Asia theater of operations. For a veteran who had active service in the Southwest Asia theater of operations during the applicable period, presumptive service connection may be established for a qualifying chronic disability, which includes an undiagnosed illness, a medically unexplained chronic multi symptom illnesses defined by a cluster of signs or symptoms, or any other diagnosed illness that the Secretary determines warrants a presumption of service-connection. See 38 U.S.C. §§ 1117, 1118; 38 C.F.R. § 3.317. Parkinson's disease is not an undiagnosed illness. However, although one of the September 2021 opinions did address Southwest Asia, no medical opinion has been obtained as to whether the Veteran's Parkinson's is a medically unexplained chronic multi symptom illness. 
+
+When VA undertakes to obtain a medical opinion, it must ensure that the opinion is adequate. Barr v. Nicholson, 21 Vet. App. 303, 312 (2007). Considering the foregoing, remand is warranted to correct a pre-decisional duty-to-assist error and obtain new VA addendum opinions addressing whether the Veteran's Parkinson's disease is related to his service, to include as a medically unexplained chronic multi symptom illness related to his service in Southwest Asia.
+
+Next, the Board finds the February 2024 opinion is not adequate, and a new opinion should have been obtained before the April 2024 decision on appeal was issued. The February 2024 examiner did concede that toxic and environmental exposures may increase the risk of later developing Parkinson's disease and noted the Veteran's in-service toxic and environmental exposures. However, in October 2023, the Veteran submitted multiple articles suggesting a relationship between Parkinson's disease and exposure to solvents, including trichloroethylene. These articles were available when the opinion was provided and contradict the examiner's rationale that there is no substantial medical literature supporting a connection between the Veteran's toxic exposures and his Parkinson's disease. While there is no reasons and bases requirement imposed on VA examiners, they must support their conclusions with an analysis that the Board can consider and weigh against the other evidence of record. Acevedo v. Shinseki, 25 Vet. App. 286, 293 (2012); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007). The Board also notes that Parkinson's disease is among the diseases presumed to be related to exposure to contaminants in the water supply at Camp LeJeune, and that trichloroethylene is one of the contaminants listed. 38 C.F.R. §§ 3.307 (a)(7), 3.309 (f). However, the Veteran's personnel records do not show he had service at Camp LeJeune during the period beginning on August 1, 1953, and ending on December 31, 1987, and service connection for Parkinson's disease cannot be granted based on that presumption. 
+
+Considering the foregoing, remand is also warranted to correct a pre-decisional duty to assist error and obtain an adequate opinion under 38 U.S.C. § 1168.
+
+The matters are REMANDED for the following action:
+
+1. Obtain all outstanding service treatment records, specifically records from the Veteran's period of active service from February 1983 to September 2003. All efforts to obtain these records must be documented in the claims file. If it is determined that further efforts would be futile, a memorandum outlining all steps taken and conclusions reached shall be associated with the claims file.
+
+2. Obtain an addendum opinion to determine the etiology of the Veteran's Parkinson disease. After reviewing the claims file, the examiner must provide the following opinions:
+
+a.	First, the examiner must address both the etiology and pathophysiology of the Veteran's Parkinson's disease. 
+
+The examiner must determine whether the Veteran's Parkinson's disease is a known diagnosed illness without conclusive pathophysiology or etiology, a known chronic multi symptom illness with a partially explained etiology, or an illness with a clear and specific etiology and pathophysiology. Both etiology and pathophysiology must be addressed. 
+
+b.	Second, if the both the etiology and pathophysiology of the Veteran's obstructive sleep apnea are at least partially understood, the examiner must opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) the Veteran's Parkinson's disease is related to an in-service injury, event, or disease, including exposure to substances, chemicals, and airborne hazards while he served in the Southwest Asia theater of operations.
+
+c.	Third, the examiner must determine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that there is a relationship between the Veteran's Parkinson's disease and his toxic exposure risk activities during his service. 
+
+The examiner must consider the total potential exposure through the Veteran's applicable military deployments, and the synergistic, combined effect of all the Veteran's toxic exposure risk activities. 
+
+Specifically, VA has found the Veteran was exposed to asbestos and trichloroethylene during his service as an electricians mate, and exposed to Veteran was exposed to substances, chemicals, and airborne hazards during his service in the Southwest Asia theater of operations.
+
+ 
+
+ 
+
+SHAUN S. SPERANZA
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Morse, Stenson
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

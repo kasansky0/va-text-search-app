@@ -1,0 +1,99 @@
+Citation Nr: A25032853
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 220325-230651
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to extraschedular referral for consideration of a total disability rating based on individual unemployability (TDIU) is denied.
+
+FINDING OF FACT
+
+The persuasive evidence is against a finding that limitations caused by the Veteran's service-connected disability of gastritis, hiatal hernia, and gastroesophageal reflux disease (GERD) substantiates a reasonable possibility that he is unable to obtain and maintain substantially gainful employment.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to extraschedular referral for consideration of TDIU have not been met.  38 U.S.C. § 1155; 38 C.F.R. §§ 3.340, 3.341, 4.16.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from June 1977 to September 1978.
+
+Procedurally, the Veteran specifically raised the issue of entitlement to TDIU in connection with a December 2016 increased rating claim for GERD.  This specific issue was not addressed in an April 2019 Board decision denying a rating in excess of 20 percent for GERD.  Notably, the Veteran did not contest the April 2019 Board decision on the GERD issue.  See Joint Motion for Partial Remand dated March 12, 2020.
+
+However, the Veteran explicitly raised the issue of entitlement to TDIU in December 2016 by identifying "stomach" as a service-connected disability preventing substantially gainful employment in the context of the increased rating claim for GERD.  See VA Form 8940 received December 2016.  The AOJ first addressed this issue in a February 2020 decision noting the claim for benefits was received in December 2016.  The modernized review system, also known as the Appeals Modernization Act (AMA), applies to this specific issue.  See 38 C.F.R. § 3.2400(a)(1).  The Veteran continuously prosecuted this issue with a Higher Level Review (HLR) request in August 2020, a supplemental claim in December 2020 and, after February 2021 AOJ denial, a July 2021 HLR review which resulted in a July 2021 HLR decision.  
+
+In the March 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the February 2021 AOJ rating decision, which was subsequently subject to higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+During the appeal period, the Veteran's service-connected disability has been gastritis, hiatal hernia, and gastroesophageal reflux disease (GERD) (all hereinafter referred to as the Veteran's GERD disability), combined as one service-connected disability rated at 20 percent disabling.  The Veteran was rated 10 percent disabling from December 1992 and the rating was increased to 20 percent disabling from June 1999.
+
+As an initial matter, the Board acknowledges the Veteran's argument that his claim for TDIU should be considered inextricably intertwined with his claim for service connection of PTSD.  However, a June 2023 Board decision denied service connection for PTSD in a separate appeal stream.  Additionally, the claim for TDIU came before the Board in the context of the Veteran's service-connected GERD disability which the AOJ recognizes was filed in December 2016.  In an AMA appeal, the Board is limited to adjudicating the TDIU issue for the appeal stream under Docket Number 220325-230651.  Phillips v. McDonough, 37 Vet. App. 394, 401-02 (2024).
+
+Total disability will be considered to exist when there is present any impairment of mind or body which is sufficient to render it impossible for the average person to follow a substantially gainful occupation.  38 C.F.R. § 3.340.  Total disability ratings for compensation may be assigned, where the schedular rating is less than total, when the disabled person is unable to secure or follow a substantially gainful occupation as a result of service-connected disabilities, provided that, if there is only one such disability, the disability shall be ratable at 60 percent or more, and that, if there are two or more service-connected disabilities, at least one must be rated at 40 percent or more and the combined rating must be 70 percent or more.  38 C.F.R. § 4.16 (a).
+
+As the Veteran does not meet these required percentage standards set forth in 38 C.F.R. § 4.16 (a), he still may receive a TDIU on an extraschedular basis if it is determined that he is unable to secure or follow a substantially gainful occupation by reason of his service-connected disabilities.  38 C.F.R. § 4.16(b).  Thus, there must be a determination as to whether there are circumstances in this case, apart from any non-service-connected conditions and advancing age, which would justify a total rating based on unemployability.  See Hodges v. Brown, 5 Vet. App. 375 (1993).
+
+Assignment of a TDIU evaluation requires that the record reflect some factor that "takes the claimant's case outside the norm" of any other veteran rated at the same level.  Van Hoose v. Brown, 4 Vet. App. 361, 363 (1993) (citing 38 C.F.R. §§ 4.1, 4.15).  The sole fact that a claimant is unemployed or has difficulty obtaining employment is not enough.  A disability rating itself is recognition that the impairment makes it difficult to obtain or keep employment, but the ultimate question is whether the veteran is capable of performing the physical and mental acts required by employment, not whether he or she can find employment.  Id. 
+
+The Board is precluded from assigning an extraschedular rating in the first instance.  See Bagwell v. Brown, 9 Vet. App. 237, 238-9 (1996).  Although the Board may not assign an extraschedular rating initially, it must specifically adjudicate whether to refer a case for extraschedular evaluation when the issue is either reasonably raised by the evidence of record, or, as in this case, by the claimant.  Barringer v. Peake, 22 Vet. App. 242 (2008).  The appropriate standard for the Board when determining whether to remand a claim for a TDIU on an extraschedular basis pursuant to §4.16(b) is whether there is sufficient evidence to substantiate a reasonable possibility that a veteran is unemployable by reason of his service-connected disabilities.  See Ray v. Wilkie, 31 Vet. App. 58, 66 (2019).
+
+Being unable to secure and follow a substantially gainful occupation is defined as having an 1) an economic component of earning more than marginal income (outside of a protected environment as determined by the U.S. Department of Commerce as the poverty threshold for one person and 2) a non-economic component of the individuals ability to secure or follow that type of employment; factors to consider include: the Veteran's history, education, skill, and training; whether the veteran has the physical ability (both exertional and nonexertional) to perform the type of activities (e.g., sedentary, light, medium, heavy, or very heavy) required by the occupation at issue.  Ray, 31 Vet. App. at 62.  Factors that may be relevant include, but are not limited to, the Veteran's limitations, if any, concerning lifting, bending, sitting, standing, walking, climbing, grasping, typing, and reaching, as well as auditory and visual limitations; and whether the Veteran has the mental ability to perform the activities required by the occupation at issue.  Factors that may be relevant include, but are not limited to, the veteran's limitations, if any, concerning memory, concentration, ability to adapt to change, handle workplace stress, get along with coworkers, and demonstrate reliability and productivity.
+
+Turning to the facts, the Veteran's only service-connected disability, GERD, originated with a December 1992 claim and service connection was granted in a December 1998 rating decision rated as 10 percent disabling.  While the Veteran did seek an increased rating for GERD over the next several years, the record reflects that the Veteran was employed until December 2000 at the earliest (see February 2020 Rating Decision) with some conflicting reports that the Veteran was working as late as 2019 (see Veteran's January 2002 statement, "I'm having trouble trying to keep my job because of what I am going [through]"; July 2006 Hearing Testimony in which the Veteran describes having a part-time position through VA as part of a compensated work-therapy program; March 2011 Social Security Administration application in which the Veteran noted he last worked in September 2006; December 2016 VA Form 21-8940 in which the Veteran claimed he last worked in December 2014; October 2019 VA clinic record in which the Veteran reported he was working for the U.S. Postal Service but the same record indicated that the Veteran was not working).
+
+The first instance in the record of the Veteran affirmatively stating he was unemployed prior to the filing of his December 2016 VA Form 21-8940, was in the context of an April 2005 VA GERD examination.  During that examination, the Veteran reported symptoms of nausea and vomiting two to three days per day lasting one hour.  He stated that he must lie down for that one-hour period before he was fully recovered.  The examiner remarked that, while such symptoms appear fairly disabling, his symptoms would be much improved with treatment.  
+
+The Veteran's highest education was completion of high school.  He had prior employment in a supervisory capacity.  
+
+In a June 2005 medical evaluation for Social Security Administration purposes, the Veteran was assessed as having no significant functional limitation due to his gastrointestinal (GI) impairment.  See SSA/SSA Letter received by VA July 2005.  
+
+In an October 2008 statement, the Veteran reported that his GERD condition was affecting his ability to hold a job.  He described two to three times per week being unable to hold anything down in his stomach and experiencing burning and blood.  
+
+In an October 2009 VA GERD examination, the Veteran reported worsening symptoms over the years.  He stated that he now had episodes occurring every three to four days which could last up to a week at a time, and included pain, cramping, dysphagia, nausea, vomiting, reflux, and regurgitation.  The Veteran reported that he was not employed because he "can't work," with the examiner noting this was primarily due to poor eyesight and a right arm orthopedic problem.  When specifically asked about his GI issues, the Veteran reported that he could not stand on his feet and when his stomach hurt and that he had to lie down until the pain went away.  
+
+In November 2009, the Veteran was hospitalized following several days bloody vomiting and diarrhea, as well as a tender abdomen.  It was noted by relatives present with the Veteran that he had been drinking heavily during that period and possibly using drugs.  He had a small bowel obstruction based upon imaging.  His discharge medications included omeprazole.
+
+In a December 2011 VA GERD examination, the Veteran reported a long history of stomach cramping and bloody stool.  The examiner noted that the Veteran was a very poor historian and tangential about his acid reflux symptoms.  The Veteran had not used reflux medication since 2009, prescription or over-the-counter.  His last primary care appointment in April 2011 was noted with no mention of reflux as an acute problem.  See also, CAPRI received by VA July 2011.  The examiner concluded that the Veteran's acid reflux was not currently symptomatic.
+
+In February 2014, the Veteran attended a primary care appointment for chronic medical conditions, specifically his back.  After the visit, the plan included renewal of an old prescription for omeprazole for GERD symptoms.
+
+At a June 2014 VA GERD examination, the Veteran reported symptoms of nausea, vomiting, and abdominal pain and was on omeprazole 20mg daily.  Upon inquiry, symptoms were noted as periodic and transient.  The Veteran did not have incapacitating episodes, but stated that he had to quit his job because of continuous vomiting and stomach issues.
+
+In November 2015, the Veteran received a fully favorable disability determination by the SSA, effective from November 2009, due to the severe impairments of small bowel obstruction and degenerative disc disease.  He testified that he was able to complete activities of daily living, including bathing, grooming, dressing, and feeding himself.  He lived alone with a caregiver coming in to assist him.  His testimony was that he had a surgery for small bowel obstruction, nerve damage affecting his lower back and balance requiring a walker when ambulating.  He was not able to perform prolonged walking or sitting or lift anything heavier than a kettle of water.
+
+The SSA decision summarized the Veteran's medical conditions as including: phthisis bulbi left eye secondary to failed retinal detachment repair; blurred vision; presbyopia in the right eye; recurrent abdominal pain; mechanical high grade small bowel obstruction; gastrointestinal bleed; benign prostatic hypertrophy; hiatal hernia; closed fracture of the wrist; dyspepsia; peptic ulcer disease; Hepatitis B; Hepatitis C; anemia; retinal detachment; total blindness of one eye; vitreous hemorrhage; external hemorrhoids; chronic back pain with unsteady gait; mild compression deformity and degenerative disc disease; chronic posttraumatic stress disorder; cocaine dependence; alcohol abuse; personality disorder; schizophrenia; bipolar disorder; GERD; diabetes mellitus; hypertension; and asthma.  After considering all these impairments, the Veteran was found disabled.
+
+At a January 2016 VA GERD examination, the Veteran reported experiencing a lot of reflux and pain.  The examiner noted that the Veteran did not make a lot of sense and was unsure why the Veteran was seeking an increased GERD disability rating as the Veteran recently had a small bowel obstruction which had nothing to do with his service-connected gastritis.  The Veteran reported being on medication, but no current medications were listed in his medical records.
+
+In September 2016 in the VA clinic setting, the Veteran reported that he was interested in employment but that he had back problems and could not stand for long periods of time.
+
+In December 2016, the Veteran filed his application for TDIU due to his mental health, back, and stomach.  He wrote in one section that he had last worked in December 2000, and in another section that he last worked in December 2014. 
+
+In October 2019 in the VA clinic setting, the Veteran reported he was working for the U.S. Postal Service.  He also stated that he did not have difficulties in reading or writing.  But another section of this report indicated that the Veteran was not working.
+
+Applying the law to the facts of this case, for a referral for extraschedular TDIU consideration to be warranted, the VA has to find that the record showed a reasonably possibility that the Veteran's service-connected gastritis, hiatal hernia and gastric ulcer rendered him unable to obtain and maintain substantially gainful employment.  
+
+The Board finds that the Veteran's GERD symptoms did not reasonably raise a possibility of rendering him unable to obtain or maintain substantially gainful employment during the appeal period for review given his education, vocational and supervisory experience to perform substantially gainful employment.  The Veteran has basic reading, writing, and math skills commensurate with a high school education and one year of college.  His speech communication has been unaffected.  
+
+The Veteran described significant limitations in 2008 wherein he described two to three times per week being unable to hold anything down in his stomach and experiencing burning and blood.  These were the same symptoms ultimately resulting in treatment for a nonservice-connected small bowel obstruction in November 2009.  The January 2016 VA examiner found that the Veteran's small bowel obstruction was not related to his service-connected gastritis.
+
+The final Board decision in April 2019 found that, during this appeal period, the Veteran's gastritis, hiatal hernia and GERD did not result in impairment of health with anemia and weight loss; recurrent incapacitating episodes averaging 10 days or more in duration at least 4 times per year; or persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health.  The 2014 and 2016 VA examiners found no incapacitating episodes related to service-connected disability, and the Veteran's own statement regarding specifically his service-connected symptoms reported symptoms which "comes and goes" or otherwise are transient.  After treatment for the nonservice-connected small bowel obstruction, the Veteran has not required any specific VA care other than continued prescriptions of medication.
+
+The evidence of record does not raise a reasonable possibility that the Veteran's service-connected gastritis, hiatal hernia and GERD results in any physical limitations, concentration problems, or persistence problems to preclude him from working in substantially gainful employment utilizing his basic educational and vocational skills.  Therefore, the criteria for extraschedular referral for consideration of a TDIU have not been met.
+
+ 
+
+T. MAINELLI
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Estes
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

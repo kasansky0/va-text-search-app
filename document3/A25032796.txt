@@ -1,0 +1,73 @@
+Citation Nr: A25032796
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240905-470623
+DATE: April 9, 2025
+
+ORDER
+
+Service connection for a heart disability, to include coronary artery disease, status post coronary artery bypass graft (hereinafter "coronary artery disease") is granted.
+
+FINDING OF FACT
+
+1. The Veteran was exposed to herbicide agents during service in Vietnam during the Vietnam War era.
+
+2. The Veteran has been diagnosed with coronary artery disease and underwent coronary artery bypass that is presumed to be due to in-service Agent Orange exposure.
+
+CONCLUSION OF LAW
+
+1. The criteria for service connection for coronary artery disease have been met.  38 U.S.C § 1110, 1116, 5107; 38 C.F.R. § 3.102, 3.303, 3.307, 3.309.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The appellant is a Veteran who served on active duty in the United States Navy from December 1967 to September 1969.  
+
+This case comes to the Board of Veterans' Appeals (Board) on appeal from a July 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO).  In that rating decision, the RO denied service connection for a heart condition as secondary to service-connected depression.
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Hearing docket.  On November 29, 2024, the Veteran withdrew the hearing request.
+
+Therefore, the Board may only consider the evidence of record at the time of the July 2024 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran or his representative within 90 days following receipt of the withdrawal of the hearing request.  38 C.F.R. § 20.302(b).  If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to receipt of the withdrawal, or (2) more than 90 days following receipt of the withdrawal, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.302(b), 20.801. 
+
+Entitlement to service connection for coronary artery disease.
+
+The Veteran asserts that he is entitled to service connection for a heart disability secondary to PTSD.  Alternatively, the Veteran argues that his heart disability is related to exposure to herbicide agents while in service in Vietnam.  
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service.  See 38?U.S.C. §§?1110, 1131; 38?C.F.R. §?3.303(a).  To substantiate a claim of service connection there must be evidence of: (1) a current disability (for which service connection is sought); (2) incurrence or aggravation of a disease or injury in service; and (3) a nexus between the claimed disability and the disease or injury in service.  See Shedden v, Principi, 381 F.3d 1153, 1166-1167?(Fed. Cir. 2004).   
+
+A veteran will be presumed to have been exposed to an herbicide agent during such service, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service, if the veteran served in the Republic of Vietnam, its inland waterways, or within 12 nautical miles from the coast during the period beginning on January 9, 1962, and ending on May 7, 1975.  See 38 C.F.R. § 3.307(6).  
+
+For veterans who are entitled to the presumption of in-service herbicide exposure due to such covered active military, naval, or air service, there is a presumption of service connection for certain diseases enumerated under 38 C.F.R. § 3.309(e), including ischemic heart disease (including, but not limited to coronary artery disease (including coronary spasm) and coronary bypass surgery), provided that the disease manifested to a degree of 10 percent at any time after service. 38 C.F.R. § 3.307 (a)(6)(ii); 38 C.F.R. § 3.309(e).  
+
+Military personnel records show the Veteran served in the United States Navy from December 1967 to September 1969, with service aboard the U.S. Naval Mobile Construction Battalion Seventy-Four and in Vietnam.  Personnel records dated March 21, 1969, show the Veteran was assigned to Detail Victor for the entirety of his deployment to Vietnam, and that his performance was highly satisfactory at all times.  A record dated July 25, 1969, shows that the Veteran was granted a field promotion, effective April 16, 2019, for his performance in Southeast Asia.  It also noted that he was scheduled to deploy to Quant Tri, Vietnam, on July 29, 1969.  He received the National Defense Service Medal, the Vietnam Campaign Medal with device (1960-), and the Vietnam Service Medal with one Bronze Star.  While the Vietnam Service Medal is not sufficient to prove service in the Republic of Vietnam, the award of one bronze service star suggests the Veteran participated in one campaign in direct support of operations in the Vietnam theater during which he was either on duty at a time when his unit participated in combat or was under orders in a combat zone.   See Army Regulation 600-8-22 (Jan. 2024).  
+
+Furthermore, the Veteran's in-service herbicide exposure has already been conceded by the RO.  In this regard, the RO issued an October 2016 rating decision granting service connection for prostate cancer and diabetes mellitus type II, based on a presumption of in-service herbicide exposure in the Republic of Vietnam.  Additionally, during the pendency of the instant appeal, the RO issued a January 2025 rating decision granting service connection for hypertension on the same basis.
+
+A toxic exposure risk activity (TERA) memo dated October 30, 2024, was added to the Veteran's file, and it states that the Department of Defense has provided VA with authoritative data to presume the Veteran was exposed to herbicide agents during service in the Republic of Vietnam.  Another TERA memo dated February 5, 2025, was added to the Veteran's file, noting the same exposure to herbicide agents in Vietnam, but also adding potential toxic exposure related to his military occupational specialty as a construction mechanic (including potential exposure to lead, industrial solvents, fuels, paint fumes, carbon monoxide, various chemicals, and possible asbestos.  
+
+Additionally, the Veteran is diagnosed with a heart disability.  However, to warrant service connection for a heart disability based on the presumption of in-service herbicide exposure, such heart disability must fall into the category of ischemic heart disease.  According to 38 C.F.R. § 3.309(e), ischemic heart disease includes, but is not limited to, acute, subacute, and old myocardial infarction, atherosclerotic cardiovascular disease including coronary artery disease (including coronary spasm) and coronary bypass surgery; and stable, unstable and Prinzmetal's angina.  Additionally, 38 C.F.R. § 3.309(e), Note 2 clarifies that for purposes of this section, the term ischemic heart disease does not include hypertension or peripheral manifestations of arteriosclerosis such as peripheral vascular disease or stroke, or any other condition that does not qualify within the generally accepted medical definition of [i]schemic heart disease.  
+
+Therefore, the question before the Board is whether the Veteran's heart disability falls into the category of ischemic heart disease.  
+
+The Veteran was afforded a VA examination in March 2024 and was diagnosed with congestive heart failure, valvular heart disease, left bundle branch block, and premature atrial contractions.  The examiner noted that the Veteran's heart conditions did not qualify within the generally accepted medical definition of ischemic heart disease.  The Veteran was noted to have cardiac arrythmia and to have a heart valve condition of mild aortic stenosis that affects his mitral, tricuspid, aortic, and pulmonary valves.  At that time, the Veteran had not undergone any surgeries regarding any heart condition.  The examiner noted evidence of cardiac hypertrophy and cardiac dilation via echocardiogram.  The examiner stated that the Veteran needed to follow up with his primary care provider regarding life threatening findings from the examination, including the abnormal echocardiogram.  The examiner opined that the Veteran's heart condition was not related to his service-connected depression.  The examiner did not opine as to whether or not the Veteran's heart conditions were directly related to an injury, illness, or event in service, including exposure to herbicide agents.
+
+After the rating decision on appeal, but during an appropriate evidentiary window, the Veteran provided private treatment records from his private clinician with CaroMont Heart & Vascular.  In a February 26, 2025, brief submitted by the Veteran's attorney, she waived consideration by the AOJ of any documents submitted after the last adjudication.  The private treatment records note that in April 2024, the Veteran underwent left heart catheterization after being newly diagnosed with cardiomyopathy and then he underwent a coronary artery bypass graft.  In May 2024, the clinician noted a primary diagnosis of coronary artery disease involving native coronary artery of native heart with unstable angina pectoris, heart failure, left bundle branch heart block, ischemic cardiomyopathy, and history of three vessel coronary artery bypass.  In June 2024, the Veteran underwent echocardiogram testing which indicated ischemic cardiomyopathy.  
+
+(Continued on the next page)
+
+?
+
+These private cardiology records confirm that the Veteran has a diagnosis of coronary artery disease and ischemic cardiomyopathy, and therefore the Veteran has a current diagnosis of ischemic heart disease, irrespective of whether he also has valvular heart disease.  Accordingly, the Veteran's coronary artery disease is presumed to be due to his presumed in-service herbicide exposure and service connection for coronary artery disease is warranted.
+
+ 
+
+ 
+
+L. B. CRYAN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. A. Feroce
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

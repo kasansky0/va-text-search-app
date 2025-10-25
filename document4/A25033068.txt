@@ -1,0 +1,79 @@
+Citation Nr: A25033068
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 241202-490703
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to a disability rating in excess of 10 percent for hearing loss is denied.
+
+FINDING OF FACT
+
+Veteran's bilateral hearing loss has been manifested by hearing acuity of no worse than Level IV in the right ear and no worse than Level V in the left ear.
+
+CONCLUSION OF LAW
+
+The criteria for a rating in excess of 10 percent for bilateral hearing loss have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.85, 4.86, Diagnostic Code 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from December 1951 to November 1953.
+
+This appeal is being processed under the modernized review system, commonly referred to as the "AMA," as established by the Veterans Appeals Improvement and Modernization Act of 2017.  115 Pub. L. No. 55, 131 Stat. 1105.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a June 2024 rating decision issued by a Department of Veterans Affairs (VA) regional office, an agency of original jurisdiction (AOJ).  The Veteran timely initiated an appeal by submitting a December 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), and elected the elected the Hearing docket.
+
+In March 2025, following the Board hearing, the Veteran filed a waiver of the remaining time for evidence submission.  Therefore, the Board may only consider the evidence of record at the time the AOJ issued the June 2024 rating decision on appeal, as well, as any evidence submitted by the Veteran or his representative at the hearing or before the waiver of remaining time was filed.  38 C.F.R. § 20.302(a).  If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the Board hearing, or (2) after the waiver of remaining time for evidence submission, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.302(a), 20.801. 
+
+Increased Rating
+
+Disability evaluations are determined by comparing a Veteran's present symptoms with criteria set forth in VA's Schedule for Rating Disabilities (Rating Schedule), which is based on average impairment in earning capacity.  38 U.S.C. § 1155; 38?C.F.R. Part 4.  In order to evaluate the level of disability and any changes in condition, it is necessary to consider the complete medical history of the Veteran's condition.  Schafrath v. Derwinski, 1?Vet. App.?589, 594 (1991).  If the disability more closely approximates the criteria for the higher of two ratings, the higher rating will be assigned; otherwise, the lower rating is assigned.  38 C.F.R. § 4.7.  In general, it is not expected that all cases will show all the findings specified; however, findings sufficiently characteristic to identify the disease and the disability therefrom and coordination of rating with impairment of function will be expected in all instances.  38 C.F.R. § 4.21. 
+
+Hearing loss is evaluated through the mechanical application of a veteran's audiometric test results to the rating tables set forth in the Rating Schedule under DC 6100.  38 C.F.R. § 4.85; Doucette v. Shulkin, 28?Vet. App.?366, 367 (2017). 
+
+For VA compensation purposes, an examination for hearing impairment must be conducted by a state-licensed audiologist and must include a puretone audiometry test as well as a controlled speech discrimination test (Maryland CNC), without the use of hearing aids.  38 C.F.R. § 4.85(a). 
+
+The Rating Schedule utilizes three tables to evaluate hearing impairment: Tables VI, VIA, and VII.  Table VII is used to determine the percentage evaluation by combining Roman numeral designations for the level of hearing impairment in each ear.  These Roman numeral designations are obtained from Tables VI or VIA.  Table VI is based on a combination of puretone threshold average and speech discrimination percentage.  The Roman numerals range from I to XI.  A higher Roman numeral is assigned based on a combination of a higher puretone threshold average and a lower speech discrimination percentage score.  If the use of speech discrimination score is not appropriate, then Table VIA is the appropriate source of the Roman numeral designation, which is based solely on puretone threshold average.  38 C.F.R. § 4.85(c).  Puretone threshold average is the average of the puretone thresholds at the 1000, 2000, 3000, and 4000 Hertz (Hz) frequencies.  38?C.F.R. § 4.85(d). 
+
+Table VIA may be used for "exceptional patterns of hearing impairment," where the puretone thresholds at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hz) are 55 decibels (dB) or more, or where the puretone thresholds are 30 dB or less at 1000 Hz and 70 dB or more at 2000 Hz.  38 C.F.R. § 4.86.  Where the puretone thresholds are 30 dB or less at 1000 Hz and 70 dB or more at 2000 Hz, the Roman numeral derived from Table VIA will be elevated to the next higher Roman numeral. 
+
+The issue of entitlement to disability rating in excess of 10 percent for bilateral hearing loss.
+
+The Veteran contends that he is entitled to a rating in excess of 10 percent for his bilateral hearing loss.  See March 2025 Board Hearing Transcript.
+
+The period on review is from May 2024, the date of filing of the non-initial increased rating claim, to June 2024, the date of the rating decision on appeal which granted a 10 percent disability rating for bilateral hearing loss.
+
+During the relevant period, the Veteran underwent a VA hearing loss examination in June 2024 with the following results:
+
+	1000 Hz	2000 Hz	3000 Hz	4000 Hz	Average
+
+Right (dB)	50	70	75	70	66.25
+
+Left (dB)	55	70	70	70	66.25
+
+Speech discrimination scores were 76% in the right ear and 78% in the left ear.  The examiner found that the use of speech discrimination scores for both ears was appropriate.
+
+Applying the results to Table VI, the findings yield a numeric designation of Level IV in the right ear and Level IV in the left ear.  An exceptional pattern of hearing impairment under 38 C.F.R. § 4.86 was shown in the left ear and utilizing Table VIA yields a numeric designation of Level V.  Entering the resulting bilateral numeric designation of Level IV for the right ear and Level V for the left ear to 38 C.F.R. § 4.85, Table VII, equates to a 10 percent disability rating under Diagnostic Code 6100
+
+Based on the evidence above, a rating in excess of 10 percent for the Veteran's bilateral hearing loss is not warranted. 
+
+The Board expressly acknowledges its consideration of the lay evidence of record when adjudicating this claim, including limiting his ability to interact with people, interact with family, and watch television.  The Veteran and his wife are competent to report the Veteran's difficulty with his hearing; however, disability ratings for hearing loss are derived from a mechanical application of the rating schedule to the numeric designations resulting from audiometric testing.  See Lendenmann v. Principi, 3 Vet. App. 345 (1992).
+
+The rating criteria contemplate speech reception thresholds and ability to hear spoken words on Maryland CNC testing.  The functional impact that the Veteran describes, is contemplated by the rating criteria.  Doucette, 28 Vet. App. at 366.  The Veteran's main complaint is reduced hearing acuity and clarity, which is what is contemplated in the rating assigned.  See Rossy v. Shulkin, 29 Vet. App. 142, 145 (2017).
+
+Accordingly, the most probative evidence of record persuasively weighs against the claim of entitlement to a rating in excess of 10 percent for hearing loss and the benefit-of-the-doubt rule does not apply.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+Paul R. Casey
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. M. Disselkamp, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

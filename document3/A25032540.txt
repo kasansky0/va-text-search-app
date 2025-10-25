@@ -1,0 +1,87 @@
+Citation Nr: A25032540
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 220520-244245
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to revision of a May 2006 rating decision that awarded an initial 10 percent rating for posttraumatic stress disorder (PTSD) on the basis of clear and unmistakable error (CUE) is denied.
+
+FINDING OF FACT
+
+In May 2006, the correct facts, as they were known at the time, were before the Board, and the statutory and regulatory provisions extant at the time were correctly applied.
+
+CONCLUSION OF LAW
+
+The criteria for revision of a May 2006 rating decision that assigned an initial 10 percent rating for PTSD on the basis of CUE have not been met.  38 U.S.C. § 5109A; 38 C.F.R. § 3.105(a).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from March 2001 to March 2004, from July 2004 to October 2005, and from July 2012 to July 2013.  The matter is on appeal under the Appeals Modernization Act (AMA) from a rating decision issued in May 2021.  
+
+In the May 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the May 2021 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+CUE
+
+A previous Regional Office determination that is final and binding will be accepted as correct in the absence of CUE.  Where evidence establishes such error, the prior decision will be reversed or amended.  38 C.F.R. § 3.105(a).  
+
+Once a decision becomes final, it may only be revised by a showing of CUE.  38 C.F.R. §§ 3.104, 3.105.  CUE is a very specific and rare kind of "error."  It is the kind of error, of fact or of law, that when called to the attention of later reviewers compels the conclusion, to which reasonable minds could not differ, that the result would have been manifestly different but for the error.  Simply to claim CUE on the basis that previous adjudications had improperly weighed and evaluated the evidence can never rise to the stringent definition of CUE.  Similarly, neither can broad-brush allegations of "failure to follow the regulations" or "failure to give due process," or any other general, nonspecific claim of "error."  Fugo v. Brown, 6 Vet. App. 40, 43-44 (1993).  In addition, failure to address a specific regulatory provision involves harmless error unless the outcome would have been manifestly different.  Id. at 44.
+
+Where evidence establishes CUE, the prior decision will be reversed or amended.  38 C.F.R. § 3.105(a).  For the purpose of authorizing benefits, the rating or other adjudicatory decision which constitutes a reversal of a prior decision on the grounds of CUE has the same effect as if the corrected decision had been made on the date of the reversed decision.  Id. 
+
+CUE is established when the following conditions are met: (1) either (a) the correct facts in the record were not before the adjudicator, or (b) the statutory or regulatory provisions in existence at the time were incorrectly applied; (2) the alleged error must be "undebatable," not merely "a disagreement as to how the facts were weighed or evaluated"; and (3) the commission of the alleged error must have "manifestly changed the outcome" of the decision being attacked on the basis of CUE at the time that decision was rendered.  Evans v. McDonald, 27 Vet. App. 180, 185 (2014), aff'd, 642 F. App'x 982 (Fed. Cir. 2016); Damrel v. Brown, 6 Vet. App. 242, 245 (1994); Russell v. Principi, 3 Vet. App. 310, 313-14 (1992).
+
+The error must be of a type that is outcome-determinative, and subsequently developed evidence may not be considered in determining whether an error existed in the prior decision.  See Porter v. Brown, 5 Vet. App. 233, 235-36 (1993); Glover v. West, 185 F.3d 1328 (Fed. Cir. 1999).  A manifest change in the outcome of an adjudication means that, absent the alleged CUE, the benefit sought would have been granted at the outset.  King v. Shinseki, 26 Vet. App. 433, 441 (2014).  The standard is not whether it is reasonable to conclude that the outcome would have been different.  Id. at 442.
+
+The benefit-of-the-doubt doctrine is not for application in claims of CUE.  Andrews v. Principi, 18 Vet. App. 177, 186 (2004) (citing Russell, 3 Vet. App. at 313) (it is well established that the benefit-of-the-doubt doctrine can never be applicable in assessing a CUE motion because the nature of such a motion is that it involves more than a disagreement as to how the facts were weighed or evaluated).
+
+In a May 2006 rating decision, the Veteran was awarded service connection for PTSD and a 10 percent rating was granted effective October 22, 2005.  The rating decision indicated that a 10 percent rating was assigned because there was occupational and social impairment due to mild or transient symptoms which decreased work efficiency and ability to perform occupational tasks only during significant stress.  While the VA examiner noted a Global Assessment of Functioning (GAF) score of 60, which indicated moderate symptoms, the examiner stated that the Veteran was experiencing mild symptoms with a mild level of social and occupational impairment.  The Veteran was notified of this decision in a correspondence dated in June 2006.  The Veteran did not appeal this decision, and no new and material evidence was filed within one year of the May 2006 rating decision.  Thus, the May 2006 rating decision became final.  38 U.S.C. § 7105; 38 C.F.R. §§ 3.104(a), 3.160(d), 3.156(b), 20.302, 20.1103.
+
+The Veteran is seeking revision on the basis of CUE in the May 2006 rating decision.  In his March 2021 motion for CUE, the Veteran contended that the February 2006 VA examiner indicated a GAF score of 60, which equated to moderate difficulty in social or occupational impairment.  The GAF score raised a reasonable doubt as to the severity of the Veteran's PTSD, and the AOJ should have awarded a 50 percent rating due to moderate symptoms.  
+
+As a threshold matter, the Board finds that the arguments advanced by the Veteran allege CUE with the requisite specificity.  See Simmons v. Principi, 17 Vet. App. 104 (2003).  The Board will therefore adjudicate the merits of his motion.
+
+At the time of the May 2006 rating decision, as is the same now, Diagnostic Code 9411 governed ratings for PTSD.  A 10 percent rating was assigned when PTSD caused occupational and social impairment due to mild or transient symptoms which decrease work efficiency and ability to perform occupational tasks only during periods of significant stress, or symptoms controlled by continuous medication.  38 C.F.R. § 4.130, Diagnostic Code 9411.
+
+A 30 percent rating is assigned when a veteran's PTSD causes occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks (although generally functioning satisfactorily, with routine behavior, self-care, and conversation normal), due to such symptoms as: depressed mood, anxiety, suspiciousness, panic attacks (weekly or less often), chronic sleep impairment, or mild memory loss (such as forgetting names, directions, recent events).  Id.
+
+A 50 percent rating is assigned when a veteran's PTSD causes occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short-term and long-term memory (e.g., retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; or difficulty in establishing and maintaining effective work and social relationships.  Id.
+
+A 70 percent evaluation is assigned when a veteran's PTSD causes occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a worklike setting); or an inability to establish and maintain effective relationships.  Id.
+
+A 100 percent rating is assigned when a veteran's PTSD causes total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; danger of hurting self or others; intermittent inability to perform activities of living (including maintenance of minimal hygiene); disorientation to time or place; or memory loss for names of close relatives, occupation, or own name.  Id.
+
+The use of the term "such as" in the General Rating Formula for Mental Disorders in 38 C.F.R. § 4.130 demonstrates that the symptoms after that phrase are not intended to constitute an exhaustive list, but rather are to serve as examples of the type and degree of symptoms, or their effects, that would justify a particular rating.  See Mauerhan v. Principi, 16 Vet. App. 436, 442 (2002).  It was not required to find the presence of all, most, or even some, of the enumerated symptoms recited for particular ratings to be assigned.  Id.  Stated differently, an appropriate rating could be assigned based on consideration of evidence of all symptoms of a claimant's condition that affected his or her level of occupational and social impairment.  See id. at 443.
+
+Furthermore, psychiatric examinations historically included assignment of a GAF score.  According to the fourth edition of the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM-IV), which was applicable at the time of the May 2006 rating decision, GAF is a scale reflecting the "psychological, social, and occupational functioning on a hypothetical continuum of mental health illness."  Under the DSM-IV, GAF scores ranging from 61 to 70 is defined as some mild symptoms (e.g., depressed mood and mild insomnia) or some difficulty in social, occupational, or school functioning.  On the other hand, GAF scores ranging from 51 to 60 are indicative of moderate symptoms (e.g., flat affect and circumstantial speech, occasional panic attacks) or moderate difficulty in social, occupational, or school functioning.  However, the symptoms shown, and not an assigned GAF score or an examiner's assessment of severity of a disability, provided the basis for an assigned rating.  38 C.F.R. § 4.126(a).
+
+The presence or lack of evidence of a specific sign or symptom listed in the evaluation criteria is not necessarily dispositive of any particular disability level, see Vasquez-Claudio v. Shinseki, 713 F3d 112, 116-17 (Fed. Cir. 2013); Mauerhan, 16 Vet. App. at 442.  The United States Court of Appeals for the Federal Circuit in Vazquez-Claudio found it pertinent that the severity, frequency, and duration of a symptom such as memory loss could be tracked through several disability levels.  VA must engage in a holistic analysis in which it assesses the severity, frequency, and duration of the signs and symptoms of the veteran's service-connected mental disorder; quantifies the level of occupational and social impairment caused by those signs and symptoms; and assigns an evaluation that most nearly approximates that level of occupational and social impairment.  Vasquez-Claudio, at 115-17.
+
+The February 2006 VA examination report noted symptoms of anxiety, difficulty sleeping when he first returned home, hypervigilance, fear of thunderstorms, nightmares twice a month, and some difficulty concentrating on work and school assignments.  He reported his sleep pattern improved.  His friends and family indicated to him that he was serious, and some have described him as mean.  He was currently working and went to school at night.  He was divorced, but currently in a relationship.  A mental status evaluation indicated he was neatly dressed and groomed, made good eye contact, had clear, coherent, and goal-directed speech, and denied suicidal and homicidal ideation.  His affect was somewhat constricted, and he reported symptoms of anxiety interfering with sleep and somewhat with his ability to concentrate at work and school.  His thought process was linear and goal directed.  He reported that symptoms of anxiety were interfering with his ability to sleep and somewhat with his ability to concentrate on his schoolwork and work.  He was diagnosed with PTSD and assigned a GAF score of 60.  The examiner indicated that the Veteran reported symptoms consistent with mild PTSD and that he was currently experiencing a mild level of impairment in social and occupational functioning.
+
+The Board has carefully considered the Veteran's arguments but finds that the May 2006 rating decision does not contain CUE that would have manifestly changed the outcome.  To that end, the AOJ did not have the incorrect facts before it or misapply the applicable law.
+
+GAF scores were not dispositive at the time of the May 2006 rating decision, and the February 2006 VA examination report is evidence that it was not undebatable that the Veteran's symptoms were severe enough such that a rating in excess of 10 percent as warranted.
+
+The Veteran's contention is that since the VA examiner assigned a GAF score of 60, he was entitled to a 50 percent rating for moderate symptoms.  There cannot be CUE on this basis, however, because the February 2006 VA examination report was not so unequivocal in establishing that a higher rating for PTSD was warranted.  It is not absolutely certain that the AOJ would have unquestionably had to assign a rating in excess of 10 percent, as the February 2006 VA examination report also noted that the Veteran was working and in school, had improved sleep, was currently in a relationship, and was experiencing a mild level of impairment in social and occupational functioning.  Rather, reasonable minds could differ on whether the evidence showed moderate PTSD symptoms, which would require a weighing of the evidence.  This cannot constitute CUE.  See Evans, 27 Vet. App. at 185, 187.
+
+Moreover, there is no evidence indicating that the AOJ misapplied the pertinent legal authority in the May 2006 rating decision.  The AOJ provided a reasonable basis for assigning a 10 percent disability rating.  In addition, an examiner's classification of the level of psychiatric impairment at the moment of examination, by words or by a GAF score, is to be considered, but it is not determinative of the percentage VA disability rating to be assigned; the percentage evaluation is to be based on all the evidence that bears on occupational and social impairment.  See 38 C.F.R. § 4.126. 
+
+For all the reasons stated above, the Board finds that the May 2006 rating decision that assigned an initial 10 percent rating for PTSD was consistent with, and reasonably supported by, the evidence then of record and correctly applied existing legal authority.  What evaluation was warranted for PTSD was debatable, and the VA examiner, who performed a psychiatric examination, concluded that the effects of the Veteran's PTSD on occupational and social functioning was mild.  Thus, there was evidence at that time that supported the assignment of the 10 percent rating.  There is no undebatable error that is shown that would have manifestly changed the outcome.  Consequently, the Veteran's motion to revise the May 2006 rating decision to the extent that it assigned an initial 10 percent rating for PTSD is denied.  
+
+ 
+
+ 
+
+M. SORISIO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B. Yoon, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

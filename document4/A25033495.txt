@@ -1,0 +1,69 @@
+Citation Nr: A25033495
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240627-452891
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to service connection for a cardiac disability, to include tachycardia, is remanded.
+
+Entitlement to service connection for a low back disability, to include degenerative arthritis of the lower back, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from September 1980 to March 1983.
+
+The Rating Decision on appeal was issued in June 2023; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies. 
+
+In March 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review, and requested review of a November 2022 Rating Decision (degenerative arthritis of the lower back) as well as a January 2023 Rating Decision (tachycardia).  In June 2023, the Agency of Original Jurisdiction (AOJ) issued the Higher-Level Review Rating Decision on appeal, which considered the evidence of record at the time of the November 2022 Rating Decision (with respect to the low back disability claim) and the January 2023 Rating Decision (with respect to the cardiac disability claim).  
+
+In his June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the November 2022 Rating Decision (with respect to the low back disability claim) and the January 2023 Rating Decision (with respect to the cardiac disability claim), which were subsequently subject to Higher-Level Review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued those decisions, which were subsequently subject to Higher-Level Review, then the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+However, because the Board is remanding the claims on appeal, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The Board acknowledges that the Veteran's claim of entitlement to service connection for a back disability has previously been denied by the AOJ, having initially filed a claim in September 2010. Under the AMA, the Board is bound by favorable findings, including findings that new and relevant evidence has been received to warrant readjudication of a claim. 38 C.F.R. § 3.104.  In the November 2022 rating decision, the AOJ determined new and relevant evidence had been received and continued to deny service connection for degenerative arthritis of the lower back. Therefore, the issue before the Board is on the merits.
+
+The Veteran seeks entitlement to a cardiac disability and a low back disability.  
+
+Under the AMA, the Board may only remand an issue for the correction of (1) duty to assist errors occurring prior to the date of the AOJ decision on appeal (i.e., pre-decisional duty to assist errors) and (2) AOJ errors in satisfying a regulatory or statutory duty, if correction of such error would have a reasonable possibility of aiding in substantiating the appellant's claim.  See 38 C.F.R. § 20.802(a).  Having reviewed the evidence of record, the Board finds that remand for a pre-decisional duty to assist error is required.
+
+VA, through the Veterans Health Administration (VHA), authorizes eligible Veterans to receive healthcare from a community provider rather than waiting for a VA appointment or traveling to a VA facility.  This authorization includes the former Veterans Choice Program and current Veterans Community Care Program.  
+
+Here, a review of the VA treatment records associated with the claims file prior to the November 2022 and January 2023 Rating Decisions reveals that the Veteran was approved for medical treatment through VHA's Veterans Choice Program and the current Community Care program on multiple occasions, to include treatment for lumbar radiculopathy in August 2021 and low back pain in October 2021.  The VA treatment records also reflect that these records had been scanned and uploaded into VA's Veterans Health Information System Technology Architecture (VistA) Imaging system.  VA treatment records (to include Veterans Choice Program and Community Care Program records), even if not in the claims file, are nevertheless considered part of the record on appeal because they are within VA's constructive possession. See 38 U.S.C. § 5103A (b); Bell v. Derwinski, 2 Vet. App. 611, 613 (1992) (holding that VA adjudicators are deemed to have constructive notice of VA treatment records).  As such, the AOJ's failure to obtain these records and associate them with the claims file prior to the November 2022 and January 2023 Rating Decisions constituted a pre-decisional duty to assist errors.  As the Board does not have access to the VistA Imaging system, any documentation of the aforementioned Veterans Choice Program and Community Care Program records must be printed and associated with the Veteran's claims file.
+
+Additionally, specifically with respect to the issue of entitlement to service connection for a cardiac disability, private treatment records from University of North Carolina (UNC) Health were added to the record on January 3, 2023, prior to the January 2023 Rating Decision which denied entitlement to service connection for tachycardia.  These private treatment records included a November 2022 New Consultation Clinic Note indicating that the etiology of the Veteran's diagnosed sinus tachycardia was "likely multifactorial and related to PTSD and recent stress."  The Board emphasizes that the Veteran has been service connected for "unspecified trauma and stressor related disorder" effective June 2, 2021.  However, the AOJ never provided the Veteran with a VA examination to determine the likely etiology of his diagnosed sinus tachycardia.  Rather, although the January 2023 Rating Decision acknowledged receipt of the UNC Health treatment records in January 2023, it simply concluded that, "The evidence does not show this disability resulted from a service-connected disability or was aggravated thereby."  The June 2023 Higher-Level Review Rating Decision on appeal did not even consider a theory of entitlement t service connection on a secondary basis.  As the record prior to the January 2023 Rating Decision included (1) a diagnosis of tachycardia, (2) a medical statement that the diagnosed tachycardia was "likely multifactorial and related to PTSD and recent stress," and (3) a March 2022 Rating Decision granting entitlement to service connection for an unspecified trauma and stressor related disorder effective June 2, 2021, the Board finds that VA's duty to assist the Veteran in obtaining a medical examination/opinion was triggered.  See McLendon v. Nicholson, 20 Vet. App. 79, 81 (2006); 38 U.S.C. § 5103A (d)(2).  This failure to obtain a medical examination or opinion constitutes a pre-decisional duty to assist error.  As such, on remand, the Veteran should be afforded a VA examination to determine the likely etiology of his diagnosed sinus tachycardia, to include the likelihood that it was caused or aggravated by his service-connected unspecified trauma and stressor related disorder.  
+
+The matters are REMANDED for the following action:
+
+1. Associate with the claims file any outstanding Veterans Choice Program and Community Care Program records currently scanned into the Veterans Health Information System Technology Architecture (VistA) Imaging system.  The AOJ is reminded that the Board does not have access to the VistA imaging system, so any documentation contained in it must be printed from VistA and uploaded/added to the claims file.  All attempts to obtain these records must be documented in the claims file. The Veteran and his attorney must be notified of any inability to obtain the requested documents.
+
+2. Provide the Veteran with an examination to determine the likely etiology of his diagnosed sinus tachycardia.  The entire claims file and a copy of this Remand must be made available to the reviewing examiner and the examiner shall indicate in the report that the claims file was reviewed.  
+
+The VA examiner should furnish an opinion with respect to the following questions:
+
+(a.) Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's diagnosed sinus tachycardia was caused by his service-connected unspecified trauma and stressor related disorder.  
+
+(b.) If not, whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's diagnosed sinus tachycardia was aggravated (worsened) by his service-connected unspecified trauma and stressor related disorder.
+
+The examiner is reminded that aggravation under 38 C.F.R. § 3.310(b) does not require that there be "permanent worsening" of the nonservice-connected disability.  Instead, secondary service connection is warranted for any incremental increase in disability, meaning any additional impairment of earning capacity in nonservice-connected disabilities resulting from service-connected conditions, above the degree of disability existing before the increase regardless of its permanence.
+
+In providing these opinions, the examiner is asked to specifically discuss the November 2022 "New Consultation Clinic Note" from University of North Carolina (UNC) Health indicating that the etiology of the Veteran's diagnosed sinus tachycardia was "likely multifactorial and related to PTSD and recent stress."  
+
+The examiner should provide a complete rationale for all opinions provided.  If an opinion cannot be provided without resorting to mere speculation, then the examiner should identify all medical and lay evidence considered in this conclusion, fully explain why this is the case and identify what additional evidence (if any) would allow for a more definitive opinion.
+
+The examiner is advised that the Veteran is competent to report his symptoms and history, and such reports must be specifically acknowledged and considered in formulating any opinions.  If the examiner rejects the Veteran's reports, then he/she must provide an explanation for such rejection.  The examiner is not to improperly discount the Veteran's lay statements or mistakenly rely on an absence of medical evidence in the record to support his/her conclusions.
+
+ 
+
+ 
+
+Tiffany Dawson
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Flamini, Anthony
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

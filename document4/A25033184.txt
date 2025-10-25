@@ -1,0 +1,75 @@
+Citation Nr: A25033184
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240910-473101
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA), to include as secondary to service-connected lumbar spine degenerative arthritis and strain (hereinafter referred to as lumbar spine), is granted.
+
+FINDING OF FACT
+
+Resolving any reasonable doubt in the Veteran's favor, OSA is proximately due to or the result of his service-connected lumbar spine disability.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA, to include as secondary to a service-connected lumbar spine disability have been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the Army from September 1980 to February 1984. 
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from a September 2023 rating decision of a Department of Veterans Affairs (VA) Regional Office.
+
+The Veteran timely appealed the September 2023 rating decision with submission of a September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), and elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.
+
+Of note, remand to the AOJ is only warranted to correct pre-decisional duty to assist errors if correction of such error would have a reasonable possibility of aiding in substantiating a claim (including when the AOJ failed to make reasonable efforts to obtain VA treatment records or relevant federal or private treatment records, failed to obtain a VA examination, or provided an inadequate VA examination or opinion).  38 C.F.R. §20.802 (a).  In addition, the Board is bound by favorable findings made by the AOJ, absent clear and unmistakable error. 38 C.F.R. § 3.104 (c).
+
+If evidence was added to the claims file during a period of time when new evidence was not allowed, the Board has not considered it in this decision. 38 C.F.R. § 20.301.  The Veteran may file a Supplemental Claim and submit or identify this evidence.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Now the matter before the Board.
+
+Service Connection
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303.
+
+Establishing service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the present disability. Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004).
+
+Service connection may also be granted for any injury or disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease or injury was incurred in service. 38 C.F.R. § 3.303 (d).
+
+Service connection may be granted on a secondary basis for a disability which is proximately due to or the result of a service-connected disease or injury under 38 C.F.R. § 3.310. Allen v. Brown, 7 Vet. App. 439 (1995); Ward v. Wilkie, 21 Vet. App. 233 (2019). To establish service connection on a secondary basis, there must be (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) medical evidence establishing a link between the service-connected disability and the current disability. See Wallin v. West, 11 Vet. App. 509, 512 (1998).
+
+The Board notes that obesity cannot qualify as an in-service event to warrant direct service connection; however, it may be an intermediate step between a service-connected disability and a current disability that may be service connected on a secondary basis.  See VAOPGCPREC 1-2017, at 2-4.
+
+In rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive and provide the reasons for its rejection of any material evidence favorable to the claimant.  Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994).  When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the benefit of the doubt shall be given to the claimant.  38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102.
+
+Facts and Analysis
+
+The Veteran seeks service connection for OSA, asserting in an April 2023 lay statement that his lumbar spine disability prevents him from exercising, being able to sleep in certain positions, and causes pain that makes it difficult to fall or stay asleep, thus causing his OSA.  See April 2023 VA Form 21-4138, Statement in Support of Claim.
+
+The AOJ favorably found that the Veteran has a current OSA diagnosis, and that the Veteran's lumbar spine disability is service connected.  See September 2023 rating decision.  The Board is bound by these favorable findings.  38 C.F.R. § 3.104 (c).  Thus, the first and second Wallin elements of secondary service connection are met, and the dispositive issue is whether a nexus between them exists.
+
+In April 2023, the Veteran submitted a private medical nexus opinion from Dr. Z.M.  Dr. Z.M. found that it was at least as likely as not that the Veteran's weight gain was due to his service-connected lumbar spine disability, and that his overweight condition led to, caused, or aggravated the Veteran's OSA.  Dr. Z.M. noted that the Veteran's service-connected disability caused pain, painful motion, sleep disturbances, diminished motivation, and comfort eating, which leads to weight gain.  His Dr. Z.M. further reported that medical studies document weight gain is known to predispose and directly cause OSA.  Specifically, Dr. Z.M. explained that sleep loss results in metabolic and endocrine alterations that can lead to increased body mass index (BMI) and becoming overweight, and that pathophysiological processes lead to deposition of fat that causes collapsibility of the upper pharyngeal airway and reductions in functional residual lung capacity.  The Board finds this opinion adequate and highly probative for the matter on appeal, as it contains clear conclusions, supporting data, and reasoned medical explanation connecting the two.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008).
+
+Of note, the Veteran's sleep apnea report indicates he has a BMI of 29.1, which is the overweight category with the obesity range beginning at a BMI of 30.  See STOP-BANG Sleep Questionnaire, received April 13, 2023; see also August 2023 VA Sleep Study report.
+
+The Veteran was afforded an examination for his OSA in September 2023.  The examiner found the Veteran's OSA was less likely than not proximately due to or the result of the Veteran's toxic exposure risk activities (TERA) while in the service.  However, the examiner did not address whether service connection was warranted on any other basis, to include as secondary to the Veteran's service-connected lumbar spine disability with weight gain as an intermediate step.  Thus, the Board finds the opinion is inadequate for adjudication of the matter on appeal.
+
+In this case, the Board could remand for a new VA examination; however, as the evidence of record is sufficient to grant the Veteran's claim, a remand would only serve to unnecessarily delay final adjudication of the claim.  As noted above, the April 2023 private medical opinion of Dr. Z.M. provided a favorable medical opinion based on review of pertinent medical evidence and citing relevant studies to support a link between the Veteran's OSA and service-connected lumbar spine disability with weight gain as an intermediate step.  
+
+Accordingly, the Board resolves any reasonable doubt in Veteran's favor and finds OSA is proximately due to or the result of his service-connected lumbar spine disability.  The Veteran's claim of entitlement to service connection for OSA is granted.
+
+ 
+
+ 
+
+MICHAEL LANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Gipson, Natalie E.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

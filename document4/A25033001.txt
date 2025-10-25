@@ -1,0 +1,101 @@
+Citation Nr: A25033001
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240604-445927
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for tinnitus is denied.
+
+REMANDED
+
+Entitlement to service connection for recurrent dyspnea, also claimed as shortness of breath, to include as due to exposure to environmental hazards, an undiagnosed illness and/ or medically unexplained chronic multi-symptom illness (MUCMI) and/ or secondary to service-connected allergic rhinitis, is remanded.
+
+FINDING OF FACT
+
+The Veteran's tinnitus was not shown as chronic in service and did not manifest to a compensable degree within the applicable presumptive period; continuity of symptomatology is not established; and the disability is not otherwise etiologically related to an in-service injury, event, or disease, including inservice noise exposure.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for tinnitus are not met.  38 U.S.C. §§ 1110, 1112, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from December 1990 to May 1991, to include service in the Southwest Asia Theatre of Operations.
+
+This matter comes on appeal from a March 2024 rating decision.  In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the March 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+With respect to the issue of entitlement to service connection for tinnitus, if the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim of entitlement to service connection for recurrent dyspnea, any evidence the Board could not consider will be considered by the AOJ in the adjudication of this claims.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+?
+
+Entitlement to service connection for tinnitus 
+
+The Veteran contends that her tinnitus is due to her service in the Southwest Theatre of Operations.  Service treatment records document that the Veteran was routinely exposed to hazardous noise.  
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+Certain chronic diseases will be presumed related to service if they were shown as chronic (reliably diagnosed) in service; or, if they manifested to a compensable degree within a presumptive period following separation from service; or, if they were noted in service, with continuity of symptomatology since service that is attributable to the chronic disease.  38 U.S.C. §§ 1101, 1112; Walker v. Shinseki, 708 F.3d 1331, 1338 (Fed. Cir. 2013); Fountain v. McDonald, 27 Vet. App. 258 (2015); 38 C.F.R. §§ 3.303, 3.307, 3.309.
+
+The question for the Board is whether the Veteran has a chronic disease that was noted as chronic in service or that manifested to a compensable degree in service or within the applicable presumptive period, or whether continuity of symptomatology has existed since service.
+
+The Board concludes that, while the Veteran has tinnitus, which is a chronic disease under 38 U.S.C. § 1101(3); 38 C.F.R. § 3.309(a), it was not shown as chronic in service or within a presumptive period, did not manifest to a compensable degree within a presumptive period, and was not noted in service with attributable continuity of symptomatology.  Importantly, service treatment records are silent with respect to any complaints, finding or diagnosis of tinnitus.  The May 1991 service examination prior to discharge showed that the Veteran's ears were clinically evaluated as normal.  In a contemporaneous medical history, although she did not know if she had hearing loss, she expressly denied ear trouble and was silent with respect to any tinnitus.  
+
+Post-service records do not document any findings of tinnitus until the Veteran filed her current claim in July 2023, decades after the Veteran's separation from active service and outside of the applicable presumptive period.  Importantly, VA clinical records show that the Veteran expressly denied tinnitus the month prior in June 2023.  The first medical evidence of any diagnosis is the February 2024 VA examination.  Moreover, at the VA examination, the Veteran reported the onset of her tinnitus to be in 2016, again decades after her separation for service and outside the applicable presumptive period.  
+
+As such, given the lack of any lay or medical evidence showing tinnitus within one year of discharge of service or pertinent symptomatology since service, tinnitus may not be presumed to have had its onset in service.  
+
+Service connection for tinnitus may still be granted on a direct basis; however, the evidence persuasively weighs against finding that a medical nexus exists between the Veteran's tinnitus and an in-service injury, event or disease.  38 U.S.C. § 1110; Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009); 38 C.F.R. § 3.303.  
+
+In this regard, the February 2024 VA examiner opined that tinnitus is less likely than not associated with hearing loss.  The examiner rationalized that tinnitus is a subjective complaint and no objective measure exists to verify the presence or absence of tinnitus.  The etiology of tinnitus cannot be determined using current clinical technologies.  Etiology is typically inferred by patient history and a review of medical records.  Service medical records are silent for tinnitus.  The Veteran states that tinnitus began in 2016, which is over 30 years post military service.  
+
+As the Veteran participated in a toxic exposure risk activity given her service in the Southwest Asia Theatre of Operations, a TERA opinion was also obtained in February 2024 under the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxins Act of 2022 (PACT Act).  The examiner found that the Veteran's tinnitus was less likely than not caused by the indicated toxic exposure risk activity(ies), after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  The examiner rationalized that tinnitus was not reported for 30 years post military service.  Medical opinion regarding TERA is not required as tinnitus is less likely due to military experience.
+
+Although the February 2024 VA examiner checked the box concerning an opinion as to whether tinnitus was related to hearing loss, it is clear from the examiner's rationale that they were proffering an opinion as to whether tinnitus was related to service.  In sum, taken together, the VA examiners' opinions are probative, because they are based on review of the claims file as well as an accurate medical history and provides an explanation that contains clear conclusions and supporting data.  Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008).  Moreover, as discussed above, the remaining medical evidence reflects that the Veteran's tinnitus did not manifest until many years after service.  When reviewing the VA opinions in conjunction with the other evidence of record, the evidence persuasively weighs against finding that tinnitus is related to service.
+
+Although the Veteran believes her tinnitus is related to an in-service injury, event, or disease, she is not competent to provide a nexus opinion in this case.  This issue is also medically complex, as it requires specialized medical knowledge and the ability to interpret audiogram findings.  Jandreau v. Nicholson, 492 F.3d 1372, 1377, 1377 n.4 (Fed. Cir. 2007).  Consequently, the Board gives more probative weight to the VA medical opinions and remaining evidence of record.
+
+For all the foregoing reasons, the Board finds that the claim for service connection for tinnitus must be denied.  In reaching the conclusion to deny the claim, the Board has considered the applicability of the benefit-of-the-doubt doctrine.  However, as the evidence persuasively weighs against the claim, that doctrine is not applicable.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+?
+
+REASONS FOR REMAND
+
+Entitlement to service connection for recurrent dyspnea, also claimed as shortness of breath, to include as due to exposure to environmental hazards, an undiagnosed illness and/ or MUCMI and/ or secondary to service-connected allergic rhinitis, is remanded.
+
+The Veteran asserts that she has recurrent dyspnea due to her service in the Southwest Asia Theatre of Operations.  She has also claimed that her disorder is secondary to her service-connected allergic rhinitis.  The February 2024 VA examiner diagnosed recurrent dyspnea and found that it was a disease with a clear and specific etiology and diagnosis and thus, the examiner appears to indicate that it is not be an undiagnosed illness or MUCMI.  However, the examiner proffered no rationale or explanation for this finding.  Further, there has been no secondary opinion.  
+
+A February 2024 TERA opinion also indicated that the Veteran's recurrent dyspnea was not due to a TERA because the condition began around 2009, nearly 20 years after her deployment to the Persian Gulf.  However, the examiner did not appear to consider the Veteran's lay statements that her symptoms began while on active duty along with her allergic rhinitis, but she only began treatment in 2009.  Thus, given these deficiencies, the Board finds that an addendum opinion is necessary to correct this pre-decisional duty to assist.  
+
+The matters are REMANDED for the following action:
+
+Obtain an addendum opinion by an appropriate clinician to determine the nature and etiology of the Veteran's recurrent dyspnea.  The claims file must be reviewed.  The need for another examination is left up to the discretion of the examiner.  The examiner must opine as to the following:
+
+a) Whether the signs and symptom of the claimed recurrent dyspnea are attributable to a known clinical diagnosis.
+
+b) Whether recurrent dyspnea is a medically unexplained chronic multi-symptom illness without a conclusive pathophysiology.  In addressing the etiology and pathophysiology of the claimed recurrent dyspnea, the examiner should address whether the pathophysiology and etiology of the relevant disability is (1) inconclusive, (2) partially understood, or (3) fully understood.  This determination must be based on the Veteran's specific case and should not be based generally on the etiology of the disease or disability population as a whole.
+
+c) Whether recurrent dyspnea is at least as likely as not related to active service, to include the total combined exposure to TERAs through all applicable deployments of the Veteran, as well as the synergistic and combined effect of all TERA.
+
+d) If recurrent dyspnea apnea is not directly related to service, whether it is at least as likely as not caused by or aggravated (any incremental increase, regardless of permanence) by service-connected allergic rhinitis.
+
+The examiner must offer a detailed rationale for their opinions.  The examiner must consider service treatment records, post service treatment records, and the Veteran's lay evidence.  The examiner should ensure that the examination complies with TERA requirements under the PACT Act.  
+
+With respect to secondary service connection, the examiner must provide separate rationales for both secondary causation and aggravation. The examiner must also consider any causal link between the Veteran's recurrent dyspnea and her service-connected allergic rhinitis. 
+
+ 
+
+ 
+
+L. M. BARNARD
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J.N. Moats, Counsel 
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

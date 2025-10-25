@@ -1,0 +1,113 @@
+Citation Nr: A25031635
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240910-473067
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is granted.
+
+Entitlement to service connection for tinnitus is granted.
+
+FINDINGS OF FACT
+
+1. Resolving all doubt in the Veteran's favor, the evidence of records shows that his bilateral hearing loss is related to his in-service noise exposure.
+
+2. Resolving all doubt in the Veteran's favor, the evidence of records shows that his tinnitus is related to his in-service noise exposure.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for bilateral hearing loss are met.  38?U.S.C. §§?1110, 1112, 5107; 38?C.F.R. §§?3.102, 3.303, 3.307, 3.309, 3.385.
+
+2. The criteria for entitlement to service connection for tinnitus are met.  38 U.S.C. §§ 1110, 1112, 1113, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309, 3.385.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service with the Army from October 1976 to April 1978.  
+
+In March 2024, the Agency of Original Jurisdiction (AOJ) issued a rating decision denying entitlement to service connection for hearing loss and tinnitus.  This constituted an initial decision, therefore, the modernized review system, also known as the Appeal Modernization Act (AMA), applies.
+
+In March 2024, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), requesting review of March 2024 rating decision.  A July 2024 rating decision was issued denying entitlement to service connection for hearing loss and tinnitus.  
+
+In August 2024, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, requesting review of the July 2024 rating decision.  The August 2024 rating decision adjudicated the hearing loss and tinnitus claims on the merits rather than whether new and relevant evidence was submitted to warrant readjudication.  As such, the Board concludes that there was an implicit finding of new and relevant evidence.  An implicit finding of new and relevant evidence to warrant readjudication is a favorable finding by the AOJ and the Board proceeded to the address these claims on the merits.  See 38 U.S.C. § 5104A (2012); 38C.F.R. §3.104(c).
+
+In September 2024, the VA received the Veteran's VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), electing Direct Review of the August 2024 rating decision.  
+
+The Board notes that less than one year has elapsed since August 16, 2024, the mailing of notice of the August 2024 rating decision on appeal.  Generally, the Board may not decide an appeal prior to the expiration of the one-year period.  Williams v. McDonough, 37 Vet. App. 305 (2024).  However, as the Board herein grants the benefit sought on appeal in full, there is no prejudice to the Veteran in proceeding.
+
+Applicable Law and Regulations 
+
+Direct service connection can be established if the Veteran shows (1) the existence of a present disability, (2) an in-service incurrence or aggravation of a disease or injury, and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  38 U.S.C. § 1110; Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).  
+
+Service connection for chronic diseases listed in 38 U.S.C. § 1101 and 38 C.F.R. § 3.309(a) may be established on a presumptive basis if the chronic disease was shown as chronic in service; manifested to a compensable degree within a presumptive period, usually one year, after separation from service; or was noted in service with continuity of symptomatology since service. 38 U.S.C. §§ 1112, 1113; Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013); 38 C.F.R. §§ 3.303 (b), 3.307, 3.309(a).
+
+While sensorineural hearing loss and tinnitus are not conditions listed under 38 C.F.R. § 3.309(a), organic diseases of the nervous system are listed as a disability subject to presumptive service connection.  As discussed below, the Veteran's hearing loss disability has been described as sensorineural in nature; hence, the Veteran's hearing loss, to the extent it has been shown by the evidence as being disabling, may be considered for service connection under the presumptive provisions contained in 38 C.F.R. §§ 3.307 and 3.309.
+
+With respect to claims for service connection for hearing loss, the United States Court of Appeals for Veterans Claims (the Court) has held that the threshold for normal hearing is from zero to 20 decibels, and that higher threshold levels indicate some degree of hearing loss.  Hensley v. Brown, 5 Vet. App. 155, 157 (1993).  The Court further opined that 38 C.F.R. § 3.385, discussed below, then operates to establish when a hearing loss disability can be service connected.  Id. at 159.
+
+For the purposes of applying the laws administered by the VA, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, and 4000 Hertz (Hz) is 40 decibels (dB) or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, and 4000 Hz are 26 dB or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.
+
+Due consideration must be given to all pertinent medical and lay evidence in evaluating a claim for service connection for any disability.  38 U.S.C. § 1154(a); 38 C.F.R. § 3.303(a).  Competent lay evidence is any evidence that does not require the proponent to have specialized education, training, or experience.  38 C.F.R. § 3.159(a)(2); Barr v. Nicholson, 21 Vet. App. 303, 309 (2007).  Lay statements can be considered competent to establish a diagnosis when the layperson is competent to identify the medical condition, reports a contemporaneous medical diagnosis, or describes symptoms which support a later diagnosis by a medical professional.  Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007).  Once evidence is deemed competent, the Board must determine whether such evidence is also credible.  Layno v. Brown, 6 Vet. App. 465 (1994).  
+
+When there is an approximate balance of evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.  38 U.S.C. § 5107; 38 C.F.R. § 3.102 (reasonable doubt to be resolved in the Veteran's favor); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (the benefit-of-the-doubt rule applies if the competing evidence is in approximate balance).
+
+1. Entitlement to service connection for bilateral hearing loss is granted.
+
+Factual Background and Analysis
+
+The Veteran contends his bilateral hearing loss is due to in-service noise exposure.  
+
+In July 2023, the Veteran reported serving in the Army as Airplane Repairman Crew Chief.  He was stationed in Germany and traveled to nearly every airfield in Europe.  He reported sometimes being provided ear protection but most of the time was without it in service.  He worked on and around jets and turbo props.  The Veteran is competent to provide testimony concerning factual matters of which he has first-hand knowledge and experiences through his senses.  Barr v. Nicholson, 21 Vet. App. 303 (2007); Washington v. Nicholson, 19 Vet. App. 362 (2005). 
+
+The July and August 2024 rating decisions made the following favorable findings: the evidence of record showed a qualifying event, injury, or disease had its onset during service (his military occupational specialty (MOS) was Airplane Repairman, which had a high probability of noise exposure); participation in a toxic exposure risk activity (TERA) was conceded (he was exposed to aviation fuel and exhaust, industrial solvents, lubricants, and hydraulic fluids); he was diagnosed with a disability of bilateral sensorineural hearing loss; the claimed disability was a chronic disease which might be presumptively linked to military service; and the Veteran had sufficient service to meet the minimum requirements for presumptive service connection (his DD214 showed continuous active duty service from October 1976 to April 1978).  Under the AMA, the Board is bound by favorable findings made by the AOJ in the absence of evidence of clear and unmistakable error.  38 C.F.R. § 3.104(c).  
+
+The November 2023 the VA examiner diagnosed the Veteran with bilateral sensorineural hearing loss.  Testing revealed his Maryland CNC Word List speech recognition score and pure tone thresholds, in decibels, were as follows:  
+
+	HERTZ
+
+ 	1000	2000	3000	4000	Avg	CNC
+
+RIGHT	35	50	65	65	53.75	96%
+
+LEFT	40	50	75	75	60	96%
+
+The November 2023 VA examiner opined the Veteran's hearing loss was not a least as likely as not caused by or the result of an event in military service.  The claimed condition was less likely than not caused by the indicated TERA, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all TERA of the Veteran.  Review of the Veteran's military records showed his hearing levels were within normal limits while in service and upon separation.  The TERA memorandum was reviewed.  The Veteran had extensive noise exposure post military working in construction.  It was less likely than not his hearing loss was caused by or a result of an event in military service.      
+
+The Board acknowledges the November 2023 VA examiner opined to a negative nexus between his current hearing loss and his in-service noise exposure as well as to no significant threshold changes in both ears during military service.  The examiner's rationale was based on no complaints, treatment, or a diagnosis for hearing loss in service.  However, the absence of documented hearing loss in service is not fatal to a service connection claim for bilateral hearing loss.  See Ledford v. Derwinski, 3 Vet. App. 87, 89 (1992).  The November 2023 VA examiner's rationale failed to adequately consider the Veteran's lay statements that while serving as an Airplane Repairman he was only provided ear protection sometimes but most of the time was without it in service.  He worked on and around jets and turbo props.  The Veteran reported an onset on tinnitus while in service.  Since onset his tinnitus has gotten louder and fluctuated more.  Therefore, this opinion was accorded little probative weight.    
+
+Having considered the Veteran's credible reports, the Board concludes that there is at least an approximate balance of positive and negative evidence regarding the question of whether the Veteran's bilateral hearing loss was incurred in or caused by his active service.  Therefore, reasonable doubt is resolved in favor of the Veteran, and service connection for his bilateral hearing loss is granted.
+
+2. Entitlement to service connection for tinnitus is granted.
+
+Factual Background and Analysis
+
+The Veteran contends his tinnitus is related to his in-service noise exposure.  
+
+The July and August 2024 rating decisions made the following favorable findings: the evidence of record showed a qualifying event, injury, or disease had its onset during service (his MOS was Airplane Repairman, which had a high probability of noise exposure); participation in a TERA was conceded (he was exposed to aviation fuel and exhaust, industrial solvents, lubricants, and hydraulic fluids); he was diagnosed with a disability of tinnitus; the claimed disability was a chronic disease which might be presumptively linked to military service; the Veteran had sufficient service to meet the minimum requirements for presumptive service connection (his DD214 showed continuous active duty service from October 1976 to April 1978); and the claimed tinnitus became manifest to a degree of 10 percent or more following service.  Under the AMA, the Board is bound by favorable findings made by the AOJ in the absence of evidence of clear and unmistakable error.  38 C.F.R. § 3.104(c).  
+
+In July 2023, the Veteran reported serving in the Army as Airplane Repairman Crew Chief.  He was stationed in Germany and traveled to nearly every airfield in Europe.  He reported sometimes being provided ear protection but most of the time was without it in service.  He worked on and around jets and turbo props.  The Veteran is competent to provide testimony concerning factual matters of which he has first-hand knowledge and experiences through his senses.  Barr v. Nicholson, 21 Vet. App. 303 (2007); Washington v. Nicholson, 19 Vet. App. 362 (2005). 
+
+The Board notes that the Veteran is competent to identify tinnitus by its observable manifestations, as such the condition is readily observable and does not require medical expertise to establish its existence.  See Charles v. Principi, 16 Vet. App. 370 (2002).  
+
+In November 2023, the VA examiner opined the claimed condition was less likely than not caused by or the result of military noise exposure.  The claimed condition was less likely than not caused by the indicated TERA, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all TERA of the Veteran.  Review of the Veteran's military records showed his hearing levels were within normal limits while in service and upon separation.  There was no report of tinnitus recorded while in service.  The TERA memorandum was reviewed.  Tinnitus is a symptom often associated with hearing loss.  The Veteran had extensive noise exposure post military working in construction.  It was less likely than not caused by or a result of military noise exposure.  
+
+The Board acknowledges the VA examiner opined to a negative nexus to service in the November 2023 opinion.  The examiner's rationale was based on no complaints, treatment, or a diagnosis for tinnitus in service as well as no significant permanent shift in his hearing thresholds in service.  However, the absence of documented hearing loss in service is not fatal.  See Ledford v. Derwinski, 3 Vet. App. 87, 89 (1992).  The Board also notes lay evidence has been found competent with regard to a disease that has "unique and readily identifiable features" that are "capable of lay observation."  See Barr v. Nicholson, 21 Vet. App. 303, 308-09 (2007).  As a lay person, the Veteran is competent to report the onset and continuity of his current symptomatology because tinnitus is capable of lay observation.  See Layno v. Brown, 6 Vet. App. 465, 470 (1994); see also Charles v. Principi, 16 Vet. App. 370, 374-75 (2002) ("ringing in the ears is capable of lay observation").  Tinnitus, moreover, is a disorder uniquely ascertainable by the senses.  See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007).  That is, tinnitus is defined as a ringing in the ears, a finding that can be determined by the Veteran reporting the condition.  Giving the Veteran the benefit of the doubt, the Board finds he is credible with respect to this contention.
+
+Although the Veteran's service treatment records do not show any complaints or treatment for tinnitus, the Board finds the Veteran is competent to report that he experienced symptoms of tinnitus during this period.  His statements are credible and entitled to probative weight, as they are internally consistent and consistent with other evidence of record, which shows that these symptoms combined with his duties and experiences in service were attributable to the Veteran's reported current tinnitus.  As such, the Board finds there is sufficient evidence to support a link between the Veteran's diagnosed tinnitus and his acoustic trauma in service.
+
+Based on a review of the evidence of record, the Board finds that the Veteran has experienced tinnitus since his military service.  Thus, having considered the Veteran's credible reports, the Board concludes that there is at least an approximate balance of positive and negative evidence regarding the question of whether the Veteran's tinnitus was incurred in or caused by his active service.  Therefore, reasonable doubt is resolved in favor of the Veteran, and service connection for his tinnitus is granted.
+
+ 
+
+ 
+
+MICHAEL LANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K.L. Byers
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

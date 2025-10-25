@@ -1,0 +1,57 @@
+Citation Nr: A25032396
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240725-457405
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to an initial disability rating in excess of 10 percent for gastroesophageal reflux disease with hiatal hernia is remanded.
+
+REASONS FOR REMAND
+
+Procedurally, an April 2021 rating decision awarded service connection for GERD with hiatal hernia and assigned a 10 percent rating effective June 7, 2019.  Within a year of that decision, in April 2022, the Veteran submitted a supplemental claim.  Then, in August 2022, the AOJ issued a supplemental decision denying an increased rating.  In June 2023 the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of an August 2022 decision.  In September 2023, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior August 2022 decision.  Given the above, there has been continuous pursuit of the claim since the initial award.
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the August 2022 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to an initial disability rating in excess of 10 percent for gastroesophageal reflux disease (GERD) with hiatal hernia, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Entitlement to an initial disability rating in excess of 10 percent for gastroesophageal reflux disease with hiatal hernia is remanded.
+
+The issue of entitlement to an initial disability rating in excess of 10 percent for gastroesophageal reflux disease (GERD) with hiatal hernia is remanded to correct a duty to assist error that occurred prior to the rating decision on appeal that was subsequently subject to Higher Level Review.  The Agency of Original Jurisdiction (AOJ) obtained a December 2020 examination and a May 2022 VA examination prior to the August 2022 rating decision on appeal.  However, the examination reports did not adequately consider all of the Veteran's symptomology associated with his GERD with hiatal hernia.
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule of Rating Disabilities (Rating Schedule) and are intended to represent the average impairment of earning capacity resulting from disability. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. Separate diagnostic codes identify the various disabilities. Disabilities must be reviewed in relation to their history. 38 C.F.R. § 4.1. Other applicable general policy considerations are: interpreting reports of examination in light of the whole recorded history, reconciling the various reports into a consistent picture so that the current rating many accurately reflect the elements of disability; resolving any reasonable doubt regarding the degree of disability in favor of the claimant; where there is a questions as to which of two evaluations apply, assigning a higher of the two where the disability pictures more nearly approximates the criteria for the next higher rating; and, evaluating functional impairment on the basis of lack of usefulness, and the effects of the disability upon the person's ordinary activity. See 38 C.F.R. §§ 4.2, 4.3, 4.7, 4.10; see also Schafrath v. Derwinski, 1 Vet. App. 589 (1991).
+
+The April 2021 rating decision that granted service connection for GERD with hiatal hernia reflects that the Veteran has two distinct disabilities for which service connection is in effect: GERD and hiatal hernia. 
+
+Under the regulations in effect at the time of the Veteran's service connection claim, GERD was rated by analogy using the criteria for hiatal hernia (diagnostic code 7346). Under the regulations in effect at the time of the Veteran's service connection claim separate ratings under diagnostic codes 7345 to 7348 may not be combined. Instead, a single evaluation will be assigned under the diagnostic code which reflects the predominant disability picture, with elevation to the next higher evaluation where the severity of the overall disability warrants such evaluation. 38 C.F.R. § 4.114. Accordingly, in April 2021 the AOJ assigned the Veteran's GERD and hiatal hernia the single hyphenated diagnostic code of 7399-7346. 
+
+Under the version of the rating code in effect prior to May 19, 2024, hiatal hernia is rated under Diagnostic Code 7346. Under 38 C.F.R. § 4.114 (2019) a 10 percent rating is warranted for hiatal hernia where two more of the symptoms for the 30 percent rating are present, but with less severity. A 30 percent rating is warranted where there is persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health. The highest available rating of 60 percent is warranted where there are symptoms of pain, vomiting, material weight loss and hematemsis or melena with moderate anemia, or other symptom combinations productive of severe impairment of health. Under § 4.114 (2019) there is no unique diagnostic code for GERD. 
+
+The Veteran was afforded a VA examination in December 2020. The VA examiner documented the Veteran's use of daily medication, and the following symptoms of persistently recurrent epigastric distress: dysphagia, pyrosis, reflux, regurgitation, substernal pain; and sleep disturbances lasting less than one day. The examiner documented that there is no esophageal stricture. The examiner did not indicate that the Veteran's symptoms were productive of considerable or severe impairment of health. 
+
+The Veteran was afforded another VA examination in May 2022. The VA examiner documented the Veteran's report of having heartburn that showed improvement with daily medication and additional medication as needed. The examiner documented symptoms of pyrosis, reflux, and regurgitation. The examiner documented that there is no esophageal stricture. The examiner did not indicate that the Veteran's symptoms were productive of considerable or severe impairment of health.
+
+Entitlement to a disability rating may not be denied on the basis of relief provided by medication when those effects are not specifically contemplated by the applicable rating criteria. Jones v. Shinseki, 26 Vet. App. 56, 63 (U.S. 2012). Here, Diagnostic Code 7346 does not specifically contemplate the effects of medication. Both the December 2020 and May 2022 VA examiners documented the Veteran's report of daily medication use; however, neither examiner distinguished between the severity of symptoms experienced absent the effects of medication. Accordingly, the December 2020 and May 2022 VA examinations are inadequate. 
+
+VA's duty to assist under 38 U.S.C. § 5103A includes the duty to obtain an adequate VA medical examination. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). Accordingly, remand is required to obtain an adequate VA medical opinion that addresses the severity of the Veteran's GERD with hiatal hernia symptoms absent the effects of medication. 
+
+The matters are REMANDED for the following action:
+
+1. Obtain a VA medical opinion that evaluates the severity of the Veteran's GERD with hiatal hernia from June 7, 2019, onward. The examiner is specifically directed to discuss the Veteran's use of medication (or lack thereof) to treat his symptoms throughout the period on appeal. The examiner is requested to opine as to the severity of the Veteran's GERD with hiatal hernia symptoms in the absence of medication. 
+
+A complete rationale should be given for all opinions and conclusions expressed. If the examiner cannot provide an opinion without resorting to speculation, it is essential that the examiner explain why an opinion cannot be provided and specifically state whether the inability to provide an opinion is due to the limits of the examiner's knowledge, the limits of medical knowledge in general, or there is additional evidence that would allow for an opinion on this matter.
+
+ 
+
+ 
+
+Eric S. Leboff
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Sametshaw, Eric C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

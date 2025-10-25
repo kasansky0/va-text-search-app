@@ -1,0 +1,101 @@
+Citation Nr: A25032582
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 250227-514788
+DATE: April 9, 2025
+
+ORDER
+
+1. Entitlement to service connection for the Veteran's cause of death is denied.
+
+2. Entitlement to dependency and indemnity compensation (DIC) under 38 U.S.C. § 1318 is denied.
+
+FINDING OF FACT
+
+1. The Veteran passed away in February 2002, and his death certificate notes metastatic lung cancer as the immediate cause of death.  
+
+2. At the time of the Veteran's death, the Veteran was not in receipt of service connection for any disabilities.
+
+3. The Veteran was not in receipt of compensation at the 100 percent rate due to service-connected disabilities for a period of 10 or more years prior to his death, the interval between his release from active duty and his death was more than five years, and he was not a prisoner of war.
+
+CONCLUSION OF LAW
+
+1. The criteria for entitlement to service connection for the Veteran's cause of death are not met. 38 U.S.C. § 1110, 1112, 1310, 5107; 38 C.F.R. § 3.102, 3.303, 3.304, 3.307, 3.309, 3.312.
+
+2. The criteria for entitlement to DIC under 38 U.S.C. § 1318 are not met. 38 U.S.C. § 1318; 38 C.F.R. § 3.22.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from February 1967 to December 1968.  He passed away in February 2002.  The Appellant is his surviving spouse; she was remarried in 2007, but that marriage ended in 2020.  
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from an October 2024 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO) denying entitlement to service connection for cause of death.
+
+In August 2023, the Appellant submitted a supplemental claim (VA Form 20-0995) regarding consideration for service connection for cause of death.  The RO then issued the October 2024 rating decision on appeal.  
+
+In February 2025, the Appellant filed VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) and elected the direct review docket.  Therefore, the Board may only consider the evidence of record at the time of the August 2023 rating decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the RO decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Appellant would like VA to consider any evidence that was submitted that the Board could not consider, the Appellant may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection for Cause of Death
+
+The Appellant is seeking service connection for the Veteran's cause of death.  
+
+Specifically, she contends that the Veteran's metastatic lung cancer is the result of his exposure to Agent Orange during service, which ultimately contributed to his death.  See June 2020 Statement in Support of Claim.
+
+To establish entitlement to service connection for the cause of a Veteran's death, the evidence of record must show that a disability incurred in or aggravated by service either caused or contributed substantially or materially to cause death.  38 U.S.C. § 1310; 38 C.F.R. § 3.312.  The service-connected disability will be considered as the principal cause of death when such disability, singly or jointly with another condition, was the immediate or underlying cause of death or was etiologically related thereto.  38 C.F.R. § 3.312 (b).  To be considered a contributory cause of death, it must be shown that the service-connected disability contributed substantially or materially; that it combined to cause death; or that it aided or lent assistance to the production of death.  It is not sufficient to show that the service-connected disability casually shared in producing death; rather, a causal connection must be shown.  38 C.F.R. § 3.312 (c)(1).  Medical evidence is required to establish a causal connection between service or a disability of service origin and the Veteran's death.  See Van Slack v. Brown, 5 Vet. App. 499, 502 (1993).
+
+Generally, to establish service connection a Veteran must show: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease incurred or aggravated during service."  Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004).  Service connection may also be granted for any or disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303 (d).
+
+As to herbicide exposure, VA laws and regulations provide that a Veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the Vietnam war (i.e., January 9, 1962, to May 7, 1975), shall be presumed to have been exposed to an herbicide agent, unless there is affirmative evidence to the contrary. 38 U.S.C. § 1116(a)(3); 38 C.F.R. § 3.307(a)(6)(iii).  The last date on which such a Veteran shall be presumed to have been exposed to an herbicide agent shall be the last date on which he served in the Republic of Vietnam during the Vietnam war period.  38 C.F.R. § 3.307.  For these Vietnam Veterans, diseases associated with exposure to certain herbicide agents will be presumed to have been incurred in service even though there is no evidence of that disease during the period of service at issue.  38 U.S.C. § 1116; 38 C.F.R. §§ 3.307, 3.309.  For purposes of applying the herbicide presumption, "service in Vietnam" includes service in the waters offshore or service in other locations if the conditions of service involved duty or visitation to Vietnam from January 9, 1962, to May 7, 1975.  38 U.S.C. § 1116(a)(3); 38 C.F.R. §§ 3.307(a)(6)(iii); 3.313(a).
+
+In addition to service in the Republic of Vietnam, 38 C.F.R. § 3.307(a)(6)(iv) provides another presumption of herbicide agent exposure for a Veteran who served in a unit determined by the Department of Defense that operated in or near the Korean Demilitarized Zone (DMZ) from April 1, 1968, to August 31, 1971.  These units are considered in an area in which herbicides are known to have been applied.
+
+The list of diseases associated with exposure to certain herbicide agents is as follows:  AL amyloidosis, chloracne or other acneform disease consistent with chloracne, type 2 diabetes (also known as Type II diabetes mellitus or adult-onset diabetes), Hodgkin's disease, ischemic heart disease (including, but not limited to, acute, subacute, and old myocardial infarction; atherosclerotic cardiovascular disease including coronary artery disease (including coronary spasm) and coronary bypass surgery; and stable, unstable and Prinzmetal's angina), all chronic BCell leukemias (including, but not limited to, hairy-cell leukemia and chronic lymphocytic leukemia), multiple myeloma, non-Hodgkin's lymphoma, Parkinson's disease, early-onset peripheral neuropathy, porphyria cutanea tarda, prostate cancer, respiratory cancers (cancer of the lung, bronchus, larynx, or trachea), and soft-tissue sarcoma (other than osteosarcoma, chondrosarcoma, Kaposi's sarcoma, or mesothelioma).  38 C.F.R. § 3.309(e).
+
+If a Veteran was exposed to an herbicide agent during active military service, certain diseases, such as lung cancer, will be presumed to have been incurred in service if manifest to a compensable degree within specified periods, even if there is no record of such disease during service.  38 U.S.C. § 1116(a); 38 C.F.R. §§ 3.307 (a)(6), 3.309(e).
+
+As to service incurrence based on the presumptions found at 38 C.F.R. §§ 3.307 and 3.309(e), the record shows metastatic lung cancer as the immediate cause of the Veteran's death.  See February 2002 Death Certificate.
+
+To be entitled to presumptive service connection, the Veteran must have served in a unit determined by the Department of Defense that operated in or near the Korean Demilitarized Zone (DMZ) from April 1, 1968, to August 31, 1971.  
+
+The Board acknowledges that the Veteran served in Korea from February 1968 to December 1968 with Battery D, 7th Battalion (HAWK), 5th Artillery, 38th Artillery Brigade.  The records support that he was at or near the Korean DMZ; he was working at the D Battery tactical site and traveled to and from Camp Page while he was there.  See April 2021 Correspondence; July 2023 Statement in Support of Claim (from R. Hunter); July 2023 Statement in Support of Claim (from T. Blackwell); August 2023 Correspondence (Unit History 1969); August 2023 Correspondence (Unit Yearbook 1968); November 2023 Records Research Center Response.  
+
+The Appellant contends that the Veteran's presumed herbicide exposure during active service caused his lung cancer leading to the Veteran's death.  The Veteran's certificate of death lists the cause of death as lung cancer.  At the time of the Veteran's death, the disability had not been service connected.
+
+As to the second and third elements of in-service incurrence and nexus, VA treatment records reflect that the Veteran had a history of tobacco use.  See CAPRI treatment record from September 2001.  Given that smoking is the leading cause in the development of lung cancer and there is no indication anywhere in the record that herbicide exposure was the suspected cause of the Veteran's lung cancer, neither the second nor third elements of service connection are satisfied.  The Board has reviewed this case in some detail and finds that any presumption that the Veteran may have regarding herbicide exposure, service more than one-half-century ago, and lung cancer, is clearly and unmistakably rebutted by this record.  The Veteran did not serve in Vietnam and his exposure to herbicides to Korea more than one-half century ago were, at best, exceedingly limited, and likely nonexistent.  The service records and post-service records clearly indicate other highly likely causes for the Veteran's lung cancer that the Board cannot ignore.  The facts of this case provide highly probative evidence against this claim. 
+
+In this case, the Veteran was not service connected for any disability at the time of his death.  As the probative medical evidence of record persuasively reflects that the Veteran had a history of smoking prior to developing lung cancer, service connection for the Veteran's cause of death is not warranted.  In reaching this decision, the Board has considered the benefit-of-the-doubt rule and finds it not applicable as the evidence is not in approximate balance.  38 U.S.C. § 5107 (b) (2018); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+Nevertheless, the availability of presumptive service connection for a disability based on exposure to herbicides does not preclude a Veteran from establishing service connection with proof of direct causation.  Stefl v. Nicholson, 21 Vet. App. 120 (2007); see also Combee v. Brown, 34 F.3d 1039 (Fed. Cir. 1994).
+
+The available service treatment records (STR's) do not show that the Veteran was diagnosed with any respiratory conditions during service or upon exiting.  Accordingly, competent evidence linking the Veteran's lung cancer to service is needed in order to substantiate the claim.  In addition, the STR's do not show complaints or the treatment of and respiratory conditions.  A VA examination or opinion is not required because there was no evidence of an in-service event, injury or disease.  The clear cause of the disability is self-evident in this record.  The Board can not only state that it less likely as not (generally a less than 50% chance) that this problem was caused by service more than 50 years ago but can also state the highly likely cause of the disability, undermining the any presumption in this case.  In this regard, the Board has considered obtaining a medical opinion in this case but finds that any cogent review of the record based on this evidence will not support this claim.  Further development will not provide a basis to grant this claim, based on this evidence which, the Board finds, provides highly probative evidence against this claim. 
+
+To the extent the Appellant believes that the Veteran's lung cancer was related to service, the Board notes that, as a lay person, she does not have specialized training sufficient to render such an opinion.  See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007).  In this regard, diagnosing and determining the etiology of a respiratory disorder requires medical testing and expertise and is not based on observable facts or symptoms.  Moreover, the Appellant has not reported a contemporaneous diagnosis of a respiratory condition during service.  Accordingly, her opinion as to the diagnosis or etiology of the Veteran's lung cancer is not competent medical evidence.
+
+For the reasons set forth above, the Board finds that the preponderance of the probative and persuasive evidence is against a finding that the Veteran's cause of death is related to service, to include as due to in-service exposure to an herbicide agent.  The Board finds that service connection for the cause of the Veteran's death is not warranted.
+
+Entitlement to DIC Pursuant to 38 U.S.C. § 1318
+
+Under 38 U.S.C. § 1318 (b), DIC benefits will be paid to the veteran's surviving spouse if the veteran's death was not the result of willful misconduct and, at the time of death, (i) the Veteran had been receiving or was entitled to receive compensation for a service-connected disability that was rated by VA as 100 percent disabling for at least 10 years immediately preceding death, (ii) he had been rated as 100 percent disabled since release from active duty and for at least five years immediately preceding death, or (iii) he had been rated as 100 percent disabled for a continuous period of not less than one year immediately preceding death if he was a former prisoner of war who died after September 30, 1999.  38 U.S.C. § 1318 (b).
+
+(Continued on the next page)
+
+?
+
+The phrase "entitled to receive" means that, at the time of death, the veteran had a service-connected disability rated by VA as totally disabling, but was not actually receiving compensation because: (1) VA was paying the compensation to the veteran's dependents; (2) VA was withholding the compensation to offset an indebtedness of the veteran; (3) the veteran had not received total disability compensation solely because of clear and unmistakable error in a VA decision; (4) the veteran had not waived retired or retirement pay in order to receive compensation; (5) VA was withholding payments under the provisions of 10 U.S.C. § 1174 (h)(2); (6) VA was withholding payments because the veteran's whereabouts was unknown, but he was otherwise entitled to receive continued payments based on a total service-connected disability rating; or (7) VA was withholding payments under 38 U.S.C. § 5308 but determines that benefits were payable under 38 U.S.C. § 5309. 38 C.F.R. § 3.22(b).
+
+The Board concludes that the Appellant is not entitled to DIC benefits under 38 U.S.C. § 1318.  Here, the evidence shows that the Veteran was never a prisoner of war, the interval between his separation from active duty and his death was more than five years, and he was not in receipt of compensation at the 100 percent rate due to service-connected disabilities for a period of 10 or more years prior to his death.  Additionally, there is no evidence that the Veteran was entitled to receive compensation for service-connected disabilities rated totally disabling but was not in receipt due to one of the reasons listed in 38 C.F.R. § 3.22 (b).  Finally, it has not been claimed that the Veteran's lack of a total disability compensation for 10 years before his death was due solely to clear and unmistakable error (CUE) in a VA decision concerning an issue of service connection, disability evaluation, or effective date.  By virtue of the foregoing, the Board finds that the law precludes the grant of DIC benefits under 38 U.S.C. § 1318.  Therefore, the claim is denied.
+
+ 
+
+ 
+
+John J. Crowley
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Murphy
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

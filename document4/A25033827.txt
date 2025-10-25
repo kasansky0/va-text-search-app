@@ -1,0 +1,49 @@
+Citation Nr: A25033827
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240905-479759
+DATE: April 11, 2025
+
+REMANDED
+
+The matter of entitlement to waiver of the $61,141.29 overpayment of Department of Veterans Affairs (VA) compensation benefits is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had service in the United States Army from September 2007 to November 2012. 
+
+This matter comes before the Board of Veterans' Appeals (Board) from an August 2024 Decision on Waiver of Indebtedness by the VA Committee on Waivers and Compromises (COWC). The Veteran, by way of his representative, filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) in September 2024. On this form, he selected the Direct docket. Therefore, the Board may only consider the evidence of record at the time of the August 2024 COWC decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. However, because the Board is remanding the matter on appeal, any evidence the Board could not consider will be considered by the Agency of Original Jurisdiction (AOJ) in the adjudication of this matter. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+The Board notes that pursuant to Williams v. McDonough, No. 21-7363 (U.S. Vet. App. June 21, 2024), due to the possibility of a docket switch, the Board cannot adjudicate an appeal until after one year from the date the AOJ mailed the decision on appeal, or 60 days from the date the Board received the VA Form 10182, whichever is later. However, as the claim on appeal is being remanded, there is no prejudice to the Veteran.
+
+In August 2021, the AOJ received information indicating a warrant had been issued for the Veteran on July 1, 2016 for a probation violation. In October 2021, the AOJ notified the Veteran that this information had been received and proposed to stop his benefits effective July 1, 2016 based on his fugitive felon status. In December 2021, the AOJ notified the Veteran that the proposed action had taken place and his benefits were terminated effective July 1, 2016. This action resulted in a $61,141.29 overpayment. The VA Debt Management Center (DMC) notified the Veteran of this debt in January 2022 and again in April 2022. 
+
+On the May 2022 VA Form 5655, Financial Status Report, which led to the COWC decision denying the waiver, the Veteran wrote "Dispute the Debt." COWC issued a January 2023 decision denying waiver with no consideration by the AOJ of the debt dispute. In June 2023, the Veteran's representative submitted arguments that this debt is not valid because the Veteran was not a fugitive felon. The record shows the AOJ was seeking information about the warrant in March 2024. A Report of Incarceration form shows the AOJ confirmed a misdemeanor warrant was active July 1, 2016 and recalled on February 23, 2022. The AOJ then notified the Veteran in March 2024 that his benefits were being resumed effective July 1, 2023. The AOJ suggested this was due to the Veteran not informing the AOJ of the status within one year of February 23, 2022. This did not, however, address the contention that the debt is invalid because it is based on fugitive felon status and the Veteran's warrant was for a misdemeanor. In August 2024, COWC issued the decision on appeal, which was a reconsideration of the waiver request, but was without any consideration of the challenge to the validity of the debt. On the September 2024 VA Form 10182, the Veteran's representative continued to argue that this is not a valid debt because the Veteran's warrant was for a misdemeanor.
+
+Under, 38 C.F.R. § 1.911, which governs the collection of debts owed by reason of participation in a benefits program, a veteran or appellant may appeal the creation/validity of a debt via the appeal process per 38 C.F.R. § 1.911(c)(3) by appealing the VA determination that reduced or terminated VA benefits; however, a veteran or appellant may also submit an informal dispute per 38 C.F.R. § 1.911(c)(1). Under that provision, if the debtor writes to VA and questions whether he or she owes the debt or whether the amount is accurate, VA will then, as expeditiously as possible, review the accuracy of the debt determination. In this case, the RO has not responded to the Veteran's challenge to the validity of this debt. For this reason, remand is warranted.
+
+The Court of Veterans Appeals (Court) has directed that appellate review by the Board on the Veteran's waiver claim must be deferred pending formal adjudication of the challenge to the validity of the debt, which must be undertaken by the AOJ. Schaper v. Derwinski, 1 Vet. App. 430, 437 (1991) ("when a Veteran raises the validity of the debt as part of a waiver application...it is arbitrary and capricious and an abuse of discretion to adjudicate the waiver application without first deciding a veteran's challenge to the lawfulness of the debt asserted against him or her"); VAOPGCPREC 6-98 (July 24, 1998) (holding that when a veteran challenges the validity of the debt and seeks waiver of the debt, the [Regional Office] must first fully review the debt's validity and, if the office believes the debt to be valid, prepare a written decision fully justifying the validity of the debt before referring the waiver request to the Committee). In this case, as discussed above, the validity of the debt is at issue; thus, the question of validity of this debt must be addressed prior to the Board's adjudication of the waiver appeal.
+
+Since the Veteran's appeal is within the modernized appeal system, ordinarily the Board can only consider the record as of the decision on appeal. See 38 C.F.R. §§ 20.202(b)(1), (c)(1), 20.301. However, the Board must remand cases where there is a pre-decisional duty to assist error or correction of any error by the AOJ, other than a duty to assist error, in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the appeal. See 38 C.F.R. § 20.802(a). Additionally, the standard of "no reasonable possibility" is not fulfilled under the "mere belief that the likelihood" of substantiating the claim is low. See Jones v. Wilkie, 918 F.3d 922, 926 (2019) (interpreting similar language from 38 U.S.C. § 5103A).  The remand must specify the action to be taken by the AOJ. 
+
+In this case, VAOPGCPREC 6-98 (July 24, 1998) essentially indicates that part or all of this debt may not need to be waived because it is invalid, thereby lessening the burden on the Veteran to satisfy the Veteran's appeal. The Board, thus, considers it a correctible error by the AOJ in satisfying its regulatory and statutory duties to fully adjudicate the matter on appeal, as well as the requirement to consider the validity of the debt prior to adjudicating the waiver, and that correction raises a reasonable possibility of aiding in substantiating the Veteran's appeal. Accordingly, remand under the AMA for these circumstances is appropriate.
+
+The matters are REMANDED for the following action:
+
+1. In a formal decision, review the matter of whether the $61,141.29 overpayment is valid. In this decision, the AOJ must consider the arguments submitted suggesting this debt was invalidly created because the Veteran was never a fugitive felon due to the warrant at issue relating to a misdemeanor. The adjudication of the validity of the debt should include the Veteran's rights to appeal the decision as to the debt's validity.
+
+2. If any portion of the debt is deemed valid, the AOJ is reminded that there is a pending appeal of the waiver denial.
+
+ 
+
+ 
+
+S. Sorathia 
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Adamson, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

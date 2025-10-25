@@ -1,0 +1,93 @@
+Citation Nr: A25032959
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 241120-491062
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for residuals of melanoma is granted.
+
+Entitlement to service connection for residuals of squamous cell carcinoma is granted.
+
+Entitlement to service connection for depressive disorder, as secondary to service-connected tinnitus, is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran's melanoma is related to exposure to ultraviolet rays during his military service. 
+
+2. The Veteran's squamous cell carcinoma is related to exposure to ultraviolet rays during his military service. 
+
+3. The Veteran's depressive disorder is proximately due to his service-connected tinnitus.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for residuals of melanoma are met. 38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+2. The criteria for entitlement to service connection for residuals of squamous cell carcinoma are met. 38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+3. The criteria for entitlement to secondary service connection for depressive disorder are met. 38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Marine Corps from June 1957 to June 1960.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from June 2024 and October 2024 rating decisions issued by an Agency of Original Jurisdiction (AOJ) of the Department of Veterans Affairs (VA).
+
+In a November 2024 VA Form 10182 Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Hearing docket. A Board hearing was held in March 2025. A transcript of that hearing has been associated with the record. At the Board hearing, the Veteran, through his representative, waived the 90-day post-hearing period in which to submit additional evidence. See Board Hearing Transcript (Tr.) at 15.
+
+Given the Veteran's waiver, the Board may only consider the evidence of record at the time of the AOJ decisions on appeal, as well as any evidence submitted by the Veteran or representative at the March 2025 hearing. 38 C.F.R. § 20.302. If evidence was submitted either (1) during the period after the AOJ issued the decisions on appeal and prior to the Board hearing, or (2) following the hearing (given the Veteran's waiver), the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.302(a), 20.801. 
+
+1. Entitlement to service connection for residuals of melanoma is granted.
+
+2. Entitlement to service connection for residuals of squamous cell carcinoma is granted.
+
+The Veteran asserts that his melanoma and squamous cell carcinoma are related to his military service. The Board notes that the Veteran's melanoma and squamous cell carcinoma have both been excised and are in remission, but have residual conditions, including scars. See December 2013 Medical Treatment Record - Non-Government Facility.
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303. Service connection generally requires evidence showing (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service. Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004).
+
+Regarding the first element of service connection, the AOJ favorably found that the Veteran has been diagnosed with melanoma and squamous cell carcinoma, and these findings are not clearly and unmistakably erroneous. See March 2024 C&P Examination; August 2020 Medical Treatment Record - Non-Government Facility; 38 C.F.R. § 3.104(c).
+
+In February 2024, VA conducted development and determined that the Veteran participated in a toxic exposure risk activity (TERA) during service, in that he was exposed to contaminated water at Camp Lejeune. See February 2024 Memorandum. The Board also finds the Veteran's reports of ultraviolet radiation exposure to be consistent with the circumstances of his service as a field artillery officer.  See 38 U.S.C. § 1154(a). Thus, the question before the Board is whether the Veteran's melanoma and squamous cell carcinoma are related to his conceded in-service exposures.
+
+Regarding melanoma, the Veteran was afforded a VA examination in March 2024. The examiner opined that the Veteran's melanoma was less likely than not related to exposure to contaminated water at Camp Lejeune, noting that "there is no objective link supported by medical literature regarding causation of melanoma due to water contamination in Camp Lejeune." The Board finds this opinion to be inadequate, as it is conclusory.  Moreover, the examiner considered the Veteran's contaminated water exposure, but failed to consider conceded exposure to ultraviolet radiation.  Thus, it is of no probative value.
+
+In support of this claim, the Veteran has submitted a July 2024 private medical opinion from C.M., MD, who opines that the Veteran's melanoma was more likely than not the result of ultraviolet radiation exposure during his military service. Dr. C.M. notes that the Veteran's service in artillery would have been performed outside and would have included a significant amount of jogging and hiking. Dr. C.M. further notes the Veteran's assertion that he did not use sunscreen or sun-protective gear on his face or head, and the Board finds the Veteran is both competent and credible in his reports in this regard.  Dr. C.M. explains that several studies indicate "increased sun exposure during military service and lack of sufficient sun protection as the causes of higher rates of skin cancer among US military and veteran populations" and that there "is an increased risk for melanoma associated with service in the military." In rendering this opinion, Dr. C.M. notes that she reviewed the Veteran's private records, medical summaries, physician letters, and military files. Dr. C.M. also provided citation to the medical research she relied upon in rendering this opinion. Accordingly, the Board affords Dr. C.M.'s opinion high probative weight. 
+
+Thus, as the only probative nexus opinion is favorable, entitlement to service connection for residuals of melanoma is established.
+
+Regarding squamous cell carcinoma, the Veteran was afforded a VA examination in August 2024. The examiner opined that the Veteran's carcinoma was less likely than not proximately due to or the result of his prostate cancer. The Board notes that the Veteran is not service-connected for prostate cancer, and did not assert that his carcinoma was secondary to his prostate cancer. Accordingly, the Board finds this opinion to be inadequate..
+
+However, the August 2024 VA examiner noted that "among individuals with lightly pigmented skin, the most important risk factors [for squamous cell carcinoma] are cumulative sun (ultraviolet [UV] light) exposure and age." The Board notes that of these identified two risk factors, the Board has conceded sun exposure, and the private medical opinion from Dr. C.M. indicates that the Veteran was exposed to a level of sunlight in service that was sufficient to cause skin cancer.  Thus, as one risk factor for squamous cell carcinoma is service-related and the other is not, the evidence regarding nexus is in "approximate balance" or nearly equal. See Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021). The Board affords the Veteran the benefit of this reasonable doubt and finds that the Veteran's squamous cell carcinoma is proximately due to sunlight exposure during his military service. Therefore, entitlement to service connection for residuals of squamous cell carcinoma is established.
+
+The Board acknowledges that no examiner has opined that the Veteran's squamous cell carcinoma is proximately due to sunlight exposure, alone. However, that does not preclude an award of service connection where, as here, the Board has weighed the two risk factors for squamous cell carcinoma, as outlined by the VA examiner, and found the service-related factors nearly equal to the non-service-related factors. Bastien v. Shinseki, 599 F.3d 1301, 1306 (Fed. Cir. 2010) ("The evaluation and weighing of evidence and the drawing of appropriate inferences from it are factual determinations committed to the discretion of the fact finder.").  As it stands, the present record supports an award of service connection, and the Board has fully developed the appeal, and thus further remand would only serve to potentially develop evidence with which to deny the appeal. 38 C.F.R. § 3.304(c) ("The development of evidence in connection with claims for service connection will be accomplished when deemed necessary but it should not be undertaken when evidence present is sufficient for this determination); Andrews, 34 Vet. App. at 225 ("Remand is inappropriate where the predominant purpose is not to allow the Board to make a fully informed decision unencumbered by error but to allow VA to obtain more evidence so that it can properly deny the claim.").
+
+3. Entitlement to service connection for depressive disorder, as secondary to service-connected tinnitus, is granted.
+
+The Veteran asserts that his depressive disorder is secondary to his service-connected tinnitus. 
+
+Service connection may be established on a secondary basis where there is a showing of (1) a current, non-service-connected disability, (2) a current service-connected disability, and (3) evidence that the non-service-connected disability is either (i) proximately due to or the result of a service-connected disability or (ii) aggravated (increased in severity) by a service-connected disability.  38 U.S.C. § 1131; Allen v. Brown, 7 Vet. App. 439, 446 (1995); 38 C.F.R. § 3.310.
+
+The Veteran is currently service-connected for tinnitus. As to a current disability, the evidence is in conflict as to whether the Veteran has a diagnosis of depressive disorder. In June 2024, a VA examiner found that there was no pathology to warrant a diagnosis of depression, though acknowledging "periodic sleeping difficulty due to the combined experience of dreams, tinnitus, the need to urinate, and periodic feelings of worry."  See June 2024 VA examination report at 6.  In other words, the VA examiner acknowledged the presence of psychiatric symptoms (sleep impairment, worry/anxiety), but did not endorse a diagnosis.  Contrarily, in a May 2024 Disability Benefits Questionnaire (DBQ), private psychologist J.M. diagnosed the Veteran with depressive disorder following mental status examination.  The Board has no reason to favor the opinion of one psychologist over the other as to the presence of a current diagnosis. Given the approximate balance of positive and negative evidence on this issue, the Board will resolve all reasonable doubt in the Veteran's favor to find that he has a current diagnosis of depressive disorder. Therefore, the crux of this appeal centers on whether there is a relationship, or nexus, between the Veteran's depressive disorder and his service-connected disabilities. 
+
+In support of his claim, in May 2024, psychologist, J.M., PhD, opined that the Veteran's depressive disorder is more likely than not the result of his service-connected tinnitus. See May 2024 DBQ - Veteran Provided. In support of his opinion, the psychologist found that the Veteran's chronic sleep impairment "leads to fatigue, memory problems, disorganized thought processes and impaired focus and concentration that compromises his ability to function consistently and effectively," concluding that "[the Veteran] suffers from chronic, severe service-connected Depressive Disorder due to service-connected tinnitus." 
+
+Here, psychologist J.M. implies that the Veteran's chronic sleep impairment is caused by his service-connected tinnitus, as his overall rationale connecting depressive disorder and tinnitus is predicated on that causal relationship. However, he does not state so directly, nor provide any rationale in support. However, there is other evidence in the record supporting this relationship.  Indeed, while not conceding a diagnosis of a psychiatric disorder, the June 2024 VA examiner attributed the Veteran's memory loss to age, and noted the Veteran's reports that his sleep impairment was "due to the combined experience of dreams, tinnitus, the need to urinate, and periodic feelings of worry." See June 2024 VA examination at 6.  The examiner took no issue with the causes of sleep impairment identified by the Veteran in the report, and therefore the Board interprets this as the examiner's endorsement of the Veteran's statement as to the causes of his sleep impairment.  Moreover, of these identified causes, "dreams" that interfere with sleep are synonymous with sleep impairment, and "feelings of worry," or anxiety, is a psychiatric symptom, and therefore these two causes are related to the Veteran's depressive disorder. This leaves two remaining causes as to his disrupted sleep, tinnitus and the "need to urinate," one of which is service-connected and one that is not.  Thus, the evidence relating the Veteran's sleep impairment from his psychiatric disorder to tinnitus as opposed to the need to urinate is in relative equipoise, and the evidence is "approximately balanced" or nearly equal that either is causing his chronic sleep impairment. Moreover, the Veteran's spouse has competently and credibly indicated her observation of depression symptoms in the Veteran related to his inability to hear and ringing in his ears.  See Board Hearing Transcript at 10.  The Board affords the Veteran the benefit of the doubt in this regard, and finds that his chronic sleep impairment is related to his service-connected tinnitus. See Lynch, supra.  
+
+?
+
+Thus, as the only probative nexus opinion is favorable, secondary service connection for depressive disorder is granted.
+
+ 
+
+ 
+
+S. BUSH
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Cooper, Jacob A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

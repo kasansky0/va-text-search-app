@@ -1,0 +1,85 @@
+Citation Nr: A25033339
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240706-455137
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to service connection for gastroesophageal reflux disease (GERD) is remanded.
+
+Entitlement to service connection for migraine headaches is remanded. 
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the U.S. Air Force from October 1994 to December 1996, to include service in Southwest Asia. His decorations include the Armed Forces Expeditionary Medal. 
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision issued by a Department of Veterans Affairs (VA) Regional Office. The Veteran timely appealed to the Board by filing a VA Form 10182 (Decision Review Request: Board Appeal (Notice of Disagreement)) in July 2024, requesting direct review of the evidence considered by the agency of original jurisdiction (AOJ). 38 C.F.R. §§ 20.201, 20.202(b)(1).
+
+Under the direct review option, the Board may only consider the evidence of record at the time of issuance of the March 2024 AOJ rating decision. 38 C.F.R. § 20.301. The Board cannot consider evidence submitted after that decision was promulgated.
+
+That said, for the reasons set forth below, the Board is remanding the Veteran's claims to the AOJ for correction of pre-decisional duty to assist errors. The AOJ will consider any additional evidence that has been submitted when the claims are readjudicated. 38 C.F.R. § 3.103(c)(2)(ii).
+
+1. Entitlement to service connection for GERD is remanded.
+
+The Veteran seeks to establish service connection for GERD. In a July 2023 application for benefits, he asserted that he had GERD that was secondary to posttraumatic stress disorder (PTSD). He related that when his anxiety flared up it caused him to experience significant digestive issues. He went on to explain that those issues were persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment to his health.
+
+Service connection is warranted where the evidence of record establishes that a particular injury or disease resulting in disability was incurred in the line of duty in the active military service or, if pre-existing such service, was aggravated thereby. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).
+
+Generally, in order to prove service connection, there must be competent, credible evidence of (1) a current disability, (2) in-service incurrence or aggravation of an injury or disease, and (3) a nexus, or link, between the current disability and the in-service disease or injury. See, e.g., Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Pond v. West, 12 Vet. App. 341 (1999).
+
+Under applicable law, disability which is due to or the result of a service-connected disease or injury shall also be service connected. 38 C.F.R. § 3.310(a).  Establishing service connection on a secondary basis requires evidence sufficient to show: (1) that a current disability exists; and (2) that the current disability was either (a) caused or (b) aggravated by a service-connected disability. 38 C.F.R. § 3.310; Allen v. Brown, 7 Vet. App. 439 (1995).
+
+Aggravation for purposes of 38 C.F.R. § 3.310(b) does not require that there be "permanent worsening" of a non-service-connected disability. Instead, secondary service connection is warranted for "any incremental increase in disability-any additional impairment of earning capacity-in nonservice-connected disabilities resulting from service-connected conditions, above the degree of disability existing before the increase-regardless of its permanence." Ward v. Wilkie, 31 Vet. App. 233, 239 (2019).
+
+In Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023), the United States Court of Appeals for the Federal Circuit (Federal Circuit) held that 38 U.S.C. § 1110 employs only "but-for" (rather than proximate) causation in direct and secondary service connection claims. In that regard, the Federal Circuit held that 38 C.F.R. § 3.310(b) is unlawful because it requires proximate causation to establish aggravation of a disability, rather than but-for causation. The but-for causation standard is not limited to a single cause and effect, but rather contemplates multi-causal links, including action and inaction. The Federal Circuit explained that secondary service connection is warranted where a non-service-connected disability would have been less severe but-for a service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability. Stated another way, but-for causation is broad and undisputedly broader than proximate cause. Thus, a service-connected disability need only be a contributing cause, not the contributing cause, to establish secondary service connection.
+
+At the outset, the Board notes that the AOJ made favorable findings in the March 2024 rating decision that the Veteran had been diagnosed with GERD, and that the claimed primary disability of PTSD was service connected. Those favorable findings are binding on the Board and are not in dispute. 38 C.F.R. § 3.104(c). 
+
+A December 1996 service treatment record (STR) shows that the Veteran was diagnosed with acute gastroenteritis. He presented with achy/rumbling mid-epigastric intermittent pain for three days. The provider prescribed Donnatal and told the Veteran to increase his fluid intake. 
+
+The Veteran was afforded a VA examination in connection with his claim in February 2024. After examining the Veteran and reviewing the record, the examiner concluded that it was less likely than not that the Veteran's GERD was proximately due to or the result of service-connected PTSD. In support of that conclusion, the examiner noted that there was no evidence in the available literature that GERD was caused by stress, and noted that the causes of GERD included incompetent or hypotonic lower esophageal sphincter, transient lower esophageal sphincter relaxations, hiatal hernia, adrenergic antagonist medications, anticholinergics, benzodiazepines, calcium channel blockers, nitrates, theophylline, tobacco use, pregnancy, and gastric acid hypersecretion. The examiner also mentioned that several foods and beverages might reduce the lower esophageal sphincter tone, such as alcohol, chocolate, coffee, onions, and peppermint.
+
+On review, the Board finds that the foregoing medical opinion is not entirely adequate for purposes of adjudication because the examiner did not explicitly address secondary aggravation. See El-Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013) (finding that a medical opinion as to secondary service connection was inadequate because it did not discuss aggravation). Nor did the examiner offer an opinion with respect to direct service connection.
+
+Because direct service connection had been reasonably raised by the record, and because the examiner failed to explicitly address secondary aggravation, the AOJ should have obtained a new or addendum opinion addressing those matters prior to adjudicating the Veteran's claim. See Barr v. Nicholson, 21 Vet. App. 303 (2007) (once VA undertakes to provide an examination, it is obligated to ensure that the examination is adequate). The failure to do so constitutes a pre-decisional duty to assist error that must be corrected. 
+
+2. Entitlement to service connection for migraine headaches is remanded.
+
+The Veteran seeks to establish service connection for migraine headaches. In his July 2023 application for benefits, he asserted that he had headaches that were secondary to tinnitus. He related that the recurrent ringing in his ears caused him to suffer from headaches approximately three to four days per week, with completely prostrating attacks one to two days per month. 
+
+The AOJ made favorable findings in the March 2024 rating decision that the Veteran had been diagnosed with migraines and that the claimed primary disability of tinnitus was service connected. Those favorable findings are binding on the Board and are not in dispute. 38 C.F.R. § 3.104(c).
+
+The Veteran was afforded a VA examination in connection with his claim in February 2024. After examining the Veteran and reviewing the record, the examiner concluded that it was less likely than not that the Veteran's migraine headache disability was proximately due to or the result of service-connected tinnitus. In support of that conclusion, the examiner noted that there was no evidence in the available literature that tinnitus caused migraine headaches. 
+
+On review, the Board finds that the foregoing medical opinion is not entirely adequate for purposes of adjudication because the examiner did not explicitly address secondary aggravation. See El-Amin, supra. Under the circumstances, the AOJ should have obtained a new or addendum medical opinion prior to adjudicating the Veteran's claim. See Barr, supra. The failure to do so constitutes a pre-decisional duty to assist error that must be corrected.
+
+These matters are REMANDED for the following actions:
+
+1. Arrange to have an examiner with appropriate experience review the record and offer an opinion as to whether it is at least as likely as not (i.e., whether the likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's GERD had its onset in, or is otherwise related to, his period of active service. In doing so, the examiner should comment on the medical significance, if any, of the fact that the Veteran was treated for what was then assessed as gastroenteritis during service in December 1996.
+
+If it is the examiner's opinion that it is unlikely that the Veteran's GERD had its onset in, or is otherwise attributable to, service, the examiner should offer a further opinion as to whether it is at least as likely as not that GERD (a) was caused or (b) has been aggravated by service-connected PTSD.
+
+In this regard, the examiner is advised that proximate cause is not required. Rather, the examiner's opinion should address whether the non-service-connected disability would have been less severe but-for the service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability has resulted in the inability to treat the non-service-connected disability. The examiner's opinion should reflect consideration of the Veteran's contention to the effect that when his anxiety flares up it causes him to experience significant digestive issues.
+
+A complete medical rational for all opinions expressed must be provided.
+
+2. Arrange to have an examiner with appropriate experience review the record and offer an opinion as to whether it is at least as likely as not (i.e., whether the likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's migraine headache disability (a) was caused or (b) has been aggravated by his service-connected tinnitus.
+
+In this regard, the examiner is advised that proximate cause is not required. Rather, the examiner's opinion should address whether the non-service-connected disability would have been less severe but-for the service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability. The examiner's opinion should reflect consideration of the Veteran's contention to the effect that the recurrent ringing in his ears caused him to suffer from headaches.
+
+A complete medical rationale for all opinions expressed must be provided. 
+
+ 
+
+ 
+
+DAVID A. BRENNINGMEYER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Moody, Kenneth R.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

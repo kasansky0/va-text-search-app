@@ -1,0 +1,107 @@
+Citation Nr: A25032762
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240508-439078
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for hypertension, to include as secondary to herbicide exposure, is denied.
+
+Entitlement to service connection for non-alcoholic steatohepatitis, to include as secondary to Camp Lejeune contaminated water (CLCW), is denied.
+
+FINDINGS OF FACT
+
+1.  The evidence is persuasively against a finding that the Veteran was exposed to an herbicide agent during active military service. 
+
+2.  Hypertension was not manifested during the Veteran's active-duty service or to a compensable degree within one year following his separation from service; continuity of symptomatology is not established, and the disability is not shown to be otherwise etiologically related to his service.
+
+3.  The Veteran's non-alcoholic steatohepatitis was not manifested in service, and it is not shown to be otherwise etiologically related his service, to include as due to exposure to CLCW therein.
+
+CONCLUSIONS OF LAW
+
+1.  The criteria for service connection for hypertension have not been met.  38 U.S.C. §§ 1110, 1112, 1116, 5107; 38 C.F.R. §§ 3.303, 3.304, 3.307, 3.309.
+
+2.  The criteria for service connection for non-alcoholic steatohepatitis have not been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from October 1970 to August 1973, including service at Camp Lejeune.  He died in February 2020.  The appellant is his surviving spouse and has been substituted for him as claimant/appellant for claims pending before VA when he died.  These matters are before the Board on appeal from a September 2023 Department of Veterans Affairs (VA) rating decision.  In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by service.  See 38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  To substantiate a claim of service connection, there must be evidence of (1) a current disability (for which service connection is sought); (2) incurrence or aggravation of a disease or injury in service; and (3) a causal connection between the disease or injury in service and the current disability.  See Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004).
+
+A disease first diagnosed after discharge may be service connected if all the evidence, including pertinent service records, establishes that it was incurred in service.  38 C.F.R. § 3.303(d); Combee v. Brown, 34 F.3d 1039, 1043 (Fed. Cir. 1994).
+
+Certain chronic diseases, to include hypertension, may be service connected on a presumptive basis if manifested to a compensable degree within a specified period of time post-service (one year for hypertension).  38 U.S.C. § 1112; 38 C.F.R. §§ 3.307, 3.309(a).  Nexus of a chronic disease listed in § 3.309(a) to service may be established by showing continuity of symptomatology following service.  Walker v. Shinseki, 708 F.3d 1331, 1338-40 (Fed. Cir. 2013).
+
+Lay evidence may be competent evidence to establish incurrence.   See Davidson v. Shinseki, 581 F. 3d 1313 (Fed. Cir. 2009).  Competent medical evidence is necessary where the determinative question is one requiring medical knowledge.  Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007). 
+
+Hypertension 
+
+If a veteran was exposed to an herbicide agent during active military, naval, or air service, certain enumerated diseases shall be considered service-connected if the requirements of 38 C.F.R. § 3.307(a)(6) are met, even if there is no record of such disease during service, provided further that the rebuttable presumption provisions of 38 C.F.R. § 3.307(d) are also satisfied.  38 C.F.R. § 3.309(e).  Absent affirmative evidence to the contrary, there is a presumption of exposure to herbicide agents for all veterans who served in the Republic of Vietnam (Vietnam) during the Vietnam era (the period beginning on January 9, 1962, and ending on May 7, 1975) or in Korea under specific circumstances between April 1, 1968, and August 31, 1971.  See 38 U.S.C. § 1116(f); 38 C.F.R. § 3.307(a)(6).  Alternatively, a veteran without appropriate service in Vietnam or Korea who develops one of the identified diseases will also be entitled to the presumption of service connection with competent evidence of herbicide agent exposure.  See 38 C.F.R. § 3.309(e).
+
+The appellant contends that the Veteran's hypertension was due to in-service herbicide (Agent Orange) exposure.  Specifically, the appellant contends that the Veteran had in-service herbicide exposure due to the fact that he was stationed in Hawaii in the 1970s during the Vietnam War and was part of a crew that loaded Agent Orange onto ships in support of the war.
+
+The Veteran's service treatment records (STRs) reveal no complaints, findings, treatment, or diagnoses of hypertension.  His separation examination does not contain any report, complaint, diagnoses, or treatment of hypertension.  
+
+In August 2023, following a records review, a VA medical provider opined that the Veteran's hypertension was less likely than not caused by the indicated toxic exposure risk activity, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  The provider noted the Veteran's statements alleging that he was exposed to Agent Orange while stationed in Hawaii, but the provider was unable to find a direct link to Agent Orange exposure in the claims file to provide evidence of exposure.  The provider noted that it appears the Veteran may have been in Oahu, Hawaii, but there is no literature citing Agent Orange storage on Oahu.
+
+The Board notes that the Veteran was never on active service in the Republic of Vietnam.  Service personnel records, including his DD Form 214, do not document service within Vietnam.  Rather, his personnel records substantiate that he had no overseas/foreign service.  The Veteran therefore is not presumed to have been exposed to herbicides.  See 38 C.F.R. §§ 3.307(a)(6), 3.309(e).  
+
+Because herbicide exposure may not be presumed, the appellant must produce some evidence that the Veteran was exposed to herbicide agents during his military service.  She asserts only that he when he was stationed in Hawaii, he was part of a crew that loaded Agent Orange onto ships in support of the Vietnam War; therefore, she concludes, he must have been exposed to herbicide agents.  However, the appellant has failed to produce evidence that the Veteran was actually exposed to any herbicide agents including Agent Orange while he was stationed in Hawaii, at any time.
+
+The appellant's contention that the Veteran could have been exposed to herbicide agents solely by loading containers of Agent Orange onto ships in Hawaii, without corroborating evidence or any first-hand observations to support this assertion, is too speculative to constitute credible evidence of exposure.  The contention that the Veteran could have been exposed to herbicide agents during his service in Hawaii is also not supported by any evidence of record.  Based on the above, the Board finds that there is no competent probative evidence supporting a finding that the Veteran was exposed to herbicide agents during his active service; therefore, service connection for hypertension is not warranted on a presumptive basis due to herbicide agent exposure.  38 U.S.C. § 1116(f); 38 C.F.R. §§ 3.307(a)(6)(iii), 3.309(e).
+
+Finally, the record does not otherwise link the Veteran's hypertension to his military service.  Although hypertension is listed as chronic under 38 C.F.R. § 3.309(a), the appellant does not assert, and the record does not indicate, that it manifested within one year of the Veteran's separation from service, or that he experienced continuous symptoms after his separation.  To the contrary, the record establishes that hypertension did not manifest until October 2000 at the earliest, or 27 years after service.  The evidence is persuasively against a finding that the Veteran's hypertension should be service connected under 38 C.F.R. § 3.307(a)(3) or § 3.303(b); see also Walker v. Shinseki, 708 F.3d 1331, 1338 (Fed. Cir. 2013).  
+
+It is not in dispute that the Veteran had a diagnosed disability of hypertension, which was diagnosed on VA examination.  However, hypertension in service is not shown; the VA examiners noted that there is no evidence of chronicity or continuity of care related to hypertension reported in service.  Consequently, service connection for hypertension on the basis that it became manifest in service is not warranted.  
+
+The VA examiners and reviewing providers opined that the Veteran's hypertension was less likely than not caused by service or events/exposures therein.  The providers opined that a nexus has not been established.  The providers cited relevant medical literature in support of their opinions.  The providers are medical professionals, and the opinions are probative evidence in this matter.  The opinions indicate familiarity with the Veteran's medical history and include rationale that cites to supporting evidence.  They are the most probative competent evidence in this matter, and the Board finds them persuasive.
+
+The Board has considered the appellant's as well as the Veteran's own assertions that his hypertension was due to his service or exposures therein.  As laypersons, they are not competent to provide an opinion regarding the etiology of his hypertension (as that is a complex medical question).  The appellant also has not submitted a medical opinion with adequately explained rationale in support of the claim or identified any medical provider who has offered such an opinion.  Considering the foregoing, the Board concludes that the evidence weighs persuasively against this claim.  Accordingly, the appeal seeking service connection for hypertension must be denied.
+
+Non-alcoholic steatohepatitis
+
+Effective March 14, 2017, VA amended 38 C.F.R. §§ 3.307 and 3.309 to provide a presumption of service connection for certain diseases (listed in 38 C.F.R. § 3.309(f) based on exposure to contaminants in the water supply at Camp Lejeune.  The eight diseases listed in § 3.309(f) are: adult leukemia, aplastic anemia and other myelodysplastic syndromes, bladder cancer, kidney cancer, liver cancer, multiple myeloma, non-Hodgkin's lymphoma, and Parkinson's disease.  38 C.F.R. §§ 3.307(a), 3.309(f); diabetes mellitus and kidney disease (other than cancer) are not among the eight listed diseases warranting presumptive service connection.  Service connection may nonetheless be established as due to CLCW by affirmative evidence supporting that theory of entitlement.  38 C.F.R. § 3.303(d); Combee v. Brown, 34 F.3d 1039 (Fed. Cir. 1994).
+
+The appellant alleges that the Veteran's non-alcoholic steatohepatitis was related to his exposure to contaminated drinking water at Camp Lejeune.  The Veteran's service personnel records confirm that he was stationed at Camp Lejeune from January 1971 to September 1971.  His STRs are silent for complaints, findings, treatment, or diagnoses related to liver disease.
+
+The post-service evidence reflects that hepatitic steatosis was first noted on a May 2012 liver ultrasound.
+
+Following an August 2018 VA examination, the examiner opined that on reviewing the specifics of the Veteran's claim to include the duration of exposure, the latency between exposure and diagnosis, his age at diagnosis, and other historical factors, the causation for the diagnosis is less likely than not a result of his past exposure to CLCW, as it is not a recognized presumptive condition, and accordingly is not supported by the associated evidence.  The examiner opined during the evidence review, no nexus supported by a sufficient medical explanation was identified in support of the Veteran's claimed condition.  The examiner opined that, furthermore, the Veteran's history of smoking, other factors, or chance alone are far more likely to be causative than the low-level, environmental type of exposure to volatile organic compounds (VOCs) at Camp Lejeune.  
+
+In January 2023, following a VA records review, a VA provider opined that the Veteran's diagnosis of nonalcoholic fatty liver disease is confirmed and is less likely as not caused by or a result of his exposure to CLCW.  The provider noted that fatty liver, also known as steatosis, affects 25 to 35 percent of the general population of the U.S., and it has a variety of causes including ingestion of a moderate or large amount of alcohol even for a short period of time, metabolic syndrome, drugs, metabolic abnormalities, celiac sprue, Wilson disease, hypertension, and dyslipidemia.  The provider noted that studies have concluded that while there are clear effects of acute, high-level exposure to trichloroethylene (TCE) and other solvents on the liver, there is limited evidence of persistent effects of chronic low-level exposure, so there is limited/suggestive evidence of an association between chronic exposure to solvents and hepatitic steatosis.  The provider noted that a study of Marines and Navy personnel exposed to CLCW showed no significantly increased hazard ratio of liver diseases with Camp Lejeune was compared with Camp Pendleton, which did not have the same exposures.  The provider opined that, when assessing causation, one must look at personal risk factors for a condition as well as external risk factors, in this case exposure related factors at Camp Lejeune; at the same time, one must look at the strength of those factors in causing or contributing to the disease in question.  Regarding personal risk factors, the provider noted that while there was no history of alcohol use, the Veteran did have the risk factors of a body mass index (BMI) of 31 indicating obesity, diabetes mellitus, hyperlipidemia, hypertension, and central obesity.  The provider opined that the Veteran's relatively brief exposure period of only 256 days makes establishing an association with exposure at Camp Lejeune to any condition problematic since studies demonstrating associations or causation to exposure to chemicals inevitably look at lifetime or working lifetime exposures, not such a brief exposure as found here.
+
+A May 2023 Records Research Response stated that comprehensive research was conducted on the Veteran's claimed exposure, claiming that he was exposed to herbicides while assigned to Headquarters Company 1st Marine Brigade Fleet Marine Force Pacific, and no evidence was located to support documentation of the claimed exposure.
+
+In June 2023, following a VA records review, a VA provider opined that the claimed condition was less likely than not caused by the indicated toxic exposure risk activity, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran. The provider opined that the Veteran's claimed liver injury due to non-alcoholic steatohepatitis was present in 2012, yet as of 2019 the issue had been resolved, as was confirmed both with imaging and lab work. The provider opined that the liver is a resilient organ and can regenerate and heal itself from fatty liver infiltration through lifestyle modifications, diet, weight loss, regular exercise, and alcohol moderation.
+
+It is not in dispute that the Veteran had non-alcoholic steatohepatitis. His service personnel records show that he was stationed at Camp Lejeune from January 1971 to September 1971.  Accordingly, his exposure to contaminated drinking water at Camp Lejeune is conceded, and not in dispute.  The critical question remaining is whether there is competent evidence of a nexus between his service, to include his exposure to contaminated drinking water therein, and his non-alcoholic steatohepatitis.
+
+There is no evidence, or allegation, that the Veteran's non-alcoholic steatohepatitis was manifested in service.  Non-alcoholic steatohepatitis was not diagnosed until 2012, approximately 39 years following his separation from service. Consequently, service connection on the basis that the disability became manifest in service and persisted is not warranted.
+
+Inasmuch as non-alcoholic steatohepatitis is not listed among the 8 diseases for which presumptive service connection based on exposure to contaminated water at Camp Lejeune is warranted, service connection for the claimed disability based on such exposure may not be presumed.  38 C.F.R. §§ 3.307(a), 3.309(f).
+
+What remains then is the question of whether, in the absence of a showing of onset in service and continuity since, the Veteran's non-alcoholic steatohepatitis is otherwise shown to be etiologically related to his service.
+
+The VA opinions against the claim are by VA physicians who, as members of the Camp Lejeune Contaminated Water Project, have specific subject matter expertise and are also at least equally competent to offer medical opinions in this matter. The providers expressed familiarity with the entire record and provided clear explanations of rationale for the opinion that the Veteran's non-alcoholic steatohepatitis was less likely than not caused by exposure to contaminated water at Camp Lejeune. The consulting VA physicians cited to extensive medical studies and literature. The Board finds the VA consulting physicians' opinions highly probative evidence in the matter.  
+
+The Board has considered the appellant's as well as the Veteran's own assertions that his non-alcoholic steatohepatitis was due to contaminated water exposure.  As laypersons, they are not competent to provide an opinion regarding the etiology of his liver disease (as that is a complex medical question).  The appellant also has not submitted a medical opinion with adequately explained rationale in support of the claim or identified any medical provider who has offered such an opinion.  Considering the foregoing, the Board concludes that the evidence weighs persuasively against this claim.  Accordingly, the appeal seeking service connection for non-alcoholic steatohepatitis must be denied.
+
+ 
+
+ 
+
+JOHN Z. JONES
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Schechner, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,167 @@
+Citation Nr: A25033839
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 221122-299071
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for anxiety disorder is denied.
+
+REMANDED
+
+Entitlement to service connection for major depressive disorder is remanded.
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD) disability is remanded.
+
+Entitlement to service connection for alcohol use disorder is remanded.
+
+FINDINGS OF FACT
+
+1. The probative evidence of record does not show a current disability of anxiety disorder.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for anxiety disorder have not been met. 38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service from October 1981 to October 1985. The Board recognizes the Veteran's service to his country and the sacrifices it entailed. 
+
+These matters come before the Board of Veteran' Appeals (Board) on appeal from an October 2020 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO) denying service connection for anxiety disorder, major depressive disorder, PTSD, and alcohol use disorder.
+
+In the November 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may consider only the evidence of record at the time of the October 2020 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review in a November 2021 rating decision. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the major depressive disorder, PTSD, and alcohol use disorder claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Service Connection
+
+In general, the Board grants service connection if the evidence establishes three key facts, or elements: (1) an existing disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship, or "nexus," between the present disability and the in-service incurrence. Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2010).
+
+When a veteran claims for PTSD, however, the elements are similar but tailored to the unique aspects of that disability. Specifically, the evidence must show: (1) medical evidence diagnosing the condition in accordance with VA regulations-i.e., applying criteria from the current edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5); (2) credible supporting evidence the claimed in-service stressor occurred; and (3) medical evidence establishing a link between the veteran's current symptoms and the in-service stressor. 38 C.F.R. §§ 3.304(f) and 4.125(a).
+
+1. Entitlement to service connection for anxiety disorder is denied. 
+
+The Veteran contends that his anxiety disorder is related to service. See November 2022 VA Form 10182.
+
+The threshold question for the Board is whether at any time during the period on appeal the Veteran has had anxiety disorder. The Board concludes he has not.
+
+In this case, the Veteran's service treatment records do not show any complaints or treatment for symptoms related to anxiety disorder. 
+
+The Veteran was afforded a VA examination in September 2020 and the examiner concluded that he does not have a diagnosis of anxiety disorder. The examiner noted that the Veteran had a diagnosis of major depressive disorder with anxious distress. See September 2020 Disability Benefits Questionnaire (DBQ). 
+
+The Board finds that this opinion is supported by the Veteran's treatment notes including a February 2018 psychiatric report which notes the Veteran's description of anxiety sounds like vigilance which is related to his PTSD diagnosis. See July 2018 Medical Treatment Record - Non-Government Facility.
+
+While the Veteran may believe he has anxiety disorder, he is not competent to provide a diagnosis in this case. Diagnosing these conditions is medically complex, as it requires specialized medical education. Jandreau v. Nicholson, 492 F.3d 1372, 1377, 1377 n.4 (Fed. Cir. 2007).
+
+To the extent a veteran may establish a disability without a formal diagnosis, as discussed above, medical providers have attributed the Veteran's anxious symptoms to other mental health disabilities.
+
+Accordingly, the Board finds the first element of service connection, a current disability, has not been satisfied.
+
+Because the evidence of record does not show the Veteran has a disability of anxiety disorder, the Board cannot grant service connection for it. Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). In such cases, the Board does not address the other elements of service connection.
+
+This appeal is denied.
+
+REASONS FOR REMAND
+
+2. Entitlement to service connection for major depressive disorder is remanded.
+
+The Veteran contends that his major depressive disorder is related to service. See February 2017 VA Form 21-526EZ.
+
+The Board regrets the delay but finds a remand is warranted in order to properly adjudicate the Veteran's claim. 
+
+The first and second elements of service connection are met. The November 2021 rating decision concedes the Veteran has a current disability and that there was an in-service stressor. 
+
+Finally, concerning whether there is a causal nexus between the in-service events and the Veteran's disability, the Veteran was afforded a VA examination in September 2020. The examiner opined that the Veteran's major depressive disorder is less likely than not related to service. The examiner explained that the service treatment records are silent for symptoms, complaints, evaluations, or treatment for a depressive disorder. The Veteran reported and it is also noted in his medical records that his depression started in 1995 after his serious motor vehicle accident where he sustained a probable concussion. This is medically more plausible as is the additive probability of a mood disorder co-morbid with a substance use disorder. In either case its seeming origin is 10 years post-active service and therefore not related to active service. See September 2020 DBQ.
+
+The Board finds this opinion is inadequate. Here, the examiner seemingly relies on the fact that the service treatment records are silent for treatment related to depression. However, a medical opinion based solely on the absence of documentation in the service treatment records or that fails to consider lay statements is inadequate. See Buchanan v. Nicholson, 451 F. 3d 1331, 1336-37 (Fed. Cir. 2006). See also Dalton v. Peake, 21 Vet. App. 23 (2007) (finding that a medical opinion based solely on the absence of documentation in the record is inadequate and a medical opinion is inadequate if it does not consider the Veteran's reports of symptoms and history).
+
+The Board also notes that while the Veteran was receiving treatment for alcohol use in service, he was described by a mental health professional as depressed. See Service Treatment Records. Furthermore, the Board acknowledges that there is reference in the record to the Veteran starting treatment for depression after his motor vehicle accident in 1995. However, there are several instances in the Veteran's treatment notes where he reports symptoms of depression starting in his early 20s. See CAPRI Records; Medical Treatment Record-Non-Government Facility. Thus, it is plausible that the Veteran started experiencing symptoms prior to receiving a diagnosis of depression in 1995.
+
+It is the factually accurate, fully articulated, sound reasoning for the conclusion...that contributes probative value to the medical opinion. Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008); See also, Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007) (a medical opinion "must support its conclusion with an analysis that the Board can consider and weigh against contrary opinions").
+
+The Board finds remand is required to correct a pre-decisional duty to assist error. While the AOJ obtained a medical opinion from the September 2020 VA examiner on whether the Veteran's major depressive disorder is related to service, the opinion is inadequate. An adequate medical opinion is required because the Veteran has a current depression disability that may be related to service. McLendon v. Nicholson, 20 Vet. App. 79, 86 (2006). 
+
+3. Entitlement to service connection for PTSD disability is remanded.
+
+The Veteran contends that his PTSD disability is related to service. See February 2017 VA Form 21-526EZ.
+
+The Board regrets the delay but finds remand is necessary to properly adjudicate the Veteran's claim. 
+
+Here, in the November 2021 rating decision, the AOJ conceded the Veteran has an in-service stressor. The AOJ confirmed that the Veteran was aboard the USS Forrestal during a plane crash in September 1982 in which a service member was killed. 
+
+Nevertheless, the AOJ concluded the Veteran does not have a current disability. The Veteran was afforded VA examinations in September 2017, August 2018, and September 2020, and the examiners concluded the Veteran does not meet the criteria for PTSD because the previous diagnosis in the medical record is the Veteran's self-report only and not a longitudinal verification of stressor or symptoms detail. See September 2017 DBQ; August 2018 DBQ; 2020 DBQ.
+
+The Board finds that these opinions are inadequate. The examiners failed to consider treatment notes that show the Veteran has a diagnosis of PTSD including a 2017 psychiatric evaluation report in which the Veteran was diagnosed with PTSD and a September 2018 psychiatry treatment note that indicate the Veteran was scheduled to attend a PTSD program at American Lake. The Board notes the Veteran has also had positive PTSD screenings. See CAPRI Records; Medical Treatment Record-Non-Government Facility.
+
+If a Veteran has received a diagnosis of PTSD from a competent medical professional, VA must assume that the diagnosis was made in accordance with the appropriate psychiatric criteria in regard to the adequacy of the symptomatology and the sufficiency of the stressor. Cohen v. Brown, 10 Vet. App. 128, 153 (1997). Nevertheless, VA may reject the claim on a finding that the evidence is persuasively against (1) the PTSD diagnosis, (2) the occurrence of the in-service stressor, or (3) the connection of the current condition to the in-service stressor. The adequacy of a stressor, sufficiency of symptomatology, and diagnosis are all medical determinations. See Cohen, supra, at 143-44.
+
+Here, the Board finds that giving the Veteran the benefit of the doubt the requirements of a current disability are met. However, the Board finds remand is required to correct a pre-decisional duty to assist error. 
+
+While the AOJ obtained medical evaluations, the examiners concluded the Veteran did not have a PTSD diagnosis and failed to provide an opinion as to how the Veteran's PTSD is related to his conceded in-service stressor. McLendon v. Nicholson, 20 Vet. App. 79, 86 (2006). 
+
+The failure to obtain an adequate medical opinion constitutes a pre-decisional duty to assist error, and therefore, remand is warranted.
+
+4. Entitlement to service connection for alcohol use disorder is remanded.
+
+The Veteran contends that his alcohol use disorder is secondary to his PTSD disability. See February 2017 VA Form 21-526EZ.
+
+A Veteran is presumed to have been sound upon entry into active service, except as to conditions noted at the time of the acceptance, examination, or enrollment, or where clear and unmistakable evidence demonstrates that the condition existed before acceptance and enrollment and was not aggravated by such service. 38 U.S.C. § 1111; 38 C.F.R. § 3.304 (b); Wagner v. Principi, 370 F.3d 1089 (Fed. Cir. 2004).
+
+In cases where the presumption of soundness attaches, the burden shifts to the Secretary to show by clear and unmistakable evidence that: "(1) a disease or injury existed prior to service; and (2) the disease or injury was not aggravated by service." Patrick v. Shinseki, 668 F.3d 1325 (Fed. Cir. 2011) (citing Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004) (emphasis added).
+
+The second prong of the presumption of soundness is rebutted if there is clear and unmistakable evidence either that (1) there was no increase in disability during service, or (2) any increase in disability was due to the natural progression of the condition. Wagner, 370 F.3d at 1096; see also Quirin v. Shinseki, 22 Vet. App. at 397.
+
+As a preliminary matter, the Board finds the Veteran was in sound condition at the entry to service. The 1981 entrance examination specifically noted that there was no alcohol or substance abuse issues. The presumption of soundness may be rebutted only where there is clear and unmistakable evidence that a disease existed prior to active duty. 38 C.F.R. § 3.304(b).
+
+The Veteran was afforded a VA examination in September 2020. However, the examiner opined that the diagnosis of alcohol use disorder is less likely as not incurred in or caused by events during service. The examiner explained that based on the service treatment notes the Veteran's alcohol use disorder existed pre-military service. The examiner also noted the Veteran is genetically predisposed to alcohol use disorder from maternal family history and early use is consistent with this. The Veteran was hospitalized as a teen for alcohol /drug use according to medical history. He now denies he was abusing alcohol, but he is an unreliable historian. See September 2020 DBQ.
+
+This opinion, however, does not rebut the presumption of soundness because it does not rise to the level of clear and unmistakable evidence. The Board notes that while in service the Veteran received treatment for alcohol use disorder. Treatment notes indicate that the Veteran started drinking from a young age, but the examiner did not indicate that the Veteran was an alcoholic prior to that time. The Board also notes the Veteran started receiving treatment for alcoholism around April 1983, which is after his September 1982 conceded PTSD stressor.
+
+Turning to the Veteran's service connection claim, generally, VA compensation may not be paid for primary substance abuse disabilities. 38 C.F.R. §§ 3.1, 3.301. However, compensation may be paid for substance abuse that is secondary to, or a symptom of, a service-connected disability. 38 C.F.R. § 3.310; Allen v. Principi, 237 F.3d 1368, 1381 (2001). A Veteran may establish service connection on a secondary basis for a disability which is the result of a service-connected disease or injury.
+
+Entitlement to service connection on a secondary basis requires evidence of three elements: (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) evidence of nexus establishing a connection between the service-connected disability and the current disability. 38 C.F.R. § 3.310.
+
+Here, the Veteran has a current disability of alcohol use disorder, however, his PTSD disability has not been service connected.
+
+As such, the Board finds the claim for secondary service connection for alcohol use disorder is inextricably intertwined with the herein remanded claim of service connection for PTSD disability.
+
+Accordingly, remand is warranted pending adjudication of the PTSD disability claim. If, and only if, such evidence shows that the Veteran's PTSD disability is related to his service, then an examination with medical opinions should be obtained to address any relationship between the service-connected condition and the Veteran's alcohol use disorder.
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for an examination to determine the nature and etiology of his major depressive disorder and PTSD disability.
+
+2. The examiner should review the claim file, including this remand, lay statements, VA treatment records, service treatment records, and private treatment records.
+
+3. For each disability (major depressive disorder and PTSD) the examiner must opine as to the following:
+
+(a.) Whether it is at least approximately as likely as not the Veteran's disability had its onset during service.
+
+(b.) If "no" to paragraph (a.), whether it is at least approximately as likely as not the Veteran's disability resulted from or is otherwise causally related to any event or circumstance of service.
+
+4. If a service-connected PTSD disability is found, concerning the Veteran's alcohol use disorder, the examiner should also expressly opine on the following specific issues:
+
+(a.) Whether it is at least approximately as likely as not that the alcohol use disorder was caused by the Veteran's service-connected PTSD disability. The Board notes this is a "but for" causation standard-therefore, the Veteran's PTSD disability need not be the sole or even primary cause of the Veteran's alcohol use disorder, so long as it is a necessary cause. In other words, if without the PTSD disability, the alcohol use disorder would cease to exist, then the PTSD disability is a "but for" cause of the alcohol use disorder. See Spicer v. McDonough, 61 F.4th 1360, 1363 (Fed. Cir. 2023).
+
+(b.) If "no" to (a.) above, whether it is at least approximately as likely as not that the alcohol use disorder was aggravated (i.e., made worse beyond its natural progression) by the Veteran's service-connected PTSD disability. This aggravation opinion must be separate from the "caused by" opinion. The Board notes the "but for" causation standard described above applies to aggravation as well, albeit to the degree of disability rather than its existence. In other words, if without the PTSD disability, the alcohol use disorder would be less severe, then the PTSD disability is a "but for" source of aggravation of the alcohol use disorder. See Walsh v. Wilkie, 32 Vet. App. 300, 306 (2020).
+
+5. A complete rationale must be provided for all opinions.
+
+ 
+
+ 
+
+Timothy Cothrel
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	I. Duclos
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

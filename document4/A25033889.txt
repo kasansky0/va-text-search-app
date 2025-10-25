@@ -1,0 +1,107 @@
+Citation Nr: A25033889
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240904-470473
+DATE: April 11, 2025
+
+ORDER
+
+An initial compensable rating for obstructive sleep apnea (OSA) is denied.
+
+FINDINGS OF FACT
+
+1. The medical evidence demonstrates that the Veteran's OSA, which has required the use of a breathing assistance device such as continuous positive airway pressure (CPAP) since the initial October 2010 diagnosis, manifested as a pre-aggravation baseline of 50 percent under 38 C.F.R. § 4.97, Diagnostic Code 6847. 
+
+2. The OSA currently requires use of a breathing assistance device such as a CPAP machine under 38 C.F.R. § 4.97, Diagnostic Code 6847.
+
+3. The service-connected posttraumatic stress disorder (PTSD) has already been assigned a 70 percent rating, in part, for chronic sleep impairment resulting in daytime sleepiness or fatigue under 38 C.F.R. § 4.130, Diagnostic Code 9411. 
+
+4. The OSA has manifested as difficulty tolerating the CPAP, difficulty sleeping, and daytime hypersomnolence, resulting in daytime sleepiness or fatigue.  
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial compensable rating for OSA have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. § 3.102, 3.310(b), 4.3, 4.7, 4.97, 4.130, Diagnostic Codes 6847, 9411.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran was a member of the National Guard and served on federalized active duty from May 1999 to July 1999, November 2002 to June 2003, November 2007 to January 2008, September 2011 to February 2012, and from April 2015 to November 2015. 
+
+This appeal comes to the Board of Veterans' Appeals (Board) from a September 21, 2023 Department of Veterans Affairs (VA) Regional Office (RO).  
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 21, 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Preliminary Matters
+
+The Board has limited the discussion below to the relevant evidence required to support its finding of fact and conclusion of law, as well as to the specific contentions regarding the case as raised directly by the Veteran and those reasonably raised by the record.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Peake, 21 Vet. App. 545, 552 (2008); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016).
+
+1. An initial compensable rating for obstructive sleep apnea is denied. 
+
+As a procedural history, the Board awarded service connection for OSA in a September 2003 decision.  Specifically, the Board found that the most probative medical opinion of record was a private opinion submitted by the Veteran which found that the service-connected PTSD aggravated the OSA beyond the natural progression of the disease on a secondary service connection basis under 38 C.F.R. § 3.310.  
+
+Shortly thereafter in September 2023, the RO implemented the award of service connection and assigned an initial noncompensable rating effective July 11, 2018.  The Veteran contends that he should be awarded a 50 percent rating for the OSA effective July 11, 2018 because he was prescribed a CPAP machine to treat his OSA, which warranted a 50 percent rating.  He also asserts that his OSA is worse because the OSA was determined to be moderate in an October 2010 sleep study but was severe in the June 2017 sleep study; therefore, the Veteran contends that it should be assigned a compensable rating because it had worsened due to the PTSD.  See September 2024 VA Form 10182 and attached correspondence. 
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities (Rating Schedule) found in 38 C.F.R. Part 4.  38 U.S.C. § 1155.  It is not expected that all cases will show all the findings specified; however, findings sufficiently characteristic to identify the disease and the disability therefrom and coordination of rating with impairment of function will be expected in all instances.  38 C.F.R. § 4.21.
+
+Where there is a question as to which of two disability ratings could be applied, the higher rating will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  It is the defined and consistently applied policy of VA to administer the law under a broad interpretation, consistent, however, with the facts shown in every case.  When after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding the degree of disability such doubt will be resolved in favor of the claimant.  38 C.F.R. § 4.3.
+
+In general, all disabilities, including those arising from a single disease entity, are rated separately, and all disability ratings are then combined in accordance with 38 C.F.R. § 4.25.  Pyramiding, the rating of the same disability, or the same manifestation of a disability, under different diagnostic codes, is to be avoided when rating a veteran's service-connected disabilities.  38 C.F.R. § 4.14.  It is possible for a veteran to have separate and distinct manifestations from the same injury which would permit rating under several diagnostic codes; however, the critical element in permitting the assignment of several ratings under various diagnostic codes is that none of the symptomatology for any one of the conditions is duplicative or overlapping with the symptomatology of the other condition.  Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994).
+
+When an unlisted condition is encountered it will be permissible to rate under a closely related disease or injury in which not only the functions affected, but the anatomical localization and symptomatology are closely analogous.  Conjectural analogies will be avoided, as will the use of analogous ratings for conditions of doubtful diagnosis, or for those not fully supported by clinical and laboratory findings.  Nor will ratings assigned to organic diseases and injuries be assigned by analogy to conditions of functional origin.  38 C.F.R. § 4.20.
+
+Where an increase in the level of a service-connected disability is at issue, the primary concern is the present level of disability.  See Francisco v. Brown, 7 Vet. App. 55 (1994).  Staged ratings are appropriate for any initial rating claim when the factual findings show distinct time periods during the appeal period where the service-connected disability exhibits symptoms that would warrant different ratings.  Fenderson v. West, 12 Vet. App. 119, 126 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+In rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive and provide the reasons for its rejection of any material favorable to the claimant.  Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994); Gilbert v. Derwinski, 1 Vet. App. 49, 57 (1990).  
+
+A veteran is competent to report symptoms because this requires only personal knowledge, not medical expertise, as it comes to him or her through their senses.  See Layno v. Brown, 6 Vet. App. 465 (1994).  Lay testimony is competent to establish the presence of observable symptomatology, where the determination is not medical in nature and is capable of lay observation.  Barr v. Nicholson, 21 Vet. App. 303 (2007).
+
+When service connection for a nonservice-connected disability is established based on aggravation by a service-connected disability, the baseline and current levels of severity are determined using the Schedule for Rating Disabilities (38 C.F.R. Part 4) and the extent of aggravation is determined by deducting the baseline level of severity and any increase in severity due to the natural progress of the disease, from the current level. 38 C.F.R. § 3.310(b).  The baseline level of severity of the nonservice-connected disease or injury is established by medical evidence created before the onset of aggravation or by the earliest medical evidence created at any time between the onset of aggravation and the receipt of medical evidence establishing the current level of severity of the nonservice-connected disease or injury. Id. 
+
+OSA is rated under 38 C.F.R. § 4.97, Diagnostic Code 6847.  Pursuant to Diagnostic Code 6847, sleep apnea syndromes (obstructive, central, mixed) are rated noncompensable when asymptomatic, but with documented sleep disorder breathing. A 30 percent disability rating is warranted when there is persistent daytime hypersomnolence. A 50 percent evaluation is to be assigned when the Veteran requires the use of a breathing assistance device, such as a CPAP machine. A 100 percent evaluation is assigned for chronic respiratory failure with carbon dioxide retention or cor pulmonale, or for cases where the Veteran requires a tracheostomy. 
+
+VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with a claimant prevailing in either event.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.  The claimant is entitled to the benefit of the doubt when there is an "approximate" (meaning nearly equal) balance of positive and negative evidence regarding any material determination.  See Lynch v. McDonough, 999 F.3d 1391 (2021); Ortiz v. Principi, 274 F.3d 1361 (Fed. Cir. 2001).
+
+As noted above, the OSA was awarded service connection based on aggravation. Therefore, the difference between the baseline levels prior to aggravation and the current level of impairment determine the assigned disability rating. 
+
+Private treatment records indicate the Veteran underwent a sleep study in October 2010. The sleep study diagnosed moderate obstructive sleep apnea.  A followup study was recommended to titrate the oxygen for a CPAP machine.
+
+Another sleep study was completed in June 2017.  The Veteran was noted to have severe OSA. 
+
+In July 2018, the Veteran submitted a private medical opinion from his treating physician, Dr. O.M., a double board-certified physician in internal and sleep medicine.  Dr. O.M. had been treating the Veteran since July 2017.  Dr. O.M. indicated that the PTSD made it more difficult for the Veteran to tolerate his CPAP machine, sleep at all, and worsened his daytime sleepiness.  
+
+A January 2023 VA treatment record noted the Veteran was initially diagnosed with moderate OSA in October 2010, and a repeat study showed severe OSA in 2016. He was started on CPAP therapy in 2016 and had been using it since.  At the time of his initial visit, his sleep had improved greatly since the CPAP.  However, lately he had not been waking as refreshed as when he first started the CPAP.  He also had not seen a sleep physician in a while and therefore, nobody had been managing his OSA.  The clinician directed the Veteran to continue with his excellent compliance with his CPAP therapy.
+
+The evidence confirms that the obstructive sleep apnea has required continuous positive airway pressure since 2016, before the initial rating period on review.  Such disability picture is contemplated by a disability rating of 50 percent under the prescribed diagnostic criteria.
+
+As an initial matter, the sleep apnea disability does not meet the criteria for the next higher rating of 100 percent.  Having reviewed all the relevant evidence of record, both lay and medical, the Veteran's sleep apnea did not manifest as chronic respiratory failure with carbon dioxide retention or cor pulmonale, and the Veteran did not require a tracheostomy.  The reports from the private sleep studies and VA examinations reflect that there were no current findings, signs, or symptoms attributable to chronic respiratory failure with carbon dioxide retention or cor pulmonale, and there was no indication the Veteran ever underwent a tracheostomy.  Thus, a rating higher than 50 percent for the OSA is not warranted. 
+
+As for the baseline level of severity of the OSA, the evidence shows that a CPAP machine was required for the OSA since the initial diagnosis in October 2011.  Furthermore, the Veteran began using a CPAP machine in 2016 and has required its use with excellent compliance since. See January 2023 VA treatment record.  The Veteran's symptoms warrant a 50 percent rating for OSA requiring a CPAP machine.
+
+As for the post-aggravation/current level of severity of sleep apnea, the evidence also shows that the Veteran continues to require the use of a CPAP, which is contemplated by a 50 percent rating.  
+
+However, pursuant to 38 C.F.R. § 3.310(b), the difference between the baseline level of 50 percent and the current severity of 50 percent is zero percent, or noncompensable. Therefore, the criteria for an initial compensable disability rating are not met.  38 C.F.R. § 3.310(b).
+
+The Board acknowledges the Veteran's assertion that his OSA was moderate in October 2010 but severe in June 2017 sleep studies.  However, as noted above, the pre-aggravation baseline level and current severity are determined by applying the Schedule for Rating Disabilities (38 C.F.R. Part 4).  See 38 C.F.R. § 3.310(b).  Thus, regardless of the characterization of the sleep apnea as noted on the sleep studies, when applying the rating criteria, the OSA required a CPAP in October 2010, and the OSA still required a CPAP in June 2017.  Therefore, a compensable rating is not warranted. 
+
+In addition, the Veteran's current OSA symptoms are also already contemplated by the 70 percent rating assigned for the PTSD. The July 2018 private medical opinion reported that the Veteran's symptoms consisted of daytime hypersomnolence (sleepiness) and difficulty sleeping.  Both symptoms are already contemplated by the 70 percent rating decision assigned for the PTSD disability as chronic sleep impairment.  See 38 C.F.R. § 4.130, Diagnostic Code 9411; see also December 2017 rating decision.  
+
+As noted above, pyramiding of ratings is to be avoided.  38 C.F.R. § 4.14.  Here, he has described that his OSA has manifested in difficulty sleeping, difficulty tolerating the CPAP, and daytime hypersomnolence, all of which result in daytime sleepiness or fatigue.  The PTSD also manifested in insomnia and difficulty sleeping, which results in daytime sleepiness or fatigue.  As the Veteran has been assigned a 70 percent rating for the PTSD, in part for chronic sleep impairment, he is already being compensated for his resulting daytime sleepiness.  See Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994); see also Carney v. Collins, No. 24-0523 (April 5, 2025) (mem. dec.). 
+
+Accordingly, after reviewing the records, both lay and medical, an initial compensable rating for the OSA is not warranted.  As the evidence weighs persuasively against the claim, the benefit of the doubt rule is not for application here, and the claim is denied.  See Lynch, 999 F.3d at 1391; Ortiz, 274 F.3d at 1361.
+
+ 
+
+ 
+
+S. B. MAYS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Harper, Tristin
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

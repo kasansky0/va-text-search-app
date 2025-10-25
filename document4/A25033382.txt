@@ -1,0 +1,83 @@
+Citation Nr: A25033382
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240819-466453
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to an initial disability rating of 50 percent, but no higher, for obstructive sleep apnea, from August 29, 2023, is granted.
+
+FINDINGS OF FACT
+
+1. During the period on appeal, the Veteran's sleep apnea has been manifested by the required use of a breathing assistance device; at no point during the appeal period has his sleep apnea been shown to have been manifested by chronic respiratory failure with carbon dioxide retention or cor pulmonale, or required a tracheostomy.
+
+2. Separate evaluations may not be awarded for disabilities rated under Diagnostic Code 6602 for asthma and Diagnostic Code 6847 for obstructive sleep apnea.
+
+CONCLUSION OF LAW
+
+The criteria for an initial rating of 50 percent, but no higher, for obstructive sleep apnea, from August 29, 2023, have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.96, 4.97, DC 6847.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Army from July 2012 to August 2023.  
+
+In November 2022, the Veteran submitted a claim for issues including obstructive sleep apnea (OSA).  In September 2023, the RO granted service connection for OSA.  The RO granted a noncompensable evaluation, effective August 29, 2023 (day after discharge from service).  The RO rated the OSA together with asthma (rated 10 percent disabling).  The RO did not assign a compensable evaluation for OSA because they did not have enough evidence to show the required use of CPAP. 
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct review docket.  The Veteran also contemporaneously submitted a statement with his appeal. The Board is mindful of the recent case of Edwards v. McDonough, 26 Vet. App. 56 (2023), where the United States Court of Appeals for Veterans Claims reminded the Board of its obligations "to read the documents that a claimant files in support of his [or her] appeal liberally and sympathetically" and "to consider the full context within which [veterans'] submissions are made." Id. at 62 (citing Rivera v. Shinseki, 654 F.3d 1377, 1380, 1382 (Fed. Cir. 2011)). The backdrop for this reminder is 38 C.F.R. § 202(f).  That regulation requires the Board to contact the claimant to request clarification of the claimant's intent whenever the Board cannot identify which review option the claimant intends to select. With that in mind, the Board can identify the review option desired by this Veteran from the standpoint of his statement is interpreted as argument and not evidence.  As an appeal in which the appellant requested, on the Notice of Disagreement, direct review by the Board without submission of additional evidence and without a Board hearing, the Board's decision is based on a review of the evidence of record at the time of the decision on the issue on appeal.  38 C.F.R. § 20.301.
+
+The Board notes that while the Veteran is rated for asthma with OSA under Diagnostic Code (DC) 6847-6602, the Veteran has only appealed his OSA.  Therefore, this Board will limit its discussion to OSA.  See AB v. Brown, 6 Vet. App. 35, 39 (1993); Murphy v. Shinseki, 26 Vet. App. 510, 514 (2014) (acknowledging that "the appellant generally controls the scope of appellate review").
+
+Factual history
+
+The Veteran did not have OSA on entrance into active duty.  See October 2011 Enlistment exam.  In September 2022 a sleep study was performed due to the Veteran's ongoing sleep problems.  In November 2022, the RO afforded the Veteran a pre-discharge Sleep Apnea Compensation and Pension (C&P) exam.  The Veteran stated that his sleep problems began in service.  A November 2022 examiner reviewed the sleep study results and the service treatment records (STRs).  On exam, the November 2022 examiner diagnosed obstructive sleep apnea.  The November 2022 examiner stated that the Veteran required the use of a breathing assistance device such as a CPAP machine.  The November 2022 examiner noted on the Veteran's history that the Veteran's sleep improved with CPAP.  In March 2023, Dr. B.D.Q. noted that sleep study results and treatment were still pending.
+
+Law
+
+Disability evaluations are determined by the application of a schedule of ratings, which is in turn based on the average impairment of earning capacity caused by a given disability. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. Separate DCs identify the evaluations to be assigned to the various disabilities.
+
+If there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  If different disability ratings are warranted for different periods of time over the life of a claim, "staged" ratings may be assigned. Hart v. Manfield, 21 Vet. App. 505 (2007); Fenderson v. West, 12 Vet. App. 119, 125-26 (1999).
+
+Sleep apnea syndromes, whether obstructive, central, or mixed in nature, are rated under DC 6847.  A 0 percent rating is assigned for asymptomatic but with documented sleep disorder breathing.  A 30 percent rating is assigned for persistent daytime hypersomnolence.  A 50 percent rating is assigned for sleep apnea that requires the use of a breathing assistance device such as a continuous airway pressure (CPAP) machine.  A 100 percent rating is assigned for sleep apnea manifested by chronic respiratory failure with carbon dioxide retention or cor pulmonale, or if the condition requires tracheostomy. See 38 C.F.R. § 4.97, DC 6847.
+
+Special provisions regarding evaluation of co-existing respiratory conditions expressly state that ratings under DCs 6600 through 6817 and 6822 through 6847 will not be combined with each other. See 38 C.F.R. § 4.96 (a). Instead, a single rating will be assigned under the DC which reflects the predominant disability with elevation to the next higher evaluation where the severity of the overall disability warrants such elevation. Thus, VA will evaluate coexisting service-connected respiratory conditions covered by § 4.96(a) under the criteria enumerated in the predominant disability's DC. See Urban v. Shulkin, 29 Vet. App. 82, 90-91.
+
+"When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant." 38 U.S.C. § 5107(b).  "Evidence is not in 'approximate balance' or 'nearly equal,' and therefore the benefit-of-the-doubt rule does not apply, when the evidence persuasively favors one side or the other."  Lynch v. McDonough, 21 F. 4th 776 (Fed. Cir. 2021); see also Ortiz v. Principi, 274 F. 3d 1361 (Fed. Cir. 2001).
+
+Entitlement to an initial compensable rating for obstructive sleep apnea
+
+The Veteran asserts that he was denied even though he had documentation of service connection (for his OSA).  See August 2024 Notice of Disagreement.  The Board notes that the Veteran has been granted service connection for OSA.  See September 2023 Rating Decision.  The Veteran asserted that he was appealing a denial of benefits by the Veterans Health Administration but listed the September 2023 RO decision and listed the area of disagreement as the zero percent OSA rating.  Therefore, the Board interprets this appeal as seeking a compensable rating for his OSA.  The Board finds that during the period on appeal from the day after release from active duty, the Veteran's OSA has been manifested by the required use of a breathing assistance device.  As such, the criteria for an initial rating of 50 percent, but no higher, for OSA have been met.
+
+Review of the evidence shows that the Veteran's OSA necessitated the use of a breathing assistance device such as a CPAP machine.  Specifically, a September 2022 sleep study was conducted.  The November 2022 C&P examiner interpreted the sleep study and concluded that the Veteran required the use of a breathing assistance device such as a CPAP machine.  The Veteran credibly stated that his sleep problems began in service.  As noted above, Dr. B.D.Q. noted in March 2023 that the sleep study results and treatment were still pending.  However, because the November 2022 examiner concluded that the Veteran required the use of a breathing assistance device, with resolution of reasonable doubt in his favor, the Board finds that the evidence is at least in approximate balance as to whether the Veteran's OSA required use of a CPAP machine as of release from active duty.  The Board affords the Veteran the benefit of the doubt and finds that the criteria for a 50 percent rating are met for the entire appeal period from August 29, 2023 (day after release from active duty).  Lynch v. McDonough, 21 F. 4th 776 (Fed. Cir. 2021); see also Ortiz v. Principi, 274 F. 3d 1361 (Fed. Cir. 2001).
+
+A rating in excess of 50 percent for obstructive sleep apnea
+
+The Board has also considered whether a rating in excess of 50 percent is warranted for the Veteran's OSA. However, for the reasons set forth below, the evidence is persuasively against the assignment of a higher rating.
+
+As noted above, during the November 2022 VA sleep apnea examination, the examiner determined that the Veteran required the use of a breathing assistance device/CPAP.  There was no indication that his sleep apnea was manifested by chronic respiratory failure with carbon dioxide retention or cor pulmonale, or that his condition required a tracheostomy.
+
+There is nothing in the record that persuades the Board that the overall severity of the Veteran's sleep apnea and asthma, when combined, warrants elevation to the next higher evaluation of 100 percent under DC 6847. No other argument in favor of elevation has been advanced, and the evidence does not otherwise reflect that the Veteran's overall impairment related to sleep apnea and asthma approaches the level of severity of manifestations otherwise ordinarily required for a 100 percent rating under DC 6847, so as to be functionally equivalent, or analogous, to symptoms such as chronic respiratory failure or a condition requiring tracheostomy.
+
+In light of the above, the Board finds that the evidence is persuasively against a finding that the Veteran's OSA warrants a rating in excess of 50 percent. For the entire period on appeal, his OSA has been manifested by the required use of an assistive breathing device, which warrants a 50 percent rating. At no time during the appeal period is it shown to have been manifested by chronic respiratory failure with carbon dioxide retention or cor pulmonale, nor has the condition required a tracheostomy. Accordingly, the assignment of the next highest, 100 percent, rating is not warranted.
+
+In reaching this conclusion, the Board has considered and applied the benefit-of-the-doubt rule.  "When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant." 38 U.S.C. § 5107(b).  "Evidence is not in 'approximate balance' or 'nearly equal,' and therefore the benefit-of-the-doubt rule does not apply, when the evidence persuasively favors one side or the other."  Lynch v. McDonough, 21 F. 4th 776 (Fed. Cir. 2021); see also Ortiz v. Principi, 274 F. 3d 1361 (Fed. Cir. 2001).  In this case, the evidence persuasively favors a finding that the Veteran's OSA has been manifested by the use a breathing assistance device; at no point during the appeal period has his OSA been shown to have been manifested by chronic respiratory failure with carbon dioxide retention or cor pulmonale, or required a tracheostomy.  Thus, the benefit-of-the-doubt rule does not change the outcome on this issue.
+
+Separate rating for obstructive sleep apnea
+
+The Board also considered whether the Veteran is entitled to a separate rating for his OSA, instead of the current rating for asthma and sleep apnea under DC 6847-6602.  The Board finds that that the Veteran is not entitled to a separate rating for OSA as a matter of law. The applicable regulation, outlined above, explicitly precludes it. 
+
+In reaching this conclusion, the Board has considered and applied the benefit-of-the-doubt rule.  "When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant." 38 U.S.C. § 5107(b).  "Evidence is not in 'approximate balance' or 'nearly equal,' and therefore the benefit-of-the-doubt rule does not apply, when the evidence persuasively favors one side or the other."  Lynch v. McDonough, 21 F. 4th 776 (Fed. Cir. 2021); see also Ortiz v. Principi, 274 F. 3d 1361 (Fed. Cir. 2001).  In this case, the evidence persuasively favors a finding that applicable regulation, outlined above, explicitly precludes a separate rating for OSA. Thus, the benefit-of-the-doubt rule does not change the outcome on this issue.
+
+ 
+
+ 
+
+RAY BARTO SLABBEKORN, JR.
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Koottappillil, Arun X.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

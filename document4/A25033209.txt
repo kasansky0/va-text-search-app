@@ -1,0 +1,75 @@
+Citation Nr: A25033209
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240104-407911
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to an effective date prior to April 16, 2023, for the award of Dependents' Educational Assistance under 38 U.S.C. § Chapter 35 (DEA) based on the application of 38 C.F.R. § 4.26(d) is denied.
+
+FINDING OF FACT
+
+Prior to April 16, 2023, the application of 38 C.F.R. § 4.26(d) is inappropriate; the effective date for the amendment is April 16, 2023, and it cannot be applied retroactively.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an effective date prior to April 16, 2023, for the award of DEA benefits based on the application of 38 C.F.R. § 4.26(d) have not been met.  38 C.F.R. §§ 4.25, 4.26.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active duty service in the United States Army from August 1996 to December 1996, August 1999 to August 2002, and October 2003 to June 2010.  This matter comes before the Board of Veterans' Appeals (Board) on appeal from a September 2023 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO), which is the Agency of Original Jurisdiction (AOJ).
+
+The rating decision on appeal was issued in September 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the January 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2023 AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+In December 2023, the Veteran's representative filed an informal Motion to Advance on the Docket (AOD) due to good cause, arguing that VA misused the bilateral factor and the Veteran "missed 10 years of compensation."  The Board finds this is not the kind of good cause contemplated by 38 C.F.R. § 20.902 and, as discussed below, VA granted the Veteran the earliest effective date possible under the law for his DEA benefits.  Thus, the undersigned Veterans Law Judge and the Board find that there is not good or sufficient cause to advance the case on the docket and the AOD motion is denied.  
+
+Entitlement to an effective date prior to April 16, 2023, for the award of DEA benefits.
+
+The Veteran contends that he is entitled to an effective date earlier than April 16, 2023, for the award of DEA benefits.
+
+By way of background, in the September 2023 administrative decision, the AOJ informed the Veteran a special review of his claims file was mandated because, on April 14, 2023, VA created an exception to 38 C.F.R. § 4.26(d) regarding when to apply the bilateral factor.  Because of the new regulation, the Veteran's combined disability rating increased from 90 percent to 100 percent, effective April 16, 2023, the effective date of the new regulation. 
+
+In the case of a veteran who is alive, the conditions for basic eligibility for DEA benefits include: (1) the veteran's discharge from service under conditions other than dishonorable and (2) the veteran has a permanent total service-connected disability.  38 C.F.R. § 3.807(a).  Thus, because of the exception created in 38 C.F.R. § 4.26(d), the Veteran has a total disability that was permanent in nature effective April 16, 2023, the effective date of the new regulation. 
+
+The Veteran argues that 38 C.F.R. § 4.26(d) should be applied retroactively and the Veteran should be considered permanently and disabled from November 2013.  The Veteran argues 38 C.F.R. § 4.26(d) was not a change in law, but a clarification of a current law, and the effective date for DEA benefits should be the date the benefit was granted in accordance with 38 C.F.R. § 3.103(a).
+
+VA uses the Combined Ratings Table set forth in 38 C.F.R. § 4.25 to determine the combined rating for a veteran's service-connected disabilities.  A combined rating results from the consideration of the efficiency of the individual as affected first by the most disabling condition, then by the less disabling condition, then by other less disabling conditions, if any, in the order of severity.  38 C.F.R. § 4.25.
+
+Combined disability ratings are calculated using VA's Combined Ratings Table, with consideration given to the bilateral factor, when applicable.  38 C.F.R. §§ 4.25, 4.26.
+
+To calculate the combined rating for a veteran's service-connected disabilities, the disabilities are first arranged in the exact order of their severity, beginning with the greatest disability.  Next, using the Combined Ratings Table, the degree of the first disability is read in the left column of the table and the degree of the second disability is read in the top row of the table, whichever is appropriate.  The figure that appears in the space where the column and row intersect represents the combined value of the two.  This process is then completed for each disability, in the order of severity until no other disability remains.  This total combined value is then converted to the nearest degree divisible by 10.  Combined values ending in 5 are adjusted upwards. 38 C.F.R. § 4.25.
+
+The provisions of 38 C.F.R. § 4.26 were amended by the Secretary of VA on April 16, 2023.  Prior to the amendment, that regulation directed that when a partial disability results from an injury to both arms or both legs, the ratings for the disabilities of the right and left sides are first combined as usual using the Combined Ratings Table.  After these ratings are combined, 10 percent of the resulting value is added (not combined) before proceeding with further combinations or converting to degree of disability.  The bilateral factor is applied to bilateral disabilities before other combinations are carried out and the rating for disabilities, including the bilateral factor, are treated as a single disability for arranging the order of severity of disabilities and undertaking all other further combinations.  38 C.F.R. § 4.26.
+
+On and after April 16, 2023, in cases where the combined rating is lower than what could be achieved by not including one or more bilateral disabilities in the bilateral factor calculation, those bilateral disabilities will be removed from the bilateral factor calculation and combined separately, to achieve the combined rating most favorable to the veteran.  38 C.F.R. § 4.26(d) (2023).
+
+The regulation was amended to provide an exception for the application of the bilateral factor where the combined evaluation is lower than what could be achieved when not including the bilateral disability in the bilateral factor calculation.  As a result, VA will adjust all the affected combined evaluations running on the effective date of amended 38 C.F.R. § 4.26 without requiring a claim from affected veterans or their authorized representatives.  88 Fed. Reg. 22914, 22917, Apr. 14, 2023.  The amendment above has established the April 16, 2023, effective date without a provision for retroactive application.
+
+Pursuant to 38 C.F.R. § 3.114(a), where benefits are awarded or increased pursuant to a liberalizing law, or a liberalizing VA issue approved by the Secretary or by the Secretary's direction, the effective date of such award or increase shall be fixed in accordance with the facts found, but shall not be earlier than the effective date of the act or administrative issue.  38 C.F.R. § 3.114(a)(1) further specifies that, if a claim is reviewed on the initiative of VA within 1 year from the effective date of the law or VA issue, or at the request of a claimant received within 1 year from that date, benefits may be authorized from the effective date of the law or VA issue.  Here, the provisions of 38 C.F.R. § 4.26 were amended by the Secretary of VA on April 16, 2023, and the claim was reviewed on the initiative of VA on September 28, 2023.  Thus, the earliest dates benefits may be authorized is April 16, 2023. 
+
+Therefore, prior to April 16, 2023, the Board may not apply the provisions of 38 C.F.R. § 4.26(d).  As such, the Veteran's appeal for an earlier effective date for DEA benefits must be denied as a matter of law.  See Sabonis v. Brown, 6 Vet. App. 426 (1994) (where the law and not the evidence is dispositive, the claim should be denied because of the absence of legal merit or the lack of entitlement under the law).
+
+The Board further notes that, to the extent the Veteran is now claiming that VA committed clear and unmistakable error (CUE) in any other prior final rating decision by miscalculating his combined disability rating, the Board notes that CUE claims and effective date claims involve wholly separate and distinct inquiries, standards, and proof of law and that a claim for CUE is not part of, and is not intertwined with, the current effective date issue on appeal.  See Jarrell v. Nicholson, 20 Vet. App. 326, 334 (2006).  A CUE claim and an earlier effective date claim are not inextricably intertwined because, while the effective-date element flows directly from the grant of an award, a CUE claim may be brought at any time and is premised upon an error in a prior final AOJ adjudication.  See Phillips v. Brown, 10 Vet. App. 25 (1997).  
+
+Here, the Board may not, as a matter of law, adjudicate a claim of CUE in a prior final rating decision since it has not been adjudicated by the AOJ in the first instance.  See Andre v. Principi, 301 F.3d 1354, 1361 (Fed. Cir. 2002).
+
+ 
+
+ 
+
+H.M. WALKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Feistritzer, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

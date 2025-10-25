@@ -1,0 +1,129 @@
+Citation Nr: A25032214
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 230330-336175
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+Entitlement to service connection for tinnitus is remanded.
+
+Entitlement to service connection for glycosuria is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from March 1970 to June 1970.  
+
+Applicable Evidentiary Windows
+
+The higher-level review rating decision on appeal was issued in February 2023; therefore, the modernized review system, known as the Appeals Modernization Act (AMA), applies.  In the March 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Under the Direct Review docket, the Board is authorized to review only the evidence considered by the Agency of Original Jurisdiction (AOJ) at the time of the October 2022 rating decision (which was the subject of the February 2023 higher-level review).  The Board may not consider evidence presented outside of the timeframes discussed above.  Evidence provided following the October 2022 rating decision has not been considered by the Board in its decision on the claims.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+However, because the Board is remanding this claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+As an introductory matter, the Board notes that the Veteran has not filed an appeal of the July 2022 rating decision which denied service connection for diabetes.  As such, the claim for diabetes is not before the Board and the claim of glycosuria will not be addressed on that basis.  However, should the Veteran wish for the claim of glycosuria to be considered in connection with his claim for diabetes, he may file a supplemental claim.  38 C.F.R. § 3.2501.
+
+1. Entitlement to service connection for bilateral hearing loss is remanded.
+
+2. Entitlement to service connection for tinnitus is remanded.
+
+The Veteran contends that his hearing loss and tinnitus are related to active duty service.  See May 2022 VA Form 21-526EZ.
+
+The October 2022 and February 2023 rating decisions included favorable findings that the Veteran has a current disability of hearing loss and tinnitus and conceded noise exposure from in-service military occupational specialty training.  The Board is bound by these favorable findings.  38 C.F.R. § 3.104.  As such, the questions before the Board are whether there is a "nexus" between the Veteran's current bilateral hearing loss and tinnitus disabilities and military service.
+
+The Veteran was provided a VA hearing loss examination and medical opinion in June 2022.  The examiner opined that it is less likely than not that the Veteran's bilateral hearing loss is related to service.  As rationale, the examiner noted "no significant permanent shift in hearing thresholds beyond test variability from entrance to separation, which is objective evidence of no permanent auditory damage on active duty from conceded noise."  The examiner noted no report of hearing decrease in either STRs or at separation.  The examiner noted that there must be a nexus of auditory damage to relate current hearing loss to military noise and not another etiology.  The examiner opined that there is no nexus in this case.
+
+Regarding tinnitus, the June 2022 examiner provided a diagnosis of tinnitus.  The examiner indicated that the Veteran's clinical diagnosis of tinnitus is at least as likely as not a known symptom associated with hearing loss.  However, the examiner opined that it is less likely than not that the Veteran's tinnitus is related to service.  As rationale, the examiner indicated onset approximately 43 years post-separation with no report of tinnitus in the service treatment records.  Further, the examiner noted that the current medical literature does not support late onset noise-induced tinnitus.
+
+The Board finds these June 2022 hearing loss and tinnitus medical opinions inadequate for several reasons.  First, the October 2022 and February 2023 rating decisions conceded a qualifying in-service event and conceded hazardous noise exposure.  The examiner appears to have based the medical opinions on no report of hearing decrease within the STR.   As such, the examiner's determination of no in-service event is an inaccurate factual premise.  See Swann v. Brown, 5 Vet. App. 229, 233 (1993) (Board may properly reject medical opinion where it is based on facts contradicted by the record); Reonal v. Brown, 5 Vet. App. 458, 460-61 (1993) (medical opinion based on inaccurate factual premise may properly be rejected as non-probative).  
+
+Second, the examiner appears to impermissibly rely on the lack of in-service treatment records to justify the provided medical opinion and did not take the Veteran's lay testimony into account when providing the medical opinion.  Dalton v. Nicholson, 21 Vet. App. 23 (2007) (an examination was inadequate where the examiner did not comment on a Veteran's reports of in-service injury and instead relied on the absence of evidence in a Veteran's service treatment records to provide a negative opinion).  If the examiner is to discount a Veteran's lay statements, the examiner must provide a full medical reason for doing so.  Bailey v. O'Rourke, 30 Vet. App. 54, 60 (2018) (a medical examiner must provide a rationale that relates to a Veteran's "particular medical condition and circumstances").  
+
+Third, the examiner impermissibly substitutes continuity of treatment with continuity of symptomology in that the examiner presumes that the onset of tinnitus was 43 years after service because that is when it was first reported to medical providers.  Savage v. Gober, 10 Vet. App. 488, 496 (1997) ("symptoms, not treatment, are the essence of any evidence of continuity of symptomatology").  Finally, the examiner's determination that both the hearing loss and tinnitus are not related to service are conclusory.  The examiner does not provide any citation to what medical literature was reviewed that resulted in the examiner's medical opinion.  Further, the examiner does not indicate what a "significant permanent shift" or "beyond test variability" means in the context of this Veteran's claim.  Bailey v. O'Rourke, 30 Vet. App. 54, 60 (2018) (an examiner cannot simply make a generic statement that medical literature doesn't show an association between two conditions); Horn v. Shinseki, 25 Vet. App. 231, 239 (2012) (stating that under caselaw "an unexplained conclusory opinion is entitled to no weight in a service-connection context"); Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007) (the Board may reject a medical opinion that is conclusory and lacks supporting analysis).
+
+Based on the above, the Board finds the June 2022 VA examination for hearing loss and tinnitus inadequate.  There are no other VA or private examinations of hearing loss or tinnitus of record.
+
+While the Board regrets the additional delay this remand brings, there is no adequate medical opinion of record and the AOJ's reliance on an inadequate medical opinion is a pre-decisional duty to assist error.  38 U.S.C. § 5103A; 38 C.F.R. § 20.802.  The Board finds this claim must be remanded to correct the pre-decisional duty to assist error and to obtain an adequate VA examination and medical opinion for both hearing loss and tinnitus.
+
+In providing this remand, the Board makes no determination, express or implied, regarding the credibility of any statements within the record.  Smith v. Wilkie, 32 Vet. App. 332 (2020).
+
+Finally, based on the June 2022 tinnitus examination, the Board finds that the claim for tinnitus is inextricably intertwined with the Veteran's claim for service connection for bilateral hearing loss as the examiner noted that the Veteran's tinnitus is a symptom of the Veteran's bilateral hearing loss.  See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991) (holding that where a claim is inextricably intertwined with another claim, the claims must be adjudicated together in order to enter a final decision on the matter).  Therefore, the condition of tinnitus is not ripe for adjudication at this time and is remanded pending the outcome of the service connection claim for the Veteran's bilateral hearing loss condition.
+
+3. Entitlement to service connection for glycosuria is remanded.
+
+The Veteran contends that his glycosuria is due to his service.  See May 2022 VA Form 21-526EZ.
+
+Establishing direct service connection generally requires competent evidence showing: (1) the existence of a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  38 U.S.C. §§ 1110, 1131; Shedden v. Principi, 381, F.3d 1163, 1167 (Fed. Cir. 2004).  Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+The October 2022 rating decision denied this claim on the basis that glycosuria is a laboratory finding and not a disability.  However, there is no cited medical basis within the rating decision to justify that glycosuria is merely a laboratory finding and not an actual diagnosis.  The Veteran's service record notes that the Veteran was placed on a medical board and discharged from service due to a diagnosis of "persistent glycosuria, apparently related to low renal threshold."  See October 2021 Military Personnel Record.
+
+To date, the Veteran has not been provided a VA examination as it relates to the Veteran's kidneys.  The October 2022 rating decision does not list a VA kidney examination as evidence the AOJ relied on in denying the claim.  No nexus opinion has been provided from the Veteran's private treating providers, if any.
+
+Under McLendon v. Nicholson, 20 Vet. App. 79 (2006), VA must provide a medical examination when there is (1) competent evidence of a current disability or persistent or recurrent symptoms of a disability, (2) evidence establishing that an event, injury, or disease occurred in service, or establishing certain diseases manifesting during an applicable presumptive period for which the claimant qualifies, and (3) an indication that the disability or persistent or recurrent symptoms of a disability may be associated with the veteran's service or with another service-connected disability, but (4) there is insufficient competent medical evidence on file for the Secretary to make a decision on the claim.  See also 38 U.S.C. § 5103A, 38 C.F.R. § 3.159.  These elements are conjunctive as set forth and, as such, all must be satisfied.
+
+The Board finds that the McLendon elements above have been met.  The McLendon elements represent a low threshold that requires that evidence "indicates" that there "may" be a causal nexus between the disability or persistent symptoms of a disability and military service.  McLendon, 20 Vet. App. at 83.  The Veteran has asserted that his glycosuria condition is ongoing and may be associated with or aggravated by his service.  The Veteran's service treatment records note a diagnosis of glycosuria potentially due to a kidney condition during service which was sufficient enough to justify a medical board and ultimate discharge from service due to such condition.  See October 2021 Military Personnel Record.  Finally, there is insufficient clinical information in the record for the Board to make a decision on the claim.
+
+Additionally, the United States Court of Appeals for Veterans Claims (Court) has held that a claim must be construed based on the reasonable expectations of the non-expert, self-represented claimant and the evidence developed in processing that claim.  Clemons v. Shinseki, 23 Vet. App. 1, 4-5 (2009).  Further, the Board has an obligation to liberally construe or sympathetically read a Veteran's claim.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Mansfield, 21 Vet. App. 545, 555 (2008), aff'd sub nom. Robinson v. Shinseki, 557 F.3d 1355 (Fed. Cir. 2009).  Here, the Veteran has clearly associated his glycosuria with his discharge and his service treatment records indicate that such condition may be associated with a kidney condition.  Additionally, the service treatment records indicate that this was a diagnosis at the time of the Veteran's discharge.  See May 2022 VA Form 20-0996; see also March 2023 VA Form 10182.
+
+As the Board has found the McLendon elements met and based on the requirement to liberally construe the Veteran's claim, the AOJ committed a pre-decisional duty to assist error in not providing the Veteran with a VA kidney examination and medical opinion for the claimed glycosuria conditions.  The Board must remand this matter for such examinations and medical opinions to be provided.  McLendon v. Nicholson, 20 Vet. App. 79 (2006); see also 38 C.F.R. § 20.802.
+
+In providing this remand, the Board makes no determination, express or implied, regarding the credibility of any statements within the record.  Smith v. Wilkie, 32 Vet. App. 332 (2020).
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for an in-person medical opinion with a new clinician regarding the nature and etiology of the Veteran's hearing loss and tinnitus.  The entire claims file must be made available to the clinician and have been reviewed by the clinician in conjunction with this request.
+
+For the purpose of providing the opinion requested, please acknowledge, and discuss:
+
+(a.) Review both the STRs and Military Personnel File for medical reports during service.  A notation indicating that all STRs and Military Personnel Records have been reviewed should be included with the medical opinion.
+
+(b.) Whether it is at least as likely as not (meaning approximate balance or is nearly equal) that the Veteran's conceded hearing loss is related to the conceded hazardous noise exposure during the Veteran's service.
+
+(c.) Whether it is at least as likely as not (meaning approximate balance or is nearly equal) that the Veteran's tinnitus is related to the conceded hazardous noise exposure during the Veteran's service.
+
+(d.) Whether there has been continuous symptomology of hearing loss since the Veteran's service.
+
+(e.) Whether there has been continuous symptomology of tinnitus since the Veteran's service.
+
+The examiner is advised that the Veteran is competent to report symptoms and injuries, as well as diagnoses provided to him by physicians, and that her reports (lay observations) must be considered in formulating the requested opinion.
+
+If the Veteran's statements are discounted, the examiner should provide a full, medically explained reason for doing so.  The Veteran's statements or lay statements may not be discounted solely on the basis of the lack of confirmation in the medical or service records.
+
+The examiner may not mistakenly rely on an absence of medical evidence in the record to support his or her conclusions.
+
+A complete and fully explanatory rationale must be provided for any and all opinions expressed.  If the examiner finds that the requested opinion cannot be rendered without resorting to speculation, he or she should so state, and should indicate whether the need to speculate is caused by a deficiency in the state of general medical knowledge (i.e., no one could respond given the state of medical science and the known facts) or by a deficiency in the record (i.e., additional facts are required), or that the examiner does not have the necessary knowledge or training.
+
+When responding, regardless of whether favorably or unfavorably, it is essential the examiner provide rationale preferably citing to evidence in the file and/or accepted medical authority in order to support the conclusions asserted.  An unsupported medical opinion will carry negligible probative weight.
+
+2. Schedule the Veteran for an in-person examination and medical opinion regarding the nature and etiology of the Veteran's glycosuria condition.  The entire claims file, including this remand, must be made available to the clinician and have been reviewed by the clinician in conjunction with this request.
+
+For the purpose of providing the opinion requested, please acknowledge, and discuss whether it is at least as likely as not (meaning approximate balance or is nearly equal) that the glycosuria condition as related to the Veteran's low renal threshold was either incurred in or aggravated during the Veteran's service.
+
+The term "aggravation" means any incremental increase in disability or any additional impairment of earning capacity of a disability, regardless of permanence, at any time during the period on appeal.  If aggravation is found, please identify, to the extent possible, the baseline level of disability prior to the aggravation.
+
+The examiner is advised that the Veteran is competent to report symptoms and injuries, as well as diagnoses provided to him by physicians, and that her reports (lay observations) must be considered in formulating the requested opinion.
+
+If the Veteran's statements are discounted, the examiner should provide a full, medically explained reason for doing so.  The Veteran's statements or lay statements may not be discounted solely on the basis of the lack of confirmation in the medical or service records.
+
+The examiner may not mistakenly rely on an absence of medical evidence in the record to support his or her conclusions.
+
+A complete and fully explanatory rationale must be provided for any and all opinions expressed.  If the examiner finds that the requested opinion cannot be rendered without resorting to speculation, he or she should so state, and should indicate whether the need to speculate is caused by a deficiency in the state of general medical knowledge (i.e., no one could respond given the state of medical science and the known facts) or by a deficiency in the record (i.e., additional facts are required), or that the examiner does not have the necessary knowledge or training.
+
+When responding, regardless of whether favorably or unfavorably, it is essential the examiner provide rationale preferably citing to evidence in the file and/or accepted medical authority in order to support the conclusions asserted.  An unsupported medical opinion will carry negligible probative weight.
+
+ 
+
+ 
+
+Colleen M. Glaser-Allen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Daniel Stephens, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided.  This decision is not precedential and does not establish VA policies or interpretations of general applicability.  38 C.F.R. § 20.1303.

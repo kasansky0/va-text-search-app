@@ -1,0 +1,73 @@
+Citation Nr: A25031778
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240711-455586
+DATE: April 7, 2025
+
+ORDER
+
+An effective date earlier than November 18, 2022, for the grant of service connection for coronary artery disease (CAD) is denied.
+
+An effective date earlier than November 18, 2022, for the grant of service connection for an aortic aneurysm is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's January 2023 claim for service connection for CAD was preceded by an intent-to-file received on November 18, 2022.
+
+2. The Veteran did not perfect an appeal of a December 2008 rating decision which denied service connection for an aortic aneurysm, and his January 2023 claim for service connection for an aortic aneurysm was preceded by an intent-to-file received on November 18, 2022.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for an effective date earlier than November 18, 2022, for the award of service connection for CAD have not been met.  38 U.S.C. §§ 5101, 5110; 38 C.F.R. §§ 3.114, 3.400, 3.816.
+
+2. The criteria for an effective date earlier than November 18, 2022, for the award of service connection for an aortic aneurysm have not been met.  38 U.S.C. §§ 5101, 5110; 38 C.F.R. §§ 3.114, 3.400, 3.816.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service in the U.S. Army from November 1966 to November 1969.  He died in May 2024.  The appellant is his surviving spouse and has been substituted in his place for the purposes of this appeal.
+
+The rating decisions on appeal was issued in July 2023 (granting service connection for CAD) and March 2024 (granting service connection for aortic aneurysm) and constitute initial decisions; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In her July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the July 2023 and March 2024 agency of original jurisdiction (AOJ) decisions on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the appellant would like VA to consider any evidence that was submitted that the Board could not consider, she may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Effective Date
+
+The assignment of effective dates of awards is generally governed by 38 U.S.C. § 5110 and 38 C.F.R. § 3.400.  Typically, the effective date of an evaluation and award of pension, compensation or dependency and indemnity compensation based on an original claim, a claim for increase, or a claim reopened after final disallowance, will be the date of receipt of the claim.  38 U.S.C. § 5110.
+
+VA regulations do allow claimants to submit an "intent to file."  This provides claimants with an opportunity to establish an effective date before their completed claims are submitted, provided that the completed claim is received within one year of the "intent to file."  38 C.F.R. § 3.155(b).
+
+As to effective dates, in cases involving presumptive service connection due to herbicide exposure, VA has promulgated special rules for the effective dates for the award of presumptive service connection based on exposure to herbicides, pursuant to Nehmer v. United States Veterans Administration, 712 F. Supp. 1404 (N.D. Cal. 1989).  A Nehmer class member is defined as a Vietnam Veteran who has a covered herbicide disease.  38 C.F.R. § 3.816.  According to 38 C.F.R. § 3.816(b)(2), a covered herbicide disease includes a disease for which the Secretary of VA has established a presumption of service connection pursuant to the Agent Orange Act of 1991.
+
+Pursuant to 38 C.F.R. § 3.816(c)(2), certain effective dates apply if a claim for benefits for a covered herbicide disease was either pending before VA on May 3, 1989, or received by VA between May 3, 1989, and the effective date of the applicable liberalizing law.  Here, ischemic heart disease was added to the list of diseases presumed to be caused by exposure to herbicide agents under § 3.309(e) effective August 31, 2010.  Therefore, the date of the liberalizing law in this case is August 31, 2010.  Under 38 C.F.R. § 3.816(c)(2), the effective date will be the later of the date the claim was received by VA or the date the disability arose except as otherwise provided in 38 C.F.R. § 3.816(c)(3).  Id.
+
+However, if the requirements of 38 C.F.R. § 3.816 are not met, the effective date shall be assigned according to 38 C.F.R. §§ 3.114 and 3.400.  38 C.F.R. § 3.816(c)(4).
+
+CAD
+
+The Veteran submitted an "intent to file" on November 18, 2022.  A formal claim for service connection for a heart disability was received shortly thereafter.  The July 2023 rating decision granted service connection effective from November 18, 2022.  A review of the claims file does not show any prior or pending claim for service connection for coronary artery disease, and neither the appellant nor her representative have identified any basis for assigning an earlier effective date.
+
+The Board has considered the provisions of Nehmer and 38 C.F.R. § 3.816.  However, the Veteran did not have a pending claim for coronary artery disease prior to August 31, 2010, when the liberalizing law adding ischemic heart disease to the herbicide agent presumptive list became effective.
+
+Aortic aneurysm
+
+The Veteran submitted an "intent to file" on November 18, 2022.  A formal claim for service connection for a heart disability was received shortly thereafter.  The March 2024 rating decision granted service connection effective from November 18, 2022.
+
+The Veteran was previously denied service connection for an aortic aneurysm in a December 2008 rating decision.  He filed a notice of disagreement and received a statement of the case in August 2009.  He did not submit a substantive appeal in response, and therefore the denial became final.  As noted above, the effective date of a claim reopened after final disallowance will typically be the date of receipt of the claim to reopen, which is November 18, 2022.
+
+The Board has again considered the of Nehmer and 38 C.F.R. § 3.816.  However, an aortic aneurysm does not fall within the scope of the "ischemic heart disease" added to the list of conditions presumptively associated with herbicide agent exposure.  A February 2023 VA opinion stated that the condition was not associated with the Veteran's history of toxic exposures.  Instead, a February 2024 VA opinion established that the Veteran's aortic aneurysm was secondary to his service-connected CAD.  Because the aortic aneurysm has not been identified as a form of ischemic heart disease, an earlier effective date under 38 C.F.R. § 3.816 is not warranted.
+
+ 
+
+ 
+
+JOHN Z. JONES
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Patel, Shamil
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

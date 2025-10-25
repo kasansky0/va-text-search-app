@@ -1,0 +1,53 @@
+Citation Nr: A25033200
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 241004-483324
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to an effective date earlier than August 10, 2022 for the Veteran's award of service-connected compensation for prostate cancer is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from March 1972 to July 1976.  This case comes to the Board from a December 2023 decision of the Agency of Original Jurisdiction (AOJ), increasing the disability rating assigned for service-connected prostate cancer from zero percent to 60 percent and moving the effective date of the Veteran's award of service-connected compensation for prostate cancer from April 28, 2023 to August 10, 2022.  The AOJ also assigned August 10, 2022 as the effective date of the increased 60 percent rating.  Because the AOJ issued the decision after February 19, 2019, the Appeals Modernization Act (AMA) applies to this case.  See 38 C.F.R. §§ 19.2, 20.4.
+
+In his VA Form 10182 ("Notice of Disagreement" or "NOD") the Veteran selected the option of direct review without the submission of additional evidence and without a hearing.  This means that the Board's review is limited to the evidence in the claims file at the time of the December 2023 decision.  See 38 C.F.R. § 20.301.
+
+The description of the issue in the Veteran's NOD might leave a reader uncertain as to whether he intended to appeal the effective date of his prostate cancer benefits, the disability rating, or both.  But in November 2024, he wrote a letter to the Board clarifying, "I fully agree with my current disability rating.  The only issue I have is the compensation award date for my prostate cancer."  
+
+In support of his appeal, the Veteran correctly notes that he was diagnosed with prostate cancer before August 10, 2022.  In a favorable finding, issued in September 2022, the AOJ acknowledged that the Veteran was diagnosed with prostate cancer on October 29, 2021.  
+
+The disputed effective date in this case, August 10, 2022, is the date of enactment of the Sergeant First Class Heath Robinson Honoring Our Promise to Address Comprehensive Toxins Act of 2022 ("PACT Act").  The PACT Act amended several toxic exposure presumptions.  One of these amendments extended the presumption of exposure to herbicide agents to persons, like the Veteran in this case, who performed service in Guam between January 1962 and July 1980.  See 38 U.S.C. § 1116(d)(5).  Because prostate cancer is one of the diseases presumptively related to herbicide exposure pursuant to 38 C.F.R. § 3.309(e), the AOJ applied the PACT Act when granting service connection for prostate cancer.  
+
+In general, the effective date of benefits granted by applying the PACT Act's toxic exposure presumptions can be no earlier than August 10, 2022. See Pub. L. No 117-168, § 403(e) (2022).  There is an exception to this rule for previously denied claims for Dependency and Indemnity Compensation (DIC). See 38 U.S.C. § 1305(a)(3).  But this appeal does not include a claim for DIC benefits.   
+
+For this reason, the Veteran's request for an earlier effective date depends on whether he is entitled to service connection for prostate cancer based on a provision of law other than the PACT Act.  Even when a presumption of service-connection does not apply to a claimed respiratory disability, a claimant is not precluded from establishing service connection directly.  See 38 U.S.C. § 1113(b) (the availability of service connection on a presumptive basis does not preclude consideration of service connection on a direct basis); Polovick v. Shinseki, 23 Vet. App. 48, 52-53 (2009) ("Even though a disease is not included on the list of presumptive diseases, a nexus between the disease and service may nevertheless be established on the basis of direct service connection.")
+
+In addition to herbicide exposure, theories that exposure to another potentially hazardous substances were raised by the Veteran or have been raised by the record.  In October 2021, the Veteran wrote a statement attributing prostate cancer to "my duties as a firefighter . . . and being exposed to firefighting chemicals."  Service personnel records confirm the Veteran's occupational exposure to ionizing radiation.  According to an October 2023 memorandum prepared by the AOJ, because of the Veteran's occupation specialty of pressure hull welder, it was "highly probable" that he was exposed to asbestos in service.  
+
+It seems the AOJ appropriately developed the theory that exposure to ionizing radiation may have caused the Veteran's prostate cancer by following the procedures in 38 C.F.R. § 3.311 and obtaining an advisory opinion on the issue from the Director of the Compensation Service.  But in August 2023, the AOJ obtained an opinion from a physician assistant for the purpose of addressing whether the Veteran's prostate cancer was related to several potentially relevant toxic exposures.  Unfortunately, the opinion does not address asbestos or firefighting chemicals.  The AOJ apparently found that it was unnecessary to repair the weaknesses in this opinion because the PACT Act applied, permitting a favorable resolution of the service connection claim.  But in the recent case of Johnson v. Collins, No. 23-7589, 2025 U.S. App. Vet. Claims LEXIS 383 (March 26, 2025), the Court held that the Board erred in dismissing a legacy appeal after an AOJ decision granted the pending claim based on the PACT Act.  Id. at *18-19.
+
+Because the inadequate August 2023 opinion was part of the claims file before the AOJ issued the disputed effective date ruling in December 2023, the AOJ committed a pre-decisional duty to assist error.  The Board must remand the claim for an earlier effective date for the award of service connection for prostate cancer so the AOJ can obtain an adequate opinion addressing the theory that a relationship exists between prostate cancer and the Veteran's in-service exposure to asbestos and/or firefighting chemicals.  38 C.F.R. § 20.802(a).
+
+The matter is REMANDED for the following action:
+
+1. Send the claims file to a qualified person for the purpose of preparing an opinion concerning the etiology of the Veteran's prostate cancer.  If the examiner believes that he or she cannot provide the requested opinion without first conducting an in-person examination, the AOJ should arrange an in-person examination.  Otherwise, the examiner may prepare the requested opinion based on the information in the claims file.  After completing the records review and, if necessary, the in-person examination, the examiner should respond to the following:
+
+Address the likelihood that there was a nexus between the Veteran's post-service prostate cancer and his exposure to hazardous materials other than herbicides and radiation - that is, his exposure to asbestos and particulate matter during his work as a pressure hull welder and his exposure to firefighting chemicals, as described in the Veteran's September 2021 written statement.  After reviewing the electronic claims file, including all relevant medical records, the examiner must opine as to whether it is at least as likely as not (a likelihood that is approximately evenly balanced or nearly equal, if not higher) that the Veteran's prostate cancer is related to his exposure to asbestos, particulate matter, and/or firefighting chemicals during his naval service.  When preparing this opinion, the examiner must consider both the total potential exposure to asbestos, particulate matter, and firefighting chemicals throughout the relevant deployments and the synergistic, combined effect of all toxic risk exposure activities of the Veteran.  The examiner is advised that, according to an AOJ memorandum prepared in October 2023, it is "highly probable" that the Veteran was exposed to asbestos as a pressure hull welder.  
+
+2. The AOJ must ensure that the requested opinion complies with these instructions.  If any report is deficient in any way, the AOJ should implement corrective measures.
+
+ 
+
+ 
+
+DAVID L. WIGHT
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Nye, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

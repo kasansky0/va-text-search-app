@@ -1,0 +1,69 @@
+Citation Nr: A25031315
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240821-465696
+DATE: April 4, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea (OSA) is granted.
+
+FINDING OF FACT
+
+The probative evidence of record establishes a nexus between the Veteran's OSA and a service-connected lumbar condition.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA, as secondary to a service-connected disability, have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active military service from February 1993 to December 1995.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board of Veterans' Appeals (Board) may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service connection for obstructive sleep apnea.
+
+Service connection requires competent evidence showing: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004). Service connection may also be established on a secondary basis for a disability which is proximately due to or the result of service-connected disease or injury. 38 C.F.R. § 3.310 (a). Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) proximately caused by or (b) proximately aggravated by a service-connected disability. Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+VA's Office of the General Counsel determined that obesity is neither a disease for purposes of entitlement to service connection under 38 U.S.C. §§ 1110 and 1131 nor an "in-service event" for which a service-connected disability may result. VAOPGCPREC 1-2017. However, the General Counsel did explain that obesity could qualify as an "intermediate step" between a service-connected disability and a current disability. The Board is bound by the General Counsel's opinion as Chief Legal Officer of the Department. 38 U.S.C. § 7104 (c); 38 C.F.R. § 19.5.
+
+The Veteran asserts that his OSA is secondary (caused or aggravated) by a service-connected disability. He has not contended, and the record does not raise the theory that his OSA is directly related to service. See Doucette v. Shulkin, 28 Vet. App. 366, 371 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record). Thus, the Board will limit its discussion to the theory of contention that the Veteran's OSA is caused or aggravated by a service-connected disability.
+
+A review of the Veteran's service treatment records (STRs) does not show any diagnosis of OSA; however, he did report frequent trouble sleeping in May 1994. 
+
+VA treatment records show the Veteran completed an at-home sleep test in March 2023, which revealed severe sleep apnea.
+
+An April 2023 statement from the Veteran contended that his lumbar spine injury with mechanical low back pain prevents him from exercising, and the pain from that condition makes it difficult to fall and stay asleep. His sleep apnea causes pauses in breathing while sleeping, snoring, trouble sleeping with frequent awakening, headaches upon awakening, daytime fatigue, poor concentration, and difficulty completing tasks. He uses a CPAP machine nightly. He explained that he weighed 140 pounds when he entered service, 155 pounds when he separated from service, and currently weighed 205 pounds, which he contended was due to his inability to exercise.
+
+In an April 2023 private medical opinion, the Veteran's provider opined that based on available medical evidence, the Veteran's weight gain and obesity was due to an related to his service-connected lumbar spine injury with mechanical low back pain. Further, the opinion stated that it is at least as likely as not that the Veteran's OSA is secondary to or aggravated by the weight gain and obesity. Finally, the opinion concluded that it is at least as likely as not that without the Veteran's weight gain and obesity related to his service-connected lumbar spine condition, his OSA would not have occurred. 
+
+In support of the opinions and conclusions in the April 2023 private opinion, the Veteran's provider explained the Veteran's progressive weight gain since the development of his musculoskeletal symptomatology, and cited multiple articles and studies linking weight gain to both sleep disturbance (one of the Veteran's symptoms developed from his lumbar condition), and musculoskeletal conditions in general. Further, the opinion cited links between obesity and the development of obstructive sleep apnea.
+
+A May 2023 VA medical examination report based on a review of available medical records confirmed the Veteran's diagnosis of OSA established in an April 2023 sleep study and his requirement to use a CPAP machine. In the accompanying medical opinion, the examiner opined that the Veteran's OSA was less likely as not related to and/or aggravated by his service-connected lumbar condition. The examiner's rationale was that this type of causativeness cannot be explained with any known neuroanatomic principles and with the available objective evidence. OSA is caused by a mechanical obstruction in the upper airways and is not the result of a lumbar spine condition. The most common cause and risk factor of sleep apnea in adults is weight and obesity.
+
+In an additional VA medical opinion, obtained in part to reconcile the prior conflicting opinions, the examiner opined that the Veteran's OSA was less likely than not aggravated by his service-connected low back condition. In providing rationale for the negative conclusion, the examiner explained that weight gain is related to eating too many calories and is not the result of a lack of additional exercise. To support this conclusion, the examiner provided statistics including data studies from the general population the United States, and included the general statement that obesity is common and prevalent in the United States. The opinion ultimately suggested that when the Veteran's exercise was restricted due to his service-connected lumbar disability, he should have been consuming fewer calories to avoid the mismatch between calories consumed and calories burned to avoid obesity, but that his lumbar disability did not cause his obesity.
+
+While the VA opinion provided literature and studies to support the opinion that the Veteran's weight gain was unrelated to his lumbar condition, the statistics provided were only for the general public, and did not provide insight into behavior or weights of generally healthy and active people who experience musculoskeletal injury. Further, the statement in the opinion acknowledging that the Veteran's lumbar injury caused a significant drop in calorie expenditure informs the impact that the Veteran's lumbar condition has had on his weight gain. Here, the Board finds that the VA examiner's opinion is less persuasive than the private opinion. 
+
+Here, if the VA medical opinions addressing two separate theories of entitlement are taken together, there are essentially two complete and competent medical opinions of record, one negative and one positive. However, the Board affords more probative weight to the private provider's opinion. Not only did that opinion consider the Veteran's credible lay statements, but it also provided a robust rationale including 19 pages of well-reasoned support and cited to numerous articles and studies concerning how a physically fit member of the military experienced an injury that impacted his sleep patterns and movement, and therefore his weight and OSA. Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008). The opinion is also consistent with VA guidance on the matter. VAOPGCPREC 1-2017. Based on the foregoing, the Board affords the private medical opinion great probative weight.
+
+The Veteran has a current diagnosis of OSA, and the competent and credible medical evidence of record has established that the OSA was proximately caused by a service-connected disability, with obesity as an intermediate step. Accordingly, service connection for OSA on a secondary basis is warranted. To that extent only, the appeal is granted.
+
+ 
+
+ 
+
+J. Kirby
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Lee, Miranda
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,79 @@
+Citation Nr: A25033933
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240523-447879
+DATE: April 11, 2025
+
+REMANDED
+
+The propriety of the discontinuation of Veterans Affairs compensation benefits, from May 6, 2021, to September 27, 2021, based on a finding of fugitive felon status is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the U.S. Army from June 2007 to October 2016. 
+
+In March 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a March 2022 decision. In June 2023, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior March 2022 decision. 
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket and appealed the June 2023 rating decision. Therefore, the Board may only consider the evidence of record at the time of the March 2022 decision. 38 C.F.R. § 20.301. 
+
+Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The propriety of the discontinuation of Veterans Affairs compensation benefits, from May 6, 2021, to September 27, 2021, based on a finding of fugitive felon status is remanded.
+
+The Veteran contends that the termination of his VA benefits was improper as he was no longer in violation of probation effective July 24, 2021. See VA Form 10182, received May 2024.   
+
+By way of history, the AOJ notified the Veteran in December 2021 that it had received information that he was the subject of a felony arrest warrant and proposed to stop benefits based on the information received that he may be a fugitive felon. The letter informed the Veteran that this adjustment may result in an overpayment, that he had 60 days to respond and provide evidence that he was not a fugitive felon and provided him the contact information of the issuing warrant agency. The warrant offense code provided in the letter was "5012-PROB VIOLATION - SEE MIS," however, it is unclear if this is a National Crime Information Center (NCIC) code. A March 2022 VA administrative decision terminated the Veteran's benefits, from May 6, 2021, to September 27, 2021. 
+
+The law prohibits the payment of compensation benefits for any period during which a veteran was a fugitive felon. 38 U.S.C. § 5313B; 38 C.F.R. § 3.665 (n).
+
+The term "fugitive felon" means a person who is a fugitive by reason of: (i) fleeing to avoid prosecution, or custody or confinement after conviction, for an offense, or an attempt to commit an offense, which is a felony under the laws of the place from which the person flees; or (ii) violating a condition of probation or parole imposed for commission of a felony under Federal or State law. 38 C.F.R. § 3.666 (e)(2). The term "felony" includes a high misdemeanor under the laws of a state which characterizes as high misdemeanor offenses that would be felony offenses under Federal law. 38 C.F.R. § 3.666 (e)(3).
+
+The statute barring Veterans from receiving VA benefits while they are "fugitive felons" does not require an adjudication of guilt or knowledge of the outstanding arrest warrant. Mountford v. Shinseki, 24 Vet. App. 443 (2011).
+
+In June 2014, the Undersecretary for Benefits of the Veterans Benefits Administration (VBA) issued new fugitive felon policy and procedures. VBA Letter 20-14-09 (June 23, 2014). VBA Letter 20-14-09 indicated that VBA previously presumed that a beneficiary was a fugitive felon if he or she was the subject of any felony arrest warrant. The letter stated that, effective immediately, VBA no longer presumes that any valid outstanding felony arrest warrant establishes a beneficiary's fugitive felon status under 38 U.S.C. § 5313B. The letter further stated that VBA will request information only for beneficiaries who have a felony arrest warrant with an NCIC offense code indicating flight or a probation or parole violation. These codes are:
+
+4901-Escape
+
+4902 -Flight to avoid prosecution
+
+4999-Flight-escape
+
+5011-Parole violation
+
+5012-Probation violation
+
+8101-Juvenile offender abscond while on parole
+
+8102 -Juvenile offender abscond while on probation
+
+Thus, VA will discontinue benefits based on fugitive felon status only if: a judge issued a felony arrest warrant with a NCIC offense code indicating flight or a probation or parole violation; VA provided the beneficiary notice regarding the reason for the warrant and an opportunity to present evidence, such as an acknowledgment of the validity of the warrant or failure to respond to the due process notification, or that he or she did not flee from justice or did not violate any condition of probation or parole; and VA determines, based upon the warrant and evidence submitted by the beneficiary (if any), that the beneficiary was fleeing from justice or violated a condition of probation or parole. Benefits will be terminated for Veterans while they are fugitive felons, and for dependents of Veterans while the Veteran is a fugitive felon.
+
+The Board observes that an FFP-3 VA Investigative Summary Form by Office of the Inspector General (OIG) identified that Veteran as having an active arrest warrant; however, this report did not include the NCIC code but rather an NCIC case number. See Bureau of Prisons/Fugitive Felon Information, received December 2021. Furthermore, the claims file does not contain a copy of the underlying warrant forming the basis of the FFP-3 VA Investigative Summary by OIG. The offense listed is noted to be "PROB VIOLATION - SEE MIS," but there is no accompanying NCIC code. 
+
+Thus, it is unclear based on what specific evidence the AOJ determined that the Veteran was a fugitive felon for VA purposes without the arrest warrant or an official document containing the NCIC code. The AOJ's legally inadequate notice to the Veteran warrants a remand. Although the Veteran contends he is not a fugitive felon, effective July 24, 2021, he also has not submitted documentation containing an NCIC code. The evidence of record does not otherwise address whether the Veteran was considered to be fleeing from justice or in violation of probation or parole previously imposed for the commission of a felony offense.
+
+Under the Appeals Modernization Act, a remand is only appropriate where the AOJ has committed a pre-decisional duty to assist error. 38 C.F.R. § 3.151 (d). The Board finds that the AOJ's failure to obtain documents regarding the Veteran's arrest warrant prior to implementing the termination of VA compensation benefits is a pre-decisional error in the duty to assist that must be corrected on remand.
+
+Therefore, a remand is warranted to obtain additional documents and to verify whether the Veteran was a fugitive felon as that term is legally defined.
+
+The matter is REMANDED for the following action:
+
+1. Contact the appropriate state and/or federal agencies, the warrant agency, and the VA OIG, to determine if the Veteran was a "fugitive felon" in accordance with VBA Letter 20-14-09 (June 23, 2014) and 38 U.S.C. § 5313B; 38 C.F.R. § 3.665 (n).
+
+The AOJ is directed to specifically include the arrest warrant or official document containing any NCIC offense code reflecting the nature of the arrest warrant and the date it was issued. Document all attempts to locate such records, and any negative responses in the claims file.
+
+2. After completing the above development, the AOJ should then readjudicate this matter, to include whether the Veteran was a fugitive felon and whether the discontinuation of VA compensation based on fugitive felon status was valid.
+
+ 
+
+ 
+
+D. JOHNSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T. Javed, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

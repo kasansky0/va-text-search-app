@@ -1,0 +1,109 @@
+Citation Nr: A25033112
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240509-439302
+DATE: April 9, 2025
+
+ORDER
+
+1. Entitlement to service connection for tinnitus is granted.  
+
+2. Entitlement to service connection for a dental disorder is denied.  
+
+3. Entitlement to service connection for tension headaches is granted.  
+
+REMANDED
+
+1. Entitlement to a disability rating in excess of 10 percent for a left knee strain is remanded.  
+
+2. Entitlement to a disability rating in excess of 10 percent for a right knee strain is remanded.  
+
+FINDINGS OF FACT
+
+1. Resolving doubt in the Veteran's favor, he has a diagnosis of tinnitus that was incurred in service. 
+
+2. The Veteran does not have a dental disability for service connection compensation purposes.  
+
+3. Resolving doubt in the Veteran's favor, he has a diagnosis of a tension headache disorder that was incurred in service. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for tinnitus are met.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.303, 3.307, 3.309.
+
+2. The criteria for service connection for a dental disorder are not met.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.303, 3.381.
+
+3. The criteria for service connection for a tension headache disorder are met.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.303, 3.307, 3.309.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from September 2022 to September 2023.  This matter comes to the Board of Veterans' Appeals (Board) from March, April, and May 2024 rating decisions by a Department of Veterans Affairs (VA) Regional Office (RO).  
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decisions on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decisions on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claims of increased ratings for the left and right knee, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Service Connection
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).  To establish a right to compensation for a present disability, a Veteran must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship ("nexus") between the present disability and the disease or injury incurred or aggravated during service.  Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009) (citing Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)).  Service connection may be granted for any disease initially diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d). 
+
+In addition, service connection for certain chronic diseases, including tinnitus and headaches (organic diseases of the nervous system), may be established on a presumptive basis by showing that the condition manifested to a degree of 10 percent or more within one year from the date of separation from service.  38 U.S.C. §§ 1101, 1112, 1113, 1131, 1137; 38 C.F.R. §§ 3.307, 3.309(a); Fountain v. McDonald, 27 Vet. App. 258, 271-72 (2015).  Although the disease need not be diagnosed within the presumptive period, it must be shown, by acceptable lay or medical evidence, that there were characteristic manifestations of the disease to the required degree during that time.  38 U.S.C. §§ 1101, 1112, 1113; 38 C.F.R. §§ 3.307, 3.309(a).
+
+1. Service connection for tinnitus.
+
+The Veteran's April 2024 claim suggests that he has ringing in the ears that can be caused by exposure to loud noises at ranges or from other sources.  The statement was made as an example of how his claimed headaches would begin, though the RO developed a claim for service connection for migraine headaches as secondary to a disability manifested as ringing of the ears, presumably tinnitus.  The Veteran clarified on his May 2024 Notice of Disagreement when he asserted that ringing in the ears had been noted in his record several times.  The Veteran's service treatment records do not document tinnitus.  However, the Veteran is competent to diagnose tinnitus because ringing in the ears is an observable symptom.  See Charles v. Principi, 16 Vet. App. 370, 374 (2002) (lay testimony may establish the presence of tinnitus because ringing in the ears is capable of lay observation).  The Veteran has not demonstrated that he is not credible during the course of the claim.  Therefore, the Board resolves all doubt in the Veteran's favor and finds that a current disability is shown. See Holton, 557 F.3d at 1366; 38 C.F.R. § 3.303(d).  
+
+As a chronic disease enumerated in 38 C.F.R. § 3.309(e), tinnitus may be service connected if it manifests to a compensable degree within one year of the Veteran's separation from active duty.  38 C.F.R. §§ 3.307, 3.309(a).  With the Board conceding a current disability, the presumptive provisions of these regulations apply.  Absent any evidence to the contrary, the Board finds that the Veteran's tinnitus was incurred in service.  Service connection is warranted.  
+
+2. Service connection for a dental disorder, claimed as inflammation of the jawline. 
+
+The Veteran asserts he has a tooth condition that was incurred in service.  In his October 2023 claim, he indicated that he had cavities that required the removal of several teeth during service.  He related that he had resulting mouth pain after service.   The Veteran's service treatment records document that the Veteran had numerous non-restorable teeth removed.  See, e.g., January 2023 service treatment records.  
+
+After a thorough review of the record the Board finds that service connection is not warranted.  The regulations governing dental claims make a fundamental distinction between replaceable missing teeth and teeth lost as a result of loss of substance of body of maxilla or mandible due to trauma or disease such as osteomyelitis, and not loss of the alveolar process as a result of periodontal disease.  See 38 C.F.R. §§ 3.381; 4.150; Simington v. West, 11 Vet. App. 41, 44 (1998).  The alveolar process is the portion of the bone in either the maxilla or mandible that surrounds and supports the teeth.  See DORLAND'S ILLUSTRATED MEDICAL DICTIONARY 1517 (32nd ed. 2012).
+
+Under 38 C.F.R. § 3.381, treatable carious teeth, replaceable missing teeth, dental or alveolar abscesses, and periodontal disease are not compensable disabilities but may be considered service-connected solely for the purpose of establishing eligibility for outpatient dental treatment as provided in 38 C.F.R. § 17.161.  See 38 U.S.C. § 1712; 38 C.F.R. § 3.381(b).
+
+The Veteran's claimed cavities with resulting dentures and pain is not a condition for which service connection compensation benefits are available.  Therefore, the Board finds that the evidence persuasively weighs against the Veteran's claim and that service connection is not warranted.  In reaching this decision the Board considered the benefit of the doubt rule; however, as the evidence of record is persuasively against the claim, the doctrine is not for application.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776, 781 (Fed. Cir. 2021) (en banc) (providing that only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+3. Service connection for tension headaches.
+
+The Veteran asserts he suffers from a headache disorder that was incurred in service.  See March 2024 claim.  Resolving doubt in the Veteran's favor, the Board finds that service connection is warranted.  
+
+Initially, the Board finds that there is a current disability.  See Holton, 557 F.3d at 1366; 38 C.F.R. § 3.303(d).  A December 2023 VA examination showed a diagnosis of tension headaches.  
+
+As a chronic disease enumerated in 38 C.F.R. § 3.309(e), the Veteran's headaches may be service connected if the disorder manifests to a compensable degree within one year of the Veteran's separation from active duty.  38 C.F.R. §§ 3.307, 3.309(a).  With the Board conceding a current disability, the presumptive provisions of these regulations apply.  Absent any evidence to the contrary, the Board finds that the Veteran's headache disorder was incurred in service.  Service connection is therefore warranted.  
+
+REASONS FOR REMAND
+
+1. Entitlement to a disability rating in excess of 10 percent for a left knee strain.  
+
+2. Entitlement to a disability rating in excess of 10 percent for a right knee strain.  
+
+In light of recent changes in governing caselaw, the Board finds that remand is required for an adequate examination for the Veteran's left and right knee strains.  In Ingram v. Collins, the United States Court of Appeals for Veterans Claims held that because the applicable diagnostic codes and special regulations pertaining to musculoskeletal dis abilities do not explicitly contemplate medication use, the Board must discount the ameliorative effects of medication when assigning an evaluation for these conditions.  Ingram v. Collins, No. 23-1798, 2025 U.S. App. Vet. Claims LEXIS 327 (Vet. App. Mar. 12, 2025).
+
+The Veteran presented for a VA examination for his knees in December 2023.  The VA examiner indicated that the Veteran took Ibuprofen and Naproxsyn for his pain and difficulty with squatting, running, and kneeling.  The examination report does not indicate whether the Veteran's symptoms were described without consideration of these medications.  In light of the recent holding in Ingram, the Board finds that the December 2023 VA examination is inadequate for rating purposes.  Remand is therefore appropriate to obtain an adequate examination.  38 C.F.R. § 20.802(a).   
+
+The matters are REMANDED for the following action:
+
+Provide the Veteran with an appropriate examination to determine the severity of his service-connected left and right knee strains.  The entire claims file must be made available to and be reviewed by the examiner.  Any indicated tests and studies must be accomplished, and all clinical findings must be reported in detail and correlated to a specific diagnosis.  An explanation for all opinions expressed must be provided.  The relevant Disability Benefits Questionnaire must be utilized.
+
+The examiner should provide all findings concerning the severity of the left and right knee strains without consideration of the ameliorative effects of medication, to include Ibuprofen and Naproxsyn.  
+
+If it is not possible to provide a specific opinion without resorting to mere speculation, the examiner must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (i.e., no one could respond given medical science and the known facts), a deficiency in the record (i.e., additional facts are required), or the examiner does not have the requisite knowledge or training.
+
+ 
+
+ 
+
+S. CHARLES NEILL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Steve Ginski, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

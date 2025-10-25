@@ -1,0 +1,75 @@
+Citation Nr: A25033734
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 241219-499906
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for Parkinson's disease is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran was not exposed to an herbicide agent, such as Agent Orange, during his active service. 
+
+2. Parkinson's disease did not manifest in service or within one year of separation and is not attributable to service. 
+
+CONCLUSION OF LAW
+
+The criteria for service connection for Parkinson's disease are not met.? 38?U.S.C. §§?1101, 1110, 1112, 1113; 38?C.F.R. §§?3.303, 3.307, 3.309.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service in the United States Navy from October 1967 to September 1969. 
+
+This matter comes to the?Board of Veterans' Appeals?(Board) from a December 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO). 
+
+In the December 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Evidence Submission docket.? Therefore, the Board may only consider the evidence of record at the time of the December 2024 decision, as well as any evidence submitted by the Veteran or her representative within 90 days of the filing of the December 2024 VA Form 10182.? In this regard, the Board may only consider the evidence of record before the agency of original jurisdiction (AOJ) at the time of its decision on the issue on appeal, as well as any evidence submitted by the appellant or his or her representative with the NOD (VA Form 10182) or within 90 days following receipt of the NOD.? 38?C.F.R. §§?20.300(a), 303.? If additional evidence was submitted between the dates of the AOJ decision and VA's receipt of the NOD, the Board will not consider it unless it is resubmitted during the 90 days following VA's receipt of the NOD.
+
+Service connection for Parkinson's disease
+
+Veterans are entitled to compensation from VA if they develop a disability "resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty." 38 U.S.C. § 1110 (wartime service), 1131 (peacetime service). To establish a right to compensation for a present disability, a veteran must show: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service"-the so-called "nexus" requirement. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004). 
+
+For certain chronic disease, including paralysis agitans, service connection may be granted if the disease becomes manifest to a compensable degree within one year following separation from service.? 38?U.S.C. §§?1101, 1112, 1113, 1137 (2012); 38?C.F.R. §§?3.307, 3.309 (2023).? 
+
+With chronic disease shown as such in service (or within the presumptive period under §?3.307) so as to permit a finding of service connection, subsequent manifestations of the same chronic disease at any later date, however remote, are service connected unless clearly attributable to intercurrent causes.? This rule does not mean that any manifestation of joint pain, any abnormality of heart action or heart sounds, any urinary findings of casts, or any cough, in service will permit service connection of arthritis, disease of the heart, nephritis, or pulmonary disease, first shown as a clearcut clinical entity, at some later date.? For the showing of chronic disease in service there is required a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time, as distinguished from merely isolated findings or a diagnosis including the word "Chronic."? When the disease identity is established (leprosy, tuberculosis, multiple sclerosis, etc.), there is no requirement of evidentiary showing of continuity.? Continuity of symptomatology is required only where the condition noted during service (or in the presumptive period) is not, in fact, shown to be chronic or where the diagnosis of chronicity may be legitimately questioned. When the fact of chronicity in service is not adequately supported, then a showing of continuity after discharge is required to support the claim.? 38?C.F.R. §?3.303(b).? 
+
+Certain diseases, to include Parkinson's disease, shall be?service-connected?if the Veteran was exposed to an herbicide agent during active?service?even though there is no record of such disease during?service, provided that the requirements of?38?C.F.R. §?3.307(d) are satisfied.? 38?C.F.R. §?3.309. 
+
+When a Veteran is found not to be entitled to a regulatory presumption of service connection for a given disability, the claim must nevertheless be reviewed to determine whether service connection can be established on another basis.  See Combee v. Brown, 34 F.3d 1039, 1043-1044 (Fed. Cir. 1994).  In other words, notwithstanding the presumption provisions, the United States Court of Appeals for the Federal Circuit has determined that a claimant is not precluded from establishing service connection for disability due to herbicide exposure with proof of direct causation.  Combee v. Brown, 34 F.3d 1039, 1042 (Fed. Cir. 1994). 
+
+The Veteran contends that his Parkinson's disease is related to service to include as due to toxic chemical exposure.  Specifically, he contends that he was exposed to toxic chemicals in active service to include herbicides and jet fuel.  See November 2015 VA Form 21-526b.  Moreover, he contends that he was exposed to herbicides from serving aboard a Navy or Coast Guard ship, in particular the USS Intrepid, during the Vietnam era.  Although the Veteran's service treatment records are absent complaints of or treatment related to Parkinson's disease, a VA memorandum associated with the claims file determined that the Veteran was exposed to fuel products such as diesel, JP-8, JP-4, industrial solvents used in cleaning, degreasing, paint fumes and asbestos dust from cleaning during service.  See January 2024 Toxic Exposure Risk Activity (TERA) Memorandum.  
+
+However, with regard to the Veteran's contention that he was specifically exposed to herbicides, there are crucially no official records of exposure that verify the Veteran's statements.  The Board acknowledges that the phrase "in the Republic of Vietnam" has been expanded to include the 12 nautical mile territorial sea of Vietnam.  Procopio v. Wilkie, 913 F.3d 1371 (Fed. Cir. 2019) (en banc).  Pertinently, VA has conducted extensive research regarding the explicit question of whether the USS Intrepid was within 12 nautical miles of Vietnam while the Veteran was on board.  However, a February 2021 Records Research Center response and logbooks associated with the claims folder in March 2021 do not verify herbicide exposure during service.  Also, a February 2016 VA memorandum notes the Joint Services Records Research Center's determination that it could not provide any evidence to support the contention that the Veteran was exposed to a tactical herbicide agent while serving aboard a Navy or Coast Guard ship during the Vietnam era.  Although, the research shows that the USS Intrepid was off the coast of Vietnam while the Veteran was on board, the USS Intrepid was never shown to be within 12 nautical miles of the shores of Vietnam during the time period that the Veteran was on board.  Therefore, the Board finds that the Veteran's statements of record are insufficient to support a finding of actual herbicide agent exposure.  Additionally, VA provided the Veteran the opportunity to provide evidence in support of his claim, to include evidence that he was exposed to herbicides during service; as such, the Board finds that VA has made a sufficient attempt in order to verify the Veteran's claimed exposure to herbicides during service.  Therefore, the probative evidence does not demonstrate that the Veteran was exposed to herbicides, including Agent Orange during active service.  
+
+The Board notes that the Veteran currently evidences Parkinson's disease.  See, e.g., VA examination report dated January 2024. 
+
+The Board has carefully evaluated the evidence and, for reasons stated immediately below, finds that the evidence of record is against a finding that the Veteran's Parkinson's disease is related to his service. 
+
+Specifically, a VA medical opinion was obtained in March 2024 following a January 2024 examination as to the etiology of the Veteran's Parkinson's disease.  After review of the Veteran's medical history, the VA examiner concluded that it is less likely than not that the Veteran's Parkinson's disease was incurred in or caused by service, to include TERA.  The examiner's rationale for their conclusion was based on their review of medical literature which did not support a finding that the types of environmental hazards and chemicals the Veteran was exposed to would cause Parkinson's disease.  The examiner further noted the diagnosis of Parkinson's disease rendered in 2012 which was decades after the Veteran's separation from service, thereby indicating an absence of chronicity and that a post-service event, illness, or injury is a more likely etiology.  
+
+The March 2024 VA examiner's opinion was based upon thorough analysis of the Veteran's entire history.  See Bloom v. West, 12?Vet. App.?185, 187 (1999) [the probative value of a physician's statement is dependent, in part, upon the extent to which it reflects "clinical data or other rationale to support his opinion"]. Additionally, the VA examiner's opinion is consistent with the Veteran's documented medical history, which is absent any report of Parkinson's disease in-service or for many years thereafter.
+
+The Board acknowledges an October 2023 VA medical opinion in which the examiner found a positive nexus between the Veteran's Parkinson's disease and his service.  However, this opinion was based on the assumption that the Veteran's Navy ship had sailed within 12 nautical miles of Vietnam.  As discussed above, the objective evidence shows that the Veteran's ship did not sail within 12 nautical miles of Vietnam and he was not exposed to herbicides during service.  This opinion is therefore not probative.  In this regard, a medical opinion based on an inaccurate factual premise is not probative.  See Reonal v. Brown, 5 Vet. App. 458, 461 (1993).   
+
+In relevant part, 38 U.S.C. § 1154(a) (2012) requires that VA give "due consideration" to "all pertinent medical and lay evidence" in evaluating a claim for disability or death benefits.  Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009). "Lay evidence can be competent and sufficient to establish a diagnosis of a condition when (1) a layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional."  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007); see also Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006) ("[T]he Board cannot determine that lay evidence lacks credibility merely because it is unaccompanied by contemporaneous medical evidence"). 
+
+The Board notes statements from the Veteran indicating that his current Parkinson's disease is related to service.  To the extent the Veteran asserts that his current Parkinson's disease is related to his service, he is competent to report that he has a current diagnosis (as that is documented in the record).  However, the Veteran's September 1969 separation examination showed normal findings that are inconsistent with Parkinson's disease.  The Board also finds that the Veteran's statements do not outweigh the opinion of the VA examiner who thoroughly considered the Veteran's medical history and thereafter concluded that the Veteran's current Parkinson's disease is not related to service.  Thus, these arguments do not outweigh the specific findings of the VA examiner who is a skilled neutral professional. 
+
+In short, the more credible and probative evidence establishes that the Veteran's Parkinson's disease was not manifest during service.  Here, Parkinson's disease was not "noted," diagnosed or manifest during service or within one year of separation.  He did not have characteristic manifestations enough to identify the disease entity during that time frame.  Rather, the more probative medical evidence reflects an onset many years after service. 
+
+For the reasons and bases expressed above, the weight of the evidence is against the claim for service connection for Parkinson's disease.? Accordingly, the benefit sought on appeal is denied.? 
+
+ 
+
+ 
+
+T. Raymond
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Arif Syed, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

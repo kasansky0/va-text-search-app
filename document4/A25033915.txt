@@ -1,0 +1,69 @@
+Citation Nr: A25033915
+Decision Date: 04/10/25	Archive Date: 04/11/25
+
+DOCKET NO. 240415-430805
+DATE:  April 10, 2025
+
+ORDER
+
+Entitlement to service connection for sleep apnea is denied. 
+
+FINDING OF FACT
+
+The Veteran's sleep apnea did not manifest during active service, and there is no indication that it is otherwise related to his active service.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for sleep apnea are not met. 38 U.S.C. §§ 1110, 1131, 5107(b) (2018); 38 C.F.R. §§ 3.102, 3.303 (2024).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active air service from April 1970 to June 1990. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 Higher-Level Review (HLR) decision issued by the Department of Veterans Affairs (VA) agency of original jurisdiction (AOJ). The HLR decision was issued in response to the Veteran's HLR request of a November 2023 rating decision. 
+
+In April 2024, the Veteran appealed to the Board by filing a VA Form 10182 and requested Direct Review of the March 2024 HLR decision. Therefore, the Board may only consider the evidence of record at the time of the November 2023 AOJ decision, which was subsequently subject to HLR. 38 C.F.R. § 20.301. If evidence was submitted during the period after the November 2023 decision, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection - Sleep Apnea
+
+In June 2023, the Veteran filed a claim for service connection for sleep apnea, asserting that the disability was caused by Agent Orange exposure during his service in the Republic of Vietnam. 
+
+The Veteran has not asserted nor does the evidence show that his sleep apnea manifested during active service. His service treatment records are unremarkable for any complaints, treatment, or diagnoses related to a sleep disorder, to include symptoms which could be attributed to a later diagnosis of such. At his November 1989 retirement examination, he denied having or having had frequent trouble sleeping. 
+
+Post service, an April 2018 sleep study noted that the Veteran had a history of loud snoring and questionable apnea and was referred to rule out sleep apnea syndrome. After undergoing testing, the impression was central sleep apnea syndrome. 
+
+The Board notes that the Veteran has a current diagnosis of sleep apnea and that in-service exposure to herbicides and other toxic exposures has been conceded. The remaining question is whether his current sleep apnea is related to toxic exposure risk activities (TERAs). A VA examination was conducted in November 2023 to address that question. 
+
+During the November 2023 VA examination, the Veteran reported that he had witnessed snoring and gasping prior to a sleep study. He stated that he had another sleep study in 2018 and had been using a bilevel positive airway pressure (BiPAP) machine since. The examiner confirmed a diagnosis of central sleep apnea and opined that the claimed condition was less likely than not caused by the indicated TERAs, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all TERAs of the Veteran. The examiner noted that the Veteran was exposed to Agent Orange and that as a jet engine mechanic, he was also exposed to aircraft exhaust, fuels, lubricants, and solvents. She stated, however, that the current medical literature did not show that sleep apnea was caused by a toxic exposure. She noted that central sleep apnea was characterized by transient diminution or cessation of the respiratory rhythm generator located within the pontomedullary region of the brain. She noted that in general, it represented an array of sleep-disordered breathing conditions due to the brief absence of ventilatory output during sleep and could result from heart failure, stroke, or high altitude. She also cited medical literature to support her opinion. 
+
+In April 2024, the Veteran's representative argued that the November 2023 VA medical opinion was inadequate because it did not address whether the Veteran's sleep apnea was caused or aggravated by his service-connected hypertension and/or diabetes mellitus. It was noted that medical records dated on July 13, 2023, stated the following: "Follow up hypertension, risk factors include age over 60, high salt intake, inactive lifestyle, male gender, obesity, and sleep apnea." The Board notes, however, that the referenced record indicated that sleep apnea was a risk factor for hypertension, not that the Veteran's service-connected hypertension was a risk factor for a sleep apnea. Therefore, service connection on a secondary basis was not reasonably raised by that evidence. 
+
+The Veteran's representative also noted that there was medical literature indicating that sleep apnea can be caused by hypertension and diabetes, but did not submit any of that literature or cite to any specific studies. Furthermore, prior to the November 2023 AOJ decision, neither the Veteran nor his representative raised the issue of service connection on a secondary basis. In addition, none of the evidence of record at that time indicated that the Veteran's sleep apnea might be caused or aggravated by any of his service-connected disabilities, or a combination thereof. Therefore, the Board finds that the AOJ did not err in failing to obtain a medical opinion addressing those contentions, and that a remand to obtain such an opinion is not warranted or permissible. See 38 C.F.R. § 20.802(a).
+
+Based on the foregoing, the Board finds that the most competent and probative evidence fails to demonstrate that the Veteran's sleep apnea was incurred in or is related to his active service. His service treatment records do not show any evidence of sleep apnea during service. In addition, the first complaints and objective evidence of sleep apnea occurred many years after service. The passage of time between discharge from active service and the medical documentation of a claimed disability is a factor that tends to weigh against a claim for service connection in this case.
+
+Furthermore, the November 2023 VA examiner opined that the Veteran's sleep apnea was less likely than not related to in-service TERAs. The examiner thoroughly reviewed the claims file and discussed the relevant evidence, considered the contentions of the Veteran, and provided a thorough supporting rationale for the conclusions reached. Barr v. Nicholson, 21 Vet. App. 303 (2007); Stefl v. Nicholson, 21 Vet. App. 120 (2007); Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008). For these reasons, the Board finds the VA examiner's opinion significantly probative. Further, there is no medical opinion of record to the contrary.
+
+The Board has also considered the lay evidence of record. The Veteran is competent to describe what he has personally observed or experienced. However, the ultimate questions of diagnoses and etiology in this case extend beyond an immediately observable cause-and-effect relationship and are beyond the competence of lay witnesses.
+
+(Continued on the next page)
+
+?
+
+Accordingly, the Board finds that the benefit-of-the-doubt rule is not applicable as the evidence weighs persuasively against the claim and is not in approximate balance. Therefore, entitlement to service connection for sleep apnea is not warranted. 38 U.S.C. § 5107(b) (2018); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+ 
+
+ 
+
+Kristin Haddock
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Mishalanie, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

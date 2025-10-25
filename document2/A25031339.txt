@@ -1,0 +1,63 @@
+Citation Nr: A25031339
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240103-406109
+DATE: April 4, 2025
+
+ORDER
+
+Entitlement to service connection for tinnitus is granted.
+
+FINDING OF FACT
+
+The Veteran currently has tinnitus, and the evidence is in relative equipoise regarding whether it is causally related to his active military service
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for tinnitus are met.  38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304. 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from July 1983 to July 1986.  
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a September 2023 rating decision.  
+
+In the January 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+1. Entitlement to service connection for tinnitus is granted.
+
+Service connection will be granted if is shown that the Veteran suffers from a disability resulting from personal injury suffered or disease contracted in the line of duty, or for aggravation of a pre-existing injury suffered or disease contracted in the line of duty, during active military service.  38 U.S.C. § 1131; 38 C.F.R. § 3.303.  Establishing service connection generally requires evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the current disability.  See Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Certain chronic diseases, including tinnitus, will be presumed related to service, absent an intercurrent cause, if they were shown as chronic in service; or if they manifested to a compensable degree within a presumptive period following separation from active service; or, if they were noted in service (or within a presumptive period) with continuity of symptomatology since service that is attributable to the chronic disease.  38 U.S.C. §§ 1101, 1112, 1113; 38 C.F.R. §§ 3.303, 3.307, 3.309; see Walker v. Shinseki, 708 F.3d 1331, 1338 (Fed. Cir. 2013).  
+
+The Veteran contends that his tinnitus is attributable to in-service hazardous noise exposure.  February 2023 VA 21-4138, Statement in Support of Claim.
+
+The AOJ has made several favorable findings related to the Veteran's claim for service connection for tinnitus.  Two of those findings are most pertinent.  First, the Veteran has a current disability.  He has been diagnosed with bilateral tinnitus.  Second, a qualifying event, injury, or disease had its onset during his service due to his MOS of Unit Supply Specialist.  Though not explicitly stated, implicitly this favorable finding concedes hazardous noise exposure during the Veteran's military service.  September 2023 rating decision.  Absent clear and unmistakable error, these favorable findings are binding on the Board.  38 C.F.R. § 3.104.
+
+Based on these favorable findings, the first two elements necessary to support service connection are established.  First, the Veteran has a current disability.  Second, he incurred a relevant injury or disease in service.  
+
+The remaining element is that of a nexus between the Veteran's current tinnitus and his in-service hazardous noise exposure.  
+
+As stated, the Veteran believes his tinnitus was caused by his in-service noise exposure.  He stated the following: "[D]ue to my MOS and other military experiences, I was exposed to frequent varying levels of ear noise trauma to include 2.5-ton trucks.  I also had noise exposures during basic training when I was required to use weaponry, such as rifles, pistols, grenades, and machine guns.  Unfortunately, it was not always possible to wear hearing protection routinely or correctly because I was never provided hearing protection.  I now have a low-pitched ringing in both ears that is intermittent."  February 2023 VA 21-4138, Statement in Support of Claim.  The Veteran reported onset of tinnitus in 1990, which post-dates his active military service.  See June 2023 C&P exam (Hearing Loss and Tinnitus Disability Benefits Questionnaire (DBQ) and Medical Opinion DBQ).  
+
+The Veteran is competent to describe his symptoms and their progression.  Ringing in the ears is a symptom capable of lay observation, and as such the Veteran is able to ascertain that he has the disability of tinnitus and when it began.  See Charles v. Principi, 16 Vet. App. 370, 374 (2002).   However, he is not competent to render a medical opinion regarding the cause or etiology of his tinnitus.
+
+The Veteran has provided medical evidence supporting a nexus between his current disability and his in-service hazardous noise exposure.  A private medical provider has opined that "[t]he veteran's current Auditory Condition to include Bilateral Tinnitus is at least as likely as not (a 50%/50% probability) due to and/or related to military acoustic trauma during active duty military service."  The provider addressed the possibility of onset of tinnitus occurring well after acoustic trauma, stating that "an audiogram could be normal at 2 weeks or even months/years later following acoustic trauma and then years later, Tinnitus could develop; related to the prior acoustic trauma, due to cochlear deterioration and damage that is undetectable by audiogram."  August 2023 Medical Treatment Record-Non-Government Facility.  
+
+Significantly, the provider is not stating that audiogram testing was considered in her opinion.  Instead, she is stating that medical literature supports the plausibility of noise-induced tinnitus manifesting long after the acoustic trauma has occurred due to damage that is not detectable even with an audiogram.  In this case, the delay between the Veteran's active service and the onset of tinnitus was about four years (1986 to 1990).  Having considered the Veteran's statements regarding noise exposure, the provider found that it is at least as likely as not that his tinnitus is causally related to that noise exposure.    
+
+The Board acknowledges negative medical evidence regarding the issue of nexus.  However, resolving all reasonable doubt in favor of the Veteran, the Board finds that, in light of the above-discussed opinion, the evidence is at least in relative equipoise regarding whether the Veteran's tinnitus was causally related to his in-service noise exposure.  
+
+Therefore, all elements necessary to establish service connection are met.  Entitlement to service connection for tinnitus is granted.
+
+ 
+
+L. STEPANICK
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Dunn
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

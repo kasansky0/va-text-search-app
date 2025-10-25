@@ -1,0 +1,63 @@
+Citation Nr: A25033965
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240916-494854
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for cause of death is denied.
+
+FINDING OF FACT
+
+The Veteran's death certificate shows that his immediate cause of death was bowel perforation due to gastric adenocarcinoma. This condition was not related to service, to include conceded toxic exposure. At the time of his death, the Veteran was not service connected for any disability.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for cause of death have not been met. 38 U.S.C. §§ 1110, 1131, 1310; 38 C.F.R. §§ 3.102, 3.303, 3.312.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 1974 to July 1978. The Veteran died in August 2019, and the Appellant was the Veteran's spouse at the time of his death.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a November 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO).  
+
+In the November 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Appellant elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the November 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. However, no further evidence has been received.
+
+The Appellant contends that the Veteran's cause of death was related to his toxic exposure while he was at Camp Lejeune while in service. See January 2023 VA Form 20-0995 Decision Review Request: Supplemental Claim. 
+
+VA death compensation may be paid to a surviving spouse who was married to the Veteran: (1) one year or more prior to the Veteran's death or (2) for any period of time, if a child was born of the marriage, or was born to them before the marriage. 38 U.S.C. §§ 1102, 1304, 1541; 38 C.F.R. § 3.54. One claiming to be the spouse of a veteran has the burden to come forward with a preponderance of evidence of a valid marriage under the laws of the appropriate jurisdiction. Aguilar v. Derwinski, 2 Vet. App. 21, 23 (1991). The threshold question that must be addressed in any claim for VA benefits is whether the person seeking the benefit is a proper claimant for the benefit sought. Here, although there is not a marriage certificate associated with the claims file, the Board finds that the evidence of record satisfies that the Appellant is the Veteran's surviving spouse for VA purposes. The Veteran submitted a birth certificate for his child in March 1988, noting the mother of the child with the same first name as the Appellant, although it appears they were not married at that time. The Veteran's private treatment records note that the Appellant was his spouse, and the Veteran's death certificate notes that he was married to the Appellant at the time of his death. Accordingly, the Board finds that the Appellant is the Veteran's surviving spouse. 
+
+Service connection for the cause of a Veteran's death is warranted if a service-connected disability either caused or contributed substantially or materially to the cause of death. 38 U.S.C. § 1310; 38 C.F.R. § 3.312. The service-connected disability will be considered as the principal cause of death when such disability, singly or jointly with another condition, was the immediate underlying cause of death or was etiologically related thereto. 38 C.F.R. § 3.312 (b). To be considered a contributory cause of death, it must be shown that the service-connected disability contributed substantially or materially; that it combined to cause death; or that it aided or lent assistance to the production of death. 38 C.F.R. § 3.312 (c)(1). It is not sufficient to show that the service-connected disability casually shared in producing death; rather, a causal connection must be shown. Id. 
+
+Service connection for cause of death may be warranted where the evidence indicates that the cause of the Veteran's death should have been service-connected. Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated during active service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303 (a). Generally, service connection for a disability requires competent evidence of: (1) the existence of a current disability; (2) the existence of the disease or injury in service; and (3) a causal relationship or nexus between the current disability and any injury or disease during service. See Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009).
+
+The Veteran death certificate shows that he died in August 2019, and his cause of death was bowel perforation due to gastric adenocarcinoma. At the time of his death, the Veteran was not service connected for any disability.
+
+Certain diseases are presumed to be associated with exposure to contaminated water at Camp Lejeune. 38 C.F.R. § 3.309 (f). However, none of the Veteran's causes of death are included in this list. As such, service connection for cause of death cannot be awarded based on the presumption of exposure to contaminated water at Camp Lejeune. On August 10, 2022, the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxins Act of 2022 (PACT Act) was enacted. The PACT Act directs that in certain circumstances, when a veteran is found to have been involved in a toxic exposure risk activity (TERA) during service, VA must obtain an opinion addressing whether such toxic exposure caused a diagnosed disability. 38 U.S.C. § 1168. The Board notes that VA determined that the Veteran participated in a TERA in service. See August 2023 Memorandum.  
+
+VA obtained a medical opinion in September 2023. The examiner opined as to the etiology of the Veteran's pancreatic cancer instead of his gastric adenocarcinoma, finding no nexus between the Veteran's TERA and his pancreatic cancer. The Board notes that the Veteran had been previously denied service connection for pancreatic cancer in December 2018, and that the Appellant wrote on the January 2023 Supplemental Claim that she was seeking death benefits due to the Veteran's pancreatic cancer. VA ordered another opinion to address whether there was a nexus between the Veteran's TERA and his cause of death, gastric adenocarcinoma. In October 2023, an examiner noted a review of the claims file and opined that the Veteran's gastric adenocarcinoma was less likely than not caused by the Veteran's TERA. The examiner noted that a review of the record indicated that the Veteran had risk factors outside of military service to include smoking, helicobacter pylori, and his diet. The examiner identified that the Veteran's exposure to Camp Lejeune water includes perchloroethylene (PCE), trichlorethylene (TCE), vinyl chloride, and benzine. The examiner noted that after reviewing job aids and literature, they could find no link between the Veteran's gastric adenocarcinoma and his exposure during service. 
+
+VA obtained an addendum opinion in October 2023, noting that the VA medical examiner provided no research that they had reviewed for the October 2023 medical opinion, nor did they provide a full rationale. Initially, the Board notes that the October 2023 VA medical examiner did include a list of hyperlinks to research reviewed in rendering the medical opinion. In the October 2023 addendum opinion, the examiner wrote that the Veteran's main risk factors for gastric cancer were a history of GERD and smoking and noted a list of risk factors associated with stomach cancers, to include smoking and long-term stomach inflammation. They stated that the Veteran had a smoking history and chronic GERD, which would cause chronic inflammation, and that there is not an objective link between the Veteran's gastric adenocarcinoma and his TERAs. The examiner wrote that correlating the Veteran's gastric adenocarcinoma to any exposure during service would entail overlooking recognized non-TERA risk factors and possible oncogenic mutilations that occurred spontaneously. The examiner included a hyperlink to literature. 
+
+As part of the claim, the Appellant submitted a March 2023 private medical opinion that found a nexus between the Veteran's gastric cancer and his exposure to chemicals at Camp Lejeune. The Veteran's physician noted that there are studies that suggest that exposure to certain chemicals, to include benzene, polychlorinated biphenyls (PCBs), and certain pesticides, may increase the risk of developing gastric cancer, stating that soldiers were exposed to a variety of chemicals during the Vietnam War that evidence suggests may increase the risk of developing several types of cancer, including gastric cancer. The Veteran's physician opined that the potential link between chemical exposure and the Veteran's gastric cancer is likely. 
+
+In light of the conflicting medical nexus opinions, the Board must resolve these competing medical opinions. See Owens v. Brown, 7 Vet. App. 429, 433 (1995). Mere disagreement among experts does not indicate that the evidence is in equipoise.
+
+Here, the October 2023 VA medical opinion and addendum opinion are afforded greater evidentiary weight over the March 2023 private positive opinion. Although the March 2023 private medical opinion was authored by the Veteran's physician, the physician did not provide a detailed rationale for the conclusion the Veteran's gastric cancer was related to his in-service exposures, but only discussed exposures in general and the development of cancer. The physician acknowledged that many factors can influence an individual's risk of developing gastric cancer, including genetics, lifestyle factors, and other environmental exposures, but did not engage with this particular veteran's other risk factors, as the VA examiner did.  The physician also discussed studies with respect to herbicide/dioxin exposure during the Vietnam War and gastric cancer, but this veteran did not serve in Vietnam, nor is there evidence of herbicide exposure, so it is unclear why this information was included in the letter. In contrast, the October 2023 VA medical opinion and addendum opinion were provided following a complete review of the Veteran's claims file, included consideration of the Veteran's prior medical history, and provided a detailed rationale in support of their conclusions. The Veteran's private treatment records corroborate the October 2023 VA medical opinion and addendum opinion, noting the Veteran's history of smoking and GERD, which the March 2023 private medical opinion did not address. 
+
+The Board recognizes that the Appellant believes there was a relationship between the Veteran's death and his toxic exposure in service. However, the Appellant is not competent to determine that the Veteran's cause of death is related to the Veteran's exposures, as they have not been shown to possess the requisite medical training, expertise, or credentials needed to render an opinion as to medical causation. 
+
+While the Board is sympathetic to the Appellant, the more persuasive evidence of record does not link the Veteran's TERA to his gastric adenocarcinoma. The Board finds that the competent medical evidence shows the Veteran's cause of death should not have been a service-connected disability. Further, the Board finds that the competent medical evidence shows that Veteran's cause of death was not related to his participation in a TERA. As the evidence is neither evenly balanced nor approximately so, the benefit of the doubt doctrine does not apply. For these reasons, the claim is denied.
+
+ 
+
+MICHELLE L. KANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Dorsey, J.T.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

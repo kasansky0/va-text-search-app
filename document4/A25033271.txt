@@ -1,0 +1,53 @@
+Citation Nr: A25033271
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 230511-349454
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to payment of educational assistance benefits for reimbursement of licensing and certification (LAC) test fees in the claimed amount of $950.00 under Chapter 33, Title38, United States Code (known as the Post-9/11 GI Bill) is granted.
+
+FINDING OF FACT
+
+The test taken for the Veteran's "Certified Ethical Hacker" certification (test 312-50 CEH) has been approved for reimbursement by the State Approving Agency (SAA) in the amount of $950.00.
+
+CONCLUSION OF LAW
+
+The criteria for eligibility for payment of educational assistance benefits for reimbursement of LAC test fees in the claimed amount of $950.00, reduced by any payment already made, under the Post-9/11 GI Bill have been met.  38 U.S.C. § 3315.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the Air National Guard, which service included a period of active duty for training from July 24 to October 31, 1997, and a period of active duty from July 1, 2004, to July 31, 2008.
+
+This appeal to the Board of Veterans' Appeals (Board) arose from an April 2023 decision in which the Department of Veterans (VA) Regional Office (RO) in Buffalo, New York, informed the Veteran that her claim for reimbursement of LAC test fees under the Post-9/11 GI Bill had been granted in the amount of $500.00.
+
+On May 11, 2023, the Veteran filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), in which she disagreed with the payment amount, noting that she had requested reimbursement of the total cost paid for her test fee, which was $950.00; the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the April 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to payment of educational assistance benefits for reimbursement of LAC test fees in excess of $500.00 under the Post-9/11 GI Bill
+
+A review of the record reveals that in April 2023, VA received the Veteran's request for reimbursement, under Chapter 33, of $950.00 paid in connection with obtaining her "Certified Ethical Hacker" certification.  In support of her claim, the Veteran submitted an invoice showing that she had paid $950.00 to take the "Certified Ethical Hacker" examination, which examination she passed in April 2023.  That same month, the RO granted the Veteran's claim for reimbursement only in the amount of $500.00, stating that "[t]he Licensing and Certification payment shown . . . represents that maximum amount of the changes that are authorized for payment."
+
+With regard to LAC test reimbursement, the law provides that veterans entitled to educational assistance under Chapter 33 are entitled to receive a reimbursement of the lesser of $2000 or the fee charged for taking licensing and certification tests.  See 38 U.S.C. § 3315; 38 C.F.R. § 21.9665.  The implementing regulations provide that in administering benefits under Chapter 33, courses must be approved by the SAA for the State in which the educational institution is located, by the SAA which otherwise has appropriate approval authority, or by VA.  See 38 C.F.R. § 21.4250.  It is within the jurisdiction of the respective SAA to approve the organizations or entities offering licensing and certification tests.  38 U.S.C. § 3689, 38 C.F.R. § 21.4268(a)(1).
+
+VA will pay educational assistance to an eligible individual as reimbursement for taking an approved licensing or certification test only after the eligible individual has submitted to VA a copy of his or her official test results, and if not included in the results, a copy of another official form (such as a receipt or registration form) that together must include: (i) the name of the test; (ii) the name and address of the organization or entity issuing the license or certificate; (iii) the date the eligible individual took the test; and (iv) the cost of the test.  38 C.F.R. § 21.9680(b)(5).
+
+In the instant case, in approving reimbursement only in the amount of $500.00, the AOJ relied on a report from VA's Web Enhanced Approval Management System (WEAMS), the searchable database listing all organizations and programs of education approved by the SAA, which showed that the "Certified Ethical Hacker" test, also listed as "312-50 CEH" was approved for reimbursement in the amount of $500.00.  Notably, when the Board ran its own search for the "Certified Ethical Hacker" certification test in the WEAMS database, the report shows that test "312-50 CEH" is approved for reimbursement in the amount of $950.00.  https://inquiry.vba.va.gov/weamspub/buildSearchCountryLCCriteria.do.  
+
+Here, it is unclear whether the AOJ accessed old data, as the "status date" on the WEAMS database printout provided by the AOJ was in August 2013.  Nevertheless, given that the WEAMS database now shows that the test taken by the Veteran, as characterized by the AOJ, is approved for reimbursement in the amount of $950.00, the Board's finds that additional Chapter 33 benefits for the "Certified Ethical Hacker" certification test taken by the Veteran are warranted.  Accordingly, entitlement to payment of educational assistance benefits for reimbursement of LAC test fees in the claimed amount of $950.00, reduced by any payment already made, under the Post-9/11 GI Bill is granted.
+
+ 
+
+ 
+
+K. Conner
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Neilson, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

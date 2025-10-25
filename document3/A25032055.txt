@@ -1,0 +1,85 @@
+Citation Nr: A25032055
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240828-469549
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to a rating in excess of 10 percent for of chronic obstructive pulmonary disease (COPD) with asthma is denied.
+
+FINDING OF FACT
+
+The Veteran's respiratory disability is not manifested by pulmonary function test findings consistent with the applicable schedular criteria for a rating in excess of 10 percent for bronchial asthma, pulmonary emphysema, or COPD.  The Veteran's COPD with asthma has required no more than intermittent treatment with a prescribed rescue inhaler.
+
+CONCLUSION OF LAW
+
+The criteria for a rating in excess of 10 percent for chronic obstructive pulmonary disease with asthma have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.96, 4.97 Diagnostic Code 6602-6604.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from January 2001 to January 2005, and from October 2007 to October 2008.
+
+Historically, in a February 2024 rating decision, the Veteran was granted service connection for chronic obstructive pulmonary disease, with an evaluation of 0 percent, effective September 25, 2023.
+
+In February 2024, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of the February 2024 rating decision.
+
+A March 2024 rating decision found CUE in failure to address service-connected asthma and increased the Veteran's rating to 10 percent, effective January 2, 2024.
+
+In a May 2024 rating decision, the Veteran's 10 percent rating for COPD with asthma was confirmed and continued.
+
+In May 2024, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of the May 2024 rating decision. 
+
+In August 2024, the AOJ issued the Higher-Level Review decision on appeal.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), the appellant elected the Direct Review option; therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.
+
+Entitlement to a rating in excess of 10 percent for chronic obstructive pulmonary disease with asthma.
+
+The Veteran's COPD with asthma has been evaluated under Diagnostic Codes 6602-6604.  A hyphenated code may be used to identify the proper evaluation of a disability or a residual from disease.  The first code of a hyphenated code identifies the diagnosed disease or condition.  The second code of a hyphenated code identifies the criteria in the Schedule for Rating Disabilities used to evaluate the disability.
+
+Respiratory disorders are rated under 38 C.F.R. § 4.97, Diagnostic Codes 6600 through 6817 and 6822 through 6847.
+
+Pursuant to 38 C.F.R. § 4.96(a), ratings under these diagnostic codes will not be combined with each other.  Rather, a single rating will be assigned under the diagnostic code which reflects the predominant disability with elevation to the next higher evaluation only where the severity of the overall disability warrants such elevation.  38 C.F.R. § 4.96(a).
+
+If two evaluations are potentially applicable, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that evaluation; otherwise, the lower evaluation will be assigned.  38 C.F.R. § 4.7.
+
+Under Diagnostic Code 6602 for bronchial asthma, a 30 percent rating is assigned for FEV-1 of 56 to 70 percent predicted, or FEV-1/FVC of 56 to 70 percent, or daily inhalational or oral bronchodilator therapy, or inhalational anti-inflammatory medication.
+
+A 60 percent rating is assigned for an FEV-1 of 40 to 55 percent predicted, or FEV-1/FVC of 40 to 55 percent, or at least monthly visits to a physician for required care of exacerbations, or intermittent (at least three times per year) courses of systemic (oral or parenteral) corticosteroids.
+
+A maximum 100 percent rating is assigned under DC 6602 for bronchial asthma with an FEV-1 of less than 40 percent predicted, or FEV-1/FVC less than 40 percent, or more than one attack per week with episodes of respiratory failure, or requiring daily use of systemic (oral or parenteral) high dose corticosteroids or immunosuppressive medications.  38 C.F.R. § 4.97.
+
+Under Diagnostic Code 6604, for chronic obstructive pulmonary disease (COPD), a 30 percent rating is assigned for FEV-1 of 56 to 70 percent predicted, FEV-1/FVC of 56 to 70 percent, or DLCO (SB) of 56 to 65 percent predicted.
+
+A 60 percent rating is assigned for FEV-1 of 40 to 55 percent predicted; FEV-1/FVC of 40 to 55 percent; DLCO (SB) of 40 to 55 percent predicted; or maximum oxygen consumption of 15 to 20 ml/kg.
+
+A 100 percent rating is assigned for FEV-1 less than 40 percent predicted; FEV-1/FVC less than 40 percent; DLCO (SB) less than 40 percent predicted; maximum exercise capacity less than 15 ml/kg in oxygen consumption; cor pulmonale (right heart failure); right ventricular hypertrophy; pulmonary hypertension; acute respiratory failure; or outpatient oxygen therapy.  38 C.F.R. § 4.97.
+
+When evaluating based on pulmonary function tests (PFTs), post-bronchodilator results are used in applying the rating criteria in the rating schedule unless the post-bronchodilator results were poorer than the pre-bronchodilator results.  In those cases, use the pre-bronchodilator values for rating purposes.  38 C.F.R. § 4.96(d)(5).
+
+The Board observes that the ratings criteria for Diagnostic Codes 6602 and 6604 correlate in terms of the ratings assigned based on various pulmonary function test results.  In other words, a given result corresponds with identical evaluations under the two Diagnostic Codes and as such, separate evaluations under each are not available on that basis.
+
+Turning to the evidence, the Veteran was afforded a VA examination in December 2023.  The examiner noted pulmonary function test results as follows: pre-bronchodilator FVC of 94 percent predicted, FEV-1 of 95 percent predicted, FEV-1/FVC of 81 percent.  The examiner explained that FEV-1/FVC results were most representative of the Veteran's level of pulmonary functioning.  The pre-bronchodilator results were normal.  The Veteran reported current symptoms of shortness of breath, intermittent, fatigue, and breathing difficulties.  The Veteran's respiratory condition requires the intermittent use of inhalational bronchodilator therapy.  The Veteran did not have an asthma attack with episodes of respiratory failure in the prior to 12 months.  The Veteran did not have any physician visits that required care of exacerbations.  The Veteran's respiratory disorder does not require the use of oral or parenteral corticosteroid medications.
+
+The Veteran was afforded an VA Examination in January 2024.  The January 2024 VA examiner noted pulmonary function test results as follows: pre-bronchodilator FVC of 68 percent predicted, FEV-1 of 68 percent predicted, FEV-1/FVC of 80 percent predicted.  Post-bronchodilator: FVC of 51 percent predicted, FEV-1of 47 percent predicted, and FEV-1/FVC of 75 percent.  The examiner explained that FEV-1/FVC results were most representative of the Veteran's level of pulmonary functioning.  The Veteran reported current symptoms of chest tightness, shortness of breath (SOB) with rest and exertion that he treats with an Albuterol inhaler, rest (on an intermittent basis), and limiting activities.  The Veteran did not have an asthma attack with episodes of respiratory failure in the prior 12 months.  The Veteran did not have any physician visits that required care of exacerbations.  The Veteran's respiratory disorder does not require the use of oral or parenteral corticosteroid medications.
+
+The Veteran was afforded an additional VA examination in April 2024.  The April 2024 examiner noted pulmonary function test results as follows: pre-bronchodilator FVC at 68 percent predicted, FEV-1 at 68 percent predicted, FEV-1/FVC 80 percent.  Post-bronchodilator: FVC 50 percent predicted, FEV-1 47 percent predicted, FEV-1/FVC 74 percent.  The examiner explained that FEV-1/FVC results were most representative of the Veteran's level of pulmonary functioning.  At the examination, the Veteran noted ongoing symptoms which require his use of an Albuterol sulfate inhaler on an intermittent basis.  The Veteran did not have any physician visits that required care of exacerbations.  The Veteran's respiratory disorder does not require the use of oral or parenteral corticosteroid medications.
+
+The record does not reflect the use of corticosteroids or other immunosuppressive medications.  The Veteran uses a prescribed inhaler on an intermittent basis, as confirmed by the VA examiner.  The record does not reflect regular physician visits for required care of exacerbations.
+
+Applying the Diagnostic Code criteria to the evidence summarized above, the Board finds the Veteran's disability picture is most closely characterized by the already-assigned 10 percent criteria under Diagnostic Code 6602.  Whereas lung diffusion testing indicated a potentially greater level of disability, the examiner indicated that the FEV-1/FVC result "most accurately reflects the Veteran's level of disability," and that assessment is uncontroverted by competent opinion or objective evidence elsewhere in the record.  Moreover, the record does not establish that the Veteran's use of his inhaler has been more than intermittent during the appeal period.  On that basis, the Board does not find warranted an increase in the Veteran's evaluation for asthma with COPD, and the appeal is denied. 
+
+ 
+
+ 
+
+David Gratz
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jordan, Jacquelynn
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

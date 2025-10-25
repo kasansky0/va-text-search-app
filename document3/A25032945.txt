@@ -1,0 +1,167 @@
+Citation Nr: A25032945
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 241220-499916
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for a heart condition, to include atrial fibrillation (A-Fib) and previously claimed as a chronic heart condition, is granted, subject to the laws that govern the payment of monetary benefits.
+
+Entitlement to service connection for hyperthyroidism is denied.
+
+Entitlement to an increased initial compensable evaluation for service-connected hypertension is denied.
+
+FINDINGS OF FACT
+
+1. Resolving any reasonable doubt in the Veteran's favor, the probative medical evidence of record on balance shows that the Veteran's heart condition was the result of his service-connected hypertension.
+
+2. The weight of the evidence is against finding that the Veteran's hyperthyroidism was incurred in service or as a result of service, to include claimed exposure to herbicide agents.
+
+3. The Veteran's hypertension requires use of medication and does not manifest diastolic pressure over 100 or systolic pressure over 160.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for a heart condition are met.  38 U.S.C. §§ 1110, 1112, 1113, 1131, 1137, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309, 3.310.
+
+2. The criteria for service connection for hyperthyroidism are not met.  38 U.S.C. §§ 1110, 1112, 1113, 1131, 1137, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309.
+
+3. The criteria for an initial compensable disability evaluation for hypertension are not met. 38 U.S.C. § 1155, 5107; 38 C.F.R. § 4.1-4.14, 4.104, Diagnostic Code (DC) 7101.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the US Air Force from November 1967 to November 1971 and from January 1972 to January 1976.
+
+This appeal is before the Board of Veterans' Appeals (Board) from January 2024 (hypertension), May 2024 (hyperthyroidism), and September 2024 (heart condition) rating decisions of the Department of Veterans Affairs (VA) Regional Office (RO).
+
+The Veteran appealed this claim under the Appeals Modernization Act (AMA) evidence submission lane.  The Veteran was provided 90 days from the date of the filing of the December 20, 2024, Notice of Disagreement, or March 20, 2025, to submit additional evidence.  Additional evidence was submitted for consideration by the Board on March 28, 2025, including a February 2025 private examination, resume, and accompanying statement, that was unfortunately received outside of the applicable review period, as it was 8 days post the deadline.  As such, it shall not be considered in the decision that follows. 38 C.F.R. § 20.202(b)(3).
+
+Service Connection
+
+Entitlement to service connection on a direct basis requires (1) evidence of current nonservice-connected disability; (2) evidence of in-service incurrence or aggravation of disease or injury; and (3) evidence of a nexus between the in-service disease or injury and the current nonservice-connected disability.  38 C.F.R. § 3.303(a); Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004); Saunders v. Wilkie, 886 F.3d 1356 (2018).
+
+Service connection on a secondary basis requires (1) evidence of a current nonservice-connected disability; (2) evidence of a service-connected disability; and (3) evidence establishing that the service-connected disability either (a) caused, or (b) aggravated, the nonservice-connected disability.  38 C.F.R. § 3.310.  Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc); see also Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023) (invalidating the requirement of "proximate cause" and instead held a "but for" causation or aggravation is enough to show entitlement to secondary service connection).
+
+VA has established a presumption of exposure to herbicide agents applicable to veterans who served in the Republic of Vietnam during the Vietnam War, and a presumption of service connection applicable to veterans who are either presumed to have been exposed to herbicide agents, or who are shown to have been actually exposed to herbicide agents during service.  A veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be presumed to have been exposed during such service to an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.  The last date on which such a veteran shall be presumed to have been exposed to an herbicide agent shall be the last date on which he or she served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975. 38 C.F.R. § 3.307(a)(6)(iii).
+
+If a veteran was exposed to an herbicide agent during active military, naval, or air service, the following diseases shall be service connected if the requirements of 38 C.F.R. §§ 3.307(a)(6) are met even though there is no record of such disease during service, provided further that the rebuttable presumption provisions of §3.307(d) are also satisfied.  AL amyloidosis, chloracne or other acneform disease consistent with chloracne, bladder cancer, type 2 diabetes (also known as Type II diabetes mellitus or adult-onset diabetes), Hodgkin's disease, ischemic heart disease (including, but not limited to, acute, subacute, and old myocardial infarction; atherosclerotic cardiovascular disease including coronary artery disease (including coronary spasm) and coronary bypass surgery; and stable, unstable and Prinzmetal's angina), all chronic B-cell leukemias (including, but not limited to, hairy-cell leukemia and chronic lymphocytic leukemia), multiple myeloma, non-Hodgkin's lymphoma, Parkinson's disease, early-onset peripheral neuropathy, porphyria cutanea tarda, prostate cancer, respiratory cancers (cancer of the lung, bronchus, larynx, or trachea), soft-tissue sarcoma (other than osteosarcoma, chondrosarcoma, Kaposi's sarcoma, or mesothelioma).  38 C.F.R. §§ 3.309(e).
+
+Generally, lay evidence is competent with regard to identification of a disease with unique and readily identifiable features which are capable of lay observation.  See Barr v. Shinseki, 21 Vet. App. 303, 308 (2007).  A lay person may speak to etiology in some limited circumstances in which nexus is obvious merely through observation, such as sustaining a fall leading to a broken leg.  See Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir 2007).  Lay persons may also provide competent evidence regarding a contemporaneous medical diagnosis or a description of symptoms in service which supports a later diagnosis by a medical professional.  However, a lay person is not competent to provide evidence as to more complex medical questions, i.e., those which are not capable of lay observation.  Lay statements are not competent evidence regarding diagnosis or etiology in such cases.  See Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007) (concerning rheumatic fever); Jandreau, at 1377, n. 4 ('sometimes the layperson will be competent to identify the condition where the condition is simple, for example a broken leg, and sometimes not, for example, a form of cancer'); 38 C.F.R. § 3.159(a)(2).
+
+After the evidence has been assembled, it is the Board's responsibility to evaluate the entire record.  38 U.S.C. § 7104(a).  When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall resolve all reasonable doubt in favor of the claimant. 38 U.S.C. § 5107(b); Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990); 38 C.F.R. § 3.102.  This standard does not require the evidence to be exactly equal; rather, it includes "scenarios where the evidence is not in equipoise but nevertheless is in approximate balance.  Put differently, if the positive and negative evidence is in approximate balance (which includes but is not limited to equipoise), the claimant receives the benefit of the doubt."  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+1. Heart Condition
+
+Initially, the Board notes that the Veteran has claimed entitlement to service connection for a chronic heart condition and most recently, A-Fib.  His treatment records further reflect additional diagnoses of cardiomyopathy, supraventricular arrhythmia, and a noted implanted pacemaker.  The Board finds that these diagnoses and characterizations appear to describe the overall condition for which he is seeking service connection.  Therefore, the Board is recharacterizing the issue on appeal as one for service connection for a heart condition in accordance with the United States Court of Appeals decision in Clemmons v. Shinseki, 23 Vet. App. 1, 5 (2009).
+
+Additionally, it is noted that the Veteran's claim was previously denied by the Board in May 2019 and is considered a final claim that requires new and relevant evidence for readjudication as of his June 2024 VA Form 20-0995 (Supplemental Claim Action) submission.  However, in the September 2024 Rating Decision on appeal, it is shown that the RO found that new and relevant evidence had been provided to readjudicate this appeal.  The Board is bound by this favorable finding that there is new and relevant evidence; and as such, the Board need not adjudicate the reopening of the claim again and may proceed to the merits of the service connection claim.  38 C.F.R. § 3.104(c).
+
+For the aforementioned claim, the Veteran has provided the contention at the time of and since the submission of his initial claim that his disability is the result of exposure to Agent Orange while performing duties in the Republic of Vietnam.  See August 2023 VA Form 21-526EZ (Fully Developed Claim (Compensation), June 2024 VA Form 20-0995 (Supplemental Claim Action), and August 2024 Correspondence.  The Board notes that the Veteran's exposure to Agent Orange has been previously conceded and shall not disturb that finding.
+
+A review of service treatment records (STRs) is absent of any complaint or diagnosis of a heart disorder.  Notably, the separation examination does not indicate that the Veteran experienced any heart trouble.
+
+Post-service, the Veteran was initially seen for complaints of chest pain, shortness of breath, and palpitations in January 2017 and diagnosed with A-Fib in February 2017, having been treated for this condition since that time.  Records have generally been absent for any discussion of etiology.
+
+The Veteran presented a letter from his private physician in June 2017.   The physician stated that he was currently investigating the causes of the Veteran's medical condition and the possibility of Agent Orange could not be ruled out.  However, this opinion does not provide a definitive cause of the Veteran's current heart disorder.  Rather, it only states that the cause is still being investigated.  The physician did not provide any rationale for his opinion in the form of scientific or medical evidence.  Thus, this opinion is not found to be persuasive.
+
+A VA heart examination was provided in May 2017.  Upon a review of the claims file, subjective interview, and objective in-person testing, the Veteran was diagnosed with paroxysmal atrial fibrillation.  An opinion regarding etiology was not provided.
+
+An additional VA heart examination was provided in September 2023.  Upon a review of the claims file, subjective interview, and objective in-person testing, the Veteran was diagnosed with a supraventricular arrhythmia and implanted cardiac pacemaker.  The Veteran indicated onset in 2016.  An opinion regarding etiology was not provided.
+
+An additional VA heart examination was provided in March 2024. Upon a review of the claims file, subjective interview, and objective in-person testing, the Veteran was diagnosed with a supraventricular arrhythmia and cardiomyopathy.  The Veteran indicated onset in 2016.  With regard to etiology, the examiner opined that the diagnosed heart disabilities were likely related to the service-connected hypertension in accordance with accepted medical research and knowledge.
+
+The Board has reviewed all of the lay and medical evidence of record in conjunction with the applicable laws and regulations and finds the evidence of record to at least be in equipoise as to whether the criteria for entitlement to service connection for a heart condition are met.
+
+The Board recognizes the Veteran has a heart condition, primarily diagnosed as A-Fib.  Thus, the first element of service connection has been established.  See Romanowsky v. Shinseki, 26 Vet. App. 289, 293 (2013); 38 C.F.R. § 3.303(a).
+
+Regarding presumptive service connection for herbicide agent exposure, the Board finds the presumption inapplicable.  In accordance with the criteria cited above, the Veteran's A-Fib is not one of the enumerated presumptive disabilities under 38 C.F.R. §§ 3.309(e) and is not otherwise shown to be a form of ischemic heart disease as contemplated by the regulation.  As such, the presumption that a heart condition is associated with exposure to certain herbicide agents does not apply.
+
+However, the Veteran's claim may proceed on consideration of Agent Orange exposure on a direct basis.  See Combee v. Brown, 34 F.3d 1039, 1043-44 (Fed. Cir. 1994).  As the Veteran has conceded exposure to Agent Orange during service, the Board finds that the second element of service connection has also been established.  See Romanowsky, 26 Vet. App. at 293; 38 C.F.R. § 3.303(a).
+
+In this regard, the Board notes that the evidence of record fails to show any suggestion of an etiological link between the development of the Veteran's heart condition and his in-service exposure to Agent Orange.  As discussed above, the June 2017 private opinion was inadequately supported and too vague to be considered as a probative finding on the issue of nexus.  There have not otherwise been presented any probative medical opinions of record to suggest such.  
+
+However, while there is no evidence of a heart condition in service or the suggestion of any relationship to his in-service Agent Orange exposure, the Board finds that the heart condition based on secondary service connection is warranted.  See 38 C.F.R. § 3.310.  Here, the Veteran has been diagnosed with hypertension, for which he is presently service-connected.  Therefore, the issue turns upon a finding of nexus between the two.
+
+Here, the most probative medical evidence of record presented in regard to a nexus has been provided via the March 2024 VA examination opinion.  The Board considers this opinion to be highly probative as to the issue of nexus in this case, as it was rendered after a full review of the Veteran's claims file, his health history, and his statements in support of his claim, and it was supported by rationale.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008).  As such, this opinion is provided by a competent medical provider who has posited a plausible theory on the issue of nexus.
+
+Therefore, resolving any reasonable doubt in the Veteran's favor, the Board finds that the Veteran's claim of entitlement to service connection for a heart condition is granted.
+
+2. Hyperthyroidism
+
+The Veteran does have currently diagnosed hyperthyroidism and a demonstrated exposure to a toxic exposure risk activity (TERA) via Agent Orange exposure during the requisite period.  However, at the outset it is noted that hyperthyroidism is not among the disabilities contemplated under 38 C.F.R. § 3.309(f) and, therefore, presumptive service connection is not for application.  Despite the fact that presumptive service connection is unavailable in this instance, the inquiry does not end there.  The Federal Circuit has held that a Veteran who does not meet the requirements of 38 C.F.R. § 3.309 does not preclude him from establishing service connection by way of proof of actual direct causation.  Combee, 34 F.2d at 1041-42.  As such, the issue turns upon a finding of a nexus between the two on a direct basis.
+
+The Veteran claims that he suffers from hyperthyroidism that is the result of military service, to specifically include exposure to Agent Orange during service in the Republic of Vietnam.  See August 2023 VA Form 21-526EZ (Fully Developed Claim (Compensation).  In this regard, the Board notes that the May 2024 Rating Decision by the RO included the favorable findings that the Veteran had a currently diagnosed disability and conceded exposure to Agent Orange.  The Board is bound by these favorable findings; and as such, the Board need shall accept the conceded presence of a current disability and of Agent Orange exposure in service.  38 C.F.R. § 3.104(c).
+
+A review of the Veteran's service treatment records was absent for any discussion of complaints or treatment for any conditions involving the thyroid.
+
+Post-service, the Veteran was seen in August 2023 for bloodwork, which revealed elevated markers indicating hyperthyroidism.  The Veteran was referred to a specialist that same month that confirmed a diagnosis of hyperthyroidism.  The Veteran underwent a thyroidectomy in June 2024.  There was no discussion of etiology to military service or exposure to Agent Orange.
+
+A VA examination was provided in September 2023.  Upon a review of the claims file, subjective interview, and objective in-person testing, the Veteran was diagnosed with hyperthyroidism.  The Veteran reported onset of the condition on or about July 2023.  An opinion regarding etiology was not provided.
+
+An additional VA examination was provided in March 2024.  Upon a review of the claims file, subjective interview, and objective in-person testing, the Veteran was diagnosed with hyperthyroidism.  The Veteran reported onset of the condition on or about August 2023.  The examiner opined that this condition was less likely than not caused by or incurred in military service, to include consideration of the Veteran's in-service TERA via conceded exposure to Agent Orange.  In this regard it was explained that the established medical literature and research does not support the existence of a causal relationship between the chemicals involved in Agent Orange and the development of hyperthyroidism.  Although it is noted that some literature suggests a positive association, such has not otherwise shown a direct causal effect as would be required to support a nexus for delayed onset.
+
+The Board has reviewed all of the lay and medical evidence of record in conjunction with the applicable laws and regulations and finds the current hyperthyroidism is not related to service.
+
+The Board recognizes that the Veteran currently has hyperthyroidism.  Thus, the first element of service connection has been established.  See Romanowsky, 26 Vet. App. at 293; 38 C.F.R. § 3.303(a).
+
+Regarding presumptive service connection for herbicide agent exposure, the Board finds the presumption inapplicable.  As discussed above, the Veteran's hyperthyroidism is not one of the enumerated presumptive disabilities under 38 C.F.R. §§ 3.309(e).  As such, the presumption that hyperthyroidism is associated with exposure to certain herbicide agents does not apply.
+
+However, as also discussed above, the Veteran's claim may proceed on consideration of Agent Orange exposure on a direct basis.  See Combee, 34 F.2d at 1041-42.  As the Veteran has conceded exposure to Agent Orange during service, the Board finds that the second element of service connection has also been established.  See Romanowsky, 26 Vet. App. at 293; 38 C.F.R. § 3.303(a).
+
+In turning to the issue of a nexus between the in-service Agent Orange exposure and the development of hyperthyroidism, the evidence does not demonstrate that such a relationship is adequately supported.  Rather, the most probative medical evidence on the matter, via the March 2024 VA examination opinion, has shown that, while a mere association has been shown in research for the occurrences of  Agent Orange and hyperthyroidism, there have not been any confirmatory studies evidencing direct causation.  An association without further medically supported evidence of a causation is not enough to overcome the burden of proof.  The medical opinion is based on sufficient facts and supporting data and is the result of principles and methods reliably applied to the facts; the opinion contains clear conclusions; and provides a medical explanation connecting the conclusion to supporting data.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302 (2008).  Notably, there are no medical opinions of record to the contrary, as his treatment records discussed above have been absent for any discussion of etiology to military service or the circumstances thereof. 
+
+The Board further notes that the Veteran is competent to testify as to a condition within her knowledge and personal observation.  Barr, 21 Vet. App. at 308-310.  However, it is clear, based on a detailed review of the statements overall, that the Veteran has no actual specialized knowledge of medicine in general and that he is merely speculating as to whether his hyperthyroidism is the result of military service.  In this regard, he is not competent to diagnose the etiology of such disabilities, as this requires specialized medical knowledge and specific testing.  See 38 C.F.R. § 3.159 (stating that competent medical evidence means evidence provided by a person who is qualified through education, training, or experience to offer medical diagnoses, statements, or opinions).  As such, the Veteran's statements to the effect that his hyperthyroidism the result of military service are lacking in probative value.
+
+Accordingly, the evidence is persuasively against the claim.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and service connection for hyperthyroidism is not warranted.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+Increased Rating
+
+Disability ratings are determined by evaluating the extent to which a veteran's service-connected disability adversely affects his or her ability to function under the ordinary conditions of daily life, including employment, by comparing his or her symptomatology with the criteria set forth in the Schedule for Rating Disabilities.  See 38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+If two ratings are potentially applicable, the higher rating will be assigned if the disability more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned.  See 38 C.F.R. § 4.7.
+
+Where the appeal arises from the original assignment of a disability evaluation following an award of service connection, the severity of the disability at issue is to be considered during the entire period from the initial assignment of the disability rating to the present time.  Fenderson v. West, 12 Vet. App. 119, 126 (1999).
+
+In determining the present level of a disability for any increased rating claim, the Board must consider the application of staged ratings.  Hart v. Mansfield, 21 Vet. App. 505 (2007).  In other words, where the evidence contains factual findings that demonstrate distinct time periods in which the service-connected disability exhibited diverse symptoms meeting the criteria for different ratings during the course of the appeal, the assignment of staged ratings is necessary.
+
+The Veteran asserts he is entitled to a compensable rating for his service-connected hypertension.  See December 2024 VA Form 10182.
+
+Under 38 C.F.R. § 4.104, DC 7101, diastolic pressure predominantly 100 or more, or; systolic pressure predominantly 160 or more, or; minimum evaluation for an individual with a history of diastolic pressure predominantly 100 or more who requires continuous medication for control qualifies for a 10 percent rating. A 20 percent rating is warranted where diastolic pressure is predominantly 110 or more, or; systolic pressure is predominantly 200 or more. Diastolic pressure predominantly 120 or more warrants a 40 percent rating. A 60 percent rating is warranted where diastolic pressure predominantly is 130 or more, a 60 percent rating is warranted.
+
+The plain language of DC 7101 offers for veterans three distinct avenues to receive a minimum evaluation.  Wilson v. McDonough, 35 Vet. App. 75, 80 (2021).  The structure of DC 7101 shows that VA intended to compensate veterans who do not meet the 10 percent criteria due to medication. Id. at *8 (citing McCarroll v. McDonald, 28 Vet. App. 267, 273 (2016)).  Thus, the Board must consider "blood pressure readings before such readings were subdued by medication."  Id.
+
+The United States Court of Appeals for the Federal Circuit has held that the M21-1 Adjudication Procedures Manual (M21) of the Veterans Benefits Administration (VBA) does not "carry the force of law."  DAV v. Sec'y of Veterans Affs., 859 F.3d 1072, 1077 (Fed. Cir. 2017) overruled by Nat'l Org. of Veterans' Advocs., Inc. v. Sec'y of Veterans Affs., 981 F.3d 1360, 1374, 1378 (Fed. Cir. 2020) (en banc) (holding that, when certain M21 rules are of "general applicability" and should have been published in the Federal Register, the Federal Circuit has jurisdiction under 38 U.S.C. § 502 to review them).  It is "an internal manual used to convey guidance to VA adjudicators.  It is not intended to establish substantive rules beyond those contained in statute and regulation."  Id. (quoting 72 Fed. Reg. 66, 218, 66, 219 (Nov. 27, 2007)).  The M21 provisions do not go through the regular rulemaking procedures and are little more than evidence as to how VBA applies law and regulation in practice; it is not binding on the Board, as it is not a regulation, instruction of the Secretary, or OGC opinion.  Id.; see also 38 U.S.C. § 7104(c).  The regulations further clarify that the Board "is not bound by Department manuals, circulars, or similar administrative issues."  38 C.F.R. § 20.105.
+
+Nevertheless, the Board is required to discuss "any relevant provisions contained in the [M21] as part of its duty to provide adequate reasons or bases, but because it is not bound by those provisions, it must make its own determination before it chooses to rely on an [M21] provision as a factor to support its decision."  Overton v. Wilkie, 30 Vet. App. 257, 264 (2018).  Furthermore, where the applicable rating criteria contains terms that are undefined, the Board must define those terms as it applies them to the veteran at hand to satisfy its obligation to provide adequate reasons or bases.  Johnson v. Wilkie, 30 Vet. App. 245, 25455 (2018); Spellers v. Wilkie, 30 Vet. App. 211, 21920 (2018).
+
+Under DC 7101, a compensable rating is warranted "if continuous medication is required for blood pressure control, and past diastolic pressure (before medication was prescribed) was predominantly 100 or greater."  M21 V.iii.5.3.e.
+
+Turning to the evidence, service treatment records include a report of medical examination performed in January1976 (service separation) which shows blood pressure readings of 130/80.
+
+By May 2022, the Veteran was shown with a historical diagnosis of hypertension.  It was noted that it was well-controlled with medication.  A review of the available treatment records does not reveal precisely when the first onset, diagnosis, or administration was made.  However, as of October 2016, the Veteran was specifically found to be absent for a diagnosis of hypertension and the first mention of hypertension by the Veteran's medical providers as a historical diagnosis did not occur until the aforementioned May 2022 note.  Therefore, it is reasonable to presume that onset occurred sometime in the years between October 2016 and May 2022.  Therefore, any recorded blood pressure readings from October 2016 prior would be presumed to reflect the Veteran's unmedicated baseline.
+
+VA treatment records show the following blood pressure readings: 116/81 (October 2012); 133/84 (December 2013); 122/96 (June 2014); 112/75 (July 2015); 117/73 and 115/82 (September 2016); 129/71 (October 2016); 138/73 (November 2016); 134/72 (January 2017); 122/74 (May 2017); 120/66 (May 2022); 110/76 (August 2022); 122/89 (October 2022); 105/71 (February 2023); 111/80 (April 2023); 119/81 (May 2023); and 121/85 (August 2023), none of which show systolic pressure above 158 or diastolic pressure above 92.
+
+A VA hypertension examination was provided in September 2023.  Upon a review of the claims file, subjective history, and in-person objective testing, the Veteran was diagnosed with hypertension.  The Veteran stated that the blood pressure condition was diagnosed in 2023.  He was experiencing dizziness and palpitations.   He was started on blood pressure medication and the condition has since improved.  He takes the medication Metaprolol.  Blood pressure readings were 100/80; 110/80; and 107/85.  There was no history of diastolic blood pressure predominately over 100 at any time.  No effects on occupation were noted.
+
+An additional VA hypertension examination was provided in March 2024.  Upon a review of the claims file, subjective history, and in-person objective testing. The diagnosis included a history of hypertension; as well as hypotension.  The Veteran stated that the blood pressure condition had onset in 2003 to 2004.  He was place on medication for this at that time and the condition resolved thereafter.    Blood pressure readings were 108/80; 106/78; and 94/72.  There was no history of diastolic blood pressure predominately over 100 at any time.  Due to low blood pressure, the veteran describes fatigue and lethargy.  This limits his ability to do work and exert himself.  The examiner further opined that the Veteran also has a history of hypertension that was being treated, but is now being given medication to treat hypotension.  The hypertension was opined to be related to military service Agent Orange exposure while the hypotension was found to be unrelated to military service in any capacity.
+
+The Board does not find that any of the criteria for a minimum compensable rating have been satisfied.  At no time during the appellate period can it be said that the Veteran's systolic pressure was predominantly 160 or more.  38 C.F.R. § 4.104, DC 7101.  The same can be said for diastolic readings predominantly 100 or more.  See id.
+
+Even under the new analytic requirement announced in Wilson, the record still does not reveal he met the criteria.  The Veteran does not appear to be officially diagnosed with hypertension until sometime in 2022, possibly earlier but, no earlier than October 2016, and was prescribed Metaprolol at that time.  Before the ameliorative effects of that medication, however, there is no evidence that he had a history of diastolic pressure predominantly 100 or more.  The only evidence prior to October 2026 includes blood pressure levels well within the normal limits.  Thereafter, although his blood pressure appeared to rise over the years, particularly by 2022 blood pressure readings, but these were still within normal limits.  Thus, the Board does not find that, even prior to him taking medication, the Veteran met the necessary criteria for a minimum evaluation.  See Wilson, 35 Vet. App. at 80; 38 C.F.R. § 4.104, DC 7101.
+
+For all the foregoing reasons, the Board finds the evidence is persuasively against finding the Veteran is entitled to a compensable rating for hypertension.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Gilbert, 1 Vet. App. at 53-56.
+
+ 
+
+ 
+
+JONATHAN B. KRAMER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Dodd, Ryan H.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

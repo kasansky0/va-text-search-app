@@ -1,0 +1,61 @@
+Citation Nr: A25033531
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240506-437841
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to initial ratings in excess of 30 percent from July 22, 2013, and 50 percent from February 5, 2024, for service-connected posttraumatic stress disorder (PTSD) is remanded.
+
+Entitlement to a total disability rating based on individual unemployability due to service-connected disability (TDIU) is remanded.
+
+REASONS FOR REMAND
+
+The appellant is a Veteran who served on active duty from April 1984 to April 1988.  A February 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO), which is an agency of original jurisdiction (AOJ), granted service connection for PTSD and assigned the Veteran staged ratings of 10 percent from July 22, 2013, 30 percent from August 14, 2020, and 50 percent from February 5, 2024.  Thereafter, in February 2024, the Veteran filed VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), seeking higher initial ratings for PTSD to include a total disability rating based on individual unemployability (TDIU).  (Notably, in an HLR, an AOJ adjudicator reviews the decision using the same evidence VA considered in the prior decision and not any evidence that may have been added to the claims file since the prior decision.)  
+
+This case comes to the Board of Veterans' Appeals (Board) on appeal from a March 2024 HLR rating decision of an AOJ, which granted an initial 30 percent rating from July 22, 2013, and which continued the 50 percent rating from February 5, 2024, for service-connected PTSD.  In May 2024, the Veteran appealed for higher ratings for his PTSD by filing a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), on which he elected the Direct Review docket.  Given that he appealed a HLR rating decision, the Board may only consider the evidence of record at the time of the February 2024 AOJ decision that was subsequently subject to higher-level review.  38 C.F.R. § 20.301.  Thus, if evidence was submitted during the period after the February 2024 AOJ decision, it will not be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  
+
+The issue of a TDIU has been added to the appeal because such a claim is part of an increased rating claim when it is asserted by a claimant or raised by the record.  Rice v. Shinseki, 22 Vet. App. 447 (2009).  Here, while the evidence of record at the time of the February 2024 AOJ decision is not deemed to have reasonably raised the TDIU issue, the Veteran explicitly raised the issue of a TDIU as part of his PTSD increased rating claim in his February 2024 HLR request.  As the Board is remanding the PTSD increased rating claim, any evidence the Board could not consider, to include in relation to the TDIU claim, will be considered by the AOJ in the adjudication of the PTSD claim.  38 C.F.R. § 3.103(c)(2)(ii).  
+
+1. Entitlement to initial ratings in excess of 30 percent from July 22, 2013 and 50 percent from February 5, 2024 for service-connected PTSD
+
+The AOJ's failure to ensure the Veteran was afforded an adequate VA examination for rating purposes in this case constitutes a pre-decisional duty-to-assist omission, which requires corrective action.  
+
+The Veteran's attorney argued in the February 2024 HLR request that the Veteran's disability warranted at least a 70 percent rating throughout the entire appeal period in consideration of his symptoms of hallucinations, suicidal and homicidal ideations, extreme paranoia, impaired impulse control, significant forgetfulness, difficulty maintaining personal relationships, and the effects of his various other mental health disorders (particularly substance abuse disorders).  In support of the contention, he cited to numerous VA outpatient treatment records and the Veteran's March 2023 hearing testimony.  
+
+The initial "staged" ratings for the Veteran's PTSD were based in large part on VA treatment records and various examination reports.  In connection with his July 2013 service connection claim for "depression," the Veteran underwent four VA psychiatric examinations: in May 2019 and April 2020, examiners found there to be no diagnosis of a mental disorder; in August 2020, the examiner furnished a diagnosis of unspecified depressive disorder; and in February 2024, the examiner furnished a diagnosis of PTSD.  As the record now stands, it is not discernible whether the Veteran approximates the criteria for a 70 percent or higher rating in light of the attorney's argument that there was sufficient evidence in the file to show, as illustrated by cited lay and medical evidence, that he essentially exhibited persistent delusions or hallucinations, suicidal ideation, gross impairment in thought processes, grossly inappropriate behavior, a persistent danger of hurting self or others, disorientation to time or place, intermittent inability to perform activities of daily living, and inability to establish and maintain effective relationships.  The attorney also asserted that the Veteran's ratings should contemplate the functional impairment caused by his substance abuse.  
+
+The Veteran's service-connected disability has only more recently in the appeal period been diagnosed as PTSD.  Much of the appeal period beginning in July 2013, however, shows complaints and clinical findings related to depression, substance abuse (alcohol and cannabis abuse), and personality disorder, and two VA examiners found no mental disorder per the DSM-5 (Diagnostic and Statistical Manual of Mental Disorders (Fifth Edition).  In other words, there is no clear depiction of what symptoms are manifested by the service-connected disability and what symptoms are not associated with the disability, retroactive to July 2013.  The February 2024 VA examiner appeared only to address the Veteran's current mental status, stating that his PTSD "is seen to currently subsume all of [his] currently claimed and endorsed psychiatric symptoms" and that there "are no current medical conditions seen which intersect [his] mental illness."  
+
+In light of the foregoing, a VA examination is necessary to clarify the Veteran's service-connected symptoms, as distinguished from nonservice-connected mental impairment, for the period on appeal, which will entail reconciling divergent diagnostic conclusions of various VA examiners during the appeal period.  
+
+2. Entitlement to a TDIU
+
+As noted in the introduction, a TDIU claim is part of an increased rating claim when, as here, such claim was asserted by the Veteran in the February 2024 HLR request.  At the time of the February 2024 rating decision, the Veteran had not asserted, and the evidence of record did not reasonably raise, the issue of a TDIU.  As TDIU was not raised prior to the February 2024 rating decision, which was subject to the March 2024 HLR decision on appeal, it is improper to remand for development of the TDIU claim.  That is because there was not a pre-decisional duty-to-assist error by the AOJ for failing to develop a claim or theory of entitlement that was not raised before it.  Nonetheless, the TDIU matter is remanded to the AOJ because it is inextricably intertwined with the PTSD increased rating claim.  Upon remand, the Veteran will have an opportunity to furnish additional evidence (e.g., a TDIU application) to support such his claim.  
+
+The matters are REMANDED for the following action:
+
+1.  Arrange for a VA psychiatric examination of the Veteran to clarify the nature and severity of his service-connected PTSD from July 2013 to the present.  The examiner should provide a full description of the disability and report all signs and symptoms necessary for evaluating the disorder under the pertinent rating criteria for evaluating mental disorders.
+
+The examiner is specifically asked to reconcile the different conclusions drawn by VA treatment providers and VA examiners (in May 2019, April 2020, August 2020, and February 2024), in terms of the Veteran's DSM-5 diagnosis (if any), the symptoms attributed to each, and any impact of them on his life and employment.  Specifically, from the filing of his claim in July 2013 to the present, what mental disorder(s) may be related to the PTSD on a causal or aggravation basis (e.g., depression, substance abuse disorder, personality disorder)?  To that end, from July 2013 identify the psychiatric symptoms associated with his service-connected disorder as differentiated from those of a nonservice-connected disorder.  For example, the Veteran has asserted in February 2024 that throughout the appeal period he has had symptoms of hallucinations, suicidal and homicidal ideations, extreme paranoia, impaired impulse control, significant forgetfulness, difficulty maintaining personal relationships, and the effects of his various other mental health disorders particularly substance abuse disorders that are attributable to his service-connected mental disorder.
+
+Complete rationale should accompany all opinions.
+
+2.  Adjudicate the TDIU claim following re-adjudication of the claim for higher disability ratings for the Veteran's service-connected PTSD.
+
+In remanding this matter, the Board makes no finding, implicit or otherwise, as to the credibility of the assertions made by the Veteran.  Neither his credibility nor any lack thereof should be presumed in this remand.   
+
+ 
+
+ 
+
+L. B. CRYAN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Breitbeil, Debbie
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

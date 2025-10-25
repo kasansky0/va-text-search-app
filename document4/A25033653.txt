@@ -1,0 +1,63 @@
+Citation Nr: A25033653
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240823-467663
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to service connection for chronic obstructive pulmonary disease (COPD) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from August 1967 to July 1970, to include service in the Republic of Vietnam.
+
+Although the Veteran initially requested Higher-Level Review when submitting the June 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), the Higher-Level Reviewer determined that there had been a duty to assist error and transferred the claim to the Supplemental Claim decision review option for additional development.  
+
+In February 2024, the AOJ issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision.  
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the February 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the appeal, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+The Veteran claims entitlement to service connection for COPD as a result of his exposure to burn pits, including the burning of human feces, while serving in the Republic of Vietnam.  See September 2022 VA Form 21-526EZ, Application for Disability Compensation and Related Compensation Benefits; May 2023 VA Form 21-4138, Statement in Support of Claim.  Moreover, the record has raised whether the Veteran's COPD is related to his presumed exposure to herbicide agents while serving in the Republic of Vietnam. 
+
+For the reasons below, the Board finds remand is necessary to correct a pre-decisional duty to assist error.
+
+VA is required to provide an examination to a veteran seeking benefits when certain factors are met. McLendon v. Nicholson, 20 Vet. App. 79, 81-83 (2006). In McLendon, the United States Court of Appeals for Veterans Claims (Court) held that an examination is required when there is (1) competent evidence of a current disability or persistent or recurrent symptoms of a disability, and (2) evidence establishing an "in-service event, injury or disease," or establishing certain diseases manifesting during an applicable presumptive period for which the claimant qualifies, and (3) an indication that the current disability may be related to the in-service event, but (4) insufficient evidence to decide the case. Id. The threshold for providing Veterans with an examination is low. Id. at 83. When these factors are met, the AOJ must order a VA examination.
+
+Under the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act), effective August 10, 2022, Section 303 implemented 38 U.S.C. § 1168, requiring a disability examination and medical opinion be requested for certain non-presumptive conditions involving Toxic Exposure Risk Activity (TERA). For such claims, VA is required to provide a disability examination and medical opinion when the veteran submits a claim for compensation, has evidence of a disability, had evidence of participation in a TERA, and such evidence is not sufficient to establish service connection for the disability. A veteran can claim participation in a TERA explicitly or implicitly through service in a location presumed associated with toxic exposure, or records showing participation in a TERA, or, if VA has conceded exposure in a prior claim, or the file has a claim attributable to toxic exposure. Other ways to claim or establish participation in a TERA include, when a Veteran's military occupational specialty (MOS) is associated with toxic exposure; when medical records suggest exposure to a toxic substance, chemical, or airborne hazard such as VHA exposure screening; or, with any other relevant evidence of record, to include garrison exposures.
+
+There are, however, instances when VA is not required to provide a medical examination and opinion based on exposure to a TERA. See 38 U.S.C. § 1168(b) (a medical examination and opinion is not required if the Secretary determines there is no indication of an association between the disability claimed by the veteran and the toxic exposure risk activity for which the veteran submitted evidence).
+
+Here, the February 2024 rating decision on appeal made a favorable finding that the Veteran had a diagnosis of COPD.  The Board is bound by this favorable finding.  
+
+Next, as noted above, the Veteran asserts that he was exposed to burn pits in Vietnam. The record shows that he had service in Vietnam and that his MOS was combat engineer; therefore, the Board finds it plausible that he was exposed to burn pits while in Vietnam. See Department of Defense Form 214. Similarly, VA has conceded that he was exposed to herbicides during his active military service. See October 2023 VA Memorandum. 
+
+In the February 2024 rating decision, the AOJ noted that a medical opinion based on TERA was not required in this case because "the Secretary has determined there is no indication of association between [COPD] and participation in a TERA." Although sub-regulatory guidance suggests this is true for COPD and herbicide exposure, the 38 U.S.C. § 1168(b) exception to providing a VA opinion based on participation in a TERA does not apply to the Veteran's COPD and his alleged burn pit exposure during his military service in Vietnam. See VBA Letter 20-22-10, Processing Claims Involving the PACT Act, 87 Fed. Reg. 78, 543 (Dec. 22, 2022).
+
+Accordingly, remand is necessary to correct this pre-decisional duty to assist error.
+
+The matters are REMANDED for the following action:
+
+The Veteran should be afforded a VA examination to determine whether his COPD had its onset during, or is otherwise related to, his military service. The record and a copy of this remand must be made available to the examiner. Any indicated evaluations, studies, and tests should be conducted. The examiner should take a history from the Veteran as to the progression of his claimed disability.
+
+Following an examination and a review of the claims file, the examiner must address the following:
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's COPD was incurred in, or otherwise related to service?
+
+The examiner is reminded that the Veteran has been deemed to have participated in a toxic exposure risk activity (TERA) due to his exposure to burn pits in the Republic of Vietnam. The examiner must consider the total potential exposure through all applicable military deployments, and the synergistic, combined effect of all toxic risk activities.
+
+A clearly-stated rationale for any opinion offered should be provided, and must not be based solely upon the absence of chronic treatment in the Veteran's service treatment records. If the examiner is unable to provide any requested opinion without resort to speculation, he or she should specifically explain why this is so from a medical perspective after consideration of the Veteran's documented and reported medical history.
+
+ 
+
+Leetra J. Harris
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	James R. Springer, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

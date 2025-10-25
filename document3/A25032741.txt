@@ -1,0 +1,75 @@
+Citation Nr: A25032741
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240716-455738
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD) and all acquired mental conditions to include depression, anxiety, panic disorders and schizophrenia is dismissed.
+
+FINDING OF FACT
+
+The Veteran's July 2024 VA Form 10182 was an improper concurrent election which sought to appeal a rating decision denying entitlement to service connection for PTSD and all acquired mental conditions to include depression, anxiety, panic disorders and schizophrenia at the same time that a May 2024 supplemental claim remained pending.
+
+CONCLUSION OF LAW
+
+The criteria for dismissal of the appeal of entitlement to service connection for PTSD and all acquired mental conditions to include depression, anxiety, panic disorders and schizophrenia are met.  38 U.S.C. § 7104; 38 C.F.R. §§ 3.2500(b), 20.205.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from February 1974 to February 1976.
+
+This matter comes to the Board of Veterans' Appeals (Board) stemming from an April 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).
+
+Dismissal
+
+By way of background, the Veteran filed an August 2023 claim seeking, among other things, entitlement to service connection for PTSD and all acquired mental conditions.  In an April 2024 rating decision, the RO denied the Veteran's service connection claim for PTSD, and all acquired mental conditions to include depression, anxiety, panic disorders and schizophrenia.  The Veteran thereafter filed a May 2024, VA Form 20-0995 Supplemental Claim Application requesting consideration of additional evidence in support of the claim denied in the April 2024 rating decision regarding the PTSD and all acquired mental conditions to include depression, anxiety, panic disorders and schizophrenia claim.
+
+While the Supplemental Claim was still pending, the Veteran also filed a July 16, 2024, VA Form 10182 Notice of Disagreement requesting Direct Review of the claim for service connection for PTSD and all acquired mental conditions to include depression, anxiety, panic disorders and schizophrenia denied in the April 2024 rating decision.
+
+The RO issued another rating decision on July 23, 2024, (with a July 26, 2024, notification letter) wherein it continued its denial-of-service connection for PTSD and all acquired mental conditions to include depression, anxiety, panic disorders and schizophrenia following consideration of the additional evidence submitted with the May 2024 supplemental claim.
+
+In a July 25, 2024, Board Docketing Letter, the Board informed the Veteran that a VA Form 10182 Notice of Disagreement had been received and the appeal had been placed on the Direct Review docket. 
+
+Since that time, the Veteran filed a new VA Form 20-0995 Supplemental Claim for PTSD in August 2024 (and incidentally, the Veteran also, erroneously filed the claim on a VA 21-526EZ at the same time). 
+
+Under 38 C.F.R. § 3.2500, claimants may elect to review a decision by the Agency of Original Jurisdiction (AOJ) by filing a supplemental claim, Higher Level Review (HLR) request, or Board appeal.  The Veteran, however, is prohibited from concurrently requesting multiple types of review.  38 C.F.R. § 3.2500(b).
+
+The Board also acknowledges that the Court has held that a claimant may seek a second administrative review option with respect to the same decision on the claim, so long as the 1-year period from that decision has not run.  Terry v. McDonough, 37 Vet. App. 1 (2023).  Even so, the Veteran may not seek both review options concurrently.  Id. at 2.  In other words, a second administrative review is permissible if it is timely, and it does not run concurrently with the first administrative review option.  Id.; see also 38 U.S.C. § 5104C(a)(2)(A).
+
+Here, an April 2024 rating decision denied the Veteran's service connection claim for PTSD, and all acquired mental conditions to include depression, anxiety, panic disorders and schizophrenia.  The Veteran thereafter filed a supplemental claim May 14, 2024.  
+
+While the supplemental claim will still pending, the Veteran concurrently filed a July 16, 2024, VA Form 10182 appeal to the Board.  It appears the Board's docketing letter was sent around the same time as the AOJ issued the subsequent July 2024 rating decision (continuing the denial), but nonetheless, the AOJ decision is certainly after the Veteran's impermissible concurrent election.
+
+Given the forgoing, the Board finds that the Veteran's May 14, 2024, supplemental claim was pending at the time the Veteran filed his July 2024 Notice of Disagreement and, therefore, was an impermissible concurrent election. As such, the Board's July 2024 docketing letter docketed the appeal in error.  See 38 C.F.R. § 3.2500(b); see Terry, 37 Vet. App. 1 (2023). Dismissal is appropriate.
+
+In dismissing the appeal herein, the Board considered the applicability of any waiver of the procedural defect noted above.  See generally, Ferko v. McDonough, 37 Vet. App. 262 (2024) (en banc) (holding the one-year deadline to file a legacy NOD is not a jurisdictional bar to Board review, but a mandatory claims processing rule); see also Hall v. McDonough,?34?Vet. App.?329, 332?(2022) (regulatory claims-processing rules may be?waived?without affecting jurisdiction to adjudicate appeal); Percy v. Shinseki,?23?Vet. App.?37, 45?(2009) (VA may implicitly or explicitly?waive?any issue of timeliness in the filing of a Substantive Appeal).  The Board still retains subject-matter jurisdiction over claims on appeal when claims-processing rules are not followed; it is the Board's duty to engage in factfinding and explain the basis for any waiver or forfeiture of the relevant claims-processing rules.  Hall,?34 Vet. App. at 333.
+
+In particular, the Board considered whether it waived its right to enforce the prohibition on concurrent election by virtue of docketing the appeal.  See, e.g., Percy, 23 Vet. App. at 46-47 (holding VA waived any objection to the timeliness of the legacy substantive appeal because "VA consistently treated th[e] matter as if it was part of the timely filed Substantive Appeal[]" for over five years....").
+
+The Board finds that assigning the appeal a docket in and of itself does not constitute a waiver of the prohibition of concurrent election.  Indeed, whether the Board has waived any objection to a concurrent election should be based on all facts and circumstances of that case.  Accord Percy, 23 Vet. App. at 46 (discussing VA's actions in that case in finding VA had treated the substantive appeal as timely filed).
+
+Here, although the Board completed the ministerial action of docketing the appeal, unlike the circumstances of Percy, the Board did not continuously "engage in substantive and procedural development" of the appeal.  There were no further communications, no hearing held, no action in which the Veteran would be under the impression that the merits of the case were examined and being developed in any substantive way.  
+
+Rather, it is clear the Veteran was impermissibly pursuing concurrent reviews and indeed, the AOJ review occurred within days of the July 2024 Board's docketing letter.  The Board clearly was unaware of the concurrent actions taking place. In contrast, the Veteran had received all notifications and understood that his service connection claim was already under development by the AOJ at the time he concurrently filed the VA Form 10182.  
+
+It is clear he understood the appeal was not pending at the Board level because after he received the July 2024 AOJ denial, he again filed a new supplemental claim at the AOJ in December 2024 (and again in March 2025) with additional stressor information.
+
+Accordingly, the Board finds that there has been no waiver of the prohibition on concurrent election under the facts and circumstances of this case.
+
+Based on the foregoing, the Board finds the attempted appeal must be dismissed as the July 2024 VA Form 10182 was an impermissible concurrent election and no waiver (implicit or explicit) was made.  
+
+As a final note, the AOJ provided correspondence in January 2025 stating that the Veteran's December 2024 supplemental claim could not be accepted due to the Veteran's pending appeal with the Board here.  The Board reiterates its finding that the docketing of the instant appeal was in error as it was the product of a concurrent election and, therefore, the AOJ is directed to process the December 2024 supplemental claim.
+
+ 
+
+SHEREEN M. MARCUS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Maddox, Rolen
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

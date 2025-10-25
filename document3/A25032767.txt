@@ -1,0 +1,87 @@
+Citation Nr: A25032767
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240503-437261
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for an acquired psychiatric disorder, to include major depressive disorder and posttraumatic stress disorder (PTSD), to include as secondary to service-connected disabilities, is remanded.
+
+Entitlement to a total disability evaluation based on individual unemployability (TDIU) is remanded.
+
+Entitlement to special monthly compensation (SMC) based on being housebound pursuant to the provisions of 38C.F.R. §3.350(i) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from August 1979 to August 1983. 
+
+This matter is before the Board of Veterans' Appeals (Board) following his appeal of an August 2023 Higher-Level Review (HLR) of a July 2022 Supplemental Statement of the Case (SSOC).
+
+By way of background, the Veteran initially perfected an appeal of these issues in the Legacy system. In August 2021 the Board remanded the claims for additional development to include obtaining a VA psychiatric examination and opinion regarding the nature and etiology of any current psychiatric disability(ies). In July 2022, the Agency of Original Jurisdiction (AOJ) issued an SSOC denying the claims.
+
+The Veteran opted the claims into the modernized review system, also known as the Appeals Modernization Act (AMA) system, by submitting an August 2022 VA Form 20-0996, Decision Review Request: Higher-Level Review. The AOJ issued an HLR decision in August 2023, which is the decision on appeal.
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. 
+
+Although the Veteran had requested a Higher-Level Review of the July 2022 SSOC, the AOJ noted that a special review of the file was mandated on October 5, 2022, which was completed in the supplemental claim process. See Higher-Level Review Return. The August 2023 rating decision on appeal was then issued. Therefore, the Board may only consider the evidence of record at the time of the August 2023 AOJ decision. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. However, as a remand of this matter is required, any such evidence will be considered by the AOJ on remand.
+
+1. Entitlement to service connection for an acquired psychiatric disorder, to include major depressive disorder and posttraumatic stress disorder (PTSD), to include as secondary to service-connected disabilities, is remanded.
+
+The Veteran seeks service connection for an acquired psychiatric disorder to include as secondary to his service connected disabilities.
+
+The Board previously remanded this claim for additional development. Specifically, in addition to providing a direct nexus opinion, the Board requested the examiner to provide an opinion as to whether it is at least as likely as not that any diagnosed psychiatric disorder was caused OR is or has been aggravated by the Veteran's service-connected low back disability and/or migraine headaches, to include pain associated therewith. See August 2021 Board Decision.
+
+Following the Board's August 2021 remand directives, the Veteran was afforded a VA examination in May 2022. The examiner stated that the Veteran does not currently meet the criteria for PTSD. The Veteran was diagnosed of bipolar disorder unspecified and unspecified personality disorder. The examiner provided a negative nexus opinion as to direct service connection. The examiner stated that the Veteran does not have a psychosis which has manifested to a compensable degree within a year of release from active duty. The examiner went further to identify what "psychosis" means in accordance with 38 CFR 3.384. As rationale, the examiner stated that "SMRs are silent for mental health complaint, diagnosis, or treatment during active duty. Clinical documentation indicates that the Veteran was in an MVA in 1996 (13 years post-military service) after which mental health treatment is noted to have begun". The examiner also opined it is less likely than not that the diagnosed psychiatric disorder was caused or aggravated by the service-connected conditions. As rationale, the examiner stated the following: "The Veteran is diagnosed with a personality disorder and, therefore, has evidenced a repetitive pattern of characterological traits that have had a significant negative impact on his life in areas of interpersonal relationships, behavior, identity, cognition, and emotional dysregulation. Although etiology is not completely understood, personality disorders are known to have their origin during childhood development. Personality disorders are not caused by or due to migraine headaches, chronic pain or any other medical condition whether service-connected or not.  These individual's responses to life stressors may involve abrupt shifts of affect with poor coping skills to deal with such stressors.  Personality disorders are considered to be inflexible, maladaptive, longstanding, and characterological in nature. Personality disorders are considered to be a developmental condition and, therefore, existed prior to military service.  Although there may be brief changes, the course of the personality disorder would as likely as not be intractable and generally remain the same over the course of his lifetime. Temporary flare-ups that may occur with times of increased stress would not be a permanent increase in the severity of the condition but consistent with the natural progression of the psychiatric condition under similar circumstances whether he was active duty or not". See May 2022 C&P Examination. 
+
+In June 2022, the AOJ requested the examiner to provide clarification of the May 12, 2022, medical opinion. In her clarification response, the examiner noted that the records contain diagnoses of other psychiatric disabilities including mood disorder, PTSD, bipolar disorder, unspecified anxiety disorder, and adjustment disorder. As to direct service connection, the examiner stated the following: "This examiner provided a thorough rationale for decisions made regarding the 05/12/2022 Initial PTSD C&P examination. The rationale provided a detailed account of the record and medical principles used in arriving at the conclusions at the time. The conclusions are based upon objective available evidence. While other evidence, such as lay statements, are also considered they do not over-ride the objectively documented facts of the Veteran's mental health history at the time treatment and history was documented." Regarding aggravation, the examiner clarified that the Veteran's "mental health condition may at least as likely as not be aggravated by his service connected medical conditions". However, the examiner was unable to provide any baseline assessment with regards to the impact that the service connected disabilities have had on the Veteran's psychiatric disability. See June 2022 C&P Examination.
+
+The Board finds the May and June 2022 opinions inadequate for adjudicative purposes and a remand is thus required to correct this pre-decisional duty to assist error. First, while the examiner stated that the Veteran's service connected disabilities may aggravate his psychiatric disability, nevertheless, she noted that she cannot provide any baseline assessment with regards to the impact that the Veteran's service connected disabilities has had on mental health condition; and that "life stressors may lead to abrupt shifts of affect with poor coping skills to deal with such stressors, which may be the case with this Veteran". This statement appears to contradictory. The Court has held that a VA examination does not adequately address aggravation unless it rules out the possibility of aggravation. El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013). Thus, given that the opinion raised the possibility of aggravation or a link to the Veteran's service connected disabilities, the AOJ should have sought clarification. See Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023) (holding all that is needed is a "but for" causation or aggravation to show secondary service connection, which is an incremental-increase in the severity of a nonservice-connected disease and contemplates multi-causal links, including action and inaction.). Also, permanent aggravation is not required for service connection. See Ward v. Wilkie, 31 Vet. App. 233 (2019) ("any incremental increase in disability-any additional impairment of earning capacity-in non-service-connected disabilities resulting from service-connected conditions regardless of its permanence" constitutes aggravation). Second, the examiner's opinion is pure speculation. Words such as "may" or "could" are speculative language that cannot be used to support a claim. See Hood v. Shinseki, 23 Vet. App. 295, 298 (2009); see also Tirpak v. Derwinski, 2 Vet. App. 609, 611 (1992) (medical opinions, which are speculative, general, or inconclusive in nature, cannot support a claim). 
+
+The Veteran was afforded another VA examination in July 2023. The examiner remarked that for the claimant's claimed condition of major depressive disorder there is no diagnosis because there are no findings, signs and or symptoms to support a diagnosis. The examiner opined that the claimed condition was less likely than not (likelihood is less than approximately balanced or nearly equal) proximately due to or the result of the Veteran's service connected condition. As rationale, the examiner proffered that there is no pathology to warrant a diagnosis. See July 2023 C&P Examination. The Board finds the opinion inadequate as the examiner acknowledged the Veteran has other psychiatric diagnosis on record to include depressive disorder with medications, but because the examiner did not diagnose depressive disorder at the examination, an etiology opinion for the other diagnosed psychiatric disabilities of record was not provided. On remand, an etiology opinion must be obtained for all diagnosed psychiatric disabilities present during the appellate period even if resolved during the pendency of the claim. See McClain v. Nicholson, 21 Vet. App. 319 (2007).
+
+The AOJ relied on inadequate VA examination opinions, constituting a pre-decisional duty to assist error. As such, a remand for an addendum opinion is required.
+
+The Board recognizes that the Veteran's attorney submitted a general statement with the May 2024 NOD in which he requested the credentials for "any and all Compensation and Pension examiner(s)" whose opinions VA relied on to deny the Veteran's claims and objected to their competence, under Francway v. Wilkie, 940 F.3d 1304 (Fed. Cir. 2019). The Veteran has not been provided the information he requested on the credentials of the examiners, who performed the psychiatric examinations. On remand, VA must respond to the Veteran's request and remedy this due process error.
+
+2. Entitlement to a total disability evaluation based on individual unemployability (TDIU) is remanded.
+
+3. Entitlement to special monthly compensation (SMC) based on being housebound pursuant to the provisions of 38C.F.R. §3.350(i) is remanded.
+
+An April 2023 VA examiner stated that the Veteran's ability to respond appropriately to coworkers, supervisors, or the general public is considered moderately impaired due to his mental health condition. See April 2023 medical Opinion. The Board finds that the issues of entitlement to TDIU and SMC are inextricably intertwined with the service connection claim being remanded. Accordingly, remanding the TDIU and SMC claims is required for contemporaneous adjudication. See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991) (holding that where a claim is inextricably intertwined with another claim, the claims must be adjudicated together in order to enter a final decision in the matter).
+
+The matters are REMANDED for the following action:
+
+1. Provide the Veteran with requested copies of the credentials of the examiners, who conducted his VA examinations pertinent to the claims on appeal, to include the letter of engagement and examiner's curriculum vitae. If any of the requested information is not provided, send correspondence to the Veteran and his attorney explaining why it cannot be provided.
+
+2. Obtain an addendum medical opinion from an appropriate examiner to determine the nature and etiology of the Veteran's psychiatric disabilities. The necessity of an in-person examination is left to the examiner's discretion. The examiner should render an opinion, including rationale, addressing the following:
+
+(a.) Whether any psychiatric disability is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) related to his active service.
+
+(b.) Whether any psychiatric disability is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) caused by his service-connected disabilities.
+
+(c.) Whether any psychiatric disability is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) aggravated by his service-connected disabilities.
+
+The examiner should specifically address the June 2022 VA examiner's opinion noting that the Veteran's service connected conditions may aggravate his psychiatric disabilities.
+
+NOTE: If the clinician determines that the claimed condition was aggravated by a service-connected disability, the clinician must provide the baseline level of severity of psychiatric disabilities established by medical evidence created before the onset of aggravation or by the earliest medical evidence created at any time between the onset of aggravation and the receipt of medical evidence establishing the current level of severity of psychiatric disabilities. See 38 C.F.R. § 3.310(b).
+
+The examiner is advised that the Veteran is competent to report his symptoms and history, and such reports should be acknowledged and considered in formulating any opinion. If medical literature is relied upon, the examiner should identify and specifically cite each reference material used. The examiner should specifically discuss any contradictory evidence in the claims file and reconcile that evidence with their findings.
+
+All opinions should be accompanied by supporting rationale explaining how the examiner arrived at the conclusions expressed.
+
+If the examiner determines that s/he cannot provide an opinion without resorting to speculation, s/he should explain the inability to provide an opinion, identifying precisely what facts could not be determined. In particular, s/he should comment on whether an opinion could not be provided because the limits of medical knowledge have been exhausted or whether additional testing or information could be obtained that would lead to a conclusive opinion.
+
+ 
+
+ 
+
+DAVID L. WIGHT
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Rogers, N.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,75 @@
+Citation Nr: A25033397
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 250305-522235
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to service connection for monoclonal gammopathy of undetermined significance (MGUS) is remanded.
+
+Entitlement to service connection for Parkinsonism is remanded.
+
+Entitlement to service connection for dementia is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from October 1964 to October 1968.
+
+In the March 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the April 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the appeal, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The Veteran claims entitlement to service connection for MGUS, Parkinsonism, ad dementia as a result of his military service.  Specifically, the Veteran attributes those disabilities to his service at Chanute Air Base in Illinois and his exposure to per- and polyfluoroalkyl substances (PFAS); 1,4-Dioxane; 2,4-Dichlorophenoxyacetic acid; 2,4,5-Trichlorophenoxyacetic acid; as well as fuels, oils, solvents, hydraulic fluids and pesticides as a result of his military occupational specialty (MOS) and an auto repairman.  The Board notes that 2,4-Dichlorophenoxyacetic acid and 2,4,5-Trichlorophenoxyacetic acid are included in the definition of herbicide agents in 38 C.F.R. § 3.307(a)(6)(i).
+
+Alternatively, as will be explained below, the evidence of record has indicated that the Veteran's dementia is secondary to his Parkinsonism.
+
+In the April 2024 rating decision on appeal, the AOJ favorably found current diagnosis of MGUS and Parkinsonism, which are diseases associated with exposure to herbicide agents.  The AOJ also favorably found that the Veteran participated in toxic exposure risk activities (TERA) associated with his military occupational specialty of auto repairman, including exposure to fuel, exhaust, solvents, and chemicals. 
+
+As noted above, the Veteran asserts he was exposed to 2,4-Dichlorophenoxyacetic acid and 2,4,5-Trichlorophenoxyacetic acid, two chemicals that are included in the definition of herbicide agents in 38 C.F.R. § 3.307(a)(6)(i).  In support of his claim, the Veteran cited a finding by the Environmental Protection Agency that Chanute Air Base was a superfund site, and that some of the toxins discovered at Chanute included PFAS; 1,4-Dioxane; 2,4-Dichlorophenoxyacetic acid; 2,4,5-Trichlorophenoxyacetic acid; as well as fuels, oils, solvents, hydraulic fluids and pesticides.  See September 2023 VA Form 21-526EZ, Application for Disability Compensation and Related Compensation Benefits.
+
+The Veteran's service personnel records confirm he was at Chanute Air Base from December 1964 to March 1965.
+
+The M-21 Adjudication Procedures Manual contains guidance for developing claims when the Veteran alleges exposure in a location not associated with a presumption of herbicide exposure. This information is currently found at M21-1, Part VIII.i.1.A.6.a.
+
+On review, there is no indication that VA made attempts to verify the claimed exposure, and under the circumstances of this case, the Board finds the M-21 provisions relevant and instructive. See Overton v. Wilkie, 30 Vet. App. 257 (2018) (M21-1 is not binding on the Board, and the Board must conduct an independent analysis before determining whether the Manual provisions may be relied upon as a factor to support its decision).
+
+Accordingly, a remand is needed to correct this pre-decisional duty to assist error. 38 C.F.R. § 20.802(a).
+
+The Board also notes that the medical opinions were obtained in February 2024 that addressed whether the Veteran's MGUS and Parkinsonism were related to the TERA associated with his military occupational specialty of auto repairman, including exposure to fuel, exhaust, solvents, and chemicals.  However, the opinions are insufficient to adjudicate the claims.  As for the opinion that addresses the Veteran's Parkinsonism, the opinion is inherently contradictory.  Specifically, while the opinion provider noted that the Veteran's TERA included exposure to fuel, exhaust, solvents, chemicals, and that causes for Parkinsonism included exposure to chemicals, pesticides, and herbicides, she was unable to find any medical or scientific evidence to support a correlation between Parkinsonism and the Veteran's TERA.
+
+As for the Veteran's MGUS, the opinion provider noted that medical research had indicated that the exact cause of MGUS was not known, and she was unable to find any medical or scientific evidence of a correlation between MGUS and the Veteran's TERA.
+
+The Board notes that a medical opinion can be adequate even when the examiner states that no opinion can be given without resorting to speculation. Jones v. Shinseki, 23 Vet. App. 382, 390 (2010)). The Board can treat as adequate an examiner's statement that he or she could not offer an opinion without resorting to speculation only when (1) it is clear that the examiner considered all procurable and assembled data before stating that an opinion cannot be reached, and (2) the examiner must explain the basis for his or her conclusion that a non-speculative opinion cannot be offered. In other words, it must be apparent that the inability to provide an opinion without resorting to speculation "reflect[s] the limitation of knowledge in the medical community at large" and not a limitation whether based on lack of expertise, insufficient information, or unprocured testing of the individual examiner. Id. at 390.
+
+Here, it is unclear from the opinion whether the examiner's inability to provide the requested opinion was due to the limitation of knowledge in the medical community at large or whether it was due to a limitation in the examiner's expertise, a lack of information which could not be obtained, etc. 
+
+The Board therefore finds that remand is required to obtain new opinions. See Barr v. Nicholson, 21 Vet. App. 303 (2007).
+
+With respect to the Veteran's claim for service connection for dementia, the Board notes that an April 2024 VA medical opinion concluded that such was secondary to his Parkinsonism.   As such, the Board finds that this issue is inextricably intertwined with the issue of entitlement to service connection for Parkinsonism and, therefore, a remand of that issue is also required. See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991). 
+
+The matters are REMANDED for the following action:
+
+1. Make attempts to verify the claimed exposure to 2,4-Dichlorophenoxyacetic acid and 2,4,5-Trichlorophenoxyacetic acid, two chemicals that are included in the definition of herbicide agents in 38 C.F.R. § 3.307(a)(6)(i), at Chanute Air Force Base, Illinois during the period from December 1964 to March 1965. In doing so, follow the steps in the M-21 addressing the verification of herbicide exposure on a factual basis in other locations.
+
+2. The Veteran should be afforded a VA examination to determine whether his MGUS, Parkinsonism, and/or dementia are related to his military service. The record must be made available to the examiner. Any indicated evaluations, studies, and tests should be conducted. The examiner should take a history from the Veteran as to the progression of his MGUS, Parkinsonism, and/or dementia.
+
+After a review of the record and an examination and interview of the Veteran, the examiner should offer an opinion as to the following:
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's MGUS, Parkinsonism, and/or dementia are otherwise related to an in-service injury, event, or disease, to include any hazardous exposure as a result of his duties as an auto repairman?
+
+In offering a response, the examiner is reminded that the Veteran has been deemed to have participated in a toxic exposure risk activity (TERA) associated with his military occupational specialty of auto repairman, including exposure to fuel, exhaust, solvents, and chemicals due to his location of service. The examiner must consider the total potential exposure through all applicable military deployments, and the synergistic, combined effect of all toxic risk activities.
+
+A clearly stated rationale for any opinions offered should be provided and must be based on consideration of all pertinent lay and medical evidence.  If the examiner is unable to provide any requested opinion without resort to speculation, he or she should specifically explain why this is so from a medical perspective after consideration of the Veteran's documented and reported medical history. 
+
+ 
+
+Leetra J. Harris
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	James R. Springer, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

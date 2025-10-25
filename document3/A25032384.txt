@@ -1,0 +1,71 @@
+Citation Nr: A25032384
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240812-462788
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to an effective date earlier than October 12, 2023, for the award of entitlement to a total disability rating based on individual unemployability due to service-connected disabilities (TDIU) is denied.
+
+FINDING OF FACT
+
+The October 12, 2023, VA Form 21-8940, Application for Increased Compensation Based on Unemployability, claiming TDIU is considered an initial claim under the Appeals Modernization Act; the Veteran did not become unemployable due to his service-connected disabilities at some point during the year prior to the filing of his TDIU application.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an effective date earlier than October 12, 2023, for the award of entitlement to a TDIU have not been met.  38 U.S.C. § 5110; 38 C.F.R. §§ 3.2500, 3.400.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from June 1974 to June 1977.  
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO). 
+
+Within the framework of the Appeals Modernization Act (AMA), in August 2024, the Veteran submitted a VA Form 10182, Decision Review Request Board Appeal (Notice of Disagreement (NOD)) in response to the March 2024 rating decision and elected Direct Review by a Veterans Law Judge.  38 C.F.R. § 19.2(d).  In this regard, the Board notes that under the direct review option, no additional evidence received after the appealed rating decision is to be considered; rather, review is limited to the evidence on record at the time of the March 2024 decision.  It may consider argument, but not evidence, that was received at any time after the March 2024 rating decision.
+
+Effective Date
+
+A claim of entitlement to a TDIU is essentially a claim for an increased rating.  See Hurd v. West, 13 Vet. App. 449 (2000).  Generally, the effective date of an increased rating is the date of receipt of claim or date entitlement arose, whichever is later.  38 U.S.C. § 5110; 38 C.F.R. § 3.400(o)(1).  Except, if it is factually ascertainable based on all evidence of record that an increase in disability had occurred and a complete claim or intent to file a claim was received within one year from such date.  38 C.F.R. § 3.400(o)(2).
+
+A claimant may continuously pursue a claim or an issue by timely and properly filing for certain administrative review options after any decision by the AOJ, Board, or the U.S. Court of Appeals for Veterans Claims.  38 U.S.C. § 5110; 38 C.F.R. § 3.2500.
+
+Entitlement to an effective date earlier than October 12, 2023, for the award of entitlement to a TDIU.
+
+The Veteran is seeking an effective date earlier than October 12, 2023, for a total disability rating based on individual unemployability, asserting that his TDIU claim should have been considered as an extension of the continuously processed claim that he filed for lower back pain.
+
+By way of background, the Veteran filed a claim for service connection for chronic lower back pain in March 2022.  Subsequent to a June 2022 rating decision that denied service connection for the claimed chronic lower back pain, the Veteran submitted a supplemental claim in March 2023.  In August 2023, the AOJ issued a rating decision granting service connection for lumbosacral strain, degenerative arthritis, degenerative disc disease (DDD) other than intervertebral disc syndrome (IVDS), and IVDS (hereinafter "low back disability"), assigning a 10 percent rating, effective September 6, 2021, and an evaluation of 20 percent, effective March 31, 2023.  The August 2023 rating decision had effectuated the grant of service connection for the low back disability from September 6, 2021, the date an intent to file claim was received.  
+
+In its notice to the Veteran of the August 2023 decision, the AOJ provided directions to the Veteran and his representative as to how to proceed if the Veteran disagreed with the decision.  In accordance with the regulations referenced above, the AOJ explained that the Veteran could seek review within one year by submitting a VA Form 20-0995, Decision Review Request: Supplemental Claim, a VA Form 20-0996, Decision Review Request: Higher-Level Review, or a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement).  
+
+The Veteran and his representative did not file any of the forms prescribed by the Secretary detailed in the August 2023 notice letter within a year of the August 2023 notice of decision.  Ultimately, the Veteran did not express any disagreement as to the effective date assigned for the grant of service connection for low back disability or the initial ratings assigned for low back disability.  The Veteran did not submit a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), a VA Form 20-0995, Decision Review Request: Supplemental Claim, or a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD) as to the August 2023 rating decision.  
+
+On October 12, 2023, the Veteran filed a VA Form 21-8940, Veteran's Application for Increased Compensation Based on Unemployability (VA Form 21-8940), with inferred claims for increased rating for the service-connected low back and bilateral lower extremity radiculopathy disabilities.  The Veteran had reported that he last worked full-time in March 2015 and became too disabled to work in July 2021.  
+
+In March 2024, the AOJ issued a rating decision increasing the rating for the service-connected low back disability to 40 percent, increasing the rating for the service-connected radiculopathy, left lower extremity (femoral nerve) to 20 percent, continuing the 20 percent rating for the service-connected radiculopathy, right lower extremity (femoral nerve), continuing the 10 percent rating for the service-connected radiculopathy, left lower extremity (sciatic nerve), granting the claim for entitlement to a TDIU, granting entitlement to special monthly compensation based on housebound criteria, and granting basic eligibility to Dependents' Educational assistance based on permanent and total disability status, all effective October 12, 2023.  The March 2024 rating decision also proposed to decrease the rating to 10 percent for the service-connected radiculopathy, right lower extremity (sciatic nerve).
+
+In August 2024, the Veteran submitted a VA Form 10182, expressing disagreement with the effective date assigned to the TDIU, as decided in the March 2024 rating decision, asserting that his TDIU claim should have been considered as an extension of the continuously processed claim that he filed for lower back pain.
+
+The Board is aware that under Rice v. Shinseki, 22 Vet. App. 447, 453-54 (2009), when evidence of unemployability is submitted during the course of an appeal from an assigned disability rating, a claim for entitlement to a TDIU will be considered to have been raised by the record as "part and parcel" of the underlying claim.  However, the present case is distinguished from Rice because the Veteran did not continuously appeal the August 2023 rating decision.  The Board reiterates that under the AMA, the Veteran may establish continuous pursuit following an initial AOJ decision by filing one of three different appeals options within one year of the decision.  38 C.F.R. § 3.2500(h).  The three options are VA Form 20-0995, VA Form 20-0996, or VA Form 10182.  In this case, none of these three appeal options were filed following the August 2023 rating decision with respect to the ratings or effective date assigned.  Thus, there is no underlying claim for the October 12, 2023 TDIU claim to attach to pursuant to Rice v. Shinseki, 22 Vet. App. 447, 453-54 (2009).  
+
+The October 12, 2023 VA Form 21-8940 also may not be construed as part of a chain of continuous pursuit.  Under the AMA system, an initial claim for an increased rating (via Form 21-526EZ) is not considered a request for review of a prior decision, but rather a claim for an increased rating based on a change or worsening after the previous decision.  See 38 C.F.R. § 3.1(p)(1) (defining a claim for increased rating as an "initial claim" rather than a "supplemental claim").  A claim for TDIU is considered a type of increased-rating claim.  See Hurd v. West, 13 Vet. App. 449 (2000) (indicating that a TDIU claim is a claim for increased compensation and, therefore, the same effective date rules for increased compensation claims apply to a TDIU claim).  Here, the Veteran filed a VA Form 21-8940 requesting TDIU on October 12, 2023.  This request for TDIU via a VA Form 21-8940 is considered an increased-rating claim.  Accordingly, the TDIU claim cannot be considered a request for review of a prior decision; instead, it is a claim for an increased rating based on a change or worsening after the previous decision.  See 38 C.F.R. § 3.1(p)(1).  As such, even if it had been filed within a year of any of the decisions, the TDIU claim does not qualify as continuous pursuit of prior decisions.  Therefore, contrary to the Veteran's assertion that the Veteran's TDIU claim should have been considered as an extension of the continuously processed low back claim, the record reflects the October 12, 2023 application for a TDIU with an inferred claim for increased ratings for low back disability and bilateral lower extremity radiculopathy, was a new claim for increased rating for the Veteran's low back and bilateral lower extremity radiculopathy disabilities, and continuous pursuit has not been established in this case.
+
+Finally, the Board acknowledges that an award of a TDIU is essentially an award of an increased rating.  Norris v. West, 12 Vet. App. 413, 420 (1999).  Thus, it is governed by the effective date rules for increased ratings that provide that an increased rating award will be effective the "[e]arliest date as of which it is factually ascertainable based on all evidence of record that an increase in disability had occurred if a complete claim or intent to file a claim is received within 1 year from such date, otherwise, [the] date of receipt of claim."  38 C.F.R. § 3.400(o)(2).  In the TDIU context, this means that a TDIU may be effective up to one year before the date of receipt of the claim if evidence indicates that the Veteran became unemployable due to service-connected disabilities at some point during that year.  See Gaston, 605 F.3d at 982-84.
+
+In this case, the Veteran has asserted that he last worked full-time in March 2015 and has been unable to work since July 2021, past the one-year lookback period.  See October 2023 VA 21-8940 Veterans Application for Increased Compensation Based on Unemployability.  The Board finds this lay evidence credible and consistent with other evidence of record.  Regrettably, based on this evidence, the Board must conclude that the Veteran did not become unemployable due to his service-connected disabilities at some point during the year prior to the filing of his TDIU application, between October 12, 2022, to October 11, 2023.  Thus, the Board is unable to grant an effective date within the one-year lookback period.
+
+In sum, the Board finds that it has no authority to grant the relief sought based on the evidence and filings currently of record.  Accordingly, the criteria for entitlement to an effective date prior to October 12, 2023, for the award of a TDIU have not been met.  As the evidence weighs persuasively against the appeal, there is no reasonable doubt to resolve, and the appeal is denied.
+
+ 
+
+ 
+
+T. Raymond
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J.C., Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

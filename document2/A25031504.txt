@@ -1,0 +1,173 @@
+Citation Nr: A25031504
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240321-427322
+DATE: April 4, 2025
+
+ORDER
+
+Entitlement to a compensable evaluation for service-connected left ear hearing loss is denied.
+
+REMANDED
+
+Entitlement to service connection for right ear hearing loss is remanded.
+
+Entitlement to an evaluation in excess of 10 percent disabling for service-connected residuals of fracture of vertebra, status post laminectomy is remanded.
+
+FINDING OF FACT
+
+The probative evidence of record shows that during the period of appeal, the Veteran's left ear hearing loss manifested as a pure tone threshold average and speech recognition score corresponding to no more than level II hearing loss.
+
+CONCLUSION OF LAW
+
+The criteria for a compensable evaluation for left ear hearing loss have not been met. 38 U.S.C. § 1155; 38 C.F.R. §§ 4.85, 4.86 Diagnostic Code 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the Army from June 1975 to June 1979.
+
+In March 2024, the Board of Veterans' Appeals (Board) received a VA Form 10182, Decision Review Request: Board Appeal electing the Direct Review docket to review a May 2023 rating decision issued by an Agency of Original Jurisdiction (AOJ) of the Department of Veterans Affairs (VA). Therefore, the Board may only consider the evidence of record at the time of the May 20223 AOJ decision on appeal. 38?C.F.R. § 20.301.
+
+1. Entitlement to a compensable evaluation for service-connected left ear hearing loss.
+
+The Veteran contends that his service-connected left ear hearing loss symptoms are more severe than contemplated by his initial non-compensable evaluation.
+
+A.	Legal Criteria
+
+Disability ratings are determined by the application of the VA's Schedule for Rating Disabilities. Separate diagnostic codes identify the various disabilities.  38 U.S.C. § 1155; 38 C.F.R. Ch. I, Part 4. Ratings for service-connected disabilities are determined by comparing the Veteran's symptoms with criteria listed in VA's Schedule for Rating Disabilities, which is based, as far as practically can be determined, on average impairment in earning capacity. Where there is a question as to which of two disability evaluations shall be applied, the higher evaluation is to be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating is to be assigned. 38 C.F.R. § 4.7. After careful consideration of the evidence, any reasonable doubt remaining is resolved in favor of the Veteran.  38 C.F.R. § 4.3.
+
+Where entitlement to compensation has been established and an increase in the disability rating is at issue, the present level of disability is of primary concern.  See Francisco v. Brown, 7 Vet. App. 55, 58 (1994).  Where an appeal is based on an initial rating for a disability, however, evidence contemporaneous with the claim and the initial rating decision are most probative of the degree of disability existing when the initial rating was assigned and should be the evidence "used to decide whether an original rating on appeal was erroneous."  See Fenderson v. West, 12 Vet. App. 119, 126 (1999).  In either case, if later evidence indicates that the degree of disability increased or decreased following the assignment of the initial rating, staged ratings may be assigned for separate periods of time.  Id at 126; See Hart v. Mansfield, 21 Vet. App. 505 (2007) (noting that staged ratings are appropriate whenever the factual findings show distinct time periods in which a disability exhibits symptoms that warrant different ratings). When adjudicating an increased rating claim, the relevant time period for consideration is the time period one year before the claim was filed.  Hart, 21 Vet. App. at 509.
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107 (b). This benefit-of-the-doubt rule applies if the competing evidence is nearly equal but does not apply when the evidence persuasively favors one side or the other. See Lynch v. McDonough, 999 F.3d 1391 (Fed. Cir. 2021).
+
+The Veteran's service-connected left ear hearing loss is assigned a noncompensable evaluation from March 10, 2023, under 38 C.F.R. § 4.124a, DC 6100.  See May 2023 Rating Decision - Codesheet.
+
+Schedular Ratings for Hearing Loss
+
+In evaluating the extent of hearing loss, disability ratings are derived by a mechanical application of the rating schedule to the numeric designations assigned after audiometric evaluations are performed. See Lendenmann v. Principi, 3 Vet. App. 345, 349 (1992). Hearing loss ratings range from noncompensable to 100 percent based on organic impairment of hearing acuity, as measured by controlled speech discrimination tests in conjunction with average hearing thresholds determined by puretone audiometric testing at frequencies of 1000, 2000, 3000 and 4000 cycles per second. "Puretone threshold average" is the sum of the puretone thresholds at 1000, 2000, 3000 and 4000 Hertz divided by four. This average is used in all cases (including those in §4.86) to determine the Roman numeral designation for hearing impairment from Table VI or VIa. 38 C.F.R. § 4.85, Diagnostic Code 6100.
+
+The rating schedule establishes eleven auditory acuity levels, designated from Level I for essentially normal hearing acuity, through Level XI for profound deafness. 38 C.F.R. § 4.85. The horizontal rows in Table VI (in 38 C.F.R. § 4.85) represent nine categories of the percentage of discrimination based on the controlled speech discrimination test. The vertical columns in Table VI represent nine categories of decibel loss based on the puretone audiometry test. The Roman numeral designation is located at the point where the percentage of speech discrimination and puretone threshold average intersect. See 38 C.F.R. §§ 4.85, 4.86. The Roman numeral designation for each ear is then used to determine the current level of disability based upon a pre-designated schedule. Table VII in 38 C.F.R. § 4.85. If impaired hearing is service-connected in only one ear, in order to determine the percentage evaluation, from Table VII, the nonservice-connected ear will be assigned a Roman numeral designation of I. 38 C.F.R. § 4.85 (f).
+
+The regulations also provide that in cases of exceptional hearing loss, i.e., when the puretone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more, the Roman numeral designation will be determined for hearing impairment, separately, from either Table VI or Table VIa, whichever results in the higher numeral. 38 C.F.R. § 4.86. A Roman numeral designation will also be determined from either Table VI or Table VIa, whichever results in the higher numeral, when the puretone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz. That numeral will then be elevated to the next higher Roman numeral.
+
+B.	Facts and Analysis
+
+During the period of appeal, the Veteran was afforded a VA examination to evaluate the extent of his hearing loss. See March 2023 C&P Exam. The examiner reviewed the claims file and examined the Veteran. Id at 1. The examiner conducted audiometric testing, the results of which are recorded below:
+
+03/27/2023	1000 Hz	2000 Hz	3000 Hz	4000 Hz	Average
+
+RIGHT	30	40	50	35	38.75
+
+LEFT	35	85	75	75	67.50
+
+ 
+
+The puretone threshold averages were 38.75 for the right ear and 67.50 for the left ear. Id at 2.
+
+The Veteran's Maryland CNC Word list Speech Discrimination Scores were recorded as 100% for the right ear, and 100% for the left ear. Id at 2.
+
+From Table VI of 38?C.F.R. §?4.85, Roman Numeral II is determined for the left ear.  Because the Veteran's right ear hearing loss is not service connected, it must be assigned Roman Numeral I. 38?C.F.R. §?4.85 (f). In this case, the Board notes that even if the Veteran's right ear hearing loss was service connected, Roman Numeral I would be determined. 38?C.F.R. §?4.85, Table VI. A non-compensable evaluation is thus determined by intersecting Roman Numeral II, the poorer ear, with Roman Numeral I, the better ear. 38 C.F.R. §?4.85, Table VII. An exceptional pattern of hearing loss under 38 C.F.R. §?4.86 is not indicated. The Board finds this examination adequate for rating purposes and assigns it high probative weight. See Nieves-Rodriguez v. Peake, 22 Vet. App. At 304 (2008) ("It is the factually accurate, fully articulated, sound reasoning for the conclusion ... that contributes probative value to a medical opinion.")
+
+The Board has reviewed the Veteran's VA treatment records, and notes that they do not contain any information about the Veteran's hearing loss that either contradicts the March 2023 examiner's findings or suggests the Veteran's symptoms have worsened since then. See generally March 2023 CAPRI. The Veteran has offered no lay statements or private treatment records suggestive of a worsening of the Veteran's hearing loss since his adequate March 2023 VA examination.
+
+Although the Veteran contends that his left ear hearing loss merits a compensable evaluation, the Board observes that the Veteran, while competent to report symptoms, is not competent to report that his hearing acuity is of sufficient severity to warrant a higher evaluation under VA's tables for rating hearing loss disabilities because such an opinion requires medical expertise (training in valuating hearing impairment), which he has not been shown to have. See Davidson v. Shinseki, 581 F. 3d 1313 (Fed. Cir. 2009); Jandreau v. Nicholson, 492 F. 3d 1372 (Fed. Cir. 2007). Thus, the Board assigns the Veteran's evaluation of his hearing loss no probative weight.
+
+Based on the evidence cited above, the Veteran did not meet the criteria for a compensable evaluation for service-connected left ear hearing loss at any time during the period of appeal. 38 C.F.R. § 4.85. In concluding a higher rating is not warranted, the Board finds the benefit of the doubt doctrine is not applicable because there is not an approximate balance of evidence for and against the claim. See 38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 4.3. See also Lynch v. McDonough, 999 F.3d 1391 (Fed. Cir. 2021).
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for right ear hearing loss is remanded.
+
+The Veteran contends that his right ear hearing loss is related to his active-duty service. Specifically, the Veteran contends that his right ear hearing loss was caused by his in-service exposure to hazardous levels of noise from rifles, explosions, artillery, and grenade simulators. See March 2023 VA Form 21-10210Lay Witness Statement .
+
+The Board has reviewed the Veteran's DD214 and notes that the Veteran served as an infantryman and heavy antiarmor weapons crew member. See August 1978 Certificate of Release or Discharge From Active Duty. The Veteran performed this service in an air assault regiment, and although the Veteran did not note such noise exposure expressly, the Board observes that frequent exposure to noise from helicopters is inherent to service in such units. Id.
+
+In March 2023, the Veteran was afforded a VA examination to determine the nature and etiology of his hearing loss. See March 2023 C&P Exam. The examiner reviewed the claims file and examined the Veteran. Id at 1. As noted in issue (1), above, the examiner performed audiometric testing and diagnosed the Veteran with sensorineural hearing loss in his right ear. Id at 3. The examiner opined that the Veteran's right ear hearing loss is less likely than not related to his active-duty service, to include in-service hazardous noise exposure. Id at 4. The examiner explained that the Veteran's separation audiogram "[...] reveals normal pure tone thresholds 500-6000Hz as compared to his entrance audiogram [...], which is objective evidence of no permanent auditory damage on active duty from conceded noise." Id.
+
+The Board has reviewed the Veteran's Service Treatment Records (STR), which show entrance and separation audiograms as follow:
+
+Entrance
+
+05/29/1975  	1000 Hz	2000 Hz	3000 Hz	4000 Hz
+
+RIGHT	10	10	--	5
+
+LEFT	10	20	--	40
+
+Separation
+
+04/02/1979	1000 Hz	2000 Hz	3000 Hz	4000 Hz	Average
+
+RIGHT	5	5	10	0	5.0
+
+LEFT	10	60	65	55	47.5
+
+ 
+
+The Board observe that the Veteran's induction exam did not test the 3000 Hz frequency, and that this is the frequency in which the Veteran now has the greatest degree of hearing loss. The Board further notes that while within normal limits, the Veteran's hearing loss on separation was worse in the 3000 Hz range than in any of the others.
+
+The Board notes that hearing acuity within normal limits on separation does not preclude service connection for a current hearing loss disability. See Hensley v. Brown, 5 Vet. App. 155 (1993); Ledford v. Derwinski, 3 Vet. App. 87, 89 (1992). In this case, given the nature of the extent of the Veteran's likely exposure to hazardous noise in service and the absence of the 3000 Hz frequency from the Veteran's entrance physical, the Board finds the examiner's near-exclusive reliance on the absence of in-service threshold shift conclusory and her opinion inadequate for rating purposes. Id; see also Nieves-Rodriguez, supra.
+
+One of the effects of the Appeals Modernization Act (AMA) is to narrow the set of circumstances in which the Board must remand appeals to the AOJ for further development instead of immediately deciding them directly. Nevertheless, even under the AMA, the Board still has the duty to remand issues when necessary to correct a pre-decisional duty-to-assist error. See Pub L. No. 115-55 section (2)(d); 38 C.F.R. § 20.802 (a). Here, remand is required to obtain an adequate addendum opinion regarding the relationship of the Veteran's right ear hearing loss to his in-service hazardous noise exposure.
+
+2. Entitlement to an evaluation in excess of 10 percent disabling for service-connected residuals of fracture of vertebra, status post laminectomy is remanded.
+
+The Veteran contends that the symptoms of his service-connected residuals of fracture of vertebra, status post laminectomy ("Back Condition") are more severe than contemplated by his current 10 percent evaluation. Specifically, the Veteran contends that since his condition was initially rated, his symptoms have worsened. See March 2023 VA Form 21-10210 - Lay Witness Statement. The Veteran requested re-examination of his back. Id.
+
+In April 2023, the Veteran was afforded a new VA examination of his back condition. See April 2023 C&P Exam. The examiner reviewed the claims file and examined the Veteran. Id at 1. The examiner performed initial range of motion testing and the results are recorded below.
+
+04/05/2023 Range of Motion testing, thoracolumbar spine
+
+Forward Flexion	70
+
+Extension	20
+
+Right Lateral Flexion	20
+
+Left Lateral Flexion	20
+
+Right Lateral Rotation	30
+
+Left Lateral Rotation	30
+
+Id at 4.
+
+The Board notes that the Veteran reported experiencing flare-ups and the examiner noted that during such flare-ups the Veteran experiences additional functional loss. Id at 6. However, in expressing the additional functional loss in terms of range-of-motion, the examiner provided the same numbers as for the Veteran's active range of motion, above. Id at 7. The examiner did not explain what the additional functional loss consisted of if not additional loss of range-of-motion. The Board finds this report inadequate because it is conclusory and unexplained where explanation is needed to determine functional impairment. See Horn v. Shinseki, 25 Vet.App. 231, 240-42 (2012).
+
+The Board also notes that the examiner reported that the Veteran experiences no radicular pain. See April 2023 C&P Exam at 10. However, review of the Veteran's VA treatment records shows that he has previously complained of radicular pain. See March 2023 CAPRI at 5, 158 (radicular pain and weakness noted in August 2011 and July 2014). Although a medical examiner need not address all evidence favorable to an appellant's claim, where the Veteran's treatment record contains evidence that may change the outcome of the rating decision, such evidence should be discussed. See Snuffer v. Gober, 10 Vet. App. 400, 403-04 (1997) (review of claims file not required where it would not change the objective and dispositive findings made during a medical examination); Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 303 (2008) (Board may properly consider failure of medical examiner to conduct complete and accurate review c-file where it explains why a review was "necessary or important in forming the appropriate medical judgment"). The Board finds the April 2023 examination inadequate because it overlooked and failed to discuss the Veteran's history of radicular pain.
+
+As noted in issue (2), above, the AMA narrows the set of circumstances in which the Board must remand appeals to the AOJ for further development instead of immediately deciding them directly. Nevertheless, even under the AMA, the Board still has the duty to remand issues when necessary to correct a pre-decisional duty-to-assist error. See Pub L. No. 115-55 section (2)(d); 38 C.F.R. § 20.802 (a). Here, remand is required to afford the Veteran an adequate VA examination of his back condition.
+
+The matters are REMANDED for the following actions:
+
+1. Obtain an addendum opinion from an appropriate clinician. The examiner must review the claims file but need only examine the Veteran in person if, in his or her opinion, doing so is necessary to render a valid opinion The examiner must answer the following:
+
+Is the Veteran's right ear hearing loss at least as likely as not related to his active-duty service, to include his exposure to hazardous levels of noise?
+
+The examiner must provide a complete rationale and is reminded not to base his or her rationale solely on the absence of a noted in-service threshold shift.
+
+2. Schedule the Veteran for an examination by an appropriate clinician to determine the current severity of his service-connected back condition. The examiner should provide a full description of the disability and report all signs and symptoms necessary for evaluating the Veteran's disability under the rating criteria.  
+
+In so doing, the examiner must test the Veteran's active motion, passive motion, and pain with weight-bearing and without weight-bearing.  If it is not possible to provide a specific measurement without speculation, the examiner must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), a deficiency in the record (additional facts are required), or the examiner (does not have the knowledge or training).
+
+(Continued on the next page)
+
+?
+
+In so doing, the examiner must attempt to elicit information regarding the severity, frequency, and duration of any flare-ups, and the degree of functional loss during flare-ups.  If it is not possible to provide a specific measurement based on direct observation, the examiner should provide an estimate, if at all possible, of the additional impairment due to flare-ups based on the other evidence of record and the Veteran's statements.  If it is not possible to provide a specific measurement without speculation, the examiner must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), a deficiency in the record (additional facts are required), or the examiner (does not have the knowledge or training).
+
+The examiner must review the Veteran's treatment records and should pay particular attention to notes indicating that the Veteran experienced radicular pain. If the examiner finds that the Veteran's past radicular pain has fully resolved, he or she should clearly note so and explain.
+
+ 
+
+ 
+
+R. Bisignani
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Robert Divis, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,111 @@
+Citation Nr: A25031172
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240807-461598
+DATE: April 3, 2025
+
+ORDER
+
+A rating higher than 40 percent for traumatic brain injury (TBI) is denied.
+
+FINDING OF FACT
+
+Throughout the appeal period, the Veteran's residuals of a TBI are shown to have a highest level of severity of "2" for the applicable facets.
+
+CONCLUSION OF LAW
+
+The criteria for a rating higher than 40 percent for TBI have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.2, 4.3, 4.7, 4.10, 4.124a, Diagnostic Code (DC) 8045.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 2009 to January 2010, March to June 2010, November 2016 to February 2017, March to June 2017, and October 2018 to September 2022. Her service decorations include the Air and Space Commendation Medal.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the March 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Increased Rating
+
+Disability evaluations are determined by the application of a schedule of ratings which is based on average impairment of earning capacity. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. Separate diagnostic codes identify the various disabilities. Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. Any reasonable doubt regarding the degree of disability is resolved in favor of the Veteran. 38 C.F.R. § 4.3.
+
+Traumatic Brain Injury 
+
+The Veteran's TBI has been assigned a 40 percent rating since her September 2022 grant of service connection pursuant to DC 8045. The Veteran has sought a higher rating.
+
+Diagnostic code 8045 provides the applicable rating criteria for TBI residuals grouped in three main areas of dysfunction: cognitive, emotional/behavioral, and physical. The regulatory criteria used for cognitive impairment and other residuals of a TBI are: (1) memory, attention, concentration, executive functions; (2) judgment; (3) social interaction; (4) orientation; (5) motor activity; (6) visual-spatial orientation; (7) subjective symptoms; (8) neurobehavioral effects; (9) communication; and (10) consciousness. 38 C.F.R. § 4.124a, DC 8045.
+
+Each facet is given a value from 0 to 5, with 0 indicating no impairment and 5 indicating total impairment. Any facet illustrating a total impairment warrants a rating of 100%; however, if no facet shows a total impairment, then the evaluation is based on the level of the highest facet impairment of the remaining facets, i.e., 0 = 0 percent; 1 = 10 percent; 2 = 40 percent; and 3 = 70 percent. Id. Thus, only one percentage rating from the highest facet value is assigned, and each facet is not added to create a higher rating.
+
+For the facet of memory, attention, concentration, and executive functions, a facet value of 0 (noncompensable) is warranted when there are no complaints of impairment of memory, attention, concentration, or executive functions. A facet value of 1 (10 percent rating) is warranted where there is mild loss of memory (such as having difficulty following a conversation, recalling recent conversations, remembering names of new acquaintances, or finding words, or often misplacing items), attention, concentration, or executive functions, but without objective evidence on testing. A facet value of 2 (40 percent rating) is warranted when there is objective evidence on testing of mild impairment of memory, attention, concentration, or executive functions resulting in mild functional impairment. A facet value of 3 (70 percent rating) is warranted when objective evidence on testing of moderate impairment of memory, attention, concentration, or executive functions resulting in moderate functional impairment. Finally, a total impairment rating (100 percent) is warranted where there is objective evidence on testing of severe impairment of memory, attention, concentration, or executive functions resulting in severe functional impairment. Id.
+
+For the facet of judgment, a facet value of 0 (noncompensable) is warranted when judgment is normal. A facet value of 1 (10 percent rating) is warranted when the Veteran has mildly impaired judgment: for complex or unfamiliar decisions, occasionally unable to identify, understand, and weigh the alternatives, understand the consequences of choices, and make a reasonable decision. A facet value of 2 (40 percent rating) is warranted when there is moderately impaired judgment: for complex or unfamiliar decisions, usually unable to identify, understand, and weigh the alternatives, understand the consequences of choices, and make a reasonable decision, although has little difficulty with simple decisions. A facet value of 3 (70 percent rating) is warranted when there is moderately severely impaired judgment: for even routine and familiar decisions, occasionally unable to identify, understand, and weigh the alternatives, understand the consequences of choices, and make a reasonable decision. Finally, a total impairment rating (100 percent) is warranted where there is severely impaired judgment, as shown by a veteran being usually unable to identify, understand, and weigh the alternatives, understand the consequences of choices, and make a reasonable decision for even routine and familiar decisions. For example, unable to determine appropriate clothing for current weather conditions or judge when to avoid dangerous situations or activities. Id.
+
+For the facet of social interaction, a facet value of 0 (noncompensable) is warranted when social interaction is routinely appropriate. A facet value of 1 (10 percent rating) is warranted when social interaction is occasionally inappropriate. A facet value of 2 (40 percent rating) is warranted when social interaction is frequently inappropriate. A facet value of 3 (70 percent rating) is warranted when social interaction is inappropriate most or all the time. There is no total impairment rating for the facet of social impairment.
+
+For the facet of orientation, a facet value of 0 (noncompensable) is warranted when the Veteran is always oriented to person, time, place, and situation. A facet of 1 (10 percent rating) is warranted when the Veteran is occasionally disoriented to one of the four aspects (person, time, place, situation) of orientation. A facet value of 2 (40 percent rating) is warranted when the Veteran is occasionally disoriented to two of the four aspects (person, time, place, situation) of orientation or often disoriented to one aspect of orientation. A facet value of 3 (70 percent rating) is warranted when the Veteran is often disoriented to two or more of the four aspects (person, time, place, situation) of orientation. Finally, a total impairment rating (100 percent) is warranted where the Veteran is consistently disoriented to two or more of the four aspects (person, time, place, situation) of orientation. Id.
+
+For the facet of motor activity, a facet value of 0 (noncompensable) is warranted when motor activity is normal. A facet value of 1 (10 percent rating) is warranted when motor activity is normal most of the time, but mildly slowed at times due to apraxia (inability to perform previously learned motor activities, despite normal motor function). A facet value of 2 (40 percent rating) is warranted when motor activity is mildly decreased or with moderate slowing due to apraxia. A facet value of 3 (70 percent rating) is warranted when motor activity is moderately decreased due to apraxia. Finally, a total impairment rating (100 percent) is warranted where a veteran's motor activity severely decreased due to apraxia. Id.
+
+For the facet of visual spatial orientation, a facet value of 0 (noncompensable) is warranted when this facet is normal. A facet value of 1 (10 percent rating) is warranted when it is mildly impaired: the Veteran occasionally gets lost in unfamiliar surroundings, has difficulty reading maps or following directions, but he can use assistive devices, such as GPS (global positioning system). A facet value of 2 (40 percent rating) is warranted when this facet is moderately impaired: the Veteran usually gets lost in unfamiliar surroundings, has difficulty reading maps, following directions, and judging distance, and has difficulty using assistive devices such as GPS. A facet value of 3 (70 percent rating) is warranted when this facet is moderately severely impaired: the Veteran gets lost even in familiar surroundings and is unable to use assistive devices such as GPS. Finally, a total impairment rating (100 percent) is warranted where it is severely impaired, for example the Veteran may be unable to touch or name own body parts when asked by the examiner, identify the relative position in space of two different objects, or find the way from one room to another in a familiar environment. Id.
+
+For the facet of subjective symptoms, a facet value of 0 (noncompensable) is warranted when the Veteran experiences subjective symptoms that do not interfere with work; instrumental activities of daily living; or work, family, or other close relationships. Examples are mild or occasional headaches, mild anxiety. A facet value of 1 (10 percent rating) is warranted when the Veteran experiences three or more subjective symptoms that mildly interfere with work; instrumental activities of daily living; or work, family, or other close relationships. Examples of findings that might be seen at this level of impairment are intermittent dizziness, daily mild to moderate headaches, tinnitus, frequent insomnia, hypersensitivity to sound, hypersensitivity to light. A facet value of 2 (40 percent rating) is warranted when the Veteran experiences three or more subjective symptoms that moderately interfere with work; instrumental activities of daily living; or work, family, or other close relationships. Examples of findings that might be seen at this level of impairment are marked fatigability, blurred or double vision, headaches requiring rest periods during most days. Id. There is no higher rating available under the facet of subjective symptoms.
+
+For the facet of neurobehavioral effects, a facet value of 0 (noncompensable) is warranted when the Veteran has one or more neurobehavioral effects that do not interfere with workplace interaction or social interaction. A facet value of 1 (10 percent rating) is warranted when the Veteran experiences one or more neurobehavioral effects that occasionally interfere with workplace interaction, social interaction, or both but do not preclude them. A facet value of 2 (40 percent rating) is warranted when the Veteran has one or more neurobehavioral effects that frequently interfere with workplace interaction, social interaction, or both but do not preclude them. A facet value of 3 (70 percent rating) is warranted when the Veteran experiences one or more neurobehavioral effects that interfere with or preclude workplace interaction, social interaction, or both on most days or that occasionally require supervision for safety of self or others. Examples of neurobehavioral effects include irritability, impulsivity, unpredictability, lack of motivation, verbal aggression, physical aggression, belligerence, apathy, lack of empathy, moodiness, lack of cooperation, inflexibility, and impaired awareness of disability. Any of these effects may range from slight to severe, although verbal and physical aggression are likely to have a more serious impact on workplace interaction and social interaction than some of the other effects. Id.
+
+For the facet of communication, a facet value of 0 (noncompensable) is assigned when the Veteran can communicate by spoken and written language (expressive communication), and to comprehend spoken and written language. A facet value of 1 (10 percent rating) is warranted when the Veteran has occasional impairment in comprehension or expression of either spoken language or written language, but he still can communicate complex ideas. A facet value of 3 (70 percent rating) is warranted when the Veteran experiences inability to communicate either by spoken language, written language, or both, more than occasionally but less than half of the time, or to comprehend spoken language, written language, or both, more than occasionally but less than half of the time and the Veteran can still generally communicate complex ideas. A facet value of 3 (70 percent rating) is warranted when the Veteran experiences inability to communicate either by spoken language, written language, or both, at least half of the time but not all the time, or to comprehend spoken language, written language, or both, at least half of the time but not all the time. He may rely on gestures or other alternative modes of communication but is still able to communicate basic needs. Finally, a total impairment rating (100 percent) is warranted where the Veteran shows a complete inability to communicate either by spoken language, written language, or both, or to comprehend spoken language, written language, or both, and is unable to communicate basic needs. Id.
+
+Lastly, for the facet of consciousness, a total impairment rating (100 percent) is warranted where a veteran is in a persistently altered state of consciousness, such as vegetative state, minimally responsive state, coma. Id.
+
+Note (1) explains that there may be an overlap of manifestations of conditions evaluated under the TBI Evaluation Table with manifestations of a co-morbid mental or neurologic or other physical disorder that can be separately evaluated under another diagnostic code. In such cases, do not assign more than one evaluation based on the same manifestations. If the manifestations of two or more conditions cannot be clearly separated, assign a single evaluation under whichever set of diagnostic criteria allows the better assessment of overall impaired functioning due to both conditions. However, if the manifestations are clearly separable, assign a separate evaluation for each condition. 38 C.F.R. § 4.124a, DC 8045. The Board notes that the Veteran's headaches have been separately rated and assigned a 50 percent rating throughout the period on appeal. Thus, the impacts of that disability are not to be considered when assigning a rating to her TBI residuals.
+
+The Veteran underwent a VA examination regarding her TBI in September 2022. Here, the examiner found her symptoms to be: 
+
+-	objective evidence on testing of mild impairment of memory, attention, concentration, or executive functions resulting in mild functional impairment; 
+
+-	normal judgment; 
+
+-	social interaction which was occasionally inappropriate; 
+
+-	always orientated to person, time, place, and situation; 
+
+-	normal motor activity; 
+
+-	mildly impaired visual spatial orientation; 
+
+-	three or more subjective symptoms that that moderately interfere with work, instrumental activities of daily living, or work, family, or other close relationships; 
+
+-	one or more neurobehavioral effects that frequently interfere with workplace interaction, social interaction, or both but do not preclude them; 
+
+-	the ability to communicate by spoken and written language and to comprehend spoken and written language; and 
+
+-	normal consciousness. 
+
+Pursuant to the DC 8045 TBI table, the highest level of severity exhibited by the Veteran equated to a 2 - her memory, attention, concentration, executive functions and her subjective symptoms. As noted above, a level 2 severity equates to a 40 percent rating. None of her TBI symptoms were assessed or reported to be at such a severity level that a 3 was assigned. 
+
+The Veteran's VA medical records show that the began TBI care in January 2023. She reported symptoms of headaches, neck pain, light sensitivity, emotional lability, irritability, vertigo/imbalance and functioning difficulties. She reported that her memory problems caused her to have to rebuild her life - putting things in standard places and needing to use GPS to remember where she is going. She stated that she had to focus 100 percent of her energy or she gets off track. In February 2023, she reported that her emotional symptoms cause her to be more short-fused and that she had difficulty managing that response.
+
+Based on the foregoing, the Board is unable to find that the persuasive evidence of record supports a rating higher than 40 percent. The Veteran's documented symptoms have not been shown to be of such severity that a level 3 impairment in any area of functioning was documented. In May 2023 correspondence, the Veteran's representative stated that the September 2022 VA examination showed moderately impaired spatial orientation, objective impairment, disorientation, and neurobehavorial effects which interfered with her workplace interaction or social interaction. 
+
+However, the September 2022 VA examiner specifically found that the Veteran's spatial orientation was mildly impaired - not moderately. A moderate or moderately severe spatial orientation impairment equates to difficulty or inability to use GPS. However, the Veteran's VA medical records contradict such a finding, reporting that she uses GPS with success. Thus, there is no evidence that the Veteran's spatial orientation is such that a level 3 impairment is warranted. 
+
+As for the other symptoms highlighted in the May 2023 correspondence, the evidence of these symptoms - objective impairment, disorientation, and neurobehavorial effects - was not found to be such that a level 3 impairment was shown. Simply put, there is no evidence of record that the Veteran's TBI was shown to cause impairment that equates to a level 3 or higher impairment. Without such findings, a rating higher than 40 percent is not supported by the record. 
+
+In so finding, the Board has considered the Veteran's statements. The Board finds that the Veteran is competent to report her observable symptoms and that her military occupational specialty notes she was a medical service journeyman and craftsman. However, there is no evidence of record that the Veteran is competent to identify a specific level of her TBI disability according to the appropriate diagnostic codes. Layno v. Brown, 6 Vet. App. 465 (1994). The identification of a TBI residual disability and the associated severity of such a disability requires medical expertise that the Veteran has not be shown to possess. The medical findings, as provided in the examination report, directly address the criteria under which her disability is rated. The Board finds that evidence is the most persuasive and outweighs any lay statements in support of her claim for a higher rating.
+
+Thus, based on the foregoing, the Board finds that the persuasive evidence of record is against finding that the criteria for a rating higher than 40 percent have been met. Accordingly, as the persuasive evidence of record is against the claim, the benefit-of-the-doubt rule is not for application, and the claim must be denied. See 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990). 
+
+ 
+
+ 
+
+J. JACK
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Parrish
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

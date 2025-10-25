@@ -1,0 +1,103 @@
+Citation Nr: A25031732
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 210301-142705
+DATE: April 7, 2025
+
+REMANDED
+
+Entitlement to service connection for glaucoma with retinal detachments and macular edema (vision disorder) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active duty service from October 1968 to August 1972.
+
+The Board will briefly address the procedural history for this appeal. 
+
+Historically, the Veteran filed a claim for benefits in July 2014. A July 2015 Legacy system rating decision, in pertinent part, denied entitlement to service connection for vision disorder. The Veteran filed a timely notice of disagreement and a June 2017 Statement of the Case (SOC) continued the denial, but he did not perfect an appeal to the Board by filing a VA Form 9.  
+
+Instead, the Veteran filed another service connection claim for vision disorder in December 2018 and a March 2019 Appeals Modernization Act (AMA) rating decision ostensibly found new and relevant evidence had been received, but continued the denial. 
+
+In January 2020, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the claim for vision disorder most recently addressed in the March 2019 rating decision. Later in January 2020, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision.  
+
+In October 2020, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of the January 2020 decision.  In February 2021, the AOJ issued the HLR decision on appeal, which considered the evidence of record at the time of the prior January 2020 decision.  
+
+In the March 2021 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Hearing docket. A Board hearing was held on October 11, 2024. Therefore, the Board may only consider the evidence of record at the time of the January 2020 AOJ decision, which was subsequently subject to higher-level review, as well as any evidence submitted by the Veteran, or representative, at the hearing or within 90 days following the hearing. 38 C.F.R. § 20.302(a). If evidence was submitted either (1) during the period after the AOJ issued the decision, which was subsequently subject to higher-level review and prior to the Board hearing, or (2) more than 90 days following the hearing, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.302(a), 20.801. 
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of it. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Entitlement to service connection for vision disorder is remanded.
+
+Review of the record reveals that remand is required in order to correct a duty to assist error that occurred prior to the January 2020 rating decision on appeal. See 38 C.F.R. § 20.802(a).
+
+Essentially, the Veteran contends that his in-service microwave-radiation exposure in the operation and repair of radar equipment caused his current vision disorder. See December 2018 Buddy/Lay Statement (dated September 2018) and January 2020 Correspondence. He also included several medical articles in support of this contention. See January 2020 Correspondences and January 2020 Email Correspondence. 
+
+The Board notes that the Veteran's DD-214 reflects that his Military Occupational Specialty (MOS) was an electronics technician. 
+
+As a point of clarification, the Board also briefly notes that if this were a claim for exposure to "ionizing" radiation, the claim would be reviewed under the presumptive provisions of 38 U.S.C. § 1112(c) and 38 C.F.R. § 3.309(d). However, the United States Court of Appeals for Veterans Claims (CAVC) has taken judicial notice that naval radar equipment emits microwave-type non-ionizing radiation which is not subject to review under the ionizing-radiation statute and regulations. Rucker v. Brown, 10 Vet. App. 67 (1997). The Board finds that the type of radar equipment that the Veteran serviced is reasonably similar to the naval radar in its emission of microwave-type non-ionizing radiation mentioned by CAVC.
+
+In the January 2020 rating decision on appeal, the AOJ made the favorable finding that the Veteran has been diagnosed with a disability (glaucoma secondary to eye inflammation, open angle glaucoma in one eye, history of retinal detachments, bilateral and macular edema). The Board is bound by this favorable finding. 38 U.S.C. § 5104A; 38 C.F.R. § 3.104(c). Therefore, the remaining question is whether there was an incident during service and whether the claimed vision disorder is related to service.
+
+The Veteran's service treatment records (STRs) are silent as to any complaints of or treatment for a vision disorder. However, they document that upon entrance to service, the Veteran had a refractive error that was correctable to 20/20 vision, bilaterally, and that he wore glasses. 
+
+VA regulations provide that refractive errors of the eyes are not diseases or injuries within in the meaning of applicable legislation for disability compensation purposes. See 38 C.F.R. §§ 3.303 (c), 4.9. For purposes of entitlement to benefits, the law provides that service connection is not generally established for refractive error of the eye as it is not a disease or injury within the meaning of applicable legislation providing compensation benefits. Id. Absent superimposed disease or injury, service connection may not be allowed for a congenital or developmental defect of the eyes, even if visual acuity decreased in service, as this is not a disease or injury within the meaning of applicable legislation relating to service connection. Parker v. Derwinski, 1 Vet. App. 522 (1991).
+
+In December 2018, the Veteran submitted a report from a private provider, Dr. C.L., who indicated that he began treating the Veteran in 2017. Dr. C.L. described the Veteran's medical history and noted that he had retinal detachment repairs in 1995 and 2000, then an additional eye surgery in 2012. Dr. C.L. stated that he felt the Veteran's visual impairment is permanent and will likely remain legally blind for the rest of his life. He provided the following remarks:
+
+I am aware of the radiation [the Veteran] had in the military that could have caused these issues. [The Veteran] had severe eye issues in all portions of the eye, so that is always a possibility that excessive radiation could have caused improper healing in the eye. We see patients with severe complications all the time. [The Veteran's complications] are some of the most severe I have seen. Therefore, I think it is perfectly reasonable to investigate whether the radiation treatments could have caused [his] severe compromised vision. 
+
+See December 2018 Medical Treatment Record - Non-Government Facility. 
+
+The Veteran received a VA eye conditions examination in January 2019. He was diagnosed with "Glaucoma secondary to eye inflammation, OD - Open angle glaucoma in one eye, pt has long history of continued eye inflammation with probable relation to UGH"; History of retinal detachments with multiple breaks, bilateral; and macular edema, OD. Other diagnoses were "Hypertropia OS x 2012, Displacement of intraocular lens OS x 1995, Presence of intraocular lens OD x 1995, Corneal Edema OS x 11/28/18, and Legal Blindness x 2014." The examiner described the Veteran's treatment history for his eyes and the Veteran stated that his first retinal detachment was in 1995 without precipitating activity. 
+
+Ultimately, the examiner determined that the Veteran's claimed vision disorder is less likely than not attributable to service. The examiner explained that some medical literature shows that there is limited evidence on the effects of microwave radiation on the human eye or on non-human primates and also little consensus on retinal or corneal damage due to microwave radiation. He went on to state that some potential effects listed were cataracts, corneal conditions, and retinal vascular problems. It was noted that besides cataracts, the other two conditions were very rare in those studies and may have been caused by anaesthesia or other medications used during the studies rather than microwave radiation. The examiner commented that the eye must be heated by microwave radiation to a high temperature for damage to occur to the lens and cornea, which requires substantial power densities. The article also suggests that if the Veteran was exposed to this level of microwave radiation, he would have had skin burns, blurry vision, and a foreign body sensation after exposure. Since none of these conditions were mentioned by the Veteran during his time working on radar equipment, the examiner said it is difficult to quantify his exposure, but it seems more likely than not that his retinal detachment in his right eye was due to aging factors and the retinal detachment in his left eye was due to trauma. The examiner concluded that the changes in the Veteran's cornea and lens are more likely than not related to his many retinal surgeries, as each intraocular affects the integrity of the corneal endothelium. The hypertropia of the Veteran's left eye also is likely to be related to his surgery to remove the scleral buckle from that eye. 
+
+In January 2020, the Veteran submitted a private report from a different provider, Dr. D.G. (dated August 2019) and described the Veteran's treatment history. The doctor offered a mostly speculative opinion and stated, in pertinent part, "[it] is possible that radiation caused issues for [the Veteran's] retina, but it is hard for me to be sure. High dose radiation does causes changes to the blood vessels and tissues in the retina ... it is hard to determine what may have been damaged from radiation and what are changes from surgery/surgical healing." See January 2020 Medical Treatment Record - Non-Government Facility. 
+
+In October 2024, and during the applicable evidentiary window, the Veteran submitted another report from Dr. C.L. In this report, Dr. C.L. again described the Veteran's treatment history for his vision disorder. The provider stated that the Veteran was exposed to weekly radiation for 1 hour or more per day from radar during his military service and did not have any eye issues at that time. Dr. C.L. commented that there is an extensive amount of literature on whether sustained radiofrequency exposure can cause retinal problems in animals, but studies on humans have not been performed. He explained that there are definite findings of cataract formation from radiofrequency exposure and other tissue/physiological changes from such exposure in animals. Dr. C.L. reported that the Veteran's clinical course has been very complicated and he still has complications from his eye surgeries. Dr. C.L. provided the following remarks: 
+
+Therefore, it is safe to assume beyond a reasonable doubt that [the Veteran] has suffered some damage from the radiofrequency exposure which causes his retinal issues to be above and beyond the normal post-operative course for a patient in his situation. He, nor any of his referring doctors, have identified any inherited conditions or traumatic conditions that have cause these issues. Further studies could be indicated with postmortem examination, of course. But that will not help the patient at this point. 
+
+See October 2024 Medical Treatment Record - Non-Government Facility. 
+
+In December 2024, the Veteran testified during service, he was an aviation electronics technician specializing in radar and detailed his experiences in the military and job duties. The Veteran also described the history of his eye surgeries and vision issues. He stated that he first noticed blurry vision in 1995 and had a retinal detachment that resulted in surgery. He said that in 2005, he jumped off a boat onto the ground and began having issues in his left eye, which resulted in another surgery. The Veteran reported that his post-service career included being involved in marine hardware and a scuba diving business. He clarified that he was not a scuba instructor, but only dived recreationally at safe depths and his private doctors were aware of his history as a scuba diver. The Veteran also detailed how he would often service the radar equipment by entering the machines, but did not spend much time in them and did not feel any burning sensations while doing so. 
+
+Considering the above, the Board finds the January 2019 VA medical opinion to be at least partially inadequate for the purposes of determining service connection. See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007) (holding that when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate); see also Nieves-Rodriguez v. Peake, 22 Vet. App. 298 (2008). Specifically, the examiner provided conclusory remarks with limited rationale and did not address the December 2018 report from Dr. C.L or January 2020 report from Dr. D.G (dated August 2019). Moreover, the examiner suggested that the Veteran would likely have experienced burning skin from the exposures while servicing the radar machines, but he did not report this upon examination. However, the Veteran has explained that he spent a minimal amount of time inside the machines while servicing them, and the fact that he did this multiple times during service added up, causing a slow progression of the damage to his eyes. 
+
+The Board does not find the other opinions addressed the history of being a recreational diver. Therefore, these opinions also lack adequacy and the Board cannot grant the claim on the basis of them at this time. There is not an opinion that considers the full history of the Veteran.
+
+When the Board identifies a pre-decisional duty to assist error, under 38 U.S.C. § 5103A; 38 C.F.R. §§ 3.159(c), 20.802(a), the Board must remand the appeal back to the AOJ with instructions to correct the error. Therefore, remand is needed for an addendum opinion.
+
+The matters are REMANDED for the following action:
+
+Obtain an addendum opinion from an examiner of appropriate expertise to determine the nature and etiology of the Veteran's claimed vision disorder. The electronic claims files and all pertinent records must be made available to the examiner and the examiner must indicate in the examination report that these records have been reviewed.
+
+It should be noted that the Veteran is competent to attest to factual matters of which he had first-hand knowledge, including observable symptomatology. If there is a medical basis to support or doubt the history provided by the Veteran, the examiner should provide a fully reasoned explanation. The examiner should note that the standard is whether likelihood is at least approximately balanced or nearly equal, if not higher.
+
+(a) The examiner should opine whether the Veteran's vision disorder began in or is otherwise the result of military service.
+
+(b) The examiner should opine whether the Veteran's vision disorder is caused by exposure to in-service microwave emissions from radar equipment.
+
+(c) The examiner should opine whether the Veteran's vision disorder is the result of post-service activities or other trauma.
+
+(Continued on the next page)
+
+?
+
+In offering any opinion, the examiner must consider the full record. The examiner should also reconcile other opinions, as necessary, and provide a comprehensive rationale for the requested opinion. 
+
+If the VA examiner determines that further examination is necessary in order to render any medical opinion, then the Veteran should be scheduled for such an examination.
+
+ 
+
+ 
+
+Emily Tamlyn
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Miller, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

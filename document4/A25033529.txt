@@ -1,0 +1,63 @@
+Citation Nr: A25033529
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240420-435317
+DATE: April 10, 2025
+
+REMAND
+
+Entitlement to a compensable rating for metastatic melanoma, left axillary sentinel lymph node, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from June 1992 to April 1996, from June 2006 to May 2007, and from March 2010 to April 2011.
+
+Following a request for Higher-Level Review of a January 2023 rating decision, the agency of original jurisdiction (AOJ) identified a pre-decisional duty to assist error which required further development. This further development ultimately resulted in a rating decision - treated as one for a Supplemental Claim - in October 2023. 
+
+In April 2024, the Veteran filed a notice of disagreement (NOD) to appeal the October 2023 rating decision, and elected the Direct Review Docket.  
+
+Therefore, the Board may only consider the evidence of record at the time of the October 2023 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.  However, as the Board is remanding the claim, the AOJ will consider such evidence when readjudicating the matter.
+
+The Veteran contends that his metastatic melanoma warrants a 100 percent rating because of the treatment he received for that disability. 
+
+At the outset, the Board notes that the Veteran's melanoma is currently rated and coded under three separate headings: malignant melanoma to include painful scar transverse anterior trunk; residual scars s/p melanoma surgery left axilla, right axilla associated with malignant melanoma to include painful scar transverse anterior trunk, and; metastatic melanoma, left axillary sentinel lymph node associated with melanoma to include painful scar transverse anterior trunk (called "metastatic melanoma, left axillary sentinel lymph node," or "melanoma," for convenience in this decision). The Veteran's NOD indicated he was appealing for an increased rating only for the last of these - the metastatic melanoma itself. The Veteran's NOD listed this heading by name and argued for a compensable rating based on a Note to melanoma's DC of 7833. Thus, the Board will address only whether the Veteran is entitled to an increased rating for the melanoma itself, and not of the related scars, which could have been, but were not, listed separately. 
+
+Factual Background
+
+After he was diagnosed with malignant melanoma, in November 2021 VA medical center staff discussed an immunotherapy treatment option with the Veteran. He elected to have his immunotherapy treatment done through a private provider. That same month, VA staff noted that the Veteran had had wide excision of the melanoma on his chest, and that bilateral lymph node biopsies had been performed. The biopsy showed the Veteran's malignant melanoma had spread to the left side axilla (or armpit). 
+
+Private treatment records show that the Veteran then visited an outpatient clinic every three weeks beginning in January 2022 of an immunotherapy drug, administered intravenously. 
+
+A July 2022 VA medical center note records the Veteran's immunotherapy as ongoing, and notes that there was no recurrence in the Veteran's excision scar. VA staff also noted that a recent PET scan showed improvement in the Veteran's melanoma: anything that appears on the scan had decreased in size, and his melanoma scar was healing well. The Veteran reported no issues with the scar. 
+
+The private treatment center noted, in September 2022 that the Veteran would get fatigued for a few days after his treatment, but was otherwise reacting well and no new rashes or pigmented lesions had appeared. 
+
+In January 2023, the Veteran was given a VA examination for his melanoma. That examiner noted that the Veteran's intravenous immunotherapy treatments took about thirty minutes every three weeks. The examiner noted that the Veteran's melanoma visibly affected five to 20 percent of his total body area, but none of his exposed body (face, neck, hands). The examiner also described the Veteran's melanoma as active and noted that treatment was ongoing, but expected to end that month - January 2023. The examiner also indicated that the Veteran's melanoma resulted in scarring. 
+
+In October 2023, the Veteran was provided with a new VA examination. This examiner noted that the Veteran's immunotherapy treatment went from January to December 2022, and the status of the Veteran's melanoma was now in Watchful Waiting. The examiner also described the course of the Veteran's melanoma since treatment began, and noted that the Veteran's kidneys were affected, and he was now on a fluid restriction. The examiner also described several other side effects of the Veteran's treatment, which included chronic kidney disease, exacerbated hypertension, and anemia. These were all described in one part of the exam as "chemotherapy induced," and the hypertension and chronic kidney disease were also described as developing "as a result of immuno-chemotherapy" treatment for the Veteran's melanoma. The examiner also made two new diagnoses: "chemotherapy-induced kidney disease," and "chemotherapy-induced anemia," which were directly due to the service-connected diagnosis of malignant melanoma. The examiner also described fatigue as a functional impact of the Veteran's melanoma.  
+
+Analysis
+
+The Veteran's melanoma is rated under 38 C.F.R. § 4.118, Diagnostic Code 7833. This DC directs VA to rate melanoma as scars or impairment of function, but contains a note explaining that if a skin malignancy requires therapy that is comparable to that used for systemic malignancies, i.e., systemic chemotherapy, X-ray therapy more extensive than to the skin, or surgery more extensive than wide local excision, a 100-percent evaluation will be assigned from the date of onset of treatment, and will continue, with a mandatory VA examination six months following the completion of such antineoplastic treatment, and any change in evaluation based upon that or any subsequent examination will be subject to the provisions of § 3.105(e). If there has been no local recurrence or metastasis, evaluation will then be made on residuals. If treatment is confined to the skin, the provisions for a 100-percent evaluation do not apply.
+
+The basis for this remand is to determine whether the immunotherapy treatment the Veteran receives, which is Keytrudra therapy, is "antineoplastic treatment".  The October 2023 examiner referred at points to the Veteran's immunotherapy treatment as immuno-chemotherapy, but it is unclear to the Board whether it is, in fact, antineoplastic therapy as required in the note to DC 7833 (which uses the term "such antineoplastic treatment" to modify "therapy that is comparable to that used for systemic malignancies").
+
+Accordingly, this case is REMANDED to the AOJ for the following action:
+
+Arrange for review of the electronic claims file by a physician with appropriate expertise.  The examiner should answer the following question:
+
+Is the Keytruda (Pembrolizumab) therapy the Veteran is undergoing in relation to his past melanoma an "antineoplastic therapy"?  
+
+ 
+
+ 
+
+Thomas H. O'Shay
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Kronick
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

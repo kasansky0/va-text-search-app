@@ -1,0 +1,141 @@
+Citation Nr: A25031961
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240326-426612
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to service connection for tinnitus is granted.
+
+Entitlement to a rating in excess of 10 percent for residuals of right knee surgery is denied.
+
+Entitlement to a compensable disability rating for a right knee scar is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's tinnitus is at least as likely as not related to his in-service hazardous noise exposure.
+
+2. The Veteran's residuals of right knee surgery are manifest by a sprain, incomplete ligament tear, or complete ligament tear (repaired, unrepaired, or failed repair) causing persistent instability, without a prescription from a medical provider for an assistive device (e.g., cane(s), crutch(es), walker) or bracing for ambulation; or in compensable loss of range of motion.
+
+3. The Veteran's right knee scar measures two square centimeters.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for tinnitus are met. 38 U.S.C. §§ 1110, 1112, 1113, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309.
+
+2. The criteria for a rating in excess of 10 percent for residuals of right knee surgery have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.71a, Diagnostic Code 5257.
+
+3. The criteria for a compensable disability rating for the Veteran's right knee scar have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.118, Diagnostic Code 7802.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served honorably on active duty in the United States Army from August 1978 to October 1982 and from June 1991 to December 1991.
+
+The agency of original jurisdiction (AOJ) issued the rating decision on appeal in November 2023, which constitutes an initial decision. Therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In the March 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the November 2023 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1.	Entitlement to service connection for tinnitus.
+
+The Veteran seeks service connection for tinnitus that he contends is due to his service-connected hearing loss. See July 2023 VA Form 21-526EZ.
+
+Service connection will be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred in or aggravated by active service, even if the disability was initially diagnosed after service. 38?U.S.C. §§?1110, 1131; 38?C.F.R. §?3.303. 
+
+To establish service connection for a claimed disorder, the following must be shown: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004). 
+
+Certain disorders, listed as "chronic" in 38 C.F.R. § 3.309 (a) and 38 C.F.R. § 3.303(b), are capable of service connection based on a continuity of symptomatology without respect to an established causal nexus to service. See Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013). "Other organic diseases of the nervous system," such as tinnitus are "chronic diseases" listed under 38 C.F.R. § 3.309(a). Therefore, the presumptive service connection provisions based on "chronic" in-service symptoms and "continuous" post-service symptoms under 38 C.F.R. § 3.303(b) apply. Walker, 708 F.3d at 1331. Where the evidence shows a "chronic disease" in service or "continuity of symptoms" after service, the disease shall be presumed to have been incurred in service. 38 C.F.R. § 3.303(b). 
+
+Additionally, where a veteran served ninety days or more of active service, and certain chronic diseases, such as tinnitus, become manifest to a degree of 10 percent or more within one year after the date of separation from such service, such disease shall be presumed to have been incurred in service, even though there is no evidence of such disease during the period of service. 38 U.S.C. §§ 1101, 1112, 1113, 1137; 38 C.F.R. §§ 3.307, 3.309(a). While the disease need not be diagnosed within the presumptive period, it must be shown, by acceptable lay or medical evidence, that there were characteristic manifestations of the disease to the required degree during that time. Id. 
+
+The Veteran has a current diagnosis of tinnitus. See favorable findings made in the November 2023 rating decision. Thus, the first element of service connection is met. 
+
+The Veteran notes he had exposure to very loud noises from machinery while in service. See April 2021 VA Form 21-526EZ. Further, he was awarded multiple marksmanship badges. See military personnel records. As such, he was exposed to hazardous noise in-service. Thus, the second element of service connection is met.
+
+The Veteran is competent to report that he experienced tinnitus after coming out of the range (onset of tinnitus was during this incident); it is an experience within the scope of lay observation. See, e.g., Jandreau v. Nicholson, 492 F.3d 1372, 1376 (Fed. Cir. 2007); November 2023 VA hearing loss and tinnitus examination. His testimony is credible and entitled to probative weight, as it is consistent with other evidence of record, which confirms the Veteran's marksmanship badges. Moreover, tinnitus is specifically noted to be within a veteran's scope of lay observation. Jandreau v. Nicholson, 492 F.3d 1372, 1376 (Fed. Cir. 2007). To the extent that the November 2023 VA examiner found the Veteran's tinnitus to be a normal occurrence, the Board finds the examiner  impermissibly ignored the Veteran's lay evidence. See e.g., Dalton v. Nicholson, 21 Vet. App. 23, 39 (2007) (finding that an examiner impermissibly ignored the appellant's lay assertions that he had sustained a back injury in service). As such, the Board finds adequate evidence of a causative connection, and the third element of service connection is met.
+
+In sum, the Board finds there is at least an approximate balance of positive and negative evidence as to whether the Veteran's current tinnitus began in service. See?Lynch?v. McDonough,?21 F.4th 776 (2021); 38?U.S.C. §?5107(b);?38?C.F.R. §?3.102. Accordingly, after resolving all doubt in favor of the Veteran, the Board finds that service connection for tinnitus is warranted.
+
+2.	Entitlement to an increased disability rating for residuals of right knee surgery.
+
+The Veteran seeks an increased disability rating for the residuals of right knee surgery. See July 2023 VA Form 21-526EZ; March 2024 VA Form 10182.
+
+The AOJ has rated the Veteran's right knee disability as ten percent disabling under Diagnostic Code (DC) 5257. 38 C.F.R. § 4.71a, DC 5257. This rating has been in place since the date of the Veteran's service connection, effective October 23, 1982 (with the exception of while on active duty). The Veteran filed the instant appeal on July 31, 2023. Therefore, the relevant temporal focus is from July 31, 2022, one year prior to the receipt of the claim for an increased rating. 38 C.F.R. § 3.400. 
+
+Disability ratings are assigned in accordance with VA's Schedule for Rating Disabilities and are intended to represent the average impairment of earning capacity resulting from a disability. See 38 U.S.C. § 1155; 38 C.F.R. §§ 3.321(a), 4.1. When a question arises as to which of two ratings shall be applied under a particular diagnostic code, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for the higher rating; otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7.
+
+Where entitlement to compensation has already been established and an increase in the disability rating is at issue, the present level of disability is of primary importance. Francisco v. Brown, 7 Vet. App. 55 (1994). Nevertheless, where the evidence contains factual findings that show a change in the severity of symptoms during the rating period on appeal, assignment of staged ratings would be permissible. Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+Additionally, the effective date of an award of increased compensation may be the earliest date as of which it is factually ascertainable based on all evidence of record that an increase in disability had occurred if an application for increase in compensation is received within one year from such date. See 38 U.S.C. § 5110(b)(2); 38 C.F.R. § 3.400(o)(2). Specifically, a veteran is only entitled to an effective date prior to the date of claim if an increase in disability occurred during the year before the claim was filed. Gaston v. Shinseki, 605 F.3d 979, 982 (2010).
+
+Disability of the musculoskeletal system is primarily the inability, due to damage or infection in the parts of the system, to perform the normal working movements of the body with normal excursion, strength, speed, coordination, and endurance. It is essential that the examination on which ratings are based adequately portray the anatomical damage, and the functional loss, with respect to all these elements. The functional loss may be due to absence of part, or all, of the necessary bones, joints and muscles, or associated structures, or to deformity, adhesions, defective innervation, or other pathology, or it may be due to pain, supported by adequate pathology and evidenced by visible behavior of the claimant undertaking the motion. Weakness is as important as limitation of motion, and a part which becomes painful on use must be regarded as seriously disabled. 38 C.F.R. §§ 4.10, 4.40, 4.45, 4.59.  
+
+Provision 38 C.F.R. § 4.40 allows for consideration of functional loss due to pain and weakness causing additional disability beyond that reflected on range of motion measurements. Under 38 C.F.R. § 4.45, functional loss due to weakened movement, excess fatigability, and incoordination must also be considered. See DeLuca v. Brown, 8 Vet. App. 202, 206-07 (1995) (holding that the criteria discussed in sections 4.40 and 4.45 are not subsumed by the DCs applicable to the affected joint).
+
+The provisions of 38 C.F.R. § 4.59 recognize that painful motion is an important factor of disability. Joints that are painful, unstable, misaligned, or due to healed injury are entitled to at least the minimum compensable rating for the joint. Id. Special note should be taken of objective indications of pain on pressure or manipulation, muscle spasm, crepitation, and active and passive range of motion of both the damaged joint and the opposite undamaged joint. Id.; see also, Burton v. Shinseki, 25 Vet. App. 1 (2011) (holding that § 4.59 applies to all forms of painful motion of joints, and not just to arthritis). Pain that does not result in additional functional loss does not warrant a higher rating. See Mitchell v. Shinseki, 25 Vet. App. 32, 42-43 (2011) (holding that pain alone does not constitute function loss and is just one fact to be considered when evaluating functional impairment). However, painful motion is deemed to be limitation of motion and warrants the minimum compensable rating for the joint, even if there is no actual limitation of motion. 38 C.F.R. § 4.59; Lichtenfels v. Derwinski, 1 Vet. App. 484, 488 (1991).
+
+Under 38 C.F.R. § 4.59, painful motion is a factor to be considered with any form of arthritis; however, 38 C.F.R. § 4.59 is not limited to disabilities involving arthritis. See Burton v. Shinseki, 25 Vet. App. 1 (2011).
+
+In Correia v. McDonald, 28 Vet. App. 158 (2016), the Court held that the final sentence of 38 C.F.R. § 4.59 requires that the examiner record the results of range of motion testing "for pain on both active and passive motion [and] in weight-bearing and non-weight-bearing and, if possible, with range of motion measurements of the opposite undamaged joint."  
+
+In Sharp v. Shulkin, 29 Vet. App. 26 (2017), the Court held that VA examiners must obtain information about the severity, frequency, duration, precipitating and alleviating factors, and extent of functional impairment of flares from the veterans themselves, when a flare-up is not observable at the time of examination.
+
+Effective February 7, 2021, VA amended the rating criteria for disabilities of the knee and leg. The amended DC 5257 provides ratings for other impairment of the knee based on recurrent subluxation or instability, and patellar instability. 
+
+For recurrent subluxation or instability, a 10 percent rating is warranted for sprain, incomplete ligament tear, or complete ligament tear (repaired, unrepaired, or failed repair) causing persistent instability, without a prescription from a medical provider for an assistive device (e.g., cane(s), crutch(es), walker) or bracing for ambulation. A 20 percent rating is warranted for one of the following: (a) Sprain, incomplete ligament tear, or repaired complete ligament tear causing persistent instability, and a medical provider prescribes a brace and/or assistive device (e.g., cane(s), crutch(es), walker) for ambulation; or (b) Unrepaired or failed repair of complete ligament tear causing persistent instability, and a medical provider prescribes either an assistive device (e.g., cane(s), crutch(es), walker) or bracing for ambulation. A maximum 30 percent rating is warranted for unrepaired or failed repair of complete ligament tear causing persistent instability, and a medical provider prescribes both an assistive device (e.g., cane(s), crutch(es), walker) and bracing for ambulation.
+
+For patellar instability, a 10 percent rating is warranted for a diagnosed condition involving the patellofemoral complex with recurrent instability (with or without history of surgical repair) that does not require a prescription from a medical provider for a brace, cane, or walker. A 20 percent rating is warranted for a diagnosed condition involving the patellofemoral complex with recurrent instability after surgical repair that requires a prescription by a medical provider for one of the following: A brace, cane, or walker. A maximum 30 percent rating is warranted for a diagnosed condition involving the patellofemoral complex with recurrent instability after surgical repair that requires a prescription by a medical provider for a brace and either a cane or a walker.
+
+Note (1) provides that, for patellar instability, the patellofemoral complex consists of the quadriceps tendon, the patella, and the patellar tendon. Note (2) provides that a surgical procedure that does not involve repair of one or more patellofemoral components that contribute to the underlying instability shall not qualify as a surgical repair for patellar instability (including, but not limited to, arthroscopy to remove loose bodies and joint aspiration).
+
+The assigned DC 5257 suggests that the disability rating for residuals of right knee surgery is rated based on slight recurrent subluxation or lateral instability. 38 C.F.R. § 4.71a. At the time of the initial disability rating, the Veteran's right knee exhibited medial lateral subluxation and instability. See March 1983 rating decision.  
+
+More recent evidence reflects that the right knee disability manifests as osteoarthritis and should be rated based on the painful limitation of motion, without recurrent subluxation or lateral instability on examination. See VA treatment records dated December 29, 2017 and April 12, 2018 (noting no instability with ambulation); November 24, 2023 VA knee examination (noting no subluxation or instability on examination). The amended DC 5010 provides that post-traumatic arthritis shall be rated as limitation of motion, dislocation, or other specified instability under the affected joint. However, the Veteran's painful arthritic motion does not rise to a compensable level on the rating schedule under these diagnostic codes. See 38 C.F.R. § 4.71a; DC 5010; see also, DC 5260, and 5261, discussed further below.
+
+The Board has carefully considered the Veteran's reports about impairment of his right knee, including pain, swelling, loss of function, limited range of motion, including after repeated use over time. See English v. Wilkie, 30 Vet. App. 347, 352-53 (2018). Overall, the lay and medical evidence indicates that at the time of the examination, there was no instability or recurrent subluxation evident on this evaluation (although the Veteran had a history of instability when disability was initially rated), the right knee pain occurred one to two times per month but was not reported as a flare-up. See November 2023 VA knee and lower leg examination; see also, March 1983 rating decision (noting medial lateral subluxation and instability of the right knee). While the Veteran had the ability to walk two miles before the pain set in, the Veteran occasionally used a brace to prevent the pain. He had frequent but moderate swelling of the knee, described as on and off. The clinician cited the Veteran's conclusion that the pains in his right knee are not yet affecting his work as a repairman, but it was beginning to be annoying. As painful motion is deemed to be limitation of motion and warrants the minimum compensable rating for the joint, the present 10 percent disability rating is warranted. See 38 C.F.R. § 4.59.
+
+The Board has also considered the other DCs pertaining to the knee and leg. Other disability ratings may be assigned only if the symptomatology for a disability is not duplicative or overlapping with the symptomatology of any other disability. See Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994); Lyles v. Shulkin, 29 Vet. App. 107 (2017) (holding that 38 C.F.R. § 4.14 prohibits paying compensation twice for the same symptoms or functional impairment).  
+
+Specifically, the evidence does not reflect the criteria under DC 5256 have been met, as the Veteran's knee examination indicated no ankylosis. The evidence does not reflect the criteria under DC 5258 have been met, as the Veteran's knee examination indicated no dislocated semilunar cartilage. Nor does the evidence reflect the criteria under DC 5259 have been met, as the Veteran's knee examination indicated no removal of the semilunar cartilage. 
+
+Further, the evidence does not reflect the criteria under DC 5260 have been met, as the Veteran's knee examination indicated that, while the Veteran's flexion endpoint was limited, at 110 degrees on active range of motion and 125 degrees on passive range of motion, the limitation does not reach the threshold level contemplated by the disability ratings for compensation, that of a limitation to 45 degrees. See November 2023 VA knee and lower leg examination. Nor does the evidence reflect the criteria under DC 5261 have been met, as the Veteran's knee examination indicated no limitation of extension of the knee joint. 38 C.F.R. § 4.71a; DC 5260. The Board has also considered functional loss due to flare-ups of pain, weakness, fatiguability, and lack of endurance. See 38 C.F.R. §§ 4.40, 4.45, 4.59; DeLuca v. Brown, 8 Vet. App. 202 (1995). The VA examiner found that repetitive use testing did not demonstrate additional loss of function or range of motion. While repeated use resulted in pain, range of motion remained the same (i.e. 0 to 110 degrees).  Consequently, the Board finds that the evidence is against finding that the Veteran has been so limited by the factors noted in DeLuca and 38 C.F.R. §§ 4.40, 4.45, and 4.59 as to approximate a higher rating. 
+
+Similarly, the evidence does not reflect the criteria under DC 5262 have been met, as the Veteran's knee examination indicated no impairment of the tibia and fibula. Finally, the evidence does not reflect the criteria under DC 5263 have been met, as the Veteran's knee examination indicated no genu recurvatum.
+
+The Board has also considered assigning staged ratings. However, at no time during the period in question have the above-mentioned disabilities warranted a higher schedular ratings than those assigned. See Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+In conclusion, the Board finds that the evidence of record persuasively weighs against the Veteran's claim for a rating in excess of 10 percent for residuals of right knee surgery.  As the evidence of record persuasively weighs against a rating in excess of 10 percent, the benefit-of-the-doubt rule does not apply.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (2021).
+
+3.	Entitlement to an initial compensable disability rating for the right knee scar.
+
+The Veteran seeks an initial compensable disability rating for the scar on his right knee. See March 2024 VA Form 10182.
+
+The AOJ has rated the Veteran's right knee scar as zero percent disabling under DC 7802 since the date of service connection, effective as of July 31, 2023, the date the VA received the claim. DC 7802 is for burn scar(s) or scar(s) due to other causes, not of the head, face, or neck, that are not associated with underlying soft tissue damage. 38 C.F.R. § 4.118.  
+
+The Board finds that the evidence of record persuasively weighs against the assignment of a compensable evaluation under DC 7802 because the Veteran's right knee scar is not manifest by an area, or areas, of 144 square inches (929 square centimeters) or greater. 
+
+Here, the Veteran underwent a VA scar examination in November 2023. The Veteran's one right knee scar measured four by one half centimeters (4 x 0.5 cm); a total area of two square centimeters (2 sq. cm. or approximately 0.31 sq. inches). The examination documented no pain or instability of the scar. 
+
+The Board has also considered the other DCs pertaining to scars. However, the Veteran's right knee scar is not of the head, face, or neck, is not deep and non-linear, and is not associated with underlying soft tissue damage. Moreover, the Veteran's right knee scar is not unstable or painful. Therefore, DCs 7800, 7801, and 7804, both prior to and from August 13, 2018, are inapplicable. Finally, the evidence of record shows there are no other disabling effect(s) not considered in a rating provided under DCs 7800-04 as contemplated under DC 7805. 
+
+The Board acknowledges that the Veteran believes that the disability on appeal has been more severe than the assigned disability rating reflects. Moreover, the Veteran is competent to report observable symptoms, to include the presence of a scar from his prior right knee surgery, and these reports are credible. Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007). However, the Veteran does not assert, and the medical treatment records do not show, that the Veteran's right knee scar is manifest by an area or areas of 144 square inches (929 sq. cm.) or greater.
+
+(Continued on the next page)
+
+?
+
+In conclusion, the Board finds that the evidence of record persuasively weighs against the Veteran's claim for a compensable rating for right knee scar. As the evidence of record persuasively weighs against a compensable rating, the benefit-of-the-doubt rule does not apply. 38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+L. Chu
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Black, Julie A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

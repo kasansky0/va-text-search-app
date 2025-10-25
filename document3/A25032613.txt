@@ -1,0 +1,47 @@
+Citation Nr: A25032613
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240825-469338
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from February 1986 to December 1991, from November 2008 to November 2009, from September 2010 to April 2011, and from April 2012 to April 2013, with additional periods of service in the National Guard.  This matter comes before the Board of Veterans' Appeals (Board) on appeal from a June 2024 rating decision by the Department of Veterans Affairs (VA).
+
+The rating decision on appeal constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  The Veteran timely appealed this AMA rating decision to the Board in an August 2024 VA Form 10182, Decision Review Request: Board Appeal (VA 10182) and requested Direct Review of the evidence considered by the Agency of Original Jurisdiction (AOJ).  Accordingly, the Board may only consider evidence that was before the AOJ at the time of issuance of the rating decision on appeal.  38 C.F.R. §20.301.
+
+As an initial matter, the Board notes that generally, the Board may not decide an appeal before the deadline for requesting an AMA docket switch has elapsed.  38 C.F.R. § 20.202(c)(2) allows claimants to switch AMA dockets by completing and submitting a new VA 10182 within one year from the date the AOJ mails notice of the decision on appeal, or 60 days from when the Board receives the VA 10182, whichever is later.  Williams v. McDonough, 37?Vet. App.?305 (2024).  Here, although more than 60 days have passed since the receipt of the August 2024 VA 10182, one year has not elapsed since the June 21, 2024, issuance of notice of the rating decision on appeal.  However, the Board will remand the issue in its entirety and is not issuing a decision on the matter; the Veteran is not prejudiced by the Board proceeding in this manner.
+
+Entitlement to service connection OSA.
+
+Upon review of the record, the Board finds that a remand is needed in order to obtain a new VA examination and opinion.
+
+Favorable findings from the rating decision on appeal include that the Veteran participated in a Toxic Exposure Risk Activity (TERA) as defined in the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act) while in service, and that the Veteran has been diagnosed with OSA.  These favorable findings have not been rebutted by evidence that identifies a clear and unmistakable error, thus they are binding on the Board. See 38 U.S.C. § 5104A; 38 C.F.R. § 3.104(c).
+
+A June 2024 VA OSA examiner opined the Veteran's OSA is less likely than not due to her in-service TERA participation because "[m]edical literature does not support the theory that noted toxic exposures in Gulf War/Burn Pits cause or contribute to" OSA and because the Veteran has "other" risk factors for OSA including obesity.  A medical opinion with rationale based solely on general articles that does not discuss any facts pertaining to a Veteran's condition or individual circumstances is inadequate for Board review.  See Bailey?v. O'Rourke, 30 Vet. App. 54, 60, 61 (2018).  In addition, to the extent the VA examiner did consider the Veteran's individual circumstances, the statement that the Veteran has "other" risk factors for OSA such as obesity leaves the Board unable to conclude whether the VA examiner was opining a) that the Veteran's in-service TERA participation was a risk factor or a cause of her OSA, but simply outweighed by other risk factors, or b) that the Veteran's in-service TERA participation was completely unrelated to her developing OSA.  Thus, remand for clarification as to whether the Veteran's in-service TERA participation was a risk factor, even if not the sole or even the primary risk factor in her developing OSA is needed.
+
+Further, the Board finds the record has raised service connection for OSA secondary to the Veteran's service-connected acquired psychiatric disability and service-connected bilateral feet disabilities, with obesity as an intermediate step, as a theory of entitlement.  The June 2024 VA OSA examiner stated that obesity is a risk factor for OSA and that the "risk of OSA correlates well with the body mass index".  A May 2014 VA mental health treatment record indicates the Veteran's "biggest concern right now is side effects from her anti-depressants" and that she "feels that her medications are partly responsible for the weight gain she has experienced over the past year (at least twenty pounds)."  A November 2014 VA psychological examiner noted the Veteran's statement that she hurt her foot and accordingly could not exercise.  The Veteran did not indicate which foot keeps her from exercising; the Board notes that she has service-connected disabilities of both feet.  An April 2015 VA mental health note indicates the Veteran stated she was trying to make changes to be healthy but "can't get too focused on weight loss because she gets discouraged."  Finally, an April 2017 VA foot examiner found that because of the Veteran's service-connected right foot disability, she has "right foot pain with weight bearing activities" and "pain that impacts [her] ability . . . to run, walk, climb stairs, lift, carry, or do weight bearing physical activities."  The Board finds these statements indicate the Veteran's service-connected disabilities may have caused or contributed to her obesity.  While obesity itself cannot be service-connected, it can be an "intermediate step" between a service-connected disability and a current disability, thus satisfying the causal link between the two, when: (1) a service-connected disability caused the veteran to become obese or aggravated the obesity; (2) obesity, resulting from a service-connected condition, was a substantial factor in causing, or aggravating, the disability claimed as secondary; and (3) the claimed disability would not have occurred, or been aggravated to its current degree of severity, but for obesity.  See VAOPGCPREC 1-17; see also Walsh v. Wilkie, 32 Vet. App. 300 (2020); Garner v. Tran, 33 Vet. App. 241, 247-48 (2021).  Thus, the theory of entitlement to service connection for OSA secondary to the Veteran's service-connected disabilities with obesity as an intermediate step has been raised by the record.  However, the evidence as it stands is not sufficient to adjudicate this theory of entitlement.  Indeed, additional evidence is needed to make an informed determination as to whether the medication prescribed for her service connected psychiatric disability and/or her service connected bilateral foot disability led to her being obese which in turn may have at least contributed to her developing OSA. Accordingly an examination and opinion are needed.
+
+The matter is REMANDED for the following action:
+
+The AOJ should arrange for a VA examination of the Veteran to determine the nature and etiology of her presently diagnosed OSA disability.  The examiner should review the claim file (including this remand) and note such review was conducted.  Based on review of the record and examination of the Veteran, the examiner should provide an opinion with detailed rationale that responds to the following:
+
+(a.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's presently diagnosed OSA disability is due to her active service, to include her in-service toxic exposure and participation in a TERA?  The VA examiner should indicate whether the Veteran's in-service toxic exposure and participation in a TERA i) was a risk factor in or cause of her developing OSA or ii) was unrelated to her developing OSA.
+
+(b.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's presently diagnosed OSA disability was either caused or aggravated by the her service-connected acquired psychiatric disability and/or her bilateral feet disabilities?  Please explain why.  The opinion must address whether the disability increased in severity beyond its natural progression (i.e., was aggravated).  Specifically, the opinion must address (1) whether the Veteran's service-connected acquired psychiatric disability or bilateral feet disabilities caused the her to become obese or aggravated her obesity; (2) whether obesity, resulting from the Veteran's service-connected acquired psychiatric disability or bilateral feet disabilities, was a substantial factor in causing, or aggravating, her OSA; and (3) whether the Veteran's OSA would have occurred, or been aggravated to its current degree of severity, but for her obesity. 
+
+ 
+
+E. I. VELEZ
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Dvorak, James T.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

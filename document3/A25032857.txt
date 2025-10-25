@@ -1,0 +1,87 @@
+Citation Nr: A25032857
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240524-475174
+DATE: April 9, 2025
+
+ORDER
+
+Service connection for an acquired psychiatric disorder is denied.
+
+FINDINGS OF FACT
+
+1.  The Veteran served on active duty from October 1982 to March 1988.
+
+2.  A diagnosis of posttraumatic stress disorder (PTSD) has not been shown; there are no verified in-service stressors, to include military sexual trauma (MST). 
+
+3.  A diagnosis of other specified trauma and stressor related disorder was not shown in service and is not etiologically related to service.
+
+CONCLUSION OF LAW
+
+An acquired psychiatric disorder was not incurred in service. 38 U.S.C. §§ 1131, 5103, 5103A, 5107 (2012); 38 C.F.R. §§ 3.102, 3.303, 3.304 (2024).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+In February 2024, the agency of original jurisdiction (AOJ) denied the claim. In May 2024, the Veteran timely appealed to the Board via a Form 10182 and elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal. 38 C.F.R. § 20.301.
+
+Turning to the relevant laws and regulations, service connection may be granted on a direct basis as a result of disease or injury incurred in service based on nexus using a three-element test: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred in or aggravated by service.  See 38 C.F.R. §§ 3.303(a), (d); Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009). 
+
+With specific regard to PTSD claims, three elements must be present: (1) a current medical diagnosis of PTSD in accordance with 38 C.F.R. § 4.125(a); (2) medical evidence of a causal nexus between current symptomatology and a claimed in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor actually occurred. 38 C.F.R. § 3.304(f); Cohen v. Brown, 10 Vet. App. 128 (1997).
+
+In addition to the laws and regulations outlined above, service connection may only be granted for a current disability; when a claimed condition is not shown, there may be no grant of service connection. See 38 U.S.C. § 1110; Rabideau v. Derwinski, 2 Vet. App. 141 (1992) (Congress specifically limits entitlement for service-connected disease or injury to cases where such incidents have resulted in a disability). "In the absence of proof of a present disability there can be no valid claim." See Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992).
+
+To the extent that the Veteran claims PTSD, the first element of service connection is not met as the medical evidence does not support a diagnosis. To that end, the service treatment records (STRs) are negative for any complaints of, symptoms of, diagnoses, or treatments suggestive of a psychiatric disorder. This evidence weighs against a finding that a psychiatric disorder was present during service. 
+
+Similarly, there is no indication the Veteran sought medical care for any psychiatric disorders in the immediate years following service. Rather, the first clinical records related to psychiatric treatments are dated in 2023 and reflect treatment for cognitive processing therapy and a diagnosis of other specified trauma and stressor related disorder but not PTSD. Treatment records variously show scoring assessments based on PCL-5 (PTSD Checklist for DSM-5) but a definitive diagnosis for PTSD was not clearly shown. 
+
+Similarly, at a December 2023 VA examination, the Veteran recounted stressors in service involving MST and feelings of worthlessness and emotional abuse during her marriage following service. She also reported participation in trauma therapy from January to April 2023. 
+
+The examiner found that the reported stressor events and associated symptoms did not meet the diagnostic criteria for PTSD. Instead, the examiner found the Veteran's symptoms to be commensurate with a diagnosis for other specified trauma and stressor related disorder and concluded that PTSD was not incurred in service based on the lack of a current diagnosis. There is no contradictory medical evidence of record reflecting a diagnosis of PTSD during the appeal period. Without a diagnosis of PTSD, the appeal on this basis is denied as a matter of law.
+
+To the extent that the record reflects a diagnosis other than PTSD, specifically other specified trauma and stressor related disorder, the medical evidence does not support a nexus. As noted, a December 2023 VA examiner diagnosed other specified trauma and stressor related disorder and the first element of service connection has been met.
+
+As to an in-service incurrence, the Veteran reported in-service stressors involving MST. She asserts that the first claimed stressor occurred during a routine physical examination by a male doctor upon entrance to service. The Veteran reported that the male doctor made inappropriate comments during a vaginal examination and she was told by her sister to "just deal with it." 
+
+The Veteran claims that the second stressor occurred while stationed at Fort Campbell where the Veteran met a male serviceman in the barracks who offered to give her a ride to the commissary. As they were in route, the male serviceman stopped at his home and began to sexually assault her. 
+
+The third claimed stressor occurred with another male soldier during a road trip to their hometown. The Veteran reported she felt pressured to have sexual intercourse with the gentleman which resulted in a pregnancy and subsequent miscarriage. They were married three weeks later.  
+
+Based on a review of the record, there is insufficient evidence supporting that the claimed in-service situations actually occurred. Although the review of the record is not based on PTSD (since it is denied for no diagnosis), the provisions regarding in-service stressors resulting in a diagnosis other than PTSD offer guidance. To that end, the allegation regarding an in-service incurrence is an adjudicative determination. 
+
+As to the first reported stressor, the enlistment examination does not reflect that the Veteran underwent a pelvic or vaginal examination. Rather, that section is blank as neither a vaginal nor rectal examination was apparently undertaken. This weighs against the Veteran's statements that she was subject to inappropriate comments during a vaginal examination at enlistment.
+
+Next, neither the personnel files nor the clinical records are sufficient to verify that the second and third claimed stressor occurred. The service treatment records (STRs) reflect pregnancy, a spontaneous miscarriage, and treatment for vaginitis but no indication that it was related to the two incidents of sexual assault. 
+
+Additionally, the lay statements of record are also insufficient evidence to verify the claimed stressor event. Consequently, the STRs nor the personal records reflect any markers consistent with MST and there is no independent evidence corroborating the Veteran's statement as to the in-service occurrences related to stressors.
+
+The Board acknowledges the Veteran's contentions that her psychiatric disorders are the result of trauma associated with MST that occurred variously throughout service and that she repressed her memories of the sexual assault to focus her energies on her family. However, there is insufficient evidence to substantiate the Veteran's reports of the incidents described by the Veteran. Therefore, the evidence does not support an in-service occurrence and the second element of direct service connection for a psychiatric disorder other than PTSD has not been met.
+
+As to a medical nexus, a December 2023 VA examiner found that the diagnosis of other specified trauma and stressor related disorder was incurred in service. The examiner reasoned that the Veteran did not have mental health symptoms prior to entrance in service but after experiencing sexual assaults on two separate occasions, she began to develop symptoms related to traumatic events. 
+
+This evidence weighs in support of the appeal but the assigns it lesser probative value because the in-service events relied on by the examiner were not verified nor do the STRs confirm such stressors occurred. The Veteran has not made any contentions relating her psychiatric disorders to service other than the unverified stressors. Because the mental health disorder other than PTSD was not shown in service and there is no competent medical evidence relating them to service, the medical evidence does not support the appeal.
+
+The Board has considered the Veteran's lay statements concerning the events in service and subsequent impact on her personal life following separation. She is competent to report psychiatric symptomatology she may have experienced, which is within the realm of her personal experience. 38 C.F.R. § 3.159; see Layno v. Brown, 6 Vet. App. 465, 469-71 (1994).  However, she is not competent to relate such symptomatology to a diagnosed acquired psychiatric disorder. 
+
+Specifically, rendering such a diagnosis requires professional knowledge of the impact of witnessing traumatic events on the psyche and must conform with the DSM-5.  As such, the question of diagnosis in this case may not be competently addressed by lay evidence, and the Veteran's statements are nonprobative evidence.  Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).  
+
+As it related to PTSD, the only probative evidence addressing whether the Veteran has a current disability of PTSD is the December 2023 VA examination which found that she did not have a diagnosis of PTSD at any time pertinent to her claim. As such, where, as here, there is no probative evidence indicating that the Veteran has the disability for which service connection is sought, there can be no valid claim for service connection for PTSD. 
+
+With regard to the diagnosis for other specified trauma and stressor related disorder, there is also no competent evidence that the disorder is etiologically related to service. As noted above STRs are negative for complaints, treatment, or diagnosis of any acquired psychiatric disorder and the earliest documentation for complaints and/or treatments for psychiatric related symptoms is in 2023. 
+
+In sum, service connection is not warranted for an acquired psychiatric disorder, to include PTSD and other specified trauma and stressor related disorder, because there is no current diagnosis for PTSD based on a verified in-service stressor nor does the evidence establish that any psychiatric disorder was incurred in or is etiologically related to active service. The evidence persuasively weighs against the claim and the doctrine of reasonable doubt does not apply.
+
+Finally, the Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record, for the Board's consideration. See Doucette v. Shulkin, 28 Vet. App. 366, 369-370 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).
+
+ 
+
+ 
+
+L. HOWELL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Y.Asfaw, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

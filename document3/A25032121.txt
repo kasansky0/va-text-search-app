@@ -1,0 +1,79 @@
+Citation Nr: A25032121
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240404-431632
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for hypertension is denied.
+
+FINDING OF FACT
+
+During the appeal period, the Veteran's hypertension required continues medication for control but did not manifest in diastolic pressure predominantly 100 or more, or systolic pressure predominantly 160 or more; the Veteran did not both have a history of diastolic pressure predominantly 100 or more and require continuous medication for control.   
+
+CONCLUSION OF LAW
+
+The criteria for an initial compensable rating for hypertension have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. § 4.104, Diagnostic Code 7101.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from May 1994 to May 1998.  
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal of a March 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO), which is the Agency of Original Jurisdiction (AOJ).  
+
+In November 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of an October 2023 decision.  In March 2024, the AOJ issued the HLR decision on appeal, which considered the evidence of record at the time of the prior October 2023 decision.  Therefore, the Board may only consider the evidence of record at the time of the October 2023 decision.
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the March 2024 AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  In this case, as noted, the Board will consider only evidence of record as of October 2023.
+
+Evidence was added to the claims file during a period of time when new evidence was not allowed.  As the Board is deciding the compensable rating for hypertension issue, it may not consider this evidence in its decision.  38 C.F.R. § 20.300.  The Veteran may file a Supplemental Claim and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Increased Ratings
+
+Disability ratings are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects his or her ability to function under the ordinary conditions of daily life, including employment, by comparing his or her symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule).  See 38 U.S.C. § 1155; 38 C.F.R. § 4.1.  Different ratings may be assigned for different periods of time for the same disorder if the facts show distinct time periods with different levels of disability.  Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007).  If two ratings are potentially applicable, the higher rating will be assigned if the disability more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned.  See 38 C.F.R. § 4.7.  Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran.  See 38 C.F.R. § 4.3.
+
+The Veteran is currently assigned a 0 percent (noncompensable) disability rating pursuant to 38 C.F.R. § 4.104, Diagnostic Code 7101, for hypertension.  This claim stems from the Veteran's March 2023 service connection claim.  
+
+Hypertension is rated pursuant to 38?C.F.R. §?4.104, Diagnostic Code 7101, for hypertensive vascular disease (hypertension and isolated systolic hypertension).  Under Diagnostic Code 7101, a 10 percent rating is warranted for diastolic pressure (e.g., the bottom number) predominantly 100 or more, or; systolic pressure (e.g., the top number) predominantly 160 or more, or; it is the minimum evaluation for an individual with a history of diastolic pressure predominantly 100 or more who requires continuous medication for control. 
+
+A 20 percent rating is warranted for diastolic pressure predominantly 110 or more, or systolic pressure predominantly 200 or more.  A 40 percent rating is warranted for diastolic pressure predominantly 120 or more.  A 60 percent rating, the highest rating available, is warranted for diastolic pressure predominantly 130 or more.  
+
+The term "predominant" is not defined in the rating criteria.  Merriam-Webster defines predominant to mean "being most frequent or common."  See, e.g., "predominant," Merriam-Webster.com Online Dictionary, https://www.merriam-webster.com/dictionary/predominant.  The M21-1 defines predominant to mean "most common or prevailing." Blood pressure may fluctuate depending on a number of variables and disability evaluations must be based on valid evidence demonstrating representative disability.  See M21-1, Part V, Subpart iii,.5.3.e.
+
+In rating hypertension, the Board may consider blood pressure readings taken while a veteran is using medication. McCarroll v. McDonald, 28 Vet. App. 267, 271 (2016) (holding that Diagnostic Code 7101 contemplates the effects of medication)  
+
+For the reasons that follow, the Veteran's hypertension has not more nearly approximated the criteria corresponding to a 10 percent rating.
+
+In an October 2023 VA examination, the Veteran reported she still experienced elevated blood pressure readings and had continuous medication to control her blood pressure.  She also had headaches that she attributed to her hypertension.  She has made, however, a separate service connection claim for headaches and that issue is not currently before the Board.  At the VA examination, the blood pressure readings were 160/94, 154/94, and 148/92.
+
+The only other relevant evidence regarding the severity of her hypertension is the service treatment records while on active duty and in the National Guard and Reserves.  The Veteran did have a blood pressure rating of 187/128 and briefly placed on medication in February 1997.  This appears to have been related to her pregnancy and later that month she was 144/100.  The clinician noted she was not on medication at that subsequent date.  Subsequent blood pressure readings were normal including 111/84 at the March 1998 Separation examination.  The exam noted the Veteran had blood pressure readings over three days with no diagnosis of hypertension.  The only blood pressure reading in the National Guard occurred in October 2000 with a normal result. 
+
+There are no private medical record or VA medical center (VAMC) in the record and thus, no subsequent blood pressure readings until the October 2023 VA examination.  
+
+Based on the foregoing, the Board finds that the criteria for a compensable rating for service-connected hypertension are not met.  The Veteran has required continuous medication to control her blood pressure; however, the evidence of record does not represent diastolic pressure predominantly 100 or more or systolic pressure predominantly 160 or more.  The Board finds as fact that the two service reports of high blood pressure which occurred during pregnancy and the one blood pressure reading at the VA examination (160/94) do not establish the predominant elevated blood pressure readings required for a compensable rating simply because these readings do not represent the most frequent or most common blood pressure readings for the Veteran's hypertension.  Subsequent readings resulted in systolic pressure readings below 160. 
+
+The October 2023 VA examiner did not report that the Veteran had a history of diastolic blood pressure elevation to predominantly 100 or more or systolic blood pressure readings 160 or more.  Treatment records and the Veteran's statements are not in significant conflict with the examination findings.  Accordingly, the Veteran's hypertension did not manifest in diastolic pressure predominantly 100 or more, or systolic pressure predominantly 160 or more.  As such, the Board finds the Veteran's hypertension does not more nearly approximate the criteria for a compensable rating and the claim is denied for a compensable rating from March 22, 2023, to October 31, 2023.
+
+The Board acknowledges the Veteran's statements that her hypertension warrants a compensable evaluation.  She is competent to testify what symptoms she is experiencing, Layno v. Brown, 6 Vet. App. 465, 469-71 (1994) but cannot offer a lay opinion as to the specific level of disability of this disorder according to the appropriate diagnostic codes.  In evaluating a claim for an increased schedular disability rating, VA must consider the factors as enumerated in the rating criteria discussed above, which in part involves the examination of clinical data gathered by competent medical professionals. Massey v. Brown, 7 Vet. App. 204, 208 (1994). The Board therefore finds the blood pressure readings of record and medical opinions more probative than the Veteran's lay statements as the readings and opinions were offered by medical professionals after examination of the Veteran and consideration of the history of the disability including the Veteran's reports of symptoms.  She is not competent to identify a specific level of disability of this disorder according to the appropriate diagnostic codes.  Competent medical evidence means evidence provided by a person who is qualified through education, training, or experience to offer a medical diagnosis, statement, or opinion.  38 C.F.R. § 3.159.  No factual foundation has been established that the Veteran is otherwise qualified through specialized education, training, or experience to offer this medical evidence.  
+
+(Continued on the next page)
+
+?
+
+Nevertheless, the lay statements do not indicate that the Veteran has systolic blood pressure predominately 160 or higher or a history of diastolic pressure predominantly 100 or higher. The Veteran only reported she had elevated blood pressure readings and did not report any medical profession readings, including by a medical professional demonstrated the required level of severity for a compensable rating.  If the Veteran is aware of any medical records not of record which would demonstrate hypertension warranting a compensable rating, she is strongly urged to submit such evidence with a supplemental claim.  
+
+As the criteria for a 10 percent rating under Diagnostic Code 7101 are not met, a noncompensable rating for hypertension is warranted.  See 38 C.F.R. § 4.31.
+
+ 
+
+ 
+
+DUSTIN L. WARE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Veldenz, Russell
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

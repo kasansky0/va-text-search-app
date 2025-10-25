@@ -1,0 +1,81 @@
+Citation Nr: A25031222
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240612-448923
+DATE: April 4, 2025
+
+REMANDED
+
+Entitlement to service connection for sleep apnea, to include as secondary to a service-connected major depressive disorder, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from July 2015 to July 2021.  This matter comes before the Board of Veterans' Appeals (Board) on appeal from a May 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the May 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+As a final preliminary matter, the Board notes that the Veteran did not waive the remainder of her window to request a docket switch pursuant to Williams v. McDonough, 37 Vet. App. 305 (Jun. 21, 2024).  Because the current decision is not a final determination on the benefit sought, the lack of a waiver represents only harmless error by the Board.
+
+The Veteran contends she has sleep apnea due to her active duty service.  The Board finds that two pre-decisional duty to assist errors require a remand.  38 C.F.R. § 20.802(a).
+
+The Veteran's service treatment records (STRs) reflect that in April 2021 she reported frequent trouble sleeping on a report of medical history.  A handwritten note reads, "pt states it has increased...", but she has not been evaluated by a medical professional for that issue.  The Veteran's exit examination does not note sleep apnea, and her list of active and inactive problems does not include a diagnosis of a sleep disorder.
+
+The Veteran's husband authored a statement in support of her claim in September 2022.  The Veteran's husband stated that most nights she sleeps about three hours.  Her poor sleep began in approximately 2019, during service, around the same time that she began experiencing stress and anxiety.  The Veteran's husband believes that the Veteran's anxiety causes or contributes to her sleep disability.  He also wrote: 
+
+[the Veteran] and I have been together since the summer of 2018 and she used to sleep like a rock!  ...  For the past years she really doesn't sleep at night with or without sleep medicine.  And when she does sleep it's for short periods of time and she snores and sometimes it sounds like she stops breathing so I have to physically turn her over.  
+
+In January 2024, the Veteran filed a VA Form 20-0995, Supplemental Claim Application, for her sleep apnea.  She identified relevant treatment records at three local facilities.  A few days later, the RO sent her and her counsel a records request form to complete, which would authorize VA to retrieve those treatment records.  The form has four pages.  In February 2024, the Veteran uploaded the first two pages of the form, indicating treatment with Millenium Physician Group for sleep apnea.  The second two pages of the form contain the authorization and the signature page.  
+
+A week later, VA sent the Veteran and her counsel another letter, stating "[p]lease complete and return the enclosed VA Form 21-4142 ... so that we can obtain the authorization to request treatment records from your private medical sources listed on the received VA Form 21-4142a..."  The letter warned, "[i]f we do not hear from you, we may make a decision on your claim after 30 days."
+
+Treatment notes in the Veteran's VA CAPRI records from January 2024 state, "[s]leep 3-7hrs per night (varies), sometimes restful with cpap machine."
+
+The first pre-decisional duty to assist error was a failure to use reasonable efforts to obtain the Veteran's relevant private treatment records.  See 38 C.F.R. § 3.159(c)-(e)(2).  The Veteran attempted to provide VA with the proper authorization to retrieve her records, and VA followed up with a notice letter.  The VA notice letter is accurate, but the Veteran and her counsel were not expressly informed that the last two pages were missing.  They were not necessarily on notice that their authorization was incomplete and could not be used.  A second follow-up communication would have been a reasonable effort under these circumstances, but a single unspecific notice falls short.
+
+The second pre-decisional duty to assist error was in failing to provide the Veteran with a VA examination.  Under 38 U.S.C. § 5103A(d)(2), VA must provide a medical examination and/or obtain a medical opinion when there is: (1) competent evidence that the Veteran has a current disability (or persistent or recurrent symptoms of a disability); (2) evidence establishing that she suffered an event, injury or disease in service or has a disease or symptoms of a disease within a specified presumptive period; (3) an indication the current disability or symptoms may be associated with service; and (4) there is not sufficient medical evidence to make a decision.  See McLendon v. Nicholson, 20 Vet. App. 79 (2006).
+
+All four elements are met here.  The Veteran's apparent use of and benefit from a CPAP machine suggest a private diagnosis of sleep apnea, as does her husband's lay statement.  There is some evidence the Veteran's sleep disability could be due to her service-connected major depressive disorder.  Her husband's lay statement also suggests the onset of symptoms during service.  There is an indication the Veteran's symptoms could be related to service, but there is insufficient medical evidence to decide the claim.
+
+Accordingly, there are two pre-decisional duty to assist errors requiring a remand.   38 C.F.R. § 20.802(a).
+
+The matter is REMANDED for the following action:
+
+1. First, take appropriate steps to obtain any outstanding non-VA treatment records related to the Veteran's sleep disability, including, but not limited to, her treatment from the Millenium Physician Group.
+
+All reasonable avenues should be exhausted to locate these records.
+
+2. After the above development is completed, and only if the Veteran's claim cannot be granted based on the available evidence, schedule a VA examination with a medical provider to determine the nature and etiology of the Veteran's sleep disability, to include sleep apnea.
+
+(a) The examiner should opine as to whether the Veteran's sleep disability was incurred in or is otherwise directly related to her active service, to include having onset during service.  The examiner should explain why or why not.
+
+(b) The examiner should opine as to whether the Veteran's sleep disability was caused or aggravated on a secondary basis by the Veteran's service connected major depressive disorder.
+
+Separate opinions should be provided for secondary causation and aggravation.
+
+While making the above determinations, the examiner should consider:
+
+(a) April 2021 STR note that the Veteran has frequent trouble sleeping;
+
+(b) September 2022 lay statement from the Veteran's husband; and
+
+(c) January 2024 VA CAPRI note that the Veteran uses and benefits from a CPAP machine.
+
+A clear and complete rationale should be given for each opinion expressed, as well as a discussion of all the facts and medical principles involved.
+
+ 
+
+ 
+
+Jenna Brant
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T.E. Yahner, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,55 @@
+Citation Nr: A25032160
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240819-467157
+DATE: April 8, 2025
+
+ORDER
+
+The issue of entitlement to special monthly compensation (SMC) based on the need of regular aid and attendance is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from March 1980 to June 1980 and from November 1990 to June 1991.
+
+In June 2023, the Veteran submitted a VA Form 20-0996 Request for Higher-Level Review (HLR) and requested review of a June 2023 decision that, in relevant part, denied entitlement to special monthly compensation (SMC) based on the need of regular aid and attendance.  In October 2023, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior June 2023 decision.  
+
+In his August 2024 VA Form 10182 (notice of disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the June 14, 2023 AOJ decision, which was subsequently subject to higher-level review. 38 C.F.R. §§ 20.301, 3.2601(f). If evidence was submitted during the period after the AOJ issued the June 14, 2023 decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the above issue, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the matter. 38 C.F.R. § 3.103(c)(2)(ii).
+
+***
+
+The Veteran seeks SMC based on the need of regular aid and attendance.  See VA 21-2680 Examination for Housebound Status or Permanent Need for Regular Aid and Attendance from April 17, 2023. 
+
+"SMC is available when, 'as the result of service-connected disability,' a veteran suffers additional hardships above and beyond those contemplated by VA's schedule for rating disabilities."  Breniser v. Shinseki, 25 Vet. App. 64, 68 (2011) (citing 38 U.S.C. 1114(k)-(s)).
+
+Under 38 U.S.C. § 1114(l), SMC is also payable where a veteran suffers from service-connected disability that renders him so helpless as to be in need of regular aid and attendance.  38 U.S.C. § 1114(l); 38 C.F.R. § 3.350(b).  Determinations as to the need for aid and attendance are based on the actual requirements of personal assistance from others.  In determining the need for regular aid and attendance, consideration will be given to the inability of the veteran to dress or undress himself, or to keep himself clean; frequent need of adjustment of any prosthetic which by reason of the disability cannot be done without aid; inability of the veteran to feed himself; inability to attend to the wants of nature; or incapacity, physical or mental, which requires care or assistance on a regular basis to protect himself from the hazards or dangers of his daily environment.  Bedridden will be that condition which, through its essential character, actually requires that the claimant remain in bed.  38 C.F.R. § 3.352(a); see Turco v. Brown, 9 Vet. App. 222, 224-25 (1996) (stating that it is only necessary that the evidence establish that a veteran is so helpless as to need regular aid and attendance, not that there is a constant need).
+
+It is noted that, in order for the veteran to prevail in his claim, the evidence must show that it is a service-connected disability that has resulted in him being in need of regular aid and attendance or being housebound.  See Prejean v. West, 13 Vet. App. 444, 447-48 (2000).
+
+Turning to the evidence, VA 21-2680 Examination for Housebound Status or Permanent Need for Regular Aid and Attendance, dated February 2023 and completed by the Veteran's VA primary care provider, shows diagnoses of epithelial basement membrane dystrophy, low tension, glaucoma, ischemic heart disease, homonymous hemianopia, chronic kidney disease, GERD, depression, hyperlipidemia, chronic low back pain, BPH, hypertension, coronary artery bypass surgery, and myocardial infarction.  Per the examination report, the Veteran is able to feed himself but requires that meals be prepared by his caregiver; needs assistance with bathing due to his decreased vision. He does not require nursing home care.  The Veteran's caregiver organizes his daily medication to assist with medication management.  This clinician stated that the Veteran has the mental capacity to manage his benefit payments or direct someone to do so.  It was noted that the Veteran can dress himself, albeit slowly; walks with a cane and requires assistance getting in and out of vehicles or facilities; and does not travel beyond premises of his home without assistance.
+
+At the time that the Veteran's SMC claim was received in April 2023, service connection was in effect for irritable bowel syndrome (30 percent); a lumbar spine disability (20 percent); bilateral sciatic nerve impairment (20 percent for each lower extremity), and a bilateral knee disability (10 percent for each knee).
+
+Nevertheless, following the rating decision on appeal, a May 2024 rating decision granted service connection for chronic sinusitis (50 percent) and chronic bronchitis with COPD (noncompensable), effective August 10, 2022.  It also granted service connection for hypertension (10 percent), effective August 8, 2023.
+
+Under the Appeals Modernization Act (AMA), the Board may remand "for correction of [an] error by the agency of original jurisdiction in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the appellant's claim." 38 C.F.R. § 20.802(a); see Green v. McDonough, 37 Vet. App. 127, 138 (2024) (holding that if an agency decision which post-dates the decision on appeal may result in an error requiring remand because a decision does not constitute "evidence" and as such, the decision need not have been of record at the time of the decision on appeal).  It would be prejudicial for the Board to adjudicate entitlement to the SMC benefit sought in the first instance given the change in circumstances, so an error exists requiring correction and remand pursuant to 38 C.F.R. § 20.802(a)).  See 38 U.S.C. § 7104(a) (stating that all questions in a matter which under section 511(a) of this title is subject to decision by the Secretary shall be subject to one review on appeal to the Secretary).
+
+As mentioned, a May 2024 rating decision that granted service connection for three new disabilities.  The decision on appeal current before the Board did not consider the disabling effects/impairment of these newly service-connected disabilities.  These are changed circumstances and a remand is needed because the correction would have a reasonable possibility of aiding in substantiating the appellant's claim.  38 C.F.R § 20.802(a).  
+
+This matter is REMANDED for the following action:
+
+Readjudicate the Veteran's entitlement to SMC in light of the May 2024 rating decision that granted service connection for three new disabilities. 
+
+ 
+
+ 
+
+Paul Sorisio
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	P. López, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,75 @@
+Citation Nr: A25032258
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240820-469120
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is granted.
+
+FINDING OF FACT
+
+Resolving any reasonable doubt in the Veteran's favor, the Veteran's OSA is proximately due to his service-connected insomnia.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA as secondary to service-connected insomnia are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the United States Army from January 1979 to January 1982.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from an August 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office, the agency of original jurisdiction (AOJ).
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the August 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+To meet the criteria for secondary service connection, a veteran must prove that there is (1) a current disability that is not already service-connected; and (2) at least one service-connected disability; and (3) evidence that the non-service connected disability is either proximately due to or the result of a service-connected disability, or aggravated (increased in severity) beyond its natural progress by a service connected disability. See 38 C.F.R. § 3.310; Allen v. Brown, 7 Vet. App. 439 (1995).
+
+The Board notes that although obesity, per se, is not a disease or injury for purposes of 38 U.S.C. §§ 1110 and 1131 and therefore may not be service connected on a direct or secondary basis, obesity may be an "intermediate step" between a service-connected disability and a current disability that may be connected on a secondary basis (1) if a previously service-connected disability caused him to become obese; (2) that obesity was a substantial factor in causing secondary disability; and (3) the secondary disability would not have occurred but for the obesity. See VAOPGCPREC 1-2017.
+
+1. Entitlement to service connection for OSA.
+
+The Veteran contends that he is entitled to service connection for OSA because his service-connected insomnia caused him to gain weight which, in turn, caused his OSA. 
+
+Under the AMA, the Board is bound by favorable findings of the AOJ in the absence of evidence of clear and unmistakable error. See 38 C.F.R. § 3.104. In the August 2023 rating decision, the AOJ found that the Veteran had a current diagnosed disability of OSA. 
+
+As such, the Veteran's claim turns on whether there is a nexus between the Veteran's OSA and military service or service-connected disabilities.
+
+Turning now to the medical evidence of records, the Veteran's service treatment records (STRs) are void of complaints or treatment for OSA. 
+
+Treatment records indicate the Veteran complained of loud snoring, that he was informed by his wife that he stops breathing, and that he requested a sleep study.  See March 2021 VA treatment records.  Sleep study results showed mild-moderate OSA. See May 2021 VA treatment records. It was noted the Veteran was prescribed non-VA Zolpidem and a trial Hydroxyzine prescription to aid in sleep.  See March 2023 and April 2023 VA treatment records. The Veteran was prescribed and utilizes a CPAP machine. See May 2023 VA treatment records.
+
+The Veteran submitted a private sleep apnea medical assessment and opinion in April 2023.  The Veteran reported symptoms of persistent daytime hypersomnolence, snoring, apneic episodes, trouble falling/staying asleep, insomnia, fatigue, and poor concentration/difficulty completing tasks. He reported a 56-pound weight gain due to inactivity and his insomnia. The examiner opined that 1) it was at least as likely as not that the Veteran's weight gain was due to his service-connected insomnia, 2) it was at least as likely as not that the Veteran's OSA is secondary to and/or aggravated by weight gain caused by his insomnia, and 3) it was at least as likely as not that without weight gain the Veteran's OSA would not have occurred.  
+
+The rationale in relevant parts was "...common side effects of Zolpidem are headaches, nausea, stomach upset, dry mouth, extreme sweating, trouble sleeping, irritability, weight gain, sexual and erectile dysfunction...there is evidence of overall progressive weight gain and a current overweight condition which chronologically developed after the mental health stressors with mental health medications with known pharmacology to promote weight gain related to his service connected disability...Pharmacology studies document the underlying mechanisms of drug induced weight gain and found that medications interfere with the central nervous system functions that regulate energy balance...multiple studies within the medical literature document evidence from both laboratory and epidemiological studies to indicate that chronic partial sleep loss, to include insomnia and frequent night time awakenings increase the risk of obesity and weight gain. Sleep loss results in metabolic and endocrine alterations, including decreased glucose tolerance, decreased insulin sensitivity with loss in beta cell function elevated sympathovagal balance, increased evening concentrations of cortisol, increased levels of ghrelin which signal caloric need, decreased levels of leptin causing a reduction in satiety, and increased hunger and appetite related to internal misperception of insufficient energy availability. The adverse impact of sleep deprivation and dysregulation of the neuroendocrine appetite regulation is likely to be driven by increased activity in neuronal populations expressing the excitatory peptides orexins that promote hunger signals. These effects led to an increased body mass index (BMI) and obesity...the deposition of fat around the pharyngeal airway is likely to increase the collapsibility of the pharyngeal airway. Fat deposition around the abdomen leads to reductions in functional residual capacity which would predict to reduce lung volume tethering effects on the upper airway. Low lung volumes are also associated with diminished oxygen stores, which would contribute to ventilatory control instability (high loop gain). Finally, obesity has been associated with functional impairment and weakening in the upper airway muscles...obesity is such a high-risk factor for OSA that even a one standard deviation increase in BMI has been associated with a 4-fold increase in the prevalence of OSA..."
+
+The Veteran was afforded a VA examination in May 2023. The examiner opined it was less likely than not that the Veteran's exposure to diesel fumes in 1982 would cause OSA over 39 years later. 
+
+The Veteran was afforded another VA examination in July 2023.  The examiner opined it was less likely than not that the Veteran's OSA was related to his military service.  The rationale was "OSA is caused by conditions that either obstruct or weaken the respiratory passages (Mayo Clinic, 2020), However as insomnia neither obstructs nor weakens the respiratory passages, the Veteran's claimed OSA condition is less likely than not (likelihood is less than approximately balanced or nearly equal) proximately due to or the result of the Veteran's insomnia disorder."
+
+While the Veteran believes his OSA is related to his insomnia, he is not competent to provide a nexus in this case.  The issue is medically complex, as it requires specialized medical education and the ability to interpret complicated diagnostic medical testing. See Jandreau v. Nicholson, 492 F.3d 1372, 1377, 1377 n.4 (Fed. Cir. 2007).  Consequently, the Board gives more probative weight to the competent medical evidence of record.
+
+The Board concludes the private medical opinion is competent and credible.  If evidence is found to be competent, it is for the Board to determine what, if any probative value to assign to that evidence.  See Washington v. Nicholson, 19 Vet. App. 362, 368 (2005) (it is the responsibility of the Board to assess the probative weight of the evidence).  The private examiner's opinion is probative, because it is based on a current and an accurate medical history and provides an explanation that contains clear conclusions and supporting data. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008).  Further, the Board finds the VA medical opinions to be conclusory and affords them no probative value.  A medical examination report must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two. See Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007). The VA examiners also did not properly address the aggravation element of secondary service connection. See Allen v. Brown, 7 Vet. App. 439 (1995).  As such, the Board assigns great probative weight to the private medical opinion.
+
+For these reasons, after resolving all reasonable doubt in favor of the Veteran, the Board finds that the evidence is in approximate balance and entitlement to service connection for OSA is warranted.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).
+
+ 
+
+D. SMART
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Poston, M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

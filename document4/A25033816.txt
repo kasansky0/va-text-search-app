@@ -1,0 +1,89 @@
+Citation Nr: A25033816
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 190722-81810
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to an evaluation in excess of 20 percent for bilateral hearing loss prior to September 3, 2021, is denied. 
+
+FINDING OF FACT
+
+There is no evidence of record which establishes that it is factually ascertainable that an increase in the Veteran's hearing loss occurred within the one year period prior to his June 2019 claim.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an increased evaluation in excess of 20 percent for bilateral hearing loss prior to September 3, 2021, are not met. 38 U.S.C. §§ 5107, 5110; 38 C.F.R. §§ 3.102, 3.155, 3.400.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Air Force from August 1962 to August 1966. This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2019 rating decision by the Agency of Original Jurisdiction (AOJ) of the United States Department of Veterans Affairs (VA).
+
+The Veteran filed a claim for increased rating in June 2019; the rating decision on appeal was issued in July 2019. That same month, the Veteran filed a VA Form 10182 notice of disagreement (NOD) seeking review by the Board under the Direct docket. 38 C.F.R. § 20.202. In August 2019, however, the Veteran file a new NOD changing his review election to the Board's Hearing docket. 38 C.F.R. § 3.2500(e).
+
+Under the hearing docket, the Board considers the evidence of record at the time of the decision on appeal, evidence submitted at the Board hearing, and evidence received within 90 days following the hearing. 38 C.F.R. § 20.302. 
+
+In April 2022 correspondence, however, the Veteran withdrew his request for a hearing; the 90 day period of submission of evidence began with receipt of the withdrawal. 38 C.F.R. § 20.302(b). The Veteran did not submit any additional evidence for consideration during the 90-day period following his withdrawal request. 
+
+The Board notes that in September 2021, the Veteran filed a new initial claim for increased evaluation on a VA Form 21-526EZ, Application for Disability Compensation and Related Compensation Benefits. The AOJ developed and adjudicated this claim, and in a September 2021 rating decision granted an increased, 30 percent rating for bilateral hearing loss, effective September 3, 2021. The Veteran attempted to initiate appellate review at the AOJ level by filing a request for Higher Level Review in October 2021, but this was rejected in November 2021 because the matter of increased rating was already on appeal to the Board, and concurrent elections of appeal options are not permitted. 38 C.F.R. § 3.2500(b).
+
+In its September 2022 decision, the Board denied entitlement to an increased rating in excess of 20 percent prior to September 3, 2021. The Board noted that under the AMA, the appeal period for the current appeal ends with the issuance of the decision on appeal. The evidence window includes periods of time following the decision, but the Board stated that it was addressing the status of the claim at the time of the July 2019 decision. 38 C.F.R. §§ 20.300, 20.302. The Board recognized the favorable legal finding of the AOJ in awarding an increased rating effective September 3, 2021, but noted that review of such is beyond the period on appeal here. 38 C.F.R. §§ 3.104, 20.300.
+
+The Board noted that evidence was added to the claims file during a period of time when new evidence was not allowed, particularly in support of the new claim for increase filed in September 2021. As the Board was deciding the claims of increased rating for a period prior to such, it could not consider this evidence in its decision. 38 C.F.R. § 20.300. Moreover, the Board noted that the AOJ committed a procedural error in rejecting the Veteran's request for Higher Level Review. Reconsideration of that request for appellate consideration was referred to the AOJ.
+
+The Veteran appealed the Board's September 2022 decision to the U.S. Court of Appeals for Veterans Claims (Court). In November 2024, the Court, on the basis of a Joint Motion for Remand (JMR), vacated the decision and remanded the matter to the Board. 
+
+The Court determined that the Board failed to address the potential applicability of 38 C.F.R. § 3.400(o)(2) in its decision. The Court stated that the Board is required to consider all relevant evidence of record and to consider and discuss in its decision all "potentially applicable" provisions of law and regulation. See Schafrath v. Derwinski, 1 Vet. App. 589, 593 (1991). The Veteran's representative asserts that the Veteran's report of worsening hearing in June 2018 "may represent a factually ascertainable increase within the one-year look back period from the June 2019 claim." As such, the Court found the Board's failure to address 38 C.F.R. § 3.400(o)(2) in its decision renders its reasons and bases inadequate. 
+
+The matter is now before the Board for adjudication. 
+
+Pursuant to the provisions of 38 C.F.R. § 3.400(o)(2), the earliest date of a disability rating is the date as of which it is factually ascertainable based on all the evidence of record that an increase in disability had occurred if a complete claim or intent to file a claim is received within one year from such date, otherwise, date of receipt of claim. When medical records indicate an increase in a disability, receipt of such medical records may be sued to establish effective date(s) for retroactive benefits based on facts found of an increase in a disability only if a complete claim or intent to file a claim for an increase is received within 1 year of the date of the report of the examination, hospitalization, or medical treatment. 38 C.F.R. § 3.400(o)(2).
+
+Here, the Veteran's claim for an increased rating for bilateral hearing loss was received on June 11, 2019. The Veteran reported that his hearing worsened in "June 2018." 
+
+VA treatment records dated July 23, 2018, reflect the Veteran was seen for a primary care annual visit. The Veteran's medical history included bilateral hearing loss. A January 18, 2019, eye treatment note also reflects the Veteran's medical history of bilateral hearing loss.
+
+The Veteran underwent a VA hearing loss examination in June 2019. The audiogram showed puretone thresholds, in decibels, as follows:
+
+ 	HERTZ
+
+ 
+
+HERTZ
+
+ 
+
+ 	1000	2000	3000	4000	Average
+
+RIGHT	55	65	65	70	64
+
+LEFT	55	60	65 	70	63
+
+Speech audiometry revealed speech recognition ability of 88 percent in the right ear and 88 percent in the left ear. Applying these results to Table VI in 38 C.F.R. § 4.85, hearing loss in the right ear is assigned a numeric designation of Level III and hearing loss in the left ear is assigned a numeric designation of Level III. Applying these results to Table VIA in 38 C.F.R. § 4.85, hearing loss in the right ear would only be assigned a numeric designation of Level V and hearing loss in the left ear would be assigned a numeric designation of Level V. Table VIA results in the higher numerals, thus this is the table which is used. Where hearing loss is at Level V in both ears, a 20 percent evaluation is assigned under Table VII. 38 C.F.R. § 4.85.
+
+Based on these findings, the AOJ correctly assigned a 20 percent evaluation for the Veteran's bilateral hearing loss, effective June 11, 2019, the date the claim was received.  
+
+As noted above, the Veteran's representative asserted before CAVC that the Veteran's personal report that his hearing worsened since "June 2018 . . . may represent a factually ascertainable increase within one-year look back period from the June 2019 claim." 
+
+A thorough review of the file reveals that during the one year period prior to the filing of the Veteran's claim for an increased rating for hearing loss there is no evidence which can be described as representing a factually ascertainable increase in the Veteran's hearing loss during the period from June 2018 to June 2019, other than the findings of the June 2019 VA hearing loss examination. The Veteran did not report experiencing an increase in his hearing loss at his July 2018 annual physical examination nor at his January 2019 annual eye examination. Notably, on his June 2019 claim for an increased evaluation, the Veteran did not offer a description of and/or a statement regarding his claimed worsening hearing nor did he identify any evidence to support his assertion, rather he merely indicated on his claim form that his disability worsened in "June 2018."  
+
+Disability ratings for hearing impairment are derived from a mechanical formula based on levels of puretone threshold average and speech discrimination. Lendenmann0 v. Principi, 3 Vet. App. 345 (1992). The evidence of record is devoid of any documented treatment for complaints of increased hearing loss verified by audiometric testing in the one year period prior to the filing of the Veteran's claim for an increased rating for hearing loss. Because disability evaluations are based on actual levels of puretone threshold average and speech discrimination, the Veteran's personal reports of worsening hearing, which are not supported by his medical records, cannot constitute "factually ascertainable" evidence of worsening hearing as required in order for 38 C.F.R. § 3.400(o)(2) to apply. The Veteran's hearing loss is presumed to be at the same level on the date he filed his claim as it was on the date of his VA examination, which was conducted on June 26, 2019, to avoid penalizing the Veteran for any delay by VA in obtaining an examination. 
+
+However, the Veteran's lay reports of increased hearing loss as of "June 2018" are not corroborated by the medical evidence of record; the Veteran did not report experiencing increased hearing loss at any time during the one year period prior to filing his claim for an increased rating; not at his July 2018 annual physical examination or his January 2019 annual eye examination, nor did he seek treatment for complaints of increased hearing loss at any time during this period. His subjective statements are insufficient to establish he actually met the criteria for increased rating. Therefore, his lay reports of increased hearing loss since June 2018 are not factually ascertainable. 
+
+The most probative medical evidence as to the increase in the severity of the Veteran's hearing loss is the June 2019 audiometric findings. A thorough review of the file reveals that during the one year period prior to the filing of the June 2019 increased rating claim there is no evidence associated with the Veteran's file which establishes a factually ascertainable increase in the severity of the Veteran's bilateral hearing loss. 38 C.F.R. § 3.400(o)(2). In reaching this conclusion, the Board has considered the applicability of the benefit of the doubt doctrine; the evidence is against the Veteran's claim, and the doctrine is not applicable. 38 U.S.C. § 5107(b).
+
+ 
+
+ 
+
+WILLIAM H. DONNELLY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Margaret M. Lunger
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

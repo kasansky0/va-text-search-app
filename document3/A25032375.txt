@@ -1,0 +1,275 @@
+Citation Nr: A25032375
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240826-468184
+DATE:  April 8, 2025
+
+ORDER
+
+Entitlement to service connection for asthma is denied.
+
+Entitlement to a rating in excess of 50 percent, for obstructive sleep apnea (OSA) with chronic obstructive pulmonary disease (COPD) with restrictive component is denied.
+
+REMANDED
+
+Entitlement to service connection for radiculopathy, left lower extremity is remanded.
+
+Entitlement to service connection for radiculopathy, right lower extremity is remanded.
+
+Entitlement to service connection for flat feet, left foot, is remanded.
+
+Entitlement to service connection for flat feet, right foot, is remanded.
+
+Entitlement to an initial rating in excess of 10 percent prior to July 11, 2024, a compensable rating from July 11, 2024, to December 10, 2024, and in excess of 10 percent, thereafter, is remanded.
+
+Entitlement to an initial compensable rating for chronic sinusitis is remanded.
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) is remanded.
+
+FINDINGS OF FACT
+
+1. At no time during the pendency of the claim does the Veteran have current diagnoses of asthma and the record does not contain a recent diagnosis of disability prior to the Veteran's filing of the claim. 
+
+2. For the entire appeal period, the Veteran's obstructive sleep apnea (OSA) manifested with requirement to use breathing assistance device such as continuous airway pressure (CPAP) machine, without chronic respiratory failure with carbon dioxide retention, cor pulmonale, or tracheostomy; the Veteran's COPD with restrictive component manifested with at worst an FEV-1 predicted of 88.6 percent, but without cor pulmonale, right ventricular hypertrophy, pulmonary hypertension, episode(s) of acute respiratory failure, or a requirement outpatient oxygen therapy.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for asthma have not been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+2. The criteria for entitlement to a rating in excess of 50 percent for OSA with COPD with restrictive component have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1-4.14, 4.97, Diagnostic Code 6847.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Navy from May 1990 to May 1995, and March 1996 to March 1998.
+
+The rating decisions on appeal were issued in January 2024, February 2024, July 2024, and August 2024 and constitute initial decisions; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies. 
+
+In July 2024 and August 2024, the Veteran submitted separate VA Forms 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a July 2024 and a January 2024 decision. 
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the January 2024, February 2024, July 2024, and August 2024 agency of original jurisdiction (AOJ) decisions, which were subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claims of left and right flatfoot, allergic rhinitis, sinusitis, and a TDIU, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service. 38 U.S.C. § 1131; 38 C.F.R. § 3.303(a). "To establish a right to compensation for a present disability, a veteran must show: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service"- the so-called "nexus" requirement." Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2010) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service connection may be established on a secondary basis for a disability that is proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310(a). Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability. 38 C.F.R. § 3.310(a); Allen v. Brown, 7 Vet. App. 439 (1995). VA has amended 38 C.F.R. § 3.310 to explicitly incorporate the holding in Allen, except that it will not concede aggravation unless a baseline for the claimed disability can be established with evidence created prior to any aggravation. 38 C.F.R. § 3.310(b).
+
+Service connection may also be established for a current disability on the basis of a presumption that certain chronic diseases, including psychosis, manifesting themselves to a certain degree within a certain time after service must have had their onset in service. 38 U.S.C. §§ 1112, 1113, 1137; 38 C.F.R. §§ 3.303, 3.304, 3.307, 3.309(a). Generally, the disease must have manifested to a degree of 10 percent or more within one year of service. 38 C.F.R. § 3.307(a)(3). 
+
+For the showing of chronic disease in service there is required a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time, as distinguished from merely isolated findings or a diagnosis including the word "chronic." 38 C.F.R. § 3.303(b). When the disease identity is established, there is no requirement of evidentiary showing of continuity. Id. Continuity of symptomatology is required only where the condition noted during service (or in the presumptive period) is not, in fact, shown to be chronic or where the diagnosis of chronicity may be legitimately questioned. Id. When the fact of chronicity in service is not adequately supported, then a showing of continuity after discharge is required to support the claim. Id. Continuity of symptomatology is only applicable to those diseases recognized as chronic for VA purposes. Walker v. Shinseki, 708 F.3d 1331 (2013); 38 C.F.R. §§ 3.303(b), 3.309.
+
+Pertinent to a claim for service connection, such a determination requires a finding of a current disability that is related to an injury or disease in service. Watson v. Brown, 4 Vet. App. 309 (1993); see also Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992); Rabideau v. Derwinski, 2 Vet. App. 141, 143 (1992). Under applicable regulation, the term "disability" means impairment in earning capacity resulting from diseases and injuries and their residual conditions. 38 C.F.R. § 4.1; see also Hunt v. Derwinski, 1 Vet. App. 292, 296 (1991); Allen v. Brown, 7 Vet. App. 439 (1995); Saunders v. Wilkie, 886 F.3d 1356 (Fed. Cir. 2018) (the term "disability" as used in 38 U.S.C. § 1110 "refers to the functional impairment of earning capacity, not the underlying cause of said disability," and held that "pain alone can serve as a functional impairment and therefore qualify as a disability").
+
+In McClain v. Nicholson, 21 Vet. App. 319, 321 (2007), the Court held that the requirement of the existence of a current disability is satisfied when a claimant has a disability at the time he/she files his/her claim for service connection or during the pendency of that claim, even if the disability resolves prior to adjudication of the claim. However, in Romanowsky v. Shinseki, 26 Vet. App. 289 (2013), the Court held that when the record contains a recent diagnosis of disability prior to a claimant filing a claim for benefits based on that disability, the report of diagnosis is relevant evidence that the Board must address in determining whether a current disability existed at the time the claim was filed or during its pendency.
+
+The veteran can provide competent reports of factual matters of which he has first-hand knowledge, such as experiencing pain in service, reporting to sick call, being placed on limited duty, and undergoing physical therapy. See Washington v. Nicholson, 19 Vet. App. 362, 368 (2005). Lay evidence can be competent and sufficient to establish a diagnosis of a condition when (1) a lay person is competent to identify the medical condition (noting that sometimes the lay person will be competent to identify the condition where the condition is simple, for example a broken leg, and sometimes not, for example, a form of cancer), (2) the lay person is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional. See Jandreau v. Nicholson, 492 F. 3d 1372 (Fed. Cir. 2007). Similarly, laypersons are competent to diagnose and provide nexus opinions to some extent, notably where the diagnosis or opinion is not of a complex nature. Id., see also Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009).
+
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 999 F.3rd 1391 (2021).
+
+1. Asthma
+
+The Veteran contends that he has asthma due to service. Specifically, he asserts that he was exposed to Iraqi enemy chemical scud missile attacks, burning oil fields, and burn pits daily." See January 2023 VA Claim.
+
+In the August 2024 rating decision on appeal, the AOJ found the Veteran had participation in a toxic exposure risk activity, and the claimed asthma is a chronic disease which may be presumptively linked to the military service in Kuwait. The Board is bound by these favorable findings. See 38 U.S.C. § 5104A; 38 C.F.R. § 3.104 (c). 
+
+Turning to the evidence, service treatment records are negative for complaints of, treatment for, or diagnoses of any condition related to asthma. Post-service treatment records are also negative for complaints of, treatment for, or diagnoses of any condition related to asthma.
+
+At a December 2023 VA examination, the examiner found that there was no current diagnosis of asthma because "there are no findings, signs and or symptoms to support a diagnosis." Instead, the examiner found diagnoses of COPD and restrictive lung disease. 
+
+In the present case, the evidence of record fails to demonstrate a current diagnosis related to asthma at any time during the appeal period, and there is no probative evidence of recent diagnosis of such disorder prior to the Veteran's claim. McClain v. Nicholson, supra; Romanowsky v. Shinseki, supra.
+
+The Board acknowledges the Court's holding in Saunders but does not find a basis for determining that there is functional impairment related to a diagnosis of asthma. See Saunders v. Wilkie, supra. The Veteran's treatment records do not show that the Veteran has symptoms which impacts his earning capacity as due to asthma. As such, the Veteran's complaints of asthma does not amount to a functional impairment of earning capacity, and Saunders is not applicable in this case. In addition, the record does not reflect, and the Veteran did not allege, that he suffered from impairment of earning capacity due to his claimed asthma nor impairment that was of similar severity, frequency, and duration as those VA has determined by regulation would cause impaired earning capacity in an average person. Wait v. Wilkie, 33 Vet. App. 8 (2020).
+
+The Board notes that the Veteran is competent to report his own symptoms or matters within his personal knowledge. See Jandreau v. Nicholson, supra; Buchanan v. Nicholson, supra. In addition, laypersons may, in some circumstances, opine on questions of diagnosis and etiology. See Davidson v. Shinseki, supra. In this regard, the Board notes a self-report of an asthma diagnosis by the Veteran in an October 31, 2023, VA treatment record. 
+
+However, the matter of a medical diagnosis for a disability not capable of lay observation, such as that of obstructive sleep apnea is a matter within the province of trained medical professionals. See Jones v. Brown, supra. In the instant case, there is no suggestion that the Veteran has developed an expertise in the diagnosis of asthma. Therefore, as the Veteran does not have the appropriate medical training and expertise to competently diagnose asthma the lay assertions in this regard have no probative value. Jandreau, supra at 1377 n.4 ("[s]ometimes the layperson will be competent to identify the condition where the condition is simple, for example a broken leg, and sometimes not, for example, a form of cancer"); see also Woehlaert v. Nicholson, supra.
+
+The Board emphasizes that Congress has specifically limited entitlement to service connection for disease or injury to cases where such incidents have resulted in disability. See 38 U.S.C. §§ 1110, 1131. Thus, where, as here, the probative evidence indicates that the Veteran does not have current diagnosis of asthma for the entire appeal period, there can be no valid claim for service connection. See Gilpin v. West, 155 F.3d 1353 (Fed. Cir. 1998); Brammer v. Derwinski, supra.
+
+Accordingly, the Board finds that service connection for asthma is not warranted. The appeal is denied. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Lynch v. McDonough, supra. 
+
+Increased Rating 
+
+Disability evaluations are determined by evaluating the extent to which a veteran's service-connected disability adversely affects his or her ability to function under the ordinary conditions of daily life, including employment, by comparing his or her symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule). 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.2, 4.10.
+
+Where there is a question as to which of two evaluations shall be applied, the higher rating will be assigned if the disability picture more nearly approximates the criteria required for that evaluation. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. Reasonable doubt as to the degree of disability will be resolved in the veteran's favor. 38 C.F.R. § 4.3. It is permissible to switch diagnostic codes to reflect more accurately a claimant's current symptoms. See Read v. Shinseki, 651 F. 3d 1296, 1302 (Fed. Cir. 2011).
+
+Where entitlement to compensation has already been established and an increase in the disability rating is at issue, the present level of disability is of primary concern. Although a rating specialist is directed to review the recorded history of a disability in order to make a more accurate evaluation, see 38 C.F.R. § 4.2, the regulations do not give past medical reports precedence over current findings. Francisco v. Brown, 7 Vet. App. 55 (1994).
+
+Pertinent regulations do not require that all cases show all findings specified by the Rating Schedule, but that findings sufficiently characteristic to identify the disease and the resulting disability and above all, coordination of rating with impairment of function will be expected in all cases. 38 C.F.R. § 4.21. Therefore, the Board has considered the potential application of various other provisions of the regulations governing VA benefits, whether or not they were raised by the veteran, as well as the entire history of the veteran's disability in reaching its decision. Schafrath v. Derwinski, 1 Vet. App. 589, 595 (1991).
+
+Separate ratings can be assigned for separate periods based on the facts found - a practice known as "staged" ratings. Francisco v. Brown, 7 Vet. App. 55, 58 (1994); Hart v. Mansfield, 21 Vet. App. 505 (2007). Staged ratings are appropriate whenever the factual findings show distinct periods where the service-connected disability exhibits symptoms that would warrant different ratings. Id.
+
+In general, all disabilities, including those arising from a single disease entity, are rated separately, and all disability ratings are then combined in accordance with 38 C.F.R. § 4.25. Pyramiding, the evaluation of the same disability, or the same manifestation of a disability, under different diagnostic codes, is to be avoided when rating a veteran's service-connected disability. 38 C.F.R. § 4.14. It is possible for a veteran to have separate and distinct manifestations from the same injury which would permit rating under several diagnostic codes, however, the critical element in permitting the assignment of several ratings under various diagnostic codes is that none of the symptomatology for any one of the conditions is duplicative or overlapping with the symptomatology of the other condition. See Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994). 
+
+The basis of disability evaluation is the ability of the body as a whole, or of the psyche, or of a system or organ of the body to function under the ordinary conditions of daily life including employment. 38 C.F.R. § 4.10.
+
+The veteran is competent to report symptoms and experiences observable by his senses. See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007); 38 C.F.R. § 3.159(a). 
+
+Although the Board has an obligation to provide reasons and bases supporting its decision, there is no obligation to discuss, in detail, the extensive evidence of record. See Gonzales v. West, 218 F.3d 1378, 1380-81 (Fed. Cir. 2000) (holding that the Board must review the entire record but does not have to discuss each piece of evidence). Therefore, the Board will summarize the relevant evidence where appropriate, and the Board's analysis will focus specifically on what the evidence shows, or fails to show, as it relates to the Veteran's claim.
+
+When there is an approximate balance of positive and negative evidence as to any issue material to the determination of a matter, VA will resolve reasonable doubt in favor of the claimant. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+1. OSA with COPD 
+
+The Veteran seeks a higher rating, in excess of 50 percent, for his OSA with COPD with restrictive component. See August 2024 VA Form 10182. Specific argument in support of this appeal has not been provided. 
+
+The Veteran is currently rated at 50 percent for obstructive sleep apnea (OSA) with COPD with restrictive component under 38 C.F.R. § 4.97, under Diagnostic Code 6847. 
+
+When rating respiratory conditions, ratings under diagnostic codes 6600 through 6817 and 6822 through 6847 will not be combined with each other. Where there is lung or pleural involvement, ratings under diagnostic codes 6819 and 6820 will not be combined with each other or with diagnostic codes 6600 through 6817 or 6822 through 6847. A single rating will be assigned under the diagnostic code which reflects the predominant disability with elevation to the next higher evaluation where the severity of the overall disability warrants such elevation. 38 C.F.R. § 4.96(a).
+
+Under Diagnostic Code 6847, for Sleep Apnea Syndromes, a 50 percent rating is warranted when the Veteran requires use of breathing assistance device such as continuous airway pressure (CPAP) machine. A 100 percent rating is warranted when there is chronic respiratory failure with carbon dioxide retention or cor pulmonale, or; requires tracheostomy.
+
+Under Diagnostic Code 6602, for COPD, an FEV-1 of 71- to 80-percent predicted, or; FEV-1/FVC of 71 to 80 percent, or; intermittent inhalational or oral bronchodilator therapy warrants a 10 percent rating. FEV-1 of 56- to 70-percent predicted, or; FEV-1/FVC of 56 to 70 percent, or; daily inhalational or oral bronchodilator therapy, or; inhalational anti-inflammatory medication warrants a 30 percent rating. FEV-1 of 40- to 55-percent predicted, or; FEV-1/FVC of 40 to 55 percent, or; at least monthly visits to a physician for required care of exacerbations, or; intermittent (at least three per year) courses of systemic (oral or parenteral) corticosteroids warrants a 60 percent rating. FEV-1 less than 40-percent predicted, or; FEV-1/FVC less than 40 percent, or; more than one attack per week with episodes of respiratory failure, or; requires daily use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medications warrants a 100 percent rating.
+
+When there is a disparity between the results of different PFT's (FEV-1 (Forced Expiratory Volume in one second), FVC (Forced Vital Capacity), etc.), so that the level of evaluation would differ depending on which test result is used, use the test result that the examiner states most accurately reflects the level of disability. 38 C.F.R. § 4.96(d)(6). 
+
+Turning to the evidence, in a September 14, 2023, VA treatment record, the Veteran reported symptoms of headache, cough, sore throat, sinus congestion, postnasal drop (without purulent mucus), wheezing, and shortness of breath.
+
+A September 23, 2023, PTF was completed; the results were not associated with the claims file. See January 30, 2024, VA treatment note. The interpretation stated that there was "very severe obstruction in large airways... severe obstruction of the small airways" but only a mild restriction after the use of bronchodilators.
+
+The Veteran was provided a December 2023 VA examination for obstructive sleep apnea. There, the examiner found a diagnosis of obstructive sleep apnea. The Veteran was required to use a CPAP machine for breathing assistance. Symptoms found on exam were only persistent daytime hypersomnolence. There was no carbon dioxide retention, chronic respiratory failure, cor pulmonale, or requirement for a tracheostomy shown at that time. 
+
+The Veteran was also provided a December 2023 VA examination for COPD. There, the Veteran reported that he experiences "cough and shortness of breath as well as facial and chest congestion." The examiner found a diagnosis of chronic obstructive pulmonary disease with restrictive lung disease. The examiner noted that recent PFT scores showed an FEV-1 predicted of 88.6 percent, and FVC predicted of 80.8 percent, and a FEV-1/FVC of 87 percent. There was no acute respiratory failure, requirement for oxygen therapy, pulmonary hypertension, cor pulmonale, or right ventricular hypertrophy. 
+
+Further review of the record shows that the Veteran receives VA treatment providers for various disabilities, to include his OSA and COPD. However, there is no indication from the treatment notes of record that the Veteran has reported OSA and/or COPD symptoms that are worse than those noted above. 
+
+Based on the foregoing, the Board finds that an increased rating, in excess of 50 percent, is not warranted for OSA. To that end, the December 2023 VA examiner found that the Veteran was required to use a CPAP machine during the appeal period. There was no evidence of carbon dioxide retention, chronic respiratory failure, cor pulmonale, or requirement for a tracheostomy to warrant a higher 100 percent rating. 
+
+Next, the Board finds that a compensable rating for the Veteran's COPD with restrictive component is not warranted. To that end, the Board has considered the evidence in the December 2023 VA examination. As shown above, the evidence indicates that the Veteran's COPD manifested with at worst an FEV-1 predicted of 88.6 percent. The Board has considered only the FEV-1, as this score was noted as the most accurate by the examiner. See 38 C.F.R. § 4.96(d)(6). When applied to the rating criteria, this score results in a noncompensable rating. To warrant a higher 10 percent rating, the evidence must show an FEV-1 of 71- to 80-percent predicted, or; FEV-1/FVC of 71 to 80 percent, or; DLCO (SB) 66- to 80-percent predicted. Therefore, a higher rating based on the Veteran's COPD is not warranted at any time. 
+
+The Board has considered whether separate ratings are warranted, however, 38 C.F.R. § 4.96(a) states that separate ratings for respiratory conditions are not permissible. The Veteran is currently service-connected for obstructive sleep apnea with COPD with restrictive component, rated at 50 percent. Therefore, the Board can only assign a single rating for the predominant respiratory disability.
+
+The Board has considered whether ratings under other diagnostic codes are warranted. To that end, the December 2023 VA examiner found that there was no diagnosis for emphysema, bronchitis, pleurisy, asthma, or pulmonary fibrosis. The Board found no evidence to support these conditions either.
+
+The Board has considered whether staged ratings under Hart v. Mansfield, supra is appropriate; however, the Board finds that his symptomatology was been stable throughout the period on appeal. Therefore, assigning staged ratings is not warranted. The Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record in regard to the increased rating claim adjudicated herein. Doucette v. Shulkin, 28 Vet. App. 366 (2017). 
+
+In so finding the above, the Board acknowledges the Veteran's contentions that his OSA and/or COPD is more severe than contemplated by the current rating assigned. The Veteran is competent to report symptoms such as shortness of breath because this requires only personal knowledge, not medical expertise, as it comes to him through his senses. See Layno v. Brown, 6 Vet. App. 465, 469 (1994). Lay testimony is competent to establish the presence of observable symptomatology, where the determination is not medical in nature and is capable of lay observation. Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). However, he is not considered competent to medically attribute or assess the severity of his OSA and/or COPD as required in the Diagnostic Code. See Woehlaert v. Nicholson, 21 Vet. App. 456 (2007). Therefore, his statements do not constitute competent evidence and, the Board assigns more probative weight to the competent medical evidence of record.
+
+For the above reasons, the evidence is neither evenly balanced nor approximately with regard to whether a rating in excess of 50 percent for OSA with COPD is warranted. Rather, the evidence persuasively weighs against an increased rating The benefit of the doubt doctrine, see 38?U.S.C. §?5107(b), is therefore not for application as to this claim. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+REASONS FOR REMAND
+
+1. Service Connection - Bilateral Lower Extremity Radiculopathy 
+
+The Veteran contends that his left and right lower extremity radiculopathies are due to his service. Specifically, he asserts that he his camp was "next to burn pits, burning oil wells, enemy and friendly biological chemical weapons, dust storms and unknown particles." See August 2024 VA Claim.
+
+Favorable findings in the August 2024 rating decision on appeal include diagnoses of bilateral lower extremity radiculopathy, and participation in a toxic exposure risk activity was conceded. The Board is bound by these favorable findings. See 38 U.S.C. § 5104A; 38 C.F.R. § 3.104 (c). 
+
+Service treatment records are silent for complaints of, treatment for, and diagnoses related to bilateral lower extremity radiculopathy. Post service treatment records show that the Veteran was diagnosed with left and right lower extremity radiculopathy in a November 2022 VA examination for his middle and lower back. In that exam, the Veteran reported that he has "severe sharp pain in the middle and lower back... [and] shooting pain down my legs." The examiner attributed the Veteran's radiculopathy to a spinal condition. 
+
+The Board notes that service connection is not currently in effect for a low back disorder. However, the Board also notes the Veteran contends that his bilateral lower extremity radiculopathy is related to his active service, to include his service in Southwest Asia. 
+
+In this case, a toxic exposure risk activity exam and opinion were not ordered because the evidence of record shows that the underlying disability was caused by physical trauma. See November 2022 VA Examination Report. The Veteran has not asserted an etiology other than a toxic exposure or his back condition for his left and right lower extremity radiculopathies.
+
+VA's duty to assist includes a duty to provide a medical examination or obtain a medical opinion where it is deemed necessary to make a decision on the claim. 38 U.S.C. § 5103A (d) (2012); 38 C.F.R. § 3.159 (c)(4) (2019); Duenas v. Principi, 18 Vet. App. 512 (2004); Robinette v. Brown, 8 Vet. App. 69 (1995); McLendon v. Nicholson, 20 Vet. App. 79 (2006). For below above reasons, the Board finds that a VA examination is necessary in order to determine the nature and etiology of the Veteran's claimed bilateral lower extremity radiculopathy. The Veteran has not yet been afforded a VA examination to determine the etiology of his claimed bilateral lower extremity radiculopathy. Therefore, on remand, such an examination with an opinion should be obtained. The AOJ's failure to obtain an adequate etiology opinion is a pre-decisional duty to assist error that necessitates a remand for development.
+
+2. Service Connection - Bilateral Flat Foot
+
+The Veteran contends that his flat feet are due to his service. Specifically, he asserts his disabilities are due to "carrying, climbing and jumping off military equipment" while serving in the Persian Gulf War. See July 2024 VA Claim.
+
+In a July 2024 VA examination, the VA examiner rendered a negative opinion reasoning that the Veteran's "enlistment examination on 5/26/1989 notes that patient had pes planus at time of entrance into service." The Board finds this opinion inadequate as it is not responsive to correct legal criteria for a preservice pre-existing condition using unmistakable evidence standard. Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004); 38 C.F.R. § 3.304 (b) (2017). The correct standard must be used. Using the at least as likely as not standard is insufficient.
+
+Additionally, the Board has reviewed the Veteran's May 26, 1989, military entrance exam and finds that the referenced note concerning feet is illegible. Moreover, the only item noted as a defect in Box #74 relates to an eye condition, not a foot condition. Thus, the examiner must state whether there is clear and unmistakable evidence that the claimed disability pre-existed the Veteran's service. The examiner must also provide a clear rationale listing the clear and unmistakable evidence used for his determination.
+
+Accordingly, the Board concludes that the Veteran should be afforded a new VA examination to determine the nature and etiology of his bilateral flat feet. The AOJ's failure to obtain an adequate etiology opinion is a pre-decisional duty to assist error that necessitates a remand for development.
+
+3. Increased Initial Ratings - Allergic Rhinitis and Chronic Sinusitis
+
+The Veteran seeks a compensable rating for his allergic rhinitis and chronic sinusitis. See August 2024 VA Form 10182. Specific argument in support of this appeal has not been provided. 
+
+Turning to the evidence, in a September 19, 2023, VA treatment record, the Veteran reported having migraines three times per week.
+
+In a November 9, 2023, private treatment record, the Veteran was found to have partial opacification right maxillary sinus consistent with sinusitis and/or polyp/retention cyst.
+
+At a December 2023 VA examination, the Veteran reported "facial pain and purulent nasal discharge." The examiner found diagnoses of sinusitis and rhinitis. Symptoms associated with the disabilities were episodes of sinusitis, tenderness of the affected sinus, and purulent discharge. There were no non-incapacitating episodes or incapacitating episodes in the last 12 months. There was also no history of sinus surgery found. The examiner noted no obstruction greater than 50 percent of the nasal passage on both sides, or complete obstruction on either side. Although there was permanent hypertrophy, there were no polyps or granulomatous conditions.
+
+In a January 30, 2024, VA treatment record, the Veteran reported his headaches improved from daily, to four days a week. He reported he has pain in the bilateral perieta areas. He also reported that his CPAP aggravates his sinus drainage. The Veteran was prescribed daily flonase, albuterol, wixela, and loratadine. 
+
+In a February 15, 2024, VA treatment record, the Veteran reported that he has "severe sinusitis issues and can't [breathe through] nose." 
+
+At a July 2024 VA examination, the Veteran reported a progressive worsening of sinusitis and rhinitis with "congestion, pressures, [and] headaches." The examiner found diagnoses of sinusitis and rhinitis. The examiner did not list any symptoms associated with the sinusitis. There were no non-incapacitating episodes or incapacitating episodes in the last 12 months. There was also no history of sinus surgery found. The examiner noted no obstruction greater than 50 percent of the nasal passage on both sides, complete obstruction on either side, polyps, or granulomatous conditions. The examiner did note permanent hypertrophy of the nasal turbinates.
+
+Concerning an increased rating for rhinitis, the Board finds the December 2023 and July 2024 VA exams inadequate to decide the claim. Both December 2023 or July 2024 VA examiners failed to consider and comment on the November 9, 2023, private treatment record which shows radiologic imaging of either a polyp or a cyst. Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (stating that "the Board must be able to conclude that a medical expert has applied valid medical analysis to the significant facts of the particular case in order to reach the conclusion submitted in the medical opinion"). On remand, the examiner must consider this evidence and comment on whether it still exists and the relevance of the medical evidence when evaluating the current severity of his allergic rhinitis.
+
+Concerning the claim for an increased initial rating for sinusitis, the Board finds both December 2023 and July 2024 VA exams inadequate. First, purulent discharge was noted as symptom attributed to the Veteran's chronic sinusitis in the December 2023 VA examination, but not in the July 2024 VA examination. This is inconsistent with the evidence and the Veteran's assertions of a worsening of symptoms. Additionally, neither exam has indicated that they have reviewed or considered the Veteran's evidence of headaches in conjunction with his sinusitis symptoms. Moreover, the July 2024 VA exam recorded lay statements of headaches, and still recorded no headaches symptoms. The Board notes that there may be a nonservice-connected headache condition, however, it is incumbent upon the examiner to note differential diagnoses and explain where the symptoms should be attributed. Barr v. Nicholson, 21 Vet. App. 303 (2007) (once obtained, an exam must be adequate).
+
+The Board also notes that the Veteran has submitted new evidence concerning treatment for his allergic rhinitis and chronic sinusitis, to include medical opinions, however, the Board cannot consider this evidence as it was submitted outside of the relevant evidence window. 38 C.F.R. §§ 20.300, 20.301, 20.801. However, the AOJ must consider this evidence when adjudicating the issues on remand. 38 C.F.R. § 3.103(c)(2)(ii). The AOJ's failure to obtain an adequate VA medical examination is a pre-decisional duty to assist error that necessitates a remand for development.
+
+4. Entitlement to a TDIU 
+
+The Veteran reported that he was not working due to his disabilities in a July 2022 VA Form 28-1902w. The Veteran was denied a TDIU in a February 2024 rating decision, during the appeal period for the claim for service connection for asthma. Moreover, he was pursuing VA Vocational Rehabilitation benefits as recently as November 2024 during the claims for his increased ratings for allergic rhinitis, sinusitis, and COPD. Therefore, TDIU has been raised by the record. See Rice v. Shinseki, 22 Vet. App. 447 (2009).
+
+Regarding the TDIU issue, the Board notes that the issue of entitlement to a TDIU is inextricably intertwined with the claims remanded herein. Harris v. Derwinski, 2 Vet. App. 180, 183 (1991). Hence, a determination on the claim for TDIU should be deferred pending final dispositions of the claims of entitlement to service connection for bilateral lower extremity radiculopathy, bilateral flat foot, and increased ratings for allergic rhinitis and chronic sinusitis. 
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for a VA examination with an appropriate medical examiner and obtain an etiology opinion to determine the nature and etiology of the Veteran's claimed bilateral lower extremity radiculopathy. The need for physical examination or telehealth evaluation is left to the discretion of the medical professional offering the medical opinion. The record must be made available to the examiner for review, and the examiner should indicate that the record was reviewed in connection with the examination. All indicated tests and studies should be accomplished and the findings then reported in detail.
+
+The examiner should respond to the following questions:
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any currently present left lower extremity radiculopathy had its onset during the Veteran's active service, or is otherwise etiologically related to such service, to include his in-service exposure to the environmental hazards in Southwest Asia (notwithstanding the fact that there may not be a presumed association)?
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any currently present right lower extremity radiculopathy had its onset during the Veteran's active service, or is otherwise etiologically related to such service, to include his in-service exposure to the environmental hazards in Southwest Asia (notwithstanding the fact that there may not be a presumed association)? 
+
+The examiner must consider the Veteran's lay statements regarding the onset and continuity of his symptoms.
+
+A rationale should be provided for all opinions offered. 
+
+The medical opinion must support the conclusions reached with an analysis that is adequate to consider and weigh against other evidence of record; medical opinions must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two. If an opinion cannot be expressed without resort to speculation, ensure that the clinician so indicates and discusses why an opinion is not possible, to include whether there is additional evidence that could enable an opinion to be provided, or whether the inability to provide the opinion is based on the limits of medical knowledge.
+
+2. Schedule the Veteran for a VA examination with an appropriate medical examiner and obtain an etiology opinion to determine the nature and etiology of the Veteran's claimed bilateral flat feet. The need for physical examination or telehealth evaluation is left to the discretion of the medical professional offering the medical opinion. The record must be made available to the examiner for review, and the examiner should indicate that the record was reviewed in connection with the examination. All indicated tests and studies should be accomplished and the findings then reported in detail.
+
+The examiner should respond to the following questions:
+
+(A) For each diagnosis relatable to bilateral flat foot, the clinician must opine whether there is clear and unmistakable evidence (i.e., undebatable evidence) that the claimed disability pre-existed the Veteran's service.
+
+(B) If there is there is clear and unmistakable evidence that the claimed disability pre-existed the Veteran's service, the clinician must opine as to whether there is clear and unmistakable evidence (i.e., undebatable evidence) that the pre-existing the bilateral flat foot did not undergo an increase in the underlying pathology during service/was not aggravated during service.
+
+(C) If there is no clear and unmistakable evidence that the current claimed disability pre-existed service, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any currently present bilateral flat foot had its onset during the Veteran's active service, or is otherwise etiologically related to such service?
+
+The examiner must consider the Veteran's lay statements regarding the onset and continuity of his symptoms.
+
+A rationale should be provided for all opinions offered. 
+
+The medical opinion must support the conclusions reached with an analysis that is adequate to consider and weigh against other evidence of record; medical opinions must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two. If an opinion cannot be expressed without resort to speculation, ensure that the clinician so indicates and discusses why an opinion is not possible, to include whether there is additional evidence that could enable an opinion to be provided, or whether the inability to provide the opinion is based on the limits of medical knowledge.
+
+3. Then, schedule the Veteran for a VA examination to determine the current nature and severity of his service-connected allergic rhinitis. The record, to include a copy of this Remand, should be made available to the examiner, and all indicated tests should be conducted.
+
+The examiner should identify the nature and severity of all current manifestations of the Veteran's service-connected allergic rhinitis. 
+
+A rationale for any opinion offered should be provided.
+
+The medical opinion must support the conclusions reached with an analysis that is adequate to consider and weigh against other evidence of record; medical opinions must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two. If an opinion cannot be expressed without resort to speculation, ensure that the clinician so indicates and discusses why an opinion is not possible, to include whether there is additional evidence that could enable an opinion to be provided, or whether the inability to provide the opinion is based on the limits of medical knowledge.
+
+4. Then, schedule the Veteran for a VA examination to determine the current nature and severity of his service-connected chronic sinusitis. The record, to include a copy of this Remand, should be made available to the examiner, and all indicated tests should be conducted.
+
+The examiner should identify the nature and severity of all current manifestations of the Veteran's service-connected chronic sinusitis. 
+
+A rationale for any opinion offered should be provided.
+
+(Continued on the next page)
+
+?
+
+The medical opinion must support the conclusions reached with an analysis that is adequate to consider and weigh against other evidence of record; medical opinions must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two. If an opinion cannot be expressed without resort to speculation, ensure that the clinician so indicates and discusses why an opinion is not possible, to include whether there is additional evidence that could enable an opinion to be provided, or whether the inability to provide the opinion is based on the limits of medical knowledge.
+
+ 
+
+ 
+
+Mariah N. Sim
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. J. Hall, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

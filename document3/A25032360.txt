@@ -1,0 +1,177 @@
+Citation Nr: A25032360
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240627-452974
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to a rating more than 10 percent for gastroesophageal reflux disease (GERD), is denied. 
+
+Entitlement to service connection for obstructive sleep apnea is granted.
+
+FINDINGS OF FACT
+
+1.	The Veteran did not have recurrent esophageal strictures causing dysphagia which required dilatation no more than 2 times per year. 
+
+2.	The Veteran's obesity is an intermediate step between service-connected disabilities and his claimed sleep apnea disability.
+
+CONCLUSIONS OF LAW
+
+1.	The criteria for a disability rating more than 10 percent for service-connected GERD have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1-4.7, 4.21, 4.114, Diagnostic Code 7346.
+
+2.	The criteria for secondary service connection for sleep apnea have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Army from August 1996 to March 1997. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a November 2023 and July 2023 rating decisions from the Department of Veterans Affairs (VA) Regional Office (RO).   
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2023 and July 2023 agency of original jurisdiction (AOJ) decisions on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1.	Entitlement to a rating more than 10 percent for gastroesophageal reflux disease (GERD), is denied.
+
+The Veteran seeks a 60 percent rating for his service-connected GERD. Specifically, the Veteran's authorized representative argues through the reliance of the private examination and the Veteran's lay statements, clearly describe symptoms for gastrointestinal condition that should be seen as causing severe impairment of health. See Correspondence dated June 27, 2024. The Veteran's disability rating for GERD is rated under 38 C.F.R. § 4.114, diagnostic code 7346.
+
+Disability ratings are based on a schedule of reductions in earning capacity from specific injuries or combinations of injuries. The ratings shall be based, as far as practicable, upon the average impairments of earning capacity resulting from such injuries in civil occupations. 38 U.S.C. § 1155. 
+
+Generally, the degrees of disability specified are considered adequate to compensate for considerable loss of working time from exacerbations or illnesses proportionate to the severity of the several grades of disability. 38 C.F.R. § 4.1. The Board must evaluate all evidence in arriving at a decision regarding an increased rating. 38 C.F.R. §§ 4.2, 4.6.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7.
+
+As an initial matter, the Board notes that the appeal period before the Board begins on May 10, 2023, the date the VA received the Veteran's Fully Developed Claim (VA 21-526EZ). Service connection for this disorder was granted in an October 2020 rating decision, which the Veteran did not timely appeal and the decision became final. 
+
+The same can be said for the November 2021 rating decision. In July 2023, the Veteran received an increase to 10 percent for his GERD disability with an effective date of May 10, 2023. The Veteran timely filed a Notice of Disagreement, selecting the direct review docket. The relevant period for review also includes the one-year look-back period for increased rating claims. Gaston v. Shinseki, 605 F.3d 979, 982 (Fed. Cir. 2010).
+
+The Board will consider whether separate ratings may be assigned for separate periods of time based on facts found, a practice known as "staged ratings." See Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+The evaluation of the same disability under several diagnostic codes (DCs), known as pyramiding, must be avoided; separate ratings may be assigned for distinct disabilities resulting from the same injury only where the symptomatology for one condition is not duplicative of, or overlapping with, the symptomatology of the other condition. See 38 C.F.R. § 4.14; see also Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994).
+
+Evidence and Analysis
+
+The Veteran's service-connected GERD is rated at 10 percent under Diagnostic Code 7346 for hiatal hernia which directs one to rate the symptoms under Diagnostic Code 7203 stricture of esophagus.
+
+Under Diagnostic Code 7203 stricture of esophagus with documented history of recurrent or refractory esophageal stricture(s) causing dysphagia with at least one of the symptoms present (1) aspiration, (2) undernutrition, and/or (3) substantial weight loss as defined by § 4.112(a) and treatment with either surgical correction or percutaneous esophago-gastrointestinal tube (PEG tube) is rated at 80 percent. 
+
+Documented history of recurrent or refractory esophageal stricture(s) causing dysphagia which requires at least one of the following (1) dilatation 3 or more times per year, (2) dilatation using steroids at least one time per year, or (3) esophageal stent placement is rated at 50 percent. 
+
+Documented history of recurrent esophageal stricture(s) causing dysphagia which requires dilatation no more than 2 times per year is rated at 30 percent. 
+
+Documented history of esophageal stricture(s) that requires daily medications to control dysphagia otherwise asymptomatic is rated at 10 percent. 
+
+Documented history without daily symptoms or requirement for daily medications is rated noncompensable. 38 C.F.R. § 4.114, diagnostic code 7203.
+
+Note (1): Findings must be documented by barium swallow, computerized tomography, or esophagogastroduodenoscopy. 
+
+Note (2): Non-gastrointestinal complications of procedures should be rated under the appropriate system. 
+
+Note (3): This diagnostic code applies, but is not limited to, esophagitis, mechanical or chemical; Mallory Weiss syndrome (bleeding at junction of esophagus and stomach due to tears) due to caustic ingestion of alkali or acid; drug-induced or infectious esophagitis due to Candida, virus, or other organism; idiopathic eosinophilic, or lymphocytic esophagitis; esophagitis due to radiation therapy; esophagitis due to peptic stricture; and any esophageal condition that requires treatment with sclerotherapy. 
+
+Note (4): Recurrent esophageal stricture is defined as the inability to maintain target esophageal diameter beyond 4 weeks after the target diameter has been achieved. 
+
+Note (5): Refractory esophageal stricture is defined as the inability to achieve target esophageal diameter despite receiving no fewer than 5 dilatation sessions performed at 2-week intervals. 
+
+Notably, when considering ratings related to the digestive system, ratings under Diagnostic Codes 7301 to 7329, inclusive, 7331, 7342, and 7345 to 7348, inclusive, will not be combined. A single rating will be assigned under the diagnostic code that reflects the predominant disability picture, with elevation to the next higher rating where the severity of the overall disability warrants such elevation. 38 C.F.R. § 4.114.
+
+During the pendency of the appeal, VA published amendments to 38 C.F.R. § 4.114, the Schedule of Ratings for the Digestive System, effective May 19, 2024. VA's General Counsel has held that where a law or regulation changes during the pendency of a claim for a higher rating, the Board must first determine whether the revised version is more favorable to the Veteran. In so doing, it may be necessary for the Board to apply both the old and new versions of the regulation. If the revised version of the regulation is more favorable, the retroactive reach of that regulation under 38 U.S.C. § 5110 (g) can be no earlier than the effective date of that change. The Board must generally apply both the former and the revised versions of the regulation for the period prior and after the regulatory change, but an effective date based on the revised criteria may be no earlier than the date of the change.
+
+Under the new DC 7206 for GERD, a noncompensable evaluation is assigned for documented history without daily symptoms or requirement for daily medications. A 10 percent rating is assigned for documented history of esophageal stricture(s) that requires daily medications to control dysphagia otherwise asymptomatic. A 30 percent rating is assigned for documented history of recurrent or refractory esophageal stricture(s) causing dysphagia which requires at least one of the following (1) dilatation 3 or more times per year, (2) dilatation using steroids at least one time per year, or (3) esophageal stent placement: 50 documented histories of recurrent or refractory esophageal stricture(s) causing dysphagia which requires dilatation no more than 2 times per year. A maximum 80 percent rating is assigned for documented history of recurrent or refractory esophageal stricture(s) causing dysphagia with at least one of the symptoms present: (1) aspiration, (2) undernutrition, and/or (3) substantial weight loss as defined by § 4.112(a) and treatment with either surgical correction or percutaneous esophago-gastrointestinal tube (PEG tube).
+
+For purposes of evaluating conditions in § 4.114, the term "substantial weight loss" means a loss of greater than 20 percent of the individual's baseline weight, sustained for three months or longer; and the term "minor weight loss" means a weight loss of 10 to 20 percent of the individual's baseline weight, sustained for three months or longer. The term "inability to gain weight" means that there has been substantial weight loss with inability to regain it despite appropriate therapy. "Baseline weight" means the average weight for the two-year-period preceding onset of the disease. As such, while the Veteran may have experienced minor fluctuations in his weight, it does not appear that such fluctuations would ever reach the point of being considered "weight loss" for VA disability purposes.
+
+Following a review of the evidence of record, the Board concludes that the Veteran is not entitled to a disability rating more than 10 percent for his service-connected GERD.
+
+In August 2020 the Veteran submitted a Statement in Support of Claim in support of seeking entitlement to service connection for GERD. The Veteran reported having symptoms of nausea, back pain, and acid reflux monthly. The Veteran discussed having to avoid certain foods and experiencing arm pain and shoulder pain when his GERD flairs up. The Veteran also discussed having his sleep habits impacted. 
+
+In October 2020 the Veteran underwent a VA examination. The examiner noted a diagnosis of gastroesophageal reflux disease (GERD) which is treated with taking continuous medication. The Veteran had noted reflux and no esophageal stricture, spasm of esophagus, or an acquired diverticulum of the esophagus.  The Veteran did not have any other pertinent physical findings, complications, conditions, sings, symptoms or scars. Diagnostic testing was not performed. 
+
+The Veteran submitted a private opinion in September 2021 from G.G.U., an advanced practice registered nurse with a master's in nursing. G.G.U. opined the Veteran's hernia hiatal has symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia, or other symptom combinations productive of severe impairment of health to warrant a 60 percent rating. G.G.U. specifically noted pyrosis (heartburn and/or reflux) has been conceded. The examiner also takes note of the Veteran's lay statement which discusses multiple symptoms of GERD including nausea, back pain, and acid reflux monthly. The Veteran also discussed having to avoid certain foods, experiencing arm pain and shoulder pain, impacts to his sleep, and psychological difficulties. 
+
+G.G.U. noted the VA has not define "severe" nor "symptom combinations." Thereafter, G.G.U based the analysis off the social security administrations consideration of severe to be "if it significantly limits the physical or mental abilities to do basic work activities." To be "not severe" there must be only slight abnormality that has no more than a minimal effect on the ability to do basic work activities. "Basic work activities" are defined as the abilities and aptitudes necessary to do most jobs."
+
+Agreeing with G.G.U., the terms "moderate" and "severe" are not defined in regulation. Rather than applying a mechanical formula however, the Board must evaluate all the evidence to the end that its decisions are "equitable and just." 38 C.F.R. § 4.6. "Moderate" is generally defined as "of average or medium quality, amount, scope, range, etc." and "severe" is defined as "extremely intense." See Webster's New World Dictionary, Third College Edition (1988), pgs. 1038, 871, and 1071.
+
+The Board finds the APRN G.G.U. opinion to have clear conclusions with supporting data and a reasoned medical explanation connecting the two. However, APRN G.G.U. did not include in her analysis the concept of pyramiding. Instead APRN G.G.U. stretched the "other symptom combinations production of severe impairment of health" to include any possible symptom of, caused by, aggravated from, or just experienced by the Veteran regardless of etiology or other disabilities rated.
+
+Repeating for importance, the evaluation of the same disability under several diagnostic codes (DCs), known as pyramiding, must be avoided; separate ratings may be assigned for distinct disabilities resulting from the same injury only where the symptomatology for one condition is not duplicative of, or overlapping with, the symptomatology of the other condition. See 38 C.F.R. § 4.14; see also Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994).
+
+Here, APRN G.G.U.s opinion included and focused heavily on the Veteran's GERD impact on his related emotional, psychological, and spiritual impacts on his behavioral and social functioning. These symptoms are fully compensated under the Veteran's service connection for persistent depressive disorder with anxious distress associated with left knee status post total arthroplasty and to award an increased based upon the noted symptoms would be duplicative of, or overlapping with, the symptomatology of persistent depressive disorder with anxious distress. Doing so would be pyramiding and is disallowed.
+
+The Veteran's records were again reviewed in September 2021. Again, a diagnosis of GERD was noted with his symptoms staying the same since onset including taking continuous medication. Reflux is the only symptom noted to be experienced due to any esophageal conditions. The Veteran did not have any esophageal stricture, spasm of esophagus, or an acquired diverticulum of the esophagus. No other pertinent physical findings, complications, conditions, signs, symptoms, or scars. No diagnostic testing was performed.
+
+The Veteran submitted a Statement in Support of Claim in May 2023. The Veteran discussed having multiple symptoms of GERD including heartburn with acid reflux, regurgitation of stomach contents into throat, a sore throat with painful swallowing, difficulty swallowing, a feeling like there is a lump in his throat, upper abdominal pain, nighttime choking due to regurgitation, and tooth enamel damage from stomach acid coming into his mouth at least once a day. The Veteran also discussed having chest pain and shoulder pain when GERD flared up. The Veteran reports having to have multiple pillows propping his head up to fall asleep. The Veteran reported he is unable to sleep more than 4 straight hours due to being awakened from GERD symptoms which leads to having difficulty concentrating, daytime fatigue, mood changes, low sex drive, irritability, depressed mood, frequent yawning, bouts of clumsiness, and difficulty handling stressful situations. 
+
+The Veteran's records were again reviewed in June 2023. The examiner noted the Veteran reported a worsening of symptoms to include his teeth hurting from all the acid, feeling like something is stuck in his throat, that even water makes him regurgitate, sleeping with only one pillow, and a burning pain around his throat and chest. The Veteran was noted to no longer taking continuous medication for his GERD. Symptoms due to GERD were noted as persistently recurrent epigastric distress, dysphagia, pyrosis, reflux, regurgitation, substernal pain, sleep disturbance caused by esophageal reflux occurring 4 or more times a year what last less than 1 day, 15-pound weight loss, and nausea occurring 4 or more times a year lasting less than 1 day. The Veteran did not have an esophageal stricture, spasm of esophagus or an acquired diverticulum of the esophagus. The Veteran also did not have a benign or malignant neoplasm or metastases related to any condition in the diagnosis section. Functional impact was noted due to having to clear his throat 3-4 times a day. 
+
+The Veteran's authorized representative submitted an argument in support of increase citing to the private opinion and lay statements by the Veteran. The representative argued that even if the Veteran's symptoms don't rise to the level of severe impairment of health, it still presents a picture of symptoms above the "less severity" considered by a 10% rating. The Veteran's painful symptoms paired with impairment of sleep concentration, diet, and mood, combines to result in a collection of limitations at least consistent with a considerable impairment of health at the 30 percent level. The Board notes the representative's argument also fails to take into consideration the theory of pyramiding. 
+
+Thus, turning to the credible evidence of record, the Board finds that the prior, unrevised regulations effective before May 19, 2024, are more favorable to the Veteran. Further, as the period on appeal begins well before May 2024, the Veteran's GERD is most appropriately rated under the currently assigned DC 7346-7203, consistent with the unrevised rating criteria.
+
+Furthermore, the Veteran's symptoms do not warrant a 30 percent or 60 percent rating as the Veteran's GERD symptoms do not cause extremely intense or severe impairment of health nor do they cause dysphagia requiring dilatation. The record does not show the Veteran to experience vomiting or having material weight loss and hematemesis or melena with moderate anemia. The record shows the Veteran only lost 15 pounds. Instead, the Veteran's GERD condition is manifested by persistently recurrent epigastric distress, dysphagia, pyrosis, reflux, regurgitation, substernal pain, sleep disturbance, and nausea not resulting in taking continuous medication which more closely approximates to a 10 percent rating under the prior, unrevised regulations effective before May 19, 2024.
+
+In reaching this decision, the Board has considered the applicability of the benefit of the doubt doctrine. In making findings and rendering decisions, unless the evidence is persuasive of one side or the other on the issue at hand, the Board necessarily employs a balancing test of positive and negative evidence, and when they are approximately balanced or nearly equal, the veteran receives the benefit of the doubt, such that the Board finds in the veteran's favor on that issue. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Ortiz v. Principi, 274 F.3d 131, 1365 (Fed. Cir. 2001). However, the Board finds that the evidence is persuasively against the Veteran's claim for a rating more than 10 percent for GERD. As such, that doctrine is not applicable in the instant claim, and the claim must be denied. Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc); Mattox v. McDonough, 56 F.4th 1369, 1378-1379 (2023).
+
+The Board observes this denial provides finality as to this appeal, but not necessarily as to the underlying claim, because a claim will be readjudicated even after a final decision if the Veteran submits a supplemental claim along with new and relevant evidence. See 38 U.S.C. § 5104C(a)(2)(A) and (B) (while a veteran may not pursue both a Board appeal and a supplemental claim simultaneously, there is no prohibition on doing so in succession); 38 U.S.C. § 5108; 38 C.F.R. §§ 3.156, 3.2501 (the AOJ will readjudicate a claim if new and relevant evidence is submitted with a supplemental claim).
+
+Additionally, the Board observes if the Veteran submits a supplemental claim within one year of this decision, that claim may constitute "continuous pursuit" of the issue, in which case the date of the original claim, not the new supplemental claim, will apply for purposes of determining the effective date of any award of benefits based on the readjudication.; 38 U.S.C. § 5110(a)(2); 38 C.F.R. § 3.2500(h)(1) (under the AMA, the date of the initial claim applies so long as the Veteran "continuously pursues" the benefit in question by timely and properly filing an appeal or other administrative review option after a VA decision on the initial claim); Calhoun v. McDonough, 37 Vet. App. 96, 103 (2024) (the concept of continuous pursuit applies to supplemental claims submitted after Board decisions as well as to those submitted after AOJ decisions).
+
+2.	Entitlement to service connection for obstructive sleep apnea is granted.
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated during active service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303(a). Generally, to establish service connection, there must be competent, credible evidence of (1) a current disability, (2) in-service incurrence or aggravation of an injury or disease, and (3) a nexus, or link, between the current disability and the in-service disease or injury. Saunders v. Wilkie, 886 F.3d 1356, 1361 (Fed. Cir. 2018); Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service connection may be established on a secondary basis for a disability resulting from a service-connected disease or injury. 38 U.S.C. §§ 1110, 1131. Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability results from the service-connected disability. 38 U.S.C. §§ 1110, 1131; Spicer v. McDonough, 61 F.4th 1360, 1364 (Fed. Cir. 2023) (holding that section 1110 "requires compensation when a service-connected disease or injury is a but-for cause of a present-day disability"). The but-for causation standard in a secondary service-connected case is not limited to a single cause and effect, but rather contemplates multi-causal links, including medications and treatments. See Spicer, supra.
+
+Notably, this but-for standard also allows for s "intermediate steps" between a service-connected disability and the claimed secondary disability, including conditions that do not qualify on their own as VA disabilities, such as obesity (e.g., the primary disability prevents the veteran from exercising, or slows the veteran's metabolism, and resulting weight gain causes or aggravates the secondary disability), as well as medications and treatments for the primary disability.   See, e.g., Walsh v. Wilkie, 32 Vet. App. 300, 306 (2020); Spicer v. McDonough, 61 F.4th 1360, 1365-1366 (Fed. Cir. 2023).
+
+Evidence and Analysis
+
+The Veteran seeks entitlement to service connection for obstructive sleep apnea. Specifically, he contends his sleep apnea is secondary to unspecified depressive disorder, left knee, right knee, left hip, and thoracolumbar spine with associated weight gain. 
+
+The Veteran is currently service connected for persistent depressive disorder with anxious distress, left knee status post total arthroplasty, posttraumatic arthritis left knee with limitation of flexion, degenerative arthritis left hip, residual painful surgical scars left knee, gastroesophageal reflux disease, instability of left knee, left hip limitation of flexion, impairment of left hip, left knee surgical scars, and residual surgical scars left knee. 
+
+The Veteran underwent a VA examination in May 2023 wherein the Veteran did not have a diagnosis of sleep apnea after a records review was completed.  The Veteran reported he had to cancel his sleep study.  Thereafter, the Veteran submitted results of a July 2023 sleep study confirming his diagnosis of obstructive sleep apnea. See CAPRI record.
+
+In October 2023, an addendum / clarification was provided addressing secondary service connection, answering the question of whether the Veteran's now diagnosed obstructive sleep apnea is at least as likely as not the result of his service-connected disabilities. The examiner opined that the specific conditions in question were less likely than not the source of the Veteran's claimed disability, as they are not considered risk factors for sleep apnea. However, the examiner noted obesity was a likely factor in the Veteran's sleep apnea.
+
+The Board is sensitive to the need to "stay in its lane," so to speak, and avoid invading the province of scientific or medical experts by exercising independent judgment on matters requiring specialized knowledge beyond the ken of a lay person. See, e.g., Colvin v. Derwinski, 1 Vet. App. 171, 175 (1991). Accordingly, the Board eschews engaging in medical diagnosis or scientific analysis.  
+
+On the other hand, determining whether service connection applies in a particular case is not a matter of medical diagnosis or scientific theory-it is a question of fact.  See, e.g., Wood v. Derwinski, 1 Vet. App. 190, 191 (1991). Thus, the Board carefully considers input from medical professionals and other experts along with all other competent, material, probative evidence, but it does not "outsource" its responsibility or its authority as the finder of fact. See, e.g., Sizemore v. Principi, 18 Vet. App. 264 (2004); Delrio v. Wilkie, 32 Vet.App. 232, 242 (2019) Miller v. Wilkie, 32 Vet. App. 249, 259 (2020). 
+
+Thus, when the issue on appeal is whether a disability is service connected, the ultimate answer is the exclusive province of the Board. See, e.g., Madden v. Gober, 125 F.3d 1477, 1481 (Fed. Cir. 1997); Owens v. Brown, 7 Vet.App. 429, 433 (1995); Washington v. Nicholson, 19 Vet.App. 362, 367-68 (2005). 
+
+Given the broad range of musculoskeletal disabilities restricting the Veteran's movements, dietary limitations imposed by his service-connected GERD, and the potential effects of his depression disability and the medication prescribed for that disability(duloxetine) on his motivation to exercise and follow a limited diet, as well as his metabolism, the Board finds it is at least approximately as likely as not his service-connected disabilities were a substantial but-for cause of the Veteran's obesity and, as a result, his sleep apnea. 38?U.S.C. §?5107(b); 38 C.F.R. § 3.102; Ortiz, 274 F.3d at 1364-1365.  
+
+(Continued on the next page)
+
+?
+
+Service connection for sleep apnea as secondary to the Veteran's service-connected disabilities is therefore warranted.  This appeal is granted.
+
+ 
+
+ 
+
+Timothy Cothrel
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	KMMH
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.
+
+Timothy Cothrel
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	KMMH
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

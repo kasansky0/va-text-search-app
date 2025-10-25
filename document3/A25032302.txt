@@ -1,0 +1,85 @@
+Citation Nr: A25032302
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240723-459573
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from January 2011 to May 2011.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a February 2024 rating decision.
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the February 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+Under the AMA, remands are limited to correction of (1) duty to assist errors occurring prior to the date of the AOJ decision on appeal and (2) AOJ errors in satisfying a regulatory or statutory duty, if correction of such error would have a reasonable possibility of aiding in substantiating the appellant's claim.  38 C.F.R. § 20.802 (a).
+
+While the Board sincerely regrets further delay, for the reasons discussed below, the Board finds that remand is required to correct a duty to assist error that occurred prior to issuance of the rating decision on appeal. Specifically, remand is required in order to obtain an adequate VA examination.
+
+The Veteran contends that he has bilateral hearing loss that due to his time in the Guard due to noise exposure/acoustic trauma.  See May 2023 VA Form 21-4138; see also May 2023 VA Form 21-526EZ. 
+
+Initially, the Board notes that in the February 2024 rating decision, the AOJ found that the evidence shows that a qualifying event, injury, or disease had its onset during service, as the Veteran's DD-214 shows his MOS (Military Occupational Specialty) has a probability of hazardous noise exposure.  The Board is bound by this favorable finding.
+
+In support of his claim for service connection, the Veteran submitted a May 2023 private audiological evaluation with the following results:
+
+ 		 	HERTZ	 	 
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	5	10	15	30	35
+
+LEFT	10	10	25	25	30
+
+The Veteran's auditory threshold was not 40 decibels or greater at any of the listed frequencies nor was the auditory threshold frequency greater than 26 decibels at three frequencies.  Accordingly, the testing does not show that the Veteran has current hearing loss disability in either the left or the right ear for VA purposes based on pure tone threshold testing. 
+
+Looking at whether the report shows hearing loss for VA purposes in either or both ears based on speech discrimination score, the Board finds that the report is unclear as to whether it meets the criteria of 38 C.F.R. § 4.85.  In other words, it may not be adequate for rating purposes, requiring remand.  The report indicates values for "Maryland CNC List 9," "Maryland CNC List 10," and "Maryland CNC List 7" for the left ear; and "Maryland CNC List 3" and "Maryland CNC List 1" for the right ear.  The Board is unclear of the distinctions between these speech discrimination scores and whether they satisfy the requirements of VA law for "... a controlled speech discrimination test (Maryland CNC) ..."  See 38 C.F.R. § 4.85(a), 20.904(a).  Normally, speech discrimination scores are expressed as clear percentages, e.g., 98 percent, 96 percent, 94 percent, etc.
+
+In a progress note submitted along with the private audiology report, M.B., a medical assistant, listed the values as reported on the audiogram for both pure tone threshold testing and speech discrimination testing.  M.B. stated that the results indicate speech discrimination is good in both the left and right ear.  M.B. opined that the hearing loss is at least as likely as not related to acoustic trauma from military noise.  By way of explanation, M.B. wrote that there is significant permanent shift in hearing threshold beyond test variability from entrance to today, Veteran has not separated from the military yet, so based off of this exam this is indicative of auditory damage from conceded noise on active duty; that hazardous noise exposure on active duty is conceded; and there is a current hearing loss present according to VA standards consistent with noise-induced hearing loss.   M.B. explained that there is evidence of a nexus of auditory damage to relate hearing loss to military noise exposure; that entrance exam showed normal hearing; that Veteran reports a decrease in hearing during active duty; that noise exposure on active duty is conceded; that hearing loss noted on today's examination is consistent with noise induced hearing loss and is beyond the normal progression for age; and in the absence of proof otherwise the opinion will favor the Veteran.  See May 2023 private treatment records.  
+
+The Board acknowledges the private positive nexus for bilateral hearing loss.  As discussed above, the report is unclear as to whether it meets the criteria of 38 C.F.R. § 4.85.  An adequate medical examination report must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008) (the probative value of a medical opinion is derived from a factually accurate, fully articulated, and soundly reasoned opinion).  Here, for the reasons discussed above, the Board assigns no probative value to the private report and opinion.    
+
+In connection with his claim for service connection, the Veteran was afforded a VA audiological examination in November 2023 during which pure tone thresholds, in decibels, were as follows:
+
+ 		 	HERTZ	 	 
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	-10	-10	20	25	25
+
+LEFT	15	10	25	25	25
+
+The Veteran's auditory threshold was not 40 decibels or greater at any of the listed frequencies nor was the auditory threshold of only one frequency greater than 26 decibels, let alone three.  Maryland CNC speech recognition testing indicated speech recognition of 100 percent in the right ear and 100 percent in the left ear.   The VA examiner reported normal hearing in the bilateral ears and did not provide an opinion for either ear; the examiner reported that an opinion was not provided as hearing is currently within normal limits.  See November 2023 VA examination report.
+
+The Board finds the November 2023 VA examination to be inadequate, as the VA examiner did not reconcile their findings with the May 2023 private audiologist report stating that the Veteran has bilateral hearing loss.  The Board notes that an opinion based on an inaccurate factual premise has no probative value.  Reonal v. Brown, 5 Vet. App. 458, 461 (1993).  Whenever VA undertakes to either provide an examination or to obtain an opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).  Failure to provide an adequate examination is a duty to assist error that occurred prior to the issuance of the rating decision on appeal.  As such, the Board finds that remand for an adequate examination is warranted as such is necessary for a full and fair adjudication of this issue and to cure this pre-decisional duty to assist error. 
+
+The matter is REMANDED for the following action:
+
+1. Schedule the Veteran for an audiological examination with an appropriate audiologist to determine the nature and etiology of any hearing disability.  The entire claims file must be made available to and be reviewed by the examiner.  Any indicated tests and studies must be accomplished, and all clinical findings must be reported in detail.  The examiner is asked to address the following:
+
+a)	Identify whether or not there is bilateral hearing loss for VA purposes.  If no bilateral hearing loss is diagnosed, the examiner is to consider and address the Veteran's private audiogram. 
+
+b)	If bilateral hearing loss is diagnosed at any time during the appeal period, the examiner must provide an opinion whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's hearing loss had onset in, or is otherwise related to, active service.
+
+c)	A comprehensive rationale for all opinions is to be provided.  All pertinent evidence, including both lay and medical, should be considered.
+
+(This space intentionally left blank.  VLJ signature on next page.)
+
+ 
+
+J.P. Norman
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	L. Fulmer
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

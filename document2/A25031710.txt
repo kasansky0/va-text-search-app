@@ -1,0 +1,105 @@
+Citation Nr: A25031710
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240427-435756
+DATE: April 7, 2025
+
+ORDER
+
+Special Monthly Compensation (SMC) based on housebound status is denied.
+
+REMANDED
+
+SMC based on the need for regular aid and attendance is remanded.
+
+FINDING OF FACT
+
+For the purposes of SMC at the housebound rate, the Veteran does not have a single disability rated at 100 percent disabling.
+
+CONCLUSION OF LAW
+
+The criteria are not met to establish SMC based on housebound status. 38 U.S.C. §§ 1114, 5107; 38 C.F.R. § 3.350.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from June 1974 to October 1978.
+
+Via the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the April 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim for SMC for aid and attendance, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. SMC based on housebound status.
+
+i.	Legal criteria.
+
+SMC is payable at a specified rate under 38 U.S.C. § 1114(s) when a Veteran has a single service-connected disability rated as 100 percent and: (1) has additional service-connected disability or disabilities independently ratable at 60 percent or more, separate, and distinct from the 100 percent service-connected disability and involving different anatomical segments or bodily systems; or, (2) is permanently housebound due to a service-connected disability or disabilities. This means that a Veteran may be found to be entitled to the housebound rate based on a mathematical calculation due to their particular disability ratings, or because they are in fact substantially confined to his or her dwelling place.
+
+The latter requirement is met when a veteran is substantially confined as a direct result of service-connected disabilities to his or her dwelling and the immediate premises or, if institutionalized, to the ward or clinical areas, and it is reasonably certain that the disability or disabilities and resultant confinement will continue throughout his or her lifetime. 38 C.F.R. § 3.350(i).
+
+Generally, benefits under 38 U.S.C. § 1114(s) are not available to a Veteran whose total disability rating is based on multiple disabilities, none of which is rated as 100 percent disabling. However, a total disability rating based on individual unemployability (TDIU) may satisfy the total rating element under 38 U.S.C. § 1114(s), but only when that award is predicated on a single disability, rather than on multiple service-connected disabilities. Bradley v. Peake, 22 Vet. App. 280 (2008) (noting the circumstances under which a disorder, while rated less than 100 percent disabling, satisfies the requirement of service-connected disability rated as total the purposes of 38 U.S.C. § 1114(s)).
+
+The Court of Appeals for Veterans Claims has specifically held that multiple disabilities cannot constitute a single service-connected disability rated as total for the purpose of establishing entitlement to SMC at the housebound rate under 38 U.S.C. § 1114(s). Bradley, 22 Vet. App. at 289-91 (2008) (holding that the provisions of 38 C.F.R. § 4.16(a), which directs that multiple disabilities be treated as one for purposes of establishing entitlement to schedular TDIU, only apply to TDIU ratings and do not apply to ratings for SMC at the housebound rate under 38 U.S.C. § 1114(s)).
+
+ii.	Facts and analysis.
+
+In October 2015, via rating decision, the AOJ granted TDIU-effective back to February 2012. The AOJ granted TDIU based on the Veteran's bilateral knee and back disabilities. The Veteran's combined rating is 90 percent disabling. However, because of the grant of TDIU, the Veteran is considered to have a total disability.
+
+A single service-connected disability rated as 100 percent is required for SMC at the housebound rate. As outlined in Bradley v. Peake, in order to reach the requirement of a single service-connected disability rated as 100 percent, various orthopedic disabilities may not be grouped and considered a "single" service-connected disability, 22 Vet. App. 280 (2008). Accordingly, the Veteran does not meet the requirements for entitlement to SMC at the housebound rate. A single disability rated at 100 percent is required for both "statutory housebound" (38 C.F.R. § 3.350(i)(1)) and "in-fact housebound" (38 C.F.R. § 3.350(i)(2)). The Veteran does not have a single disability rated at 100 percent. Accordingly, there is no basis upon which the Veteran could properly be awarded SMC at the housebound rate.
+
+As the evidence of record persuasively weighs finding that the Veteran has a single service-connected disability rated as 100 percent, the benefit-of-the-doubt rule does not apply. 38 U.S.C. § 5107(b); Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021). Accordingly, SMC based on housebound status is denied.
+
+REASONS FOR REMAND
+
+1. SMC based on aid and attendance.
+
+i.	Legal criteria.
+
+Special monthly compensation is also payable at another specified rate if a veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both feet, or of one hand and one foot; or is blind in both eyes, with visual acuity of 5/200 or less; or is permanently bedridden or so helpless as to need regular aid and attendance. 38 U.S.C. § 1114(l); 38 C.F.R. § 3.350(b).
+
+The criteria for determining that a veteran is so helpless as to need "regular aid and attendance" are contained in 38 C.F.R. § 3.352(a). Those criteria include: (1) inability of the claimant to dress or undress herself or to keep herself ordinarily clean and presentable; (2) frequent need of adjustment of any special prosthetic or orthopedic appliances which by reason of the particular disability cannot be done without assistance; (3) inability of the claimant to feed herself through loss of coordination of upper extremities or through extreme weakness; (4) inability to attend to the wants of nature; or (5) incapacity, either physical or mental, that requires care or assistance on a regular basis to protect the claimant from hazards or dangers incident to her daily environment. 38 C.F.R. § 3.352(a).
+
+Being "bedridden" will also be a proper basis for finding that a veteran needs regular aid and attendance. The term "bedridden" means a condition which, through its essential character, actually requires that the claimant remain in bed. However, the fact that someone has voluntarily taken to bed or that a physician has prescribed rest in bed for the greater or lesser part of the day to promote convalescence or cure is not sufficient. Id.
+
+The VA's duty to assist includes providing a medical examination when is necessary to make a decision on a claim. 38 U.S.C. § 5103A (d); 38 C.F.R. § 3.159 (c)(4). Such development is necessary if the information and evidence of record does not contain sufficient competent medical evidence to decide the claim, but (1) contains competent evidence of diagnosed disability or symptoms of disability, (2) establishes that the veteran suffered an event, injury or disease in service, or has a presumptive disease during the pertinent presumptive period, and (3) indicates that the claimed disability may be associated with the in-service event, injury, or disease, or with another service-connected disability. 38 C.F.R. § 3.159 (c)(4); McLendon v. Nicholson, 20 Vet. App. 79, 83-86 (2006) (noting that the third element establishes a low threshold and requires only that the evidence "indicates" that there "may" be a nexus between the current disability or symptoms and active service, including equivocal or non-specific medical evidence or credible lay evidence of continuity of symptomatology).
+
+ii.	Facts and analysis.
+
+The Veteran filed his supplemental claim in April 2024. With his supplemental claim, the Veteran included a " Questionnaire Concerning Activities of Daily Living." In this questionnaire, the Veteran indicates medical difficulty with performing many activities that could result in a finding that the Veteran is so helpless as to be in need of regular aid and attendance.
+
+However, the Veteran answered the questions in the questionnaire himself; the Veteran is not a medical provider. Moreover, from this evidence, it is not clear whether the activities of daily living that the Veteran finds difficult to complete are due to service-connected health concerns, non-service-connected health concerns or both.
+
+The AOJ did not grant an examination in order to assess the Veteran's claim for aid and attendance. Although in February 2024 the Veteran provided VA form 21-2680, the evaluating physician did not appear to limit the scope of her assessments and opinions to service-connected disabilities, only. Accordingly, the Board is unable to grant or deny the Veteran's claim for SMC due to a need for aid and attendance.
+
+Moreover, pursuant to McLendon v. Nicholson, the AOJ should have granted an examination, 20 Vet. App. 79, 83-86 (2006). The Veteran has multiple service-connected orthopedic disabilities. The Veteran has expressed, and a non-VA examiner has medically assessed that, due to medical reasons, the Veteran has difficulty performing activities of daily living. The Veteran's service-connected disabilities may be the reason that the Veteran struggles with performing activities of daily living. Accordingly, a medical examination is required to assess-whether due to the Veteran's service-connected disabilities alone-the Veteran is so helpless as to need "regular aid and attendance."
+
+A remand is required to correct this pre-decisional duty to assist error.
+
+The matters are REMANDED for the following action:
+
+1. Arrange for an Aid and Attendance examination to determine whether service-connected disabilities render the Veteran so helpless as to be in need of regular aid and attendance of another person. The VA examiner must review the claims file.
+
+After eliciting a full history from the Veteran, conducting a complete review of the records, performing an examination of the Veteran, and completing any clinically indicated diagnostic testing, the examiner is asked to identify the extent to which the Veteran's service-connected disabilities impact his capability for self-care.
+
+The examiner's assessment must include, but is not limited to, a determination as to whether the Veteran's service-connected disabilities result in an inability to perform such tasks as dressing and undressing himself, maintaining ordinary cleanliness, feeding himself, attending to the wants of nature, or protecting himself from the hazards or dangers incident to his daily environment.
+
+A complete rationale should be provided for any opinion expressed. (By law, the Board is not permitted to rely on any conclusion that is not supported by a thorough explanation. Providing an opinion or conclusion without a thorough explanation will delay processing of the claim and may also result in a clarification being requested.)
+
+In performing these tasks, the examiner is asked not to consider the Veteran's non-service-connected medical conditions.
+
+ 
+
+ 
+
+MICHAEL LANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Drum, Ryan S.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

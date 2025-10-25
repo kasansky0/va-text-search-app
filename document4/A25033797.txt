@@ -1,0 +1,95 @@
+Citation Nr: A25033797
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 241001-478431
+DATE: April 11, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea, to include as secondary to service-connected status post complex tear of the right knee; chronic degenerative changes of the right knee; status post residuals distal fibula fracture of the right ankle; lumbosacral spine intervertebral disc syndrome with degenerative arthritis and lumbosacral strain; left lower extremity radiculopathy; right lower extremity radiculopathy; status post fractures of the 8th and 9th left ribs; and/or right anterior thigh herniated muscle, and to include as due to obesity as an intermediate step, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from March 1987 to April 1996.
+
+This case comes before the Board from an October 2023 rating decision, which denied service connection for obstructive sleep apnea. The Veteran appealed the decision to the Board. In the October 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review. In an Appeals Modernization Act (AMA) Direct Review appeal, the Board considers the evidence of record at the time of the October 2023 rating decision. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in this decision. 38 C.F.R. § 20.300. If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Entitlement to service connection for obstructive sleep apnea
+
+The Veteran asserts that his obstructive sleep apnea is secondary to service-connected disabilities. In an April 2023 statement, the Veteran said that his musculoskeletal disabilities keep him from exercising. The Veteran said he takes medications for these disabilities, and he is prevented from being able to sleep on his side. He also stated that the pain from his musculoskeletal disabilities made it difficult for him to fall or stay asleep. The Veteran reported that he had snoring; trouble sleeping with frequent awakenings; headaches; daytime fatigue; poor concentration; and difficulty completing tasks.
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by service. See 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a). To establish a right to compensation for a present disability, a veteran must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service. Disorders diagnosed after discharge will still be service connected if all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+Service connection may be granted for a disability that is proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310(a).  When service connection is established for a secondary disability, the secondary disability shall be considered a part of the original disability. Id. Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) proximately caused by or (b) proximately aggravated by a service-connected disability.
+
+In an opinion issued by VA's General Counsel, the General Counsel determined that obesity cannot be service connected on a direct basis and obesity cannot qualify as an in-service event for service-connection purposes. However, the General Counsel determined that obesity may serve as an intermediate step between a service-connected disability and a current disability that may be service connected on a secondary basis under 38 C.F.R. § 3.310(a). VAOGCPREC 1-2017.  In such case, that evidence would need to reflect: (1) a service-connected disability or disabilities that caused the veteran to become obese; (2) the obesity was a substantial factor in causing another disability; and (3) the disability would not have occurred but for the obesity caused by the veteran's service-connected disability or disabilities. Id.
+
+In a decision by the U.S. Court of Appeals for Veterans Claims, it held that while obesity is not itself recognized as a disability by the Secretary of VA, it may be recognized as an intermediate step between a service-connected disability and a disability claimed as secondary to that service-connected disability, based on the service-connected disability causing or aggravating the obesity. See Walsh v. Wilkie, 32 Vet. App. 300, 306-07 (2020).
+
+By way of history, in April 2023, the Veteran filed a formal claim for service connection for obstructive sleep apnea, which he claimed as secondary to service-connected disabilities.  
+
+In August 2023, the Veteran was afforded a VA examination and medical opinion in connection with his claim. The examiner diagnosed the Veteran with obstructive sleep apnea. Thereafter, a VA examiner determined that the Veteran's obstructive sleep apnea was less than likely than not that the Veteran's was caused by obstructive sleep apnea during service. The examiner did not address whether the Veteran's obstructive sleep apnea was proximately due to or the result of service-connected disability or disabilities. Furthermore, the examiner did not address the Veteran's theory of obesity as an intermediate step in the development of obstructive sleep apnea. 
+
+In support of his claim, the Veteran submitted an April 2023 private medical opinion in which Dr. Zeyad Morcos provided a positive nexus opinion regarding the Veteran's obstructive sleep apnea, service-connected disabilities, and obesity. Specially, Dr. Morcos opined that it was at least as likely as not that the Veteran's weight gain was due to and/or related to his service-connected disabilities. Dr. Morcos stated that the pertinent medical literature attributed the Veteran's weight gain to his service-connected disabilities. In rendering these opinions, Dr. Morcos referenced medical literature in support of his conclusions. These medical opinions show that Dr. Morcos specifically raised a theory of entitlement that considered whether obesity was an intermediate step in the development of obstructive sleep apnea and provided relevant evidence to support the opinions.
+
+However, the Board finds that Dr. Morcos' opinion is not adequate. The medical opinion does not show that Dr. Morcos considered any evidence other than the Veteran's lay statements. In review of the Veteran's medical records, the Veteran was encouraged to exercise over multiple medical visits. Thus, the Board finds that Dr. Morcos did not consider all the relevant evidence of record when formulating his opinion, and his opinion is not adequate.
+
+Relying on the August 2023 VA medical opinion, the AOJ denied service connection for obstructive sleep apnea on a direct basis only, and did not consider the claim on a secondary basis, to include obesity as an intermediate step.
+
+The Board finds that the AOJ did not properly consider whether obstructive sleep apnea was secondary to the Veteran's service-connected disabilities and whether obesity was an intermediate step in the Veteran's development of obstructive sleep apnea. Consequently, the Board finds that the AOJ's failure to consider that theory of entitlement by not obtaining adequate medical opinions was a pre-decisional duty to assist error, and thus, remand is necessary. See Barr v. Nicholson, 21 Vet. App. 303 (2007).
+
+The matter is REMANDED for the following action:
+
+Obtain an addendum opinion from a medical professional regarding whether the Veteran's obstructive sleep apnea is caused or aggravated by a service-connected disability, to include as due to obesity as an intermediate step. If the examiner determines that an in-person examination is needed to make an informed decision, schedule an in-person examination. The examiner should have access to the claims file.
+
+The agency of original jurisdiction must provide the examiner a copy of the below facts.
+
+To assist in a review of the claims file, the examiner is informed of the following facts with citations in the record, when applicable:
+
+"	The Veteran served on active duty from March 1987 to April 1996.  
+
+"	The Veteran is service connected for status post complex tear of the right knee; chronic degenerative changes of the right knee; status post residuals distal fibula fracture of the right ankle; lumbosacral spine intervertebral disc syndrome with degenerative arthritis and lumbosacral strain; left lower extremity radiculopathy; right lower extremity radiculopathy; status post fractures of the 8th and 9th left ribs; right anterior thigh herniated muscle; and bridge of the nose scar.
+
+"	The Veteran contends that his service-connected musculoskeletal disabilities prevent him from exercising, which has caused him to become obese. 
+
+"	An October 2012 VA medical treatment record shows that was diagnosed and treated for diabetes. See VBMS entry with Document Type, "CAPRI," Receipt Date 05/05/2023, p. 218. 
+
+"	A July 2022 VA medical treatment record shows that the Veteran was provided stretches and basic exercises for his lumbar spine disability. The Veteran reported it was not helpful. See VBMS entry with Document Type, "CAPRI," Receipt Date 10/05/2023, p. 2.
+
+"	A June 2023 VA medical treatment record shows that the Veteran had an exercise/home exercise program where he used a treadmill daily for one mile. There was also noted to be a LA Fitness and Powerhouse Gym nearby his home with a pool. The Veteran was also encouraged to do 30 minutes of exercise five days a week. See VBMS entry with Document Type, "CAPRI," Receipt Date 10/05/2023, p. 3, 6.
+
+"	The Veteran submitted an April 2023 private medical opinion in which Dr. Zeyad Morcos provided a positive nexus opinion regarding the Veteran's obstructive sleep apnea, service-connected musculoskeletal disabilities, and obesity. Specially, Dr. Morcos opined that it was at least as likely as not that the Veteran's weight gain was due to and/or related to his service-connected musculoskeletal disabilities. Dr. Morcos stated that the Veteran had a known service-connected disability, which can lead to and or cause pain, painful motion, sleep disturbances, diminished motivation, and/or "comfort" overeating, which can lead to diminished activity with less caloric expenditure. Dr. Morcos stated that it was described from a pathophysiological perspective how obstructive sleep apnea is associated with weight gain, exacerbates hyperglycemia, and other neuroendocrine chemicals and processes, and promotes further weight gain in a cyclical fashion. See VBMS entry with Document Type, "Medical Treatment Record - Non-Government Facility," Receipt Date 04/21/2023, pp. 6-9.
+
+"	In an April 2023 statement, the Veteran stated that his musculoskeletal disabilities keep him from exercising. The Veteran said he takes medications for these disabilities, and he is prevented from being able to sleep on his side. He also stated that the pain from his musculoskeletal disabilities made it difficult for him to fall or stay asleep. The Veteran reported that he had snoring; trouble sleeping with frequent awakenings; headaches; daytime fatigue; poor concentration; and difficulty completing tasks. See VBMS entry with Document Type, "VA Form 21-4138 Statement in Support of Claim," Receipt Date 04/21/2023, with "OSA" in the Subject field.
+
+"	A July 2023 sleep study shows that the Veteran was diagnosed with moderate obstructive sleep apnea. See VBMS entry with Document Type, "C&P Exam," Receipt Date 08/10/2023, with "DBQ RESP Sleep Apnea" in the Subject field, pp. 1-4.
+
+"	An August 2023 VA examiner determined that the Veteran's obstructive sleep apnea was less likely than not incurred in or caused by an in-service injury, event, or illness. The examiner stated that today's examination confirms the Veteran's claimed condition of obstructive sleep apnea, rendering a diagnosis of Obstructive Sleep Apnea. The examiner stated that it was than likely that the Veteran's obstructive sleep apnea was caused by the obstructive sleep apnea during service. See VBMS entry with Document Type, "C&P Exam," Receipt Date 08/10/2023, with "DBQ Medical Opinion" in the Subject field, p. 2.
+
+"	While the August 2023 examiner addressed the whether the obstructive sleep apnea was related to service, the examiner did not address the Veteran's secondary theory of service connection, where he alleges that the service-connected musculoskeletal disabilities prevent him from exercising, which caused him to become obese. Thus, the Board is seeking an addendum opinion. 
+
+"	The examiner's review of the record is NOT restricted to the evidence listed above.  This list is provided to assist the examiner in locating potentially relevant evidence.
+
+The examiner is asked to provide opinions for the following questions:
+
+1.	Did the Veteran's service connected disabilities, to include status post complex tear of the right knee; chronic degenerative changes of the right knee; status post residuals distal fibula fracture of the right ankle; lumbosacral spine intervertebral disc syndrome with degenerative arthritis and lumbosacral strain; left lower extremity radiculopathy; right lower extremity radiculopathy; and/or status post fractures of the 8th and 9th left ribs; right anterior thigh herniated muscle, cause or aggravate the Veteran's obesity?  Please explain upon what facts, medical principles, and/or medical literature the opinion is based.
+
+2.	If the answer to (1.) is positive, was the Veteran's obesity a substantial factor in causing his obstructive sleep apnea?  Please explain upon what facts, medical principles, and/or medical literature the opinion is based.
+
+3.	If the answer to (2.) is positive, would obstructive sleep apnea have not occurred but for the obesity caused or aggravated by a service-connected disability or disabilities?  Please explain upon what facts, medical principles, and/or medical literature the opinion is based.
+
+All opinions are to be accompanied by a rationale consistent with the evidence of record.  A discussion of the pertinent evidence, relevant medical treatises, and generally accepted medical principles is requested.  If the examiner is unable to provide an opinion without resorting to mere speculation, he or she should explain why this is so.  The examiner shall then explain whether the inability to provide a more definitive opinion is the result of a need for more information and indicate what additional evidence is necessary, or whether he or she has exhausted the limits of current medical knowledge in providing an answer to the question. 
+
+ 
+
+A. P. SIMPSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	N. Griffin, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

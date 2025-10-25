@@ -1,0 +1,85 @@
+Citation Nr: A25032663
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240804-461403
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA), as secondary to the Veteran's service-connected generalized anxiety disorder with panic disorder, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Navy from March 2000 to August 2006.
+
+The rating decision on appeal was issued in July 2024 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In April 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review, and requested review of a December 2022 rating decision. 
+
+Although the Veteran initially requested Higher-Level Review when submitting the April 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review, the Higher-Level Reviewer determined that there had been a duty to assist error and transferred the claim to the Supplemental Claim decision review option for additional development, namely a VA examination and secondary service connection medical opinion. 
+
+Following completion of a VA medical examination and opinion, in July 2024, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, and denied the claim based on the evidence of record at the time of that decision.
+
+In the August 2024 VA Form 10182, Notice of Disagreement (NOD), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the July 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.
+
+The Board notes that generally, it may not decide an appeal before the deadline for requesting an AMA docket switch has elapsed. 38 C.F.R. § 20.202(c)(2) allows claimants to switch AMA dockets by completing and submitting a new NOD within one year from the date the AOJ mails notice of the decision on appeal, or 60 days from when the Board receives the NOD, whichever is later; unless a claimant has already submitted evidence or testimony as described in 38 C.F.R. §§ 20.302 and 20.303. However, as this claim is being remanded, not awaiting the time to elapse will not be prejudicial to the Veteran.  
+
+Entitlement to service connection for OSA, as secondary to the Veteran's service-connected generalized anxiety disorder with panic disorder, is remanded.
+
+The Veteran seeks service connection for OSA on a secondary basis to her service-connected generalized anxiety disorder with panic disorder. See March 2022 VA 21-526EZ, Application for Disability Compensation and Related Compensation Benefits.
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service. 38 U.S.C. § 1110; 38 C.F.R. § 303(a). It may also be granted for any disease diagnosed after discharge, when all evidence establishes that the disease was incurred in service. 38 C.F.R. § 303(d).
+
+Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a non-service-connected disability currently exists and (2) that the non-service-connected current disability was either (a) caused by or (b) aggravated by a service-connected disability. 38 C.F.R. § 3.310(a)-(b); see also, Allen v. Brown, 7 Vet. App. 439 (1995). Secondary causation exists when, but for the service-connected disability, the non-service-connected disability would not exist, either in a direct, etiological way, or via multiple steps in a causal chain. See Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023). Secondary aggravation exists when the non-service-connected disability would be less severe but for a service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability. Id.
+
+In this case, the RO made two favorable findings in the July 2024 rating decision, which are binding on the Board. First, the RO found that the primary disability of generalized anxiety disorder with panic disorder is service-connected. Second, the RO found that the September 2023 VA examination confirms a diagnosis of OSA.
+
+While the first element of secondary service connection has clearly been met, as seen from the RO's favorable findings above, there is insufficient evidence to establish whether the second element has been met, particularly whether the non-service-connected OSA disorder was aggravated by the Veteran's service-connected generalized anxiety disorder with panic disorder. 
+
+The Secretary's duty to assist includes providing a medical examination or obtaining a medical opinion when such an examination or opinion is necessary to make a decision on the claim. 38 U.S.C. § 5103A(d). Where VA provides the Veteran with an examination in a service connection claim, the examination must be adequate. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). With respect to a claim for secondary service connection, in order for a medical opinion to be considered adequate, it must address both causation and aggravation. See El-Amin v. Shinseki, 26 Vet. App. 136 (2013); see also, Atencio v. O'Rourke, 30 Vet. App. 74, 90 (2018). 
+
+In this case, the September 2023 Sleep Apnea Disability Benefits Questionnaire and Medical Opinion solely address whether the claimed condition of OSA is "proximately due to or the result of" the Veteran's service-connected generalized anxiety disorder with panic disorder. The entire section of the medical opinion relating to aggravation of a non-service-connected condition by a service-connected condition is blank. In addition to the fact that the VA medical opinion fails to address aggravation, the Court in Spicer, supra, found the phrase "proximately due to" under 38 C.F.R. § 3.310(b) inconsistent with 38 U.S.C. §1110, and therefore "unlawful." Since the VA medical opinion applied the legal standard pre-Spicer, the Board finds that an entirely new medical opinion is required to properly address whether the Veteran's OSA was either (a) caused by or (b) aggravated by her service-connected generalized anxiety disorder with panic disorder. 38 C.F.R. § 20.802. The RO's failure to obtain an adequate medical opinion prior to the issuance of the July 2024 rating decision constitutes a pre-decisional duty to assist error, which requires remand to correct under the AMA.
+
+In addition to the above, the Board finds that the RO's failure to obtain a separate medical opinion with obesity as an "intermediate step" between the Veteran's service-connected generalized anxiety disorder with panic disorder and her diagnosed OSA disorder constitutes a pre-decisional duty to assist error, since this theory is reasonably raised by the record. While obesity is not a disability for VA compensation purposes, it may act as an "intermediate step" between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R. § 3.310(a). See VAOPGCPREC 1-2017; see also, Marcelino v. Shulkin, 29 Vet. App. 155 (2018) (affirming the Board's decision that service connection is not warranted for obesity as it is not in and of itself a disability for VA purposes, but not addressing VAOPGCPREC 1-2017). 
+
+In the September 2023 Medical opinion, the examiner concluded that the Veteran's OSA is less likely than not caused by her generalized anxiety disorder with panic disorder and notes that 70 percent of OSA patients are obese. The examiner points out that the Veteran's BMI has increased and that this is likely related to the OSA diagnosis. Separately, a September 12, 2022 private treatment record indicates that the Veteran has experienced recent weight gain, which may be due to her Zoloft medication, used to treat her mental health condition. The year prior, on June 7, 2021, the Veteran's BMI was 30.04 and her weight was 175 pounds. See Inova Fair Oaks Hospital treatment records. The medical treatment record indicates that the Veteran was feeling sleepier recently and that she had unexplained weight gain of approximately ten pounds in four months, despite there being no change in activity. Id. Just a few years prior, in September 2018, the Veteran's BMI was 25.75 and her weight was 150 pounds. Id. These records indicate that there may be a correlation between the Veteran's weight gain and her use of prescription medication to treat her mental health condition. Therefore, a medical opinion must be requested to address this theory of recovery.
+
+Based on the above, there is not an adequate opinion of record upon which to decide the claim for entitlement to service connection for OSA.
+
+The matter is REMANDED for the following actions:
+
+1. In remanding this matter, the Board makes no finding, implicit or otherwise, as to the credibility of the Veteran's assertions. Neither the Veteran's credibility nor lack thereof should be presumed in this remand.
+
+2. Obtain a secondary service connection medical opinion from an appropriate clinician concerning the Veteran's OSA as related to her service-connected generalized anxiety disorder with panic disorder. The need for an in-person examination is left to the discretion of the examiner. The examiner must review the Veteran's entire claims file, including this remand, prior to providing an opinion. Based on a review of the complete record, the examiner is directed to provide opinions responsive to the following:
+
+(a.) Whether but for the Veteran's service-connected generalized anxiety disorder with panic disorder, she would not have a current diagnosis of OSA.
+
+(b.) Whether the Veteran's OSA would be less severe and result in less functional impairment but for the Veteran's service-connected generalized anxiety disorder with panic disorder.
+
+If the examiner opines that the Veteran's OSA would result in less functional impairment but for the service-connected generalized anxiety disorder with panic disorder, the examiner must attempt to establish a baseline level of severity for the diagnosed OSA prior to aggravation by the service-connected generalized anxiety disorder with panic disorder.
+
+3. Obtain a secondary service connection medical opinion from an appropriate clinician concerning the Veteran's obesity as an intermediate step between the Veteran's service-connected disability of generalized anxiety disorder with panic disorder and the current OSA disorder. The need for an in-person examination is left to the discretion of the examiner. The examiner must review the Veteran's entire claims file, including this remand, prior to providing an opinion. Based on a review of the complete record, the examiner is directed to provide opinions responsive to the following:
+
+(a.) Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's service-connected generalized anxiety disorder with panic disorder caused her to become obese or aggravated her obesity? In answering this question, the examiner must address whether the service-connected disability or disabilities affected the Veteran's ability to limit caloric intake.  
+
+(b.) If yes, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the obesity, or its aggravation, was a substantial factor in causing the Veteran's OSA?
+
+(c.) If yes, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran would not have been diagnosed with OSA but for the obesity, or the aggravation of the obesity?
+
+A complete rationale must be provided for all opinions expressed and any resort to speculation should be explained.
+
+ 
+
+ 
+
+G. A. WASIK
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Riccio, C., Associate Attorney
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

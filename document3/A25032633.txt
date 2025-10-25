@@ -1,0 +1,107 @@
+Citation Nr: A25032633
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240919-479311
+DATE: April 9, 2025
+
+ORDER
+
+The appeal as to the issue of entitlement to service connection for prostate cancer is dismissed.
+
+The appeal as to the deferred claim for entitlement to service connection for diabetes mellitus, type 2 (DM) is dismissed.
+
+Entitlement to a compensable disability rating for left wrist scar is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's September 2024 VA Form 10182 was an improper concurrent election which sought to appeal a rating decision denying entitlement to service connection for prostate cancer when a higher-level review (HLR) of the service connection claim for prostate cancer was pending and no waiver (implicit or explicit) was made.
+
+2. Regarding DM, the Veteran's September 2024 VA Form 10182 Decision Review Request: Board Appeal expressed disagreement with a January 3, 2024, rating decision which deferred a decision on the issue of entitlement to service connection for DM; the January 3, 2024, deferred rating decision (as it relates to DM only) is not a final action of the agency.
+
+3. Throughout the period on appeal, the evidence persuasively weighs against finding the Veteran's left wrist scar measured 144 square inches (929 square centimeters) or greater.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for dismissal of appeal as to the issue of entitlement to service connection for prostate cancer have been met.  38 U.S.C. § 7104;?38 C.F.R. §§ 3.2500(b), 20.205. 
+
+2. As the January 3, 2024, AOJ decision did not include a final agency action pertaining to DM, the criteria for dismissal as a matter of law have been met.  38 U.S.C. § 7105; 38 C.F.R. §§ 3.104, 3.105, 20.200, 20.201, 20.202, 20.203, 20.204, 20.205.
+
+3. The criteria for entitlement to a compensable disability rating for left wrist scar have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.118, Diagnostic Code (DC) 7802.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from November 1979 to September 1982 and September 1982 to February 1986.
+
+These matters come to the Board of Veterans' Appeals (Board) on appeal from January 3, 2024, and January 17, 2024, rating decisions issued by the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the January 3, 2024, and January 17, 2024, Agency of Original Jurisdiction (AOJ) decisions on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board has limited the discussion below to the relevant evidence required to support its findings of fact and conclusions of law, as well as to the specific contentions regarding the case as raised directly by the Veteran and those reasonably raised by the record.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Peake, 21 Vet. App. 545, 552 (2008).
+
+1. The appeal as to the issue of entitlement to service connection for prostate cancer is dismissed.
+
+By way of background, the Veteran filed an August 2023 claim seeking service connection for prostate cancer.  In a January 3, 2024, AOJ decision, a decision on the issue of entitlement to service connection for prostate cancer was deferred.  The AOJ then issued a January 17, 2024, decision denying entitlement to service connection for prostate cancer.  Thereafter, the Veteran filed a January 2024 Request for HLR of the January 17, 2024, AOJ decision as it pertained to prostate cancer.
+
+In response, the AOJ issued a January 23, 2024, decision finding a duty to assist error during the HLR pertaining to entitlement to service connection for prostate cancer.  On January 24, 2024, the AOJ sent the Veteran a Notification Letter explaining that his request for HLR had been completed and that an error had been discovered in assisting the Veteran in his claim pertaining to prostate cancer.  The AOJ explained the Veteran's claim will be forwarded for further processing to correct the error.  The AOJ subsequently issued a December 2024 decision pursuant to the mandated special review of the Veteran's claim wherein entitlement to service connection for prostate cancer was denied.  
+
+While this development was pending, the Veteran concurrently filed a September 2024 VA Form 10182 seeking to appeal the January 17, 2024, decision as it pertains to service connection for prostate cancer. 
+
+Under 38 C.F.R. § 3.2500, claimants may elect to review a decision by the AOJ by filing a supplemental claim, HLR request, or Board appeal.  (emphasis added).  The Veteran, however, is prohibited from concurrently requesting multiple types of review.  38 C.F.R. § 3.2500(b). 
+
+The Board acknowledges that the Court has held that a claimant may seek a second administrative review option with respect to the same decision on the claim, so long as the 1-year period from that decision has not run.  Terry v. McDonough, 37?Vet. App.?1 (2023).  Even so, the Veteran may not seek both review options concurrently.  Id. at 2.  In other words, a second administrative review is permissible if it is timely, and it does not run concurrently with the first administrative review option.  Id.; see also 38 U.S.C. § 5104C(a)(2)(A). 
+
+Here, a January 17, 2024, AOJ decision denied the Veteran's service connection claim for prostate cancer.  In January 2024, the Veteran filed a VA Form 20-0996 HLR request regarding the January 17, 2024, AOJ decision.  The AOJ then issued a January 23, 2024, HLR decision identifying a duty to assist error regarding the Veteran's prostate cancer claim and requested additional development.  After said development was completed, the AOJ issued a December 2024 decision denying entitlement to service connection for prostate cancer.  Thus, the Veteran's September 2024 VA Form 10182 citing to the January 17, 2024, AOJ decision as it pertained to prostate cancer was premature.  The Veteran's January 2024 HLR request remained pending at the time the Veteran filed his September 2024 Notice of Disagreement.  As such, the Board finds the January 2024 VA Form 10182 was an impermissible concurrent election, and the docketing of the appeal was in error.  See 38 C.F.R. § 3.2500(b); Terry, 37?Vet. App.?1 (2023). 
+
+The Board has also considered the applicability of any waiver of the prohibition on concurrent election.? See generally Ferko v. McDonough, 37?Vet. App.?262 (2024) (en banc) (holding the one-year deadline to file a legacy NOD is not a jurisdictional bar to Board review, but a mandatory claims processing rule); Hall v. McDonough,?34?Vet. App.?329, 332?(2022) (regulatory claims-processing rules may be?waived?without affecting jurisdiction to adjudicate appeal); Percy v. Shinseki,?23?Vet. App.?37, 45?(2009) (VA may implicitly or explicitly?waive?any issue of timeliness in the filing of a Substantive Appeal).  The Board still retains subject-matter jurisdiction over claims on appeal when claims-processing rules are not followed; it is the Board's duty to engage in factfinding and explain the basis for any waiver or forfeiture of the relevant claims-processing rules.? Hall,?34 Vet. App. at 333.
+
+In particular, the Board considered whether it waived its right to enforce the prohibition on concurrent election by virtue of docketing the appeal.? See, e.g., Percy, 23 Vet. App. at 46-47 (holding VA waived any objection to the timeliness of the legacy substantive appeal because "VA consistently treated th[e] matter as if it was part of the timely filed Substantive Appeal[]" for over five years....").  To this point, the Board finds that assigning the appeal a docket in and of itself does not constitute a waiver of the prohibition of concurrent election.? Indeed, whether the Board has waived any objection to a concurrent election should be based on all facts and circumstances of that case.  Accord Percy, 23 Vet. App. at 46 (discussing VA's actions in that case in finding VA had treated the substantive appeal as timely filed). 
+
+Here, although the Board completed the ministerial action of docketing the appeal, unlike the circumstances of Percy, the Board did not continuously "engage in substantive and procedural development" of the appeal.  There were no further communications, no hearing held, no action in which the Veteran would be under the impression that the merits of the case were examined and being developed in any substantive way.  Rather, the Veteran's service connection claim for prostate cancer remained under development at the AOJ level at the time the Veteran filed the September 2024 NOD, and the Veteran has been in receipt of communications in this regard.  Indeed, at the time of the filing of the impermissible concurrent election, the AOJ had issued a January 2024 HLR decision identifying a duty to assist error for which further development was needed.  Further development was then completed when the AOJ obtained a VA opinion pertaining to his pending prostate cancer claim, and a subsequent AOJ decision was issued in December 2024.  Accordingly, the Board finds that there has been no waiver of the prohibition on concurrent election under the facts and circumstances of this case. 
+
+Based on the above, the Board finds dismissal of the attempted appeal appropriate as the January 2024 VA Form 10182 pertaining to prostate cancer was an impermissible concurrent election and no waiver (implicit or explicit) was made. As such, the issue is dismissed.
+
+2. The appeal as to the deferred claim for entitlement to service connection for DM is dismissed.
+
+Within the January 3, 2024, AOJ decision, the AOJ deferred the decision on the issue of entitlement to service connection for DM.  As noted above, the Veteran's September 2024 VA Form 10182 Board Appeal indicates that the Veteran requested an appeal of this issue under the Direct review docket.  As it pertains to DM, however, the January 3, 2024, AOJ decision was not final and did not constitute an adjudicative determination from which a NOD may be filed.  See 38 C.F.R. § 20.201; Shipley v. Shinseki, 24 Vet. App. 458 (2011) (concluding that a deferred rating decision does not constitute an appealable adjudicative action).  Because the January 3, 2024, AOJ decision was not final as to the DM claim, the September 2024 VA Form 10182 Board appeal was premature; therefore, the claim must be dismissed as a matter of law.  38 U.S.C. § 7105.  
+
+Because there is no final agency action, there also is no procedural error in which the Board can consider waiver. Compare Ferko, 37?Vet. App.?262. Accordingly, the appeal as to the deferred claim for entitlement to service connection for DM is dismissed.
+
+3. Entitlement to a compensable disability rating for left wrist scar is denied.
+
+This appeal stems from a September 5, 2023, Intent to File as VA received the Veteran's September 13, 2023, increased rating claim within a year thereof wherein the Veteran contends he should be assigned a compensable disability rating for a left wrist scar.  Relevantly, the Veteran was granted service connection for residual laceration left third finger in 1997 with a noncompensable disability rating assigned under DC 7899-8716.  Within the January 2024 AOJ decision on appeal, however, the Veteran's residual laceration left third finger was recharacterized to left wrist scar rated noncompensable under DC 7802 from September 5, 2023, the date of VA's receipt of his Intent to File.  The Board finds no basis in which to award a higher rating or separate ratings for the period on appeal and, for reasons outlined below, the appeal is denied.  See also 38 C.F.R. § 3.400(o)(2).
+
+At the outset, the Board notes VA amended the criteria for rating skin disabilities effective August 13, 2018.  See 83 Federal Register 32592 (July 13, 2018).  As this regulatory change was enacted prior to the pendency of this appeal, the Board will consider only the amended versions of the rating criteria.
+
+Amended DC 7802 provides rating criteria for burn scars or scars due to other causes, not of the head, face, or neck, that are not associated with underlying soft tissue damage.  A 10 percent disability rating is assigned when the area or areas of the scar covers 144 square inches (929 square centimeters) or greater.
+
+Note (1) to DC 7802 provides that the six zones of the body are defined as each extremity, anterior trunk, and posterior trunk.  The midaxillary line divides the anterior trunk from the posterior trunk.
+
+Note (2) to DC 7802 provides that a separate evaluation may be assigned for each affected zone of the body under this diagnostic code if there are multiple scars, or a single scar, affecting multiple zones of the body.  Combine the separate evaluations under § 4.25.  Alternatively, if a higher evaluation would result from adding the areas affected from multiple zones of the body, a single evaluation may also be assigned under this diagnostic code
+
+Turning to the relevant evidence of record, treatment records during the period on appeal lack any mention of complaints or treatment related to a left upper extremity scar.  
+
+The Veteran was afforded a scar disability benefits questionnaire (DBQ) in October 2023 during which he was noted to have a left inner wrist scar from a laceration that has stayed the same since onset.  The Veteran denied current symptoms.  Treatment, medications, or surgery was noted to be not applicable.  The examiner noted that the Veteran did not have any scars of the extremities that were painful.  The examiner also noted that the Veteran did not have any scars of the extremities that were unstable, with frequent loss of covering of the skin over the scar.  The scar was not due to burns.  The left inner wrist scar measured 3.7 x 0.1 cm.  The scar was not tender to palpation, unstable upon inspection, or associated with underlying soft tissue damage.  The total approximate area without underlying tissue damage was 0.37 square centimeters. 
+
+Based on the above, the Board finds the Veteran's left wrist scar is appropriately rated noncompensable throughout the period on appeal.  As indicated in the October 2023 VA examination, the left wrist scar has not been shown to affect an area of 144 sq. in./929 sq. cm at any point.  Thus, the evidence persuasively weighs against finding a compensable disability rating is warranted under amended DC 7802 during the appeal period.  The Board determines that the Veteran's disability is fully capable of evaluation under the rating schedule. 
+
+The Board has considered the other Diagnostic Codes pertaining to scars.  The scar is not of the head, face, or neck; due to burns; nonlinear; or associated with underlying soft tissue damage rendering DC 7800 and 7801 inapplicable.  DC 7804 does not apply because the Veteran's scar is not unstable or painful.  To this point, the Board finds probative the October 2023 VA examiner's opinion that the left wrist scar was not unstable or painful.  These findings are consistent with the Veteran's lay statements denying any associated symptoms and are further corroborated by treatment records lacking any reference to a painful left wrist scar.  Regarding amended DC 7805, the Board finds that the evidence of record persuasively weighs against the assignment of a compensable rating for the Veteran's scar, as there are no disabling effect(s) not considered in the rating provided under DC 7802 and the remaining Diagnostic Codes regarding scars are not applicable.  
+
+(Continued on the next page)
+
+?
+
+Accordingly, the Veteran's left wrist scar has been appropriately rated noncompensable (0 percent) under DC 7802 throughout the entire period on appeal.  The evidence is persuasively against the claim.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and entitlement to a compensable rating for a left wrist scar is not warranted.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+SHEREEN M. MARCUS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A.C. Allen, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

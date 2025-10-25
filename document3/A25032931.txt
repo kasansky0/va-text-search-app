@@ -1,0 +1,97 @@
+Citation Nr: A25032931
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240424-435630
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for alcohol use disorder is dismissed. 
+
+Entitlement to service connection for a penile deformity is dismissed.
+
+Entitlement to service connection for bilateral hearing loss is dismissed.
+
+REMANDED
+
+Entitlement to service connection for an eating disorder is remanded.
+
+Entitlement to service connection for sleep apnea is remanded.
+
+Entitlement to service connection for a hernia is remanded.
+
+FINDING OF FACT
+
+1. The claims of entitlement to service connection for alcohol use disorder and penile deformity were denied in a December 2022 rating decision; the April 24, 2024, VA Form 10182 was submitted outside the one-year time frame allowed by law and is considered untimely.
+
+2. The claim of entitlement to service connection for bilateral hearing loss was denied in an April 2022 rating decision; the April 24, 2024, VA Form 10182 was submitted outside the one-year time frame allowed by law and is considered late.
+
+CONCLUSION OF LAW
+
+The criteria for dismissal of the claims of entitlement to service connection for alcohol use disorder, penial deformity, and bilateral hearing loss have been met.  38 C.F.R. § 3.2500.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 2020 to September 2021.
+
+These claims come to the Board of Veterans' Appeals (Board) on appeal from a July 2023 and May 2023 Department of Veterans Affairs (VA) regional office (RO) rating decisions.
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the July 2023 and May 2023 agency of original jurisdiction (AOJ) decisions on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding some of the claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+Preliminarily, the Board notes that the Veteran attempted to appeal via the April 24, 2024, VA Form 10182 the December 2022 and April 2022 RO denials of entitlement to service connection for alcohol use disorder, penile deformity, and bilateral hearing loss.  This VA Form 10182 was submitted outside the one-year framework allowed by 38 C.F.R. § 3.2500.  As such, these issues are not for Board consideration at this time and must be dismissed for violation of a claims processing rule.  Hall v. McDonough, 34 Vet. App. 329, 330 (2021); 38 C.F.R. § 20.205.  If the Veteran wishes to revive these claims, he must file a complete claim on the proper form.  See 38 C.F.R. § 3.155.
+
+REASONS FOR REMAND
+
+Under the AMA, pre-decisional duty to assist errors, to include those related to VA examinations, are eligible for remand.  38 C.F.R. § 20.802(a).
+
+1. Entitlement to service connection for an eating disorder is remanded.
+
+2. Entitlement to service connection for sleep apnea is remanded.
+
+The Veteran has not been afforded VA examinations for these alleged disabilities as required by McLendon v. Nicholson, 20 Vet. App. 79 (2006).  The pre-decisional medical evidence shows that the Veteran has been treated for trouble staying asleep throughout the night, purge eating, "regularly overeating to the point of feeling sick or making themselves vomit from eating too much," and "purging type associated with distorted body image" in conjunction with his service-connected psychiatric disability.  See July 2023 CAPRI notes and July 2023 VA Mental Health examination.  Remand is thus required to obtain a secondary VA examination in compliance with 38 C.F.R. § 3.159(c)(4) and McLendon.
+
+3. Entitlement to service connection for hernia is remanded.
+
+The Veteran participated in a May 2023 VA examination to analyze whether his hernia is secondary to his service-connected left knee disability.  The examiner supplied a negative nexus opinion reasoning that these disabilities are "separate...not related due to the nature of the injury...not associated with any heavy lifting that may have possibly cause an inguinal hernia to develop. The Veteran did not complain of a hernia while in service and was not seen for a hernia in service."
+
+In the secondary service connection context, El Amin v. Shinseki, 26 Vet. App. 136, 140 (2013) teaches that causation and aggravation are independent concepts. Given that the examiner couched the reasoning solely through the lens of causation, it violates this precedential caselaw.  The examiner also appears to conflate secondary service connection with direct service connection in the discussion of any lack of treatment in service for the hernia.  Compare 38 C.F.R. § 3.303 with 38 C.F.R. § 3.310.  For these reasons, remand is required to obtain an addendum medical opinion.
+
+The matters are REMANDED for the following action:
+
+Obtain VA addendum opinions and examinations that discuss the nature and etiology of the Veteran's eating disorder, sleep apnea, and hernia.  In regard to hernia only, the need for another examination is left to the discretion of the reviewing examiner.  The examiner must separately address the following questions:
+
+(a)	Eating disorder
+
+a.	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's eating disorder is caused by the Veteran's service-connected psychiatric disability?
+
+b.	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's eating disorder is aggravated by the Veteran's service-connected psychiatric disability?
+
+(b)	Sleep apnea
+
+a.	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's sleep apnea, if so diagnosed, is caused by the Veteran's service-connected psychiatric disability? 
+
+b.	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's sleep apnea, if so diagnosed, is aggravated by the Veteran's service-connected psychiatric disability?
+
+(c)	Hernia
+
+a.	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's hernia is caused by the Veteran's service-connected left knee disability?
+
+b.	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's hernia is aggravated by the Veteran's service-connected left knee disability?
+
+The examiner is reminded that the causation and aggravation prongs of a secondary service connection claim are separate inquiries. Allen v. Brown,?7?Vet. App.?439?(1995). The examiner is also reminded that aggravation of a non-service-connected disability does not require a permanent worsening of the disability. Rather, aggravation in this context is any incremental increase in disability attributable to service-connected disability (i.e., any additional impairment of earning capacity that is above the degree of disability existing before the increase, regardless of its permanence). Ward v. Wilkie,?31?Vet. App.?233?(2019). 
+
+ 
+
+M. C. WILSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Finelli, Christopher
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

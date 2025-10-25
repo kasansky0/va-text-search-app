@@ -1,0 +1,63 @@
+Citation Nr: A25031702
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240308-422867
+DATE: April 7, 2025
+
+REMANDED
+
+Entitlement to a disability rating in excess of 20 percent for left cubital and carpal tunnel syndrome prior to August 29, 2024, and in excess of 30 percent thereafter is remanded.
+
+Entitlement to a disability rating in excess of 30 percent for right cubital and carpal tunnel syndrome prior to August 29, 2024, and in excess of 40 percent thereafter is remanded.
+
+Entitlement to an initial compensable disability rating for a left elbow scar is remanded.
+
+INTRODUCTION
+
+The Veteran served on active duty in the U.S. Marine Corps from October 1992 to November 2001. 
+
+In April 2023, the Regional Office (RO) issued a rating decision which addressed the above-noted issues.  Thereafter, in March 2024, the Veteran submitted a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), wherein he sought to appeal the claims in the Appeals Modernization Act (AMA) System.  He selected the Direct Review option; therefore, the Board may only consider the evidence of record at the time the RO issued the April 2023 rating decision.  38 C.F.R. § 20.301.
+
+However, because the Board is remanding the above-referenced claims, any evidence the Board could not consider will be considered by the RO in the readjudication of those claims.  38 C.F.R. § 3.103 (c)(2)(ii). 
+
+REASONS FOR REMAND
+
+Pursuant to 38 C.F.R. § 20.802, unless an issue on appeal can be granted in full, the Board shall remand the appeal to the agency of original jurisdiction for correction of an error on the part of the agency of original jurisdiction to satisfy its duties under 38 U.S.C. § 5103A, if the error occurred prior to the date of the agency of original jurisdiction decision on appeal.  The Board may remand for correction of any other error by the agency of original jurisdiction in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the appellant's claim.
+
+Under 38 C.F.R. § 3.159 the Department of Veterans Affairs must provide assistance in developing a veteran's claim.  In particular, this regulation requires VA to, at times, obtain a VA examination or medical opinion.  When VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).  The failure to provide the above-noted assistance constitutes a due process violation.
+
+In this case, the Veteran initiated a claim for an increased rating for his left and right upper extremity neurological disorders in September 2022.  At that time, his disabilities were diagnosed as carpal tunnel syndrome.  Following a December 2022 rating decision, the Veteran submitted a supplemental claim in January 2023, followed by a VA Form 21-526EZ in February 2023.  In those documents, the Veteran asserted the RO had not properly evaluated his upper extremity disabilities, as he reported he also experienced carpal tunnel syndrome in his elbows.  The Veteran underwent a VA peripheral nerves examination in February 2023, wherein the examiner indicated the Veteran's bilateral elbow manifestations were attributed to cubital tunnel syndrome.  The examiner further provided an opinion indicating the Veteran's bilateral cubital tunnel syndrome was consequentially related to his service-connected carpal tunnel syndrome.  
+
+The RO then obtained an addendum opinion in April 2023, wherein the examiner explained the Veteran's cubital tunnel syndrome was an entirely separate and distinct disability from his carpal tunnel syndrome.  In the April 2023 rating decision on appeal, the RO confirmed and continued the Veteran's previously assigned disability ratings; however, the RO evaluated the Veteran's disabilities under Diagnostic Code 8516 (applicable to ulnar nerve paralysis), rather than the previously assigned Diagnostic Code 8515 (applicable to median nerve paralysis).  The Board also notes that without obtaining another examination or any further opinions, the RO recently determined increased ratings of 30 and 40 percent for the Veteran's left and right upper extremity neurological disorders was now warranted under Diagnostic Code 8513 (applicable to all radicular nerve group paralysis).  
+
+However, in reviewing the February 2023 examination, the examiner did not provide an opinion as to which nerve or nerve group most appropriately and accurately reflects the Veteran's disability picture.  Indeed, the examiner did not even provide an assessment of any other nerve or nerve group other than her assessment of the Veteran's ulnar nerve.  
+
+In this respect, the Board is cognizant of the note in 38 C.F.R. § 4.124a, which follows the upper extremity peripheral nerve Diagnostic Codes.  This note advises the "combined nerve injuries should be rated by reference to the major involvement, or if sufficient in extent, consider radicular group ratings."  However, when assessing for major involvement, the RO cannot supplant its own judgment when this issue requires sound medical analysis and conclusions.  See Colvin v. Derwinski, 1 Vet. App. 171, 175 (1991).  More specifically, the RO should have obtained a comprehensive examination which detailed the Veteran's complete nerve and/or nerve group involvements, as well as the severity of each nerve or nerve group affected.  
+
+The Veteran has likewise asserted his VA scars examination, which was conducted in February 2023, was flawed as the examiner similarly failed to account for all of his symptoms.  In particular, he stated his arm is aggravated just putting it on the table.  Based on the foregoing pre-decisional duty to assist errors, the Board finds a remand is necessary.
+
+Accordingly, these matters are REMANDED for the following actions:
+
+1.  Afford the Veteran a VA examination by a Neurologist with sufficient expertise to fully assess the severity of the Veteran's service-connected bilateral upper extremity neurological disabilities.  All pertinent evidence of record should be made available to and reviewed by the examiner.  Any indicated studies or tests should be performed.
+
+Ensure the examiner provides all information required for rating purposes.  In this respect, the examiner is asked to provide a detailed report of the manifestations and severity of each upper extremity nerve or nerve group affected by incomplete paralysis, neuralgia, or neuritis.  The examiner should also state whether any impaired nerve or nerve group, other than the median and ulnar nerves, are consequentially related to the Veteran's service-connected carpal and cubital tunnel syndromes.  In particular, the examiner is asked to consider and expressly discuss whether the Veteran's lower, middle, or upper nerve groups are affected by incomplete paralysis, neuralgia, or neuritis.  
+
+If the examiner is unable to conduct the required testing or concludes the required testing is not necessary, he or she should be directed to clearly explain why that is so.
+
+2.  Also, afford the Veteran a VA examination by an examiner with sufficient expertise to fully assess the severity of the Veteran's left elbow surgical scar.  All pertinent evidence of record should be made available to and reviewed by the examiner.  Any indicated studies should be performed.
+
+Ensure the examiner provides all information required for rating purposes.  In this respect, the examiner is asked to provide a complete account of the Veteran's reports of scar "aggravation," and state whether such aggravation is synonymous with scar pain or an unstable scar.  If the examiner is unable to conduct the required testing or concludes that the required testing is not necessary, he or she should be directed to clearly explain why that is so.
+
+ 
+
+ 
+
+T. REYNOLDS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Fraser, Gordon
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

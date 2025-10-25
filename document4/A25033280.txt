@@ -1,0 +1,137 @@
+Citation Nr: A25033280
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240208-414986
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to an earlier effective date prior to August 14, 2023 for the assignment of a 20 percent disability rating for a right knee tendonitis with patellofemoral pain syndrome is denied.
+
+REMANDED
+
+Entitlement to an increased rating in excess of 10 percent for a left knee disability, to include tendonitis with patellofemoral pain syndrome, is remanded.
+
+Entitlement to an increased rating in excess of 20 percent for a lumbar spine disability, to include a degenerative disc disease with laminectomy, IVDS, and spinal fusion) is remanded.
+
+Entitlement to an increased rating in excess of 20 percent for a cervical spine disability, to include degenerative arthritis with intervertebral disc syndrome and spondylosis, is remanded.
+
+FINDING OF FACT
+
+It is not factually ascertainable that, prior to August 14, 2023, the Veteran's right knee extension was limited to 15 degrees or flexion was limited to 30 degrees. 
+
+CONCLUSION OF LAW
+
+The criteria for an earlier effective date prior to August 14, 2023, for the assignment of a 20 percent disability rating for a right knee disability, have not been met. 38 U.S.C. § 5110; 38 C.F.R. §§ 3.400, 4.71a, Diagnostic Code 5024-5261.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from June 1992 to June 1996, in the Army National Guard with active duty service from January 2003 to January 2005, and in the United States Air Force from June 2006 to February 2011.
+
+In September 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of an August 2023 supplemental claim rating decision. In January 2024, the VA Regional Office issued the HLR rating decision on appeal, which considered the evidence of record at the time of the prior August 2023 supplemental claim rating decision. 
+
+In the February 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Based on that docket selection, the Board is limited in its review of the evidence, and may only consider the evidence of record at the time of the August 2023 supplemental claim rating decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the August 2023 rating decision, then Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. Earlier effective date 
+
+Generally, the effective date of an initial rating is the date of receipt of the claim, or the date entitlement arose, whichever is later. 38 U.S.C.§ 5110 (a); 38 C.F.R. § 3.400 (o)(1); see Sutton v. Nicholson, 20 Vet. App. 419, 422 (2006).
+
+The general rule under 38 U.S.C. § 5110 (a) and 38 C.F.R. § 3.400 is that the effective date of an increase in a veteran's disability compensation shall be fixed in accordance with the facts found but shall not be earlier than the date of receipt of application therefor. 38 U.S.C. § 5110 (b)(2) provides an exception to this general rule: "The effective date of an award of increased compensation shall be the earliest date as of which it is ascertainable that an increase in disability had occurred, if application is received within one year from such date." See also 38 C.F.R. § 3.400 (o)(2). Thus, "the plain language of [section] 5110(b)(2)...only permits an earlier effective date for increased disability compensation if that disability increased during the one-year period before the filing of the claim." Gaston v. Shinseki, 605 F.3d 979, 983 (Fed. Cir. 2010). Thus, three possible dates may be assigned depending on the facts:
+
+(1) If an increase in disability occurs after the claim is filed, then the date that the increase is shown to have occurred, whichever is later (date entitlement arose) (38 C.F.R. § 3.400 (o)(1));
+
+(2) If an increase in disability precedes the claim by a year or less, then the date that the increase is factually shown to have occurred (factually ascertainable) (38 C.F.R. § 3.400 (o)(2)); or
+
+(3) If an increase in disability precedes the claim by more than a year, and it is not factually ascertainable that the disability increased within the year prior to the filing of the claim, then the date that the claim is received (date of claim) (38 C.F.R. § 3.400 (o)(2)).
+
+When determining the proper effective date, VA should not assign the date "mechanically" as of the date of an exam. Swain v. McDonald, 27 Vet. App. 219, 224 (2015). Instead, all relevant evidence of record must be considered to determine when an increase in disability is factually ascertainable. Id. 
+
+As an initial matter, the Board must clarify the effective date of the Veteran's right knee disability. In an August 2023 rating decision, the VA Regional Office granted an increased rating of 20 percent for the right knee and initially assigned an effective date of April 4, 2023. The Veteran subsequently requested a HLR of the August 2023 rating decision as to the effective date assigned for the 20 percent rating. In the interim, the VA Regional Office issued a rating decision in September 2023 stating that there was a clear and unmistakable error in assigning an effective date of April 4, 2023 for the 20 percent increase. The VA Regional Office found that the date entitlement arose was August 14, 2023, the date of the VA examination which demonstrated that his right knee extension met the criteria for a 20 percent rating. As accordingly, the VA Regional Office implemented the new effective date while the Veteran's HLR of an August 2023 rating decision was pending at the VA Regional Office. In a January 2024 rating decision, the VA Regional Office denied an earlier effective date prior to August 14, 2023 for the grant of an increased rating of 20 precent for a right knee disability. Based on the foregoing procedural history, the Board finds that effective date to be considered in this current appeal is August 14, 2023.
+
+The Board notes that the Veteran's right knee disability was previously rated under DC 5024-5260 for limitation of flexion prior to August 14, 2023. From August 14, 2023, the Veteran met the criteria for a higher rating under DC 5024-5261, for limitation of extension, and the VA Regional Office changed the diagnostic code in accordance with their rating. 
+
+Hyphenated diagnostic codes are used when a rating under one diagnostic code requires the use of an additional diagnostic code to identify the basis of the rating assigned; the additional code is shown after the hyphen. In this matter, his right knee disability, rated under DC 5024 for tendinitis, is rated under DC 5261 based on limitation of motion.
+
+Under DC 5260, a 20 percent rating is warranted for flexion limited to 30 degrees. 38 C.F.R. § 4.71a, DC 5260. 
+
+Under Diagnostic Code 5261, a 20 percent rating is warranted for extension limited to 15 degrees. 38 C.F.R. § 4.71a, DC 5261.
+
+Upon review of the pertinent evidence, the Board finds that an earlier effective date prior to August 14, 2023 is not warranted. 
+
+The Board notes that he was provided with a VA examination in March 2020, but the Board found that VA examination to be inadequate for rating the Veteran's right knee. See July 2020 Board decision.
+
+The Veteran attended another VA examination in September 2021 which showed that he experienced no limitation of extension during initial range of motion testing. The VA examiner further indicated that he would experience no limitation of extension during repeated use over time or during a flare-up. He attended another VA examination on August 14, 2023 which showed that his right knee extension was limited at 15 degrees during repeated use over time. 
+
+The Board acknowledge that the Veteran's right knee disability was previously rated under DC 5240-5260 for limitation of flexion. Even considering his right knee disability under DC 5260, a September 2021 VA examination showed that his right knee flexion was limited at 130 degrees with no additional loss in range of motion during repeated use over time or during a flare-up. Similarly, an August 2023 VA examination showed that his right knee flexion was limited at 130 degrees. Full leg flexion is generally considered to be to 140 degrees. He also did not experience any additional loss in range of motion during repeated use over time. As such, the Board finds that the objective medical evidence still does not support a 20 percent disability rating under DC 5260.
+
+Accordingly, the Board finds that it is not factually ascertainable that his right knee disability underwent an increase in severity within a year or less prior to his increased rating claim received on April 4, 2023. Moreover, the evidence received more than a year prior to the date of his claim does not show that his right knee disability met the criteria for a 20 percent disability rating. Thus, an earlier effective date prior to April 4, 2023 is not warranted. 
+
+As the August 14, 2023 VA examination first demonstrated that his right knee extension was limited to 15 degrees, the VA Regional Office's assignment of an effective date based on the date of the VA examination is proper because it is the date the disability first met the criteria for the assignment of a 20 percent rating. 
+
+The Board acknowledge the Veteran's attorney's argument that an earlier effective date is warranted based on the Veteran's continuous pursuit of his claim. 
+
+Continuous pursuit of a claim or an issue can be achieved by timely and properly filing an appropriate review option, generally within one year of an AMA decision. 38 C.F.R. § 3.2500 (c). If a claim is continuously pursued, it will be considered filed as of the date of the first claim in the continuously pursued chain, not the date the most recent request for review was received. 38 C.F.R. §§ 3.400, 3.2500(c). A supplemental claim must be filed within one year after a final decision or the date entitlement arose. 38 C.F.R. § 3.2500 (h). 
+
+However, the term "continuous pursuit" only applies to AMA decisions. Specifically, when a claim filed under AMA is granted in an initial decision, the effective date of an AMA initial decision will be the later of the date of the supplemental claim, or the date of entitlement. Thus, even if a supplemental claim is received within one year of a legacy decision, the date of receipt of the supplemental claim will be considered the date of claim for effective date purposes. 38 C.F.R. §§ 3.2500 (h), 3.2500 (f). In the event there were an AMA opt-in from an SOC or SSOC, the resulting AMA decisions (either by the AOJ or Board) would be issued in the AMA. Therefore, only the decisions under the AMA, not the claims before the AMA opt-in, would be subject to continuous pursuit. Id. 
+
+In this current matter, the Veteran filed an intent to file on May 18, 2015 seeking an increased rating for his right knee disability. The Veteran pursued his claim under the legacy appeal system until February 2020 when he filed a VA Form 20-0995 supplemental claim and opted in to the Appeals Modernization Act (AMA) via a December 2019 statement of the case. His increased rating claim for his right knee was denied in an April 2020 rating decision, and he filed a VA Form 10182 appealing it to the Board in July 2020. In July 2022, the Board remanded the claim finding that the March 2020 VA examination was inadequate. The Veteran was subsequently provided with another VA examination and his claim was again denied in a March 2023 rating decision. The Veteran then filed an April 4, 2023 VA Form 20-0995 Supplemental Claim seeking to readjudicate the March 2023 rating decision. In August 2023, the VA Regional office issued a supplemental claim rating decision to which the Veteran requested a HLR essentially resulting in the current appeal before the Board. 
+
+Based on the foregoing procedural history, the earliest effective date could be up to one year prior to February 17, 2020, the date the Veteran filed the initial VA Form 20-0995 supplemental claim provided that the criteria for a 20 percent rating were factually ascertainable one year prior this date. 38 U.S.C. § 5110 (b)(3); 38 C.F.R. § 3.400 (o). 
+
+Unfortunately, the evidence of record does not indicate that a 20 percent rating is factually ascertainable prior to February 17, 2020. As indicated in a December 2019 VA examination, the Veteran's right knee flexion was limited to 90 degrees and his extension was not limited. He was able to perform repetitive-use testing with three repetitions with no additional loss in range of motion. The VA examiner further indicated that he experienced no further loss in range of motion during repeated use over time but only increased symptoms. The Veteran also did not experience any pain, weakness, fatigability, or incoordination during a flare-up.
+
+In conclusion, the Board finds that the evidence persuasively weighs against an earlier effective date prior to August 14, 2023 for a grant of a 20 percent disability for a right knee disability. As such, his claim must be denied. 
+
+REASONS FOR REMAND
+
+1. Left knee disability to include tendonitis with patellofemoral pain syndrome 
+
+2. Lumbar spine disability, to include a degenerative disc disease with laminectomy, IVDS, and spinal fusion)
+
+3. Cervical spine disability, to include degenerative arthritis with intervertebral disc syndrome and spondylosis
+
+The Board finds that the matter must be remanded to correct a pre-decisional duty to assist error that occurred prior to the August 2023 rating decision which was subjected to a higher-level review in January 2024. 
+
+The Board notes that the issue of an increased rating for a left knee, lumbar spine, and cervical spine disability was previously remanded in July 2022 to obtain an adequate VA examination for these disabilities. Specifically, the Board found the March 2020 VA examination was inadequate because the VA examiner indicated that the Veteran reported having flare-ups of his knees but did not attempt to elicit information form the Veteran as to how much additional range of motion loss would occur during a flare-up. 
+
+Upon remand, the Veteran was scheduled to attend a VA examination in January 2023; however, he missed the VA examination due to being immobile. See March 2023 VA 27-0820. He was subsequently scheduled for a VA examination in August 2023 for his left knee, lumbar spine, and cervical spine disability. However, the Board finds that the August 2023 VA examinations does not comply with the prior Board remand.
+
+Although he did not report having flare-ups during the August 2023 VA examinations for his left knee, lumbar spine, and cervical spine, the evidence of records clearly indicates that he experiences flare-ups of the left knee, lumbar spine, and cervical spine. 
+
+Specifically, in a February 2020 statement in support of claim, the Veteran reported having flare-ups of his left knee which occurred a few times a year for a day or two, tops. He reported that walking was impossible during a flare-up and that his flare-ups made it impossible for him to go up stairs. He further reported having difficulty with lifting his own body weight. He is also unable to flex the joints and states that it is "locked."
+
+The Veteran further reported having flare-ups of his cervical spine which occurred a few times yearly or maybe quarterly. See February 2020 VA Form 21-4138 Statement in Support of Claim. He reported that his flare-ups last a minimum of a week and is awfully slow to resolved. He reported difficulty with turning his head and moving his arm due to pain. Id. He is also unable to look up or down and is severely limited on side-to-side movements. He stated that these difficulties last a week or longer during flare-ups. Id. He also reported using maximum dosage nerve inhibitors to alleviate his symptoms. Id.
+
+He also reported having flare-ups of the lumbar spine which occurred occasionally and are debilitating. See February 2020 VA Form 21-4138 Statement in Support of Claim. He reported that the flare-ups occurred at least once or twice a month and lasted as little as day to a week or longer. He stated that his flare-ups significantly limited his ability to function or perform daily tasks because it makes it impossible to do much without any assistance. During a flare-up, he is unable to stand for a long time or sit in certain positions. At worst, he is unable to drive, walk, or stand for a long time or do much of anything else. He is unable to do any yard work or housekeeping activities. He further states that he needs to use a cane to move around during a flare-up. He also stated that his ability to bend forward or backwards is further limited during flare-ups. In order to alleviate his symptoms, he relies on medicine, rest, heating pads, etc. He also reported being on the maximum dosage of a prescription nerve inhibitor and takes a muscle relaxer daily. 
+
+Although the Board previously found the March 2020 VA examination for his left knee, lumbar spine, and cervical spine disability to be inadequate, the Veteran reported having flare-ups of the left knee, lumbar spine, and cervical spine. Similarly, he reported having flare-ups of these disabilities in a September 2021 VA examination. 
+
+Based on the foregoing evidence, the Board finds that the Veteran's medical and lay statements demonstrates that he experiences flare-ups of his left knee, lumbar spine, and cervical disability. However, in the August 2023 VA examinations for the Veteran's disabilities, the VA examiner indicated that he did not report any flare-ups and, therefore, did not estimate whether he experienced any additional loss in range of motion for each disability. Thus, the Board finds that the August 2023 VA examinations appear to be wholly inconsistent with the evidence of record regarding the Veteran's report of flare-ups. 
+
+Moreover, the August 2023 VA examination also does not comply with the prior Board remand to obtain an VA examination that complies with the requirements in Sharp v. Shulkin, 29 Vet. App. 26, 34-36 (2017). Specifically, the August 2023 VA examiner did not attempt to elicit information from the Veteran as to how much additional range of motion loss occurs during flare-ups based on information procured from relevant sources, including lay statements of Veterans. 
+
+Based on the foregoing reasons, the Board finds that a remand is warranted to obtain an adequate VA examination for the Veteran's left knee, lumbar spine, and cervical spine disability. 
+
+These matters are REMANDED for the following action:
+
+1. Schedule the Veteran for an examination for his left knee, lumbar spine, and cervical spine disability to determine the current severity of his disabilities. 
+
+The examiner must test the Veteran's active motion, passive motion, and pain with weight-bearing and without weight-bearing. The examiner must also attempt to elicit information regarding the severity, frequency, and duration of any flare-ups, and the degree of functional loss during flare-ups.
+
+If it is not possible to provide a specific measurement, or an opinion regarding flare-ups, symptoms, or functional impairment without speculation, the examiner must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), a deficiency in the record (additional facts are required), or the examiner (does not have the knowledge or training). At the very least, the examiner should attempt to provide an estimate based on the Veteran's self-reported history.
+
+NEW:  In addition to the above testing, the examiner should also address any ameliorative effects of medications (e.g., allowing greater range of motion than without the use of medications). If the medications allow for greater range of motion, estimate, in degrees, what the Veteran's range of motion would be without the ameliorative effects of the medication in each of the positions above.
+
+ 
+
+M. Tenner
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Xiong
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

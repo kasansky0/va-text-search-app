@@ -1,0 +1,93 @@
+Citation Nr: A25032907
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 220211-502853
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to Post-9/11 GI Bill (Chapter 33) educational assistance benefits at the 100 percent rate is granted.
+
+FINDING OF FACT
+
+The Veteran served on active duty for over 30 continuous days, and was discharged from service due to service-connected disability.
+
+CONCLUSION OF LAW
+
+The criteria for establishing entitlement to Chapter 33 educational assistance benefits at the 100 percent rate have been met.  38 U.S.C. §§ 3311, 3313; 38 C.F.R. §§ 21.9505, 21.9520, 21.9641.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active duty service as a member of the Wisconsin Army National Guard from February 2010 to June 2010 and February 2012 to February 2013.
+
+The administrative decision on appeal was issued by the agency of original jurisdiction (AOJ) in November 2021.  The Veteran requested Higher-Level Review of that decision, which was issued in December 2021.  In a timely VA Form 10182 (Decision Review Request: Board Appeal) received in September 2022, the Veteran elected the Evidence Submission docket for this appeal.  Therefore, the Board may consider only the evidence in the record at the time of the initial AOJ decision on appeal, as well as any evidence submitted by the Veteran with, or within 90 days from receipt of, the VA Form 10182.  See 38 C.F.R. § 20.303.
+
+Entitlement to Post-9/11 GI Bill (Chapter 33) educational assistance benefits at the 100 percent rate
+
+At the outset, the Board notes that entitlement to Chapter 33 education benefits is not at issue, as eligibility has been established.  The issue on appeal here concerns the rate of payment of Chapter 33 benefits to which the Veteran is entitled.  
+
+The amount of educational assistance benefits payable under Chapter 33 is calculated in accordance with a table measuring the aggregate length of creditable active duty service after September 10, 2001. 38 U.S.C. §§ 3311(b)(3), 3313; 38 C.F.R. § 21.9640.  The percentage of maximum amounts payable is as follows:
+
+Aggregate length of creditable active duty service after September 10, 2001	Percentage of maximum amounts payable
+
+at least 90 days, but less than 6 months
+
+(i.e., 90-179 days)	50 percent
+
+at least 6 months, but less than 18 months
+
+(i.e., 180-544 days)	60 percent
+
+at least 18 months, but less than 24 months
+
+(i.e., 545-729 days)	70 percent
+
+at least 24 months, but less than 30 months
+
+service (i.e., 730-909 days)	80 percent
+
+at least 30 months, but less than 36 months (i.e., 910-1094 days)	90 percent
+
+at least 36 months (i.e., 1095 days or more)	100 percent
+
+A 100 percent rate may also be awarded where there is at least 30 continuous days of creditable active duty service and a discharge due to a service-connected disability.  38 C.F.R. § 21.9641(a).
+
+Creditable active duty service does not include a period of Selected Reserve service used to establish eligibility under 10 U.S.C. § 1606 or § 1607.  38 C.F.R. § 21.9505(4).
+
+In this case, the Veteran used his period of active duty service from February 2010 to June 2010 to establish eligibility for Chapter 1606 education benefits and is therefore not creditable for Chapter 33 benefits.  His only other period of active duty service, from February 2012 to February 2013, lasted 374 days, which corresponds to the 60-percent rate.  
+
+The Veteran does not dispute the length of creditable active duty service; rather, he asserts that he is entitled to the 100-percent rate because he served more than 30 continuous days and was discharged due to a service-connected disability.
+
+The record reflects that, in June 2012, while on active duty, the Veteran injured his right knee and tore the meniscus.  In February 2013, the Veteran's period of active duty concluded, and he was issued a DD Form 214.  The character of service was listed as honorable; the type of separation was listed as release from active duty; and the narrative reason for separation was completion of required active service.
+
+Upon return from deployment in 2013, the Veteran was referred to an orthopedic doctor.  In August 2013, an official determination was made that the injury occurred in line of duty.  Following his period of active duty, the Veteran began physical therapy at a VA medical center and eventually underwent a meniscectomy surgery in July 2014.  
+
+In December 2014, the Veteran received notice that his right knee disability caused him to no longer meet medical retention standards, and that he would be discharged from the Wisconsin Army National Guard.  He was separated from the National Guard in January 2015.  In February 2015, VA granted service connection for the right knee disability.  
+
+In a November 2021 written statement, the Veteran asserted that his medical discharge from the National Guard took more than a year due to the attempted rehabilitation, decision to undertake surgery, and recovery and rehabilitation after the surgery.  
+
+After careful review of the evidence of record, the Board finds the exception for Chapter 33 benefits regarding a veteran with 30 days of active service and a discharge due to service-connected disability is applicable to the Veteran in this case.
+
+First, the Board recognizes that the Veteran's DD Form 214 for this period of service does not indicate that he was released from active duty due to disability.  It states that the Veteran was released from active duty in February 2013 due to completion of required active service, a period of one year and eight days. 
+
+However, the record is clear that the Veteran was discharged from the Wisconsin Army National Guard due to the right knee disability, which VA has found to be service-connected.  That is, although he was discharged from the Wisconsin Army National Guard in January 2015, the Veteran's right knee disability preceded his discharge from active service, has been recognized by VA as being due to his service, and was noted to be the reason he no longer met medical retention standards.
+
+It is not explicitly stated in the Chapter 33 law or regulations that authorization to determine whether a discharge is due to service-connected disability is limited to the Department of Defense.  Specifically, the provision regarding basic eligibility for Chapter 33 benefits based on 30 continuous days of active service due to a service-connected disability is silent as to the source of the authority for determining whether the individual is discharged due to a service-connected disability.  38 C.F.R. § 21.9520(b).  In contrast, the regulations elsewhere impose a limitation that a "hardship" determination must be made by the Secretary of the appropriate military department regarding establishing basic eligibility for Chapter 33 educational assistance benefits.  38 C.F.R. § 21.9520(a)(5).  The Secretary concerned is given sole authority to determine if the discharge was due to hardship.  This implies that such a limitation is not intended where it is not stated.  
+
+Accordingly, the Board finds that the law and regulations support VA's legal right to determine if a discharge is due to a service-connected disability for purposes of establishing entitlement to payment of Chapter 33 educational assistance benefits at the 100 percent rate.  In a larger context, this finding is consistent with the overall statutory framework, which gives VA the primary authority to determine entitlement to service connection.
+
+Therefore, the Board finds the evidence of record sufficient to meet the requirements of the Chapter 33 exception for establishing payment at the 100 percent rate.  The Veteran served at least 30 continuous days of creditable active duty service, from February 2012 to February 2013.  He incurred his right knee disability while on active service, and was subsequently discharged from National Guard service due to this same right knee disability.  With resolution of reasonable doubt in favor of the Veteran, the Board finds that for the purposes of establishing eligibility for Chapter 33 education benefits, the Veteran's release from service was due to a service-connected disability, and he is entitled to payment of Chapter 33 education benefits at the 100 percent rate.
+
+ 
+
+ 
+
+M. HYLAND
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Josey, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,147 @@
+Citation Nr: A25033687
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240415-430806
+DATE:  April 10, 2025
+
+ORDER
+
+Entitlement to a compensable rating for migraine and tension headaches is denied.
+
+Entitlement to a rating greater than 50 percent for residuals of traumatic brain injury, evaluated together with service-connected major depressive disorder (MDD), adjustment disorder with anxiety, and posttraumatic stress disorder (PTSD), is denied.
+
+Entitlement to a compensable rating for allergic rhinitis is denied. 
+
+FINDINGS OF FACT
+
+1. At no time during the appeal period has the Veteran's migraine headaches been productive of characteristic prostrating attacks.
+
+2. At no time during the appeal period has the Veteran's psychiatric symptoms been manifest by more than occupational and social impairment with reduced reliability and productivity due to such symptoms as anxiety, chronic sleep impairment, disturbances of motivation and mood, and difficulty in establishing and maintaining effective work and social relationships.
+
+3. At no time during the appeal period has the Veteran's allergic rhinitis manifested in nasal polyps, a greater than 50 percent obstruction of the nasal passage on both sides, or complete obstruction on one side.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a compensable rating for migraine and tension headaches have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.124a, Diagnostic Code 8100.
+
+2. The criteria for a rating greater than 50 percent for residuals of traumatic brain injury with MDD, adjustment disorder with anxiety, and PTSD have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.124a, 4.126, 4.130, Diagnostic Codes 8045-9440.
+
+3. The criteria for a compensable disability rating for allergic rhinitis have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.1, 4.3, 4.7, 4.97, Diagnostic Code 6522.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Army from January 2018 to May 2021.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from October 2023 and April 2024 rating decisions issued by a Department of Veterans Affairs (VA) Agency of Original Jurisdiction (AOJ) that continued noncompensable ratings for the Veteran's migraine and tension headaches and allergic rhinitis and continued a 50 percent rating for the Veteran's residuals of a TBI together with service connected MDD, adjustment disorder with anxiety and PTSD. 
+
+In the notice of disagreement (NOD) (VA Form 10182) received in April 2024, the Veteran elected the direct review docket. Therefore, the Board may only consider evidence that was on file at the time of the rating decisions on appeal. The NOD shows that the Veteran also appealed an August 2021 rating decision that granted service connection for migraines assigning an initial 0 percent rating, and an October 2021 rating decision that granted service connection for TBI assigning an initial 0 percent rating. However, as the April 2024 NOD was filed more than one year after these rating decisions were issued, it was not timely filed with respect to these decisions. Therefore, these rating decisions have not been perfected for appellate view and are not properly before the Board at this time. See 38 C.F.R. §20 203(b). 
+
+Evidence was added to the claims file during a period when new evidence was not allowed, including VA treatment records, a VA contract PTSD examination report in May 2024, VA contract headache and TBI examination reports in June 2024, and a VA contract sinusitis/rhinitis examination in December 2024. As the Board is deciding the claims noted above, it may not consider this evidence in its decision. 38 C.F.R. § 20.300. The Veteran may file a Supplemental Claim and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+I. Compensable Rating for Migraine Headaches
+
+Rating Criteria
+
+The Veteran's migraine and tension headaches are currently evaluated under 38 C.F.R. § 4.214a, Diagnostic Code 8100. Under Diagnostic Code 8100, a noncompensable rating is warranted for migraines with less frequent attacks. A 10 percent rating is warranted for migraines with characteristic prostrating attacks averaging one in two months over the last several months. A 30 percent rating is warranted for characteristic prostrating attacks occurring on an average of once a month over the last several months. A maximum 50 percent rating is warranted for very frequent completely prostrating attacks productive of severe economic inadaptability. 38 C.F.R. § 4.124a.
+
+The rating criteria of Diagnostic Code 8100 are considered successive, meaning that a claimant cannot fulfill the criteria of the higher rating without fulfilling those of the next lower rating. Johnson v. Wilkie, 30 Vet. App. 245, 252 (2018). This renders 38 C.F.R. §§ 4.7 and 4.21 inapplicable. Johnson, 30 Vet. App. at 252.
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under Diagnostic Code 8100 to describe the nature and severity of migraines, but it is not defined in the regulation. Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness." Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+In Johnson v. Wilkie, 30 Vet. App. 245, 252 (2018), the United States Court of Appeals for Veterans Claims (Court) decided that "the phrase 'characteristic prostrating attacks' plainly describes migraine attacks that typically produce powerlessness or a lack of vitality."
+
+In Holmes v. Wilkie, 33 Vet. App. 67 (2020), the Court held that Diagnostic Code 8100 contemplates all migraine symptoms. Therefore, to evaluate migraines under Diagnostic Code 8100, VA must consider all symptoms experienced due to migraine attacks and then rate the symptoms based on the frequency, duration, and economic impact of those attacks. The Court commented that this analysis is similar to that used to assign ratings for psychiatric disabilities under 38 C.F.R. § 4.130.
+
+Facts and Discussion
+
+A November 2023 VA nurse telephone note shows that the Veteran reported that his tension headaches had gotten worse, and he was seeing dots. He requested that he be seen for his TBI. 
+
+A November 2023 VA outpatient record shows that the Veteran was seen for a follow up for TBI. He complained at that time of daily headache exacerbated by light and heat, as well as "a lot of tension and pain in my neck". He was noted to be taking Ibuprofen, 600 mgm, and sumatriptan once a day for neck pain and headache. Also noted was manageable dull headache after sumatriptan and nonsteroidal anti-inflammatory (NSAID) medication. The examiner relayed the Veteran's report that he recently quit his job due to an inability to tolerate heat in power plants and papermills where he worked sealing pipe leaks. He was given an impression of mild TBI with headaches, migraines, and questionable cervicogenic headache with daily recurrences often triggered by light/heat and improved with sumatriptan (25 mgm) and ibuprofen (600 mgm). He was also noted to be taking nortriptyline (20 mgm) which helped with sleep but not headaches. 
+
+The Veteran was assessed during a primary care follow up visit in December 2023 as having chronic headaches that were intractable with nortriptyline and Imitrex as needed. 
+
+A January 2024 VA telehealth progress note shows that the Veteran's headaches varied from dull throbbing pain triggered by stress, working outdoors and neck pain, to more intense headaches associated with light/noise sensitivity and tinnitus for which he took topiramate (25 mgm). The progress note additionally shows that the Veteran had not taken sumatriptan lately as he had had fewer migraines since quitting his job, reporting less stress and physical exertion. The note also shows that the Veteran was talking with a Veteran Readiness and Education (VRE) counselor to try to determine whether to return to work and/or school. He was assessed as having migraines and probable cervicogenic headache-daily tension headache and weekly migraine. He was noted to be amenable to an increase in topiramate to 50 mgm, and he took NSAID or sumatriptan, 25 mgm, for abortive treatment with improvement.
+
+The Veteran reported at a VA contract headache examination in April 2024 that he gets three headaches a week that last four to six hours in duration. He said the pain occurs in the frontal region, occurs on both sides of the head, and is pulsating or throbbing. He also said the headaches are associated with light and sound sensitivity. He reported that he takes topiramate and nortriptyline as needed. The examiner stated that the Veteran does not have characteristic prostrating attacks of migraine/non-migraine headache pain and does not have completely prostrating and prolonged attacks of migraines/non-migraine pain. The examination report defines "prostrating" as "causing extreme exhaustion, powerlessness, debilitation or incapacitation with substantial inability to engage in ordinary activities". The examiner also stated that the Veteran does not have any other pertinent physical findings, complications, conditions, signs or symptoms related to the condition. He added that the condition does not impact the Veteran's ability to work. 
+
+After careful consideration of the evidence of record, the Board finds that the evidence persuasively weighs against finding that the Veteran's migraine and tension headaches are entitled to a compensable rating. 
+
+As the evidence outlined above shows, the Veteran experiences headaches of various types, frequencies, and severity. While his migraines are shown to be more intense than his other headaches and were noted in a January 2024 VA telehealth progress note to occur on a weekly basis, the evidence does not persuasively show that they meet the criteria for a higher, compensable rating. In this regard, after examining the Veteran, considering his medical history, and considering his reported headache symptoms and frequency, the April 2024 examiner found that the Veteran did not have characteristic prostrating attacks of migraine/non-migraine headache pain, and he did not have completely prostrating and prolonged attacks of migraines/non-migraine pain. That is, the examiner concluded that the Veteran's migraines are not of sufficient severity as to "caus[e] extreme exhaustion, powerlessness, debilitation or incapacitation with substantial inability to engage in ordinary activities". Moreover, the Veteran reported during the January 2024 telehealth appointment that he had had fewer migraines since quitting his job due to less stress and physical exertion and he was taking less medication. 
+
+While the Veteran is competent to give evidence about what he observes or experiences including his symptoms, see, e.g., Layno v. Brown, 6 Vet. App. 465 (1994), his belief that his headache symptoms constitute characteristic prostrating attacks thus entitling him to a higher rating is outweighed by the medical findings discussed above and on VA's Schedule for Rating pertaining to migraine headaches.
+
+In reaching the above decision, the Board considered the doctrine of reasonable doubt; however, as the evidence persuasively weighs against the Veteran's claim, the doctrine does not apply. 38 U.S.C. § 5107(b); 38 C.F.R. § 4.3; Lynch v McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+?
+
+II. Rating Greater than 50 percent for Residuals of TBI/MDD/Adjustment Disorder with Anxiety/PTSD
+
+Rating Criteria
+
+This service-connected disability is rated under the General Rating Formula for Mental Disorders, 38 C.F.R. § 4.130, Diagnostic Code 8045-9440. Hyphenated diagnostic codes are used when a rating under one code requires use of an additional diagnostic code to identify the basis for the rating, with the first code representing the underlying condition and the second code representing the residuals. 38 C.F.R. § 4.27. The Board will address whether a higher rating is warranted under all potentially applicable diagnostic codes.
+
+The General Rating Formula for rating mental disorders is as follows:
+
+A 50 percent rating is assigned for occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short- and long-term memory (e.g., retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; difficulty in establishing and maintaining effective work and social relationships.
+
+A 70 percent rating is assigned for occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work like setting); inability to establish and maintain effective relationships.
+
+A 100 percent rating is assigned for total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; memory loss for names of close relatives, own occupation, or own name.
+
+The symptoms associated with each rating in 38 C.F.R. § 4.130 are not intended to constitute an exhaustive list; rather, they serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating. See Mauerhan v. Principi, 16 Vet. App. 436, 442 (2002). Thus, the evidence considered in determining the level of impairment under 38 C.F.R. § 4.130 is not restricted to the symptoms provided in the DC. See Id. VA must consider all symptoms of a veteran's disorder that affect his or her occupational and social impairment. See Id. at 443. If the evidence demonstrates that a veteran has symptoms or effects that cause occupational or social impairment equivalent to what would be caused by the symptoms listed in the DC, the appropriate, equivalent rating will be assigned. Id. In this regard, VA shall consider the frequency, severity, and duration of psychiatric symptoms, the length of remissions, and a veteran's capacity for adjustment during periods of remission. 38 C.F.R. § 4.126. Although VA considers the level of social impairment, it does not assign an evaluation based solely on social impairment. Id. VA must consider all the Veteran's symptoms and resulting functional impairment as shown by the evidence in assigning the appropriate rating and will not rely solely on the examiner's assessment of the level of disability at the moment of examination. See Id.
+
+Diagnostic Code 8045 provides that TBI is rated based on 10 separate facets in three main categories of dysfunction: cognitive; emotional/behavioral; and physical. See 38 C.F.R. § 4.124a. The 10 facets are (1) memory, attention, concentration, executive functions; (2) judgment; (3) orientation; (4) communication; (5) social interaction; (6) visual spatial orientation; (7) neurobehavioral effects; (8) motor activity (with intact motor and sensory system); (9) subjective symptoms; and (10) consciousness. Each facet is assigned a level of 0, 1, 2, 3, or total that corresponds to a rating based on the highest facet level. The level of impairment for each facet is determined by the criteria listed at the table titled "Evaluation of Cognitive Impairment and Other Residuals of TBI not Otherwise Classified" at Diagnostic Code 8045. When the highest facet is a level 0, a 0 percent rating is warranted. When the highest facet is a level 1, a 10 percent rating is warranted. When the highest facet is a level 2, a 40 percent rating is warranted. When the highest facet is a level 3, a 70 percent rating is warranted. When the highest facet is total, a 100 percent rating is warranted. Distinct, comorbid conditions are to be rated under an appropriate Diagnostic Code. All remaining residuals are rated under Diagnostic Code 8045.
+
+When disabilities have duplicative or overlapping symptoms, the rule against pyramiding prohibits VA from compensating the Veteran more than once for the same symptom or impairment. 38 C.F.R. § 4.14; Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994); Lyles v. Shulkin, 29 Vet. App. 107 (2017).
+
+Facts and Discussion
+
+Psychiatric symptoms noted on an April 2024 VA contract mental health examination report include depressed mood, anxiety, chronic sleep impairment, mild memory loss, and disturbance of motivation and mood. Mental Status findings show that the Veteran was alert and oriented in all spheres. They also show he was well groomed with good hygiene and was interactive throughout the entire evaluation with adequate eye contact. His thought processes were intact with no history or current evidence of audio or visual hallucinations and/or delusions. Speech was normal in rate, rhythm and volume. There was no evidence of psychomotor agitation/retardation. The Veteran's affect was congruent with stated mood. Dysphoric symptoms were not present, and the Veteran's insight and judgement were fair. He reported that he had been married to his spouse for five years and was close to his dad and his brothers. He said he did not have any children. He also said he did not speak to his biological mother who he said was abusive in his childhood and he did not have any friends who he socialized with, explaining that going out was expensive and he had limited disposable income as he was fixing his home. He said he had worked for approximately seven years after leaving the military and had been disappointed by every employer he had. He added he was not currently employed, but he was in a two-year VRE program training to be a diesel mechanic. 
+
+An April 2024 VA contract TBI examination report shows that the Veteran had no complaints of impairment in memory, attention, concentration or executive functions. The report also shows he had normal judgment, social interaction that was routinely appropriate, normal motor activity, and normal visual spatial orientation. His subjective symptoms are shown as headaches, including migraine headaches. The examiner noted the Veteran's subjective symptoms did not interfere with work; instrumental activities of daily living; or work, family or other close relationships. In addition, there were no neurobehavioral effects, and he had normal consciousness. He was able to communicate by spoken and written language and comprehend spoken and written language. The examiner remarked that there were no other pertinent findings, complications, conditions, signs and/or symptoms. He added that the Veteran's treatment plan did not include continuous medication, and that residuals of the Veteran's TBI did not impact his ability to work.
+
+Turning to the General Rating Formula for rating mental disorders under 38 C.F.R. §4.130, there is no indication from the April 2024 examination report or from any other evidence pertinent to the appeal period that the Veteran satisfies the criteria for a 70 percent rating. In this regard, the Veteran was not found have suicidal ideation, obsession rituals which interfere with routine activities, speech intermittently illogical, obscure or irrelevant, near-continuous panic attacks or depression affecting the ability to function independently, appropriately and effectively, impaired impulse control, spatial disorientation, neglect of personal appearance and hygiene, difficulty in adapting to stressful circumstances, or an inability to establish and maintain effective relationships. 
+
+Socially, the Veteran reported that he did not socialize with friends, but he explained that socializing is expensive, and he had limited disposable income as he was fixing his house. He did not attribute his lack of socializing to his psychiatric symptoms. The facts also show that the Veteran has been married for five years and is close to his dad and brothers. Thus, he has not demonstrated an inability to establish and maintain effective relationships. In terms of occupational impairment, as noted, the Veteran reported that he was unemployed and was in a two-year VRE training program to become a diesel mechanic.
+
+Also, the April 2024 examiner assessed that the Veteran's occupational and social impairment as productive of reduced reliability and productivity which is consistent with a 50 percent rating under VA's rating schedule. As noted, while not determinative of the Veteran's level of social and occupational impairment, this assessment warrants consideration. 38 C.F.R. § 4.126. 
+
+In consideration of the foregoing, the Board finds that the evidence is persuasively against the criteria for a 70 percent rating requiring occupational and social impairment with deficiencies in most areas such as work and family relations at any point during the appeal period. 38 C.F.R. §4.130, Diagnostic Codes 9411, 9434, 9440.
+
+The Board also finds that the evidence is persuasively weighs against a finding that the disability warrants a higher, 70 percent, rating under DC 8045, or the assigment of a separate compensable rating under DC 8045 or other appropriate diagnosed code. This is based on findings from the April 2024 VA contract TBI examination showing a level 0 for all the facets to include impairment for memory, attention, concentration, executive functions, judgment, social interaction, orientation (including visual spatial orientation), neurobehavioral functioning, communication, and consciousness. As explained above, a noncompensable rating is warranted when the highest facet level is 0. 38 C.F.R. §4.124a, Diagnostic Code 8045. Also, with respect to the Veteran's one subjective complaint of tension and migraine headaches, he is separately rated for his headaches, so all the symptoms associated with the headaches are also already separately compensated. Thus, those symptoms cannot also be used to assign a separate, compensable rating under Diagnostic Code 8045 without violating VA's rule against pyramiding. 38 C.F.R. § 4.14. 
+
+The Veteran's belief that this disability warrants a higher rating has been considered; however, his lay assertions are not considered more persuasive than the objective medical findings which, when evaluated according to the prescribed rating schedule, do not support assigning a higher than 50 percent rating at any point pertinent to this appeal.
+
+For the foregoing reasons, the Board finds that the overall disability picture of the Veteran's residuals of TBI and MDD, adjustment disorder with anxiety and PTSD does not more nearly approximate the criteria for a 70 percent rating requiring occupational and social impairment with deficiencies in most areas such as work and family relations, at any point from the date of grant of service connection. As the evidence is persuasively against this claim and is not in approximate balance, the benefit of the doubt rule does not apply and the claim for an initial rating greater than 50 percent for this disability must be denied. 38 U.S.C. §5107(b); Lynch, 21 F. 4th at 776.
+
+III. Compensable Rating for Allergic Rhinitis
+
+Rating Criteria
+
+Under Diagnostic Code 6522, a 10 percent disability rating is assigned for allergic rhinitis without polyps, but with greater than 50 percent obstruction of nasal passage on both sides or complete obstruction on one side. A maximum 30 percent disability rating is assigned for allergic rhinitis with polyps. 38 C.F.R. § 4.97.
+
+Where, as here, the schedule does not provide a zero percent evaluation for a diagnostic code, a zero percent evaluation is assigned when the requirements for a compensable rating are not met. 38 C.F.R. § 4.31.
+
+Facts and Discussion
+
+The Veteran was diagnosed at a VA respiratory examination in October 2023 as having allergic rhinitis. He said that he experiences pain, itchiness and difficulty breathing through his nose. He also said he takes Benadryl for his symptoms. Findings on examination reveal that the Veteran did not have greater than 50 percent obstruction of the nasal passage on both sides, did not have complete obstruction on the left side or the right side due to rhinitis, and there was no permanent hypertrophy of the nasal turbinates and no nasal polyps. Additionally, the Veteran was noted to have no granulomatous conditions. The examiner reported that the condition impacted the Veteran's ability to work due to his reported symptoms of pain, itchiness, and difficulty breathing through his nose. 
+
+VA treatment records include a September 2023 Airborne Hazard and Open Burn Pit Registry Assessment that contains the Veteran's report of nasal congestion/nasal drainage and feeling "clogged up all the time". He reported treating his symptoms with over-the-counter nasal drops and oxymetazoline.
+
+The Veteran's belief that this disability warrants a higher rating has been considered; however, his lay assertions are not considered more persuasive than the objective medical findings which, when evaluated according to the prescribed rating schedule, do not support assigning a compensable rating at any point pertinent to this appeal.
+
+In consideration of the examination findings above showing that the Veteran does not have nasal polyps or any obstruction of his nasal passages, and the lack of any evidence to the contrary, the evidence is persuasively against a compensable rating for the Veteran's allergic rhinitis. As the evidence is persuasively against the claim and is not in approximate balance, the benefit of the doubt rule does not apply and the claim for a compensable rating for allergic rhinitis must be denied. 38 U.S.C. § 5107(b); Lynch, 21 F. 4th at 776.
+
+ 
+
+ 
+
+Kristin Haddock
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Shawkey, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

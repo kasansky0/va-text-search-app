@@ -1,0 +1,81 @@
+Citation Nr: A25033096
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 211230-209908
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to eligibility for benefits under the Program for Comprehensive Assistance for Family Caregivers (PCAFC) program is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active service from October 1974 to November 1975.  See DD 214. 
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from an October 2021 administrative decision of the Department of Veterans Affairs (VA) Veterans Health Administration (VHA). 
+
+In the December 2021 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the October 2021 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to PCAFC, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Entitlement to PCAFC is remanded.
+
+The Veteran contends that he is eligible for PCAFC.  See December 2021 VA Form 10182; see also July 2022 Informal Hearing Presentation Brief (IHP).  More specifically, the Veteran's representative contends that the Veteran is eligible for PCAFC because he is 100 percent disabled and receives more than 50 percent of his total care from the PCAFC caregiver.  See July 2022 IHP.   The representative contends that the claim was denied because VHA determined that he didn't require personal care services for a minimum of six continuous months based on inability to perform an Activity of Daily Living (ADL) and/or need for supervision, protection, or instruction.  See id. at pg. 2. 
+
+In this case, the Board finds that remand is needed to provide proper notice and to clarify the reason for the denial with legally adequate reasons and bases.
+
+First, remand is needed to satisfy a statutory duty under 38 U.S.C. § 5104.  See 38 C.F.R. § 20.802(a) (the Board may remand to correct any error by the AOJ in satisfying a regulatory or statutory duty); see also 38 U.S.C. § 1720G (a)(12) (PCAFC requires VA notify individuals who apply for the program of decisions affecting the furnishing of assistance with notice as described 38 U.S.C. § 5104).
+
+Generally, notice under 38 U.S.C. § 5104 must include the following: (1) identification of the issues adjudicated; (2) a summary of the evidence considered by the Secretary; (3) a summary of the applicable laws and regulations; (4) identification of findings favorable to the claimant; (5) in the case of a denial, identification of elements not satisfied leading to the denial; (6) an explanation of how to obtain or access evidence used in making the decision; and (7) if applicable, identification of the criteria that must be satisfied to grant service connection or the next higher level of compensation.  See 38 U.S.C. § 5104(b).
+
+In this case, the PCAFC denial relied on a Caregiver evaluation assessment (CEAT), which indicated the Veteran was ineligible because he did not require "personal care services for a minimum of six continuous months based on an inability to perform an ADL and/or a need for supervision, protection, or instruction."  PCAFC Veteran File, pg. 2.  The Caregiver Services Program (CSP) decision states he was denied because he was "not in need of personal care services for a minimum of six continuous months based on an inability to perform an [ADL], or a need for supervision, protection[,] or instruction."  Id. at pg. 7.
+
+The Board finds that the letter does not provide adequate notice because it does not state whether all the criteria, two, or one of the criteria are unmet. Thus, it is unclear whether the denial is based on lack of need of personal care in ADLs, or for supervision and instruction, or for supervision and protection.  The Veteran's representative indicated that due to his disabilities, he is unable to manage his activities of daily living (ADLs) independently; he needs assistance at least 50 percent of the time to maintain himself at home.  As the Board finds the notice in the denial is unclear, it does not meet the requirements of 38 U.S.C. § 5104(b).
+
+Second, remand is needed to clarify the reason for the denial.  The CSP note indicates the claim was denied because the Veteran, "does not require personal care services for a minimum of six continuous months based on an inability to perform an ADL and/or need for supervision, protection[,] or instruction."  PCAFC Veteran File, pg. 2.  The communication notation and denial letter contain compound findings; the Board is not able to determine whether the Veteran was denied because he (a) did not require personal care services, (b) for a minimum of 6 continuous months, (c) based on an inability to perform an ADL, and/or had (d) a need for supervision, protection, or instruction.  The decision did not indicate which requirements were unmet.
+
+The Veteran has a 100 percent evaluation for foot calluses, 40 percent for bilateral sacroiliac joint ankylosing spondylitis with lumbar strain, 30 percent for bilateral foot calluses, 30 percent for bilateral hearing loss, 20 percent for left foot calluses, 20 percent for right and left lower extremity sciatic nerve radiculopathy, each, 20 percent for right and left lower extremity femoral nerve radiculopathy, and 10 percent for left knee chondromalacia, for a combined rating of 90 percent from August 29, 2018, as well as Special Monthly Compensation (SMC) -1 for multiple service connected disabilities.  See April 2024 Rating Decision Code Sheet.   Therefore, he has limitations in stress, pain, personal care, strength, and mobility which were not clearly addressed in the PCAFC decision.
+
+Moreover, a Federal Circuit decision entitled, Veteran Warriors, Inc. v. Secretary of Veterans Affairs, set aside the requirement in 38 C.F.R. § 71.15 that the veteran has a functional impairment that directly impacts the individual's ability to maintain his or her personal safety "on a daily basis" to meet the criteria of being "in need of personal care services." Veteran Warriors, Inc. v. Sec'y of Veterans Affairs, 29 F.4th 1320, 1342-43 (Fed. Cir. 2022).  This was issued after the PCAFC decision on appeal.  On remand, eligibility should be evaluated under statutory criteria for need for supervision, protection, or instruction, with clear reasons and bases, and adequate notice.  See 38 U.S.C. § 1720G (a)(2)(C); 38 U.S.C. § 5104(b).
+
+The matters are REMANDED for the following action:
+
+1. Request medical opinions from the CEAT as to whether the Veteran requires the following:
+
+a) Personal care each time he completes one or more of the following:
+
+i) Dressing or undressing oneself;
+
+ii) Bathing;
+
+iii) Grooming oneself to keep oneself clean and presentable;
+
+iv) Toileting or attending to toileting;
+
+v) Feeding oneself due to loss of coordination of upper extremities, extreme weakness, inability to swallow, or the need for a non-oral means of nutrition; or
+
+vi) Mobility (walking, going up stairs, transferring from bed to chair, etc.)
+
+b) Whether he has a need for supervision or protection based on symptoms or residuals of neurological or other impairment or injury; or
+
+c) Has a need for regular or extensive instruction or supervision without which the ability of the Veteran to function in daily life would be seriously impaired.
+
+Medical facts and reasons underpinning each conclusion must be articulated. CEAT must (1) identify what facts and information, whether in the record or outside the record, support the conclusion, and (2) explain how that evidence justifies each conclusion.
+
+2. Readjudicate entitlement to eligibility for PCAFC benefits under appropriate criteria, including those set forth in 38 U.S.C. § 1720G(a)(2)(C)(ii)-(iii).
+
+3. Issue the Veteran notice of the decision as prescribed by 38 U.S.C. § 5104.  The notice shall include, but is not limited to, a summary of the evidence, applicable laws, and regulations; identify findings favorable to the claimant; and identify any elements not satisfied but necessary for PCAFC benefits under 38 U.S.C. § 1720G and 38 C.F.R. §§ 71.15-71.25. 
+
+ 
+
+Cory M. Picton
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. McKenzie, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

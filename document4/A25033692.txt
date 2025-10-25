@@ -1,0 +1,99 @@
+Citation Nr: A25033692
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240212-468235
+DATE: April 10, 2025
+
+ORDER
+
+Service connection for major depressive disorder, generalized anxiety disorder, amphetamine use disorder, and opiod use disorder is granted.
+
+Service connection for PTSD is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's major depressive disorder and generalized anxiety disorder are secondary to his service-connected right foot disability, and his amphetamine use disorder and opiod use disorder were attempts to self-medicate the depressive disorder.
+
+2. The machine tripod incident and verbal abuse by drill sergeants do not have credible supporting evidence. The Veteran's in-service foot injury does have credible support evidence; however, the diagnosis of PTSD is not based on that stressor.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for major depressive disorder, generalized anxiety disorder, amphetamine use disorder, and opiod use disorder have been met.  38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+2. The criteria for service connection for PTSD have not been met.  38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. §§ 3.102, 3.303, 3.304.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from August 2004 to January 2005.
+
+This case is before the Board of Veterans' Appeals (Board) on appeal from a March 2023 Department of Veterans Affairs (VA) Regional Office (RO) rating decision that denied service connection for PTSD with major depressive disorder and generalized anxiety disorder with amphetamine use disorder.
+
+In December 2023, the Veteran submitted a VA Form 10182, Decision Review Request: Board Appeal Notice of Disagreement (NOD) seeking the Direct Review docket.  Subsequently, a February 2024 NOD requested a switch to the Hearing docket and then an April 2024 NOD requested a switch back to the Direct Review docket.  Both docket switches were granted, the end result being that the Veteran's appeal is on the Direct Review docket.
+
+Under the Direct docket review, the Board's decision will only be based on the evidence of record at the time of the March 20, 2024, rating decision.  See 38 C.F.R. § 20.302.
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision on the claim on appeal.  38 C.F.R. § 20.300.  If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider in this decision, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+The Veteran's private attorney withdrew as the Veteran's representative in a May 2024 written correspondence.  VA acknowledged the withdrawal and sent notice to the Veteran in July 2024.  As the Veteran has not appointed any new representative, he continues his appeal in these matters on a pro se (unrepresented) basis.
+
+Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disability was incurred in service.  38 C.F.R. § 3.303(d).
+
+Service connection for a claimed disability may be established on a secondary basis for a disability that is proximately due to or the result of a service-connected disease or injury.  38 C.F.R. § 3.310(a).  Establishing service-connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability.  38 C.F.R. § 3.310(a).
+
+Service connection for PTSD, as opposed to other acquired psychiatric disorders, requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (based on the Diagnostic and Statistical manual of Mental Disorders, Fifth Edition (DSM-5)), a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304(f).
+
+Historically, the evidence necessary to establish the occurrence of a recognizable stressor during service to support a diagnosis of PTSD varied depending upon whether a veteran engaged in "combat with the enemy."  If VA determines that a veteran engaged in combat with the enemy and his alleged stressor is combat-related, then his lay testimony or statement is accepted as conclusive evidence of the stressor's occurrence and no further development or corroborative evidence is required-provided that such testimony is found to be "satisfactory," i.e., credible and "consistent with circumstances, conditions or hardships of service."  See 38 U.S.C. § 1154(b); 38 C.F.R. § 3.304(f)(1).
+
+Furthermore, if a stressor claimed by a veteran is related to fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of PTSD and that the veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.  38 C.F.R. § 3.304(f)(3); 75 Fed. Reg. 39,843 (Jul 13, 2010).
+
+Where a veteran's alleged stressor was neither combat related nor related to fear of hostile military or terrorist activity, then a veteran's lay testimony, alone, is not sufficient to establish the occurrence of the alleged stressor; rather, corroborating evidence would be needed to support the claim for service connection.  A diagnosis of PTSD, or any other mental disorder, must be established in accordance with 38 C.F.R. § 4.125(a), which mandates that, for VA purposes, all mental disorder diagnoses must conform to the American Psychiatric Association's Diagnostic and Statistical Manual for Mental Disorders (DSM-5).
+
+There are special rules regarding claims for entitlement to service connection for PTSD claimed as a result of in-service personal assaults.  See 38 C.F.R. § 3.304(f)(5).  These rules allow for evidence from sources other than a veteran's service records to corroborate a stressor based on an in-service personal assault.  Id.  Examples of such evidence include but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and, statements from family members, roommates, fellow service members, or clergy.  Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources.  Examples of behavior changes that may constitute credible evidence of the stressor include but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes.
+
+In determining whether service connection is warranted, the Board shall consider the benefit-of-the-doubt doctrine.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1991).  That is, the claimant is entitled to the benefit of the doubt when the evidence is in "approximate" balance i.e., "nearly equal" but does not require that the evidence be in exact equipoise.  Lynch v. McDonough, 21 F.4th 776 (2021). 
+
+1. Entitlement to service connection for an acquired psychiatric disorder, other than posttraumatic stress disorder (PTSD), to include major depressive disorder and generalized anxiety disorder, as secondary to his service-connected right foot status post fracture with posttraumatic arthritis.
+
+In an August 2022, VA Form 21-526EZ, the Veteran contended that his acquired psychiatric disorder was secondary to an in-service foot injury that occurred during a deployment in August 2004. In a separate VA Form 21-526EZ filed the same month, he indicated that his psychiatric condition pre-existed service and that it was worsened by service.
+
+An August 2022 VA examination provides a current diagnosis of major depressive disorder. Medical records conflict as to whether the Veteran has a diagnosis of generalized anxiety disorder. For example, the August 2022 VA examination provides such a diagnosis, but a December 2022 addendum opinion states that the generalized anxiety disorder does not meet the DSM-5 criteria and its symptoms are subsumed by the Veteran's major depressive disorder and PTSD. Resolving doubt in the Veteran's favor, the Board finds that the Veteran does have a diagnosis of that condition. A September 2022 VA examination report also contains diagnoses of amphetamine use disorder and opiod use disorder, both in remission. In sum, and as relevant here, the Veteran has diagnoses of major depressive disorder, generalized anxiety disorder, amphetamine use disorder and opiod use disorder. (The Board notes that the Veteran's diagnosis of PTSD will be adjudicated separately below.)
+
+Regarding a current service-connected disability, the Veteran is service-connected for right foot status post fracture with posttraumatic arthritis. This disability was the result of an in-service right foot injury sustained in December 2004, and as shown in the Veteran's service treatment records.
+
+Regarding a nexus between the above psychiatric diagnoses and the right foot injury, a September 2022 VA examiner opined that the psychiatric disorders were at least as likely as not related to the foot injury. The examiner explained that the foot injury led to the Veteran being unable to keep up his duties in the military and added to feeling unworthy. The September 2022 VA examiner added that the amphetamine use disorder and opiod use disorder, both in remission, were the result of self-medicating, in part, the major depressive disorder. The Board finds this opinion persuasive. A nexus is established. 
+
+In sum, service connection for the Veteran's major depressive disorder, generalized anxiety disorder, and opiod and amphetamine abuse disorder is warranted.
+
+2. Entitlement to service connection for PTSD
+
+The Veteran also seeks service connection for PTSD, and has set forth several stressors to support his claim. First, in an August 2022 VA Form 21-526EZ he generally asserted that his right foot injury caused his mental health disorders. Second, in a separate VA Form 21-526EZ filed the same month, he asserted that his PTSD was related to verbal abuse from drill sergeants. During a September 2022 VA examination, he expanded on this, explaining that he believed he was unfairly disciplined and ridiculed by his superiors because of his obesity, and frequently required to perform jumping jacks and other exercises in front of his company. Third, in that September 2022 VA examination, the Veteran also asserted that during basic training a tripod machine gun got stuck while a soldier was firing it and the soldier let go and lost control and the gun spun around in a circle firing bullets at random and everyone had to take cover so they would not get hit.
+
+Generally, service connection for PTSD requires credible supporting evidence that the claimed in-service stressor occurred. 38 C.F.R. § 3.304(f). Here, there is not credible supporting evidence of the claimed drill sergeant verbal abuse or the tripod machine gun accident beyond the Veteran's own statements. 
+
+For stressors based on an in-service personal assault, such as verbal abuse by a drill sergeant, evidence from sources other than the Veteran's service records may corroborate the veteran's account of the incident. Examples of such evidence include, but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy. Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources. Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes. 38 C.F.R. § 3.104(f).
+
+Here, such evidence does not exist. There was not evidence of a behavioral change following the alleged abuse, statements from others, transfer of duty assignments, deterioration of work performance, psychiatric symptoms in service, or substance abuse in service. In sum, there is not credible supporting evidence for the tripod machine gun incident or the verbal abuse from a drill sergeant.
+
+There is credible supporting evidence of the in-service right foot injury. Specifically, the injury is documented in his service treatment records and he is presently service connected for a right foot fracture status post that injury.
+
+Regarding a nexus, a September 2022 VA examination provided a current diagnosis of PTSD as supported by the tripod machine gun incident stressor and, to a lesser extent, verbal abuse by his drill sergeants. However, neither of those stressors is corroborated by credible supporting evidence. With respect to the foot injury stressor, the examiner explained that there is no evidence of record to suggest that the right foot injury was perceived as a significant stressor meeting the criteria needed for a diagnosis of PTSD and the Veteran's PTSD symptoms do not relate to that stressor. This same opinion was reiterated in a January 2023 addendum opinion.
+
+In sum, the Veteran has a diagnosis of PTSD, however, the stressors upon which it is based do not have credible supporting evidence. The one stressor that is corroborated by credible supporting evidence does not relate to the current PTSD diagnosis. Accordingly, service connection for PTSD is not warranted.
+
+ 
+
+ 
+
+Mike Sobiecki
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Robinson, C. B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

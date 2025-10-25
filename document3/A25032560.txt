@@ -1,0 +1,121 @@
+Citation Nr: A25032560
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240719-457895
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for hypertension is granted.
+
+Entitlement to service connection for sleep apnea is granted.
+
+REMANDED
+
+Entitlement to service connection for loss of smell is remanded.
+
+Entitlement to service connection for loss of taste is remanded.
+
+FINDINGS OF FACT
+
+1. The Veteran's hypertension is related to active service.
+
+2. The Veteran's sleep apnea is related to active service.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for hypertension are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+2. The criteria for service connection for sleep apnea are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served in the United States Marine Corps from July 2001 to July 2005 and the United States Army from August 2007 to July 2008.
+
+The rating decision on appeal was issued in July 2024 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies. In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the July 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. Although the Veteran may have elected to change his docket selection, the Board finds timely adjudication of the claims on appeal does not prejudice the Veteran in this case.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. However, because the Board is remanding the claims of entitlement to service connection for loss of taste and smell, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Service Connection
+
+Generally, service connection will be granted for a disability resulting from an injury or disease caused or aggravated by active military service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303(a). A grant for service connection for a disability requires: (1) a present disability or persistent or recurrent symptoms of a disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship ("nexus") between the present disability and the in-service event, injury, or disease. See 38 U.S.C. § 1110; 38 C.F.R. § 3.303; Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+Service connection for certain chronic diseases, including hypertension, may be established on a presumptive basis by showing that the condition manifested to a degree of 10 percent or more within one year from the date of separation from service. 38 U.S.C. §§ 1101, 1112, 1113, 1131, 1137; 38 C.F.R. §§ 3.307, 3.309(a); Fountain v. McDonald, 27 Vet. App. 258, 271-72 (2015). Although the disease need not be diagnosed within the presumptive period, it must be shown, by acceptable lay or medical evidence, that there were characteristic manifestations of the disease to the required degree during that time. 38 U.S.C. §§ 1101, 1112, 1113; 38 C.F.R. §§ 3.307, 3.309(a).
+
+Additionally, for certain chronic diseases with potential onset during service, there is required a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time. If chronicity in service is not established, a showing of continuity of symptoms after discharge may support the claim. 38 C.F.R. §§ 3.303(b), 3.309; Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including the evidence pertinent to service, establishes that the disease was incurred in service. See 38 C.F.R. § 3.303(d).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the VA shall give the benefit of the doubt to the claimant. See 38 U.S.C. § 5107(b).
+
+1. Entitlement to service connection for hypertension.
+
+The Veteran seeks service connection for his hypertension disability. He claims his high blood pressure is secondary to his acquired psychiatric disorder and anxiety. See VA 21-526EZ, Fully Developed Claim (August 2023). 
+
+The Veteran is currently diagnosed with hypertension. An in-service event has also been conceded. See Rating Decision - Narrative (July 2024). The Board is bound by these favorable findings. See 38 C.F.R. § 3.104(c).
+
+The Veteran reported that his hypertension began in service. Moreover, post deployment records showed the Veteran reported dizziness, fainting, light headedness, and headaches. See Correspondence (December 2020). Lay evidence is competent if it is provided by a person who has knowledge of facts or circumstances and conveys matters that can be observed and described by a lay person. See 38 C.F.R. § 3.159(a)(2). Here, the Veteran is competent to report symptoms he experienced post-deployment. Moreover, service treatment records show the Veteran had numerous high blood-pressure readings during his active service. See STR - Medical (July 2005). The Veteran's reported symptoms as well as the documented high blood pressure readings are competent and consistent and weigh significantly for the Veteran's claim.
+
+The Veteran attended VA examinations in March 2021 and in July 2024. See C&P Exam (March 2021); C&P Exam (July 2024). Both examiners offered negative nexus opinions. The March 2021 examiner noted that the Veteran was not diagnosed with hypertension because his initial blood readings were not high enough for a diagnosis of hypertension. The July 2024 VA examiner noted that the Veteran's risk factors for hypertension outside of military service out weight the risk of a toxic exposure risk activity during active-duty service and therefore, the Veteran's hypertension is less likely than not due to a toxic exposure risk activity during active-duty service. See C&P Exam (July 2024). However, these opinions do not address the Veteran's elevated pressures in-service, or his competent reports of hypertension symptoms post-deployment. Therefore, these opinions are afforded minimal weight. 
+
+Additionally, when chronic disease like hypertension is shown in service, subsequent manifestations of the same chronic disease at any later date, however remote, are service connected, unless clearly attributable to intercurrent causes. 38 C.F.R. § 3.303(b). The evidence does not show intercurrent causes. Consequently, the probative evidence establishes hypertension during active duty and a current disability with no apparent intercurrent causes.
+
+For the above reasons, the evidence weighs in favor of the Veteran's claim and service connection for hypertension is warranted. 
+
+2. Entitlement to service connection for sleep apnea.
+
+The Veteran contends that his sleep apnea is related service. He reported that his symptoms began in service. He claims that his sleep apnea is secondary to acquired psychiatric disorder. See VA 21-526EZ, Fully Developed Claim (August 2023). 
+
+The Veteran is currently diagnosed with obstructive sleep apnea. An in-service event has also been conceded. See Rating Decision - Narrative (July 2024). The Board is bound by these favorable findings. See 38 C.F.R. § 3.104(c).
+
+In July 2024, the Veteran attended a VA examination. He reported that his symptoms began in 2008 with insomnia, snoring, and episodes of apnea. He claimed that his symptoms began after his last deployment and have been continuous since. He reported that he was prescribed a CPAP in 2018. See C&P Exam (July 2024). Again, the Veteran is competent to report his symptoms and when they began. Moreover, his statements are consistent with a buddy statement submitted in August 2011, which indicated that the Veteran had difficulty sleeping during active duty. See Military Personnel Record (November 2023). Finally, service treatment records showed reports of difficulty sleeping during deployment, as well as wheezing that wakes him up and snoring during sleep. See STR - Reserve STR (February 2024). Thus, the Board finds the lay statements to be credible and probative evidence weighing in favor of the Veteran's claim.
+
+The evidence also contains opinions adverse to the Veteran's claim. A January 2020 VA medical expert opined that the Veteran's claim of sleep apnea was not diagnosed until May 2018 and therefore was less likely than not related to service. See C&P Exam (January 2020). A July 2024 VA examiner noted that the Veteran's risk factors for obstructive sleep apnea outside of military service outweigh the risk of a toxic exposure risk activity during active-duty service and therefore, the Veteran's obstructive sleep apnea is less likely than not due to a toxic exposure risk activity during active-duty service. See C&P Exam (July 2024). However, these opinions do not account for the Veteran's documented in-service complaints of sleeping difficulty, snoring, and wheezing during sleep that caused him to waken. Therefore, these opinions are afforded minimal weight.
+
+For the above reasons, the probative evidence indicating the Veteran experienced difficulty sleeping, snoring, and wheezing which woke him at night while on active duty and that his symptoms have continued since weighs in favor of the claim and service connection for sleep apnea is warranted.
+
+REASONS FOR REMAND
+
+3. Entitlement to service connection for loss of smell.
+
+4. Entitlement to service connection for loss of taste.
+
+The Veteran seeks service connection for loss of smell and loss of taste. He contends that his loss of sensation is secondary to his service-connected deviated septum. See VA 21-526EZ, Fully Developed Claim (November 2023). 
+
+The Veteran is diagnosed with anosmia and ageusia (loss of smell and taste). He claimed that his symptoms began in 2009, just after leaving active service. See C&P Exam (December 2022). Again, the Veteran is competent to describe his symptoms and when they began. 
+
+The evidence includes a negative opinion. See C&P Exam (March 2024). In March 2024, a VA examiner diagnosed the Veteran with loss of smell and taste and noted that the Veteran reported his symptoms began in 2009. However, the examiner failed to address the Veteran's contention that his loss of taste and smell conditions are aggravated by his service-connected deviated septum. Consequently, these opinions are inadequate.
+
+Once the Secretary undertakes the effort to provide an examination, he must provide an adequate one. Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). "A medical opinion is adequate when it is based upon consideration of the [V]eteran's prior medical history and examinations and also describes the disability in sufficient detail so that the Board's 'evaluation of the claimed disability will be a fully informed one.'" Id. at 310-11. As such, the examiner must be aware of the Veteran's relevant medical history, and they must consider this history when providing a clear conclusion, supported by a reasoned medical explanation connecting the examiner's conclusion to supporting data. Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008). 
+
+Because the above errors are based on the record before the AOJ at the time of the decision on appeal, they are pre-decisional in nature, and remand to correct the errors is proper. 38 C.F.R. § 20.802.
+
+The matters are REMANDED for the following action:
+
+Schedule the Veteran for a VA examination to assess his loss of smell and taste conditions. The examiner must review and consider the claims file. 
+
+The examiner shall then respond to the following:
+
+(a.) Is the loss of smell condition at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) related to service? Why or why not?
+
+(b.) Is the loss of smell condition at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) either (i) caused by, or (ii) are aggravated by his service-connected deviated septum disability? Why or why not?
+
+(c.) Is the loss of taste condition at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) related to service? Why or why not?
+
+(d.) Is the loss of taste condition at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) either (i) caused by, or (ii) are aggravated by his service-connected deviated septum disability? Why or why not?
+
+Provide a complete rationale for all opinions. A separate opinion for secondary causation and aggravation is required.
+
+ 
+
+ 
+
+SHAUN S. SPERANZA
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Parnell, Michael C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

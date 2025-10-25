@@ -1,0 +1,81 @@
+Citation Nr: A25032875
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240423-433559
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to an initial rating of 30 percent, but no higher, for chronic pelvic pain (claimed as endometriosis) is granted. 
+
+Entitlement to service connection for heart condition is denied.  
+
+FINDINGS OF FACT
+
+1. The Veteran's symptoms associated with her chronic pelvic pain are not controlled by continuous treatment. 
+
+2. The Veteran's heart condition is not related to her service.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for an initial rating of 30 percent, but no higher, for the chronic pelvic pain are met.  38 U.S.C. §§ 1155, 5103(a), 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.321, 4.1, 4.2, 4.3, 4.7, 4.10, 4.116, Diagnostic Code (DC) 7615.
+
+2. The criteria for service connection for a heart condition are not met.  38 U.S.C. § 1110 (West 2012); 38 C.F.R. § 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from May 1998 to May 2002.  
+
+The Department of Veteran Affairs (VA) rating decision on appeal was issued in April 2024 under The Veterans Appeals Improvement Modernization Act of 2017 (AMA) review system. 
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), the Veteran elected the Direct Review option.  Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal.  38 C.F.R. § 20.301.
+
+Initial Rating
+
+Disability evaluations are determined by application of the criteria set forth in the VA's Schedule for Rating Disabilities, which is based on average impairment in earning capacity.  38 U.S.C. § 1155; 38 C.F.R. Part 4.  When a question arises as to which of two ratings apply under a particular diagnostic code, the higher rating is assigned if the disability more closely approximates the criteria for the higher rating.  38 C.F.R. § 4.7.  After careful consideration of the evidence, any reasonable doubt remaining is resolved in favor of the Veteran.  38 C.F.R. § 4.3. 
+
+Chronic Pelvic Pain
+
+Here, in an April 2024 VA rating decision, service connection for chronic pelvic pain was granted at 10 percent under diagnostic code (DC) 7615, effective October 16, 2023.  The Veteran timely filed a VA Form 10182 contesting the initial rating.  Given such, the Veteran is appealing the original assignment of disability evaluation following the award of service connection.  In such a case, it is not the present level of disability, which is of primary importance, but rather the entire period since the effective date of the grant of service connection is to be considered to ensure that consideration is given to the possibility of staged ratings; that is, separate ratings for separate periods of time based on the facts found.  See Fenderson v. West, 12 Vet. App. 119, 126 (1999); see also Hart v. Mansfield, 21 Vet. App. 505 (2007).  Therefore, the period on appeal begins on October 16, 2023.
+
+The Veteran's service-connected chronic pelvic pain has been evaluated under the provisions of 38 C.F.R. § 4.116, DC 7615 for the entire period on appeal.  
+
+The General Rating Formula for Disease, Injury, or Adhesions of Female Reproductive Organs applies to DC 7610 through DC 7615 and provides a noncompensable, or zero percent, disability rating is assigned when the symptoms do not require continuous treatment.  A 10 percent rating is assigned for symptoms that require continuous treatment.  The highest 30 percent rating is assigned when the symptoms are not controlled by continuous treatment.  Id. 
+
+Turning to the medical evidence, in a February 2024 VA examination report, the VA examiner noted a diagnosis of chronic pelvic pain.  See February 2024 VA Gynecological Conditions DBQ.  The Veteran reported that she has not had a menstrual cycle in four to five months and has pelvic pain mostly around ovulation.  The VA examiner noted that the Veteran has mild intermittent pain and irregular menstruation.  The examiner noted that the Veteran's symptoms require continuous treatment, in which she takes optivar oral contraceptive daily.  With respect to the effectiveness of the treatment in controlling symptoms, the VA examiner opined that the Veteran's symptoms are not controlled by continuous treatment.  Id. 
+
+The VA examiner also noted there are no diseases associated with the vulva or clitoris, vagina, cervix, ovaries or uterus, or fallopian tubes.  The VA examiner noted that the Veteran has not undergone menopause.  The VA examiner noted that the Veteran does not have atrophy of the ovaries, rectovaginal fistula, urethrovaginal fistula, or endometriosis.  The Veteran does not have any pelvic organ prolapse due to injury, disease, or surgical complications of pregnancy.  The Veteran does not have benign or malignant neoplasm related to the Veteran's diagnosed condition.  Id. 
+
+Given such, the Board finds that a maximum 30 percent rating is warranted as the February 2024 VA examiner opined that the Veteran's symptoms are not controlled by continuous treatment.  The Board notes that a 30 percent rating is the maximum schedular rating under DC 7615.  Furthermore, there are no other applicable diagnostic codes which would allow for a rating higher than 30 percent, as the evidence does not demonstrate removal of the uterus (7618), removal of the ovaries (DC 7619), atrophy of the ovaries (DC 7620), complete or incomplete pelvic organ prolapse due to pregnancy (7621), fistula, rectovaginal, (7624), fistula, urethrovaginal (7625), malignant neoplasms of gynecological system (7627), or endometriosis (7629). 
+
+Accordingly, a higher rating of 30 percent for chronic pelvic pain under DC 7615 for the entire period on appeal is warranted. 
+
+Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303 (a).  Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a link between the claimed in-service disease or injury and the present disability.  Romanowsky v. Shinseki, 26 Vet. App. 289, 293 (2013).  Service connection may be granted for any disease initially diagnosed after service when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303 (d).
+
+Here, the Board notes that in a December 2023 Correspondence, the Veteran contends that her heart condition is related to her series of anthrax vaccines administered within a 12-month period during her service.  Specifically, in a December 2023 Correspondence, the Veteran stated that she was diagnosed with her heart condition in 2009.  She stated that no doctor can understand why she would develop AV block.  She stated she asked doctors about her series of anthrax vaccines that she received in a course of 12 months; however, no doctor would comment only stated that there were issues with anthrax and various other vaccines.  Thus, the Veteran contends that there is "significant proof" that anthrax was confirmed to cause both cardiac issues and reproductive issues.  
+
+With respect to the first element of service connection, a current disability, the Board notes the Veteran has a diagnosis of first degree AV block.  See February 2024 Heart Conditions DBQ.  
+
+With respect to the second element of service connection, the Board notes that there is no evidence of an in-service incurrence or injury related to the Veteran's current heart condition.  In fact, during the December 2001 separation the Veteran's chest and heart were noted as clinically normal.  See December 2001 Report of Medical Examination.  Additionally, in the December 2001 Report of Medical History, the Veteran denied chest pain or palpitation, pounding heart or abnormal heartbeat.  Given such, the Board finds there is no in-service occurrence or injury related to the Veteran's heart condition.  Thus, the second element of service connection is not met. 
+
+Furthermore, the Board notes that the third element of service connection is not satisfied, as there is no nexus between the Veteran's current heart condition and her service.  In a February 2024 VA medical opinion, the VA examiner opined that the Veteran's heart condition is less likely than not related to her service.  The examiner explained that first degree heart block has many potential changes such as CAD, MI, electrolyte abnormalities, information, endocarditis, rheumatic fever, chagas disease, Lyme disease, diphtheria, certain medications, sarcoidosis, collagen vascular diseases, neuromuscular disorders, Lenègre's and Lev diseases. The examiner also noted that prevalence of this disease increases with age and is more common in men than women although up to 10 percent of healthy young athletes also have the condition.  However, the VA examiner pointed out that research fails to show that anthrax vaccination is a cause for first degree heart block.  The examiner cited Oldroyd, SH, Quintanilla, Rodriguez BS, and Makaryus's article titled First Degree Heart Block. [Updated 2022 May 1]. available at https://www.ncbi.nlm.nih.gov/books/NBK448164.  See February 2024 VA Medical Opinion.  See February 2024 VA Medical Opinion DBQ.  Given such, the Board finds that the third element of service connection has not been met.  
+
+In reaching this determination, consideration has been given to the Veteran's contentions that her chronic pelvic pain is related to her vaccines during service.  Although laypersons, such as the Veteran, are sometimes competent to provide opinions on certain medical questions, the specific issue in this case falls outside the realm of common knowledge of a lay person as it involves making definitive clinical diagnoses and causation findings based on medical knowledge of audiology.  See Kahana v. Shinseki, 24 Vet. App. 428, 435 (2011).  While the Veteran is certainly competent to report symptoms related to chronic pelvic pain, she is not competent to link those complaints to a particular diagnosis or etiology.  Opinions of this type have been found to be beyond the competence of lay witnesses, as is the Veteran.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007) ("sometimes the layperson will be competent to identify the condition where the condition is simple, for example a broken leg, and sometimes not, for example, a form of cancer").  Significantly, the examiner specifically considered her contentions and still found her heart condition is not related to her vaccinations.  
+
+Therefore, the Board finds that service connection for a heart condition is not warranted.  As the evidence is not in approximate balance, the benefit-of-the-doubt doctrine is not applicable, and her claim must be denied.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+YVETTE R. WHITE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Abdelbary, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

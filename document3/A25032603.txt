@@ -1,0 +1,73 @@
+Citation Nr: A25032603
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240821-465305
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from September 1997 to August 2002.  He was awarded Army Commendation and Army Achievement Medals and the Armed Forces Expeditionary Medal, among others.  
+
+In July 2023, the Veteran filed a claim for service connection for OSA, which was denied by the local regional office (RO) in a September 2023 rating decision.  In response, in August 2024, the Veteran submitted a VA Form 10182, Decision Review Request: Board Appeal (i.e., an AMA Notice of Disagreement (NOD)) and requested "direct review" of the evidence in his appeal by a Veterans Law Judge.  According to the Direct Review docket, no additional evidence received after the rating decision appealed may be considered, which here is the September 2023 rating decision.
+
+Ordinarily, this would preclude obtaining and considering additional evidence.  However, there are pre-decisional, duty-to-assist errors that need correcting before deciding the claim.  Therefore, any additional evidence received since September 2023 will be considered by the RO when subsequently readjudicating the claim.  See 38 C.F.R. § 3.103(c)(2)(ii).
+
+Significantly, the Board notes that the Veteran has qualifying service in the Southeast Asia Theater of Operations, specifically Saudi Arabia, from January 2002 to June 2002.  See DD Form 214; see also August 2023 VA Memorandum (indicating toxic exposure risk activity (TERA) under 38 U.S.C. § 1119).  Although OSA is not listed as a presumptive disease for exposure to burn pits and other toxins under the newly authorized PACT Act, direct service connection may be established by evidence demonstrating it was in fact incurred during service.  See Combee v. Brown, 34 F.3d 1039 (Fed. Cir. 1994).  In addition, the PACT Act created additional procedural rights for veterans with toxic exposure risk activities (TERAs).  It requires that examinations must consider 1) the total potential exposure through all applicable deployments; and 2) the synergistic, combined effect of all toxic exposure risk activities of the Veteran.
+
+Although the Veteran was afforded a VA examination in August 2023 to determine the nature and etiology of his OSA, the Board finds it inadequate for adjudication purposes, and it is incumbent on the Board in this situation to correct the failings in that opinion.  See Barr v. Nicholson, 21 Vet. App. 303 (2007).  The August 2023 VA examiner opined that the Veteran's OSA is less likely than not related to his active-duty service because there is no documented evidence of a diagnosis, symptoms, or treatment in his service treatment records (STRs).  However, the mere absence of evidence of treatment for the now claimed disability in the Veteran's STRs cannot, alone, be sufficient rationale for providing an unfavorable opinion.  See Dalton v. Nicholson, 12 Vet. App. 23 (2007); Fountain v. McDonald, 27 Vet. App. 258, 272-75 (2015) (indicating that a VA examiner may not generally rely on the absence of evidence as negative evidence).
+
+In addition, when addressing whether the Veteran's OSA was related to TERA, the opining clinician failed to address this particular Veteran's specific exposures.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302-04 (2008).  Instead, the opining clinician concluded that there are many factors that can contribute to sleep apnea, but there is no indication that toxic exposure can result in sleep apnea and noted that the duration, route, frequency, and type of exposure was unspecified as an individual longitudinal exposure record was unavailable for review.
+
+Lastly, in August 2024 correspondence, the Veteran's representative argued that his service-connected PTSD, neck, and/or back conditions caused him to become overweight, which then led to his development of OSA.  Although obesity itself is not a disability for VA compensation purposes, it may act as an "intermediate step" between a service-connected disability and development of another disability.  See Walsh v. Wilkie, 32 Vet. App. 300 (2020); VAOPGCPREC 1-2017 (Jan. 6, 2017).
+
+Failure to obtain an adequate medical opinion is a pre-decisional duty to assist error.  38?C.F.R. §?20.802(a).  Therefore, remand to obtain supplemental medical comment is necessary.
+
+The matter is REMANDED for the following action:
+
+1.  The AOJ must undertake any action(s) necessary to create an ILER and document any known TERA based on service in Southwest Asia.
+
+2. Then, the claims file should be forwarded to the appropriate VA examiner for an addendum medical opinion regarding the etiology of the Veteran's OSA. 
+
+After review of the claims file, the clinician is asked to address the following:
+
+(a.) Is it at least as likely as not that the Veteran's sleep apnea began during service or is otherwise etiologically related to service?
+
+In doing so, the examiner must consider the total potential exposure through all applicable deployments and the synergistic, combined effect of all toxic exposure risk activities of the Veteran, and the Veteran's lay statements that he had trouble sleeping following his deployments.
+
+(b.) Is it at least as likely as not that the Veteran's sleep apnea was caused or aggravated by his service-connected PTSD, back, and/or neck disabilities. 
+
+In other words, would the Veteran's sleep apnea have occurred "but for" the Veteran's service-connected PTSD, back and/or neck disabilities; or, whether "but for" the Veteran's service-connected disabilities, the functional impairment of sleep apnea would have improved/worsened.   
+
+(c.)  Whether it is at least as likely as not that the Veteran's service-connected disabilities caused the Veteran to become obese?
+
+(i) If so, was obesity a substantial factor in causing the Veteran's sleep apnea?
+
+(ii) Whether the Veteran's sleep apnea would not have occurred but for his obesity?
+
+Consistent with Lynch v. McDonough, 21 F.4th 776, 781-82 (2021), the clinician is advised that the term "at least as likely as not" means that the likelihood is at least approximately balanced or nearly equal, if not higher.
+
+A complete rationale must be provided for all opinions or conclusions expressed.  If the clinician is unable to provide an opinion without resorting to speculation, he or she must explain why this is so.
+
+The Veteran is competent to report his symptoms and medical and other history, and these reports must be specifically acknowledged and considered in formulating any opinions.  If the current examiner disputes the Veteran's reports of continuous or ongoing symptoms, the examiner must provide reason.
+
+It is essential the examiner provide rationale for the responses to these questions, regardless of whether favorable or unfavorable to this claim, preferably citing to evidence in the file supporting conclusions and/or accepted medical authority.
+
+If the examiner is unable to provide an opinion without resorting to mere speculation, an explanation as to why this is so and what, if any, additional evidence would be necessary before an opinion could be rendered should be provided.  In other words, merely saying that he/she cannot respond will not suffice.
+
+ 
+
+ 
+
+Colleen M. Glaser-Allen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Mukherjee, C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

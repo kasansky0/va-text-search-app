@@ -1,0 +1,101 @@
+Citation Nr: A25032462
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240430-436738
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is granted.
+
+FINDING OF FACT
+
+The evidence of record is in approximate balance as to whether the Veteran's obesity is an intermediate step between the Veteran's service-connected post-traumatic stress disorder (PTSD) and service-connected physical disabilities, and the development of OSA. 
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA are met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.304, 3.307, 3.310. 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from September 2010 to January 2014.
+
+The matter comes before the Board of Veterans' Appeals (Board) on appeal from an April 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the April 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is granted.
+
+In his February 2024 VA Form 21-526EZ Application of Disability Compensation, the Veteran originally filed his claim of service connection for OSA as secondary to his service-connected PTSD. Thereafter, a February 2024 private nexus opinion raised the additional theory that the Veteran's OSA resulted from the Veteran's obesity as an intermediate step between the Veteran's service-connected disabilities (psychiatric and physical) and his OSA. Moreover, a March 2024 toxic exposure risk activity (TERA) memorandum confirmed the Veteran's service in Southwest Asia, which raised the additional theory of whether a TERA caused the Veteran's OSA. 
+
+Establishing service connection generally requires competent evidence of three things: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship, i.e., a nexus, between the claimed in-service disease or injury and the current disability. Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009); 38 C.F.R. § 3.303(a).
+
+In the April 2024 rating decision on appeal, the RO made the favorable finding that the Veteran has a current diagnosis of OSA for VA compensation purposes. The Board is bound by this determination. 38 C.F.R. § 3.104(c).
+
+Thus, direct service connection turns on whether there was an in-service event or incurrence of OSA and whether there is a nexus between the Veteran's OSA and such in-service event.
+
+The Veteran's service treatment records (STRs) do not indicate any diagnoses, treatment, or other signs of OSA. Additionally, the Veteran denied suffering from sleeping problems in December 2011 and June 2012 Post-Deployment Health Assessments. Further, the Veteran did not note any sleeping issues in his July 2013 separation Report of Medical History, and none were found in his July 2013 separation Report of Medical Examination. In fact, in the February 2024 private nexus opinion on secondary service connection, the Veteran stated that his OSA symptomology only arose post-service, in 2017. 
+
+In March 2024 the RO issued a TERA memorandum, noting the Veteran's service in Southwest Asia. Accordingly, due to such service, exposure to fine particulate matter, burn pit, and other toxins is presumed. 38 C.F.R. § 3.320. However, OSA is not a condition presumptive of exposure to fine particulate matter in Southwest Asia under 38 C.F.R. § 3.320, requiring evidence of a nexus between such presumed exposure and the Veteran's disability. 
+
+In March 2024, a VA examiner provided a TERA nexus opinion. After a review of the claims file, the examiner opined it was less likely than not that the Veteran's OSA was related to any toxic exposure in Southwest Asia. The examiner indicated that current medical literature did not support the existence of a relationship between OSA and the Veteran's TERA.
+
+The Board finds that the evidence does not support that the Veteran's OSA was incurred in or directly related to his active service. Notably, there is a lack of evidence of apneic or any other sleeping disorder symptoms during service, along with the VA examiner's TERA opinion that the Veteran's OSA was not linked to any in-service exposures/events. Moreover, the Veteran was not diagnosed with OSA until July 2022, approximately nine years after discharge from active service. This evidence is sufficient to rebut a finding of service incurrence. See Horn v. Shinseki, 25 Vet. App. 231 (2012). Further, there is no private medical opinion of record linking the Veteran's OSA to any toxic exposure, or any other event during the Veteran's active service, as the private examiner did not provide an opinion on this theory. Accordingly, the Board concludes that entitlement to service connection on a direct basis is not warranted, as the evidence of record persuasively weighs against this theory of service connection.
+
+Service connection may be granted on a secondary basis if the record contains evidence sufficient to establish: (1) a current disability; (2) a service-connected connected disability; and (3) that the current disability was either (a) caused or (b) aggravated by the service-connected disability. 38 C.F.R. § 3.310.
+
+Secondary causation exists when, but for the service-connected disability, the non-service-connected disorder was caused by the service-connected disability in either a direct, etiological way or via multiple steps in a causal chain. Spicer v. McDonough, 61 F.4th 1360, 1365 (Fed. Cir. 2023) (citations omitted).
+
+Secondary aggravation exists when the non-service-connected disability is not caused by a service-connected disability but would be less severe if not for the service-connected disability. Id. at 1364. For example, secondary aggravation may be established when the natural progression of the non-service-connected disability could have been arrested or improved but for the service-connected disability. Id.
+
+Obesity is not a disability for VA compensation purposes; however, obesity may act as an "intermediate step" between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R.              § 3.310(a). See VAOPGCPREC 1-2017 (Jan. 6, 2017).
+
+To establish service connection on this basis, VA must resolve: (1) whether a service-connected disability caused a Veteran to become obese; (2) if so, whether the obesity as a result of the service-connected disability was a substantial factor in causing the claimed disability; and (3) whether the claimed disability would not have occurred but for obesity caused by the service-connected disability. Id.
+
+More recently, in Walsh v. Wilkie, 32 Vet. App. 300 (2020), the United States Court of Appeals for Veterans Claims (Court) held that where obesity is found to be the cause of a nonservice-connected disability, secondary service connection of that disability using the "intermediate step" theory requires VA to consider whether a service-connected disability caused or aggravated the obesity. 
+
+In February 2024, a private family nurse practitioner, who also serves as a private contract VA examiner, provided a private nexus opinion for the Veteran. She indicated reviewing the Veteran's claims file and his complete medical record. This examiner opined that it was at least as likely as not that the Veteran's OSA is secondarily linked to his service-connected PTSD and persistent depressive disorder with anxious distress. Additionally, she opined that the Veteran's service-connected psychiatric disabilities, along with his service-connected degenerative disc disease with spinal stenosis of lumbar spine, radiculopathy for right lower extremity, and left knee iliotibial band friction syndrome, caused the Veteran to become obese, and that the Veteran's OSA would not have occurred but for the obesity caused by his service-connected disabilities. 
+
+In support of her conclusions, the examiner cited numerous articles that describe an increased prevalence (association) between OSA and PTSD, along with other psychiatric disorders. However, association does not rise to the level of causation required for service connection. Accordingly, the February 2024 private nexus opinion is inadequate in this regard, as none of the medical articles cited by the private examiner conclude scientifically that PTSD and/or other psychiatric disorders cause OSA.
+
+Regarding obesity as an intermediate step between the Veteran's service-connected psychiatric and physical disabilities and his OSA, the February 2024 private examiner reported the Veteran weighing 225 lbs., with a body mass index (BMI) of 34.2, which the examiner noted is obese. The Veteran entered service at 176 lbs. and separated in July 2013 at 5'7" tall and 190 lbs. In the private nexus report, the Veteran asserted that his PTSD has caused a lack of motivation to exercise and in taking care of himself, along with it resulting in compensatory eating. Additionally, the Veteran stated that pain from his service-connected orthopedic conditions inhibited his ability to exercise, specifically citing back and knee pain. 
+
+The Veteran is rated at 70-percent disabling for his service-connected PTSD and persistent depressive disorder with anxious distress. In a July 2023 PTSD Disability Benefits Questionnaire, the Veteran, who serves as a police officer, described overeating and low energy due to his psychiatric conditions. He further described being "sad all the time," stating that he has felt depressed every day for years. 
+
+Additionally, in a March 2019 VA treatment record, the Veteran described feeling tired for several days and having little energy, along with the record noting that the Veteran suffers from either a poor appetite or overeating. In a January 2020 VA treatment record, the Veteran was described as obese, weighing in at 209 lbs., and had recently lost 12 lbs. by dieting. Additionally, 2022 and 2023 VA treatment records document ongoing low back and knee pain. Further, in an October 2022 VA knee examination, the Veteran reported constant, daily left knee pain, rated at 5/10. He also reported flareups that occur after walking for 15 minutes, with pain of 10/10 lasting for 12 to 20 hours. Moreover, in an October 2022 VA back examination, the Veteran described constant, daily back pain, rated at 6-8/10. He denied flare-ups. The Veteran is rated at 40 percent for is back disability, 20 percent for his right lower extremity radiculopathy, and 10 percent for his left knee condition. The Veteran's combined rating is 90 percent disabled. 
+
+An adequate medical opinion must be based upon a consideration of the relevant evidence and must provide the Board with a foundation sufficient to evaluate the probative worth of that opinion. See Ardison v. Brown, 6 Vet. App. 405, 407 (1994) (adequate medical examination is one that is based on consideration of Veteran's prior medical history and describes his or her condition with a level of detail sufficient to allow the Board to make a fully informed decision on the relevant medical question). Moreover, the Board is required to ensure that medical opinions are made based on sufficient facts or data and the application of reliable medical principles. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302 (2008) (requiring the Board to ensure that medical opinions are made based on sufficient facts or data and the application of reliable medical principles).
+
+Additionally, the examiner is required to not only render a clear conclusion on the relevant medical question but to support that conclusion "with an analysis that the Board can consider and weigh against contrary opinions." Stefl v Nicholson, 21 Vet. App. 120, 124 (2007) (holding that "a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision as to what weight to assign to the doctor's opinion"). Accordingly, absent a sufficient rationale, a medical opinion has no probative value. See Horn v. Shinseki, 25 Vet. App. 231, 240-42 (2012) (stating that under caselaw "an unexplained conclusory opinion is entitled to no weight in a service-connection context").
+
+The Board finds the February 2024 private nexus opinion adequate regarding its opinion on obesity as an intermediate step between the Veteran's service-connected psychiatric and physical disabilities and his OSA. The examiner indicated reviewing the Veteran's complete claims file. As for the rationale provided, as indicated above, the Veteran's low energy and lack of motivation for physical activity are documented in his medical records. While he did lose 12 lbs. from dieting in January 2020, based on his weight of 225 lbs. in the February 2024 private nexus opinion, he not only gained back the weight he had lost from dieting, but also put on additional weight. Additionally, the Veteran complained of daily depression lasting for years, with a recorded 35 lb. weight gain since separation from service. 
+
+Further, the Veteran's ongoing pain from his service connected back and knee disabilities is also medically documented, along with 10/10 flare-ups in his left knee after 15 minutes of walking, which limits his physical activity. Additionally, the private examiner cited medical articles that support that obesity is the number one risk factor for OSA. Moreover, while not providing a full opinion on obesity as an intermediate step, a March 11, 2024, VA examiner acknowledged that the Veteran suffered from morbid obesity and that the most common cause of OSA is from morbid obesity. The Board acknowledges other risk factors for OSA that are identified in the March 1, 2024, VA nexus opinion. However, based on the private examiner's rationale, which is supported by medical literature and the Veteran's treatment records, and affording the Veteran the benefit of the doubt, the Board assigns the February 2024 private nexus opinion sufficient probative weight to support his claim of secondary service connection. 
+
+Accordingly, the Board finds that the private examiner's conclusion that the Veteran's service-connected  psychiatric disabilities, along with his service-connected degenerative disc disease with spinal stenosis of lumbar spine, radiculopathy for right lower extremity, and left knee iliotibial band friction syndrome, caused the Veteran to become obese, and that the Veteran's OSA would not have occurred but for the obesity caused by his service-connected disabilities, is supported by the record. See Spicer, 61 F.4th at 1365 on theory of secondary causation. As this opinion provides a positive nexus as to secondary causation, the Board need not address the theory of secondary aggravation. 
+
+Regarding the Veteran's VA medical opinions on secondary service connection, in a March 1, 2024, nexus opinion, the VA examiner concluded that it was less likely than not that the Veteran's service-connected psychiatric disorders caused his OSA. The rationale provided was that while there is an increased prevalence of OSA in those suffering from PTSD (association), the medical literature has not shown a direct causation. This examiner did not provide a nexus opinion on obesity as an intermediate step between the Veteran's service-connected disabilities and his OSA. While the Board acknowledges that the medical literature has not supported causation between psychiatric disorders and OSA, this examiner failed to provide an opinion on aggravation, which renders the opinion inadequate. See El-Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013) (stating that a negative secondary service connection medical opinion was inadequate because it did not discuss aggravation). 
+
+Additionally, in a March 11, 2024, VA nexus opinion, the examiner arrived at the same conclusion as the March 1, 2024, VA examiner regarding the Veteran's psychiatric disabilities causing his OSA (finding an association rather than causation). However, like the March 1, 2024, examiner, this examiner also did not provide an opinion on aggravation, rendering the opinion inadequate. See El-Amin, 26 Vet. App. at 140-41. Moreover, this examiner did not provide an opinion on obesity as an intermediate step between the Veteran's service-connected psychiatric and physical disabilities and his OSA. Instead, the examiner stated that morbid obesity is recognized as the most common cause of OSA. Accordingly, this opinion is inadequate in this regard, and the Board assigns it no probative weight on the issue of obesity as an intermediate step. 
+
+In contrast, the Board finds that the February 2024 private opinion is the most probative evidence of record. In this regard, the private physician provided a thorough rationale that addressed, and was supported by, the relevant evidence of record. See Nieves-Rodriguez, 22 Vet. App. 295.
+
+Accordingly, the Board finds that the evidence for and against the claim of entitlement to service connection for OSA as secondary to the service-connected psychiatric and physical disabilities, with obesity serving as an intermediate step, is in approximate balance. Therefore, the benefit of the doubt must be resolved in favor of the Veteran, and entitlement to service connection for OSA is warranted. 38 U.S.C. § 5107(b); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+ 
+
+ 
+
+John R. Doolittle, II
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C.M. Winchell
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

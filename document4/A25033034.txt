@@ -1,0 +1,73 @@
+Citation Nr: A25033034
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 250324-524636
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea as secondary to bilateral flat feet, with obesity as an intermediate step is granted.
+
+FINDING OF FACT
+
+Resolving all doubt in the Veteran's favor, the Veteran's obstructive sleep apnea is caused by the service-connected bilateral flat feet, with obesity as an intermediate step.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for obstructive sleep apnea as secondary to bilateral flat feet, with obesity as an intermediate step are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from February 1971 through October 1971.
+
+The rating decision on appeal was issued in April 2024 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In the March 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the April 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+Entitlement to service connection for obstructive sleep apnea as secondary to bilateral flat feet, with obesity as an intermediate step 
+
+The Veteran seeks service connection for obstructive sleep apnea as secondary to bilateral flat feet with obesity as an intermediate step.
+
+Service connection may be granted for disability resulting from disease or injury incurred i n or aggravated by active service.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004). 
+
+Service connection may also be granted for a disability that is proximately due to, or aggravated by, service-connected disease or injury.  38 C.F.R. § 3.310.  To establish entitlement to service connection on a secondary basis, there must be: (1) evidence of a current disability; (2) evidence of service-connected disability; and (3) medical evidence establishing a nexus (i.e., link) between the service-connected disability and the current disability.  Wallin v. West, 11 Vet. App. 509, 512 (1998).
+
+While obesity cannot be service-connected on a direct basis, and obesity cannot qualify as an in-service event for service-connection purposes, obesity may serve as an "intermediate step" between a service-connected disability and a current disability that may be service connected on a secondary basis under 38 C.F.R. § 3.310(a).  VAOPGCPREC 1-2017.  In such a case, the evidence would need to reflect (1) a service-connected disability, or disabilities caused the Veteran to become obese, (2) the obesity was a substantial factor is causing another disability, and (3) the disability would not have occurred but for the obesity caused by the Veteran's service-connected disability or disabilities.  Id.
+
+The AOJ favorably found that the Veteran has a current disability of obstructive sleep apnea.  See April 2024 Rating Decision.  Any finding favorable to the claimant made by a VA adjudicator is binding on all subsequent agency of original jurisdiction and Board of Veterans' Appeals adjudicators, unless the favorable finding is rebutted by evidence that identifies a clear and unmistakable error in the favorable finding.  38 U.S.C. § 3.104(c).
+
+The Veteran is currently service connected for bilateral flat feet, which were caused by marching during active service.  See August 1975 Correspondence received February 2017.  The Veteran reported his weight at entrance as 116 pounds, however, a weight of 129 pounds is recorded on his December 1970 entrance exam.  See November 2023 Statement in Support of Claim; February 2017 STR - Medical.  Shortly after separation, the Veteran's weight was recorded as 125 pounds in June 1972.  See February 2017 STR - Medical.  The highest body weight in the records was recorded in May 2018 as 211 pounds, which reflects a body mass index (BMI) of 29.5.  See December 2023 CAPRI.  The Veteran reported his body weight to be 185 pounds as of November 2023.  See November 2023 Statement in Support of Claim.
+
+According to the Veteran's medical history, his obstructive sleep apnea had its onset in approximately 2000, with a diagnosis in 2005.  See January 2024 C&P Exam.  However, there are no medical records on file from around that time.  The earliest reference to obstructive sleep apnea is found in a July 2017 VA treatment note.  See April 2024 CAPRI.  A July 2024 sleep study confirmed mild obstructive sleep apnea.  See August 2024 CAPRI.  
+
+The Veteran submitted a private medical opinion in support of this claim.  The private clinician concluded that 1) the Veteran's weight gain was at least as likely as not due to his bilateral flat feet, 2) the Veteran's obstructive sleep apnea was at least as likely as not due to the Veteran's weight gain, and 3) without the Veteran's weight gain his obstructive sleep apnea would not have occurred.  The opinion does not state that the Veteran's claim file was reviewed.  In fact, the report stated that the Veteran's entrance examination was not made available.  See November 2023 Medical Treatment Record - Non-Government Facility.
+
+The Veteran was afforded a VA examination in connection with this claim.  The examiner concluded that the Veteran's obstructive sleep apnea was less likely than not caused by the Veteran's flat feet.  As rationale support this conclusion the examiner pointed out that the two conditions are unrelated.  However, the examiner did not provide an opinion as to whether obesity as an intermediate step could provide a causative relationship.  See January 2024 C&P Exam.
+
+In weighing the persuasiveness of the medical opinions, "the Board must analyze the credibility and probative value of the evidence, account for the evidence that it finds persuasive or unpersuasive and provide the reasons for its rejection of any material evidence favorable to the claimant."  Kahana v. Shinseki, 24 Vet. App. 428, 433 (2011) (citing Caluza v. Brown, 7 Vet. App. 498, 506 (1995).
+
+The Board finds the January 2024 VA examination to be inadequate for review.  The VA examiner does not address the central question of whether the Veteran's obesity or weight gain served as an intermediate step between flat feet and obstructive sleep apnea.  The failure to address this question renders the VA examiner's opinion inadequate for review as it does not assist the Board in weighing the Veteran's contention.  The Board will not remand this case to cure the adequacy of the examination because the Board may not remand solely for development of negative evidence.  Mariano v. Principi, 17 Vet. App. 305, 312 (2003).
+
+The Board finds that the November 2023 private opinion to be competent because the examiner has specialized medical training and experience.  It is internally consistent but is not consistent with other evidence on record.  Therefore, the Board affords the November 2023 private opinion report minimal probative weight.
+
+The November 2023 private opinion was premised on an entrance weight of 116 pounds, a current weight of 185 pounds and a current BMI of 26.5.  This represents a gain of 69 pounds.  However, the Veteran's entrance examination reported a weight of 129 pounds, which would represent a gain of 56 pounds.  Furthermore, the Veteran's reported weight of 185 pounds is not the highest recorded weight on record.  The highest weight was recorded in May 2018 at 211 pounds.  Together with the Veteran's weight at enlistment, this represents a maximum weight gain of 82 pounds.
+
+A further shortcoming of the November 2023 private opinion is that the clinician never ascribes the Veteran's obstructive sleep apnea to obesity, but rather to "weight gain."  In fact, the definition of obesity is never mentioned in the opinion nor how the Veteran's condition meets that definition.  Further, all the medical literature cited by the clinician refers to obesity and not merely weight gain.  Despite these shortcomings, it is not beyond the realm of possibility that the Veteran's BMI of 29.5 may nonetheless have the physiologic effects of obesity, especially given the Veteran's low weight for his 71 inch height on his entrance examination.
+
+When there is an approximate balance of evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.  38 U.S.C. § 5107; 38 C.F.R. § 3.102 (reasonable doubt to be resolved in Veteran's favor); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (the benefit-of-the-doubt rule applies if the competing evidence is in approximate balance).  
+
+Despite the shortcomings in the November 2023 private opinion, the Board finds the evidence to be at least in approximate balance in favor of the claim.  Therefore, entitlement to service connection of obstructive sleep apnea as secondary to bilateral flat feet, with obesity as an intermediate step, is warranted.
+
+ 
+
+ 
+
+Frederic P. Gallun
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Chris Bumgarner, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

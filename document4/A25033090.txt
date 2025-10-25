@@ -1,0 +1,75 @@
+Citation Nr: A25033090
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240805-460683
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Air Force from November 1991 to March 1992.
+
+This case comes to the Board of Veterans' Appeals (Board) on appeal from a July 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO), which denied service connection for bilateral hearing loss.
+
+In the August 2024 VA Form 10182, Notice of Disagreement (NOD), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record before the agency of original jurisdiction (AOJ) at the time of the July 2024 rating decision on appeal. 38 C.F.R. § 20.301. 
+
+However, because the Board is remanding the claim of service connection for bilateral hearing loss, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Generally, the Board may not decide an appeal before the deadline for requesting an Appeals Modernization Act (AMA) docket switch has elapsed. 38 C.F.R. § 20.202(c)(2) allows claimants to switch AMA dockets by completing and submitting a new NOD within one year from the date the AOJ mails notice of the decision on appeal, or 60 days from when the Board receives the NOD, whichever is later; unless a claimant has already submitted evidence or testimony as described in 38 C.F.R. §§ 20.302 and 20.303. However, as this claim is being remanded, not awaiting the time to elapse will not be prejudicial to the Veteran.  
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+The Veteran seeks service connection for bilateral hearing loss. He contends that this condition was caused by his in-service noise exposure, consisting of acoustic trauma from pistol and rifle fire; flash bangs; artillery simulator blasts; and sleeping next to a loud generator for three months straight. See June 2024 VA 21-526EZ, Application for Disability Compensation and Related Compensation Benefits; see also, June 2024, VA 21-4138, Statement in Support of Claim.
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service. 38 U.S.C. § 1110; 38 C.F.R. § 303(a). It may also be granted for any disease diagnosed after discharge, when all evidence establishes that the disease was incurred in service. 38 C.F.R. § 303(d).
+
+Generally, to establish service connection, a claimant must demonstrate: (1) the existence of a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. 38 C.F.R. § 3.303; see Shedden v. Principi, 381 F.3d 1163, 1166-1167 (Fed. Cir. 2004). 
+
+Certain chronic diseases will be presumed related to service, and service connected, if they were diagnosed as such in service. 38 C.F.R. § 3.303(b). If a chronic disease was not diagnosed in service but manifested to a compensable degree within a designated time period following separation from service (usually one year), then it is presumed to have been incurred or aggravated in service, despite a lack of in-service treatment or diagnosis. 38 C.F.R. §§ 3.307(a)(3), 3.309(a). Lastly, if there is a current chronic disease that was not diagnosed as such in service, service connection may be established if there is evidence of continuity of symptomatology since service, with no intervening cause. 38 C.F.R. §§ 3.303(b), 3.309(a).
+
+For VA compensation purposes, impaired hearing is considered a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz (Hz) is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent. 38 C.F.R. § 3.385.
+
+The threshold for normal hearing is from zero to 20 decibels, and higher threshold levels indicate some degree of hearing loss, while not necessarily rising to the level of a hearing loss disability to qualify for VA compensation. See Hensley v. Brown, 5 Vet. App. 155 (1993).
+
+In this case, the RO made a favorable finding with respect to the second element of service connection, which is binding on the Board. The RO found that a qualifying event, injury, or disease had its onset during military service, based on the Veteran's exposure to hazardous noise in his military occupational specialty (MOS) as Security Helper. See July 2024 rating decision.
+
+While the second element of service connection has been conceded by the VA, the other elements have yet to be established.
+
+A VA examination was conducted in June 2024, wherein the examiner determined that the Veteran had normal hearing bilaterally. See July 2024 Hearing Loss and Tinnitus Disability Benefits Questionnaire (DBQ). However, it was noted in the examination report that the audiologist was unable to obtain/maintain seal during the hearing loss examination, which may have produced inaccurate results. Id. The Board finds this examination and opinion to be inadequate for the purposes of adjudication of the Veteran's claim.
+
+Where VA provides the Veteran with an examination in a service connection claim, the examination and opinion must be adequate. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). Here, the RO's failure to obtain an adequate medical opinion constitutes a pre-decisional duty to assist error, which requires remand to correct under the AMA. The Veteran should be afforded a new medical examination and opinion to determine the nature and etiology of any bilateral hearing loss. 38 C.F.R. § 20.802.
+
+In addition to the above, the Board notes that while the Veteran's entry medical examination is in the file, and does not indicate any hearing-related issues, the Board was unable to locate his medical examination prior to separation from service. The RO's failure to obtain a copy of same also constitutes a pre-decisional duty to assist error, as it is relevant to the Veteran's claim that he developed bilateral hearing loss while in service. On remand, a copy of the Veteran's separation examination and report of medical history should be associated with the file.
+
+The matter is REMANDED for the following actions:
+
+1. In remanding this matter, the Board makes no finding, implicit or otherwise, as to the credibility of the Veteran's assertions. Neither the Veteran's credibility nor lack thereof should be presumed in this remand.
+
+2. Make reasonable efforts to obtain the Veteran's separation medical examination and report of medical history. The Board notes that the Veteran's records appear to only contain an enlistment examination and report of medical history, without a report of medical examination and report of medical history immediately preceding separation from active-duty service. 
+
+If the record is unavailable, that fact must be clearly documented in the claims file. Efforts to obtain these records must continue until it is determined that they do not exist or that further attempts to obtain them would be futile. Required notice must be provided to the Veteran and his representative.
+
+3. Obtain a new VA examination and opinion from an appropriate clinician regarding the nature and etiology of the Veteran's claimed bilateral hearing loss disorder. The Veteran's entire claims file must be made available to the examiner, including a copy of this remand order. After reviewing the claims file and performing an examination, the examiner should opine on the following:
+
+(a.) Identify/diagnose any hearing loss disorder that presently exists or that has existed during the period on appeal. A specific finding should be made as to whether the Veteran currently has or has had a hearing loss disability for VA purposes. If the examiner is again unable to obtain/maintain a seal for tympanometry purposes, the examiner must address whether failing to obtain/maintain a seal impacts the Veteran's pure tone threshold and/or speech discrimination findings.
+
+(b.) Whether it is at least as likely as not that the Veteran's right and/or left ear hearing loss disorder is etiologically related to the conceded in-service noise exposure. 
+
+A complete rationale must be provided for the opinion and any resort to speculation must be explained.
+
+ 
+
+ 
+
+G. A. WASIK
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Riccio, C., Associate Attorney
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

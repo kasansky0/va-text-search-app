@@ -1,0 +1,85 @@
+Citation Nr: A25031870
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 241216-494434
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to service connection for sleep apnea syndromes (recharacterization) is granted.
+
+FINDING OF FACT
+
+The Veteran's sleep apnea syndromes (sleep apnea) were caused by his service-connected right and left knee disabilities.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for sleep apnea as secondary to right and left knee disabilities have been met. 38 U.S.C. §§ 1110,?1131, 5107; 38 C.F.R. §§ 3.303(a), 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from May 1967 to February 1970. The Board recognizes his service to our country, and the sacrifices it necessarily entailed. 
+
+This matter is on appeal to the?Board of Veterans' Appeals?(Board) from a November 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO), which is also the agency of original jurisdiction (AOJ). In that decision, the AOJ determined that new and relevant evidence had been received and readjudicated the merits of the claim. 38 C.F.R. § 3.104 (c).
+
+In August 2024, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, requesting readjudication of the issue of service connection for sleep apnea addressed in the May 2024 decision.  In November 2024, the AOJ issued the supplemental claim decision, which found new and relevant evidence had been received, but denied the claim based on the record of evidence at that time. This is the decision now on appeal.
+
+On the December 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement or NOD), the Veteran elected Evidence Review.  In December 2024, the Veteran submitted additional evidence within the allowable period for evidentiary submissions. 
+
+Therefore, the Board may consider the evidence of record at the time of the November 2024 rating decision as well as the evidence submitted by the Veteran after his VA Form 10182.  38 C.F.R. § § 20.301 and 20.303.
+
+As a preliminary matter, the Board notes that the November 2024 rating decision erroneously states that it responds to a new claim filed by the Veteran in July 2024. As noted above, the November 2024 rating decision derives from a May 2024 rating decision and subsequent August 2024 supplemental claim. 
+
+This appeal has been advanced on the Board's docket. 38 C.F.R. § 20.900 (c).? 
+
+Service connection for sleep apnea is granted.
+
+The Veteran contends his sleep apnea disability is related to service because his symptoms are caused or aggravated by his service-connected hypertension, and by his obesity and opioid dependence, which are medical conditions caused by his service-connected knee disabilities. August 2024 Statement (Form VA 21-4138); December 2024 NOD.
+
+The Board notes that in the May 2024 and November 2024 rating decisions, the AOJ defined the Veteran's disability as "obstructive" sleep apnea. However, as will be discussed, the record includes diagnoses of both obstructive and central sleep apnea. Accordingly, the Board has recharacterized the disability as sleep apnea syndromes, which include obstructive, central and mixed, as defined by Diagnostic Code 6847 of the VA Schedule for Rating Disabilities. 
+
+In general, service connection may be established on a secondary basis for a disability resulting from a service-connected disease or injury. 38 C.F.R. § 3.310 (a). Establishing service connection on a secondary basis requires evidence sufficient to show (1) a current disability exists and (2) that it was either caused or aggravated by a service-connected disability. See Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+Notably, when analyzing a claim for secondary service connection, the legal threshold for establishing the causal nexus between the service-connected primary disability and the claimed secondary disability is simple "but-for" causation, a broad standard that allows for multiple causes. Spicer v. McDonough, 61 F.4th 1360, 1363 (Fed. Cir. 2023). See also, Burrage v. United States, 71 U.S. 204, 211-12 (2014). 
+
+Similarly, but-for causation may involve intermediate steps between the primary and secondary disabilities. Intermediate steps may be medical conditions that do not qualify on their own as VA disabilities, such as obesity (e.g., a service-connected back injury prevents the veteran from exercising, resulting in weight gain that causes or aggravates a foot disability), as well as medications and treatments for the primary disability. Garner v. Tran, 33?Vet. App.?241, 247-48 (2021); Spicer, 61 F.4th at 1365-1366. 
+
+For purposes of secondary service connection, causation and aggravation are "conceptually synonymous" because "aggravation is just causation of an increase in disability-i.e., a discrete portion of disability-rather than of the whole disability itself." Walsh v. Wilkie, 32 Vet. App. 300, 306 (2020).
+
+In April 2024, the Veteran underwent a VA examination focused on the possible causal connection between obstructive sleep apnea and his service-connected hypertension. The examiner opined that the sleep apnea is at least as likely as not caused by or due to hypertension. 
+
+As rationale, the examiner explained that obstructive sleep apneas, or interruptions of breathing, occur when the airway collapses during sleep. Citing medical literature, the examiner noted that hypertension has a medical association but not a causal relationship to sleep apnea, and that the greatest risk factor for sleep apnea is obesity. April 2024 VA examination.
+
+The Board will not make a finding of service connection regarding sleep apnea secondary to hypertension, as other medical evidence in the record clearly establishes a basis for service connecting the Veteran's sleep apnea to his dependence on opioids to treat his knee disabilities. 
+
+The Veteran has a long history of painful knee disabilities. In 1970, he was granted service connection for arthralgia of both knees. April 1970 rating decision. Over time, the Veteran's knee pain increased due to knee surgeries, osteoarthritis, and other conditions that developed. See October 2014 treatment record, March 2024 Medical Treatment Record - Non-Government Facility. At least since 2007, continuing to the present, the Veteran has relied on prescribed opioids to treat the pain. See, e.g., March 2007 treatment record, April 2012 Medical Treatment Record - Non-Government Facility; February 2024 treatment record, March 2024 Medical Treatment Record - Non-Government Facility. 
+
+In July 2011, the Veteran first sought treatment for disturbed sleep symptoms. Based on a sleep study, he was diagnosed with severe obstructive sleep apnea. July 2011 record, April 2012 Medical Treatment Record - Non-Government Facility. The Veteran's sleep specialist prescribed a continuous positive airway pressure (CPAP) at night, which improved his symptoms. See, e.g., January 2012 record, Id. However, over the years, treatment records show ongoing problems treating the symptoms. The Veteran reported headaches, waking up with his chest hurting due to pressure and an inability to get enough air. See, e.g., May 2016 record, September 2024 Medical Treatment Record - Non-Government Facility. He discontinued use of the CPAP on occasion. See, e.g., January 2023 record, September 2024 Medical Treatment Record - Non-Government Facility.  
+
+In February 2016, the Veteran's sleep specialist, on careful review of a 2014 sleep study, concluded that the Veteran's breathing also indicated central sleep apnea. Based on that, the provider revised the treatment plan. See February 2016 treatment record, September 2024 Medical Treatment Record - Non-Government Facility.
+
+A September 2024 medical examination by the Veteran's sleep specialist confirmed those findings. The specialist reviewed the Veteran's medical history, medications and in particular, current breathing recordings from his CPAP. The examiner identified severe sleep disordered breathing with respirations that were consistent with central sleep apnea. The examiner further opined that the Veteran's sleep apnea is due to long-term opioid therapy. In the treatment plan, the examiner noted potential adjustments to address the central sleep apnea in conjunction with the Veteran's obstructive sleep apnea symptoms. See September 2024 record, September 2024 Medical Treatment Record - Non-Government Facility.
+
+The Board notes there is no contrary medical opinion in the record regarding the Veteran's sleep apnea as it relates to his opioid dependence. The Board finds this examination persuasively establishes the increase in the Veteran's sleep apnea symptoms due to opioids. The examination was based on a review of the chronology of the Veteran's symptom onset and progression, treatment history and objective test results.  Nieves-Rodriguez v. Peake, 22?Vet. App.?295 (2008).
+
+The Veteran submitted two medical journal studies that support a finding that opioids cause respiratory depression and are associated with each of the sleep apnea syndromes. One study found a scientific consensus that opioids cause central sleep apnea, which manifests in impaired respiratory drive and breathing cessation without respiratory effort. See Journal of Clinical Sleep Medicine, December 2024 Correspondence. 
+
+The study noted that discontinuation of opioids is related to a reversal of central sleep apnea. Regarding obstructive sleep apnea, the study noted that opioids also impair upper airway function and some analyses show a causal relationship, although the effect of opioids on specific traits of obstructive sleep apnea varies and is the topic of ongoing medical research. Id.
+
+In another study, of Veterans with obstructive sleep apnea, the authors sought to isolate the effect of opioids on sleep from the effect of other comorbidities common to sleep apnea, such as obesity, post-traumatic stress disorder and smoking. The study results confirmed that opioids contribute to impaired breathing, upper airway obstruction and can induce central apneas. See Pain, December 2024 Correspondence.
+
+The Board observes that this current medical research is consistent with the medical examiners' nexus findings. The Board finds that the evidence of record persuasively demonstrates a but-for relationship between the Veteran's sleep apnea and knee disabilities due to intermediate treatment with opioids and service connection is warranted for sleep apnea syndromes as secondary to the Veteran's knee disabilities. The appeal is granted.
+
+ 
+
+ 
+
+Timothy Cothrel
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jaeger, L
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,75 @@
+Citation Nr: A25031690
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 231217-404471
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to an increased rating in excess of 10 percent for sinusitis is denied.
+
+Entitlement to an increased rating in excess of 0 percent for allergic rhinitis is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran sinusitis symptoms more closely approximate that of sinusitis requiring prolonged (lasting four to six weeks) of antibiotic treatment.
+
+2. The Veteran allergic rhinitis symptoms did not have greater than 50 percent obstruction of the nasal passage on both sides, did not have complete obstruction on either side, did not have nasal polyps, did not have permanent hypertrophy of the nasal turbinates, and did not have granulomatous conditions.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to a rating in excess of 10 percent for sinusitis have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.97, Diagnostic Code (DC) 6513.
+
+2. The criteria for entitlement to a rating in excess of 0 percent for allergic rhinitis have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.97, Diagnostic Code (DC) 6522.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served in the United States Army from September 2009 to February 2013.
+
+The matter on appeal arises from a November 2023 rating decision.  In the December 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+1. Entitlement to an increased rating in excess of 10 percent for sinusitis is denied.
+
+The Veteran contends that his sinusitis warrants an increased rating.  The Veteran's sinusitis is currently evaluated as 10 percent under the appropriate DC 6513, which evaluates maxillary chronic sinusitis. The relevant temporal focus for this disability is one year prior to the date of receipt of the claim, so from July 10, 2022.  38 C.F.R. § 3.400.
+
+Under DC 6513, a 10 percent rating is assigned for one or two incapacitating episodes per year of sinusitis requiring prolonged (lasting four to six weeks) antibiotic treatment, or; three to six non-incapacitating episodes per year of sinusitis characterized by headaches, pain, and purulent discharge or crusting. A 30 percent rating is assigned for three or more incapacitating episodes per year of sinusitis requiring prolonged (lasting four to six weeks) antibiotic treatment, or; more than six non-incapacitating episodes per year of sinusitis characterized by headaches, pain, and purulent discharge or crusting. A 50 percent rating is assigned following radical surgery with chronic osteomyelitis, or; near constant sinusitis characterized by headaches, pain and tenderness of affected sinus, and purulent discharge or crusting after repeated surgeries. A Note to the General Rating Formula for Sinusitis provides that an incapacitating episode of sinusitis means one that requires bed rest and treatment by a physician. 38 C.F.R. § 4.97.
+
+The Veteran underwent a Sinusitis VA examination in September 2023.  The examiner confirmed a diagnosis of chronic sinusitis.  The Veteran's signs or symptoms attributable to chronic sinusitis are chronic sinusitis detected only by imaging studies, episodes of sinusitis, headaches, pain of affected sinus, nasal congestion, postnasal drip, cough, dyspnea, wheezing, sinus pain and headaches.  The examiner reported that the Veteran had 4 non-incapacitating episodes of sinusitis characterized by headaches, pain and purulent discharge or crusting in the past 12 months.  He also had no incapacitating episodes of sinusitis requiring prolonged antibiotics treatment in the past 12 months.  He has not had sinus surgery, either.  The Veteran's sinus condition did not impact his ability to work.     
+
+Based on the foregoing, the Board finds that a rating in excess of 10 percent is not warranted, as the evidence of record does not reflect, nor otherwise suggest, that the Veteran's chronic sinusitis resulted in 3 or more incapacitating episodes per year requiring prolonged (lasting 4 to 6 weeks) antibiotic treatment, more than six non incapacitating episodes per year of sinusitis characterized by headaches, pain, and purulent discharge, or crusting, radical surgery with chronic osteomyelitis, nor had a near-constant frequency after repeated surgeries.  
+
+While the February 2024 Appellate Brief argues that the September 2023 VA examiner did not address the number of non-incapacitating episodes experienced by the Veteran due to his sinusitis, a review of the September 2023 VA examination shows that the examiner did, in fact, characterize the severity of the disability as resulting in 4 non-incapacitating episodes a year.  In addition, there was no indication that the Veteran experienced incapacitating episodes due to his service-connected sinusitis.  The Veteran made no contemporaneous reports of symptoms that would best be characterized as sinusitis episodes of greater severity or frequency. While other medical evidence reflects treatment of his reported symptoms, the competent and objective evidence does not indicate his disability was more severe to warrant a higher rating for this time.
+
+Therefore, the Board finds that the persuasive evidence does not support the assignment of a rating higher than a 10 percent rating in this case. The Board notes that the lay assertions of the Veteran have been considered. See Layno v. Brown, 6 Vet. App. 465, 470 (1994). To the extent that the Veteran has argued that a higher rating than 10 percent for his chronic sinusitis is warranted, these assertions are outweighed by more probative evidence provided by the examination of a qualified medical professional. See Jones v. Brown, 7 Vet. App. 134, 137-138 (1994). As such, his lay statements do not provide any basis upon which to assign any higher ratings.
+
+The Board finds the evidence is not in approximate balance, the criteria for a higher rating are not met or more nearly approximated, and there is no reasonable doubt to resolve in favor of the Veteran. 38 U.S.C. § 5107(b).  Therefore, the claim for an increased rating is denied. 
+
+2. Entitlement to an increased rating in excess of 0 percent for allergic rhinitis is denied.
+
+The Veteran contends that his allergic rhinitis warrants an increased rating.  The Veteran's allergic rhinitis has been rated under Diagnostic Code 6522 and has been assigned a 0 percent rating.  The relevant temporal focus for this disability is one year prior to the date of receipt of the claim, so from July 10, 2022.  38 C.F.R. § 3.400.
+
+Under Diagnostic Code 6522, a 10 percent rating is assigned for allergic rhinitis without polyps, but with greater than 50 percent obstruction of nasal passage on both sides or complete obstruction on one side. A 30 percent rating is assigned for allergic rhinitis with polyps. 38 C.F.R. § 4.97, Diagnostic Code 6522.
+
+At the September 2023 VA examination, the examiner diagnosed allergic rhinitis. On examination, the examiner indicated that allergic rhinitis did not have greater than 50 percent obstruction of the nasal passage on both sides, did not have complete obstruction on either side, did not have nasal polyps, did not have permanent hypertrophy of the nasal turbinates, and did not have granulomatous conditions.
+
+The VA examination and treatment records show allergic rhinitis without polyps, but the record does not show greater than 50 percent obstruction of nasal passage on both sides or complete obstruction on one side, nor does the medical record show allergic rhinitis with polys which is required for the assignment of higher ratings under the criteria for rating rhinitis.
+
+Based upon the results from the VA examination and treatment records, the Board finds that the criteria for an increased rating in excess of 0 percent have not been met. The evidence does not show allergic rhinitis has ever been found to have manifested with polyps, or without polyps but with greater than 50 percent obstruction of nasal passage on both sides or complete obstruction on one side which is required for the assignment of a higher rating. 38 C.F.R. § 4.97. The Board finds the evidence of the VA examination is the most persuasive evidence of record as it was based on examination of the Veteran by a medical professional and provided evidence responsive to the rating criteria.
+
+The Board finds the evidence is not in approximate balance, the criteria for a higher rating are not met or more nearly approximated, and there is no reasonable doubt to resolve in favor of the Veteran. 38 U.S.C. § 5107(b).  Therefore, the claim for an increased rating is denied. 
+
+ 
+
+ 
+
+ANTHONY C. SCIRÉ, JR
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C.J. Cho
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

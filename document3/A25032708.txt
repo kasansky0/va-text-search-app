@@ -1,0 +1,81 @@
+Citation Nr: A25032708
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 230413-338632
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for a neurological disorder of the left lower extremity is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from December 1997 to December 2005; July 4, 2007 to October 11, 2007; and from October 8, 2011 to January 22, 2012. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a December 2022 Appeals Modernization Act (AMA) higher-level review rating decision by the Agency of Original Jurisdiction (AOJ) that considered the evidence of record as of the date of a March 2022 rating decision. In April 2023, the Veteran submitted a VA Form 10182 requesting Direct Review as the review option.
+
+Based on the Veteran's election, the Board may only consider the evidence of record at the time of the March 2022 rating decision. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the March 2022 rating decision, which was subsequently subject to higher-level review, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+Any additional evidence associated with the claims file during a period of time when additional evidence was not allowed has not been considered. If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Entitlement to service connection for a neurological disorder of the left lower extremity. 
+
+Under the AMA, if a duty to assist error occurred prior to the AOJ's decision on appeal, the appeal must be remanded to the AOJ for correction of the error. 38 C.F.R. § 20.802(a).
+
+As a preliminary matter, it appears that relevant private medical treatment records are outstanding. In this regard, the Veteran's VA medical treatment records reflect that he has an outside primary care doctor. See June 2020 VA Medical Treatment Record. At a March 2021 VA medical treatment visit, the Veteran reported that he had an outside MRI of his left lower extremity nerves completed. A December 2021 VA Examination report reflects that the Veteran was under the care of a Dr. Kamel; the report also included EMG results taken by Dr. Kamel.  Further, a February 2022 VA examiner noted that the Veteran was scheduled to have another EMG of his left lower extremity with his neurologist soon.  These private medical treatment records are not included in the Veteran's claims file. On remand, the Veteran's complete private medical treatment records must be obtained.
+
+The Veteran has undergone three VA examinations for his claimed left lower extremity neurological disorder -  in March 2020, December 2021, and February 2022. All of these examinations found that the Veteran did not have a diagnosis of radiculopathy of the left lower extremity, relying on EMGs that were performed elsewhere in January 2020 and July 2020. However, the Veteran's most recent VA treatment records list both sciatica and "pain radiating to left leg" as current, active problems. See February 2022 VA Medical Treatment Record. No medical opinion has been obtained as to whether these disabilities were caused or aggravated by his service-connected degenerative disc disease of the lumbar spine.  See 38 C.F.R. § 3.310.  As such, an additional medical opinion must be obtained on remand.
+
+On VA examination in December 2021, the VA examiner provided an opinion that the Veteran's diagnosed left superficial peroneal neuropathy was not proximately due to his service-connected degenerative disc disease of the lumbar spine.  However, the examiner did not offer an opinion regarding whether the Veteran's service-connected degenerative disc disease of the lumbar spine aggravated his left superficial peroneal neuropathy.  El-Amin v. Shinseki, 26 Vet. App. 136 (2012) (medical opinions addressing secondary service connection must discuss both causation and aggravation).   An adequate medical opinion must be obtained on remand.
+
+Further, the Veteran's treatment records associated with his National Guard service show that he reported being exposed to hazardous chemicals, including carbon dioxide, gases, lead, fumes/fires, and dust.  See Medical Evaluation Questionnaires, dated September 11, 2018 and September 16, 2019.  His DD-214s show that he participated in Navy aviation boatswain mate (fuels) training and was a fire protection apprentice.  
+
+Therefore, a remand is warranted under the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxins Act of 2022 (PACT Act), which was enacted effective August 10, 2022.  The rating decision on appeal was issued shortly after the enactment of the PACT Act and, thus, failure to obtain a TERA-specific examination or medical opinion is a pre-decisional duty-to-assist error.  38 C.F.R. § 20.802.  Also, remanding to fulfill a regulatory or statutory duty pursuant to 38 U.S.C. § 1168 and 38 C.F.R. § 20.802 is a valid reason to remand under the AMA.  As such, on remand, the AOJ must conduct any necessary development related to the PACT Act, to include preparing a TERA memorandum and scheduling the Veteran for a TERA examination, if appropriate.
+
+?
+
+Finally, a review of the Veteran's National Guard treatment records suggests that he may have had additional periods of active duty.  Therefore, his complete dates of service must be verified on remand. 
+
+The matters are REMANDED for the following action:
+
+1. Verify the Veteran's complete dates of active duty and active duty for training.
+
+2. Considering the PACT Act, perform development to determine whether the Veteran participated in a "toxic exposure risk activity" (TERA) in his active service duties, specifically considering potential exposures as a result of his MOS as a fire protection apprentice and his participation in in Navy aviation boatswain mate (fuels) training.  As noted above, the Veteran has reported being exposed to hazardous chemicals, including carbon dioxide, gases, lead, fumes/fires, and dust.
+
+3. Then, issue a TERA Memorandum and, if appropriate, schedule the Veteran for a TERA examination concerning his claim for service connection for a neurological disorder of his left lower extremity.
+
+4. Obtain the Veteran's complete private medical treatment records, to include records from his private primary care doctor, records from Dr. Kamel, and results from the private MRI and EMG tests referenced by the Veteran (see above). 
+
+5. Thereafter, schedule an appropriate VA compensation examination to determine the nature and etiology of the Veteran's claimed left lower extremity neurological disorder. The entire claims file and a copy of this REMAND must be made available to the examiner in conjunction with the examination. 
+
+The examiner must note in the examination report that the evidence in the claims file has been reviewed.  
+
+The examiner should elicit a full history from the Veteran. The examination should include any necessary diagnostic testing or evaluation. 
+
+The examiner must identify, by diagnosis, any left lower extremity neurological disorder found to be present, to include sciatica, peroneal neuropathy, any radiculopathy, and/or any disability manifested by pain radiating down the left leg.
+
+For each left lower extremity neurological disorder  found to be present, the examiner should provide an opinion as to whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the condition was (i) caused (in whole or in part) by, or (ii) aggravated (any incremental increase in disability or any additional impairment of earning capacity regardless of its permanence) by his service-connected lumbar spine degenerative disc disease. 
+
+Separate opinions and rationales must be provided for secondary causation and secondary aggravation.  
+
+In providing any opinion concerning aggravation, the examiner is advised that a "permanent worsening" is not required to establish secondary service connection on the basis of aggravation; rather, aggravation may include temporary worsening, or flare-ups, of a disability.
+
+?
+
+A complete rationale for all opinions must be provided.
+
+ 
+
+ 
+
+P.M. DILORENZO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Mohammad, Tahmina
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

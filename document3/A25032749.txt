@@ -1,0 +1,77 @@
+Citation Nr: A25032749
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240711-453706
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for sleep apnea as secondary to the Veteran's service-connected musculoskeletal disabilities, with obesity as an intermediate step, is granted.
+
+FINDING OF FACT
+
+Resolving reasonable doubt in favor of the Veteran, his service-connected musculoskeletal disabilities caused obesity, which was a substantial factor in developing sleep apnea, which would not have occurred but for his obesity.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for sleep apnea as secondary to the Veteran's service-connected musculoskeletal disabilities, with obesity as an intermediate step, have been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 2008 to May 2009.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the July 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board notes that pursuant to 38 C.F.R. § 20.202(c)(2), a claimant may modify the VA Form 10182 to change the Board docket being requested.  The time limit for such modification is "within one year from the date that the [AOJ] mails notice of the decision on appeal, or within 60 days of the date that the Board receives the [NOD], whichever is later."  See 38 C.F.R. § 20.202(c)(2).  "[T]he Board ordinarily may not decide an appeal before this time period is up."  See Williams v. McDonough, 37 Vet. App. 305 (2024).  Here, although the time period for the Veteran to change the Board docket being requested has not passed, the Board finds that there is no prejudice to the Veteran in adjudicating the appeal at this time because the Board is granting the full benefit sought in this appeal.
+
+Service Connection Laws and Regulations
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Establishing service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the current disability.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service connection may also be granted for a disability that is proximately due to or the result of a service-connected disability.  38 C.F.R. § 3.310 (a).  When service connection is thus established for a secondary condition, the secondary condition shall be considered a part of the original condition.  See 38 C.F.R. § 3.310 (a); Harder v. Brown, 5 Vet. App. 183, 187 (1993).  The controlling regulation has been interpreted to permit a grant of service connection not only for disability caused by a service-connected disability, but for the degree of disability resulting from aggravation of a non-service-connected disability by a service-connected disability.  See Allen v. Brown, 7 Vet. App. 439, 448 (1995).  To establish service connection on a secondary basis, there must be (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) medical evidence establishing a nexus between the service-connected disability and the current disability.  See Wallin v. West, 11 Vet. App. 509, 512 (1998).
+
+While obesity cannot be directly service-connected, it may act as an "intermediate step" to establish proximate causation between a service-connected disability and a current disability that may be service connected on a secondary basis under 38 C.F.R. § 3.310(a).  In order to establish a service-connected disability proximately caused by a current disability through obesity, the adjudicator must determine: (1) whether the service-connected disability caused the veteran to become obese; (2) if so, whether the obesity as a result of the service-connected disability was a substantial factor in causing the current disability; and (3) whether the current disability would not have occurred but for obesity caused by the service-connected disability.  If all of the above questions are answered in the affirmative, then the current disability may be service connected on a secondary basis.  The Court of Appeals for Veterans Claims recently held that obesity as an "intermediate step" in a causal chain for service connection can be established on either a causal or aggravation basis.  See Walsh v. Wilkie, 32 Vet. App. 300, 306 (2020).
+
+In rendering a decision on appeal the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the claimant.  Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994); Gilbert v. Derwinski, 1 Vet. App. 49, 57 (1990).  Competency of evidence differs from weight and credibility.  Competency is a legal concept determining whether testimony may be heard and considered by the trier of fact, while credibility is a factual determination going to the probative value of the evidence to be made after the evidence has been admitted.  Layno v. Brown, 6 Vet. App. 465, 469 (1994); see also Cartright v. Derwinski, 2 Vet. App. 24, 25 (1991) ("although interest may affect the credibility of testimony, it does not affect competency to testify").
+
+Generally, the degree of probative value which may be attributed to a medical opinion issued by a VA or private treatment provider takes into account such factors as its thoroughness and degree of detail, and whether there was review of the claims file.  See Prejean v. West, 13 Vet. App. 444, 448-9 (2000).  Also significant is whether the examining medical provider had a sufficiently clear and well-reasoned rationale, as well as a basis in objective supporting clinical data.  See Bloom v. West, 12 Vet. App. 185, 187 (1999); Hernandez-Toyens v. West, 11 Vet. App. 379, 382 (1998); see also Claiborne v. Nicholson, 19 Vet. App. 181, 186 (2005) (rejecting medical opinions that did not indicate whether the physicians actually examined the veteran, did not provide the extent of any examination, and did not provide any supporting clinical data).
+
+When all the evidence is assembled, VA is responsible for determining whether the evidence supports the claim or is in approximate balance, with the veteran prevailing in either event, or whether the weight of the evidence is against a claim, in which case, the claim is denied.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+Entitlement to service connection for sleep apnea as secondary to the Veteran's service-connected disabilities, with obesity as an intermediate step.
+
+The Veteran asserts that he experienced weight gain as a direct result of his service-connected disabilities, and in turn, this weight gain caused or aggravated his sleep apnea.
+
+Initially, the Board notes that the July 2024 rating decision on appeal made binding favorable findings that the Veteran is diagnosed with sleep apnea during the appeal period and that the Veteran is service connected for musculoskeletal issues, including lumbar spine, right shoulder, and bilateral hip disabilities.
+
+Thus, the relevant question is whether there is a nexus between the Veteran's sleep apnea and his service connection musculoskeletal disabilities.  Following a review of the evidence, and as discussed further below, the Board finds that the conflicting medical opinion evidence is at least in approximate balance as to whether the Veteran's obesity is an intermediate step between his service-connected musculoskeletal disabilities and his sleep apnea, and as such, the claim is granted.
+
+In a May 2024 private nexus opinion submitted in conjunction with the Veteran's claim, Dr. Michael J. DiBernardo, MD, opined that the Veteran's sleep apnea was related to his musculoskeletal disabilities and resulting obesity.  Based upon a review of the Veteran's medical history and in-person examination, Dr. DiBernardo stated that the Veteran's obstructive sleep apnea (OSA) has "definitely been brought on by increased weight/obesity" and that the Veteran's "significant muscle skeletal pain and injuries that have occurred while he was on duty, he has been very limited in his ability to exercise thus leading to the weight gain."  He concluded that if it were "not for the Veteran's pain and discomfort from his service-related problems with the muscle skeletal and joint pain and discomfort, he would have been able to better control his weight and better avoid the development of the obstructive sleep apnea."  The Board affords the May 2024 private medical opinion high probative weight because the examiner reviewed the Veteran's medical file, discussed the Veteran's specific risk factors, and provided a well-reasoned rationale to support the ultimate conclusion.  Additionally, this opinion was provided by the Veteran's own treating physician based upon his knowledge of the Veteran's medical history and in-person examination.
+
+In June 2024, a VA examiner opined that the Veteran's sleep apnea is a separate entity entirely from his right shoulder strain and unrelated to it, based on a thorough review of medical literature which failed to demonstrate a causal relationship between the conditions.  The Board finds the June 2024 VA medical opinion to be of low probative value as the examiner did not address the Veteran's secondary theory, including with obesity as an intermediate step, and also failed to address the Veteran's additional service-connected musculoskeletal disabilities.
+
+In July 2024, an additional VA examiner opined that the sleep apnea was less likely than not related to his service-connected musculoskeletal disabilities of the lumbar spine, right shoulder, and bilateral hips, as the medical evidence in the record and medical literature did not support a causal relationship between the Veteran's service-connected disabilities and sleep apnea, which do not share the same pathophysiologic disease mechanisms.  Significantly, the VA examiner also concluded that "[i]t is much more likely that the [sleep apnea] condition is due to the [Veteran's] obesity [and] very large neck" of 18.5 inches in circumference, which was noted to be "a risk factor for obstruction."  To the extent that this July 2024 VA medical opinion addressed a lack of a causal relationship between the Veteran's service-connected musculoskeletal disabilities and his sleep apnea, the Board affords the opinion limited probative value, as the Veteran's theory is based upon obesity as an intermediate step.  Moreover, the Board finds the examiner's statement that the Veteran's sleep apnea is "much more likely" due to obesity to be of probative value that weighs in favor of the Veteran's claim.
+
+Notably, the same VA examiner also provided an additional July 2024 VA medical opinion that the Veteran's obesity was less likely than not related to the Veteran's service-connected disabilities.  The examiner reviewed the claims file and, after reviewing the leading causes of obesity, stated that it was impossible to determine why the Veteran gained weight.  The examiner stated that there was no way to predict why the Veteran gained weight without mere speculation, and that merely accepting the Veteran's lay statements as fact overlooks all of the other possible causes of obesity.  The examiner concluded the opinion by noting the Veteran's large neck size as a contributory factor of his OSA and stated that his obesity is not a substantial factor in causing his OSA.  Thus, the examiner concluded, there is no nexus.  To the extent that this addendum opinion conflicts with the examiner's prior July 2024 opinion that the Veteran's sleep apnea is much more likely due to obesity, the Board finds it to be of reduced probative value.  Additionally, neither of the July 2024 VA examiner's opinions addressed the May 2024 private nexus opinion, which was of record at the time. This is significant as the private medical opinion discussed the medical processes of developing sleep apnea, to include as a result of obesity, within the context of the Veteran's particular circumstances and by his treating physician.  Furthermore, while noting a list of possible causes of obesity and noting a thorough review of the Veteran's claims file, the examiner did not note which of the listed risk factors or causes pertain to the Veteran such that his obesity could not be considered a substantial factor and it would instead be one, or a combination, of the other factors.  As such, the second July 2024 VA opinion is also of reduced probative value.
+
+Given the above, the Board finds that the conflicting VA and private medical opinion evidence is at least approximately balanced as to whether there is a nexus between the Veteran's sleep apnea and his service-connected musculoskeletal disabilities, with obesity as an intermediate step.  As such, the benefit of the doubt doctrine is for application, and the claim of entitlement to service connection for sleep apnea as secondary to the Veteran's service-connected musculoskeletal disabilities, with obesity as an intermediate step, is granted.  Lynch, 21 F.4th 776.
+
+ 
+
+ 
+
+D. C. JOHNSON
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Makarenko, Darya A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

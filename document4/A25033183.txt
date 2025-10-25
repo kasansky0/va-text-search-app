@@ -1,0 +1,75 @@
+Citation Nr: A25033183
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240910-473134
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to an initial rating in excess of 10 percent for left wrist sprain is remanded.
+
+Entitlement to an initial rating in excess of 10 percent for right wrist sprain is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from February 1986 to May 1995.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from October 2023 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO) which granted service connection for left and right wrist sprain, rated at 10 percent respectively effective February 14, 2019.  
+
+Although the Veteran initially requested Higher-Level Review when submitting the June 2020 VA Form 20-0996, Decision Review Request: Higher-Level Review, the Higher-Level Reviewer determined that there had been a duty to assist error and transferred the claims to the Supplemental Claim decision review lane for additional development.  
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the October 2023 agency of original jurisdiction (AOJ) supplemental claim decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+However, because the Board is remanding the Veteran's claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claims.  38 C.F.R. § 3.103(c)(2)(ii).
+
+1. Entitlement to an initial rating in excess of 10 percent for left wrist sprain.
+
+2. Entitlement to an initial rating in excess of 10 percent for right wrist sprain.
+
+The Veteran seeks a higher rating for her service-connected left and right wrist strain.  See September 2024 Form 10182.
+
+Following a review of the record, and as discussed further below, the Board finds that a remand is necessary to correct pre-decisional duty-to-assist (DTA) errors.
+
+Under the AMA, the Board must remand to the AOJ to correct pre-decisional DTA errors (including when the AOJ failed to make reasonable efforts to obtain VA treatment records or relevant federal or private treatment records, failed to obtain a VA examination, or provided an inadequate VA examination or opinion).  38 C.F.R. § 20.802(a).
+
+In May 2019, the Veteran underwent a VA examination, in which the examiner diagnosed right wrist sprain and degenerative arthritis of the left wrist.  The Veteran is right hand dominant.  During the examination, the Veteran reported aching in the dorsum of both wrists, worse on the left.  This aching/pain reportedly impacts her ability to work, as she noted having difficulty typing and operating a mouse while she was working on the computer.  The examiner noted pain with weight-bearing for both wrists, but no localized tenderness or pain on palpation of the joint or associated soft tissue.  The examiner also noted reduced muscle strength in the left wrist due to the diagnosed arthritis.  No reduction in muscle strength, however, was noted for the right wrist.  Additionally, no muscle atrophy or ankylosis was noted for either wrist. 
+
+About a year later, the Veteran underwent another VA examination, in which the examiner diagnosed carpal tunnel syndrome in both wrists.  During the examination, the Veteran reported having increased weakness in grip strength and dexterity to fingers (especially the 4th and 5th fingers of both hands).  According to the Veteran, these issues impact her ability to perform repetitive tasks, including computer work and house chores.  Specifically, the Veteran stated that she lost around a week of work time in the last year because she had difficulty typing due to wrist pain, difficulty driving due to decreased grip, and an inability to lift/carry objects during any flare-ups.  Notably, the examiner conceded that the carpal tunnel syndrome in both the Veteran's wrists can cause functional loss, such as loss of grip strength and dexterity in the hand, which is consistent with the Veteran's complaints.  The examiner also observed increased pain and additional loss of range of motion (ROM) for both wrists during repetitive motion testing.  No muscle atrophy or ankylosis, however, was noted for either wrist.
+
+Lastly, in May 2023, the Veteran underwent a VA examination, in which the examiner diagnosed bilateral wrist sprain.  During the examination, the Veteran reported that her wrist pain had worsened since service and was now occurring daily.  She also reported having difficulty lifting/carrying objects due to pain and limited ROM of both wrists, which caused her to lose about a week of work time in the last year.  Pain was noted upon active motion.  However, the Veteran denied flare-ups and no muscle atrophy or ankylosis was noted for either wrist.
+
+For background, disabilities of the wrist are rated under 38 C.F.R. § 4.71a, Diagnostic Codes (DCs) 5214 and 5215.  DC 5214, contemplating ankylosis of the wrist, provides for a 20 percent rating with favorable ankylosis in 20 to 30 degrees of dorsiflexion, a 30 percent for ankylosis in any other positions, except favorable, and a maximum 40 percent rating for unfavorable ankylosis in any degree of palmar flexion or with ulnar or radial deviation.  DC 5215, contemplating limitation of motion of the wrist, provides for a maximum 10 percent rating, regardless of the major or minor joint, for dorsiflexion to less than 15 degrees or palmar flexion limited in line with the forearm.
+
+In this case, the Veteran's service-connected left and right wrist sprain are currently rated at 10 percent each under DC 5215 based on limited motion and wrist pain.  This rating is the highest available under the DC. 
+
+Still, the VA has a duty to acknowledge and consider all regulations that are potentially applicable through the assertions and issues raised in the record and to explain the reasons and bases for its conclusions.  Schafrath v. Derwinski, 1 Vet. App. 589 (1991).  The Board must therefore consider whether other DCs are applicable. 
+
+A review of the record reveals evidence of symptoms, including diminished grip strength and limited dexterity of the fingers, that are not compensated by the currently assigned rating.  This raises the issue of whether functional ankylosis is found based on these additional symptoms for which entitlement to a higher rating is available for the wrist disabilities under DC 5214.  The Board finds that it is unclear whether a higher rating for left and right wrist residuals under DC 5214 is available under the current medical evidence.  38 C.F.R. § 4.14; Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994).  Of note, there is no medical opinion addressing this issue within the record prior to the rating decision on appeal.  To correct this pre-decisional DTA, the Board finds that remand is necessary to obtain a medical opinion addressing whether the Veteran's symptoms manifest as ankylosis or the functional equivalent of ankylosis.  Such finding would permit the Veteran's left and right wrist claims to be evaluated under DC 5214, which provides higher available ratings.  
+
+In addition, the Board finds that the issue of entitlement to a separate rating for peripheral nerve impairment has been raised by the record.  Specifically, VA examinations show symptoms of nerve impairment and a diagnosis of carpal tunnel syndrome regarding both wrists (a condition involving the compression of nerves).  The AOJ failed to consider the possibility of a separate rating under DC 8512 or 8513 and provide the Veteran with a VA examination and medical opinion for peripheral nerve conditions, despite this evidence.  See 38 C.F.R. § § 4.123, 4.124a.  As such, the Board finds that remand is necessary.  
+
+In making the above decision, the Board acknowledges that evaluation of the same disability under several diagnostic codes, known as pyramiding, must be avoided.  Separate ratings, however, may be assigned for distinct disabilities resulting from the same injury so long as the symptomatology for one condition is not duplicative of or overlapping. with the symptomatology of the other condition.  38 C.F.R. § 4.14; Esteban v. Brown, 6 Vet. App. 259, 262 (1994).
+
+The matters are REMANDED for the following action:
+
+1. Request an addendum medical opinion addressing whether the Veteran's service-connected left wrist disability manifests in ankylosis or the functional equivalent of ankylosis.  The record and a copy of this Remand must be made available to and reviewed by the examiner.  Also, if the examiner determines that an in-person examination is necessary to provide the requested opinion, such examination should be scheduled.
+
+2. Request an addendum medical opinion addressing whether the Veteran's service-connected right wrist disability manifests in ankylosis or the functional equivalent of ankylosis.  The record and a copy of this Remand must be made available to and reviewed by the examiner.  Also, if the examiner determines that an in-person examination is necessary to provide the requested opinion, such examination should be scheduled.
+
+3. Schedule the Veteran for a VA examination addressing whether the Veteran's service-connected wrist disabilities manifest in a diagnosis of peripheral nerve damage.  The record and a copy of this Remand must be made available to and reviewed by the examiner.
+
+(a.)  Assuming nerve damage is found, provide a medical opinion indicating which nerves are impacted by the Veteran's service-connected wrist disabilities.
+
+ 
+
+ 
+
+Michael J. Skaltsounis
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Alexander, Lasheyna T.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

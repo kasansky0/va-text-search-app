@@ -1,0 +1,79 @@
+Citation Nr: A25032091
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240606-446529
+DATE: April 8, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea (OSA), including as due to service-connected degenerative disc disease, lumbar region, hallux valgus of the left foot status post bunionectomy, and hallux valgus of the right foot status post metatarsal surgery, via obesity as an intermediate step, is granted.
+
+FINDING OF FACT
+
+The Veteran's OSA was caused by her service-connected degenerative disc disease, lumbar region, hallux valgus of the left foot status post bunionectomy, and hallux valgus of the right foot status post metatarsal surgery, by way of obesity as an intermediate step.
+
+CONCLUSION OF LAW
+
+The criteria for secondary service connection for OSA as via obesity as an intermediate step, are met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310; VAOPGCPREC 1-2017 (Jan. 6, 2017).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran has active duty from October 1984 to July 1990.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a rating decision issued in July 2023 by a Department of Veterans Affairs (VA) Regional Office under the modernized appeals system known as the Appeals Modernization Act (AMA). In June 2024, the Veteran timely appealed such rating decision by submitting a Decision Review Request: Board Appeal (Notice of Disagreement) (VA Form 10182) and requested direct review of the evidence considered by the Agency of Original Jurisdiction (AOJ).
+
+Therefore, the Board may only consider the evidence of record at the time of the July 2023 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+Entitlement to service connection for OSA.
+
+The Veteran is seeking service connection for OSA. The Veteran alleges that her service-connected degenerative disc disease (previously rated as, and sometimes also referred to as lumbosacral sprain, and claimed as lower back pain), hallux valgus of the left foot status post bunionectomy ("left foot hallux valgus"), and hallux valgus of the right foot status post metatarsal surgery ("right foot hallux valgus") caused her weight gain which, in turn, caused or aggravated her OSA. To that end, the Veteran contends that her service-connected degenerative disc disease and bilateral hallux valgus made it "difficult to exercise due to pain," which led to weight gain, in turn leading to her diagnosed OSA. See September 2018 Statement in Support of Claim.
+
+After a thorough review of the evidence of record, the Board finds that the Veteran's OSA is caused by her service-connected degenerative disc disease left food hallux valgus, and right foot hallux valgus, via obesity as an intermediate step.
+
+Initially, the Veteran does not contend, and the record does not show, that the disorder had its onset in service, or that service connection is warranted on any basis other than as described in the preceding paragraph. Notably, the Veteran's entrance and exit examinations are silent as to any complaint, treatment, or diagnosis of OSA. Medical examinations during service are silent as to any complaint, treatment, or diagnosis of OSA. The Veteran's service treatment records (STRs) are also silent as to any complaint, treatment, or diagnosis of OSA. Thus, the Board will limit its discussion to the pertinent theories of entitlement raised by the Veteran, the appellant, and the record. See Robinson v. Shinseki, 557 F.3d 1355, 1361 (2008) (claims which have no support in the record need not be considered by the Board as the Board is not obligated to consider "all possible" substantive theories of recovery. Where a fully developed record is presented to the Board with no evidentiary support for a particular theory of recovery, there is no reason for the Board to address or consider such a theory). Importantly, the Board is granting the claim herein on the causation theory of secondary service connection, which is a full grant.
+
+Service connection may be established on a secondary basis when there is sufficient evidence to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability. See 38 C.F.R. § 3.310; but see Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023) (holding all that is needed is a "but for" causation or aggravation to show entitlement to secondary service connection).
+
+While not a disability itself, VA's Office of General Counsel recognized that obesity may act as an "intermediate step" between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R. § 3.310(a). VAOPGCPREC 1-2017. Proper interpretation of General Counsel Precedent Opinion 1-2017 requires consideration of both proximate causation and aggravation in its analytical framework: (1) whether the service-connected disability caused the veteran to become obese or aggravated the veteran's obesity; (2) if so, whether the obesity or aggravation of obesity as a result of the service-connected disability was a substantial factor in causing the current disability; and (3) whether the current disability would not have occurred but for obesity caused or aggravated by the service-connected disability. Walsh v. Wilkie, 32 Vet. App. 300, 306-07 (2020).
+
+Initially, the Veteran was diagnosed with mild OSA following an at home sleep study/sleep report completed in May 2016. See May 2016 AccuSom Home Sleep Test Report. Additionally, the second element of secondary service connection has been met, as the Veteran is service connected for degenerative disc disease of the lumbar region, left foot hallux valgus, and right foot hallux valgus. Therefore, at issue in this appeal is whether a nexus exists via obesity between the Veteran's diagnosed OSA and her service-connected disabilities.
+
+Turning to the relevant evidence, the Veteran submitted a September 2018 private medical opinion in which G.U., APRN, MN, FNP, LNC provided a positive nexus opinion regarding the Veteran's OSA, service-connected degenerative disc disease, left foot hallux valgus, right foot hallux valgus, and obesity. Specifically, G.U. opined that it was at least as likely as not that the Veteran's weight gain was "due to and/or related to" her service-connected lumbosacral strain, status post right first metatarsal surgery due to hallux valgus, and left foot hallux vagus status post bunionectomy (collectively referred to as "musculoskeletal disabilities" within the opinion), and, further, it was at least as likely as not that the Veteran's OSA was secondary to, related to, and/or aggravated by the weight gain from her service-connected disabilities. G.U. also opined that it was at least as likely as not that without the Veteran's weight gain, her OSA would not have occurred.
+
+As rationale, G.U. discussed the Veteran's weight gain since military separation and her current BMI and stated that the Veteran's current obesity chronologically developed after the musculoskeletal injuries related to her service-connected conditions. Furthermore, G.U. noted that the Veteran's service-connected musculoskeletal disabilities cause chronic pain that, in turn, cause sleep disturbances, such as difficulty falling and staying asleep as well as less restful sleep. Citing relevant medical literature, G.U. assessed that chronic sleep loss increases the risk of obesity and weight gain, noting that sleep is an important modulator of neuroendocrine function and glucose metabolism in adults. Further, sleep curtailment in adults results in a constellation of metabolic and endocrine alterations and increased hunger/appetite that lead to weight gain.
+
+As to the connection between obesity and OSA, G.U. asserted that "upper airway anatomy plays a major role in obstructive sleep apnea pathogenesis" and cited medical literature that associated obesity with OSA. Likewise, G.U. stated that the Veteran gained approximately 100 pounds since her military service, and obesity is the number one risk factor for developing OSA. Thus, she concluded the Veteran "at least as likely as not would not have developed obstructive sleep apnea if not for her weight gain and obesity." Following G.U.'s conclusion regarding the etiology of the Veteran's OSA, the medical opinion included extensive medical literature. See September 2018 Private Medical Opinion.
+
+Likewise, the Veteran submitted an August 2021 private opinion by M.B., PAC, MPLC, which opined that "it is at least as likely as not that the Veteran's current obstructive sleep apnea condition with CPAP is secondary to, related to, and/or aggravated by her service-connected conditions to include lumbosacral strain, left foot hallux valgus status post bunionectomy with scar, and right first metatarsal status post-surgery due hallux vagus with subsequent sleep disturbance and weight gain/obesity." M.B. described the Veteran's weight gain much as G.U. above and stated that she participated in less physical activities and has led a more sedentary lifestyle because of the pain caused by her service-connected disabilities. M.B. reasoned that chronic pain is one of the major reasons that obese patients often list for their weight gain. M.B. also noted that pain impairs an individual's quality of sleep which, in turn, is shown to cause physiological metabolic changes, and increase hunger and appetite which also lead to weight gain. 
+
+M.B., relying on medical evidence, assessed that "the pathophysiology of obstructive sleep apnea is intimately linked to obesity." He further opined that the Veteran's service-connected lumbosacral strain, left foot hallux valgus, and right foot hallux valgus, "per the medical literature, promoted sleep disturbance and weight gain and led to her current obesity condition which then led to her diagnosis of obstructive sleep apnea." The medical opinion also included extensive medical literature that supported its conclusion. See August 2021 Private Medical Opinion.
+
+The Board finds both preceding private opinions highly probative to its decision. In this regard, both G.U. and M.B. showed a clear knowledge of the Veteran's history and medical record and relied heavily on medical research but also applied that research and their opinions to her factual circumstances. See Kowalski v. Nicholson, 19 Vet. App. 171 (2005); see also Bloom v. West, 12 Vet. App. 185, 187 (1999) (the value of a physician's statement is dependent, in part, upon the extent to which it reflects "clinical data or other rationale to support his opinion"). The clinicians provided complete rationales, relying on and citing to the records reviewed. Moreover, the clinicians offered clear conclusions with supporting data as well as reasoned medical explanations connecting the two. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007) ("[A]medical opinion... must support its conclusion with an analysis that the Board can consider and weigh against contrary opinions").
+
+In contrast, there are two VA opinions of record which found that OSA was not directly secondary to the service-connected disabilities, nor was obesity caused by the service-connected disabilities. First, as relevant in a November 2021 opinion, a VA clinician opined that the service-connected disabilities did not lead to obesity, stating that "although inactivity plays a role in obesity, there are still other important factors which causes obesity such as diet, gender, family history and unhealthy lifestyle habits."
+
+Then, a June 2023 VA clinician opined that the Veteran's service-connected disabilities did not directly result in her weight gain, which itself did not cause her OSA. The clinician opined that obesity is merely a risk factor for developing OSA and is neither sufficient nor necessary for it to develop, rather it is merely corollary. The examiner's rationale generalized that there are many people with a normal BMI who also develop OSA. The examiner further noted that "weight gain and the propensity for health problems is determined by genetic and metabolic factors, caloric intake and caloric expenditure." This final line appears to rationalize why obesity was not caused by the service-connected disabilities.
+
+Importantly, there are several issues with each VA opinion that lessen their probative value. First, each opinion relies on general concepts rather than applying those concepts to the specific facts of the Veteran's case. Second, the June 2023 examiner downplayed the effect of obesity on developing OSA in the above opinion, however in concurrent June 2023 opinions addressing whether the service-connected disabilities directly caused or aggravated the OSA, the same examiner explicitly stated that "obesity is the best documented risk factor for OSA. The prevalence of OSA progressively increases as the body mass index and associated markers (e.g. neck circumference, waist-to-hip ratio) increase." See June 2023 Medical Opinions. The examiner used this rationale to provide a negative nexus, implying that obesity was the primary factor in causing OSA in one opinion, while simultaneously downplaying its role in another. Third, the examiner also noted that caloric intake versus expenditure is one factor in developing obesity and weight gain, however the examiner did not address the Veteran's reported inability to adequately exercise (i.e. caloric expenditure) and the resulting effect on the Veteran's weight gain. Lastly, the examiner was requested to consider the conflicting opinions of record, and while the 2018 private opinion was noted in evidence review, the 2021 private opinion was not, and neither was explicitly discussed. For these reasons, the VA opinions have diminished probative value.
+
+All told, there is objective evidence of weight gain in-service and significant weight gain after service. The record also established that obesity is a risk factor for OSA. However, there is conflicting evidence in the record whether the Veteran's obesity was a result of her service-connected disabilities and in turn, whether her OSA was a result of her obesity. As discussed above, the private opinions in favor of the claim were more thorough, discussed the specific facts of the Veteran's case in detail, and showed a clear understanding of the Veteran's history, whereas the VA opinions did not, and they are thus more probative to the current analysis. Cf. Prejean v. West, 13 Vet. App. 444, 448-9 (2000).
+
+(Continued on the next page)
+
+?
+
+Accordingly, the Board finds the evidence persuasively weighs in favor that the Veteran's OSA is proximately due to her service-connected degenerative disc disease (previously rated as lumbosacral sprain, and claimed as lower back pain), hallux valgus of the left foot status post bunionectomy, and hallux valgus of the right foot status post metatarsal surgery, via obesity as an intermediate step. Service connection for OSA, as causally secondary to service-connected disabilities via obesity as an intermediate step, is granted.
+
+ 
+
+ 
+
+J.M. ESTES
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Deal, Katie
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

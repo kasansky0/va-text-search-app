@@ -1,0 +1,143 @@
+Citation Nr: A25033882
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240905-471930
+DATE: April 11, 2025
+
+ORDER
+
+An appeal concerning entitlement to service connection for PTSD is dismissed.
+
+Entitlement to a compensable rating for bilateral hearing loss is denied.
+
+REMANDED
+
+Entitlement to service connection for chronic cough is remanded.
+
+FINDINGS OF FACT
+
+1. A service-connection claim for PTSD has not been finally adjudicated.
+
+2. Veteran's bilateral hearing was manifested by hearing acuity of no worse than Level I in the right ear and no worse than Level II in the left ear.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for dismissal of an appeal concerning entitlement to service connection for PTSD are met. 38 U.S.C. § 7104; 38 C.F.R. § 20.104.
+
+2. The criteria for a compensable rating for bilateral hearing loss were not met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.85, 4.86, Diagnostic Code 6100.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service in the United States Navy from December 1974 to December 1978, and from July 1986 to November 2002, with military occupation specialties (MOS) of Builder, Construction Inspector, and Electrical/Mechanical Repairman.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from April and July 2024 rating decisions issued by the Agency of Original Jurisdiction (AOJ), a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. As for the hearing loss claim, the Board may only consider the evidence of record at the time of the April 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. As for the chronic cough claim, the Board may only consider the evidence of record at the time of the July 2024 AOJ decision on appeal. As for each issue, any evidence submitted after their respective AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. However, because the Board is remanding the chronic cough claim, any evidence the Board could not consider will be considered by the AOJ in its adjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+1. An appeal concerning entitlement to service connection for PTSD is dismissed.
+
+The Veteran contends that he filed a service-connection claim for PTSD and hasn't heard anything back. See September 2024 VA Form 10182. For context, in July 2023, he submitted a VA Form 21-526EZ, Application for Disability Compensation and Related Compensation Benefits. Attached was a VA Form 21-0781, Statement in Support of Claim for Service Connection for Post-Traumatic Stress Disorder, where he described an in-service stressor. 
+
+Although the Veteran did not expressly state a claim for PTSD on the VA Form 21-526EZ, the Board finds that the submission of a completed PTSD-specific form on the same day reasonably raised the claim.
+
+In April and July 2024, the AOJ issued decisions, which adjudicated other claimed disabilities but did not address the Veteran's PTSD claim. The record contains no rating decision addressing entitlement to service connection for PTSD, and there is no indication that the AOJ undertook any development with respect to this claim. Under these circumstances, an appeal is not ripe for adjudication. 
+
+The Board has jurisdiction where there is a question of law or fact on appeal to the Secretary. 38 U.S.C. § 511(a), 38 C.F.R. § 20.104(a). The Board may dismiss any case over which it determines it does not have jurisdiction. 38 C.F.R. § 20.104(c).
+
+Because there is no AOJ decision addressing PTSD, the Board does not have jurisdiction over the issue and the appeal is dismissed.
+
+However, please notice that this dismissal does not preclude the Veteran from pursuing the PTSD claim. To do so, he may file a VA Form 20-0995, Decision Review Request: Supplemental Claim, identify entitlement to service connection for PTSD as an unadjudicated issue that remains pending, and submit any additional evidence in support of the claim. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. See 38 C.F.R. § 3.2501. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+2. Entitlement to a compensable rating for bilateral hearing loss is denied.
+
+The Veteran seeks a compensable rating for bilateral hearing loss.
+
+Evaluations of defective hearing range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of a controlled Maryland CNC speech discrimination test together with the average hearing threshold level measured by pure tone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz). 38 C.F.R. § 4.85, DC 6100.
+
+To evaluate the degree of disability from bilateral service-connected hearing loss, the schedule establishes 11 auditory hearing acuity levels designated from Level I for essentially normal hearing acuity through Level XI for profound deafness. 38 C.F.R. § 4.85, Tables VI and VII.
+
+An exceptional pattern of hearing impairment occurs when the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more. 38 C.F.R. § 4.86(a). In that situation, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral. Further, when the average pure tone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and that numeral will then be elevated to the next higher numeral. 38 C.F.R. § 4.86(b).
+
+A March 2024 VA examination reveals that the Veteran reported difficulty understanding speech when there was background noise. 38 C.F.R. § 4.10; Martinak v. Nicholson, 21 Vet. App. 447 (2007). His Maryland CNC Word List speech recognition score and pure tone thresholds, in decibels, were as follows:
+
+March 2024	HERTZ
+
+ 	1000	2000	3000	4000	Avg	CNC
+
+RIGHT	15	50	70	75	53	94
+
+LEFT	15	45	65	70	49	90
+
+Applying the results to Table VI, the findings yield a numeric designation of Level I in the right ear and Level II in the left ear. Entering the resulting bilateral numeric designation of Level I for the right ear and Level II for the left ear to 38 C.F.R. § 4.85, Table VII, equates to a 0 percent disability rating under DC 6100. An exceptional pattern of hearing impairment under 38 C.F.R. § 4.86 was not shown.
+
+Based on the evidence above, a compensable rating for the Veteran's bilateral hearing loss is not warranted.
+
+The Board expressly acknowledges its consideration of the lay evidence of record when adjudicating this claim, including difficulty understanding speech when there is background noise. The Veteran is competent to report difficulty hearing; however, disability ratings for hearing loss are derived from a mechanical application of the rating schedule to the numeric designations resulting from audiometric testing. See Lendenmann v. Principi, 3 Vet. App. 345 (1992).
+
+The rating criteria contemplate speech reception thresholds and ability to hear spoken words on Maryland CNC testing. The functional impact that the Veteran describes, is contemplated by the rating criteria. Doucette v. Shulkin, 28 Vet. App. 366 (2017). The Veteran's main complaint is reduced hearing acuity and clarity, which is what is contemplated in the rating assigned. See Rossy v. Shulkin, 29 Vet. App. 142, 145 (2017).
+
+Therefore, the most probative evidence of record persuasively weighs against the claim of entitlement to a compensable rating for hearing loss. As such, the benefit-of-the-doubt rule does not apply. 38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021). Accordingly, entitlement to a compensable rating for bilateral hearing loss is denied.
+
+REASONS FOR REMAND
+
+Entitlement to service connection for chronic cough is remanded.
+
+The issue on appeal is whether the Veteran's cough is related to service. However, for the reasons discussed below, the evidence of record is insufficient to make a fully-informed decision on the issue.
+
+The Board finds remand necessary to correct a pre-decisional duty to assist error and to obtain (1) any outstanding and relevant military treatment facility records and (2) an adequate VA examination and medical opinion.
+
+First, the evidence of record strongly suggests that the Veteran received treatment at a military facility following his retirement from service. Department of Defense and non-VA data may be available. See CAPRI Record, rec'd. January 17, 2024. 
+
+Therefore, remand is required to allow VA to request these records.
+
+Second, the Veteran has not been provided an adequate VA examination for diagnostic purposes, or to otherwise determine the nature and etiology of his cough. 
+
+The July 2024 VA examiner opined that the Veteran did not have a thorough assessment from his healthcare provider and did not have a formal diagnosis. At the same time, the examiner acknowledged that the Veteran's MOS and other documentation indicated exposure to asbestos during service. If a diagnosis is not supported by the findings on the examination report or if the report does not contain sufficient detail, it is incumbent upon the rating board to return the report as inadequate for evaluation purposes. 38 C.F.R. § 4.2. The importance of complete medical examination of injury cases at the time of first medical examination by the Department of Veterans Affairs cannot be overemphasized. 38 C.F.R. § 4.42.
+
+Alternatively, the Veteran had service in Southwest Asia (e.g., Bahrain) and has reported persistent symptoms of an undiagnosed cough. To date, no VA examiner has provided an opinion on whether the Veteran's cough is an undiagnosed illness or medically unexplained chronic multisymptom illness (MUCMI). In either case, remand is required to allow VA to obtain an adequate VA examination and medical opinion. In this regard, the Board finds that the low threshold for obtaining a medical examination and opinion in this case has been met. See 38 U.S.C. § 5103A(d); McLendon v. Nicholson, 20 Vet. App. 79, 81 (2006). 
+
+For these reasons, remand is required to allow VA to obtain an adequate VA examination and medical opinion. 
+
+In sum, the absence of the foregoing information in the claims file amounts to a pre-decisional duty to assist error that must be corrected. See 38 C.F.R. § 3.159. To this end, entitlement to service connection for a chronic cough is remanded.
+
+The matters are REMANDED for the following action:
+
+1. Obtain records of any treatment at a military treatment facility from November 30, 2002, through July 23, 2024, from appropriate records repositories (e.g., Joint Legacy Viewer (JLV)). Document all requests for information as well as all responses in the claims file.
+
+2. Undertake appropriate development to identify all TERAs that the Veteran was engaged in during his military service, to include his exposure to specific environmental and chemical hazards while serving in the Southwest Asia theater of operations during the Persian Gulf War and those associated with his MOS. Document all requests for information as well as all responses in the claims file.
+
+3. Schedule the Veteran for an appropriate examination to determine the nature and etiology of the claimed condition (i.e., "chronic cough"). The examiner must review the entire claims file, including a copy of this remand. The examiner should conduct all appropriate diagnostic testing. The examiner should then record all noted signs and reported symptoms, document all clinical findings, and provide a diagnosis if possible. The examiner is asked to provide responses to the following:
+
+(a.) Identify the Veteran's objective indications of a disability. "Objective indications" of a qualifying chronic disability include both objective evidence perceptible to an examining physician and other non-medical indicators that are capable of independent verification. 38 C.F.R. § 3.317(a)(3). Non-medical indicators include evidence such as time lost form work, the Veteran having sought treatment for the symptoms, and change in his appearance, physical abilities, and mental or emotional attitude. 60 Fed. Reg. 6661, 6663 (Feb. 3, 1995).
+
+(b.) By history, physical examination, or laboratory testing, can the Veteran's objective indications of a disability be attributed to a known clinical diagnosis?
+
+If the signs and symptoms are not characteristic of a known clinical diagnosis, the examiner should so indicate. There is no requirement that the examiner provide a diagnosis of undiagnosed illness.
+
+(c.) If the Veteran's objective indications cannot be attributed to a known clinical diagnosis, is there affirmative evidence that the undiagnosed illness is not incurred during active service during the Persian Gulf War or that it was caused by a supervening condition or event that occurred since his departure from service during the Persian Gulf War?
+
+The examiner should note that a positive response to this question requires affirmative evidence. The mere absence of evidence is not sufficient.
+
+(d.) If the Veteran's objective indications can be attributed to a known clinical diagnosis, is the etiology of his condition (1) inconclusive, (2) partially understood, or (3) fully understood?
+
+This determination as to each must be based on the Veteran's specific case and cannot be based on the etiology of the disease or disability population as a whole.
+
+(e.) If the Veteran's objective indications can be attributed to a known clinical diagnosis, is the pathophysiology of his condition (1) inconclusive, (2) partially understood, or (3) fully understood?
+
+This determination as to each must be based on the Veteran's specific case and cannot be based on the pathophysiology of the disease or disability population as a whole.
+
+(f.) If both the etiology and pathophysiology are partially understood or fully understood, then was the Veteran's diagnosed condition incurred in, or otherwise related to, active service to include in-service exposure to asbestos?
+
+A complete rationale must be provided for all opinions. 
+
+ 
+
+Cory M. Picton
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	R. Skinner
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

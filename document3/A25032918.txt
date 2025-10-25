@@ -1,0 +1,83 @@
+Citation Nr: A25032918
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240702-452403
+DATE:          April 9, 2025
+
+ORDER
+
+Entitlement to service connection for right ear hearing loss is denied. 
+
+FINDING OF FACT
+
+At no time during the pendency of the appeal does the Veteran have a current disability of right ear hearing loss, and the record does not contain a recent diagnosis of disability prior to the Veteran's filing of a claim.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for right ear hearing loss have not been met.  38 U.S.C. §§ 1112, 1131, 1137, 5107; 38 C.F.R. §§ 3.103, 3.303, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 1977 to September 1981. 
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from an April 2024 rating decision issued by a Department of Veterans Affairs (VA) Regional Office.
+
+On the Decision Review Request Board Appeal (Notice of Disagreement) VA Form 10182, received in June 2024, the Veteran requested a Direct Review by a Veterans Law Judge.  Therefore, the Board may only consider the evidence of record at the time of the April 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+The Veteran filed a VA 21-526EZ, Fully Developed Claim (Compensation) in March 2024 seeking service connection for bilateral hearing loss.  In the April 2024 rating decision, the AOJ denied service connection for right ear hearing loss.  The AOJ did not adjudicate the issue of service connection for left ear hearing loss included in that March 2024 claim.  Therefore, the Board cannot adjudicate that issue.  The Veteran may resubmit the claim to the AOJ or notify the AOJ that the issue is still pending.
+
+Entitlement to service connection for right ear hearing loss.
+
+The Veteran contends he was exposed to a myriad of noise-producing elements, to include firearms, artillery and tanks, throughout his military career as a M1 armor crewman, which has contributed to his hearing loss.
+
+Service connection may be established for a disability resulting from disease or injury incurred in or aggravated by service.  38 U.S.C. § 1131; 38 C.F.R. § 3.303. Generally, in order to prove service connection, there must be competent, credible evidence of (1) a current disability, (2) in-service incurrence or aggravation of an injury or disease, and (3) a nexus, or link, between the current disability and the in-service disease or injury.  
+
+In the April 2024 rating decision, the AOJ favorably found that a qualifying event, injury, or disease had its onset during the Veteran's service, as the Veteran's DD-214 showed his military specialty was an armor crewman.  
+
+Pursuant to 38 C.F.R. § 3.385, VA defines a hearing loss disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, 4000 Hertz (Hz) is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385. 
+
+The United States Court of Appeals for Veterans Claims (Court) has held that service connection can be granted for hearing loss where the Veteran can establish a nexus between his current hearing loss and a disability or injury suffered while he was in military service.  See Godfrey v. Derwinski, 2 Vet. App. 352, 356 (1992).  The Court has also held that VA regulations do not preclude service connection for a hearing loss which first met VA's definition of disability after service.  See Hensley, supra, at 159.
+
+In July 2018, the Veteran was afforded an audiological evaluation, and pure tone thresholds, in decibels for the right ear, were as follows: 
+
+HERTZ
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	10	10	10	20	20
+
+The Veteran's speech recognition score was 96 percent in the right ear.
+
+Also, in March 2024, the Veteran was afforded another audiological evaluation, and pure tone thresholds, in decibels for the right ear, were as follows: 
+
+HERTZ
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	10	10	10	25	35
+
+The Veteran's speech recognition score was 96 percent in the right ear.
+
+Upon review of the record, the Board finds the probative evidence does not show that the Veteran has a current disability of right ear hearing loss for VA purposes at any time during the pendency of this appeal or proximate to the Veteran filing of a claim.  
+
+Private treatment records dated during the pendency of the appeal also do not document audiologic findings consistent with right ear hearing loss disability for VA purposes.  Also, the Veteran's service treatment records include audiological examinations dated May 1977, September 1977, October 1980 and March 1981 that show the Veteran's hearing loss was within normal limits in the right ear.  Further, the July 2018 and March 2024 audiological examinations do not show the Veteran's auditory pure tone threshold in his right ear to be greater than 40 decibels in any of the frequencies at 500, 1000, 2000, 3000, 4000 Hertz (Hz), nor was his auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz 26 decibels or greater, and his speech recognition score using the Maryland CNC Test was not less than 94 percent.  Based on these findings, the evidence does not reflect right ear hearing loss for VA purposes at any time during or proximate to the pendency of the appeal.
+
+The existence of a current disability is the cornerstone of a claim for VA disability compensation.  38 U.S.C. § 1131; see also Degmetich v. Brown, 104 F.3d 1328 (1997).  The current disability requirement is satisfied when a claimant "has a disability at the time a claim for VA disability compensation is filed or during the pendency of that claim."  See McClain v. Nicholson, 21 Vet. App. 319, 321 (2007). In the absence of proof of a present disability, there can be no valid claim.  See Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992); see also Rabideau v. Derwinski, 2 Vet. App. 141, 143-44 (1992).
+
+In reaching such a determination, the Board acknowledges the Veteran's reports that he experienced hearing loss.  See Washington v. Nicholson, 19 Vet. App. 362, 368 (2005); see also Charles v. Principi, 16 Vet. App. 370 (2002); see also Layno v. Brown, 6 Vet. App. 465, 469 (1994).  The Board further notes that lay evidence can be competent and sufficient to establish a diagnosis of a condition when (1) a layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007). However, a disability of hearing loss as defined by VA regulations is not the type of disability that is subject to lay diagnosis.  Hence, while the Veteran was competent to report the symptoms he experienced, he was not competent to diagnose right ear hearing loss that meets the VA definition as he has not been shown to have had the medical training necessary to do so.  The Board concludes, therefore, that the medical findings are of greater probative value than the Veteran's allegations regarding the existence of a right ear hearing loss disability.
+
+In summary, without evidence of a current right ear hearing loss disability under 38 C.F.R. § 3.385 proximate to the Veteran's claim or during the pendency of the appeal, the probative evidence persuasively weighs against the claim for service connection for right ear hearing loss.  The benefit of the doubt doctrine does not apply, and the claim must be denied.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+ 
+
+M. M. Celli
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Simmons, Shanita K.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,87 @@
+Citation Nr: A25032024
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240130-412241
+DATE: April 8, 2025
+
+ORDER
+
+Service connection for other specified trauma and stressor-related disorder as a change in diagnosis from unspecified depressive disorder with anxious distress is granted.
+
+REMANDED
+
+Entitlement to service connection for bilateral eye disability, to include pigmentary glaucoma, is remanded.
+
+FINDINGS OF FACT
+
+1. A July 2018 rating decision established service connection for an acquired psychiatric disability that was at that time identified as unspecified depressive disorder with anxious distress.
+
+2. Medical evidence obtained in connection with the claim currently on appeal indicates that the Veteran meets the criteria for a diagnosis of other specified trauma and stressor-related disorder, and that the prior diagnosis was likely made in error.
+
+CONCLUSION OF LAW
+
+The criteria for an award of service connection for other specified trauma and stressor-related disorder as a change in diagnosis from unspecified depressive disorder with anxious distress have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 4.125.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran served on active duty in the U.S. Air Force from April 1998 to April 2018, to include service in Kuwait and Djibouti. His decorations include the Air Force Commendation Medal, the Joint Service Commendation Medal, the Armed Forces Expeditionary Medal, and the Global War on Terrorism Expeditionary Medal.
+
+These matters come to the Board of Veterans' Appeals (Board) on appeal from December 2023 and January 2024 rating decisions issued by a Department of Veterans Affairs (VA) Regional Office (RO). In the December 2023 decision, the RO denied service connection for bilateral pigmentary glaucoma. In the January 2024 decision, the RO denied service connection for PTSD. The Veteran timely appealed to the Board by filing a VA Form 10182 (Decision Review Request: Board Appeal (Notice of Disagreement)) in January 2024, requesting direct review of the evidence considered by the agency of original jurisdiction (AOJ). 38 C.F.R. §§ 20.201, 20.202(b)(1).
+
+Under the direct review option, the Board may only consider the evidence of record at the time of the respective AOJ decisions on appeal. 38 C.F.R. § 20.301. The Board cannot consider evidence submitted after those decisions were promulgated.
+
+That said, for the reasons set forth below, the Board is remanding the Veteran's claim for service connection for a bilateral eye disability to the AOJ for correction of a pre-decisional duty to assist error.  The AOJ will consider any additional evidence that has been submitted when the claim is readjudicated. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The Veteran's claim for service connection for PTSD has been recharacterized to include all psychiatric disorders reasonably raised by the record. Clemons v. Shinseki, 23 Vet. App. 1 (2009).
+
+Entitlement to service connection for an acquired psychiatric disability other than unspecified depressive disorder with anxious distress, to include PTSD.
+
+A July 2018 rating decision established service connection for an acquired psychiatric disability that was at that time identified as unspecified depressive disorder with anxious distress. On appeal, the Veteran seeks to establish service connection for the additional diagnosis of PTSD.
+
+Service connection is warranted where the evidence of record establishes that a particular injury or disease resulting in disability was incurred in the line of duty in the active military service or, if pre-existing such service, was aggravated thereby. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).
+
+Generally, in order to prove service connection, there must be competent, credible evidence of (1) a current disability, (2) in-service incurrence or aggravation of an injury or disease, and (3) a nexus, or link, between the current disability and the in-service disease or injury. See, e.g., Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Pond v. West, 12 Vet. App. 341 (1999).
+
+Specific to claims for service connection for mental disorders, the United States Court of Appeals for Veterans Claims has held that a diagnosis conforming to the Diagnostic and Statistical Manual of Mental Disorders (DSM) is required. Martinez-Bodon v. Wilkie, 32 Vet. App. 393 (2020); see 38 C.F.R. § 4.125. Further, in addition to the general laws and regulations pertaining to service connection, service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred. 38 C.F.R. § 3.304(f).
+
+The Veteran underwent an examination in connection with his current claim in January 2024. After examining the Veteran and reviewing the claims file, the examiner concluded that the Veteran did not meet the diagnostic criteria for PTSD, but that he did meet the criteria for a diagnosis of other specified trauma and stressor-related disorder, and that his symptoms of anxiety and depression were subsumed by that diagnosis. In so concluding, the examiner noted that the prior diagnosis of unspecified depressive disorder with anxious distress was likely made in error. Inasmuch as the examiner's opinion is based on an accurate understanding of the facts, and articulates reasons for the conclusion reached, the Board finds the opinion highly probative. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008).
+
+Under applicable law, if the diagnosis of a mental disorder is changed, the rating agency shall determine whether the new diagnosis represents progression of the prior diagnosis, correction of an error in the prior diagnosis, or development of a new and separate condition. 38 C.F.R. § 4.125(b). If it is not clear from the available records what the change of diagnosis represents, the rating agency shall return the report to the examiner for a determination. Id.
+
+Here, although the evidence does not support a diagnosis of PTSD, it does support a diagnosis of other specified trauma and stressor-related disorder. The January 2024 examiner concluded that that was the Veteran's only current psychiatric diagnosis, and that the prior diagnosis was likely made in error. Consequently, the criteria for an award of service connection for other specified trauma and stressor-related disorder as a change in diagnosis from unspecified depressive disorder with anxious distress have been met. To that extent, the appeal of this is issue is granted.
+
+REASONS FOR REMAND
+
+Entitlement to service connection for bilateral eye disability, to include pigmentary glaucoma, is remanded.
+
+The Veteran seeks to establish service connection for bilateral eye disability, diagnosed as pigmentary glaucoma and dry eye syndrome. He contends that his disabilities are the result of a Lasik procedure he underwent during service in 2004. He believes that the procedure caused an increased pressure in his eyes, resulting in glaucoma over the years, and says that he developed a dry eye condition after the procedure as well. See June 2023 VA Form 21-526EZ (Application for Disability Compensation and Related Compensation Benefits). 
+
+The Veteran's service treatment records indicate that he underwent a Lasik procedure in 2004. In November 2023, he underwent a VA examination in connection with his claim. The examiner noted diagnoses of bilateral pigmentary glaucoma and dry eye syndrome and concluded that it was less likely than not that the Veteran's glaucoma was attributable to toxic exposure risk activities (TERAs). In doing so, the examiner did not offer an opinion as to the likelihood that the glaucoma was the result of the Veteran's Lasik procedure, as alleged, and did not offer an explicit opinion as to the etiology of his dry eye syndrome.
+
+Because the examiner did not consider all theories presented, the report is insufficient for purposes of adjudicating the Veteran's claim. Under the circumstances, the AOJ should have sought an addendum medical opinion. See, e.g., Barr v. Nicholson, 21 Vet. App. 303 (2007). The failure to do so constitutes a pre-decisional duty to assist error that must be corrected.
+
+This matter is REMANDED for the following action:
+
+Arrange to have an appropriately qualified clinician review the claims file for purposes of providing an addendum medical opinion with respect to the etiology of the Veteran's bilateral eye disabilities.
+
+After reviewing the record, the clinician should offer an opinion as to whether it is at least as likely as not (i.e., whether the likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's bilateral eye disabilities-identified as pigmentary glaucoma and dry eye syndrome-had their onset in, or are otherwise attributable to, his period of active service.
+
+In so doing, the examiner must consider the Veteran's theory that his eye disabilities are the result of a Lasik procedure he under during service in 2004. The examiner must also consider whether the dry eye syndrome is at least as likely as not attributable to the Veteran's participation in a toxic exposure risk activity. As to that question, the examiner must consider (a) the total potential exposure through all applicable military deployments of the Veteran, and (b) the synergistic, combined effect of all toxic exposure risk activities of the Veteran.
+
+The need for another examination and/or telephonic or video interview of the Veteran is left to the discretion of the examiner selected to offer the requested opinion.
+
+A complete medical rationale for all opinions expressed must be provided.
+
+ 
+
+ 
+
+DAVID A. BRENNINGMEYER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Joseph T. Leonard, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

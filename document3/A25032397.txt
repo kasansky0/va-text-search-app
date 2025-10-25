@@ -1,0 +1,131 @@
+Citation Nr: A25032397
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240425-435725
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to an effective date of May 15, 2021, but not earlier, for the increase in rating to 50 percent for migraine headaches, is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran was released from active duty on May 14, 2021.
+
+2. The Department of Veterans Affairs (VA) received an intent to file a claim on June 22, 2021.
+
+3. In February 2022, the Veteran submitted a completed VA Form 21-526EZ, Fully Developed Claim, seeking service connection for migraine headaches and has continuously pursued appeal from the August 2022 rating decision that awarded service connection for migraine headaches.
+
+4. From May 15, 2021, migraine headaches have caused very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability.
+
+?
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an effective date of May 15, 2021, but not earlier, for the increase in rating to 50 percent for migraine headaches, are met.  38 U.S.C. §§ 5107, 5110; 38 C.F.R. §§ 3.102, 3.400.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran served on active duty from May 2020 to May 2021.
+
+The rating decision on appeal was issued in October 2023, and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+The Veteran has continuously pursued appeal from an August 2022 rating decision that granted service connection for migraine headaches and assigned a noncompensable rating for migraine headaches.  In April 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the initial rating evaluation for migraine headaches, most recently addressed in an August 2022 rating decision.  In May 2023, the agency of original jurisdiction (AOJ) issued a supplemental claim decision, which found that new and relevant evidence had been received and granted a 50 percent evaluation for migraine headaches effective April 4, 2023.
+
+In June 2023, the Veteran filed a VA Form 21-526EZ and requested an earlier effective date for the increase in rating to 50 percent for migraine headaches.  See June 2023 VA Form 21-526EZ.  In September 2023, the AOJ sent the Veteran correspondence informing him that he utilized the incorrect form when he filed his VA Form 21-526EZ; no notification of appellate rights was included in the letter.  See September 2023 AOJ Correspondence.
+
+Thereafter, the AOJ issued a September 2023 rating decision in response to the incorrectly filed June 2023 VA Form 21-526EZ and denied an earlier effective date.  In October 2023, the Veteran submitted a supplemental claim requesting review of the September 2023 AOJ Correspondence; this supplemental claim was signed the same day as the September 2023 rating decision was written.  See October 2023 VA Form 20-0995.  Entitlement to an earlier effective date was denied again in an October 2023 rating decision based on the October 2023 supplemental claim.
+
+In an April 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the October 2023 supplemental claim decision.  38 C.F.R. § 20.301.  If evidence was submitted after the AOJ issued the October 2023 supplemental claim decision, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+Earlier Effective Date
+
+Unless specifically provided otherwise, the effective date of an award based on a claim for compensation is to be fixed in accordance with the facts found, but will not be earlier than the date the claim was received.  38 U.S.C. § 5110(a).  The implementing regulation clarifies that the effective date of an evaluation and an award of compensation based on an original claim will be the date of receipt of the claim or the date entitlement arose, whichever is later.  38 C.F.R. § 3.400.
+
+When a claim of service connection is received within one year after discharge from active duty, the earliest effective date is the date following release from active duty.  38 CFR § 3.400.
+
+A claimant may also indicate their intent to file a claim for compensation by submitting an intent to file with VA.  38 C.F.R. § 3.155(b).  If a complete application for benefits on the form prescribed by the Secretary is received by VA within one year of receipt of the intent to file, VA will consider the formal claim to have been filed as of the date the intent to file a claim was received.  An intent to file a claim must be submitted using one of three approved methods and must identify the general benefit and the claimant.  Id.
+
+Under the AMA, a claim can be continuously pursued by filing an appropriate administrative review option to an AMA decision, generally within one year from when the decision was issued.  If a claim is continuously pursued, it will be considered filed as of the date of the first claim in the continuously pursued chain, not the date the most recent request for review was received.  See 38 C.F.R. § 3.2500.  While a supplemental claim may establish continuous pursuit, a claim for an increased rating on VA Form 21-526EZ cannot establish continuous pursuit, regardless of whether it was received within one year of the issuance of the prior VA decision.  Id.; see Jackson v. McDonough, 37 Vet. App. 277 (2024).
+
+Entitlement to an effective date of May 15, 2021, for the increase in rating to 50 percent for migraine headaches, is granted.
+
+Legal Criteria
+
+VA rates migraines under 38 C.F.R. § 4.124a, Diagnostic Code (DC) 8100.  Under DC 8100, a 10 percent rating is warranted for migraines with characteristic prostrating attacks averaging one in 2 months over the last several months.  A 30 percent rating is warranted for migraines with characteristic prostrating attacks occurring on an average of once a month over the last several months.  A 50 percent rating is warranted when migraines cause very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability.  When rating migraines, VA must "consider all the symptoms the veteran experiences because of his migraine attacks, and then rate those symptoms based on the frequency, duration, severity, and economic impact of those attacks."  Holmes v. Wilkie, 33 Vet. App. 67, 76 (2020).  Migraines include more than just headaches, which means that VA must consider symptoms beyond head pain.  Id. at 71-72.  ("The rating criteria say nothing about headaches, nor do they focus only on the symptom of head pain.").
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under DC 8100 to describe the nature and severity of migraines, but it is not defined in the regulation.  Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness."  Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+The rating criteria for a 50 percent rating also contains several undefined phrases.  The descriptive phrase "very frequent" connotes a frequency at least greater than once a month, as is required by the rating criteria corresponding to a lesser 30 percent rating.  Johnson v. Wilkie, 30 Vet. App. 245, 253 (2018).  The phrase "completely prostrating" generally means that the migraine attack must render the veteran entirely powerless.  Id.  The completely prostrating attacks must also be "prolonged," which is defined as "to lengthen in time: extend duration: draw out: continue, protract." Id. (internal citation omitted).  Lastly, the 50 percent rating criteria requires that the very frequent completely prostrating and prolonged attacks be "productive of severe economic inadaptability."  Productive can be read as having either the meaning of "producing" or "capable of producing," and, with regard to severe economic inadaptability, nothing in DC 8100 requires that the claimant be completely unable to work in order to qualify for a 50 percent rating.  Pierce v. Principi, 18 Vet. App. 440, 445-46 (2004).
+
+In considering the severity of a disability, it is essential to trace the medical history of the veteran.  38 C.F.R. §§ 4.1, 4.2, 4.41.  Consideration of the whole-recorded history is necessary so that a rating may accurately reflect the elements of disability present.  38 C.F.R. § 4.2; Peyton v. Derwinski, 1 Vet. App. 282 (1991).  While the regulations require review of the recorded history of a disability by the adjudicator to ensure a more accurate evaluation, the regulations do not give past medical reports precedence over the current medical findings. 
+
+Where entitlement to compensation has already been established and an increase in the disability rating is at issue, it is the present level of disability that is of primary concern.  Francisco v. Brown, 7 Vet. App. 55, 58 (1994).  This decision will focus on the evidence pertinent to the rating criteria and disability severity during the relevant period on appeal, but the Board has considered the entire record to have a full picture of the disability.  See 38 C.F.R. §§ 4.1, 4.2, 4.41; Gonzales v. West, 218 F.3d 1378 (Fed. Cir. 2000).
+
+?
+
+Factual Background
+
+The Veteran seeks an effective date earlier than April 4, 2023, for the increase to a 50 percent rating for his service-connected migraine headaches.  April 2024 VA Form 10182.  Specifically, the Veteran asserts that the effective date should be the date of his original intent to file, June 22, 2021.  June 2023 Statement in Support of Claim.
+
+The Veteran was discharged from active duty on May 14, 2021.  On June 22, 2021, the Veteran submitted an Intent to File.  Thereafter, on May 26, 2022, the Veteran submitted a completed VA Form 21-526EZ, Fully Developed Claim, for migraine headaches.
+
+At the outset, the Board reiterates that under the AMA, a claim can be continuously pursued by filing an appropriate administrative review option to an AMA decision, but an initial claim for an increased rating on VA Form 21-526EZ cannot establish continuous pursuit.  See 38 C.F.R. § 3.2500; see Jackson v. McDonough, 37 Vet. App. 277 (2024).  However, the Board finds that the June 2023 VA Form 21-526EZ does not break the continuous pursuit of the Veteran's claim.  In that regard, on September 14, 2023, the AOJ sent the Veteran correspondence informing him that he utilized the incorrect form when he filed his VA Form 21-526EZ; despite the September 14, 2023 AOJ Correspondence, the AOJ proceeded to issue a September 27, 2023 rating decision in response to the incorrectly filed June 2023 VA Form 21-526EZ; notification of this rating decision was mailed on October 2, 2023.  The Veteran's supplemental claim was signed on September 27, 2023, prior to the mailing of the September 27, 2023 rating decision, and filed on October 3, 2023; on the form, the Veteran requested review of the September 14, 2023 AOJ Correspondence.  See October 2023 VA Form 20-0995.  The September 14, 2023, AOJ correspondence is not a decision subject to appellate review; thus, the Board will construe the October 2023 VA Form 20-0995 liberally as a review of the most recent rating decision on the matter distributed to the Veteran as of the signing of his October 2023 VA Form 20-0995, which was the May 2023 rating decision.  As the October 2023 supplemental claim was filed within one year from when the May 2023 decision was issued, the May 2023 rating decision was not a final decision, and continuous pursuit has been established.
+
+Therefore, as the Veteran's intent to file a claim was received within a year of his discharge from service, the effective date for the Veteran's 50 percent rating for migraine headaches will be the date following release from active duty, May 15, 2021, or the date entitlement arose, which would be the earliest date as of which it is factually ascertainable that an increase in disability occurred.  38 U.S.C. § 5110; 38 C.F.R. §§ 3.400, 3.155(b).
+
+The key inquiry is whether it is factually ascertainable that an increase in disability occurred prior to April 4, 2023.  
+
+In an effort to trace the medical history of the Veteran, the Board notes the pertinent medical history of the Veteran beginning in March 2021, two months prior to release from active duty.
+
+A March 2021 service treatment record indicates the Veteran had recurring headaches/migraines that impacted his duty performance during his deployment, but he did not seek medical care.
+
+An April 2021 service treatment record reports blurry vision with headaches.
+
+An April 2021 Post-Deployment Health Assessment reports migraines, dizziness, fainting spells, trouble sleeping, sensitivity to bright lights, and nausea, gas, or indigestion.
+
+An April 2021 Exit Examination reports daily headaches on the left side with blurred vision.
+
+An April 2021 service treatment record reports daily headaches, with more severe headaches four to five times per week and utilization of ibuprofen as needed.
+
+An April 2021 service treatment record indicates that the Veteran verbalized frequent bouts of aching/throbbing headaches to his left forehead that occurred at least four to five times per week since returning from deployment.  He denied any aura but indicated that he does have some sensitivity to light during episodes of headaches.  His headaches usually lasted for a couple of hours, and he tried taking Advil without any significant relief.
+
+In May 2021, the Veteran was prescribed propranolol as a migraine preventative, to be taken twice daily, and sumatriptan to be taken as needed.  Thereafter, in August 2021, sumatriptan nasal spray was prescribed as needed.  May and August 2021 VA Treatment Record.
+
+A July 2021 VA treatment record notes that the Veteran had migraines four to five times a week with daily headaches and was prescribed medication that was not beneficial.  He was experiencing lightheadedness, a sensation of falling over, and sometimes the room would spin while he was getting out of the bed or with any fast body movements.  He noted that sometimes it was triggered spontaneously and could occur while sitting still.  It would always last 10 seconds or less until he adjusted his bearings.  He noted getting shortness of breath and his migraines can accompany dizziness.  
+
+An August 2021 VA treatment record reports almost daily migraines with photophobia.  The Veteran was taking propanolol daily for prevention and sumatriptan as needed.  He endorsed relief with sumatriptan; however, he was not receiving enough sumatriptan to cover the frequency of his migraines.
+
+During the June 2022 VA examination, the Veteran reported that his headaches began in 2021 and that he currently experienced head pain associated with light and sound sensitivity and nausea.  He was currently treating with Sumatriptan, and the condition had stayed the same.  He reported experiencing pulsating or throbbing head pain, pain localized to one side of the head, specifically to the left frontal region.  The headaches typically lasted up to an entire day.  The examiner found that the Veteran had characteristic prostrating attacks of headache pain with less frequent attacks and that he did not have very prostrating and prolonged attacks of headache pain.  The examiner indicated the condition impacted the Veteran's ability to work as he had difficulty concentrating on productive tasks when he had headaches.
+
+A July 2023 VA examiner that reviewed the Veteran's records determined that the Veteran had prostrating attacks of headache pain greater than once per month and his symptoms have stayed the same since onset in 2021.
+
+?
+
+Analysis
+
+The Board resolves all reasonable doubts in the Veteran's favor and finds that entitlement to an earlier effective date of May 15, 2021, for the increase in rating to 50 percent for migraine headaches, is warranted.
+
+In this regard, when evaluating the severity of migraine headaches, the Board is required to engage in a holistic analysis of the Veteran's symptoms and determine whether the Veteran's symptoms equate to a characteristic prostrating attack or a completely prostrating and prolonged attack as set forth in DC 8100.  See Johnson v. Collins, 2025 U.S. App. Vet. Claims LEXIS 305, *4 (2025).  As such, in assessing the frequency, duration, severity, and economic impact of the Veteran's symptoms, it is clear that the Veteran was experiencing migraines and headaches daily with more severe headaches four to five times a week lasting at least a couple of hours in duration.  See April 2021 Service Treatment Record.  In addition to the pain of the migraines and headaches, the Veteran was experiencing various non-pain related symptoms, including photophobia, difficulty sleeping, nausea, and lightheadedness, in addition to his headaches and migraines at the time of his May 14, 2021, release from active duty.  See April 2021 Service Treatment Record, April 2021 Post-Deployment Health Assessment, and April 2021 Exit Examination.  Additionally, the Veteran was experiencing headaches and migraines to a degree that impacted his duty performance during his deployment.  See March 2021 Service Treatment Record.  Furthermore, the Veteran's migraines required the use of both preventative and rescue medication beginning in May of 2021, the ameliorative effects of which have not been fully explored.  May 2021 VA Treatment Record; see also Jones v. Shinseki, 26 Vet. App. 56, 63 (2012).
+
+Therefore, the Board finds that a holistic analysis of the frequency, duration, severity, and economic impact of the Veteran's symptoms as of May 15, 2021, most closely approximates the level of impairment associated with a 50 percent rating for the appeal period starting May 15, 2021.
+
+While the June 2022 VA examination found that the Veteran's migraines resulted in prostrating attacks less frequently than once every two months, the VA examiner failed to address the impairment level of his migraines without the ameliorative effect of medication.  These effects cannot be considered by the Board unless specifically contemplated by the rating criteria.  Jones, 26 Vet. App. at 63.  As such, the June 2022 VA examination is not dispositive for an earlier effective date.
+
+Considering the record in light of the governing legal authority, the Board resolves all reasonable doubt in the Veteran's favor and finds that an earlier effective date of May 15, 2021, the date following release from active duty, for the increase in rating to 50 percent for migraine headaches is warranted.  This is the earliest effective date available.  In summary, an effective date of May 15, 2021, but no earlier, for the increase in rating to 50 percent for migraine headaches is granted.  38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+M. SORISIO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Knerr
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

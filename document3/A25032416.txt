@@ -1,0 +1,75 @@
+Citation Nr: A25032416
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240819-465372
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to service connection for sleep apnea as secondary to posttraumatic stress disorder (PTSD) (also claimed as insomnia) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active service from April 2017 to February 2022.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of an August 2024 rating decision by a U.S. Department of Veterans Affairs (VA) Regional Office (RO), which is the agency of original jurisdiction (AOJ). 
+
+In an August 2024 VA Form 10182 (Notice of Disagreement), the Veteran timely appealed the August 2024 rating decision and elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the August 2024 supplemental claim decision on appeal. 38 C.F.R. § 20.301. If evidence was submitted after the AOJ issued the supplemental claim decision on appeal, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The Board also recognizes the Court's decision in Williams v. McDonough, requiring the Board to afford the Veteran the opportunity to modify his docket election in the absence of a waiver of this right. 37 Vet. App. 305, 310 (2024). However, because the Board is remanding the claim, the Veteran is not prejudiced by the Board's expedient disposition prior to expiration of the time to request a docket switch.
+
+Entitlement to service connection for sleep apnea as secondary to PTSD is remanded.
+
+The Veteran contends that his sleep apnea is secondary to his service-connected PTSD. 
+
+The Veteran reported experiencing sleep apnea symptoms during service of awakening with a dry mouth or headache, insomnia, hypersomnia, and difficulty focusing throughout the day, and that he sought treatment from the mental health clinic for his sleep troubles. See December 2022 VA Form 21-526EZ. Service treatment records reflect complaints of sleep problems with sporadic nightmares. See 03/23/2022 STR, pp. 50 (10/19/2021 mental health clinic consult), 53 (09/29/2021 mental health clinic consult). The Veteran's enlistment examination was negative for sleep troubles. See id., p. 6 (10/03/2016). At his discharge examination, he reported frequent trouble sleeping, specifically with staying asleep and nightmares. See id., p. 2 (11/24/2021).
+
+After separation from service, the Veteran underwent a home sleep study, which did not diagnose sleep apnea, but did not rule it out, and recommended follow up with an in-lab study. See March 2023 sleep study. The in-lab sleep study also failed to diagnose sleep apnea. See October 2023 sleep study (noting Veteran's BMI in obese range). In June 2024, a third sleep study provided a diagnosis of mild obstructive sleep apnea (OSA) and recommended weight loss due to the Veteran's high BMI. See also 06/26/2024 CAPRI, p. 32 (06/06/2024 treatment record noting obesity).
+
+An April 2023 VA examination found no diagnosis of sleep apnea, based on the March 2023 sleep study. The April 2023 examiner opined there was no causal relationship between sleep apnea and PTSD. The examiner reasoned that sleep apnea and PTSD may coexist but are separate and unrelated entities and that PTSD/mental health condition does not cause the physical airway obstruction which results in sleep apnea. No aggravation opinion was provided.
+
+An October 2023 VA examination also found no diagnosis of sleep apnea, based on the October 2023 sleep study. The examiner opined there was no pathology to warrant a diagnosis for secondary service connection, including aggravation. 
+
+In October 2023, a toxic exposure risk activity (TERA) opinion was provided for sleep apnea based upon the Veteran's exposure to airborne hazards and open burn pits while stationed in Korea in 2018 to 2019. See August 2023 TERA memorandum. The examiner discussed medical explanations and risk factors for sleep apnea in general and opined that the Veteran's sleep apnea was less likely than not caused by the indicated TERA's.
+
+A June 2024 VA examination provided a diagnosis of OSA, based on the May 2024 sleep study findings. At the examination, the Veteran reported onset of his apnea symptoms in service in 2019 with frequent awakening at night, gasping for air, snoring, and fatigue. He stated he did not address his symptoms before because he was unaware of them and that he eventually sought treatment and a sleep study after service. The Veteran endorsed functional impact of mental fogginess and fatigue affecting his studies as a student pursuing his college degree. Persistent daytime hypersomnolence was noted by the examiner. A CPAP device was recommended. The examiner opined that the Veteran's sleep apnea was less likely than not (likelihood is less than approximately balanced or nearly equal) proximately due to or the result of the Veteran's service-connected PTSD. The examiner explained that, upon review of the literature, sleep apnea is caused by pharyngeal narrowing and closing during sleep, which is a complex phenomenon with multiple factors. The anatomical factors listed by the examiner included large neck circumference, soft tissue, bone, or vessels, and decreased muscle tone of the upper airways. In contrast, the examiner described PTSD as a chronic impairing disorder that is characterized by re-experience and avoidance symptoms as well as negative alternations in cognition and arousal. Thus, the examiner concluded, the Veteran's sleep apnea was less likely than not proximately due to or the result of his PTSD. No aggravation opinion was provided, and the Veteran's obesity was not addressed as a factor.
+
+The Board finds the June 2024 VA opinion inadequate for several reasons, constituting a pre-decisional duty to assist error. See Barr v. Nicholson, 21 Vet. App. 303 (2007). First, the examiner applied an incorrect legal standard for secondary service connection, as "proximate" causation is not required. See Spicer v. McDonough, 61 F.4th 1360, 1364 (Fed. Cir. 2023) (but-for causation is undisputedly broader than proximate cause). Second, there was no aggravation opinion provided. See El-Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013). Moreover, although the medical evidence of record raises the Veteran's obesity and impact on his sleep apnea on several occasions, the examiner did not address the Veteran's obesity as a factor nor provide an opinion as to whether the Veteran's service-connected PTSD caused or aggravated his OSA and, if so, whether his obesity/aggravation of obesity was a substantial factor in causing his OSA, and whether his OSA would not have occurred but for his obesity caused or aggravated by his service-connected PTSD. See Walsh v. Wilkie, 32 Vet. App. 300 (2020) (obesity, although itself not a compensable disability, could constitute an "intermediate step" in demonstrating service connection on a secondary basis). Finally, since the Veteran currently has a diagnosis of sleep apnea, a direct opinion is warranted. 
+
+As such, a remand is warranted to obtain an addendum opinion addressing direct and secondary service connection of the Veteran's sleep apnea due to his service-connected PTSD, including aggravation and obesity as a factor.
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion regarding:
+
+a.) whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's sleep apnea is related to service?
+
+b.) whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's sleep apnea was caused by, aggravated by, or would not have occurred but for a service-connected disability, to specifically include the Veteran's service-connected PTSD; and
+
+c.) whether the Veteran's service-connected PTSD caused or aggravated his obesity; and
+
+d.) if (c.) is answered in the affirmative:
+
+i) whether the obesity/aggravation of obesity as a result of the Veteran's service-connected PTSD was a substantial factor in causing the Veteran's sleep apnea; and
+
+ii) whether the Veteran's sleep apnea would not have occurred but for his obesity caused or aggravated by his service-connected PTSD.
+
+The examiner must address the Veteran's individual specific cases of sleep apnea and PTSD, as well as his individual risk factors for obesity, and not rely on general medical literature, or the absence thereof, without discussing the specific facts of the case.
+
+Under Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023), when addressing aggravation of non-service-connected disabilities, it is enough to show that "but for" the Veteran's service-connected disabilities, any incremental-increase in severity of the Veteran's condition would not have occurred.
+
+ 
+
+ 
+
+R. Bisignani
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Brown, Janet A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,69 @@
+Citation Nr: A25032098
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240426-437797
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for idiopathic pulmonary fibrosis is granted. 
+
+Entitlement to an initial compensable rating for hypothyroidism associated with herbicide exposure is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's idiopathic pulmonary fibrosis is etiologically linked to his active-duty service.
+
+2. The Veteran is not within six months of his initial diagnosis of hypothyroidism, nor are there any residuals of hypothyroidism present.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for idiopathic pulmonary fibrosis have been met. 38 U.S.C. § 1131, 5107(b); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309.
+
+2. The criteria for entitlement to a compensable rating for hypothyroidism associated with herbicide exposure have not been met. 38 U.S.C. §§ 1155, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 4.1, 4.2, 4.7, 4.119, Diagnostic Code 7903.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Army from June 1969 to March 1972.
+
+In the present case, the agency of original jurisdiction (AOJ) issued the rating decision on appeal on June 9, 2023. The Veteran filed a timely appeal of those decisions using VA Form 10182 in April 2024 and requested the direct review lane with the Board. Accordingly, the Board will consider evidence of record up to the June 9, 2023 rating decision. Evidence outside of this time period cannot be considered.
+
+1. Entitlement to service connection for idiopathic pulmonary fibrosis
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection may be granted on a presumptive basis for certain diseases resulting from exposure to herbicide agents for Veterans who, during active military, naval or air service, served in the Republic of Vietnam between January 1962 and May 1975, so long as the requirements of 38 U.S.C. § 1116 and 38 C.F.R. § 3.307 (a)(6)(iii) are met, and the rebuttable presumption provisions of 38 U.S.C. § 1113 and 38C.F.R. §3.307 (d) are also satisfied. 38 C.F.R. § 3.309 (e). Presumptive diseases associated with exposure to herbicide agents include diabetes. 38 C.F.R. § 3.309 (e). Therefore, if in-service exposure to herbicide agents is established by the evidence or presumption, the presumptions of nexus found at 38 C.F.R. § 3.309 (e) are applicable. The crux of this case is whether the Veteran was exposed to herbicide agents while on active duty.
+
+The Veteran contends that his idiopathic pulmonary fibrosis (IPF) should be service-connected due to exposure to herbicide agents, during service.
+
+In the June 2023 rating decision, the AOJ made favorable findings that the Veteran had current disabilities and was diagnosed with IPF confirmed by VA treatment records. The AOJ also conceded the Veteran's participation in a toxic exposure risk activity and exposure to herbicides based on the Veteran's service in the Republic of Vietnam. The Board is bound by these favorable findings. 38 C.F.R. § 3.104 (c).  Thus, the sole remaining issue is a nexus. 
+
+As to a nexus, the Veteran was afforded a VA examination in September 2022. The Veteran was diagnosed with IPF. The examiner explained IPF was a specific type of interstitial lung disease. In February 2023, a VA examiner opined the Veteran's interstitial lung disease was a chronic respiratory condition caused by toxic exposure risk activities the Veteran performed during service. While the opinion is only somewhat probative because the examiner misapplied certain presumptive provisions, the opinion specifically links the Veteran's IPF to his conceded herbicide exposure. 
+
+There is no competent evidence to contradict the positive nexus. As such, the most persuasive evidence is in favor of the claim, and service connection for idiopathic pulmonary fibrosis is granted. 
+
+2. Entitlement to a compensable rating for hypothyroidism associated with herbicide exposure
+
+The Veteran contends he is entitled to an initial compensable rating for his hypothyroidism. The Veteran was awarded service connection for hypothyroidism effective January 29, 2022. Hypothyroidism is rated under 38 C.F.R. § 4.119, Diagnostic Code 7903.
+
+The current version of the criteria, effective December 10, 2017, provides that a 100 percent rating is assigned for hypothyroidism manifesting as myxedema (cold intolerance, muscular weakness, cardiovascular involvement (including, but not limited to hypotension, bradycardia, and pericardial effusion), and mental disturbance (including, but not limited to dementia, slowing of thought and depression)) for a period of six months after an examiner has determined the condition is stabilized. Thereafter, the residual effects of hypothyroidism are rated under the appropriate diagnostic code(s) within the appropriate body system(s) (e.g., eye, digestive, and mental disorders). 38 C.F.R. § 4.119, Code 7903 (2019).
+
+For hypothyroidism without myxedema, a 30 percent rating is assigned for six months after initial diagnosis. Thereafter, residuals of disease or medical treatment, to include eye conditions, are rated under the most appropriate diagnostic code(s) under the appropriate body system (e.g., eye, digestive, mental disorders). 38 C.F.R. § 4.119, Code 7903.
+
+The Veteran underwent a VA examination in April 2023. He reported using medication to control hypothyroidism diagnosed in 2017. The examiner found no current findings, signs, or symptoms attributable to hypothyroidism. There was no endocrine dysfunction residual following treatment. Physical examination of the neck was normal. The examiner noted the Veteran's complaints of occasional fatigue but found no functional impact. 
+
+The Board finds that a compensable evaluation is not warranted for the Veteran's hypothyroidism. Higher ratings are available for hypothyroidism within six months of initial diagnosis or stabilization through medication or for residuals ratable as compensable. The evidence persuasively weighs against such findings. The schedular criteria for hypothyroidism only provide compensable ratings for six months after initial diagnosis or crisis stabilization. In the Veteran's case, this occurred in 2017. Treatment records and VA examinations reveal no indication of any residuals of hypothyroidism. Therefore, the Board finds that a compensable evaluation is not warranted for the Veteran's hypothyroidism.
+
+ 
+
+ 
+
+GAYLE STROMMEN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Sherman, C
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

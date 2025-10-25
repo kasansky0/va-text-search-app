@@ -1,0 +1,81 @@
+Citation Nr: A25031653
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240705-459345
+DATE: April 7, 2025
+
+ORDER
+
+An effective date prior to September 5, 2018, for the award of service connection for the cause of the Veteran's death is denied.
+
+FINDING OF FACT
+
+Prior to September 5, 2018, VA did not receive a claim for dependency and indemnity compensation (DIC) from the appellant.
+
+CONCLUSION OF LAW
+
+The criteria for an effective date prior to September 5, 2018, for the award of service connection for the cause of the Veteran's death are not met. 38 U.S.C. §§ 5107, 5110; 38 C.F.R. §§ 3.159, 3.312, 3.400.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 1967 to April 1969.  He received the Purple Heart. He died in January 2006.  The appellant is the Veteran's surviving spouse.
+
+In January 2020, the agency of original jurisdiction (AOJ) granted service connection for the cause of the Veteran's death, effective September 27, 2019.  Thereafter, in December 2021, the AOJ informed the appellant that she was entitled to the earlier effective date of September 5, 2018.
+
+In May 2022, the appellant requested higher-level review (HLR) of the December 2021 decision.  She asserted entitlement to retroactive Dependency and Indemnity Compensation (DIC) all the way to the date of the Veteran's death in 2006.  In July 2022, an HLR decision denied an effective date earlier than September 5, 2018.
+
+In August 2022, the appellant submitted a supplemental claim and again asserted entitlement to DIC to 2006.  A September 2022 decision again denied an effective date earlier than September 5, 2018.
+
+In March 2023, the appellant requested HLR review of a September 2022 decision.  In January 2024, the AOJ issued the HLR decision on appeal, which upheld the denial of an earlier effective date.  
+
+In her July 2024 VA Form 10182 (notice of disagreement), the appellant elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the September 6, 2022 AOJ decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the September 6, 2022 decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the present claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+***
+
+The Veteran's death certificate lists the cause of his death as atherosclerotic cardiovascular heart disease.  Service connection for the cause of the Veteran's death has been granted based on the presumption that the Veteran's heart condition was related to his presumed herbicide exposure during service in Vietnam.
+
+At the time of the Veteran's death in January 2006, ischemic heart disease (which includes atherosclerotic cardiovascular disease) was not among the listed conditions for which VA may presume an association with herbicide exposure.  38 C.F.R § 3.309(e).  The condition was added to the list, effective October 30, 2010, by virtue of a liberalizing law.  
+
+Generally, the effective date of an award based on a liberalizing law is assigned in accordance with the facts found but is usually not earlier than the effective date of the liberalizing law.  38 C.F.R § 3.114.  Effective dates of certain awards of service connection, however, are governed pursuant to the orders of a United States district court in the class-action case arising from Nehmer v. United States Department of Veterans Affairs, No. CV-86-6160 TEH (N.D. Cal. May 17, 1991).  
+
+For a claimant to be considered a Nehmer class member, he or she must be either a Vietnam veteran who has a covered herbicide-related disease (as provided in 38 C.F.R § 3.309(e) or a surviving spouse, child, or parent of a deceased Vietnam veteran who died from a covered herbicide disease.  38 C.F.R. § 3.816.  The appellant meets the criteria to be considered a Nehmer class member.
+
+In the context of DIC claims, for a Nehmer class member to be entitled to an effective date earlier than the date of the liberalizing law establishing a presumption of service connection for the covered herbicide disease that caused the Veteran's death, the evidence must show that a DIC claim was either pending before VA on May 3, 1989, or was received by VA between May 3, 1989, and the effective date of the liberalizing law.  Id.  In any of these cases, the effective date of the award will be the later of the date that the DIC claim was received by VA or the date the death occurred.  If, however, the Nehmer class member's DIC claim was received within one year of the Veteran's death, then the effective date of the award will be the first day of the month in which the death occurred.  Id.
+
+Thus, in this case, for the appellant to be entitled to an effective date earlier than September 5, 2018, for the award of service connection for the cause of the Veteran's death, the evidence must show that a DIC claim was received at some point between the Veteran's death in January 2006 and August 31, 2010 [effective date of liberalizing law].  In this case, however, there is no argument or indication that the appellant submitted a DIC claim at any time prior to August 31, 2010 nor between September 1, 2010 and the September 2019 claim.
+
+The Board acknowledges that, in January 2006, days after the Veteran's death, VA received a VA 21-530 Application for Burial Benefits, submitted by a funeral home.  To the question of whether service connection for the cause of the Veteran's death was being claimed, the claimant selected the checkbox for "no."  The funeral home and the Veteran's brother both signed the document.  A deferred rating decision from January 2006 indicates that the AOJ conducted a review of the Veteran's claims file but found no evidence to suggest that he died from a service-connected condition.  Shortly thereafter, also in January 2006, the AOJ sent a copy of the letter granting the funeral home's application for burial benefits to the above appellant and informed her of her right to submit an application for death pension benefits or DIC.  
+
+The January 2006 application for burial benefits was not submitted by the above appellant, did not include an implied claim for DIC, and was not adjudicated as a DIC claim.  Rather, the application was submitted by a funeral home, the claimant denied claiming service connection for the cause of the Veteran's death, and the AOJ found no reason to develop the application as a DIC claim.  Based on the foregoing factors, the Board finds that the January 2006 application for burial benefits cannot be considered a DIC claim from the appellant.  Accordingly, it cannot be the basis for an earlier effective date for the grant of service connection for the cause of the Veteran's death, to include under the Nehmer rules.
+
+In support of her appeal, the appellant has indicated that immediately after the Veteran's death she spoke with a county veterans service officer (CVSO), who informed her that the Veteran's death was not service-connected due to ischemic heart disease not yet being a presumptive condition.  She has also indicated that VA did not contact her when ischemic heart disease was added to the presumptive list.  See statement from May 31, 2022.  She feels that she was misled by both VA and the CSVO and believes that VA had a duty to notify her of the addition of ischemic heart disease to the list of conditions presumed to be associated with herbicide agent exposure.  See correspondence from August 24, 2022, and March 27, 2023.
+
+To the extent that the appellant is asserting that she received incorrect guidance from VA employees regarding her DIC eligibility soon after the Veteran's death in January 2006, the Board notes that erroneous advice given by a VA employee cannot serve as a basis for contravening the legal standard for the assignment of an effective date.  See McTighe v. Brown, 7 Vet. App. 29, 30 (1994) ("[P]ayment of government benefits must be authorized by statute; therefore, erroneous advice given by a government employee cannot be used to estop the government from denying benefits."); see also Owings v. Brown, 8 Vet. App. 17, 23 (1995) (stating that even where VA misinforms a veteran regarding eligibility for benefits, the doctrine of equitable estoppel cannot be used to grant monetary benefits that Congress has not authorized). The Board is bound by these precedents.  There is also no evidence of record showing that the CVSO is a VA employee. 
+
+To the extent that the appellant is asserting that she was discouraged from submitting a DIC claim by VA employees, to include as noted in the October 2024 appellate brief, this assertion is contradicted by the record, which show that, in late January 2006, VA sent a letter to the appellant, informing of her right to submit an application for death pension or DIC.  The appellant's accredited representative contends that the 2006 deferred rating supports that VA advised her that she was not entitled to DIC as the Veteran did not die from a service-connected disability is without merit.  This deferred rating decision is dated January 19, 2006.  This is 6 days after the VA 21-530 and death certificate were received.  It is not clear when the appellant was at a VA office in 2006 and the record does not reflect any such contact. Similarly, the 2024 brief contends that the January 24, 2006 letter to the appellant stated that she may be entitled to death benefits and it was not a request for a VA Form 21P-534.  However, the January 24, 2006 letter states that if "you would like to apply for death pension benefits, please complete and return the enclosed VA Form 21-534 (Application for Dependency and Indemnity Compensation, Death Pension and Accrued Benefits)" and provided this form as an enclosure along with fact sheets. The letter did not state that the appellant was not entitled to benefits, it provided a choice and supplied the form and facts sheets to assist with a decision.
+
+Finally, to the extent that the appellant is asserting that VA erred by not providing her notice when the relevant liberalizing law was effectuated, the Board is unaware of (and neither the appellant nor her representative have pointed to) any legal authority that imposes on VA a duty to provide such a notice.  In this regard, an examination of the relevant provisions of the Agent Orange Act of 1991 does not indicate that Congress intended to impose a duty on VA to notify every potential claimant of the favorable change in the law.  The relevant portion of this act, as codified at 38 U.S.C. § 1116, does not state that VA has a duty to notify potential claimants of the changes in the law.  What is particularly telling about this law is that it specifically outlines in great detail the procedures for adding or subtracting diseases to or from the list of those presumed to have been related to Agent Orange exposure, creating the potential for additional favorable changes in VA regulations.  However, even though it can be inferred from this that Congress anticipated the addition of additional diseases, it did not add a provision stating that VA has a duty to notify potential claimants after a new disease is added to the list.  Therefore, there is no evidence of a duty to notify under the Agent Orange Act of 1991.  Where there is no clear indication that a statute was enacted with an intent to impose on VA a duty to notify potential beneficiaries of new law, such a duty cannot otherwise be imposed.  Wells v. Principi, 3 Vet. App. 307, 309 (1992).
+
+The Board acknowledges that the Nehmer Consent Decree places the onus on VA to automatically review and readjudicate previously denied claims without a veteran or survivor having filed a new claim.  Additionally, the Nehmer Consent Decree states that "VA will provide individual notice to each claimant denied benefits under the previous regulation [...] that the claims will be readjudicated with all the procedural rights normally applicable to such VA proceedings."  Thus, to the extent that the Nehmer Consent Decree creates a duty to notify, it is only with regard to claimants that were denied benefits in a previous claim.  That, however, is not the case here.  As discussed above, the appellant did not previously submit a DIC claim.  Rather, the record only shows an application for burial benefits submitted by a funeral home.  For the reasons discussed above, the Board does not find that this application can be considered a DIC claim from the appellant.
+
+The Board further acknowledges that coronary artery disease appears listed in the Veteran's rating decision codesheets, to include those issued prior to the Veteran's death, as a disability considered for pension purposes only, but it is not listed under the section titled "NSC" (not service-connected) disability.  This tends to show that the coronary artery disease was not previously denied by VA. Even if the Veteran claimed service connection for coronary artery disease, the Board still finds that VA did not have a duty to notify the appellant of the change in the law.  As noted above, the Nehmer Consent Decree indicates that individual notice is to be provide to "each claimant denied benefits".  Here, the Veteran and the appellant are two different claimants.  Therefore, to the extent that VA had a duty to notify the Veteran of the change in the law, this duty is not applicable to the appellant as DIC is the appellant's own claim, separate from any claim brought by the Veteran. 38 U.S.C. §§ 1310, 1311. 
+
+(Continued on the next page)
+
+?
+
+Furthermore, to the extent the appellant may be making an appeal for equitable relief, the Board is bound by the law and has no authority to grant benefits on an equitable basis.  See 38 U.S.C. §§ 503, 7104.  Equitable relief is solely within the discretion of the Secretary of Veterans Affairs.  See McCay v. Brown, 8 Vet. App. 378 (1995); Harvey v. Brown, 6 Vet. App. 416 (1994); 38 C.F.R. § 2.7.
+
+ 
+
+ 
+
+Paul Sorisio
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	P. López, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,127 @@
+Citation Nr: A25032662
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240119-409270
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for chronic lymphoid leukemia is remanded.
+
+Entitlement to service connection for a left hip strain is remanded.
+
+Entitlement to service connection for a left ankle condition is remanded.
+
+Entitlement to service connection for a left knee condition is remanded.
+
+Entitlement to service connection for a lumbosacral strain is remanded.
+
+Entitlement to service connection for a right ankle condition is remanded.
+
+Entitlement to service connection for a right hip strain is remanded.
+
+Entitlement to service connection for a right knee condition is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active service from April 1998 to November 1999.
+
+The rating decision on appeal was issued in February 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the January 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the February 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+Because the Board is remanding the claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+Issue 1: Entitlement to service connection for chronic lymphoid leukemia (CLL)
+
+In August 2022, the Veteran claimed service connection for "cancer-bone," listing the "PACT Act" in his application.  He did not provide a theory of entitlement beyond this.  The PACT Act is the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022.  
+
+In February 2023, the AOJ found the Veteran had CLL, but it denied the claim without examining him.  In January 2024, the Veteran appealed the AOJ's denial.  
+
+Remand is warranted for two reasons.
+
+First, in April 2024, the AOJ found the Veteran was exposed to asbestos due to his military occupational specialty as an equipment engineer operator, based on the Veteran's DD Form 214.  The asbestos exposure is a toxic exposure risk activity (TERA).
+
+The AOJ did not add any relevant evidence to the Veteran's claims file on the question of asbestos exposure between the February 2023 rating decision and its April 2024 finding.  Because Congress enacted the PACT Act before the February 2023 rating decision, the AOJ erred in not determining whether the Veteran was exposed to asbestos before it decided his claim.
+
+Pursuant to the PACT Act, generally, VA must obtain a medical examination and nexus opinion in service connection claims when there is: 1) evidence of a disability, and 2) evidence of participation in a TERA during active military service, but 3) that evidence is not sufficient to grant service connection for the disability. 
+
+The sub-regulatory guidance defines four exceptions to the requirement to obtain a TERA examination and medical opinion: physical trauma, mental disorders, disabilities that have not been shown to have any positive association with herbicide agents' exposure, and disabilities that manifested during service or with a clear etiology that is not associated with toxic exposure (to include due to post-service events).  VBA Letter 20-22-10, 10-13, Processing Claims Involving the PACT Act, 87 Fed. Reg. 78,543 (Dec. 22, 2022).  Here, none of the exceptions apply and the AOJ did not obtain a TERA opinion, so it erred under 38 U.S.C. § 5103A.  Consequently, remand is warranted for an examination and TERA opinion under 38 C.F.R. § 20.802(a).
+
+Second, the Veterans Health Administration (VHA) authorizes eligible Veterans to receive health care from a community provider rather than waiting for a VA appointment or traveling to a VA facility.  This authorization includes the former Veterans Choice Program and current Veterans Community Care Program.  
+
+Here, VHA approved the Veteran for treatment of the CLL via the Community Care Program, as indicated in VA treatment records added to the claims file on August 16, 2022.  VA's duty to assist the Veteran in prosecuting his claim includes obtaining such records.  Sullivan v. McDonald, 815 F.3d 786, 793 (Fed. Cir. 2016).  Because the AOJ did not obtain these records, this violated 38 U.S.C. § 5103A.  As such, remand is warranted under 38 C.F.R. § 20.802(a).
+
+Lastly, the Board notes that VA added leukemias as presumptive conditions under 38 C.F.R. § 3.320b.  The new presumptions apply to veterans who served on active military, naval, air, or space service in the Southwest Asia theater of operations or Somalia during the Persian Gulf War (hereafter Gulf War) on or after August 2, 1990, and in Afghanistan, Syria, Djibouti, Uzbekistan, Egypt, Jordan, Lebanon, and Yemen during the Gulf War on or after September 11, 2001.  In March 2025, the Veteran's representative submitted a brief in which it contends the Veteran served in one of prescribed areas during the prescribed timeframes.  However, the representative cited no evidence to support this contention.  The Board has considered this contention but finds nothing to corroborate it.  Nothing in the Veteran's record, to include his DD Form 214, shows any foreign service or medals to commemorate such service.  Therefore, the leukemia presumption under 38 C.F.R. § 3.320b does not apply here.
+
+Issue 2: Entitlement to service connection for a left hip strain 
+
+Issue 3: Entitlement to service connection for a left ankle condition 
+
+Issue 4: Entitlement to service connection for a left knee condition 
+
+Issue 5: Entitlement to service connection for a lumbosacral strain 
+
+Issue 6: Entitlement to service connection for a right ankle condition 
+
+Issue 7: Entitlement to service connection for a right hip strain 
+
+Issue 8: Entitlement to service connection for a right knee condition 
+
+In August 2022, the Veteran claimed service connection for these seven disabilities as secondary to his service-connected bilateral pes planus. 
+
+In December 2022, the AOJ examined him for the seven claims.  
+
+For the knees and ankles, the Veteran reported shooting pain in the respective joints.  However, the Veteran did not allege this pain resulted in functional impairment, nor did the examiner note any functional impairment.  It is unclear if that is because the examiner did not ask the Veteran, the Veteran did not report any, or something else.  At best, the examiner reported the "Veteran does not have a current diagnosis."  For these claimed disabilities, the examiner opined the Veteran had "no primary diagnosis" and that the pain from the knees and ankles was "subsumed under his pes planus diagnosis."  However, because the examiner, and in turn, the AOJ, did not consider whether the Veteran's symptoms resulted in functional impairment of earning capacity, the definition of disability as articulated in Saunders v. Wilkie, 886 F.3d 1356 (Fed. Cir. 2018), this violated VA's duty to assist the Veteran in prosecuting his claim under 38 U.S.C. § 5103A.  Therefore, remand is warranted for an addendum medical opinion under 38 C.F.R. § 20.802(a).
+
+For the back and hips, the examiner diagnosed the Veteran with a lumbosacral strain and bilateral hip strain, respectively.  For these disabilities, the examiner opined: "There is nothing in STRs to support this causative relationship.  Disease in the feet does not directly cause" these disabilities.  These opinions confuse the Board insofar as they appear to be based upon a direct, not secondary, theory of entitlement.  Because the Veteran alleged only a secondary theory of entitlement, the AOJ erred in not obtaining opinions based on such contention under 38 U.S.C. § 5103A.  Therefore, remand is warranted for an addendum medical opinion under 38 C.F.R. § 20.802(a).
+
+The matters are REMANDED for the following action:
+
+1. Attempt to obtain all treatment records generated from VHA's approval of the Veteran to seek treatment via the Community Care Program.   Arrange for these documents to be made viewable in VBMS and/or added as separate files.  In short, the Board wants to ensure that all available records are viewable, not simply a notation that private records have been scanned into a VHA database.
+
+2. Schedule the Veteran for an examination to determine the nature and etiology of his CLL.  The examiner, after reviewing the claims file, to include this Remand, should opine:
+
+a)	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's CLL began during, or was otherwise caused by, his service?  Why or why not?  
+
+b)	Is it at least as likely as not that the Veteran's toxic exposure risk activity, i.e., asbestos exposure, caused his CLL?  Why or why not? 
+
+In answering the TERA question, the clinician must consider a) the Veteran's total potential exposure through all applicable military deployments, and b) the synergistic, combined effect of all toxic exposure risk activities.  A complete rationale should be provided for all opinions.
+
+3. Obtain an addendum medical opinion for the seven musculoskeletal claims.  The clinician must review the entire claims file, including this Remand and the December 2022 VA examination.  The clinician should opine:
+
+a)	Does the Veteran's bilateral knee pain cause functional impairment of earning capacity?  
+
+b)	If the answer to (a) is yes, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's bilateral pes planus CAUSED his bilateral knee pain?  Why or why not?  
+
+c)	If the answer to (a) is yes, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's bilateral pes planus AGGRAVATES his bilateral knee pain?  Why or why not?  
+
+d)	Does the Veteran's bilateral ankle pain cause functional impairment of earning capacity?  
+
+e)	If the answer to (d) is yes, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's bilateral pes planus CAUSED his bilateral ankle pain?  Why or why not?  
+
+f)	If the answer to (d) is yes, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's bilateral pes planus AGGRAVATES his bilateral ankle pain?  Why or why not?  
+
+g)	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's bilateral pes planus CAUSED his lumbosacral strain?  Why or why not?  
+
+h)	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's bilateral pes planus AGGRAVATES his lumbosacral strain?  Why or why not?  
+
+i)	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's bilateral pes planus CAUSED his bilateral hip strain?  Why or why not?  
+
+j)	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's bilateral pes planus AGGRAVATES his bilateral hip strain?  Why or why not?  
+
+In answering the questions regarding aggravation, the examiner is reminded that aggravation is defined as any increase in severity of a nonservice-connected disease or injury that is proximately due to or the result of a service-connected disease or injury.  The examiner is advised that a finding that the Veteran's claimed disability was aggravated due to a service-connected disability does not require evidence of permanent worsening and may encompass any additional impairment in earning capacity resulting from an already service-connected condition.  
+
+A complete rationale is required.
+
+ 
+
+Tiffany Dawson
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Sopko, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

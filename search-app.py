@@ -43,8 +43,7 @@ def log_to_sheet(session_id, search_term, document_viewed):
 # -----------------------------
 # CSS Styling
 # -----------------------------
-st.markdown("""
-<style>
+st.markdown("""<style>
 html, body, [class*="stAppViewContainer"], [class*="stApp"], 
 [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
     background-color: #FFFFFF !important;
@@ -129,8 +128,7 @@ div.stButton > button:hover {
     text-align: center;
     margin-top: 30px;
 }
-</style>
-""", unsafe_allow_html=True)
+</style>""", unsafe_allow_html=True)
 
 # -----------------------------
 # Header
@@ -138,11 +136,12 @@ div.stButton > button:hover {
 st.markdown('<h1 class="centered-text">VA Condition Search</h1>', unsafe_allow_html=True)
 
 # -----------------------------
-# Folder containing text files
+# Folders containing text files
 # -----------------------------
-folder_path = "documents"
-if not os.path.exists(folder_path):
-    st.error(f"Error: Folder not found at {folder_path}")
+folders = [f"document{i}" for i in range(1, 8)]
+existing_folders = [f for f in folders if os.path.exists(f)]
+if not existing_folders:
+    st.error("No folders found! Make sure the folders document1..document7 exist.")
     st.stop()
 
 # -----------------------------
@@ -165,28 +164,31 @@ if search_input:
         log_to_sheet(st.session_state.client_id, search_phrase, "")
 
         matching_files = []
-        for filename in os.listdir(folder_path):
-            if filename.endswith(".txt"):
-                with open(os.path.join(folder_path, filename), "r", encoding="utf-8") as f:
-                    content = f.read()
-                matches = re.findall(re.escape(search_phrase), content, flags=re.IGNORECASE)
-                if matches:
-                    matching_files.append((filename, len(matches)))
+        for folder in existing_folders:
+            for filename in os.listdir(folder):
+                if filename.endswith(".txt"):
+                    file_path = os.path.join(folder, filename)
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        content = f.read()
+                    matches = re.findall(re.escape(search_phrase), content, flags=re.IGNORECASE)
+                    if matches:
+                        matching_files.append((filename, len(matches), file_path))
 
         if not matching_files:
             st.warning("No files found with the given phrase.")
         else:
+            # <-- UPDATED: only show number of files found -->
             st.markdown(
-                f'<div class="search-result-blue"><strong>Found {len(matching_files)} file(s):</strong></div>',
+                f'<div class="search-result-blue"><strong>Found {len(matching_files)} file(s)</strong></div>',
                 unsafe_allow_html=True
             )
 
-            for idx, (file_name, match_count) in enumerate(matching_files, 1):
+            for idx, (file_name, match_count, file_path) in enumerate(matching_files, 1):
                 clean_name = file_name.replace(".txt", "")
-                with open(os.path.join(folder_path, file_name), "r", encoding="utf-8") as f:
+                with open(file_path, "r", encoding="utf-8") as f:
                     content = f.read()
 
-                # Create snippet around first match
+                # Snippet around first match
                 match = re.search(re.escape(search_phrase), content, re.IGNORECASE)
                 if match:
                     start = max(0, match.start() - 300)
@@ -195,10 +197,8 @@ if search_input:
                 else:
                     snippet_text = ""
 
-                # Trim snippet to 1000 characters
                 snippet_text = snippet_text[:1000]
 
-                # Highlight matches
                 snippet = re.sub(
                     re.escape(search_phrase),
                     lambda m: f"<mark>{m.group(0)}</mark>",
@@ -206,10 +206,9 @@ if search_input:
                     flags=re.IGNORECASE
                 )
 
-                # Count matches in snippet
                 matches_in_snippet = len(re.findall(re.escape(search_phrase), snippet_text, flags=re.IGNORECASE))
 
-                # Header text: always show full document info
+                # Header text (clean, no folder)
                 header_text = f'<b><mark>#{idx} {clean_name} — {match_count} match{"es" if match_count != 1 else ""} found</mark></b><br>'
                 if match_count > matches_in_snippet:
                     header_text += '<b><mark>Click "Show Full Document" to see all matches.</mark></b>'
@@ -218,17 +217,14 @@ if search_input:
 
                 snippet_html = f"{header_text}<br><br>{snippet}" if snippet else f"{header_text}<br><i>No snippet available.</i>"
 
-                # Determine snippet box color
                 box_class = "search-result-blue" if idx % 2 != 0 else "search-result-green"
 
-                # Display snippet
                 st.markdown(
                     f'<div class="{box_class}"><p>{snippet_html}</p></div>',
                     unsafe_allow_html=True
                 )
 
-                # Full document button
-                if st.button(f"Show full document: #{idx} {clean_name}", key=file_name):
+                if st.button(f"Show full document: #{idx} {clean_name}", key=f"{file_name}"):
                     log_to_sheet(st.session_state.client_id, search_phrase, clean_name)
                     full_content = re.sub(
                         re.escape(search_phrase),
@@ -243,7 +239,7 @@ if search_input:
 # -----------------------------
 st.markdown("""
 <div class="footer-text">
-Disclaimer: This site indexes and displays excerpts from publicly available U.S. government documents (VA.gov).
+Disclaimer: This site indexes and displays excerpts from publicly available U.S. government document1 (VA.gov).
 No personal or private information is uploaded or stored. This tool is for informational use only and not a
 substitute for legal or medical advice.
 </div>

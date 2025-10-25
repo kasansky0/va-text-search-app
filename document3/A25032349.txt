@@ -1,0 +1,133 @@
+Citation Nr: A25032349
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 230906-374374
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for hypertension is denied. 
+
+Entitlement to an initial compensable rating for hypothyroidism is denied.
+
+REMANDED
+
+Entitlement to an initial compensable rating for prostate cancer residuals is remanded.
+
+FINDINGS OF FACT
+
+1.  Throughout the appeal period, the Veteran's hypertension has not more nearly approximated diastolic blood pressure predominantly 100 or more or a history thereof, or systolic blood pressure predominantly 160 or more. 
+
+2.  Throughout the appeal period, the Veteran's hypothyroidism has not more nearly approximated myxedema or compensable residuals and this condition was diagnosed more than six months prior to the award of service connection. 
+
+CONCLUSIONS OF LAW
+
+1.  The criteria for an initial compensable rating for hypertension have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.3, 4.104, Diagnostic Code 7101.
+
+2.  The criteria for an initial compensable rating for hypothyroidism have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.321, 4.3, 4.119, Diagnostic Code 7903. 
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from July 1970 to January 1972.
+
+These matters are before the Board of Veterans' Appeals (Board) on appeal from a March 2023 rating decision by a Department of Veterans Affairs Regional Office (RO).  In a September 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the direct review docket. 
+
+Therefore, the Board may only consider the evidence of record at the time of the March 2023 rating decision on appeal.  If evidence was submitted during the period after the Agency of Original Jurisdiction (AOJ) issued the decision on appeal, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.303, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Increased Rating
+
+Disability ratings are determined by applying a schedule of ratings that is based on average impairment of earning capacity.  Separate diagnostic codes identify the various disabilities.  38 U.S.C. § 1155; 38 C.F.R. § Part 4.  Each disability must be viewed in relation to its history, and the limitation of activity imposed by the disabling condition should be emphasized.  38 C.F.R. § 4.1.  Examination reports are to be interpreted considering the whole recorded history.  38 C.F.R. § 4.2.  Each disability must be considered from the point of view of the veteran working or seeking work.  Id.  Where there is a question as to which of two disability evaluations shall be applied, the higher evaluation is to be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating is to be assigned.  38 C.F.R. § 4.7.
+
+Separate ratings can be assigned for separate periods based on the facts found - a practice known as "staged" ratings.  Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007).  Staged ratings are appropriate whenever the factual findings show distinct periods where the service-connected disability exhibits symptoms that would warrant different ratings.  Id.
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3; see also Lynch v. McDonough 21 F.4th 776 (Fed. Cir. 2021) (en banc).  However, when the evidence is persuasively for or against a claim, the benefit of the doubt doctrine is not applicable. Id.
+
+Hypertension 
+
+The Veteran contends that he should be entitled to a higher rating for his service-connected hypertension due to his continuous use of medication to control such disability.  He has further reported that he experiences headaches and occasional dizziness due to this condition. See March 2025 Appellate Brief.
+
+The Veteran's hypertension has been rated noncompensable under 38 C.F.R. § 4.104, Diagnostic Code 7101, since August 10, 2022, the date of service connection.
+
+Under Diagnostic Code 7101, a 10 percent rating is warranted for diastolic pressure predominantly 100 or more, or systolic pressure predominantly 160 or more, or where an individual with a history of diastolic pressure predominantly 100 or more requires continuous medication for control.  A 20 percent rating is assigned for diastolic pressure predominantly 110 or more or systolic pressure predominantly 200 or more.  A 40 percent rating is assigned for diastolic pressure predominantly 120 or more.  Lastly, a 60 percent rating is assigned for diastolic pressure predominantly 130 or more.  38 C.F.R. § 4.104, Diagnostic Code 7101.
+
+Notes to Diagnostic Code 7101 provide that hypertension or isolated systolic hypertension must be confirmed by readings taken two or more times on at least three different days.  For purposes of this section, the term hypertension means that the diastolic blood pressure is predominantly 90mm. or greater, and isolated systolic hypertension means that the systolic blood pressure is predominantly 160mm. or greater with a diastolic pressure of less than 90mm.  Additionally, hypertension due to aortic insufficiency or hyperthyroidism, which is usually the isolated systolic type, should be evaluated as part of the condition causing it rather than by separate evaluation.  Finally, hypertension should be evaluated separately from hypertensive heart disease and other types of heart disease.
+
+The evidence of record includes VA medical records showing the following blood pressure readings during the period on appeal, including the one-year look back period: 131/81 (October 2021), 138/84 (November 2021), 116/76 (May 2022), and 124/83 (November 2022).  See March 2023 CAPRI. 
+
+The Veteran was afforded a VA examination in March 2023.  The examiner noted the diagnosis of hypertension and found that the Veteran's condition had been under control since he was prescribed medication in 2008.  It was further noted that the Veteran was taking continuous medication for his hypertension, and his blood pressure readings during the examination were 128/70, 132/74, and 130/72.
+
+After a review of the evidence of record, the Board finds that the Veteran does not meet the criteria for a compensable rating for hypertension at any time during the pendency of the appeal.  Although the Veteran has been taking blood pressure medication to control his hypertension, he has not at any time, prior to or during the pendency of the appeal, been shown to have a diastolic pressure predominately above 100 or a systolic pressure predominately 160 or above.
+
+The Board recognizes the Veteran's contentions that his blood pressure readings were 190/90 even with the use of medication.  See February 2025 Statement in Support of Claim.  However, no documentation has been submitted in support of these contentions.  
+
+Furthermore, Diagnostic Code 7101 explicitly notes that the evidence must demonstrate a systolic blood pressure of "predominantly" 160 or above.  However, the term "predominant" is not defined in the rating criteria.  Thus, the Board will define the term utilizing the Merriam-Webster definition, which defines predominant to mean "being most frequent or common." See, e.g., "predominant," Merriam-Webster.com Online Dictionary, https://www.merriam-webster.com/dictionary/predominant.  Based on this definition, the Board finds that a self-reported reading in excess of 160 does not meet the definition of "predominant" or "most frequent or common" in light of the documented blood pressure readings in the record, all of which demonstrate systolic readings under 160.
+
+Furthermore, while the Veteran has been prescribed medicine to treat his hypertension, the Board notes that the rating criteria for such disability specifically contemplate the use of medication to ameliorate symptoms, and a compensable rating may not be assigned based solely on the fact that the Veteran uses medication to treat his symptoms.  McCarroll v. McDonald, 28 Vet. App. 267, 272-73 (2016) (the Board did not err in failing to discount the ameliorative effects of blood pressure medication as the plain language of Diagnostic Code 7101 contemplates the effects of medications).  Under Diagnostic Code 7101, hypertension is rated based on actual blood pressure readings.  The Diagnostic Code does not include any criteria, mechanism, or method for rating hypertension based on blood pressure readings that would be expected if the Veteran were to stop taking medications.  Accordingly, the Board has based its decision on the blood pressure readings of record.  Therefore, the record does not show that the Veteran has a history of diastolic pressure predominantly 100 or more that, in combination with his required continuous use of medication for control, would warrant a 10 percent rating under Diagnostic Code 7101.
+
+In making its determination in this case, the Board acknowledges the Veteran's belief that his hypertension symptoms are more severe than as reflected by the currently assigned rating.  In this regard, the Board must consider the entire evidence of record when analyzing the criteria laid out in the rating schedule.  While the Board recognizes that the Veteran is competent to provide statements regarding his observable symptomatology, he is not competent to provide an opinion regarding the severity of his symptomatology in accordance with the rating criteria.  See Woehlaert v. Nicholson, 21 Vet. App. 456 (2007).  Rather, the Board finds the medical evidence in which professionals with medical expertise examined the Veteran, acknowledged his reported symptoms, and described the manifestations of such disability to be more persuasive than his reports regarding the severity of such disability.
+
+The Board has also considered whether staged ratings under Hart, supra, are appropriate for the Veteran's service-connected hypertension; however, the Board finds that his symptomatology has been stable throughout the appeal.  Therefore, assigning staged ratings for such disability is not warranted. 
+
+In conclusion, the Board finds the Veteran's hypertension has not resulted in diastolic pressure predominantly 100 or more, or systolic pressure predominantly 160 or more during the pendency of the appeal.  Accordingly, the evidence is persuasively against the Veteran's claim for an initial compensable rating for hypertension and not in approximate balance; thus, the benefit-of-the-doubt rule does not apply, and the Veteran's increased rating claim must be denied.  38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3; see also Lynch v. McDonough 21 F.4th 776 (Fed. Cir. 2021) (en banc). 
+
+Hypothyroidism 
+
+The Veteran contends that he should be entitled to a higher rating for his service-connected hypothyroidism due to his continuous use of medication to control such disability.  He has further reported that he experiences fatigue due to this condition. See March 2025 Appellate Brief.
+
+The Veteran's hypothyroidism has been rated noncompensable under 38 C.F.R. § 4.119, Diagnostic Code 7903 since November 29, 2022, the date of service connection.
+
+Initially, the Board notes the diagnostic code for hypothyroidism, Diagnostic Code 7903, was revised effective December 10, 2017, which, amongst other things, removed the 10 percent rating for continuous medication.  Because this revision occurred prior to the instant claim, the Board may only apply the revised Diagnostic Code 7903.  Thus, the Board is unable to assign a 10 percent rating under Diagnostic Code 7903 for continuous medication as requested by the Veteran.
+
+As for the current criteria, a 30 percent rating is assigned for six months after the initial diagnosis for hypothyroidism without myxedema.  Thereafter, the residuals of disease or medical treatment are to be rated under the most appropriate diagnostic code(s) under the appropriate body system, such as eye, digestive, or mental disorders.  38 C.F.R. § 4.119, Diagnostic Code 7903, Note (2).
+
+A 100 percent rating is warranted for hypothyroidism manifesting as myxedema (cold intolerance, muscle weakness, cardiovascular involvement (including, but not limited to hypotension, bradycardia, and pericardial effusion), and mental disturbance (including, but not limited to dementia, slowing of thought and depression)).  Note (1) states that such evaluation shall continue for six months beyond the date that an examining physician has determined crisis stabilization.  Thereafter, the residual effects of hypothyroidism shall be rated under the appropriate diagnostic code(s) within the appropriate body system(s).
+
+VA treatment records reflect that the Veteran was diagnosed with hypothyroidism is August 2020.  See December 2022 CAPRI.
+
+During a March 2023 VA examination, the Veteran reported that he experienced symptoms of fatigue at that time and used continuous medication to control his thyroid levels.  The examiner indicated that the Veteran did not have any signs or symptoms attributable to the hypothyroid condition, to include myxedema, and the findings of the physical examination were normal.  Although the examiner indicated that there were mental or psychological symptoms attributable to a thyroid condition, the Veteran did not report any at the time of the examination and the examiner concluded that the hypothyroidism did not result in mental disturbance.  
+
+VA treatment records do not contain any reports of symptomatology or complaints related to the Veteran's hypothyroidism during the period on appeal.
+
+Initially, the Board notes that service connection for hypothyroidism did not take effect until well over six months after the Veteran's initial diagnosis in August 2020.  Additionally, there is no evidence of myxedema or mental disturbance because of this condition.  Therefore, the Veteran's hypothyroidism standing alone does not warrant a compensable evaluation under Diagnostic Code 7903 at any time during the appeal period.
+
+At this stage, the Veteran's hypothyroidism can only be compensated based on residuals affecting specific parts of the body.  The Board has considered whether there is an appropriate compensable rating pursuant to any other body system, such as the eye, digestive system, or mental disorders.  However, the Veteran has never reported symptoms involving the eye, and the evidence of record does not demonstrate that symptoms related to any other body system and attributable to his hypothyroidism have manifested during the period on appeal.  The Board has considered the Veteran's reports of fatigue due to this disability.  However, the medical evidence of record demonstrates that he has consistently been asymptomatic for residuals during the period on appeal and there is no evidence attributing the reported fatigue to the hypothyroidism.  Furthermore, following a complete examination, the March 2023 VA examiner concluded that the Veteran did not have any signs or symptoms attributable to the hypothyroid condition.  Thus, a compensable rating for residuals affecting other body systems is not warranted.
+
+In making its determination in this case, the Board acknowledges the Veteran's belief that his hypothyroidism is more severe than as reflected by the currently assigned rating.  In this regard, the Board must consider the entire evidence of record when analyzing the criteria laid out in the rating schedule.  While the Board recognizes that the Veteran is competent to provide statements regarding his observable symptomatology, he is not competent to provide an opinion regarding the severity of his symptomatology in accordance with the rating criteria.  See Woehlaert, supra.  Rather, the Board finds the medical evidence in which professionals with medical expertise examined the Veteran, acknowledged his reported symptoms, and described the manifestations of such disability to be more persuasive than his reports regarding the severity of such disability.
+
+The Board has also considered whether staged ratings under Hart, supra, are appropriate for the Veteran's service-connected hypothyroidism; however, the Board finds that his symptomatology has been stable throughout the appeal.  Therefore, assigning staged ratings for such disability is not warranted. 
+
+In conclusion, the Board finds the Veteran's hypothyroidism was initially diagnosed more than six months prior to the effective date of service connection, and such has not manifested as myxedema or produced compensable residuals at any time during the pendency of the appeal.  Accordingly, the evidence is persuasively against the Veteran's claim for an initial compensable rating for hypothyroidism and not in approximate balance; thus, the benefit-of-the-doubt rule does not apply, and the Veteran's increased rating claim must be denied.  38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3; see also Lynch, supra. 
+
+REASONS FOR REMAND
+
+Initial compensable rating for prostate cancer residuals
+
+The Veteran seeks a compensable disability rating for his service-connected prostate cancer residuals.  
+
+The Veteran was afforded a VA examination for his prostate cancer residuals in March 2023.  At that time, he reported that he experienced increased urinary frequency at night.  The examiner went on to conclude that the Veteran had a voiding dysfunction.  However, she then failed to indicate which type of dysfunction the Veteran experienced.  The examiner further indicated that the Veteran did not experience increased urinary frequency, despite his statements regarding nighttime voiding.  Thus, the examination report appears to contain contradictory findings.  
+
+Consequently, the Board finds the AOJ should have obtained an adequate examination and opinion prior to issuing the rating decision on appeal, which constitutes a pre-decisional duty to assist error, and a remand is warranted prior to appellate review. 
+
+The matter is REMANDED for the following action:
+
+Schedule the Veteran for an appropriate VA examination to assess the current severity of his prostate disability.  The examiner should provide a full description of the disability and report all signs and symptoms necessary for evaluating the Veteran's disability under the rating criteria.
+
+The examiner should clarify whether the Veteran does, in fact, have a voiding dysfunction and must address the Veteran's statements regarding his symptoms, to include increased urinary frequency at night.
+
+All opinions should be accompanied by a supporting rationale.  
+
+ 
+
+ 
+
+JOHN Z. JONES
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Erin J. Trojanowski, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

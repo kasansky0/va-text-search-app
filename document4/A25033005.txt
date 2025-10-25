@@ -1,0 +1,79 @@
+Citation Nr: A25033005
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 210802-189409
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD) is denied.
+
+FINDING OF FACT
+
+The Veteran does not have a current disability of PTSD or other acquired psychiatric disorder. 
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for posttraumatic stress disorder (PTSD) have not been met. 38 U.S.C. §§ 1110, 1131, 1154, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 20.300, 20.301, 20.801.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from August 1988 to August 1991. 
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal of a June 2021 rating decision of the Department of Veterans Affairs (VA) agency of original jurisdiction (AOJ). 
+
+The Veteran initially filed an August 2021 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), selecting the Evidence Submission docket. However, because this form was unsigned, it could not be accepted. The Veteran then filed a corrected, signed Notice of Disagreement in October 2021, and he elected the Direct Review docket. 
+
+Therefore, the Board may only consider the evidence of record at the time of the June 2021 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board notes that the Veteran attached new lay statements to both his August 2021 and October 2021 Notices of Disagreement. In August 2024, he was advised that this evidence could not be considered under the Direct Review docket, and he was given an opportunity to request an extension to change dockets. See Edwards v. McDonough, 36 Vet. App. 56 (2023). The Veteran did not request to change dockets. Accordingly, the Board could not consider the additional statements. 
+
+Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active military service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.303, 3.304. Service connection may be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303 (d).
+
+Generally, establishing service connection requires evidence showing (1) the existence of a present disability, (2) an in-service incurrence or aggravation of a disease or injury, and (3) a causal relationship, or "nexus," between the present disability and the disease or injury incurred or aggravated during service. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004). Additionally, a showing of continuity of symptoms from separation to the present is a factor to be considered in assessing service connection claims.
+
+Unlike other disabilities, service connection for PTSD requires evidence of a medical diagnosis of PTSD, credible supporting evidence that a claimed in-service stressor occurred, and a link established by medical evidence between current symptoms and the in-service stressor. 38 C.F.R. § 3.304(f). Generally, if a Veteran did not engage in combat with the enemy, the Veteran's lay testimony alone will not be enough to establish the occurrence of the alleged stressor. Instead, the record must contain evidence that corroborates the Veteran's testimony as to the occurrence of the claimed stressor. 38 U.S.C. § 1154(b); 38 C.F.R. § 3.304(d), (f); West v. Brown, 7 Vet. App. 70 (1994).
+
+1. Service connection for PTSD
+
+The Veteran seeks service connection for PTSD, which he attributes to hearing loud noises at the range while in service. 
+
+The Board finds service connection is not warranted. 
+
+The service treatment records show no psychiatric problems on the Veteran's March 1988 enlistment examination, but he reported nervous trouble on his report of medical history. He had no mental health complaints or treatment during service. Approximately one year after separation, during a July 1992 quadrennial physical, he again had a normal psychiatric clinical evaluation. He again reported nervous trouble, clarifying he had a tremor but only after strenuous exercise. To the extent that the service treatment records include references to "nervous trouble," this appears to represent physical tremors rather than a psychological condition. In any event, that complaint clearly and unmistakably existed prior to service because it was noted at his enlistment.
+
+Turning to the post-service evidence, he has no VA treatment for any conditions, and he did not report any private medical treatment. He acknowledged that he had never been treated for PTSD in his June 2021 application.
+
+Accordingly, there is no medical evidence to show any treatment, complaints, or diagnosis of PTSD or similar conditions. In the absence of a current disability, there is no basis for service connection. Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). 
+
+The Board acknowledges that a claim for service connection which describes only one particular diagnosis should not necessarily be limited to that disorder. Because a Veteran with no medical expertise is not competent to provide their own psychiatric diagnosis, the VA considers the claim as one for any psychiatric disability that may reasonably be encompassed by evidence of record. Clemons v. Shinseki, 23 Vet. App. 1 (2009). Here, the Veteran has not reported, and the evidence does not suggest, that he has ever been diagnosed with any mental health condition. Thus, the evidence does not demonstrate that the Veteran has another present psychiatric disability for which he can be service connected.  
+
+Service connection is still possible in the absence of a diagnosis when certain factors, such as pain, are shown that limit functional ability. Saunders v. Wilkie, 886 F.3d 1356, 1364 (Fed. Cir. 2018) ("pain alone can serve as a functional impairment and therefore qualify as a disability"). However, the Board does not observe that the Veteran's complaints rise to the level that impact daily functioning enough to qualify as a separate disability. The Veteran's alleged symptom of being "jumpy and nervous when I hear gunshots" lacks detail to suggest a mental health symptom rather than a normal, healthy reaction to sudden, loud, and potentially dangerous noises. Thus, a level of severity that indicates functional impairment is not demonstrated.
+
+The Board also acknowledges that no VA examination or medical opinion was obtained regarding service connection in this case. VA is obliged to provide an examination or obtain a medical opinion in a claim for service connection when the record contains competent evidence that the claimant has current disability or persistent or recurrent symptoms of disability, the record indicates that the disability or symptoms of disability may be associated with active service, and the record does not contain sufficient information to make a decision on the claim. 38 U.S.C. § 5103A (d); McLendon v. Nicholson, 20 Vet. App. 79 (2006). The threshold for finding a link between current disability and service is low. Locklear v. Nicholson, 20 Vet. App. 410 (2006); McLendon, 20 Vet. App. at 83.
+
+However, in this case, there is not medical evidence that the Veteran has PTSD, no competent evidence of any related current disability, and no persuasive evidence of persistent or recurrent mental health symptoms. Furthermore, while there is evidence that the Veteran had exposure to loud noises, there is no competent and credible evidence suggesting that this caused or aggravated any psychiatric condition. See Bardwell v. Shinseki, 24 Vet. App. 36, 39 (2010).
+
+In making these finding, the Board recognizes the statements from the Veteran regarding his symptoms and exposure to loud noises during service. As a lay person, the Veteran is competent to describe events and symptoms that he has experienced, but competency of evidence differs from weight and credibility. See Layno v. Brown, 6 Vet. App. 465, 469 (1994); see also Cartright v. Derwinski, 2. Vet. App. 24, 25 (1991) ("although interest may affect the credibility of testimony, it does not affect competency to testify"). Furthermore, while he is competent to report his symptoms, he is not competent to provide a diagnosis or establish an etiology of complex mental health conditions. See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007). 
+
+The Board does not wholly dismiss the underlying theory, but noise exposure at the range resulting in a mental health disability remains a tenuous claim. Here, the Veteran has provided minimal detail to show that his noise exposure constitutes an in-service stressor or was otherwise psychologically traumatic. He also has not persuasively described mental features or current experiences that are sufficiently abnormal or severe that they could be considered signs or symptoms of a current mental health disorder. Given the unlikely nature of this claim, the ambiguity in the Veteran's reports, and in the complete absence of treatment or corroborating evidence, the Board find the Veteran's lay statements unpersuasive.  
+
+For these reasons, the Board finds that the Veteran does not have a current disability of PTSD, and the claim for service connection is denied.  Because the evidence weighs against the claims, the benefit-of-the-doubt doctrine is not applicable. See 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.
+
+ 
+
+ 
+
+B.T. KNOPE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Heger

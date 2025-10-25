@@ -1,0 +1,91 @@
+Citation Nr: A25032361
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 230201-319438
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral tinnitus is granted.
+
+REMANDED
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+FINDING OF FACT
+
+The Veteran's service as a combat engineer caused acoustic trauma which caused his tinnitus. 
+
+CONCLUSION OF LAW
+
+The criteria for service connection for tinnitus have been met.  38?U.S.C. §?5108; 38?C.F.R. §§?3.159, 3.303, 3.307, 3.309. 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from February 1969 to October 1969.
+
+The rating decision on appeal was issued in January 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the February 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the January 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+For the claim the Board is granting, if the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+For the claim the Board is remanding, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+Issue 1: Entitlement to service connection for tinnitus 
+
+Service Connection - Direct
+
+Service connection may be established for a disability resulting from disease or injury incurred in or aggravated by active service.  38?U.S.C. §§?1110, 1131; 38?C.F.R. §?3.303(a).  Service connection may be granted for any disease diagnosed after discharge when all the evidence establishes that the disease was incurred in service.  38?C.F.R. §?3.303(d). 
+
+The United States Court of Appeals for the Federal Circuit has held that a three-element test must be satisfied to establish entitlement to service connection.  Specifically, the evidence must show (1) the existence of a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the disease or injury incurred or aggravated during service (the "nexus" requirement).  Walker v. Shinseki, 708 F.3d. 1331, 1333 (Fed. Cir. 2013) (citing Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009) ((quoting Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004)). 
+
+Under 38?C.F.R. §?3.303(b), claims for certain chronic diseases-namely those listed in 38?C.F.R. §?3.309(a)-benefit from a somewhat more relaxed evidentiary standard.  See Walker, 708 F3d. at 1339 (holding that "[t]he clear purpose of the regulation is to relax the requirements of §?3.303(a) for establishing service connection for certain chronic diseases.").  When a chronic disease is established during active service, then subsequent manifestations of the same chronic disease at any later date, however remote, will be entitled to service connection, unless clearly attributable to causes unrelated to service ("intercurrent causes").  38?C.F.R. §?3.303(b). 
+
+Because the Veteran has been diagnosed with tinnitus, and tinnitus is an organic disease of the nervous system under section 3.309(a), the provisions of subsection 3.303(b) for chronic disabilities applies, and the claim may be supported by evidence of a continuity of symptomatology after service. 
+
+Continuity of symptomatology may be established if a claimant can demonstrate (1) that a condition was "noted" during service; (2) evidence of post-service continuity of the same symptomatology; and (3) medical or, in certain circumstances, lay evidence of a nexus between the present disability and the post-service symptomatology.  Evidence of a chronic condition must be medical, unless it relates to a condition to which lay observation is competent.  If service connection is established by continuity of symptomatology, there must be medical evidence that relates a current condition to that symptomatology.  See Savage, 10 Vet. App. at 495-498. 
+
+Merits
+
+In January 2023, the AOJ found the Veteran had bilateral tinnitus.  This satisfies the first prong of a direct service connection claim. 
+
+In January 2023, the AOJ found the Veteran was "expos[ed] to hazardous military noise."  It based this finding on his military occupational specialty as a combat engineer.  This satisfies the second prong of a direct service connection claim. 
+
+This appeal turns on the third prong of a direct service connection claim - medical nexus.  The record contains a single negative nexus opinion from the VA examiner in January 2023.  Notwithstanding this, the Veteran may satisfy the third prong under 38?C.F.R. §?3.303(b). 
+
+Here, the Board finds the Veteran credibly and competently reported that his tinnitus onset in service and has continued to the present.  He explained when it began, including why he did not seek treatment in service, in a December 2022 statement.  He confirmed the onset and continuity of symptomatology during his January 2023 VA examination.  Given this, the Board finds the evidence persuasively favors that the Veteran has satisfied the third prong of his direct service connection claim. 
+
+Because the Veteran has satisfied all three prongs of his service connection claim for tinnitus, the Board will grant the appeal. 
+
+REASONS FOR REMAND
+
+Issue 2: Entitlement to service connection for bilateral hearing loss
+
+In January 2023, the AOJ found the Veteran satisfied the current disability and in-service injury elements of his service connection claim for hearing loss.  It denied the claim based on no medical nexus.  
+
+Under the AMA, the Board may only remand an issue for the correction of (1) duty to assist errors occurring prior to the date of the AOJ decision on appeal (i.e., pre-decisional duty to assist errors) and (2)?AOJ errors in satisfying a regulatory or statutory duty, if correction of such error would have a reasonable possibility of aiding in substantiating the appellant's claim. ?See?38?C.F.R. §?20.802(a).? Having reviewed the evidence of record, the Board finds that remand for a pre-decisional duty to assist error is required.
+
+In finding the Veteran satisfied the in-service injury element of his service connection claim, the AOJ rejected the January 2023 VA examiner's finding of "no evidence of acoustic damage in service."  Having made this favorable finding, the AOJ should have obtained an addendum medical opinion from the January 2023 VA examiner.  Indeed, as the examiner based his opinion on a premise the AOJ rejected, the opinion is inadequate.  Because the AOJ did not obtain the addendum opinion, it erred in assisting the Veteran in prosecuting his claim under 38 U.S.C. § 5103A.  Consequently, remand is warranted for an addendum opinion under 38 C.F.R. § 20.802(a). 
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum medical opinion to determine the nature and etiology of the Veteran's left knee disorder.  The clinician must review the entire claims file, including this Remand.  The clinician should opine: 
+
+a)	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's bilateral hearing loss began during, or was otherwise caused by, his military service?  Why or why not?  
+
+In answering this question, the clinician is advised that the AOJ, in January 2023, found the Veteran had acoustic trauma in service.  This is a favorable finding.
+
+ 
+
+ 
+
+Tiffany Dawson
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Sopko, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

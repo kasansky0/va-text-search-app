@@ -1,0 +1,111 @@
+Citation Nr: A25032793
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 210913-184655
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to a disability rating of 40 percent for chronic epididymitis, post operative left side and right side, to include the reduction in rating being improper, is granted.
+
+REMANDED
+
+Entitlement to service connection for prostate adenocarcinoma is remanded.
+
+FINDING OF FACT
+
+Resolving reasonable doubt in his favor, the Veteran's chronic epididymitis manifests as urinary frequency with a daytime voiding frequency of less than one hour.
+
+CONCLUSION OF LAW
+
+The criteria for a 40 percent rating for chronic epididymitis, post operative left side and right side, are met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.115b, Diagnostic Code (DC) 7527.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the United States Army from September 1973 to September 1977, and in the Air Force from April 1979 to June 1994. 
+
+This appeal comes to the Board of Veterans' Appeals (Board) from a Department of Veterans Affairs (VA) December 2020 rating decision (for the claim for service connection for prostate cancer) and a July 2021 rating decision (for the claim for an increased rating for service-connected chronic epididymitis) of the Agency of Original Jurisdiction (AOJ).
+
+In September 2021 the Veteran submitted a VA Form 10182 Notice of Disagreement and elected the Hearing docket. On February 27, 2025, the Veteran withdrew his request for a Board hearing. See February 2025 VA Form 21-4128 Statement in Support of Claim. Therefore, the Board may only consider the evidence of record at the time of the respective rating decisions on appeal, as well as any evidence submitted by the Veteran or representative within 90 days following the hearing withdrawal. 38 C.F.R. § 20.302(a).
+
+If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to hearing withdrawal, or (2) more than 90 days following the hearing withdrawal, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.302(a), 20.801. However, because the Board is remanding the claim of prostate cancer, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+As a final preliminary matter, regarding the claim for a higher rating for chronic epididymitis, the Board notes that a claim for an increased rating is separate from a claim concerning whether a reduction of the rating is proper. Dofflemyer v. Derwinski, 2 Vet. App. 277, 279-80 (1992). In this case, the reduction stems from the Veteran's January 2021 claim for a higher rating. Thus, the Board finds that the Veteran's appeal inherently includes both an appeal of the propriety of the reduction as well as his request for a higher rating. Accordingly, the Board has characterized this appeal to include the issues of whether the reduction was proper and if an increased rating is warranted for the chronic epididymitis.
+
+1. Propriety of the reduction in rating from 20 percent to 10 percent for chronic epididymitis, including entitlement to a higher rating.
+
+To properly reduce a disability rating, VA must satisfy both procedural and substantive criteria. 38 C.F.R. §§ 3.105, 3.343, 3.344. However, as in this case, the procedural requirements under 38 C.F.R. § 3.105(e) do not apply if the proposed rating reduction does not result in reduction in the actual total compensation amount. VAOPGCPREC 71-91 (Nov. 1991).
+
+The substantive criteria for rating reductions are outlined in 38 C.F.R. § 3.344. For a rating in effect for less than five years, the burden is on VA to establish, by an approximate balance of the evidence, that a reduction is warranted because a reexamination showed actual improvement in a veteran's ability to function under the ordinary conditions of life and work. 38 C.F.R. § 3.344(c); Brown v. Brown, 5 Vet. App. 413, 421 (1993); Kitchens v. Brown, 7 Vet. App. 320, 324 (1995).
+
+There are several general VA regulations that apply to all rating reductions regardless of how long the rating has been in effect for. Brown, 7 Vet. App. at 420-421. Each disability is to be viewed in relation to its history. 38 C.F.R. § 4.1. The AOJ should assure itself that there has been an actual change in the condition, for better or worse, and not merely a difference in the thoroughness of the examination or in use of descriptive terms. 38 C.F.R. § 4.13. Additionally, it must be determined that improvement in a disability has actually occurred and that such improvement reflects improvement in the ability to function under the ordinary conditions of life and work. Brown, 5 Vet. App. at 420-21; see also 38 C.F.R. §§ 4.2, 4.10. A claim as to whether a rating reduction was proper must be resolved in the Veteran's favor unless the Board concludes that the evidence weighs against the claim. Id. 
+
+The Board notes that, in considering the propriety of a reduction, it must focus on the evidence available to the AOJ at the time the reduction was implemented, although post-reduction medical evidence may be considered in the context of evaluating whether there has been actual improvement. Dofflemyer v. Derwinski, 2 Vet. App. 277 (1991).
+
+Additionally, when service-connected disabilities and non-service-connected disabilities cause overlapping symptomatology, VA will consider all the impairment due to the service-connected disability where it cannot be distinguished and differentiated. See Mittleider v. West, 11 Vet. App. 181, 182 (1998) (where it is not possible to distinguish the effects of a nonservice-connected condition from those of a service-connected condition, the reasonable doubt doctrine dictates that all symptoms be attributed to the veteran's service-connected disability). Here, the Veteran has multiple disabilities of the genitourinary system, some of which are not service-connected and yet still cause impairment. However, the medical evidence of record has not clearly distinguished what impairment is due to the service-connected epididymitis versus the non-service-connected disabilities, and therefore all impairment will be attributed to the epididymitis herein for the purposes of this decision. Id.
+
+Turning to the substantive requirements, the Board finds that the evidence does not show there was actual improvement in the Veteran's ability to function under the ordinary conditions of life and work. In this regard, during the period on appeal, the Veteran submitted one private, non-VA opinion regarding the severity of his voiding dysfunction. In February 2021, he submitted Disability Benefits Questionnaire (DBQ) from Dr. M.B., a non-VA urologist. Based on a review of the Veteran's medical history, his medical records, and the Veteran himself, Dr. M.B. noted the Veteran had prostate cancer, radiation proctitis, radiation cystitis, gross hematuria, and bilateral epididymectomy. He also noted the urinary issues predated the prostate cancer diagnosis and found that the Veteran's condition is such that he has to wear absorbent material that must be changed between 2 and 4 times per day, that his daytime voiding interval is less than one hour, and that he awakens 5 or more times at night. Additionally, the Veteran has recurrent symptoms of drainage. These symptoms are consistent with the majority of medical records and opinions that date from before the period on appeal.
+
+In contrast, in April 2021 a VA examiner concluded that the Veteran does not have a voiding dysfunction, experiences no leakage, and does not have any increased urinary frequency. The examiner listed on the epididymitis as a current disability. This fact seems to imply that they were only considering the functional effects of the epididymitis; however, the examiner did not explain as such, clearly distinguishing symptoms, nor did they explain how their conclusions differed so dramatically from not only Dr. M.B.'s findings, but the general body of the Veteran's medical history regarding his chronic epididymitis. The examiner's findings then do not hold much probative weight considering the lack of detail, consideration of the record, and rationale. See Prejean v. West, 13 Vet. App. 444, 448-9 (2000). Accordingly, there remains doubt as to the nature and severity of the impairment due to the service-connected epididymitis as opposed to non-service-connected disabilities, as the impairment has not been clearly distinguished in the examination. See Mittleider, 11 Vet. App. at 182.
+
+In contrast, there is no evidence in the claims file that indicates that the February 2021 DBQ is inadequate, or that the non-VA practitioner is not competent or qualified to put forward their findings. Thus, the Board finds that competent, probative evidence of-record weighs against the propriety of the rating reduction as there is no demonstrable actual improvement of the Veteran's condition. The reduction from 20 percent to 10 percent being improper, the 20 percent rating is restored.
+
+Turning then to entitlement to a rating in excess of 20 percent, disability ratings are determined by applying the criteria set forth in VA's Schedule for Rating Disabilities (Rating Schedule). 38 C.F.R. Part 4. The percentage ratings contained in the Rating Schedule represent, as far as can be practicably determined, the average impairment in earning capacity resulting from diseases and injuries incurred in or aggravated during military service and their residual conditions in civil occupations. Separate diagnostic codes identify the various disabilities. 38 C.F.R. § 4.1. Where there is a question as to which of two ratings shall be applied, the higher rating will be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran. 38 C.F.R. § 4.3.
+
+A veteran's entire history is to be considered when assigning disability ratings. 38 C.F.R. § 4.1; Schafrath v. Derwinski, 1 Vet. App. 589 (1995). The Board will also consider entitlement to staged ratings to compensate for times since filing the claim when the disability may have been more severe than at other times during the course of the claim on appeal. Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give benefit of the doubt to the Veteran. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776, 781 (Fed. Cir. 2021).
+
+Effective November 14, 2021, VA amended the rating criteria for genitourinary disorders and dysfunctions. 86 Fed. Reg. 54,081 (Sept. 30, 2021). This amended regulation applies to all applications for benefits received by VA or that are pending before the agency of original jurisdiction on or after November 14, 2021. Claims pending prior to the effective date will be considered under both the pre- and post-amendment rating criteria, and whichever is more favorable to the Veteran will be applied. However, the Board may not apply the post-amendment rating criteria to a period prior to its effective date, unless the regulation explicitly provides otherwise. Kuzma v. Principi, 341 F.3d 1327 (Fed. Cir. 2003). Here, the period on appeal is entirely before the effective date, the amendments to DC 7527 are irrelevant to the current decision, and the criteria for urinary frequency were unchanged. Therefore, the Board will use the pre-amendment criteria.
+
+The Veteran's epididymitis is rated under DC 7527, which includes the post-operative residuals of prostate injuries, and directs VA to rate the condition as a voiding dysfunction or a urinary tract infection, whichever is predominant. The Veteran's current rating is assigned pursuant to the criteria for urinary frequency. Under these criteria, a 10 percent rating is assigned when daytime voiding interval is between two and three hours, or, awakening to void two times per night. A 20 percent rating is assigned when daytime voiding interval is between one and two hours, or, awakening to void three to four times per night. A maximum 40 percent rating is assigned when a daytime voiding interval is less than one hour, or, awakening to void five or more times per night. 38 C.F.R. § 4.115a. 
+
+The period on appeal and the relevant evidence remains the same for the increased rating claim as relevant to the propriety of the reduction claim. Thus, based on the evidence detailed above, the record shows that the Veteran's chronic epididymitis manifests as urinary dysfunction, leading to a voiding interval of less than one hour during daytime, he is woken up at least 5 times per night to void, and requires the use of absorbent materials. This meets the criteria for a 40 percent rating under DC 7527. 38 C.F.R. § 4.115a.
+
+The Board considered whether higher ratings would be warranted, however there is no higher rating allowable for urinary frequency, and the criteria for urinary tract infections has a maximum rating of 30 percent. Therefore, no higher rating exists as the Veteran is getting the maximum rating possible under the ratings criteria. In so finding the Board has resolved all doubt in the Veteran's favor, and his claim is granted.
+
+REASONS FOR REMAND
+
+2. Entitlement to service connection for prostate adenocarcinoma is remanded.
+
+The Veteran claims that, among other things, his prostate cancer was caused by his in-service exposure to environmental and workplace hazards, to include (but not limited to) ionizing radiation. See September 2021 VA Form 10182. While the AOJ addressed the part of the claim revolving around radiation exposure, it did not address all potential theories of entitlement. Therefore, a remand is necessary to correct a pre-decisional duty to assist error on the part of the AOJ.
+
+The crux of the Veteran's claim hinges on his time as an aviation technician and crew chief during his service in the Air Force. A review of his personnel record shows that he was stationed in Nellis Air Force Base, Nevada, for a period of time. See January 2020 Military Personnel Record. He was in and around an area used for underground nuclear testing, which was confirmed in an August 2020 letter from the Air Force. Additionally, the Veteran asserts that he handled nuclear air-to-air munitions while servicing F-106 aircraft.
+
+Furthermore, the Veteran's day-to-day duties as a crew chief meant he was exposed to chemicals such as jet fuel, asbestos, and cleaning solvents. Finally, the Board notes that in February 1989, a fire broke out near where the Veteran was working. Per his official commendation, he "entered a smoke-filled generator room and fought the fire until the fire department arrived." See April 2017 Military Personnel Record. The Board finds that this is evidence of the Veteran being exposed to at least some level of potentially harmful chemicals and solvents used to combat fires.
+
+The December 2020 rating decision addressed the Veteran's asbestos exposure claim and his argument of being exposed to ionizing radiation. The AOJ concluded, correctly, that the medical evidence of-record shows no evidence of asbestosis or asbestos-related conditions. This was based on a review of the Veteran's medical records, such as a December 2020 VA examination wherein chest X-rays showed no evidence of asbestos exposure generally, or asbestos-related diseases specifically.
+
+Furthermore, the AOJ concluded that the evidence shows that the Veteran was not exposed to ionizing radiation. In this matter only, the Board agrees. In August 2020, the United States Air Force determined that, despite being stationed in Nevada, the Veteran was not exposed to any radiation due to their underground nuclear testing. This conclusion was based on the fact that the Veteran was not only several miles away from where the tests occurred, but above-ground dosimeters at the time of the tests showed no evidence of radiation leakage or hazards. Additionally, the Veteran's daily duties did not put him in a position to "perform logistics or maintenance activities on nuclear weapons." See August 2020 Third Party Correspondence. Even conceding that the Veteran may have handled some nuclear munitions while service F-106 aircraft, he was not working with uncontained nuclear material, nor was he maintaining the nuclear material himself. 
+
+Thus, the Board finds that the AOJ adequately developed and addressed the impact, if any, of the Veteran's alleged exposure to asbestosis and/or nuclear or radioactive material. As such, upon remand, the AOJ will not have to further address those theories of entitlement.
+
+However, the AOJ failed to obtain opinions as to the effect, if any, of the Veteran's exposure to jet fuel, cleaning solvents, and firefighting chemicals may have had on his eventual development of prostate cancer. These activities are individually considered a Toxic Exposure Risk Activity (TERA), and as such a TERA opinion is needed. Under the SFC Heath Robinson Honoring Our PACT Act (PACT Act), VA is required to provide a disability examination and medical nexus opinion when a veteran submits a compensation claim and has evidence of a disability and participation in a TERA, but the evidence is not sufficient to establish service connection for the disability. See 38 U.S.C. § 1168(a) (see PACT Act, Sec. 303).
+
+The failure to obtain etiology opinions regarding his in-service exposure to the above hazards is a pre-decisional duty to assist error that must be corrected upon remand.
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion to determine the nature and etiology of the Veteran's prostate cancer. The examiner is to review the claims file, as well as these remand directives, and must provide the following opinions for each of his in-service exposure to jet fuel, his in-service exposure to cleaning solvents, and his in-service exposure to firefighting chemicals:
+
+(a)	Whether it is as least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's prostate cancer is related to his military service, to include as due to his in-service exposure to the above-referenced hazards.
+
+(b)	Whether the Veteran's prostate cancer is due to the combined synergistic effect of the Veteran's total potential toxic exposure in service.
+
+The examiner's opinions must address all relevant lay and medical evidence of record and must consider the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.
+
+The examiner is reminded that the mere fact that a legal presumption of service connection has not been established for his prostate cancer due to his in-service exposures is not a reason to find against the Veteran and cannot be held against the Veteran's claims.
+
+A full and complete rationale must be provided for all opinions rendered. If the examiner cannot provide the necessary opinions without an in-person examination of the Veteran, the AOJ shall schedule the necessary examination. If the examiner cannot provide the required opinions without resorting to mere speculation, they must provide a detailed rationale as to why that is the case. 
+
+ 
+
+J.M. ESTES
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Neville, Mikael
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

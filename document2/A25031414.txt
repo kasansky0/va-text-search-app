@@ -1,0 +1,55 @@
+Citation Nr: A25031414
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240918-474399
+DATE: April 4, 2025
+
+ORDER
+
+Service connection for hearing loss in the left ear is granted.
+
+Service connection for hearing loss in the right ear is denied.
+
+FINDING OF FACT
+
+The evidence of record persuasively favors the finding that the Veteran's hearing loss in the left ear is causally related to an auditory damage sustained due to his military noise exposure, but fails to show that he has hearing loss in the right ear for VA purposes. 
+
+CONCLUSIONS OF LAW
+
+The criteria for service connection for hearing loss in the left ear have been met. 38 U.S.C. § 1131; 38 C.F.R. §§ 3.303, 3.385.
+
+The criteria for service connection for hearing loss in the right ear have not been met. 38 U.S.C. § 1131; 38 C.F.R. §§ 3.303, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSIONS
+
+The Veteran honorably served on active duty from May 1986 to May 1989. In a May 2024 rating decision, the Regional Office (RO) denied service connection for bilateral hearing loss. The Veteran appealed, electing the Board's Direct Review. As such, the Board's decision will be based on the evidentiary record deemed closed as of the date on which the agency of original jurisdiction (AOJ) issued its notice of the decision that is on appeal. 38 C.F.R. § 20.301. Any evidence received thereafter may be considered upon filing a supplemental claim with the AOJ. See 38 C.F.R. § 3.2501. To this end, the Veteran is encouraged to consult with his representative.
+
+Service connection may be granted for a post-service disability incurred in or due to service, to include a "disability due to impaired hearing." 38 C.F.R. §§ 3.303(a), 3.385. Such disability for VA purposes is said to exist in any one of the following circumstances: (1) a pure-tone auditory acuity thresholds in any of the frequencies of 500, 1000, 2000, 3000, 4000 Hertz (Hz) is 40 Decibels (dB) or greater; or (2) auditory acuity thresholds in at least three of the frequencies are 26 dB or greater; or (3) speech discrimination (recognition) scores using the Maryland CNC Test are less than 94 percent (or no greater than 93 percent). Id.
+
+An April 2024 VA audiology examination report reflects that the Veteran's hearing acuity thresholds on a pure-tone testing and his speech recognition scores on the Maryland CNC Test in the left ear clearly meet the VA's definition of hearing loss. As such, the remaining issues here is whether his hearing loss in the left ear was incurred in or due to his military service.  
+
+The Board acknowledges the examiner's conclusion that it is less likely than not that the Veteran's hearing loss in the left ear is causally related to his service. But in its factfinder role, the Board is not constrained by any conclusions of examiners who are expert witnesses informing the Board on the matters requiring medical expertise. This is why the Board derives the most probative value of any medical opinion from its rationale rather than from the rendered conclusion itself and thus holistically considers examination reports and opinions expressed therein. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008). 
+
+Of particular note is the examiner's opinion that it is at least as likely as not the Veteran was exposed to excessive military noise, while the relationship between excessive noise exposure, auditory damage, and sensorineural hearing loss, is well-established. 
+
+This medical opinion viewed in light of the Veteran's service-connected tinnitus, which is another type of sensorineural disorders caused by acoustic trauma to the cochlear nerves, ultimately leaves the Board without any rational basis to conclude that the Veteran did not sustain auditory damage during his service. Upon relying on the examiner's uncontested medical opinion that the relationship between the auditory damage and hearing loss is well-established, absent any evidence of record affirmatively showing that the Veteran in fact did not sustain an auditory damage during his service or that he developed hearing loss in the left ear due to any superseding cause(s), the Board finds that it is at least as likely as not that the Veteran's hearing loss in the left ear is due to auditory damage on account of his excessive exposure to military noise, which meets all legal criteria for service connection for hearing loss in the left ear. To this extent, the appeal is granted.  
+
+However, the Veteran's claim for bilateral hearing loss is bifurcated and his claim for service connection for hearing loss in the right ear must be denied. 
+
+The April 2024 VA audiology examination report reflects that the Veteran's hearing acuity thresholds in his right ear were 15 dB at 500 Hz, 20 dB at 1000 Hz, 30 dB at 2000 Hz, 25 dB at 3000Hz, and 30 dB at 4000Hz. His speech recognition scores in his right ear were 96 percent. None of this audiometric data meets the regulatory thresholds for the VA's definition of hearing loss, requiring 40 dB in at least one frequency, or 26 dB in at least three frequencies, or speech recognition scores no greater than 93 percent. The Board may not deflate the foundational legal criteria or overinflate the data of record necessary to support those criteria. Otherwise, the Veteran has not challenged the adequacy of the VA examination or its report, to include the accuracy of the audiometric data recorded therein. He has not pointed out any evidence to the contrary either. No other material issues have been raised by the Veteran or reasonably raised by the evidence of record. This ultimately leaves the Board without any factual basis to support a finding that the Veteran has a "disability due to impaired hearing" in the right ear for VA purposes. 
+
+Congress very specifically limits awards of service connection for a post-service disability resulting from an in-service disease or injury such as an acoustic trauma due to exposure to military noise. See Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). However, exposure to military noise itself is not a disability. Rather, such exposure must be shown to have caused auditory damage resulting in hearing loss, as defined for VA purposes, which has not been demonstrated in the Veteran's right ear. In accordance with the law, absent proof of the claimed disability, service connection for hearing loss in the right ear is denied. Id.  
+
+ 
+
+ 
+
+MATTHEW W. BLACKWELDER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Alex Bardin, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

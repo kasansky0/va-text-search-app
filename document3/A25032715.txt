@@ -1,0 +1,83 @@
+Citation Nr: A25032715
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 230516-347582
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is denied.  
+
+Entitlement to an initial compensable rating for hypertension is denied.  
+
+FINDINGS OF FACT
+
+1. Without good cause, the Veteran failed to appear at a March 2023 VA examination scheduled in conjunction with his supplemental claim for entitlement to service connection for bilateral hearing loss.  
+
+2. The Veteran's hypertension was not manifested by diastolic pressure predominantly 100 or more, or systolic pressure predominantly 160 or more, or a history of diastolic pressure predominantly 100 or more requiring continuous medication for control.
+
+CONCLUSIONS OF LAW
+
+1. Entitlement to service connection for bilateral hearing loss is denied on the basis of the Veteran's failure to report for a VA medical examination.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. § 3.655.  
+
+2. The criteria for an initial compensable rating for hypertension are not met.  38 U.S.C. §§ 1155, 5107(b); 38 C.F.R. §§ 4.7, 4.104, Diagnostic Code 7101.  
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service from June 1967 to June 1970.  
+
+The appeal arises from a rating decision dated on April 17, 2023; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  A notice of disagreement was received from the Veteran in May 2023.  In the May 2023 notice of disagreement, the Veteran selected the Hearing review lane.  Although the Veteran had multiple separate appeal streams in the Hearing review lane, he had a Board hearing scheduled for September 10, 2024, for the issues on appeal in the current appeal stream.  A Report of General Information shows that the Veteran withdrew his request for a Board hearing on September 3, 2024.  Thus, the Board may consider evidence as of the April 2023 rating decision, as well as any evidence submitted by the Veteran within 90 days following receipt of the withdrawal.  38 C.F.R. § 20.302 (b).  If evidence was added to the record during an ineligible period identified above, the Board has not considered that evidence.  If the Veteran wishes to have VA consider any evidence that was not considered, a supplemental claim should be submitted identifying such evidence.  
+
+In the April 2023 rating decision the Agency of Original Jurisdiction (AOJ) made the following favorable findings: the Veteran was a truck vehicle mechanic during service and had a high probability for noise exposure; he had continuous service of 90 days or more to meet the minimum requirements for presumptive service connection; his claimed disability of bilateral hearing loss is a chronic disease which may be presumptively linked to service; and the Veteran's participation in toxic exposure risk activities is conceded.  In the April 2023 rating decision, the AOJ implicitly determined that new and relevant evidence was received regarding the Veteran's claim of entitlement to service connection for bilateral hearing loss.  The Board is bound by these favorable findings.  38 C.F.R. § 3.104(c).  
+
+The Board finds that the Veteran presented good cause to select a new representative in December 2024, New Jersey Department of Military and Veteran Affairs.  See 38 C.F.R. § 20.1304(b).  
+
+Issue 1: Entitlement to service connection for bilateral hearing loss.  
+
+When entitlement or continued entitlement to a benefit cannot be established or confirmed without a current VA examination or reexamination and a claimant, without good cause, fails to report for such examination, or reexamination, action shall be taken in accordance with the type of claim.  38 C.F.R. § 3.655(a).  When a claimant fails to report for an examination scheduled in conjunction with an original compensation claim, the claim shall be rated based on the evidence of record.  When the examination was scheduled in conjunction, with any other original claim, a supplemental claim for a benefit which was previously disallowed, or a claim for increase, the claim shall be denied.  38 C.F.R. § 3.655(b).  
+
+The Veteran's claim of entitlement to service connection for bilateral hearing loss was denied in a rating decision dated on September 10, 2012, based on the determination that the Veteran did not meet the VA regulatory criteria for bilateral hearing loss pursuant to 38 C.F.R. § 3.385.  This determination was based on the VA audiological examination in June 2012, whereby puretone thresholds for the right ear, in decibels, at 500, 1000, 2000, 3000, and 4000 Hertz were as follows: 15, 15, 20, 30, and 35.  Puretone thresholds for the left ear, in decibels, at 500, 1000, 2000, 3000, and 4000 Hertz were as follows: 10, 20, 25, 30, 35.  The speech recognition score, using the Maryland CNC Test, was 100 percent in the right ear and 98 percent in the left ear.  
+
+The Veteran was notified of the decision and his appellate rights on September 18, 2012.  However, the Veteran did not submit a notice of disagreement and there was no new and material received within one year of that decision pursuant to 38 C.F.R. § 3.156(b) under the Legacy review system.  On February 8, 2023, the Veteran filed a Supplemental Claim on VA Form 20-0995 for the issue of entitlement to service connection for hearing loss.  In March 2023 the Veteran failed to report for his VA audiological examination.  Neither the Veteran nor his representative requested for the March 2023 VA examination to be rescheduled or reported that the Veteran failed to receive notice of the examination.  The Board notes that "[t]he duty to assist is not always a one-way street," and claimants are expected to comply with reasonable requests.  Wood v. Derwinski, 1 Vet. App. 190, 193 (1991).  In addition, neither the Veteran nor his representative provided any good cause for his failure to report to the March 2023 examination during the relevant evidentiary period that the Board is able to consider.  As the Veteran failed to report for a VA examination scheduled in conjunction with his supplemental claim for the previously disallowed issue of entitlement to service connection for bilateral hearing loss without good cause, the claim must be denied under 38 C.F.R. § 3.655.  Accordingly, the Veteran's service connection claim for bilateral hearing loss is denied as a matter of law.  See Sabonis v. Brown, 6 Vet. App. 426 (1994).
+
+The Board notes that in a February 2023 Memorandum it was determined that the Veteran participated in toxic exposure risk activity (TERA) during service and had exposure to an herbicide agent.  Under 38 U.S.C. § 1168, a disability examination and medical opinion may be requested for certain non-presumptive disorders involving toxic exposure risk activity (TERA).  While the Veteran has not been afforded a TERA examination, the Board notes that in sub-regulatory guidance accompanying The Sergeant First Class Health Robinson Honoring our Promise to Address Comprehensive Toxics Act (PACT Act), VA has identified disabilities that have not been shown to have any positive association with herbicide exposure as those where a TERA examination is not required.  VBA Letter 20-22-10 at 10.  Hearing loss is one of the listed disabilities.
+
+Issue 2: Entitlement to an initial compensable rating for hypertension.
+
+A disability rating is determined by the application of VA's Schedule for Rating Disabilities (Rating Schedule), 38 C.F.R. Part 4.
+
+The percentage ratings contained in the Rating Schedule represent, as far as can be practicably determined, the average impairment in earning capacity resulting from diseases and injuries incurred or aggravated during military service and their residual conditions in civil occupations.  Separate diagnostic codes identify the various disabilities.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+VA has a duty to acknowledge and consider all regulations that are potentially applicable through the assertions and issues raised in the record, and to explain the reasons and bases for its conclusions.  Schafrath v. Derwinski, 1 Vet. App. 589 (1991). Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.
+
+The Board will consider whether separate ratings may be assigned for separate periods of time based on facts found, a practice known as "staged ratings," whether it is an initial rating case or not.  Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+By way of history, the AOJ in the April 2023 rating decision granted service connection for hypertension effective August 10, 2022, and assigned a zero percent rating.
+
+In March 2023 the Veteran was a no show for his VA hypertension examination.  As discussed above, when a claimant fails to report for an examination scheduled in conjunction with an original compensation claim, the claim shall be rated based on the evidence of record.  When the examination was scheduled in conjunction, with any other original claim, a supplemental claim for a benefit which was previously disallowed, or a claim for increase, the claim shall be denied.  38 C.F.R. § 3.655(b).  As the issue of entitlement to an initial compensable rating for hypertension is an original compensation claim it needs to be decided based on the evidence of record.  
+
+The Veteran's hypertension is rated under Diagnostic Code 7101.  Under diagnostic code 7101, a 10 percent rating is warranted for diastolic pressure predominantly 100 or more, or; systolic pressure predominantly 160 or more, or; minimum evaluation for an individual with history of diastolic pressure predominantly 100 or more who requires continuous medication for control; a 20 percent rating is warranted for diastolic pressure predominantly 110 or more, or; systolic pressure predominantly 200 or more; a 40 percent rating is warranted for diastolic pressure predominantly 120 or more; and, a 60 percent rating is warranted for diastolic pressure predominantly 130 or more.  38 C.F.R. § 4.104, DC 7101.
+
+The evidence does not more nearly approximate the criteria for an initial compensable rating as the Veteran's hypertension was not manifested by diastolic pressure predominantly 100 or more, or systolic pressure predominantly 160 or more, or a history of diastolic pressure predominantly 100 or more requiring continuous medication for control.  
+
+Although VA treatment records show the Veteran had a history of fluctuating blood pressure, the pertinent findings show that his blood pressure during the evidentiary period included readings of 145/84 and 157/88 in December 2022; 115/75 in October 2022; 134/83 and 135/85 in September 2022; 133/75 in June 2022; and 135/91, 145/89, and 150/89 in May 2022.  
+
+To the extent that the Veteran may believe that he is entitled to a compensable rating, the Board finds the objective medical findings by skilled professionals are more persuasive which, as indicated above, do not support a higher rating.  
+
+?
+
+Thus, for the above reasons the evidence is persuasively against the claim, the benefit-of-the-doubt doctrine is not for application, and the claim of entitlement to an initial compensable rating for hypertension must be denied.  38 U.S.C. § 5107 (b); see also Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+ 
+
+ 
+
+Thomas H. O'Shay
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Mac, M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,65 @@
+Citation Nr: A25032357
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 200428-217133
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to Department of Veterans Affairs (VA) educational assistance benefits for the Veteran's son under the Transfer of Entitlement provisions of Chapter 33, Title 38, United States Code (known as the Post-9/11 GI Bill) is denied.
+
+FINDING OF FACT
+
+There is no showing that the service department approved a request by the Veteran for a transfer of educational assistance benefits to his son.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to VA educational assistance benefits for the Veteran's son under the Transfer of Entitlement provisions of Chapter 33 are not met.  38 U.S.C. §§ 3311, 3319; 38 C.F.R. §§ 21.9550, 21.9570.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from July 1979 to July 1982.  He had additional service in the United States Army National Guard, which service included several periods of active duty for training and active duty, to include periods of active duty from February 22 to August 27, 1991, from January 27 to November 25, 2003, from October 31, 2004, to July 18, 2005, from September 24, 2005, to August 30, 2006, and from March 20, 2009, to July 10, 2010.
+
+This appeal before the Board of Veterans' Appeals (Board) arose from a December 2019 decision by a Department of Veterans Affairs (VA) Regional Office (RO) in which the RO determined that the Veteran's son was not eligible for Post-9/11 GI Bill benefits based on service department findings.
+
+On April 28, 2020, the Veteran filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), clarifying that he was disagreeing with the determination that his son did not qualify for Post-9/11 GI Bill benefits under the Transfer of Entitlement provisions of Chapter 33 based on his own service; the Veteran elected the Hearing docket. 
+
+A Board hearing was held on February 6, 2024.  Therefore, the Board may only consider the evidence of record at the time of the December 2019 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran at the hearing or within 90 days following the hearing.  38 C.F.R. § 20.302(a).  If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the Board hearing, or (2) more than 90 days following the hearing, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.302(a), 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to Post-9/11 GI Bill Benefits for the Veteran's Son 
+
+Relevant to the instant case, the Post-9/11 GI Bill provides that eligible individuals are entitled to a maximum of 36 months of educational assistance under Chapter 33 and can transfer up to the full 36 months of his or her entitlement to a dependent.  38 U.S.C. § 3319; 38 C.F.R. §§ 21.9550, 21.9570.  An eligible individual is any member of the uniformed services who, at the time of the approval of the individual's request to transfer entitlement to educational assistance under this section, has completed at least (1) six years of service in the armed forces and enters into an agreement to serve at least four more years as a member of the uniformed services; or (2) the years of service as determined in regulations pursuant to subsection (j).  38 U.S.C. § 3319(b).
+
+Notably, subject to the time limitation for use of entitlement under 38 U.S.C. § 3321, and except as provided in subsection (k) or (l), pertaining to death of a transferee, an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.  38 U.S.C. § 3319(f).  An individual transferring an entitlement to Post-9/11 GI Bill benefits shall also "designate the dependent or dependents to whom such entitlement is being transferred."  38 U.S.C. § 3319(e).  Furthermore, a decision as to transferability of Chapter 33 benefits rests with the service department and not VA.  See 38 U.S.C. § 3319(a); 38 C.F.R. § 21.9570.
+
+Here, the Veteran's son was not approved to use transferred Post-9/11 GI Bill benefits because the service department had not indicated that the Veteran had been approved for the transferability program.  As noted above, the Veteran had service in the United States Army, with subsequent service in the United States Army National Guard, which service included several periods of active duty after September 10, 2001, qualifying him for Post-9/11 GI Bill benefits.  Information received from the VA/Department of Defense (DoD) Identity Repository (VADIR) database in December 2019 then shows that on April 25, 2010, the Veteran requested to transfer his Post-9/11 GI Bill benefits to his spouse, the transfer of which was approved that same month.  Specifically, the Veteran transferred 12 months of entitlement to her.  The VADIR report fails to show any additional dependents approved for transfer and no modifications were made to the transfer until December 2019, when the Veteran changed his spouse's transferred entitlement from 12 to 8 months.
+
+Notably, the VADIR database is an electronic repository of military personnel's military history, payroll information and their dependents' data provided to VA by DoD's Defense Manpower Data Center (DMDC).  VA applications use the VADIR database to retrieve profile data, as well as address, military history, and information on compensation and benefits, disabilities, and dependents.  See https://www.federalregister.gov/documents/2009/07/27/E9-17776/privacy-act-systems-of-records.  Thus, information contained on an information report received from the VADIR database is information received from DoD.
+
+Unfortunately, in the instant case, the record fails to show that the Veteran ever requested, and received approval, from the service department of a transfer request for educational benefits on behalf of his son.  The provisions of 38 U.S.C. § 3319 and 38 C.F.R. § 21.9570 are clear that the decision as to transferability of Chapter 33 educational assistance benefits rests with the service department and not VA.  Had the Veteran applied for, and been approved, to transfer his Post-9/11 GI Bill benefits to his son, the "Transfer of Entitlement" data field on the December 2019 VADIR report would have listed the son's name as a transferee, along with his son's date of birth, social security number, relationship, and number of months transferred.  The Board is aware that the Veteran's service personnel records have not been obtained; however, because information contained in a VADIR report is information received from DoD, the Board finds that it can rely on the lack of information contained in the December 2019 VADIR with regard to "Transfer of Entitlement" report as evidence that the Veteran was not approved to transfer his Post-9/11 GI Bill benefits to his son while he was in service.  
+
+In finding that the evidence of record fails to show that the Veteran ever requested, and received approval, from the service department of a transfer request for educational benefits on behalf of his son, the Board acknowledges the Veteran's assertions made during his February 2024 Board hearing, that he initially requested to transfer his Post-9/11 GI Bill entitlement to his son.  He stated that he later requested to transfer entitlement to his spouse because she was in school and his son was not, and that when he went to modify his transfer after he retired, to allow for his son to use the number of months unused by his spouse, his son was not listed as a transferee.  The Veteran reported that all of this was done online and was not in writing.
+
+(Continued on the next page)
+
+?
+
+In this regard, the Board points out that the process for submitting a transfer request while in service now includes submitting that request through milConnect, a self-service portal for DoD affiliates and beneficiaries to manage their benefits and records.  Given the Veteran's assertion that his transfer request was done online, the Board will assume that it was submitted through this online system.  In the instant case, the Board does not doubt that the Veteran may have intended to transfer his Post-9/11 GI Bill entitlement to his son while in service; unfortunately, however, the evidence of record weighs against a finding that such a transfer was requested and approved.  Indeed, had that transfer been requested and approved, the Veteran's son's name would be listed as a transferee on the VADIR report, even if the Veteran had reduced his transferred allocation to 0 months or if the Veteran had revoked the transfer.  Further, submitting transfer requests for additional dependents is permissible so long as the transferor is serving on active duty or in the Selected Reserve.  If the transferor has already separated, retired, or transferred to the Individual Ready Reserve, the transferor cannot add dependents unless allocated dependents pass away with unused benefits remaining.  See 38 U.S.C. § 3319(k).  Thus, any attempt to add his son as a transferee after the Veteran retired from military service in 2014 would have been rejected.
+
+Accordingly, as there is no showing that the service department approved a request from the Veteran for a transfer of educational benefits to his son in this case, the claim of entitlement to VA educational assistance benefits for the Veteran's son under the Transfer of Entitlement provisions of Chapter 33 must be denied.  Again, the Board points out that a decision as to transferability of Chapter 33 benefits rests with the service department and not VA.  See 38 U.S.C. § 3319(a); 38 C.F.R. § 21.9570.  Thus, while the Board is sympathetic to the Veteran and recognizes his lengthy and honorable military career, the Board is bound by the laws and regulations that apply to Veteran's claims.  38 U.S.C. § 7104(c); 38 C.F.R. §§ 19.5, 20.101(a). Those laws and regulations reflect that there is no legal basis on which the Veteran's claim can be granted.  As the law and not the evidence is dispositive in this case, the claim must be denied as a matter of law.  Sabonis v. Brown, 6 Vet. App. 426 (1994).
+
+ 
+
+ 
+
+Rebecca N. Poulson
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Neilson, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

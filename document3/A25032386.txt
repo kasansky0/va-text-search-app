@@ -1,0 +1,119 @@
+Citation Nr: A25032386
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240513-439350
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for vitiligo is denied. 
+
+Entitlement to an initial disability rating of 10 percent, but no higher, for the Veteran's service-connected irritable bowel syndrome (IBS), is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran's vitiligo did not have its onset during service and is not otherwise related to service.
+
+2. The Veteran's service-connected IBS is characterized by frequent episodes of bowel disturbance with abdominal distress. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for vitiligo have not been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+2. The criteria for entitlement to an initial rating of 10 percent, but no higher, for IBS have been met. 38 U.S.C. §1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.114, Diagnostic Code 7319.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served in the United States Marine Corps from November 2000 to April 2001, January 2002 to January 2003, March 2003 to August 2003, with additional periods of Reserve service.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the March 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim(s), considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. Service connection for vitiligo is denied.
+
+The Veteran contends that his vitiligo is related to exposure to toxic chemicals during service. 
+
+Vitiligo is a skin condition in which patches of the skin lose color due to pigment-producing cells (melanocytes) that have died or have stopped producing melanin. See Mayo Clinic, "Vitiligo," https://www.mayoclinic.org/diseases-conditions/vitiligo/symptoms-causes/syc-20355912 (last visited March 26, 2025).
+
+Service connection may be granted for a disability resulting from personal injury suffered or disease contracted in the line of duty. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.303, 3.304. Service connection may also be granted for a disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+Establishing service connection generally requires evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship (nexus) between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004). 
+
+In a March 2024 rating decision, the AOJ made favorable findings that the Veteran has a current diagnosis of vitiligo and that he participated in toxic exposure risk activities (TERA) during service. These favorable findings are binding on the Board and are not in dispute. Therefore, the first and second elements of service connection, a current disability, and an in-service event, are established.
+
+The Board also notes that the AOJ also made a favorable finding that the evidence shows a qualifying event, injury, or disease had its onset during service. To the extent this finding implies that the Veteran's vitiligo began during service, it is inconsistent with the record, as the evidence does not support an in-service onset of vitiligo. 
+
+Thus, the remaining issue before the Board is whether there is a nexus between the Veteran's current disability, vitiligo, and his military service, including exposure to toxic chemicals. 
+
+The Veteran's service treatment records (STRs) do not document any complaints, treatment, or diagnoses related to vitiligo or associated symptoms. 
+
+Post-service treatment records reflect that the Veteran first complained of vitiligo in April 2023. In May 2023, he reported that the condition began approximately fifteen years earlier [2008] and affected his scalp, hands, groin, and extremities. He stated that it was spreading and getting worse. He denied a personal or family history of an autoimmune disease. 
+
+In December 2023, the Veteran underwent a VA skin examination. The Veteran reported that he first developed white patches over his knuckles, legs, and abdomen in 2004 but did not seek medical treatment. He also stated that his skin condition worsened after separating from the military in 2008. 
+
+After reviewing the Veteran's records and conducting an in-person examination, the examiner confirmed a diagnosis of vitiligo. The examiner opined that the Veteran's vitiligo was less likely than not caused by his in-service TERA exposure, considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, and the combined effect of all toxic exposure risk activities of the Veteran. The examiner reasoned that there is no evidence or medical literature linking vitiligo to toxic exposures during the Gulf War. 
+
+The examiner also noted that the Veteran's STRs reflected a history, diagnosis, or treatment of a skin condition during service. However, after reviewing the Veteran's STRs, the Board finds that the only skin condition reported during service was in September 2002. At that time, the condition presented as itching and redness starting at his right ankle and spreading upwards. A medical provider assessed the condition as poison ivy and prescribed prednisone. In August 2003, the Veteran also confirmed that he had taken antibiotics in the past year for a rash and poison ivy. 
+
+The Board acknowledges the Veteran's sincere belief that his vitiligo was incurred in or caused by exposure to toxic chemicals during service. However, there is no medical evidence linking his vitiligo to his military service. While the Veteran is competent to describe observable symptoms or matters within his personal knowledge, such as a skin rash, he does not have the specialized medical training to render an etiological opinion regarding the cause of his vitiligo. See Jandreau v. Nicholson, 492 F.3d 1372, 1377 n. 4 (Fed. Cir. 2007). Moreover, a mere conclusory lay statement asserting that a condition was caused by service is insufficient to establish a medical etiology or nexus. Waters v. Shinseki, 601 F.3d 1274 (2010). 
+
+Instead, the Board assigns greater weight to the December 2023 VA examiner who provided a medically competent opinion after examining the Veteran and reviewing the Veteran's records. The opinion also provided adequate reasons and bases in support of the conclusion.
+
+As a result, no nexus between the Veteran's vitiligo and his military service, including exposure to toxic chemicals, has been established to satisfy the third element required for service connection.
+
+Based on the foregoing, the Board finds that the evidence of record persuasively weighs against the claim of entitlement to service connection for vitiligo. The evidence is not in approximate balance, and the benefit-of-the-doubt doctrine does not apply. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021); see 38 C.F.R. § 3.303, 3.310. As such, the claim is denied. 
+
+2. Entitlement to an initial disability rating of 10 percent, but no higher, for the Veteran's service-connected irritable bowel syndrome (IBS), is granted.
+
+The Veteran contends that his IBS is more severe than contemplated by the current noncompensable rating.
+
+The appeal period before the Boards stems from the Veteran's original claim for service connection. Accordingly, the appeal period begins on September 16, 2023, the date VA received the Veteran's claim for service connection for IBS. See September 2023 VA Form 21-526EZ. 
+
+The Veteran's IBS is currently rated under 38 C.F.R. § 4.114, Diagnostic Code 7319.
+
+The Board notes that the criteria for rating disabilities of the digestive system were revised effective May 19, 2024. See Schedule for Rating Disabilities: The Digestive System, 89 Fed. Reg. 19735 (Mar. 20, 2024); 38 C.F.R. 4.114. However, because the record before the Board closed prior to the effective date of the revised rating criteria, the Veteran's IBS is evaluated under the prior version of Diagnostic Code 7319.
+
+Under the previous Diagnostic Code 7319, a 10 percent rating is warranted for moderate irritable colon syndrome with frequent episodes of bowel disturbances with abdominal distress. 
+
+A 30 percent rating is warranted for severe irritable colon syndrome with diarrhea or alternating diarrhea and constipation, with more or less constant abdominal distress.
+
+The terms "moderate," "frequent," or "severe" are not defined in the Rating Schedule. Therefore, the Board turns to the dictionary definitions for assistance. See Nielson v. Shinseki, 607 F.3d 802, 805-06 (Fed. Cir. 2010)(noting that absent an express definition, it is presumed that VA regulations employ words using their ordinary dictionary meanings).
+
+"Moderate" is defined as "not violent, severe, or intense"; "limited in scope or effect." Moderate, Merriam-Webster Dictionary Online, https://www.merriam-webster.com/dictionary/moderate, Definitions 3 and 5 (last visited March 26, 2025). 
+
+"Frequent" is defined as "acting or returning regularly or often." Frequent, Merriam-Webster Dictionary Online, https://www.merriam-webster.com/dictionary/moderate, Definition 3 (last visited March 26, 2025). 
+
+"Severe," is defined as "causing discomfort or hardship"; "very painful or harmful"; "of a great degree." Severe, Merriam-Webster Dictionary Online, https://www.merriam-webster.com/dictionary/severe, Definitions 6a, 6b, and 8 (last visited March 26, 2025).
+
+In April 2023, the Veteran reported post-prandial urgency, watery diarrhea, and abdominal cramping. A medical provider prescribed Bentyl for cramping and post-prandial urgency.
+
+In May 2023, the Veteran reported chronic diarrhea, with approximately 4-6 loose bowel movements per day. He reported experiencing intense fecal urgency about 5-10 minutes after eating, along with frequent urges to defecate and intermittent tenesmus. He stated that if he fasts, he avoids intense urges to have a bowel movement and therefore skips eating when outside his home. He denied constipation, weight loss, abdominal pain, nausea, vomiting, or melena but endorsed abdominal cramping after consuming dairy products. 
+
+In December 2023, the Veteran underwent a VA examination for intestinal conditions. The examiner confirmed a diagnosis of IBS and noted that the Veteran does not use continuous medication to control his IBS. The VA examiner documented that the Veteran experiences diarrhea and abdominal distention, which was further described as discomfort. However, the examiner found no episodes of bowel disturbance with abdominal distress, and no exacerbations or attacks of the intestinal condition documented. The examiner also noted no weight loss, malnutrition, or serious complications attributable to the Veteran's IBS.
+
+The Board finds that the Veteran's service-connected IBS more closely approximates the criteria for a 10 percent rating under former Diagnostic Code 7319. The Veteran has reported frequent episodes of bowel disturbance with abdominal distress, which is documented in his VA outpatient treatment records. 
+
+The Board acknowledges that the Veteran is competent to describe observable symptoms within his personal knowledge. See Jandreau v. Nicholson, 492 F.3d 1372, 1377 n. 4 (Fed. Cir. 2007). Although the December 2023 VA examiner did not find episodes of bowel disturbance with abdominal distress, the overall evidence of record including the Veteran's statements and the VA outpatient treatment records indicates otherwise. The Board finds that the Veteran has consistently and competently reported that his IBS causes symptoms of post-prandial urgency, watery diarrhea, abdominal cramping, and 4-6 loose bowel movements per day. This symptomatology is consistent with a moderate level of severity and supports the assignment of a 10 percent rating for his service-connected IBS.
+
+However, the Board finds that the Veteran's IBS does not warrant a disability rating higher than 10 percent. Although his symptoms approximate the criteria for a 10 percent rating, the record does not reflect alternating diarrhea and constipation or more or less constant abdominal distress, which would support a higher 30 percent rating. Additionally, no competent evidence characterizes his IBS symptomatology as severe. 
+
+Accordingly, the Board finds that a 10 percent disability rating, and no higher, is warranted. 
+
+ 
+
+ 
+
+KRISTI L. GUNN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Hatcher, Valerie
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

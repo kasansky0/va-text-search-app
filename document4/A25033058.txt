@@ -1,0 +1,69 @@
+Citation Nr: A25033058
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 241015-482001
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to an earlier effective date of December 7, 2021, for the 30 percent disability rating assigned for service-connected pes planus is granted.
+
+FINDINGS OF FACT
+
+1. On December 7, 2021, the Veteran filed, and the AOJ acknowledged receipt of, a placeholder intent to file claim for compensation pursuant to 38 C.F.R. § 3.155(b).
+
+2. In March 2022, the Veteran filed a VA Form 20-0995 ("Decision Review Request: Supplemental Claim") requesting readjudication of a claim for service connection for sleep apnea previously denied in April 2021.
+
+3. On August 22, 2022, the Veteran filed a VA Form 21-526EZ ("Application for Disability Compensation and Related Compensation Benefits") seeking a disability rating higher than 10 percent for his service-connected pes planus.
+
+4. The evidence is at least approximately evenly balanced as to whether the Veteran has experienced severe symptoms of his service-connected pes planus since December 7, 2021, at the latest.
+
+CONCLUSION OF LAW
+
+The criteria for an earlier effective date of December 7, 2021, for the 30 percent disability rating for service-connected pes planus have been met.  38 U.S.C. § 5110; 38 C.F.R. §§ 3.155, 3.400, 4.71a, Diagnostic Code 5276.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran served on active duty from August 1996 to September 1997, February 2001 to March 2002, and from March 2002 to October 2004.  This case comes to the Board from an October 2023 decision of the Agency of Original Jurisdiction (AOJ).  Because the AOJ issued the decision after February 19, 2019, the Appeals Modernization Act (AMA) applies to this case.  See 38 C.F.R. §§ 19.2, 20.4.
+
+In September 2022, the AOJ increased the disability rating assigned to the Veteran's service-connected pes planus from 10 percent to 30 percent, effective August 22, 2022.  The Veteran responded by requesting a higher-level review (HLR) pursuant to 38 C.F.R. § 3.2601.  The October 2023 decision - the decision the Veteran appealed to the Board - was the result of the requested HLR.  
+
+In his VA Form 10182 ("Notice of Disagreement" or "NOD"), the Veteran selected the option of direct review without the submission of additional evidence and without a hearing.  When an appellant selects this option, the Board's review is limited to the evidence of record at the time of the decision on appeal.  Because the October 2023 decision was the result of an HLR of the September 2022 decision, the evidentiary record is limited to the information in the claims file at the time of the September 2022 decision.  See 38 C.F.R. § 3.2601(f).
+
+Analysis
+
+With certain exceptions, the effective date of an award of disability compensation "will be the date of receipt of the claim or the date entitlement arose, whichever is later."  38 C.F.R. § 3.400.  This appeal depends on resolution of a dispute between the Veteran and the AOJ over "the date of receipt of the claim" for the purposes of the Veteran's successful request for an increased disability rating for his service-connected pes planus. 
+
+August 22, 2022, the effective date the AOJ assigned to the 30 percent rating, is the date the Veteran filed a VA Form 21-526EZ ("Application for Disability Compensation and Related Compensation Benefits"), in which he requested a higher disability rating for his service-connected pes planus.  In a written brief, submitted with the NOD, the Veteran's representative argued that the Board should treat December 7, 2021 as the "date of receipt of the claim" because, on that date, the Veteran filed, and the AOJ acknowledged receipt of, a placeholder intent to file a claim pursuant to 38 C.F.R. § 3.155(b).
+
+According to 38 C.F.R. § 3.155(b) an "intent to file a claim must provide sufficient identifiable or biographical information to identify the claimant . . .  If VA receives a complete application . . . within 1 year of receipt of the intent to file a claim, VA will consider the complete claim filed as of the date the intent to file a claim was received."  Subsection (b)(2) requires an intent to file to "identify the general benefit (e.g. compensation, pension), but need not identify the specific benefit claimed or any medical condition(s) on which the claim is based."  
+
+The December 7, 2021, intent to file satisfies these requirements because it provides sufficient biographical information - his name, social security number, and date of birth - to identify the claimant.  It identified the general benefit sought as a claim for compensation.  Because the Veteran's complete claim for an increased rating for pes planus was received in August 2022, "within 1 year of receipt of the intent to file a claim" the Veteran's representative argues that the appropriate effective date of the 30 percent increased rating is December 7, 2021.
+
+In March 2022, also within the year after receipt of the December 7, 2021 intent to file, the Veteran field a supplemental claim pursuant to 38 C.F.R. § 3.2501 seeking readjudication of a previously denied claim for service connection for sleep apnea.  In its October 2023 HLR decision, the AOJ concluded that the receipt of this supplemental claim in the interval between December 7, 2021, and August 22, 2022, prevented the application of 38 C.F.R. § 3.155(b) to the pes planus increased rating claim.  In the HLR decision, the AOJ acknowledged but rejected the argument that the date of the intent to file should be considered the effective date of the increased rating in this case: "We have done an extensive review of the rules and regulations, policy letters as well as consulting with our quality review team regarding the effective dates of increase for intent to file a claim as well as Supplemental claims.  Intent to file a claim is associated with the next claim received and the regulations do not allow us to disregard receipt of an application in order to associate it with another.  Based on current regulations we are unable to grant an earlier effective date of increase prior to August 22, 2022."
+
+Despite the "extensive review of the rules and regulations... regarding the effective dates of increase for intent to file a claim..." the higher-level adjudicator did not identify the specific statutory or regulatory language supporting its interpretation that an intent to file must be "associated with the next claim received and the regulations do not allow us to disregard receipt of an application in order to associate it with another."  The regulatory text which most closely resembles the language from the October 2023 decision seems to be 38 C.F.R. § 3.155(b)(6), which provides: "VA will not recognize more than one intent to file concurrently for the same benefit (e.g., compensation, pension).  If an intent to file has not been followed by a complete claim, a subsequent intent to file regarding the same benefit received within 1 year of the prior intent to file will have no effect.  If, however, VA receives an intent to file followed by a complete claim and later another intent to file for the same benefit is submitted within 1 year of the previous intent to file, VA will recognize the subsequent intent to file to establish an effective date for any award granted for the next complete claim, provided it is received within 1 year of the subsequent intent to file."
+
+The quoted text does not support the AOJ's analysis because, according to the higher-level reviewer, this issue concerns whether the same intent to file may apply to more two different complete claims seeking different benefits.  An affirmative answer to this question would not "recognize more than one intent to file concurrently for the same benefit" - the practice prohibited by subsection (b)(6).
+
+Even if the higher-level reviewer is correct that VA must recognize an intent to file as being "associated with the next claim received" as a general matter, applying that principle to the March 2022 supplemental claim for service connection for sleep apnea is clearly wrong because, according to 38 C.F.R. § 3.155, "[t]he provisions of this section are applicable to all claims governed by part 3, with the exception that paragraph (b) of this section, regarding intent to file a claim, does not apply to supplemental claims."  
+
+For these reasons, the Board disagrees with the higher-level adjudicator's analysis. Pursuant to 38 C.F.R. § 3.155(b), December 7, 2021, the date of receipt of the intent to file, is considered the date of receipt of the Veteran's claim for an increased rating for pes planus.  
+
+An effective date later than December 7, 2021, would still be required if the "date entitlement arose" for a 30 percent rating for pes planus came after the receipt of the intent to file.  The AOJ granted the 30 percent rating based on information in an examination report prepared by a nurse practitioner in September 2022.  The examiner's findings supported the assignment of an increased rating pursuant to 38 C.F.R. § 4.71a, Diagnostic Code (DC) 5276 because they indicated pain accentuated on use of both feet and characteristic calluses.  
+
+According to the medical history summary in her report, the Veteran told the September 2022 that there had been no changes in his symptoms within the last year.  Likewise, there is no medical evidence or other information suggesting that the symptoms of the Veteran's pes planus first satisfied the criteria for a 30 percent rating after December 7, 2021.  Thus, the date of receipt of claim came after entitlement to a 30 percent disability rating under DC 5276 arose.   Accordingly, the Board will grant an earlier effective date of December 7, 2021, for the 30 percent rating assigned to the Veteran's service-connected pes planus.
+
+ 
+
+ 
+
+DAVID L. WIGHT
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Nye, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

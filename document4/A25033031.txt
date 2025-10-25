@@ -1,0 +1,121 @@
+Citation Nr: A25033031
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240618-448911
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for monoclonal gammopathy of undetermined significance (MGUS) is denied.
+
+Entitlement to service connection for left ventricular hypertrophy and moderate aortic stenosis is granted.
+
+Entitlement to service connection for chronic kidney disease is granted.
+
+REMANDED
+
+Entitlement to a compensable rating for hypertension is remanded.
+
+Entitlement to service connection for a respiratory disability, to include chronic obstructive pulmonary disease (COPD), to include as due to toxic-exposure, is remanded.
+
+Entitlement to service connection for a skin disability, to include as due to toxic exposure, is remanded.
+
+FINDINGS OF FACT
+
+The weight of the competent evidence does not persuasively show that the Veteran had a diagnosis of MGUS at any time during the pendency of the claim or recent to the filing of the claim.
+
+The weight of the competent evidence is at least in approximate balance that the Veteran's left ventricular hypertrophy and moderate aortic stenosis are proximately related to his service-connected hypertension.
+
+The weight of the competent evidence is at least in approximate balance that the Veteran's chronic kidney disease is proximately related to his service-connected hypertension.
+
+CONCLUSIONS OF LAW
+
+The criteria for entitlement to service connection for MGUS have not been met.  38 U.S.C. §§ 1110, 1141, 5103, 5103A, 5107 (2024); 38 C.F.R. § 3.102, 3.303 (2024).
+
+The criteria for entitlement to service connection for left ventricular hypertrophy and moderate aortic stenosis have been met.  38 U.S.C. §§ 1110, 1141, 5103, 5103A, 5107 (2024); 38 C.F.R. § 3.102, 3.303 (2024).
+
+The criteria for entitlement to service connection for chronic kidney disease have been met.  38 U.S.C. §§ 1110, 1141, 5103, 5103A, 5107 (2024); 38 C.F.R. § 3.102, 3.303 (2024).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from March 1959 to March 1963.  
+
+In November 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a September 2023 decision of the Department of Veterans Affairs (VA) Regional Office (RO).   In March 2024, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior September 2023 rating decision.
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the September 2023 rating decision.  38?C.F.R. § 20.301 (2024).
+
+Evidence in the record suggests that the Veteran has been diagnosed with multiple respiratory conditions.  See January 2019 VA Treatment Record (assessing COPD); February 2020 and May 2023 VA Treatment Record (listing diagnoses asthma and allergic rhinitis); August 2023 VA Respiratory Examination (diagnosing chronic asthmatic bronchitis).  Therefore, the Board will broadly construe the issue of entitlement to service connection for COPD, as listed in the September 2023 rating decision, as a claim for service connection for a respiratory disability, to include COPD.  Clemons v. Shinseki, 23 Vet. App. 1, 6 (2009) (holding that the Board must consider any disability that "may reasonably be encompassed by" the description of the claim and symptoms and other submitted information).  
+
+1. Entitlement to service connection for MGUS
+
+The Veteran contends that he is entitled to service connection for MGUS due to herbicide exposure during service in Vietnam.  
+
+Service connection may be established for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes the disease was incurred in service. 38 C.F.R. § 3.303(d).  Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability).  See Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Hickson v. West, 12 Vet. App. 247, 253 (1999); 38 C.F.R. § 3.303(a).
+
+VA is required to give due consideration to all pertinent medical and lay evidence in evaluating a claim for disability benefits. When the evidence is in approximate balance in the veteran's favor or nearly equal regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990). If the evidence is not in approximate balance or nearly equal, the claim is to be denied.  See Lynch v. McDonough, 21 F. 4th 776 (Fed. Cir. 2021).
+
+The Board's review indicates that service and VA treatment records are silent for complaints, diagnosis or treatment of a MGUS or other plasma cell disorder during or after service.  Therefore, the weight of the competent evidence does not persuasively show that the Veteran had a diagnosis of MGUS at any time during the pendency of the claim or recent to the filing of the claim.  As with all claims for service-connection, in the absence of proof of a present disability, there can be no valid claim, regardless of any in-service toxic exposure.  Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992).  Service connection is therefore not warranted.  38 C.F.R. § 3.303.
+
+2. Entitlement to service connection for a heart disability
+
+The Veteran contends that service connection is warranted for a heart disability, to include as due to in-service toxic exposure.  The Board finds that the weight of the competent evidence persuasively shows that service connection for left ventricular hypertrophy and moderate aortic stenosis is warranted secondary to service-connected hypertension.
+
+Secondary service connection may be granted for disability that is proximately due to, or the result of, a service-connected disease or injury.  38 C.F.R. § 3.310(a).  The evidence must show that a current disability exists and that the current disability was either caused by or aggravated by a service-connected disability.  38 C.F.R. § 3.310(a); see also Allen v. Brown, 7 Vet. App. 439 (1995).
+
+An August 2023 VA heart examination diagnosed the Veteran with left ventricular hypertrophy and moderate aortic stenosis.  The examiner opined that, while these disabilities were not as likely as not related to his in-service toxic exposure, they were related to his service-connected hypertension.  The August 2023 VA examination is adequate for appellate review.  There is no evidence that the examiner was not competent or credible, and as the report is based on the Veteran's statements, in-person examination, and the examiner's observations, the Board finds it is entitled to significant probative weight.  Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302-05 (2008).  
+
+There is no competent opinion or other evidence weighing against the August 2023 VA examiner's opinion that the Veteran's heart disabilities are related to his service-connected hypertension.  The Board therefore finds that the competent medical evidence of record is at least in approximate balance that the Veteran's heart disabilities are related to his service-connected hypertension and that service connection is warranted on a secondary basis.
+
+3. Entitlement to service connection for a kidney disability
+
+The Veteran contends that service connection is warranted for a kidney disability, to include as due to in-service toxic exposure.  The Board finds that the weight of the competent evidence persuasively shows that service connection for chronic kidney disease is warranted secondary to service-connected hypertension.
+
+Secondary service connection may be granted for disability that is proximately due to, or the result of, a service-connected disease or injury.  38 C.F.R. § 3.310(a).  The evidence must show that a current disability exists and that the current disability was either caused by or aggravated by a service-connected disability.  38 C.F.R. § 3.310(a); see also Allen v. Brown, 7 Vet. App. 439 (1995).
+
+An August 2023 VA heart examination diagnosed the Veteran with chronic kidney disease.  The examiner opined that, while this disability was not as likely as not related to his in-service toxic exposure, it was related to his service-connected hypertension.  The August 2023 VA examination is adequate for appellate review.  There is no evidence that the examiner was not competent or credible, and as the report is based on the Veteran's statements, in-person examination, and the examiner's observations, the Board finds it is entitled to significant probative weight.  Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302-05 (2008).  
+
+There is no competent opinion or other evidence weighing against the August 2023 VA examiner's opinion that the Veteran's kidney disability is related to his service-connected hypertension.  The Board therefore finds that the competent medical evidence of record is at least in approximate balance that the Veteran's kidney disability is related to his service-connected hypertension and that service connection is warranted on a secondary basis.
+
+REASONS FOR REMAND
+
+1. Entitlement to a compensable rating for hypertension
+
+The Board's review of the record indicated that there may have been outstanding private treatment records at the time the AOJ rendered the rating decision on appeal.  VA treatment records from March 2023 refer to private cardiology records that were scanned into VISTA Imaging.  However, the Board does not have access to records scanned into VISTA Imaging, the records are not otherwise included in the file, and it is not clear that these documents would include the entirety of the relevant private treatment records.  The record does not show that the AOJ attempted to obtain the potentially relevant private treatment records, to include those contained in VISTA Imaging.  Remand is therefore required to correct this duty to assist error.
+
+2. Entitlement to service connection for a respiratory disability, to include COPD, to include as due to toxic-exposure
+
+The Veteran was afforded a VA respiratory examination in August 2023.  The examiner diagnosed the Veteran with chronic asthmatic bronchitis.  The Board finds that this examination was inadequate.  As noted above, the record shows that the Veteran has a history of multiple respiratory diagnoses, but the examiner makes no reference to the other diagnoses of record.  In addition, the examiner provided an etiology opinion regarding presumptive service connection for a medically unexplained chronic multi-symptom illness of unknown etiology (MUCMI), but did not explain whether the Veteran's disability qualified as a MUCMI in the first place.  Furthermore, the examiner did not provide any discussion of service connection based on other theories of entitlement, particularly if the disability did not qualify as a MUCMI.  The Board notes that, even if presumptive service connection is not available, this does not preclude service connection due to toxic exposure from being established on a factual basis.  See Stefl v. Nicholson, 21 Vet. App. 120 (2007).  As the August 2023 VA examination did not clearly address all the relevant evidence of record and theories of entitlement, it was inadequate.  The AOJ relied on this inadequate medical evidence in rendering the rating decision on appeal.  Remand is therefore required to correct this duty to assist error.
+
+3. Entitlement to service connection for a skin disability, to include as due to toxic exposure
+
+The Veteran was afforded a VA skin examination in August 2023.  The examiner found that the Veteran did not have a current skin disability.  However, the Veteran reported that he had a history of skin issues, most recently 4 to 5 months prior.  The Veteran filed his claim in February 2023, so this would have been within the appeal period.  Furthermore, the VA Treatment record shows that he complained of itchy, painful spots on the skin of his arms as recently as July 2023.  The Board notes that the requirement of a current disability is satisfied when a claimant has a disability at the time a claim for VA disability compensation is filed or during the pendency of that claim.  See McClain v. Nicholson, 21 Vet. App. 319, 321 (2007).  Even if the disability had resolved by the time of the VA examination, an opinion regarding the evidence of a skin disability during the appeal period was still required.  As the August 2023 VA examination did not provide such an opinion, and the AOJ did not obtain one prior to rendering the rating decision on appeal, remand is required to correct this duty to assist error.
+
+The matters are REMANDED for the following action:
+
+1. Obtain complete and updated VA treatment records, to include copies of the cardiology treatment records scanned into VISTA imaging.  If such records are unavailable, the Veteran's claim file must be clearly documented to that effect and the Veteran notified in accordance with 38 C.F.R. § 3.159(e).
+
+2. Ask the Veteran to complete a VA Form 21-4142 for the private providers who treated him for his hypertension, respiratory disability, and/or skin disability.  Make two requests for the authorized records from these providers unless it is clear after the first request that a second request would be futile.
+
+3. Schedule the Veteran for an appropriate VA examination, with a clinician who has yet to provide an opinion on this matter, to determine the nature and etiology of any current respiratory disability, to include COPD.  The examiner should review the file and provide a complete rationale for all opinions expressed.  
+
+For any respiratory disability diagnosed or present during the period on appeal, to include COPD, the examiner should provide an opinion as to whether it is at least as likely as not (likelihood is at least in approximate balance or nearly equal) that any such disability is related to the Veteran's active service, to include his in-service toxic exposure.  The examiner must consider the Veteran's total potential toxic exposure through all applicable military deployments, as well as the synergistic, combined effect of all toxic exposure risk activities. The examiner is advised that the fact that a VA presumption has not been established for a disability is not dispositive of the issue of nexus and consideration must still be given to the exposure.  
+
+In providing the opinion, the examiner should consider and discuss any lay statements of record, to include the Veteran's statements regarding the onset and persistence of his symptoms.
+
+4. Schedule the Veteran for an appropriate VA examination, with a clinician who has yet to provide an opinion on this matter, to determine the nature and etiology of any current skin disability.  The examiner should review the file and provide a complete rationale for all opinions expressed.  
+
+For any skin disability diagnosed or present during the period on appeal, the examiner should provide an opinion as to whether it is at least as likely as not (likelihood is at least in approximate balance or nearly equal) that any such disability is related to the Veteran's active service, to include his in-service toxic exposure.  The examiner must consider the Veteran's total potential toxic exposure through all applicable military deployments, as well as the synergistic, combined effect of all toxic exposure risk activities.  The examiner is advised that the fact that a VA presumption has not been established for a disability is not dispositive of the issue of nexus and consideration must still be given to the exposure.  
+
+In providing the opinion, the examiner should consider and discuss any lay statements of record, to include the Veteran's statements regarding the onset and persistence of his symptoms.  
+
+ 
+
+E. I. VELEZ
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Bock
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

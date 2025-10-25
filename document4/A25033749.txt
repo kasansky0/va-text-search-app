@@ -1,0 +1,63 @@
+Citation Nr: A25033749
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240604-446254
+DATE: April 11, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea, to include as secondary to service-connected disabilities, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had over 20 years of active duty service ending with his retirement in May 2010. 
+
+This matter comes on appeal from an October 2023 rating decision.  In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the October 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim herein, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+?
+
+Entitlement to service connection for obstructive sleep apnea, to include as secondary to service-connected disabilities, is remanded.
+
+The Veteran is seeking service connection for sleep apnea.  He has claimed that his sleep apnea manifested in service as he began experiencing symptoms, such as snoring, while on active duty.  In the alternative, he is asserting that his sleep apnea is related to the pain and weight gain caused by his service-connected disabilities.  Private treatment records show that the Veteran was diagnosed with sleep apnea in November 2017.  
+
+The Board notes that VA's Office of General Counsel has held that a claim for secondary service connection may rest on obesity as an intermediary between the claimed secondary disability and the service-connected primary disability. See VAOPGCPREC 1-2017.  In order to meet this criterion, the Veteran must demonstrate that a previously service-connected disability caused the Veteran to become obese; that obesity was a substantial factor in causing secondary disability; and the secondary disability would only have occurred but for the obesity. VAOPGCPREC 1-2017 (January 6, 2017).
+
+The Veteran was afforded a VA examination in January 2023.  The examiner found that the Veteran's sleep apnea was not related to service.  The examiner rationalized that review of service treatment records show a single issue of insomnia voiced in July 2008.  Insomnia is considered a behavioral health condition.  Obstructive sleep apnea is characterized by recurrent collapse of the velopharyngeal and/or nasopharyngeal airway during sleep.  While sleep apnea may associated with insomnia, it is not a sole diagnostic predictor.  Sleep apnea is diagnosed with a polysomnogram test that was not performed until November 2017, seven years post release from the military.  The examiner essentially found that to attribute the Veteran's diagnosis of sleep apnea in 2017 to a single complaint of sleep issues in 2008 without the support of any diagnostic testing or medical evaluation would be resorting to mere speculation.  
+
+Unfortunately, the Board must find that this opinion is inadequate for appellate review as the examiner failed to consider relevant evidence of record as well as opine as to all theories of entitlement.  In this regard, the examiner failed to consider numerous lay statements submitted by fellow service members and the Veteran's ex-wife describing the Veteran's in-service sleep symptoms.  Moreover, the examiner did not offer an opinion as to whether the Veteran's sleep apnea is secondary to his service-connected disabilities.  Further, a June 2023 memorandum showed that the Veteran participated in a toxic exposure risk activity (TERA).  Thus, under the SFC Heath Robinson Honoring Our PACT Act, Pub. L. 117-168, 136 Stat. 1759 ("PACT Act"), a TERA opinion should be obtained.  However, here, no opinion was obtained to determine whether the Veteran's sleep apnea is related to his TERA.  Another examination was done in September 2023; however, no etiological opinion was given.  
+
+In support of his claim, the Veteran submitted a June 2023 private opinion.  The private examiner opined that the Veteran's weight gain, which caused his sleep apnea, was due to the Veteran's service-connected disabilities.  Essentially, the examiner found that the Veteran was unable to exercise due to his service-connected disabilities, which lead to obesity.  However, private treatment records show that prior to the Veteran's diagnosis of sleep apnea, the Veteran was still doing moderate exercise.  Further, VA clinical records prior to the diagnosis do not show that the Veteran was considered overweight noting that his body fat does not appear to be excessive.  Thus, the private opinion appears to be contradicted by VA and private clinical records.  In turn, given these inconsistencies, the Board finds that this opinion is inadequate and cannot be the basis for the award of service connection.  Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008).
+
+Accordingly, given that there has not been an adequate VA etiological opinion, which is a pre-decisional duty to assist error, the Board finds that a remand is necessary to obtain an addendum opinion addressing the etiology of the Veteran's sleep apnea.  
+
+The matters are REMANDED for the following action:
+
+Obtain an addendum opinion from an appropriate clinician to determine the etiology of his sleep apnea.  The examiner must review the claims file.  The need for another examination is left to the discretion of the examiner.  The examiner should respond to the following:
+
+(a)	Whether it is at least as likely as not related to active duty service, to include the total potential exposure through all applicable military deployments of the Veteran and the synergistic combined effect of all toxic exposure risk activities of the Veteran.
+
+(b)	 If sleep apnea is found to not be directly related to service, whether it is at least as likely as not caused or aggravated by (any incremental increase regardless of permanence, even transient) by his service-connected disabilities.  The examiner must also opine whether it is at least as likely as not that the Veteran's obesity is caused by or related to the service-connected disabilities. If so, further opine whether it is at least as likely as not that the obesity, which was the result of service-connected disabilities, was a substantial factor in causing or aggravating his sleep apnea.
+
+The examiner must provide a detailed rationale for any opinion expressed.  The examiner must address the service treatment records, post service treatment records, and the Veteran's lay statements as well as the numerous statements from fellow service members and his ex-wife.    
+
+With respect to secondary service connection, the examiner must consider any causal link between the Veteran's service-connected disabilities and his sleep 
+
+?
+
+apnea.  The examiner must also provide separate rationales for both causation and aggravation.  
+
+ 
+
+ 
+
+L. M. BARNARD
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J.N. Moats, Counsel 
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

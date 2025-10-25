@@ -1,0 +1,59 @@
+Citation Nr: A25033299
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240323-431994
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to waiver of recovery of Department of Veterans Affairs (VA) compensation benefits, to include the validity of the amount of the debt, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from August 1998 to December 2009 with service in Iraq.
+
+In the March 23, 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the March 2024 Decision on Waiver of Indebtedness issued by the Committee on Waivers and Compromises (Committee), the agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+REFERRED
+
+The issue of waiver of recovery of an overpayment of compensation benefits due to the removal of a spouse was timely raised in statements dated February 15, 2024, February 27, 2024, and March 19, 2024 in response to a February 13, 2024 Demand Letter, and is referred to the Agency of Original Jurisdiction (AOJ) for adjudication.
+
+1. Entitlement to waiver of recovery of Department of Veterans Affairs (VA) compensation benefits, to include the validity of the amount of the debt, is remanded.
+
+The Veteran seeks waiver of recovery of an overpayment of a debt, which although he believes is due to the removal of his spouse from his compensation award, is due to a purported overpayment from severance pay when he left active military service.
+
+The recoupment of a veteran's separation pay from his or her VA disability compensation is required by 10 U.S.C.A. § 1174(h)(2), which states that a member who has received separation pay under this section, or severance pay or readjustment pay under any other provision of law, based on service in the armed forces shall not be deprived, by reason of his receipt of such separation pay, severance pay, or readjustment pay, of any disability compensation to which he or she is entitled under the laws administered by VA, but there shall be deducted from that disability compensation an amount equal to the total amount of separation pay, severance pay, and readjustment pay received.  
+
+The implementing regulation, 38 C.F.R. § 3.700(a)(3), provides that, "[w]here entitlement to disability compensation was established on or after September 15, 1981, a Veteran who has received disability severance pay may receive disability compensation for disability incurred in or aggravated by service prior to the date of the receipt of severance pay subject to recoupment of the severance pay.  Where payment of disability severance benefits under section 1174a was made prior to September 30, 1996, VA will recoup from disability compensation an amount equal to the total amount of severance pay."  38 C.F.R. § 3.700(a)(3).  
+
+Under the Appeals Modernization Act (AMA), unless the issue or issues can be granted in full, the Board shall remand the appeal to the agency of original jurisdiction (AOJ)for correction of an error on the part of the agency of original jurisdiction to satisfy its duties under 38 U.S.C. 5103A (VA's duty to assist), if the error occurred prior to the date of the agency of original jurisdiction decision on appeal.  The Board may remand for correction of any other error by the agency of original jurisdiction in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the appellant's claim.  The remand must specify the action to be taken by the agency of original jurisdiction.  See 38 C.F.R. § 20.802(a).
+
+A debtor may dispute the amount or existence of a debt, which is a right that may be exercised separately from a request for waiver or at the same time.  See 38 C.F.R.§1.911(c)(1); see also VAOPGCPREC 6-98.  The propriety and amount of the overpayment at issue are matters that are integral to a waiver determination.  See Schaper v. Derwinski, 1 Vet. App. 430, 434 (1991) ("when a Veteran raises the validity of the debt as part of a waiver application... it is arbitrary and capricious and an abuse of discretion to adjudicate the waiver application without first deciding a veteran's challenge to the lawfulness of the debt asserted against him or her").
+
+In this case, a Demand Letter in the amount of $1,268.32 was sent to the Veteran in June 2023.  Although the letter stated that VA "recently sent you a letter explaining that your entitlement to compensation and pension benefits had changed," no such letter is of record.  Indeed, not until the March 2024 Decision on Waiver of Indebtedness was the debt identified as arising from the Veteran's severance pay upon leaving active duty service.  
+
+Upon a review of the record, there appears to be a September 2010 request to "ARMY/Reserves/Army NG" seeking the amount of disability severance pay for the Veteran after federal income tax was deducted.  No response is of record; however, a subsequent September 2010 Award print shows the Veteran's disability pay before tax as $61,842.00 and after tax as $46,318.50, with a handwritten notation, "fax sent, not verified; 25%."  
+
+There is no other documentation regarding the Veteran's disability severance pay and no calculations were provided to show how the amount of $1,268.32 was determined.  The Board finds that the lack of notice regarding the purported debt, as well as any information regarding how the debt was calculated, are pre-decisional duty to assist errors and remand is required.
+
+The matters are REMANDED for the following action:
+
+1. Verify the Veteran's post-Federal tax severance pay.
+
+2. Then, prepare a complete audit of compensation benefit payments to the Veteran for the period from September 2010 to the present.  This audit should reflect, on a month-by-month basis, the amounts of compensation actually paid to the Veteran with a full explanation of the calculations derived, to include the payments offset for his after-tax severance pay, additional dependency benefits paid to the Veteran for his dependents, payments for cost of living adjustment, and any amounts recouped by VA.  A copy of the written audit should be associated with the claims file and also provided to the Veteran and his representative.
+
+3. Adjudicate waiver of recovery for an overpayment of compensation benefits as necessary.
+
+ 
+
+ 
+
+T. REYNOLDS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Nelson, L.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

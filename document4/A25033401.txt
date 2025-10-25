@@ -1,0 +1,99 @@
+Citation Nr: A25033401
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240616-449195
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disorder, to include anxiety, posttraumatic stress disorder (PTSD), and a personality disorder, is denied.
+
+FINDING OF FACT
+
+1. The Veteran's personality disorder is not a disability for VA compensation purposes and the record does not show a superimposed psychiatric disease or injury. 
+
+2. The evidence of record persuasively weighs against finding that the Veteran's current mental health condition began during active service or is otherwise related to an in-service injury, event, or disease.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for an acquired psychiatric disorder have not been met.  38 U.S.C. § § 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 2019 to May 2021.
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the February 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.
+
+Entitlement to service connection for an acquired psychiatric disorder.
+
+The Veteran contends that he is entitled to service connection for anxiety due to military stress.  See September 2023 Fully Developed Claim.  He had previously contended entitlement to service connection for PTSD with military sexual trauma (MST).  See October 2021 Fully Developed Claim.  
+
+He reports that he was drinking at a sleepover/house party and was touched in his sleep.  See December 2022 Personal Trauma Incident/Marker Worksheet.  
+
+Service connection is warranted where the evidence of record establishes that a particular injury or disease resulting in disability was incurred in the line of duty in the active military service or, if pre-existing such service, was aggravated thereby. 38 U.S.C. §§ 1110, 1113; 38 C.F.R. § 3.303.  If a condition noted during service is not shown to be chronic, then generally a showing of continuity of symptomatology after service is required for service connection if the disability is one that is listed in 38 C.F.R. § 3.309.  38 C.F.R. § 3.303(b); see also Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+In this regard, in order to establish service connection for the claimed disorders, there must be (1) medical evidence of a current disability; (2) medical, or in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the current disability.  See Hickson v. West, 12 Vet. App. 247, 253 (1999).
+
+The requirement of a current disability is "satisfied when a claimant has a disability at the time a claim for VA disability compensation is filed or during the pendency of that claim."  See McClain v. Nicholson, 21 Vet. App. 319, 321 (2007).
+
+A claim for service connection for a mental disability may encompass claims for service connection of any mental disability that may reasonably be encompassed by several factors, including the Veteran's description of the claim, the symptoms the Veteran describes and the information the veteran submits or that the Secretary obtains in support of the claim.  Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009). Accordingly, the Board has taken an expansive view of the claims for service connection for a mental health disability pursuant to Clemons and re-characterized them as shown on the cover page of this decision. 
+
+In addition to the above criteria, claims of service connection for PTSD require a medical diagnosis of PTSD, an in-service stressor accompanied by credible and supporting evidence that the stressor claimed to be the cause of the disorder occurred in service, and established medical evidence connecting the current disability to the stressor.  38 C.F.R. § 3.304 (f).
+
+If a PTSD claim is based on an in-service personal assault, including military sexual trauma (MST), a veteran must provide corroborating evidence to substantiate the occurrence of the stressor.  38 C.F.R. § 3.304 (f)(5); Gallegos v. Peake, 22 Vet. App. 329 (2008).
+
+Examples of such evidence include but are not limited to records from law enforcement authorities, rape crises centers, mental health counseling centers, hospitals, or physicians; tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy.  Evidence of behavioral changes following the claimed assault is one type of relevant evidence that may be found in these alternate sources.
+
+Examples of behavioral changes that may constitute credible evidence of a stressor include but are not limited to request for transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavioral changes.  38 C.F.R. § 3.304 (f)(5).  VA can also submit any evidence, including alternate source evidence, to a medical or mental health professional for interpretation.  Id.; Bradford v. Nicholson, 20 Vet. App. 200 (2006).  Most significantly, for claims involving an in-service personal assault, after-the-fact medical evidence can be used to establish a stressor.  Id. 
+
+For claims of entitlement to service connection for acquired psychiatric disorders that were certified to the Board after August 4, 2014, a diagnosis must be made under DSM-5.  38 C.F.R. § 4.125 (a).
+
+The Veteran is entitled to the benefit of the doubt when the evidence is in approximate balance or "nearly equal," and does not require that the evidence be in exact equipoise.  Under 38 U.S.C. § 5107 the benefit of the doubt rule is clear and unambiguous on its face.  Evidence is in approximate balance when the evidence in favor of and opposing the Veteran's claim is found to be almost exactly or nearly equal.  By reasonable doubt is meant one which exists because of an approximate balance of positive and negative evidence which does not satisfactorily prove or disprove the claim.  Lynch v. McDonough, 999 F.3d 1391, 1395 (Fed. Cir. 2021). 
+
+Initially, under the AMA, the Board is bound by favorable findings by the AOJ in the absence of evidence of clear and unmistakable error.  38 C.F.R. § 3.104 (c).  In the February 2024 rating decision, the AOJ found that the Veteran has been diagnosed with other specified personality disorder.  Therefore, the Board will not overturn this favorable finding of fact.
+
+Turning to the medical evidence, a VA examination opinion was obtained in January 2023.  The examiner opined that the claimed condition was less likely than not incurred in or caused by the claimed in-service injury, event, or illness.  
+
+In reaching this rationale, the examiner noted the Veteran does not have a current mental disorder diagnosis that meets the DSM criteria.  The Veteran does show some distress and sleep impairment, but these do not appear disproportionate to his psychosocial stressors.  Additionally, available evidence is less likely than not consistent with the occurrence of the MST stressor event.  The Veteran reported considerable adjustment, occupational, and social problems in the military linked to his criminal charges.  
+
+During the examination, the Veteran reported that the behaviors underlying those charges began in spring 2020 (predating the reported MST incident).  
+
+The Veteran did have an STI screening, but it is not temporally proximate to the reported to the reported MST incident.  There are no mental health records to support the contention of increased symptomatology around the time of the reported incident.  He self-reported an increase in these symptoms and the break-up of a primary relationship, but these are insufficient markers absent additional factors.  
+
+To insure that the duty to assist was met, another VA examination opinion was obtained in February 2024.  The examiner opined that the claimed condition was less likely than not incurred in or caused by the claimed in-service injury, event, or illness.  The February 2024 examiner noted a current diagnosis of other specified personality disorder.  For their rationale, they noted there is no evidence in the Veteran's claims file to indicate that he was diagnosed with or treated for anxiety during his military service.  Furthermore, the Veteran's anxiety symptoms are subsumed under his other specified personality disorder.    
+
+The February 2024 VA examiner also noted that the Veteran presented with notable mix cluster B personality disorder features, and that symptom magnification was present.  The Veteran's other specified personality disorder is a condition with its origin and psychosocial development during childhood, adolescence, and early adulthood, and is unrelated to his military service.  
+
+Taken together, the January 2023 and February 2024 VA examiners' opinions establish that the Veteran's acquired psychiatric disorder (if any) is not at least as likely as not related to an in-service injury, event, or disease, including MST.  The January 2023 VA examiner opined that the Veteran does not have a current psychiatric disorder, while the February 2024 VA examiner opined that the Veteran's other specified personality disorder was not at least as likely as not related military service.  
+
+The examiners' combined opinion is probative, because it is based on an accurate medical history and provides an explanation that contains clear conclusions and supporting data.  Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008).
+
+The Veteran believes the claimed psychiatric disorder is related to an in-service injury, event, or disease.  The Veteran in this case is not competent to provide a nexus opinion regarding this issue.  The issue is medically complex, as it requires knowledge pathology and interpretation of complicated medical diagnostics.  Therefore, it is outside the competence of the Veteran in this case because the record does not show that the Veteran has the medical training or credentials to make such a determination.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 n.4 (Fed. Cir. 2007); see also Kahana v. Shinseki, 24. Vet. App. 428 (2011).  Consequently, the Board gives more probative weight to the January 2023 and February 2024 VA examiners' opinions.
+
+It is important for the Veteran to understand that the medical findings provide highly probative evidence against the claim that the Board cannot, unfortunately, ignore. 
+
+In addition, service connection may not be awarded for personality disorders.  A personality disorder is not a disease or injury within the meaning of applicable legislation for disability compensation purposes.  See 38 C.F.R. §§ 3.303 (c), 4.9, 4.127; Sabonis v. Brown, 6 Vet. App. 426, 430 (1994).
+
+Service connection may be granted in limited circumstances for disability due to aggravation of a personality disorder by superimposed disease or injury.  See VAOPGCPREC 82-90; Carpenter v. Brown, 8 Vet. App. 240, 245 (1995); Monroe v. Brown, 4 Vet. App. 513, 514-15 (1993).  No superimposed disease or injury are shown in this case.
+
+The record does not contain any etiological opinions or suggestions that relate or attribute the Veteran's current mental health conditions, including anxiety, to active service.  Furthermore, the February 2024 VA examiner noted the Veteran's anxiety symptoms are subsumed under his other specified personality disorder.    
+
+Accordingly, entitlement to service connection for an acquired psychiatric disability is denied.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304. 
+
+ 
+
+ 
+
+John J. Crowley
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Cochran, Laura
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

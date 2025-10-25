@@ -1,0 +1,75 @@
+Citation Nr: A25033191
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240726-457792
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for headaches secondary to depressive disorder is granted.
+
+FINDING OF FACT
+
+The Veteran's headaches are the result of his service-connected depressive disorder.
+
+CONCLUSION OF LAW
+
+The criteria for secondary service connection for headaches have been met. 38 U.S.C. § 1110; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from May to November 2000 and from February 2003 to March 2004. 
+
+The Agency of Original Jurisdiction (AOJ) issued a rating decision denying the Veteran's claim for service connection for headaches in November 2022 which constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In July 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the issue of entitlement to service connection for headaches most recently addressed in the November 2022 rating decision.  In August 2023, the AOJ issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision.  
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the August 2023 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Except as discussed below, neither the Veteran nor his representative has raised any issues with the duty to notify or duty to assist. See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015) (holding that "the Board's obligation to read filings in a liberal manner does not require the Board . . . to search the record and address procedural arguments when the veteran fails to raise them before the Board."); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016) (applying Scott to duty-to-assist argument).
+
+Entitlement to service connection for headaches
+
+The Veteran contends that his headaches are caused by his depressive disorder. Specifically, the Veteran reports: "I frequently experience stress, anxiety, tension, mood swings, and emotional outbursts. I have noticed that I get headaches when these symptoms are at their worst. My headaches occur weekly." September 2022 Statement. 
+
+The August 2023 rating decision denied service connection for headaches based on the findings of the previous November 2022 rating decision and after having obtained a medical opinion addressing whether there was a connection between the Veteran's in-service toxic exposure risk activities (TERA). The August 2023 rating decision found, based on the results of an August 2023 medical opinion, that the Veteran's headaches were not due to his in-service TERA. In making this finding, the AOJ also favorably found that the claimed primary disability is a service-connected disability as the Veteran is service-connected for depressive disorder, and that he has a current disability, as a VA Examination dated September 27, 2022, diagnosed him with nonspecific headaches. The August 2023 rating decision did not mention or apparently take into consideration the July 2023 private medical opinion submitted by the Veteran along with his July 2023 supplemental claim. 
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303. 
+
+Service connection is also warranted for disability proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310(a). Such secondary service connection is warranted for any increase in severity of a nonservice-connected disability that is proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310(b); see also Spicer v. McDonough, 61 F.4th 1360, 1365-66 (Fed. Cir. 2023) (holding all that is needed is a "but for" causation or aggravation to show entitlement to secondary service connection).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the Veteran. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+In this case, VA has conceded that the Veteran has a current headache disability, and that he is service-connected for the claimed primary disability of depressive disorder. The issue to be determined is whether the Veteran's headaches are due to his service, particularly as the result of his service-connected depressive disorder. The record contains four medical opinions addressing the issue of a nexus, two of which specifically address whether the Veteran's headaches are due to his depressive disorder. 
+
+A September 2022 VA medical opinion concluded that the Veteran's headaches are less likely than not proximately due to or the result of his depressive disorder, with the rationale that his "headaches appear more related to sinusitis in the past as well as untreated sleep apnea[, and] there is no evaluation of headaches found in the records provided." (The Board notes that at that time the Veteran's sinusitis had already been determined to be service-connected; his sleep apnea disability was later determined service-connected, effective November 12, 2021, in an October 2023 AOJ rating decision.) Although the September 2022 medical opinion was signed on September 27, 2022, and based on a review of records done on September 19, 2022, it does not note or take into account the Veteran's statement submitted in support of his service connection claim for headaches on September 9, 2022. 
+
+The AOJ then obtained a VA medical opinion in October 2022 regarding the issue of whether the Veteran's headaches were due to his service-connected sinusitis, which was raised by the September 2022 VA medical opinion. The October 2022 medical opinion did not find a nexus between the Veteran's headaches and his sinusitis, with the following rationale:
+
+The Veteran has a service connected diagnosis of chronic sinusitis. The Veteran also has a diagnosis of headaches. The Veteran had a C&P exam dated 2013 which included the diagnosis of chronic sinusitis with onset in 2003 and no headaches. There was a DBQ in 2021 which also documented no headaches with the sinusitis.  Current exam documents headaches in the mornings and associated with OSA and sinus conditions. The headaches are not consistent with sinus headaches. Therefore, based on the body of current medical knowledge and the evidence of record it is my medical opinion that the Veteran's headaches were less likely than not (50 percent or greater probability) proximately due to or the result of: chronic sinusitis.
+
+Based on the September and October 2022 negative nexus opinions, the AOJ denied service connection for headaches in the November 2022 rating decision. The Veteran submitted a supplemental claim in July 2023. Prior to adjudicating the Veteran's supplemental claim and in compliance with the PACT Act, the AOJ obtained a VA medical opinion in August 2023 to address whether the Veteran's headaches were related to his in-service TERA. The August 2023 opinion noted the Veteran's medical history and reviewed the file but found no connection with his in-service TERA, with the following rationale: 
+
+Headaches can be due to a variety of factors. The vast majority of headache are idiopathic with completely unexplained causes. The condition is occasionally vascular in nature, hormonal, emotional, genetic, medication related, due to brain lesions/masses or many other causes. I see no supportive documentation in the e-file or the evidence specifically noted above to support such a connection. There is no evidence in the efile to attribute the condition to any one particular cause nor is there documentation to show that headaches began in deployment or as a result of deployment to include exposure events. Correlation to the suspected exposure is not objectively supported by the efile, medical literature or the job aids.
+
+In a July 2023 private medical opinion submitted by the Veteran along with his supplemental claim, the private clinician found, after a review of the evidence, that "[i]t is at least as likely as not (a 50%/50% probability) that the veteran's current Nonspecific Headaches condition is secondary to, related to, and/or aggravated by his service-connected Depressive Disorder." The private clinician noted the Veteran's credible lay statement in support of his claim, and cited medical literature explaining how persons with "psychiatric abnormalities compromising homeostasis" can experience headaches as a result of stressors. She also noted medical literature documenting the association between mental health disorders and the development of headaches. 
+
+There are, therefore, two medical opinions of record addressing whether the Veteran's headaches are secondary to his depressive disorder. The September 2022 medical opinion, despite quoting extensively from the evidence of record and the Veteran's lay statements regarding his other disabilities, does not consider or address the Veteran's lay statement regarding his headaches that was of record at the time of the September 2022 VA examination and medical opinion. Therefore, the Board affords it minimal probative weight. See Reonal v. Brown, 5 Vet. App. 458, 461 (1993) (holding that the Board may reject a medical opinion that is based on inaccurate facts). The July 2023 private medical opinion, on the other hand, takes the relevant evidence into account and further describes medical literature supporting the positive nexus between the Veteran's depressive disorder and his headaches.
+
+Based on the foregoing, the Board finds that the competent and credible evidence persuasively weighs in favor of finding that entitlement to service connection for headaches secondary to depressive disorder is warranted. The claim is granted.
+
+ 
+
+ 
+
+S. Kim
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	R. West
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

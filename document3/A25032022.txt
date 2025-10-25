@@ -1,0 +1,65 @@
+Citation Nr: A25032022
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 241226-504169
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for the cause of the Veteran's death is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran died in April 2023. His death certificate lists the cause of death as cerebral edema herniation, intercranial hemorrhage, and blunt trauma (mechanism unknown).
+
+2. He was not service connected for any disabilities at the time of his death.
+
+3. The evidence of record does not show that his death was related to or the result of his military service.
+
+CONCLUSIONS OF LAW
+
+The criteria are not met for service connection for Veteran's cause of death.  38 U.S.C. §§ 1101, 1110, 1310, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309, 3.312.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Air Force from September 1958 to May 1982.  Unfortunately, he passed away in April 2023.  The Appellant is his surviving spouse, or widow.
+
+The local Regional Office (RO), as the Agency of Original Jurisdiction (AOJ), denied the Appellant's claim in a December 2024 rating decision.  In response, she subsequently submitted a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement (NOD)) that same month, timely appealing that decision and selected the "evidence submission" docket.  38 C.F.R. § 20.202.  Thus, the Board's consideration of the claim is limited to the evidence of record at the time of the rating decision on appeal plus any additional evidence submitted with the December 2024 VA Form 10182 (AMA NOD) or within the permissible 90-day "grace period" following the Appellant's election on that VA Form 10182 of the evidence submission option.  38 C.F.R. § 20.303.
+
+The Board notes that under the modernized system, Appellants generally have a year to request to change dockets.  See Williams v. McDonough, 37 Vet. App. 305 (2024).  However, as the Appellant's appeal has been advanced on the docket at her request given her medical condition and her age, the Board finds she desires a decision as soon as practicable, and therefore will address her claim.
+
+1. Entitlement to service connection for the cause of the Veteran's death.
+
+To establish service connection for the cause of the Veteran's death, the evidence must show that a disability incurred in or aggravated by active service was either the principal or contributory cause of death.  To constitute the principal cause of death, the service-connected disability must be one of the immediate or underlying causes of death or be etiologically related to the cause of death.  38 C.F.R. § 3.312(b).  To be a contributory cause of death, the evidence must show that the service-connected disability contributed substantially or materially to the cause of death, or that there was a causal relationship between the service-connected disability and the Veteran's death.  38 C.F.R. § 3.312(c).  To be a contributory cause of death, the service-connected disability must be shown to have combined with the principal cause of death, that it aided or lent assistance to the cause of death.  It is not sufficient to show that it casually shared in producing death.  A causal relationship must be shown.  38 C.F.R. § 3.312.
+
+The Veteran died in April 2023.  His death certificate lists cerebral edema herniation, intercranial hemorrhage, and blunt trauma (mechanism unknown) as his cause of death.  The Veteran was not service connected for any disabilities at the time of his death.
+
+In order for the cause of the Veteran's death to be service connected, there must be indication the condition started during his service, within a year of his discharge, or is otherwise related or attributable to his service.  See Watson v. Brown, 4 Vet. App. 309, 314 (1993) ("A determination of service connection requires a finding of the existence of a current disability and a determination of a relationship between that disability and an injury or a disease incurred in service.").  And unfortunately, the Board finds that in this critical respect, the evidence of record is against this notion, so the claim must be denied.
+
+There is no probative (meaning competent and credible) evidence that the Veteran's cerebral edema herniation, intercranial hemorrhage, and blunt trauma (mechanism unknown) was related directly to any event, injury, or disease during his service.  In addition, the Veteran's service treatment records (STRs) are entirely unremarkable for any complaints, treatment, or diagnoses referable to these conditions.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.303. 
+
+On the contrary, the Veteran's death certificate notes that the Veteran fell in a parking lot and hit his head and determined that the manner of his death was accidental.  Consequently, there is no probative evidence in the record suggesting the Veteran's cerebral edema herniation, intercranial hemorrhage, and blunt trauma (mechanism unknown) was incurred or aggravated during his service or was otherwise etiologically related or attributable to his service. 
+
+In response to service connection claims, VA must provide a VA medical examination when there is: (1) competent evidence of a current disability or persistent or recurrent symptoms of a disability; (2) evidence establishing that an event, injury, or disease occurred in service, or establishing that certain diseases manifested during an applicable presumptive period for which the claimant qualifies; and (3) an indication the disability or persistent/recurrent symptoms of a disability may be associated with the Veteran's service or with a service-connected disability; but (4) there is insufficient competent medical evidence on file for the Secretary to make a decision on the claim.  McLendon v. Nicholson, 20 Vet. App. 79, 81 (2006); see also 38 U.S.C. § 5103A(d)(2); 38 C.F.R. § 3.159(c)(4)(i).
+
+However, the Board notes that a VA medical opinion is not necessary in this case.  See McLendon, 20 Vet. App. at 79.  Under McLendon, a VA examination is warranted where the record does not contain sufficient information to make a decision on the claim.  Id.  Given the AMA, the RO's decision not to provide a VA examination must be a pre-decisional duty to assist error.  That is not the case here.  Rather, the information of record reflects there is no causation element to the Appellant's cause of death service connection claim.  As noted above, a VA medical opinion would not alter the Board's conclusions on this point, and it is not pre-decisional duty to assist error given the lack of contentions suggesting a causal relationship exists.  Therefore, even under the low threshold of McLendon, a VA medical opinion for this claim is not warranted.
+
+Accordingly, the Board finds that the elements of service connection have not been met.  The most probative evidence, particularly the medical evidence, does not demonstrate that the Veteran's cause of death is related to his military service.  38 C.F.R. § 3.303(d).
+
+The Board notes that the Appellant may file a Supplemental Claim and submit or identify new evidence indicating or suggesting there is a relationship between the Veteran's death and his military service.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+The Board is sympathetic to the Appellant's assertions and grateful for the Veteran's service, but the Board is bound and constrained by law, and its decision is dictated by the relevant statutes and regulations.  Moreover, the Board is without authority to grant benefits simply because it might perceive such a grant to be equitable.  38 U.S.C. §§ 503, 7104; Harvey v. Brown, 6?Vet. App.?416, 425 (1994).  "[N]o equities, no matter how compelling, can create a right to payment out of the United States Treasury that has not been provided for by Congress."  See Smith v. Derwinski, 2?Vet. App.?429, 432-33 (1992). 
+
+The Board finds that the evidence of record persuasively weighs against the claim for service connection for the Veteran's cause of death.  As such, the claim must be denied.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.  This is not a situation where the evidence for or against the claim is in approximate balance and the benefit of the doubt doctrine is not for application.  See Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+ 
+
+Colleen M. Glaser-Allen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Mukherjee, C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

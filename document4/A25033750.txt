@@ -1,0 +1,113 @@
+Citation Nr: A25033750
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240524-444234
+DATE: April 11, 2025
+
+ORDER
+
+The reduction of the rating for a lumbosacral strain with lumbar spondylosis from 40 to 20 percent effective November 3, 2021, was proper; restoration of the 40 percent rating is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran served on active duty from September to November 2000; he has been 100 percent disabled since September 2023, plus in receipt of special monthly compensation (SMC).
+
+2. The February 2022 rating decision reducing the rating for a low back disability from 40 to 20 percent met all due process requirements; the 40 percent rating had been in effect for less than 5 years.
+
+3. The reduction was properly based on improvement in the Veteran's ability to function under the ordinary conditions of life and work; at the time of the reduction, range of motion (ROM) at worse showed forward flexion to 35 degrees, extension to 5 degrees, right and left lateral flexion at 10 degrees, and right and left lateral rotation to 10, with a combine ROM of at worse 80.
+
+CONCLUSION OF LAW
+
+The criteria for restoration of a 40 percent rating for a lumbosacral strain with lumbar spondylosis has not been met. 38 U.S.C. § 5112 (2012); 38 C.F.R. §§ 3.105, 3.343-3.344 (2024).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+This decision has been written under the guidelines of the Veterans Appeals Improvement and Modernization Act, also known as the Appeals Modernization Act (AMA). In February 2022, the agency of original jurisdiction (AOJ) reduced the rating from 40 percent to 20 percent effective November 3, 2021. In February 2023, the Veteran requested a Higher-Level Review (HLR). In May 2023, the AOJ again denied the claim, which considered the evidence of record at the time of the February 2022 decision.  
+
+In May 2024, the Veteran appealed to the Board via a VA Form 10182 and elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal. 38 C.F.R. § 20.301.
+
+Notably, additional evidence was associated with Veteran's file, including medical evidence related to the lumbosacral strain, after the February 2022 rating decision; however, the Board is not able to consider that evidence in this appeal. If he wishes to file a Supplemental Claim so that this evidence can be considered, he can do so at the AOJ.
+
+Turning to the relevant laws and regulations, where a rating has been in effect less than five years, as is the case here, a rating reduction is warranted where reexamination of the disability discloses actual improvement of that disability. 38 C.F.R. § 3.344(c). The evidence must reflect an actual change in the veteran's condition and not merely a difference in the thoroughness of the examination or in the use of descriptive terms. 38 C.F.R. § 4.13.
+
+The evidence must show that the improvement in disability actually reflects an improvement in the veteran's ability to function under the ordinary conditions of life and work. 38 C.F.R. §§ 4.2, 4.10. Further, rating reduction cases must be based upon a review of the entire history of the veteran's disability. 38 C.F.R. §§ 4.1, 4.2; Brown v. Brown, 5 Vet. App. 413, 420 (1993).
+
+Historically, in July 2021, the AOJ granted service connection for a lumbosacral strain and assigned an initial 40 percent rating with an effective date of January 7, 2021, the date of a Supplemental Claim. This rating was essentially based on the findings from a June 2021 VA examination. Therefore, the rating has been in effect for less than 5 years.
+
+In October 2021, the Veteran filed a claim for a total disability rating based on individual unemployability (TDIU). As a result, another VA examination was scheduled to evaluate the low back disability. 
+
+Following a VA examination in November 2021, the AOJ reduced the rating from 40 percent to 20 percent in a February 2022 rating decision, effective November 3, 2021 (the date of the VA examination). As the rating reduction did not affect the overall combined rating for the Veteran's disabilities (already at 100 percent), the AOJ was not required to propose a reduction in the first instance prior to reducing the rating. 
+
+Turning to the ratings for the low back disability, lumbosacral spine disabilities are rated under the General Rating Formula for Rating Diseases and Injuries of the Spine (General Rating Formula). 38 C.F.R. § 4.71a, DCs 5237-5243. The Veteran's lumbosacral strain with lumbar spondylosis is rated under DCs 5237-5242.
+
+A 40 percent rating is warranted when the objective medical evidence shows the following:
+
+o	forward flexion of the thoracolumbar spine 30 degrees or less;
+
+o	favorable ankylosis of the entire thoracolumbar spine;
+
+o	incapacitating episodes of intervertebral disc syndrome (IVDS) having a total duration of at least 4 weeks but less than 6 weeks during the past 12 months.
+
+A 20 percent rating is warranted when the objective medical evidence shows the following:
+
+o	forward flexion of the thoracolumbar spine greater than 30 degrees but not greater than 60 degrees;
+
+o	combined range of motion of the thoracolumbar spine not greater than 120 degrees;
+
+o	muscle spasms or guarding that is severe enough to result in an abnormal gait or abnormal spinal contour, such as scoliosis, reversed lordosis, or abnormal kyphosis; 
+
+o	incapacitating episodes of IVDS having a total duration of at least 2 weeks but less than 4 weeks during the past 12 months;
+
+o	or, in the absence of limitation of motion, degenerative arthritis with x-ray evidence of involvement of 2 or more major joints or 2 or more minor joint groups with occasional incapacitating exacerbations. 
+
+Turning to the medical evidence, the June 2021 VA examiner indicated the Veteran reported difficulty with prolonged walking, standing, and ascending and descending stairs. The lumbar spine disability caused daily flare-ups with constant stabbing and sharp pain of moderate severity.
+
+During testing, the Veteran reported pain in every ROM movement. The pain associated with active, weight-bearing, repeated use, repetitive use over time, and flare-ups had a functional impact. The examiner observed guarding, localized tenderness, and noted muscle spasms, none of which resulted in an abnormal gait.
+
+Specifically, the examiner noted an initial ROM testing of forward flexion at 30 degrees (estimated ROM for repeated use over time and flare-ups 25 degrees), extension at 10 degrees (5 degrees), right lateral flexion at 15 degrees (10 degrees), left lateral flexion at 15 degrees (10 degrees), right lateral rotation at 10 degrees (5 degrees), and left lateral rotation at 10 degrees (5 degrees) with a combined ROM measurement of thoracolumbar spine of 90 degrees (estimated ROM for repeated use over time and flare-ups combined 60 degrees).
+
+The Veteran displayed normal reflexes but showed slightly reduced muscle strength in his hips, knees, ankles, and great toes on both sides along with decreased sensation in the same areas.
+
+In sum, the June 2021 examiner concluded the lumbosacral disability caused functional impact as a result of the reduced ability for prolonged walking and standing. Importantly, the forward flexion ROM was at worse to 25 degrees (estimated ROM repeated use and flare-ups) with a combined ROM at worse to 60 degrees. These measurements were consistent with a 40 percent rating.
+
+In comparison, the November 2021 examiner indicated the Veteran reported difficulty with prolonged walking, standing, and ascending and descending stairs. The lumbar spine disability caused daily flare-ups with constant stabbing and sharp pain of moderate severity.
+
+During ROM testing, the Veteran reported pain in every ROM movement. The pain associated with active, weight-bearing, repeated use, repetitive use over time, and flare-ups had a functional impact. The examiner observed guarding and localized tenderness, neither of which resulted in an abnormal gait, but noted no muscle spasms.
+
+The examiner noted initial ROM testing of forward flexion at 40 degrees (estimated ROM for repeated use over time and flare-ups 35 degrees), extension at 10 degrees (5 degrees), right lateral flexion at 15 degrees (10 degrees), left lateral flexion at 15 degrees (10 degrees), right lateral rotation at 15 degrees (10 degrees), and left lateral rotation at 15 degrees (10 degrees) with a combined ROM measurement of thoracolumbar spine of 110 degrees (estimated ROM for repeated use over time and flare-ups combined 80 degrees).
+
+The Veteran exhibited hypoactive reflexes in the knees and ankles, slightly reduced muscle strength in the hips and knees, but normal strength in the ankles and great toe, and decreased sensation in the lower leg, ankles, feet, and toes but normal sensation in the upper legs, thighs, and knees.
+
+In sum, the November 2021 examiner concluded the lumbosacral disability caused functional impact as a result of the reduced ability to lift objects, walk, and stand. The forward flexion ROM was between 35 degrees (estimated repeated use and flare-ups) and 40 degrees with combined ROM between 80 degrees (estimated ROM repeated use and flare-ups) and 110 degrees. These measurements were consistent with a 20 percent rating.
+
+Notably, neither the June nor November 2021 VA examiners diagnosed the Veteran with IVDS or favorable ankylosis of the thoracolumbar spine, and a rating based on those diagnoses is inapplicable. 
+
+The subjective complaints regarding pain and functional impact were similar between the June and November 2021 VA examinations; however, the objective evidence provided by the VA examiners, particularly the ROM measurements, demonstrate a material improvement in the Veteran's disability. 
+
+A review of VA medical records revealed no treatment for the lumbosacral or lumbar spine area during the appeal period. Private treatment records reflect the Veteran had been involved in a motor vehicle accident in October 2020 in which a ladder fell of a truck and struck him in the left shoulder. The accident caused some neck and back pain and he underwent an MRI and physical therapy, which appears to have resolved the symptoms. Otherwise, there is no medical evidence that is inconsistent with the VA examinations' conclusions and findings.
+
+Next, while some neurologic deficiencies, i.e., bilateral lower extremity radiculopathy, were found, the Veteran is separately service-connected and compensated for radiculopathy of the bilateral lower extremities. As such, no additional consideration for the symptoms, including pain, for radiculopathy has been considered in this appeal. 
+
+Therefore, the medical evidence reflected a material improvement in over-all functioning and the medical evidence, including the clinical records, reflect that the Veteran did not otherwise seek treatment for a low back disability suggesting that the symptoms had improved.
+
+The Board has considered the Veteran's contention that his disability should not be reduced. While he is competent to report symptoms because this requires only personal knowledge as it comes through the senses, he is not competent to identify a specific level of disability of this disorder according to the appropriate diagnostic codes.
+
+Such competent evidence concerning the nature and extent of the Veteran's lumbosacral strain has been provided by the medical personnel who have examined him during the current appeal and who have rendered pertinent opinions in conjunction with the evaluations. The medical findings (as provided in the examination reports and other clinical evidence) directly address the standards used in reducing the disability.  
+
+As such, these records are more probative than the Veteran's subjective complaints of symptomatology. In sum, after considering the totality of the record, the reduction from 40 percent to 20 percent as of November 3, 2021, was proper as actual improvement in the disability was demonstrated by the November 2021 VA examination. Therefore, the evidence does not support the appeal. Restoration of the 40 percent rating for a lumbosacral strain is not warranted, and the appeal is denied.
+
+Finally, the Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record, for the Board's consideration.  See Doucette v. Shulkin, 28 Vet. App. 366, 369-370 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).
+
+ 
+
+ 
+
+L. HOWELL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B. J. Ferguson, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

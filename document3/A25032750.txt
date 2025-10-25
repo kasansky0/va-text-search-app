@@ -1,0 +1,87 @@
+Citation Nr: A25032750
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240722-458507
+DATE: April 9, 2025
+
+ORDER
+
+Service connection for sleep apnea (also claimed as respiratory condition) is denied.
+
+FINDINGS OF FACT
+
+1. The evidence shows a current diagnosis of obstructive sleep apnea (OSA). 
+
+2. There were no respiratory injuries, diseases, or sleep apnea symptoms during service. 
+
+3. The current OSA diagnosis is not etiologically related to service. 
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA have not been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran, who is the appellant, served on active duty from June 1979 to June 1999.
+
+This matter is before the Board of Veterans' Appeals (Board) from a November 2023 Department of Veterans Affairs (VA) Regional Office (RO) rating decision.
+
+By way of procedural history, the Veteran filed a claim for service connection for sleep apnea (also claimed as respiratory condition) in January 2022.  A May 2022 rating decision denied service connection for sleep apnea.  The Veteran filed a higher-level review request in March 2023, and a subsequent June 2023 rating decision found a duty to assist error requiring further development of the claim.  A November 2023 rating decision again denied service connection for sleep apnea. 
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket; therefore, the Board may only consider the evidence of record at the time of the November 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection Legal Authority
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).  Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).  Service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in service disease or injury and the current disability.
+
+On August 10, 2022, the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act) was enacted. Section 303 of this law provides that if a Veteran submits a claim for service connection with evidence of disability and evidence of participation in a toxic exposure risk activity (TERA), then VA must provide the Veteran with a medical examination and secure a medical opinion as to whether it is at least as likely as not that there is a nexus between the disability and the TERA.  Pub. L. 117-168, § 303, 38 U.S.C. § 1168(a).  Pursuant to the PACT Act, where the Veteran alleges exposure to several toxins, an examination is adequate if it includes consideration of the total potential exposure through the Veteran's military deployment(s) and the combined effect of all of the toxic exposures cited by the Veteran.
+
+In addition, the PACT Act added locations for a presumption of exposure to herbicide agents during the Vietnam Era.  Specifically, these locations include: Any U.S. or Royal Thai military base in Thailand from January 9, 1962, through June 30, 1976, or Laos from December 1, 1965, through September 30, 1969, or Cambodia at Mimot or Krek, Kampong Cham Province from April 16, 1969, through April 30, 1969, or Guam or American Samoa or in the territorial waters off Guam or American Samoa from January 9, 1962, through July 31, 1980, or Johnston Atoll or on a ship that called at Johnston Atoll from January 1, 1972, through September 30, 1977.
+
+The PACT Act provides presumptions of service connection for certain respiratory disabilities for veterans affected by exposure to burn pits and other toxins, including asthma, respiratory cancer of any type, chronic bronchitis, chronic obstructive pulmonary disease, constrictive bronchiolitis or obliterative bronchiolitis, emphysema, granulomatous disease, interstitial lung disease, pleuritis, pulmonary fibrosis, sarcoidosis, chronic sinusitis, and chronic rhinitis. See 38 U.S.C. § 1120(b).  
+
+Service personnel records indicated the Veteran had overseas service on Johnston Island (Johnston Atoll) from December 6, 1986 to December 9, 1987, and in Germany from March 24, 1992 to September 22, 1994.  The Veteran served on Johnston Atoll after the September 30, 1977; therefore, the PACT act presumptions of herbicide exposure do not apply. 
+
+The evidence shows a current diagnosis of OSA, which is not listed as a "chronic disease" under 38 C.F.R. § 3.309(a); therefore, the "chronic disease" presumptive provisions of 38 C.F.R. § 3.303(b) do not apply to this disorder.
+
+OSA is not listed as a disease for which presumptive service connection based on exposure to herbicide agents may be granted.  38 C.F.R. § 3.309(e).  VA's Secretary has determined that a presumption of service connection based on exposure to herbicides used in the Republic of Vietnam during the Vietnam era is not warranted for any condition for which the Secretary has not specifically determined a presumption of service connection is warranted.  See 68 Fed. Reg. 27, 630 (May 20, 2003).
+
+Notwithstanding the foregoing presumption provisions for herbicide exposure, a claimant is not precluded from establishing service connection with proof of direct causation.  Combee v. Brown, 34 F.3d 1039, 1042 (Fed. Cir. 1994); see also Ramey v. Gober, 120 F.3d 1239, 1247-48 (Fed. Cir. 1997), aff'g Ramey v. Brown, 9 Vet. App. 40 (1996); Brock v. Brown, 10 Vet. App. 155, 160-61 (1997).
+
+Service connection for sleep apnea is denied.
+
+The Veteran contends that the current OSA is related to exposure to agent orange or plutonium while stationed on Johnston Island.  See January 2022 VA Form 21-526EZ.  The Veteran further contends that OSA symptoms, including extreme dry mouth, started in the later years of active duty, and the symptoms have worsened over the past few years.  See July 2023 statement of Veteran.  
+
+The November 2023 rating decision made the favorable finding that there was a current diagnosis of sleep apnea, based on a July 2021 sleep study.  The Board is bound by favorable findings made by the AOJ in the absence of evidence of clear and unmistakable error.  38?C.F.R. §?3.104(c).  The Board notes that specific diagnosis was obstructive sleep apnea.  See VA treatment records August 2021. 
+
+As the facts of this case do not support presumptive service connection, the question becomes whether the OSA is directly caused by service.  The persuasive weight of the lay and medical evidence demonstrates that there was no respiratory injury, disease, or event in service, to include exposure to herbicide agents and plutonium, and there was not an onset of OSA symptoms during service.  The record shows that all complaints of sleep symptoms in service were in the context of treatment for other acute illnesses.  In August 1986, treatment was for bronchitis, and the Veteran requested something to help him sleep.  In January 1987, treatment was for obstructed nasal passages, at which time he reported problems breathing, especially at night, for the past four weeks since arriving on Johnston Island.  In January 1993, the Veteran reported sinus problems with difficulty sleeping due to sinusitis draining in the throat, which woke him up.  In April 1994, again there was sinus treatment, with reported symptoms of difficulty sleeping and swallowing for four days, and difficulty breathing at night from sinuses.  Service treatment records indicated that in service in periodic health assessments the Veteran denied frequent trouble sleeping.  See VA treatment records May 1979, December 1986, May 1987, and February 1999.  Report of Medical Examinations showed no chest or lung problems, including at retirement from service.  See service treatment records May 1979, December 1984, July 1985, March 1993, and February 1999.  
+
+Post-service treatment records indicated the Veteran denied sleep apnea at a pre-operation evaluation in June 2014.  Later post-service treatment records beginning in December 2020 (21 years after service) indicated possible sleep apnea.  In June 2021, the assessment was a high risk for OSA, at which time the Veteran reported, "I'd like to be evaluated for sleep apnea, my wife says I stopped breathing in my sleep & I snore like a train."  The Veteran was diagnosed with obstructive sleep apnea in August 2021 following a sleep study.  
+
+Because the service treatment records are complete, the Veteran received in-service treatment for various medical ailments such as sinus problems, right foot, lower back pain, right shoulder, and degenerative disc disease throughout service with no report or complaint of sleep apnea symptoms, the chest and lungs were clinically evaluated at the February 1999 service separation examination and determined to be normal, and the Veteran did report breathing problems on various occasions that were all related to acute illnesses that were not sleep apnea, the Board finds that sleep apnea is a condition that would have ordinarily been recorded during service, if it had been present; therefore, the lay and medical evidence contemporaneous to service showing no sleep apnea symptoms, diagnosis, or treatment is of significant probative value and weighs against a finding of a relevant respiratory injury or disease or OSA symptoms during service.  See Buczynski v. Shinseki, 24 Vet. App. 221, 224 (2011) (citing Fed. R. Evid. 803(7) for the proposition that the absence of an entry in a record may be evidence against the existence of a fact if it would ordinarily be recorded); see also Fed. R. Evid. 803(7) (indicating that the absence of an entry in a record may be evidence against the existence of a fact if such a fact would ordinarily be recorded).
+
+The Board has considered the Veteran's general contentions that he was exposed to herbicide agents and plutonium while stationed on Johnston Island.  However, the record shows that the Veteran did not participate in toxic exposure risk activities (TERA).  See June 2023 TERA Memorandum; see also June 2023 Individual Longitudinal Exposure Record (ILER).  The military occupational specialty (MOS) of motor sergeant while on Johnston Island is inconsistent with plutonium exposure.  
+
+The persuasive weight of the evidence is against finding that sleep apnea was etiologically related to service.  The evidence shows no sleep apnea symptoms until approximately 2020 (i.e., 21 years after service separation).  The earliest evidence of a sleep apnea diagnosis confirmed by a sleep study was shown in 2021, over 20 years after service separation.  Considered together with the lay and medical evidence contemporaneous to service showing no sleep apnea symptoms, the approximate 21-year period between service separation in 1999 and the onset of sleep apnea symptoms approximately in 2020 is an additional factor that weighs against service incurrence.  See Buchanan v. Nicholson, 451 F.3d 1336 (Fed. Cir. 2006) (the lack of contemporaneous medical records is one fact the Board can consider and weigh against the other evidence, although the lack of such medical records does not, in and of itself, render the lay evidence not credible); see also Maxson v. Gober, 230 F.3d 1330, 1333 (Fed. Cir. 2000) (the passage of many years between discharge from active service and complaint of a claimed disability is one factor to consider as evidence against a claim of service connection).
+
+The Veteran was not provided with a VA medical opinion for the issue of service connection for OSA.  The weight of the evidence demonstrates no relevant injury during service, no relevant disease during service, and no event during service, to include OSA symptoms; rather, the weight of the evidence shows that the OSA was manifested many years after service, and shows that the reported breathing symptoms during service were caused by acute illnesses that were treated and not chronic during service.  There is no reasonable possibility that a VA opinion could aid in substantiating the current claim for service connection without being speculative because any purported opinion would be an attempt to relate a current disorder to an in-service injury or disease of sleep apnea or symptoms of sleep apnea during service that in fact (based on the weight of the evidence) did not occur during service or for 20 years after service.  VA adjudications are to be based on evidence that shows some probability and are not to be based on "pure speculation or remote possibility."  38 C.F.R. 3.102.  
+
+Any medical opinion that purported to provide a nexus between current OSA and military service would necessarily be based on an inaccurate history regarding what occurred in service, as it would have to assume the occurrence of respiratory injury, disease, or sleep apnea symptoms during service, so would be of no probative value.  The Court has held on a number of occasions that a medical opinion premised upon an unsubstantiated account of a claimant is of no probative value.  See, e.g., Swann v. Brown, 5 Vet. App. 229, 233 (1993) (generally observing that a medical opinion premised upon an unsubstantiated account is of no probative value and does not serve to verify the occurrences described). 
+
+For the reasons described above, the Board finds that the persuasive weight of the lay and medical evidence is against the appeal for service connection for OSA; therefore, the appeal must be denied. 
+
+ 
+
+ 
+
+J. PARKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Beilsmith, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

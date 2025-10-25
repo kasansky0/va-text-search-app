@@ -1,0 +1,85 @@
+Citation Nr: A25034000
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240604-445860
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for hypothyroidism is denied.
+
+Entitlement to service connection for left lower extremity (LLE) peripheral neuropathy (also claimed as acute and subacute) is denied.
+
+Entitlement to service connection for right lower extremity (RLE) peripheral neuropathy (also claimed as acute and subacute) is denied.
+
+Entitlement to service connection for left upper extremity (LUE) peripheral neuropathy (also claimed as acute and subacute) is denied.
+
+Entitlement to service connection for right upper extremity (RUE) peripheral neuropathy (also claimed as acute and subacute) is denied.
+
+FINDINGS OF FACT
+
+1.  The Veteran's hypothyroidism did not originate during service and is not otherwise etiologically related to any incident of service.
+
+2.  The Veteran's bilateral lower extremity (BLE) peripheral neuropathy did not manifest in service, or for many years thereafter and is not otherwise etiologically related to any incident of service.  
+
+3.  The Veteran's bilateral upper extremity (BUE) peripheral neuropathy did not manifest in service, or for many years thereafter and is not otherwise etiologically related to any incident of service.  
+
+CONCLUSIONS OF LAW
+
+1.  The criteria for service connection for hypothyroidism are not met.  38 U.S.C. §§ 1131, 5107; 38 C.F.R. § 3.303.
+
+2.  The criteria for service connection for BLE peripheral neuropathy are not met.  38 U.S.C. §§ 1131, 5107; 38 C.F.R. § 3.303. 
+
+3.  The criteria for service connection for BUE peripheral neuropathy are not met.  38 U.S.C. §§ 1131, 5107; 38 C.F.R. § 3.303. 
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from February 1982 to February 1985, and from May 1985 to March 1988.
+
+In a May 2024 rating decision, the Agency of Original Jurisdiction (AOJ) confirmed and continued the denials of service connection for hypothyroidism, BLE peripheral neuropathy, and BUE peripheral neuropathy.  The Veteran timely appealed this decision to the Board and requested direct review of the evidence considered by the AOJ.  See VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD).  Therefore, the Board may only consider the evidence of record at the time of the May 2024 rating decision.  38 C.F.R. § 20.301.  
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Service Connection
+
+The Veteran asserts that his hypothyroidism, BLE peripheral neuropathy, and BUE peripheral neuropathy are related to non-deployment related exposure to toxins at Fort McClellan in 1982.  See April 2023 VA Form 20-0995.  He does not otherwise contend that these conditions had their onset during service nor is this shown by the record to be the case.  
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1131; 38 C.F.R. § 3.303(a).  To establish a right to compensation for a present disability, a Veteran must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service - the so-called "nexus" requirement.  Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)).  Service connection may be granted for any disease initially diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Certain chronic diseases are subject to presumptive service connection if manifest to a compensable degree within one year from separation from service even though there is no evidence of such disease during the period of service.  38 U.S.C. §§ 1112, 1113; 38 C.F.R. §§ 3.307(a)(3), 3.309(a).  Continuity of symptomatology may also provide a basis for a grant of service connection for those diseases defined as "chronic" by VA.  38 C.F.R. § 3.303(b); Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+On August 10, 2022, the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxins Act of 2022 (PACT Act) was enacted.  Section 303 of this law provides that, if a Veteran submits a claim for service connection with evidence of disability and evidence of participation in a toxic exposure risk activity (TERA), then VA shall obtain a medical opinion as to whether it is at least as likely as not that there is a nexus between the disability and the toxic exposure risk activity.  38 U.S.C. § 1168.  An August 2023 VA TERA Memo reflects that the Veteran participated in a TERA based on military base exposure to toxins while stationed at Fort McClellan.
+
+hypothyroidism
+
+BLE peripheral neuropathy
+
+BUE peripheral neuropathy
+
+Service treatment records are negative for any complaints of signs or symptoms suggestive of a thyroid condition or peripheral neuropathy prior to the Veteran's separation from service in 1988.  
+
+Likewise, there is no objective evidence of either condition in the immediate years after service.  The earliest objective evidence of any pertinent symptoms or complaints is found in VA treatment records which show peripheral neuropathy since 2016, almost 30 years after service ended, and new-onset hypothyroidism in 2019 three years later.  These treatment records contain no suggestion by clinician commentary or reported medical history that hypothyroidism or peripheral neuropathy originated during military service.  There is also no evidence to suggest their presence prior to the indicated dates of diagnosis.  With the exception of toxin exposure, he has not presented any factors that would explain the gap between service.
+
+There is also no medical opinion linking hypothyroidism or peripheral neuropathy to the Veteran's military service many decades earlier.  Following VA examination in December 2023, the examiner concluded the Veteran's hypothyroidism and peripheral neuropathy were less likely than not caused by the indicated toxic exposure risk activity, after considering his total potential exposure through all applicable military deployments and the synergistic, combined effect of all his toxic exposure risk activities.  The examiner noted non-deployment related toxic exposure as a result of the Veteran's occupational specialty duties as military police while at Fort McClellan in 1982.  The frequency of exposure was reported as daily, and route of exposure was likely inhalation.  However, the level of exposure and use of PPE were unknown.  
+
+The examiner noted that although the Veteran's TERA Memorandum listed evidence of non-deployment related exposure to toxins at Fort McClellan, VA does not presume that any adverse health conditions are associated with such service and that there is no VA environmental health registry associated with service at Fort McClellan.  It was explained that Veterans at risk for PCB exposure during military service are those who, before 1977, worked on repair and maintenance of PCB transformers, capacitors, and conduits.  Other ways of exposure to PCBs include eating contaminated food (e.g. fish in contaminated lakes or rivers), breathing air near hazardous waste sites, and drinking contaminated water).  The most common health problems for people exposed to large amounts of PCBs are skin conditions such as acne and rashes.  Studies in exposed workers have shown changes in blood and urine that may indicate liver damage.  Although exposures to high levels of these compounds have been shown to cause a variety of adverse health effects in humans and laboratory animals, the VA reports that there is no evidence of exposures of this magnitude having occurred at Fort McClellan.  Thus, it is unlikely that hypothyroidism, RLE peripheral neuropathy, LLE extremity peripheral neuropathy, LUE peripheral neuropathy, and RUE peripheral neuropathy are the result of the Veteran's service at Fort McClellan, based on current VA Public Health announcements.
+
+Based on the foregoing, the Board finds that there is no probative and competent medical evidence linking the onset of hypothyroidism or peripheral neuropathy to the Veteran's military service.  The VA opinion is the most probative and persuasive medical evidence in this case, as it based upon a review of the record and is supported by sufficiently clear medical rationale.  The VA examiner considered the Veteran's in-service toxic exposure history, the onset and course of his symptoms, and the results of the clinical evaluation in determining the likelihood or not that the Veteran's hypothyroidism and peripheral neuropathy developed as a result of exposure to environmental hazards during service.  See Nieves-Rodriquez v. Peake, 22 Vet. App. 295 (2008).  The claims file contains no favorable competent medical evidence refuting it.
+
+The Board has also taken into consideration the Veteran's lay statements.  Although he asserts that his hypothyroidism and peripheral neuropathy are related to toxic exposures from his service at Fort McClellan, such an assertion treads into the realm of medical expertise.  This is especially true where a particular condition is not readily amenable to mere lay diagnosis or probative comment regarding etiology particularly when, as in this case, it involves allegations that it was caused by exposure to environmental hazards.  See Jandreau v. Nicholson, 492 F.3d 1372, 1377 n.4 (Fed. Cir. 2007); Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007).  Therefore, the Veteran's lay statements cannot be accepted as competent evidence of a nexus.  The Board again notes that he has not alleged that hypothyroidism and peripheral neuropathy began in service; his claims are based on the allegation that toxic exposures at Fort McClellan led eventually to their development.  The only medical evidence on this contention is against the claim.
+
+In sum, there is no evidence of the claimed disorders in service or until decades after separation from service, and no competent evidence linking those disorders to service.  Accordingly, the evidence is persuasively against the claim and there is no reasonable doubt to be resolved.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+Thomas H. O'Shay
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J.R. Bryant
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,91 @@
+Citation Nr: A25032489
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 230119-315441
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to an increased rating in excess of 10 percent for a right knee disability as of March 25, 2022, is remanded.
+
+Entitlement to an increased rating in excess of 10 percent for a left knee disability as of March 25, 2022, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from February 1987 to November 1995.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a September 2022 Department of Veterans Affairs (VA) Regional Office rating decision. 
+
+In the January 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran selected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the September 2022 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the Veteran's increased rating claims, any evidence that the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Legal standards
+
+Disability ratings are determined by applying the criteria set forth in VA's Schedule for Rating Disabilities. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. Ratings are based on the average impairment of earning capacity resulting from the Veteran's disability or combination of disabilities. Id. The Schedule for Rating Disabilities assigns a unique diagnostic code to each listed condition.
+
+If two disability ratings under the same diagnostic code are potentially applicable, the higher rating will be assigned if the disability picture more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. When the evidence is in approximate balance as to which rating is warranted, the Veteran is entitled to the benefit of the doubt. See Lynch v. McDonough, 21 F.4th 776, 781 (Fed. Cir. 2021).
+
+When a service-connected disability exhibits symptoms that would warrant different ratings during different periods, separate ratings may be assigned for those different periods. Hart v. Mansfield, 21 Vet. App. 505, 510 (2007). In other words, ratings may be "staged."
+
+Knee disabilities are rated under 38 C.F.R. § 4.71a, Diagnostic Codes (DCs) 5003 (degenerative arthritis), 5055 (resurfacing or replacement), 5256 (ankylosis), 5257 (other impairment, including recurrent subluxation or lateral instability), 5258 (dislocated semilunar cartilage), 5259 (symptomatic removal of semilunar cartilage), 5260 (limitation of flexion), 5261 (limitation of extension), 5262 (impairment of the tibia and fibula), and 5263 (genu recurvatum). Ratings under multiple diagnostic codes may be assigned for knee disabilities when none of the symptomatology overlaps. Lyles v. Shulkin, 29 Vet. App. 107, 115 (2017).
+
+Disabilities not specifically listed in the Schedule are rated by analogy, i.e., evaluated under a closely related diagnostic code. To determine which diagnostic code is most closely related to an unlisted disability, VA must consider whether the functions affected, anatomical localization of the disorders, and symptomatology are closely analogous. 38 C.F.R. § 4.20.
+
+The potentially applicable diagnostic codes in this case are DCs 5003, 5260, and 5261, as there is evidence of arthrosis in the claims file but no evidence of resurfacing or replacement, ankylosis, recurrent subluxation, lateral instability, dislocated semilunar cartilage, impairment of the tibia and fibula, or genu recurvatum. See VA treatment records ("Knee 3 Views"), March 2017. 
+
+Arthrosis is not specifically listed in the Schedule. The Board has selected DC 5003 as an appropriate diagnostic code because, as a degenerative joint condition, arthritis is analogous to arthrosis; however, because the Veteran already has a 10 percent rating for both knees, the knee disabilities will be rated under the diagnostic codes for limitation of motion (DCs 5260 and 5261) regardless of whether his diagnosis is arthritis, arthrosis, knee strain, or patellofemoral pain syndrome.
+
+DC 5003 directs that degenerative arthritis should be rated on the basis of limitation of motion under the appropriate diagnostic codes for the specific joint or joints involved. When limitation of motion is noncompensable (0 percent) under the appropriate diagnostic codes, DC 5003 instructs adjudicators to assign a rating of 10 percent for each major joint or group of minor joints affected by limitation of motion. The knees are considered to be major joints. 38 C.F.R. § 4.45(f).
+
+Under DC 5260, a noncompensable (0 percent) rating is assigned for flexion limited to 60 degrees, a 10 percent rating is assigned for flexion limited to 45 degrees, a 20 percent rating is assigned for flexion limited to 30 degrees, and a 30 percent rating is assigned for flexion limited to 15 degrees.
+
+Under DC 5261, a noncompensable rating is assigned for extension limited to 5 degrees, a 10 percent rating is assigned for extension limited to 10 degrees, a 20 percent rating is assigned for extension limited to 15 degrees, a 30 percent rating is assigned for extension limited to 20 degrees, a 40 percent rating is assigned for extension limited to 30 degrees, and a 50 percent rating is assigned for extension limited to 45 degrees.
+
+For joint disability ratings based on limitation of motion, the Court of Appeals for Veterans Claims has held that a medical examination must include particular measurements or estimates to be adequate for adjudication. 
+
+Under Correia v. McDonald, range of motion measurements should be provided on both active and passive motion and with weight-bearing and non-weight bearing. 28 Vet. App. 158, 168-69 (2016). An examination is inadequate for adjudication if the examiner states that there is pain during passive or weightbearing range of motion testing without providing associated range of motion estimates. Id.
+
+Under Sharp v. Shulkin, if an examination is not conducted during a flareup or after repeated use over time, the examiner must provide an opinion based on estimates derived from the information obtained from the Veteran as to the additional loss of range of motion that may be present during those circumstances. 29 Vet. App. 26, 33 (2017).
+
+2. Entitlement to an increased rating in excess of 10 percent for a right knee disability as of March 25, 2022, is remanded.
+
+3. Entitlement to an increased rating in excess of 10 percent for a left knee disability as of March 25, 2022, is remanded.
+
+The Veteran seeks increased ratings for his right knee disability, which is rated at 10 percent as of July 23, 2014, and left knee disability, which is rated as noncompensable from November 25, 1995, to November 28, 2000, and at 10 percent as of November 29, 2000.
+
+The period on review in this case begins on March 25, 2022, the date that the Veteran's intent to file was received, within one year prior to the receipt of his June 2022 increased rating claim. See 38 C.F.R. § 3.155(b) ("If VA receives a complete application form prescribed by the Secretary... appropriate to the benefit sought within 1 year of receipt of the intent to file a claim, VA will consider the complete claim filed as of the date the intent to file a claim was received.").
+
+After review of the record, the Board finds that the claims must be remanded to correct a pre-duty to assist error that occurred prior to the September 2022 rating decision on appeal. 38 C.F.R. § 20.802(a). Specifically, the VA examination of record is inadequate for adjudication. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (stating that "once [VA] undertakes the effort to provide an examination when developing a service-connection claim... [VA] must provide an adequate one or, at a minimum, notify the claimant why one will not or cannot be provided").
+
+The Veteran was afforded a VA examination in June 2022. The examiner documented the Veteran's report that he experiences bilateral knee pain that renders him unable to stand for a prolonged period of time, take long walks, or jog. The examiner also stated that the Veteran experiences pain with high-impact activity, heavy lifting, and prolonged sitting. However, elsewhere in the examination report, the examiner declined to provide range of motion estimates with repeated use over time on the basis that pain, weakness, fatigability, lack of endurance, or incoordination do not significantly limit the Veteran's functional ability with repeated use over time. As a result, the examination report is internally inconsistent. Additionally, the June 2022 examiner indicated that the Veteran experiences pain with weightbearing activity but did not provide weightbearing range of motion measurements or estimates.
+
+Due to the internally inconsistencies and omission of weightbearing range of motion measurements or estimates, the examination report is inadequate for adjudication. Therefore, the Veteran's increased rating claims must be remanded.
+
+The Board notes that the Veteran submitted a new increased rating claim in August 2023, which was adjudicated in January 2024 based on a more recent VA examination. As detailed above, the Board may not consider any evidence submitted or obtained after the September 2022 decision on appeal; however, the AOJ will consider all relevant evidence in the adjudication of the Veteran's claims on remand.
+
+The matters are REMANDED for the following action:
+
+Schedule the Veteran for a VA examination by an appropriate clinician to determine the severity of his bilateral knee disability from March 25, 2022, to the present. The examiner must review the claims file, to include this Remand and any relevant VA examination reports.
+
+The examiner should elicit a full history from the Veteran and consider all additional lay statements of record. The examiner is reminded that the Veteran is competent to report his symptoms and history. If there is a medical basis to support or doubt the Veteran's account of his symptoms or history, the examiner should provide a fully reasoned explanation.
+
+The examiner should provide a full description of the Veteran's knee disabilities and report all signs and symptoms necessary for evaluating those disabilities under the rating criteria. The examiner is specifically asked to estimate the Veteran's additional functional loss in terms of range of motion on passive range of motion, with weightbearing activity, during flareups, and with repeated use over time from March 25, 2022, to the present.
+
+If it is not possible to provide a specific measurement without speculation, the examiner must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), a deficiency in the record (additional facts are required), or the examiner (does not have the knowledge or training).
+
+Where signs and symptoms warrant different estimates during different periods of time, the examiner should provide unique estimates for each period of time.
+
+The examination report should include an estimate of the frequency of symptoms severe enough to require medication, and a description of the symptoms and their functional impact if medication is not taken. 
+
+ 
+
+KRISTI L. GUNN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Karp, B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,121 @@
+Citation Nr: A25032922
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240627-452025
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric condition, other than posttraumatic stress disorder (PTSD), is denied.
+
+REMANDED
+
+Service connection for a cervical spine condition is remanded.
+
+Service connection for a left hip condition is remanded.
+
+Service connection for a right hip condition is remanded.
+
+Service connection for a lumbar spine condition is remanded.
+
+Service connection for left lower extremity sciatica nerve pain is remanded.
+
+Service connection for right lower extremity sciatica nerve pain is remanded.
+
+FINDING OF FACT
+
+The persuasive weight of the evidence is against finding that the Veteran has a diagnosed separate and distinct psychiatric condition from his service-connected PTSD; and his PTSD rating fully encompasses all mental health manifestations.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for an acquired psychiatric condition, other than PTSD, have not been met.  38 U.S.C. § 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 4.14, 4.125.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from June 1963 to June 1966.
+
+These matters come to the Board of Veterans' Appeals (Board) on appeal from a June 2023 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO), which was later reviewed and continued in a December 2023 Higher-Level-Review (HLR) decision.  The Veteran appealed the decision in a June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), electing the Hearing docket.  A Board hearing before the undersigned occurred on December 13, 2024.  Therefore, the Board may only consider the evidence of record at the time of the June 2023 Agency of Original Jurisdiction (AOJ) decision subject to HLR, as well as any evidence submitted by the Veteran or representative at the hearing or within 90 days following the hearing.  38 C.F.R. § 20.302(a).  If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the Board hearing, or (2) more than 90 days following the hearing, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.302(a), 20.801.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.  Regarding the claims remanded herein, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii).
+
+The Board has limited the discussion below to the relevant evidence required to support its finding of fact and conclusion of law, as well as to the specific contentions regarding the case as raised directly by the Veteran and those reasonably raised by the record.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Peake, 21 Vet. App. 545, 552 (2008).
+
+1. Entitlement to service connection for an acquired psychiatric condition, other than PTSD, is denied.
+
+The Veteran contends that he has a psychiatric condition that is separate and distinct from his currently service-connected PTSD.  For reasons that follow, the Board finds the Veteran's claim is moot and must be denied.
+
+Generally, service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  For an acquired psychiatric condition other than PTSD, the three-element test for service connection requires evidence of: (1) a current disability in conformance with a Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) diagnosis; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  See 38 U.S.C. § 1131; 38 C.F.R. §§ 3.303, 4.125; see also Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).  All elements must be satisfied before service connection may be achieved.  See Martinez-Bodon v. Wilkie, 32 Vet. App. 393 (2020) (holding that although in other contexts the definition of "disability" may not be limited to a diagnosis, with respect to psychiatric disabilities, VA has expressly limited compensation to disabilities conforming to a DSM-5 diagnosis); see also 38 C.F.R. § 4.125.
+
+Here, the Board takes judicial notice that the Veteran is now service connected for PTSD rated 30 percent disabling effective October 28, 2022, as part of a June 2024 AOJ decision.  The grant of one service-connected psychiatric disability does not necessarily moot out the pending claim of another because it is possible that there are potential manifestations not otherwise compensated by the already service-connected disability.  See Amberman v. Shinseki, 570 F.3d 1277, 1381 (Fed. Cir. 2009) (noting that "the amount of impairment is measured by the social and occupational difficulties caused by the veteran's disorder").
+
+Psychiatric disabilities, however, are all rated under the same General Rating Formula for Mental Disorders and assigned one disability rating for the combined symptomatology.  See 38 C.F.R. § 4.125.  Thus, a pending claim for a separate psychiatric disability is necessarily moot if there are no uncompensated manifestations by the already service-connected disability.  See, e.g., Bean v. McDonough, 66 F.4th 979 (Fed. Cir. 2023).  Simply stated, VA regulations prohibit rating (i.e., compensating) multiple disabilities based on the same signs and symptoms.
+
+Here, there is no evidence of record that the Veteran has been diagnosed with an acquired psychiatric condition under the DSM-5 at any time during the pendency of the appeal other than the already service-connected PTSD.  Thus, the appeal must be denied.
+
+The record contains both private and VA treatment records, all of which lack any mention of a diagnosis of a psychiatric condition other than PTSD.  Thus, the evidence of record clearly establishes that the Veteran does not have, nor has he ever had during the pendency of this claim, a diagnosis of any mental health condition other than PTSD under the DSM-V.  The Board acknowledges here that treatment records reference various symptoms including a history of depression and anxiety, change in personality, and sleep disturbances.  Moreover, the Veteran testified to experiencing sleep disturbances including nightmares as well as anxiety.  These manifestations were considered as part of the 30 percent disability rating assigned for PTSD.  Indeed, the Board takes judicial notice that within the AOJ decision granting service connection for PTSD, the 30 percent disability rating was assigned based at least in part on anxiety, chronic sleep impairment, depressed mood, and flattened affect. 
+
+Under the circumstances presented here, the Veteran's claim seeking service connection for a psychiatric disability "other than" his already service-connected PTSD is necessarily moot because the evidence shows all his manifestations are now compensated by the disability rating assigned for PTSD and, in any case, must be denied for lack of a DSM-5 diagnosis, aside from PTSD.  See 38 C.F.R. § 4.125; see also Bean v. McDonough, 66 F.4th 979 (Fed. Cir. 2023).
+
+Accordingly, the evidence is persuasively against the claim.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and service connection for an acquired psychiatric condition other than PTSD is not warranted.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+REASONS FOR REMAND
+
+1. Service connection for a cervical spine condition is remanded.
+
+2. Service connection for a left hip condition is remanded.
+
+3. Service connection for a right hip condition is remanded.
+
+4. Service connection for a lumbar spine condition is remanded.
+
+5. Service connection for left lower extremity sciatica nerve pain is remanded.
+
+6. Service connection for right lower extremity sciatica nerve pain is remanded.
+
+The Veteran contends he has multiple musculoskeletal conditions including regarding the cervical spine, bilateral hips, and lumbar spine, as well as bilateral lower extremity sciatica pain that are related to service.  Upon review, the Board finds the pre-decisional evidence of record triggered the duty to assist in affording the Veteran a VA examination regarding all of these claims, and the AOJ's failure to do so was a duty to assist error.  McLendon v. Nicholson, 20 Vet. App. 79 (2006); see also 38 U.S.C. § 5103A, 38 C.F.R. § 3.159.  
+
+Regarding the cervical spine and bilateral hips, the Veteran filed a claim for benefits citing to pain.  For VA purposes, a disability for purposes of service connection need not be characterized by a specific diagnosis.  "Pain" can be considered a disability for service connection purposes if such pain reaches the level of a functional impairment of earning capacity.  See Saunders v. Wilkie, 886 F.3d 1356 (Fed. Cir. 2018); but see Wait v. Wilkie, 33 Vet. App. 8 (2020) (recognizing that subjective pain is not enough to establish the presence of a disability).  Regarding the lumbar spine and bilateral lower extremities, pre-decisional treatment records reflect diagnosis of lumbar spondylosis and radiculopathy.  Moreover, the pre-decisional record reflects the Veteran served as a medic which would include physical demands such as lifting and transporting patients.  He also reported an incident in 1964 where he assisted in the physical retrieval of multiple bodies from a tank.  While STRs lack complaints related to the neck, back, or hips, the Board finds the pre-decisional evidence was sufficient to meet the low-threshold requirement of McLendon.  Thus, remand of these claims is necessary for corrective action.
+
+The Board is cognizant that the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxins Act of 2022 (PACT Act) requires a specific toxic exposure risk activity (TERA) examination under certain circumstances; however, an exception applies here.  That is, the Veteran has consistently contended his musculoskeletal conditions and lower extremity sciatica nerve pain are due to the physical demands of a medic.  As noted within the PACT Act, there is a lack of scientific evidence indicating an association between such injuries and toxic exposure.  As such, based on the evidence of record, the Board finds additional remand for a specific TERA examination is not necessary here.  
+
+The Veteran's service connection claims for bilateral lower extremity sciatica nerve pain are also remanded as inextricably intertwined with the pending service connection claim for a lumbar spine condition.  See Harris v. Derwinski, 1 Vet. App. 180 (1991).
+
+While the Board is remanding these issues for further development, the Board is mindful of the holding in Smith v. Wilkie, 32 Vet. App. 332 (2020) and the impact of implicit credibility determinations within remand orders.  The Board does not at this time make any determinations regarding the credibility of any evidence currently of record, to include those described in this remand.
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for a VA examination before an appropriate clinician to determine the nature and etiology of any cervical spine condition, left hip condition, right hip condition, lumbar spine condition, left lower extremity sciatica nerve condition, and right lower extremity sciatica nerve condition.  
+
+NOTE: The Veteran indicated it is difficult for him to travel and would prefer a telehealth visit. To the extent possible, this request should be accommodated.
+
+The entire claims file and this remand should be made available for review.  The examiner should render an opinion, including rationale, addressing the following: 
+
+(a.) Whether the Veteran has a current cervical spine condition, left hip condition, right hip condition, lumbar spine condition, left lower extremity sciatica nerve condition, and/or right lower extremity sciatica nerve condition.   
+
+NOTE: "Pain" alone may constitute a disability for VA purposes if such pain causes functional impairment of earning capacity.
+
+NOTE: The examiner is directed to address and consider the medical records referencing lumbar spondylosis and radiculopathy.
+
+(b.) If any arthritis is found regarding the cervical spine, bilateral hips, and/or lumbar spine, the examiner shall opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) the Veteran's arthritis (i) began during active service, (ii) manifested within one year after discharge from service, or (iii) was noted during service with continuity of the same symptomatology since service.
+
+(c.) For each disability found, determine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal if not higher) that the disability is related to service, to include physical requirements as a medic such as lifting patients and a contended incident in 1964 assisting in the removal of bodies from a tank. 
+
+The examiner is advised that the Veteran is competent to report his symptoms and history, and such reports should be acknowledged and considered in formulating any opinion.  If medical literature is relied upon, the examiner should identify and specifically cite each reference material used.  The examiner should specifically discuss any contradictory evidence in the claims file and reconcile that evidence with their findings.
+
+All opinions should be accompanied by supporting rationale explaining how the examiner arrived at the conclusions expressed. 
+
+If the examiner determines that s/he cannot provide an opinion without resorting to speculation, s/he should explain the inability to provide an opinion, identifying precisely what facts could not be determined.  In particular, s/he should comment on whether an opinion could not be provided because the limits of medical knowledge have been exhausted or whether additional testing or information could be obtained that would lead to a conclusive opinion.
+
+2. After the above development, and any additionally indicated development, has been completed, readjudicate the issues on appeal, including those inextricably intertwined.
+
+ 
+
+ 
+
+SHEREEN M. MARCUS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A.C. Allen, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

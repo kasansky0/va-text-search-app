@@ -1,0 +1,99 @@
+Citation Nr: A25033047
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240625-450917
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA), stemming from a May 2024 rating decision, is dismissed.
+
+Entitlement to service connection for OSA, secondary to service-connected allergic rhinitis, stemming from a November 2023 rating decision, is granted.
+
+FINDINGS OF FACT
+
+1. In June 2024, the Veteran submitted a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), appealing a November 2023 rating decision and a May 2024 rating decision, both of which denied service connection for OSA.
+
+2. The Veteran's OSA was aggravated by his service-connected allergic rhinitis.
+
+3. The grant of entitlement to service connection for OSA, stemming from the November 2023 rating decision, constitutes a full grant of the benefits sought on appeal. As a result, there is no remaining case or controversy for the Board to adjudicate with respect to the May 2024 rating decision.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for dismissal of the claim for entitlement to service connection for OSA, stemming from a May 2024 rating decision, have been met. 38 U.S.C. § 7105; 38 C.F.R. §§ 3.2500, 20.104, 20.201.
+
+2. The criteria for service connection for OSA, as secondary to service-connected allergic rhinitis, have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served in the United States Army from December 2002 to March 2004, with additional service in the Army Reserve.
+
+By way of procedural history, in July 2023, the Veteran filed a claim for service connection for OSA. In a November 2023 rating decision, the agency of original jurisdiction (AOJ) denied service connection for OSA. 
+
+In January 2024, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, seeking readjudication of service connection for OSA based on the November 2023 rating decision. In a May 2024 rating decision, the AOJ denied the supplemental claim, finding that new and relevant evidence had not been received.  
+
+In June 2024, the Veteran submitted a Notice of Disagreement, appealing both the November 2023 and May 2024 rating decisions, and elected the Direct Review docket.
+
+For reasons discussed below, the Board dismisses the appeal stemming from the May 2024 rating decision.
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2023 rating decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+As the Board grants the appeal, the Board finds no prejudice in proceeding to a decision without a waiver of the time to switch dockets. Williams v. McDonough, 37 Vet. App. 305 (2024); 38 C.F.R. § 20.202(c)(2).
+
+1. Entitlement to service connection for obstructive sleep apnea (OSA), stemming from a May 2024 rating decision, is dismissed.
+
+In July 2023, the Veteran filed a claim for service connection for OSA. A November 2023 rating decision denied the claim. In January 2024, the Veteran submitted a supplemental claim, which was denied in May 2024, finding that new and relevant evidence had not been received. In June 2024, the Veteran submitted a Notice of Disagreement appealing both the November 2023 and May 2024 rating decisions. 
+
+Because the Board is granting service connection for OSA based on the November 2023 rating decision, there is no remaining case or controversy regarding the May 2024 rating decision. Seri v. Nicholson, 21 Vet. App. 441, 447 (2007); see also Grantham v. Brown, 114 F.3d 1156 (Fed. Cir. 1997). In addition, multiple review options may not be elected concurrently for the same issue. 38 C.F.R. 3.2500(b). Accordingly, the Board dismiss the appeal of the May 2024 rating decision.
+
+2. Entitlement to service connection for OSA, secondary to service-connected allergic rhinitis, stemming from a November 2023 rating decision, is granted.
+
+The Veteran seeks service connection for OSA. Specifically, he asserts that his service-connected posttraumatic stress disorder (PTSD) and/or allergic rhinitis caused or aggravated his OSA. See July 2023 VA Form 526EZ Application for Disability Compensation and Related Compensation Benefits.  
+
+Service Connection
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.303. To establish service connection, the evidence must show: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection may also be granted on a secondary basis for a disability that is proximately due to, or the result of, or aggravated by a service-connected disability. Establishing secondary service connection requires evidence of: (1) a current disability (for which secondary service connection is sought); (2) an already service-connected disability; and (3) an indication that the current disability was either (a) caused by or (b) is being aggravated by the service-connected disability. 38 C.F.R. § 3.310(a) and (b); Allen v. Brown, 7 Vet. App. 439 (1995) (en banc).
+
+Factual Background
+
+In this case, the AOJ made favorable findings that the Veteran has a current diagnosis of OSA and is service-connected for both PTSD and allergic rhinitis. See November 2023 rating decision. The Board is bound by these favorable findings. 38 C.F.R. § 3.104.
+
+Accordingly, the first two elements of secondary service connection are satisfied. The remaining question before the Board is whether the Veteran's service-connected PTSD or allergic rhinitis either caused or aggravated his OSA. The evidence of record contains conflicting medical opinions on this issue.
+
+In October 2023, the Veteran underwent a VA Sleep Apnea examination. The examiner confirmed a diagnosis of OSA following an in-person examination and review of the claims file. During the examination, the Veteran reported that he has experienced chronic sleep impairment since 2003 to 2004. He also stated that he has been told that he snores, though "not excessively." 
+
+The examiner was asked to provide an opinion as to whether the Veteran's OSA was at least as likely as not due to or the result of his service-connected PTSD. The examiner opined that the Veteran's OSA is more likely due to other risk factors such as weight and upper airway resistance associated with chronic sinusitis and allergic rhinitis, and less likely due to PTSD. The examiner explained that nasal obstruction is common in individuals with OSA and leads to mouth breathing, which can destabilize the upper airway and aggravate OSA symptoms. 
+
+The examiner further identified three main contributors to nasal obstruction: (1) anatomical conditions of the nose (septum deviation, hypertrophy of the inferior turbinates), (2) chronic rhinosinusitis (CRS), and (3) chronic nasal inflammation caused by allergic rhinitis or non-allergic cellular rhinitis. The examiner emphasized that nasal inflammation in both allergic and non-allergic rhinitis can increase nasal airway resistance due to mucosal swelling, which, in turn, contributes to airway obstruction during sleep, thereby aggravating OSA symptoms.
+
+In November 2023, VA obtained a second medical opinion to address whether the Veteran's OSA was caused or aggravated by his service-connected allergic rhinitis. That examiner conducted a records review and opined that the Veteran's OSA is less likely than not proximately due to or the result of his service-connected allergic rhinitis. However, the examiner acknowledged that medical literature supports allergic rhinitis as a possible cause of OSA in the absence of other comorbidities. 
+
+The November 2023 examiner also cited additional contributing risk factors for OSA, including the Veteran's history of tobacco use and obesity (BMI of 30). The examiner explained that smoking and nicotine can worsen sleep quality, increase upper airway inflammation, and that smokers are three times more likely to develop OSA than non-smokers.
+
+Analysis
+
+The Board finds the October 2023 VA examiner's opinion to be the most probative medical opinion of record. The examiner provided a well-reasoned rationale explaining how chronic nasal inflammation caused by allergic rhinitis may increase nasal airway resistance, destabilize the upper airway, and aggravate OSA. This rationale was based on the Veteran's specific medical history and supported by how the body's physical structure and airway function contribute to the development or worsening of OSA. 
+
+In contrast, the November 2023 VA examiner opined that the Veteran's OSA was less likely than not due to allergic rhinitis but did not address whether the Veteran's allergic rhinitis aggravated the Veteran's OSA, as required by El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013). Additionally, the examiner relied in part on risk factors such as tobacco, despite evidence showing that the Veteran quit smoking in 2004 and stopped chewing tobacco in 2010. The November 2023 examiner did not address how this may affect the current relationship between allergic rhinitis and OSA.
+
+Given these omissions, the Board finds the November 2023 opinion is inadequate and assigns it no probative value. 
+
+Accordingly, based on the above, the Board finds that the evidence persuasively weighs in favor of a finding that the Veteran's OSA was aggravated by his service-connected allergic rhinitis. Therefore, service connection for OSA is warranted on a secondary basis. 38 U.S.C. § 5107; 38 C.F.R. § 3.310.
+
+Given the favorable outcome granting the Veteran's claim for entitlement to service connection for OSA as secondary to allergic rhinitis, further discussion of the Veteran's other theory of entitlement (OSA due to PTSD) is not necessary. 
+
+ 
+
+KRISTI L. GUNN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Hatcher, Valerie
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

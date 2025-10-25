@@ -1,0 +1,143 @@
+Citation Nr: A25033035
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 231207-514596
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for lung nodules is granted.
+
+Entitlement to an initial disability rating of 10 percent for irritable bowel syndrome (IBS) is granted.
+
+Entitlement to an effective date earlier than July 10, 2023, for the grant of entitlement to service connection for IBS is denied.
+
+REMANDED
+
+Entitlement to service connection for diabetes mellitus is remanded.
+
+FINDINGS OF FACT
+
+1. The Veteran's lung nodules are presumed related to service as a diagnosable but medically unexplained chronic multi-symptom illness (MUCMI).
+
+2. The Veteran's IBS results in moderate symptoms.
+
+3. The Veteran filed his intent to file on July 10, 2023; he submitted a complete claim within a year of that intent.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for lung nodules have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.317.
+
+2. The criteria for an initial 10 percent disability rating for IBS have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.155, 3.400, 4.1, 4.3, 4.7, 4.112, 4.113, 4.114, Diagnostic Code 7319.
+
+3. The criteria for an effective date earlier than July 10, 2023, for the grant of entitlement to service connection for IBS have not been met. 38 U.S.C. § 5110; 38 C.F.R. § 3.400.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from June 2007 to June 2008.
+
+These matters come to the Board of Veterans' Appeals (Board) on appeal from a November 2023 Department of Veterans Affairs (VA) regional office (RO) rating decision.
+
+In the December 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim of diabetes mellitus, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+Preliminarily, the Board notes that while the Veteran included an appeal related to an increased rating for a psychiatric disability and unemployability in this VA Form 10182, these claims are contemporaneously docketed before the Board under a separate appeal stream.  See Docket Number 231129-396734.  Those issues will be addressed by the Board in a separate decision.
+
+Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection may be granted for any disease initially diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+Service connection may also be granted to a Persian Gulf veteran who exhibits objective indications of a chronic disability resulting from undiagnosed illness or a medically unexplained chronic multisymptom illness that became manifest either during active military service in the Southwest Asia theater of operations during the Persian Gulf War, or to a degree of 10 percent or more not later than December 31, 2026; and, by history, physical examination, and laboratory tests cannot be attributed to any known clinical diagnosis. 38 C.F.R. § 3.317(a)(1)(i)-(ii). The term "Persian Gulf Veteran" means a Veteran who served on active military, naval, or air service in the Southwest Asia Theater of operations during the Persian Gulf War.
+
+A qualifying chronic disability means a chronic disability resulting from an undiagnosed illness or a medically unexplained chronic multisymptom illness that is defined by a cluster of signs or symptoms, such as chronic fatigue syndrome, fibromyalgia, and functional gastrointestinal disorders (excluding structural gastrointestinal diseases). 38 U.S.C. § 1117; 38 C.F.R. § 3.317(a)(2).
+
+For purposes of 38 C.F.R. § 3.317, objective indications of chronic disability include both "signs" in the medical sense of objective evidence perceptible to an examining physician, and other, non-medical indicators that are capable of independent verification. 38 C.F.R. § 3.317(a)(3). In addition, disabilities that have existed for 6 months or more and disabilities that exhibit intermittent episodes of improvement and worsening over a 6-month period will be considered chronic. 38 C.F.R. § 3.317(a)(4).
+
+Entitlement to service connection for lung nodules
+
+The Veteran contends that he has a respiratory disability related to service.  Specifically, he contends that it is related to his Persian Gulf War exposure to burn pits while serving in Kuwait and Iraq.  The November 2023 rating decision conceded a diagnosis of lung nodules and toxic exposure to burn pits; these favorable findings are binding on the Board.  38 C.F.R. § 3.104(c).
+
+The medical evidence shows that the Veteran has complained of coughing since separation from service.  See December 2021 CAPRI records ("chronic cough that he has had since getting out of the army...").  See also April 2022 CAPRI records ("reports a constant cough with mucous production. Reports this has been happening since he served active duty and was around the burn pits.").  
+
+At an August 2023 VA examination, the Veteran reported a cough and shortness of breath.  The examiner concluded that while this disability was a diagnosable but medically unexplained chronic multi-symptom illness of unknown etiology (and therefore did not need a medical opinion) it was less likely than not related to service.  The examiner reasoned that "Veteran claimed his lung nodule condition was caused by burn pits...VA exposures website does not recognize lung nodules as a presumptive condition related to exposures to burn pits."
+
+While merely checking to see if a diagnosis is on a presumptive list is permitted for certain conditions, see Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013) (chronic conditions under 38 C.F.R. § 3.309(a)), it is not permitted in these circumstances.  The examiner also did not consider the Veteran's lay statements of continuity.  Miller v. Wilkie, 32 Vet. App. 249, 262 (2020).  For these reasons, the underlying rationale of the August 2023 VA examination is afforded no probative weight.
+
+Nevertheless, service connection may be awarded if the conditions of MUCMI are met per 38 C.F.R. § 3.317.  The Veteran has complained of a cough since separation and shortness of breath; he is competent to report these readily observable symptoms.  Layno v. Brown, 6 Vet. App. 465 (1994).  Furthermore, the examiner reviewed the Veteran's medical history, performed the Gulf War and respiratory examination on the Veteran, was aware of the Veteran's service in Southwest Asia, noted the Veteran's lung nodules as a diagnosed illness for which no etiology was established in the Gulf War examination, and noted that this disability is a medically unexplained chronic multi-symptom illness that did not require a medical opinion.  
+
+Given the current diagnosis, the Veteran's competent lay statements about the symptoms he experienced on a recurrent basis after service, and the August 2023 VA examiner's statement that the lung nodules are a MUCMI, the Board resolves any doubt in the Veteran's favor and concludes that this disability is related to service. See 38 U.S.C. § 5107(b).
+
+Increased Rating and Earlier Effective Date
+
+Entitlement to an initial compensable disability rating for IBS
+
+Disability ratings are determined by the application of the VA's Schedule for Rating Disabilities. Separate diagnostic codes identify the various disabilities. 38 U.S.C. § 1155; 38 C.F.R. § Part 4. Ratings for service-connected disabilities are determined by comparing the Veteran's symptoms with criteria listed in VA's Schedule for Rating Disabilities, which is based, as far as practically can be determined, on average impairment in earning capacity. See 38 C.F.R. § 4.1.
+
+The Veteran's IBS is currently rated as 0 percent disabling since July 10, 2023.
+
+Under the criteria in effect at the time of the November 2023 rating decision, Diagnostic Code 7319 provided a zero percent rating is warranted for mild IBS symptoms, described as disturbances of bowel function with occasional episodes of abdominal distress. 38 C.F.R. § 4.114. The next higher rating of 10 percent was warranted for moderate symptoms, described as frequent episodes of bowel disturbance with abdominal distress. The next higher and highest rating of 30 percent was warranted for severe symptoms, described as diarrhea, or alternating diarrhea and constipation, with more or less constant abdominal distress. 
+
+July 2023 CAPRI records show, "epigastric abdominal pain recently, bowel movements unchanged no nausea."  Separate July 2023 CAPRI records show abdominal pain on palpation.
+
+At an August 2023 VA examination, the Veteran reported diarrhea without treatment.  The examiner indicated on the examination form that the Veteran had "reported diarrhea with occasional constipation."  No abdominal distress, weight loss, malnutrition, or neoplasms were noted. 
+
+Based on the above, the Board finds that the Veteran's symptoms warrant an initial 10 percent rating.  The Veteran's symptoms when viewed in totality approximate frequent episodes of bowel disturbance with abdominal distress.  The July 2023 CAPRI records demonstratively show epigastric abdominal pain, and the August 2023 VA examination shows diarrhea and constipation.
+
+The higher 30 percent rating is only warranted for severe symptoms, described as diarrhea, or alternating diarrhea and constipation, with more or less constant abdominal distress.  While the Veteran satisfies the first prong (alternating diarrhea and constipation) he does not satisfy the second one (more or less constant abdominal distress).  
+
+Specifically, the description of the Veteran's constipation as "occasional" does not approximate "constant."  "Occasional" is defined as "encountered, occurring, appearing, or taken at irregular or infrequent intervals."  See https://www.merriam-webster.com/dictionary/occasional.  "Constant" is defined as "continually occurring or recurring."  https://www.merriam-webster.com/dictionary/constant.  In other words, the description of the frequency of the Veteran's IBS does not satisfy these defined criteria.
+
+Accordingly, the Board finds that the Veteran's IBS should be awarded an initial 10 percent rating under Diagnostic Code 7319.
+
+Entitlement to an earlier effective date for the grant of service connection for IBS
+
+The effective date has been established as July 10, 2023, the date the Veteran filed his intent to file with a complete claim submitted via VA Form 21-526EZ on July 18, 2023, which is within one year of that intent.  38 C.F.R. § 3.155(b).  There is no evidence the Veteran filed a complete claim for entitlement to service connection for IBS prior to that date.  The June 3, 2022, intent to file is not applicable to this complete claim as it already applies to the one filed on February 17, 2023.  See 38 C.F.R. § 3.155(d)(ii) ("Only one complete claim for a benefit...may be associated with each intent to file a claim for that benefit, though multiple issues may be contained within a complete claim. In the event multiple complete claims for a benefit are filed within 1 year of an intent to file a claim for that benefit, only the first claim filed will be associated with the intent to file a claim.").  Thus, an effective date prior to July 10, 2023, is not warranted.
+
+REASONS FOR REMAND
+
+Entitlement to service connection for diabetes mellitus is remanded.
+
+Under the AMA, pre-decisional duty to assist errors are eligible for remand.  38 C.F.R § 20.802(a).
+
+Here, the August 2023 VA examiner concluded that the Veteran's diabetes was a disease with a clear and specific etiology and less likely than not related to his toxic exposure.  The examiner reasoned that "there is no medical or scientific evidence available that provides any indication of a relationship between the development of the condition of Diabetes at issue and the TERA."  The examiner added that the VA Exposures website does not recognized diabetes as a complication or presumptive condition related to exposure to burn pits.  
+
+Importantly, the examiner stated that, "there are risk factors outside of military service (obesity) that either far outweigh the factors identified in the TERA...Extra weight sometimes causes insulin resistance and is common in people with type 2 diabetes. The location of body fat also makes a difference."
+
+The pre-decisional evidence of record shows that the Veteran is obese and that his hypertension is a risk factor for it.  See July 2023 CAPRI records.  Contemporaneously with the above, he submitted a claim for entitlement to service connection for hypertension which was granted by a December 2023 rating decision. 
+
+While VA does not recognize?obesity?as a stand-alone disability, indirect secondary service connection can be granted with?obesity?acting as an intermediate step. See VAOPGCPREC 1 2017 (Jan. 6, 2017). Specifically, a grant is warranted (1) if the service-connected disability caused the Veteran to become?obese, (2) if?obesity?was a substantial factor in causing a subsequent disability, and (3) if the subsequent disability would not have occurred but for?obesity. Id. Indirect secondary service connection is also warranted where?obesity?aggravates?the claimed disability. Walsh v. Wilkie,?32?Vet. App.?300?(2020). 
+
+Given the contemporaneous and inextricably intertwined nature of these claims, the RO committed a pre-decisional duty to assist error in failing to obtain a secondary service connection opinion based upon obesity as an intermediate step under Walsh.  
+
+The matters are REMANDED for the following action:
+
+Obtain an addendum VA opinion, or a new VA examination if necessary, by an appropriate clinician to opine whether the Veteran's obesity is an intermediate step between his service-connected hypertension and diabetes mellitus. Specifically, the examiner must opine as to whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that:
+
+(a) The Veteran's service-connected hypertension caused the Veteran's obesity; or
+
+(b) The Veteran's service-connected hypertension aggravated the Veteran's obesity.
+
+If the answer to either of the above is yes, then the examiner must discuss whether:
+
+(c) Such obesity was a substantial factor in causing or aggravating his diabetes mellitus; and
+
+(d) His current diabetes mellitus would not have occurred but for obesity. 
+
+ 
+
+M. C. WILSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Finelli, Christopher
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

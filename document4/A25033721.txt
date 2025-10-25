@@ -1,0 +1,77 @@
+Citation Nr: A25033721
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 250326-522509
+DATE: April 11, 2025
+
+REMANDED
+
+Entitlement to service connection for kidney cancer with metastasis of the liver and lung, to include as due to in-service exposure to herbicide agents, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the U.S. Army from September 1969 to August 1971.  
+
+In July 2024, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a May 2024 rating decision.  In October 2024, the agency of original jurisdiction (AOJ) issued an HLR decision, which found that a duty to assist error had been identified during higher-level review for the Veteran's claim for service connection for kidney cancer with metastases to the lung and liver. 
+
+After conducting additional development, the rating decision on appeal was issued in March 2025 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the March 26, 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the March 2025 AOJ decision on appeal.  38 C.F.R. § 20.301.  If evidence was submitted after the AOJ issued the decision on appeal, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+In the March 2025 rating decision, the AOJ found that new and relevant evidence had been received to reconsider the claim of entitlement to service connection for kidney cancer with metastasis of the liver and lung.  This is a favorable finding by the AOJ and the Board will proceed to the address the claim on the merits.  See 38 U.S.C. § 5104A; 38 C.F.R. § 3.104(c).
+
+1. Entitlement to service connection for kidney cancer with metastasis of the liver and lung, to include as due to in-service exposure to herbicide agents, is remanded.
+
+The issue of entitlement to service connection for kidney cancer with metastasis of the liver and lung is remanded to correct a duty to assist error that occurred prior to the March 2025 decision on appeal.
+
+The Veteran asserts that his kidney cancer with metastasis of the liver and lung was caused by his herbicide agent exposure.  The Veteran's herbicide agent exposure has been conceded based on his active duty service in the Republic of Vietnam.  However, the Veteran does not have a presumptive disease for herbicide agent exposure.  See 38 C.F.R. § 3.309(e).  The record includes multiple nexus opinions, however, the Board finds that each opinion is insufficient to decide the claim.  
+
+In a December 2023 opinion, the Veteran's private treating physician noted that the Veteran had been diagnosed with stage IV kidney cancer with multiple liver and lung metastases in February 2023.  The private treating physician opined that it was more likely than not that the Veteran's Agent Orange exposure in Vietnam was causative for his kidney cancer.  However, the private treating physician provided no underlying rationale for the opinion.  Thus, the Board finds that the December 2023 private opinion is conclusory and provides no probative value.  See Nieves-Rodriguez v. Peake, 22?Vet. App.?295, 300 (2008) (holding that a medical examination report must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two).
+
+In a March 2024 VA opinion, the VA examiner opined that the Veteran's kidney cancer was less likely than not caused by the indicated toxic exposure risk activity, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  In providing a rationale, the March 2024 VA examiner noted that there were no medical records to detail and confirm the diagnosis or to document the type of kidney cancer.  The March 2024 VA examiner explained that "[a]s there are many types of kidney cancers, each with their own etiological risk factors, this information would be necessary to render any opinion in favor of service connection."  Because the March 2024 VA examiner acknowledged that the opinion was based on insufficient information, the Board finds that this opinion is also inadequate to decide to the claim.  
+
+As noted above, in the October 2024 rating decision, the AOJ identified that a duty to assist error had occurred.  The AOJ explained that VA had failed to obtain the Veteran's private treatment records, despite having received the Veteran's VA Form 21-4142a in January 2024 when he submitted his initial service connection claim to authorize retrieval of his private treatment records for his kidney cancer.  Although the AOJ recognized its error, it obtained another VA opinion prior to retrieval of those private treatment records.  
+
+In November 2024, the VA examiner noted on the examination report that "Veteran reports seeing private civilian provider, veteran states will be obtaining and submitting reports to VA as needed."  The November 2024 VA examiner opined that the Veteran's kidney cancer with metastases of the liver and lung was at least as likely as not caused by the indicated toxic exposure risk activity, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  In providing a rationale, the November 2024 noted that the Veteran had herbicide agent exposure.  Then, in referencing medical literature, the November 2024 VA examiner stated that "[t]here has been studies that found occupational exposures to pesticides causing cancer of the kidneys," and that "[r]espiratory cancers are a presumed condition of [V]ietnam veterans exposed to agent orange."  Finally, the November 2024 VA examiner referenced a medical study on Agent Orange exposure and stated that "a herbicide that was used in chemical warfare during the Vietnam War between 1961 and 1971, was implicated as a possible risk factor for liver cancer and other cancers."  Although the November 2024 VA examiner provided a favorable nexus opinion, that opinion did not specifically address the Veteran's current diagnosis or his relevant medical history.  See Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).  Accordingly, the Board finds that this opinion is also inadequate to decide the claim.  
+
+VA received the Veteran's private treatment records for his kidney cancer in December 2024 prior to issuing its March 2025 rating decision.  However, despite having already acknowledged its prior duty to assist error in not obtaining the Veteran's private treatment records, the AOJ did not make any attempts to obtain a new VA opinion once it had received those relevant medical records.  For all these reasons, the Board finds that a remand is required to obtain a supplemental VA opinion and to correct a pre-decisional duty to assist error.  
+
+The Board emphasizes that it is not determining whether or not the Veteran's statements that his kidney cancer was caused by his in-service herbicide agent exposure are credible at this time, as the additional development set forth in the directives below could impact that determination.  Although the Board is requesting medical opinions regarding his lay contentions, this is for thoroughness and not based on a finding that these contentions are credible.
+
+The matter is REMANDED for the following action:
+
+1. Arrange for an addendum opinion from an appropriately qualified clinician to determine the nature and etiology of the Veteran's kidney cancer with metastasis of the liver and lung.  The examiner should respond to the following:
+
+(a.) Opine whether the Veteran's kidney cancer with metastasis of the liver and lung had its onset during active duty service or was otherwise etiologically related to service. 
+
+(b.) Opine whether the Veteran's kidney cancer with metastasis of the liver and lung was caused by the indicated toxic exposure risk activities, after considering the potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.
+
+In providing the above opinions, the examiner must note that the Veteran is presumed to have been exposed to herbicide agents during his active duty service in the Republic of Vietnam.  
+
+The examiner must address the Veteran's lay reports describing the onset and continuity of his kidney cancer symptoms.  
+
+The examiner must review and consider the Veteran's complete and relevant medical history, including private treatment records from Dr. D.H. and the Willamette Valley Cancer Institute and Research Center.
+
+The examiner must review and resolve the conflicting medical opinions provided in December 2023, March 2024, and November 2024.  
+
+(Continued on the next page)
+
+?
+
+The examiner must not rely solely on the lack of medical documentation as the basis for a negative opinion.  
+
+A complete rationale with discussion of medical literature for any opinion expressed must be provided.  If an opinion cannot be expressed without resort to speculation, discuss why this is the case.
+
+ 
+
+ 
+
+LESLEY A. REIN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Journet Shaw, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

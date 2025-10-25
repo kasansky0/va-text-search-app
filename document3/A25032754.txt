@@ -1,0 +1,135 @@
+Citation Nr: A25032754
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240605-447808
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to a rating higher than 30 percent for the service-connected asbestosis with chronic obstructive pulmonary disease (COPD) is denied.
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) on an extraschedular basis, effective July 1, 2014, is granted.
+
+Entitlement to a TDIU on an extraschedular basis prior to July 1, 2014 is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's asbestosis with COPD impairment level was most accurately represented by the August 2009 DLCO of 57 percent predicted, the July 2012 DLCO of 60 percent predicted, and April 2021 FEV-1/FVC ratio of 74 percent.
+
+2. The Veteran's service-connected disabilities rendered him unable to obtain or maintain substantially gainful employment, effective July 1, 2014. 
+
+3. The Veteran was engaged in substantially gainful employment through June 30, 2014.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a rating higher than 30 percent for the service-connected asbestosis with COPD have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.96, 4.97, Diagnostic Codes 6604, 6833.
+
+2. The criteria for a TDIU on an extraschedular basis, effective July 1, 2014, have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.340, 3.341, 4.15, 4.16.
+
+3. The criteria for a TDIU prior to July 1, 2014 have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.340, 3.341, 4.15, 4.16.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from June 1962 to July 1965. The Veteran died in August 2024, while his appeal was pending. The Appellant is his surviving spouse and was properly substituted as the claimant in September 2024.   
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the December 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review in February 2024. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Appellant would like VA to consider any evidence that was submitted that the Board could not consider, the Appellant may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Veteran's attorney (now the Appellant's attorney) submitted a statement with the June 2024 VA Form 10182. New evidence submitted with a VA Form 10182 on which the Direct Review option is selected creates uncertainty as to which Board review option the claimant intended, triggering the Board's duty to seek clarification under 38 C.F.R. § 20.202(f). See Edwards v. McDonough, 36 Vet. App. 56 (2023). The Board finds that clarification is unnecessary in this case because the statement contains argument only and cites to evidence that was considered in the December 2023 rating decision. Therefore, the Board can proceed.
+
+In July 2024, the Veteran's attorney waived any time left to pursue a different review option pursuant to 38 C.F.R. § 20.202. 
+
+1. Entitlement to a rating higher than 30 percent for the service-connected asbestosis with COPD is denied. 
+
+As the substituted claimant, the Appellant seeks a higher rating for the service-connected asbestosis with COPD (respiratory disability). 
+
+The respiratory disability is rated under Diagnostic Codes 6604-6833. Diagnostic Code 6604 governs COPD and Diagnostic Code governs asbestosis. See 38 C.F.R. § 4.97, Diagnostic Codes 6604, 6833. The diagnostic codes rate based on pulmonary function tests (PFTs) and the relevant terms for measurement are: Forced Expiratory Volume in one second (FEV-1); Forced Expiratory Volume in one second to Forced Vital Capacity (FEV-1/FVC); and Diffusion Capacity of the Lung for Carbon Monoxide by the Single Breath Method (DLCO (SB)). See id. 
+
+Diagnostic Code 6604 rates COPD as follows: FEV-1 of 56 to 70 percent predicted, or FEV-1/FVC of 56 to 70 percent, or DLCO (SB) of 56 to 65 percent predicted (30 percent); FEV-1 of 40- to 55-percent predicted, or FEV-1/FVC of 40 to 55 percent, or DLCO (SB) of 40- to 55-percent predicted, or maximum oxygen consumption of 15 to 20 ml/kg/min (with cardiorespiratory limit) (60 percent); and FEV-1 less than 40 percent of predicted value, or the ratio of FEV-1/FVC less than 40 percent, or DLCO (SB) less than 40-percent predicted, or maximum exercise capacity less than 15 ml/kg/min oxygen consumption (with cardiac or respiratory limitation), or cor pulmonale (right heart failure), or right ventricular hypertrophy, or pulmonary hypertension (shown by Echo or cardiac catheterization), or episode(s) of acute respiratory failure, or; requires outpatient oxygen therapy (100 percent). See 38 C.F.R. § 4.97, Diagnostic Code 6604.
+
+Diagnostic Code 6833 rates asbestosis as follows: FVC of 65 to 74 percent, or a DLCO (SB) of 56 to 65 percent predicted (30 percent); FVC of 50 to 64 percent predicted, or DLCO (SB) of 40 to 55 percent predicted, or maximum exercise capacity of 15 to 20 ml/kg/min oxygen consumption with cardiorespiratory limitation (60 percent); FVC of less than 50 percent of predicted value, or DLCO (SB) of less than 40 percent of predicted, or maximum exercise capacity less than 15 ml/kg/min oxygen consumption with cardiac or respiratory limitation, or cor pulmonale (right heart failure) or pulmonary hypertension, or requires outpatient oxygen therapy (100 percent). 38 C.F.R. § 4.97, Diagnostic Code 6833.
+
+When evaluating based on PFTs, post-bronchodilator results are used in applying the evaluation criteria in the rating schedule unless the post-bronchodilator results were poorer than the pre-bronchodilator results. See 38 C.F.R. § 4.96(d)(5). In those cases, use the pre-bronchodilator values for rating purposes. See id. When there is disparity between the results of different PFTs so that the level of evaluation would differ depending on which test result is used, the Board uses the test result that the examiner states most accurately reflect the level of disability. See id. 
+
+Turning to the evidence, the Veteran was only afforded two VA examinations during the appeal period. Due to the argument that his 2009 VA examinations, which took place prior to the claim for COPD, more accurately reflected his impairment, the Board will also consider the medical evidence prior to the appeal period.
+
+The Veteran underwent a private PFT in February 2007. His FEV-1 was 85 percent predicted, and his FVC was 85 percent predicted, with significant improvement after a single dose of inhaled bronchodilator. His diffusing capacity was noted as "within normal limits." He was assessed with mild airway obstruction. He followed up with his pulmonologist in January 2009 and he denied new complaints. Continued complaints of tiredness and fatigue were noted, and he was instructed to continue with his current regimen. 
+
+The Veteran underwent a VA PFT in April 2009. The examiner determined that the spirometry was of poor quality and did not meet the requisite criteria for reproducibility, and the examiner recommended that the Veteran undergo another PFT. This was reportedly related to genuine difficulty in complying with instructions despite what the technician judged to be a good effort. The examiner stated, "given the above caveats, the best results achieved" were FEV-1 of 59 percent predicted, FVC of 47 percent predicted, and DLCO of 27 percent predicted. 
+
+He underwent another VA PFT in August 2009. His pre-bronchodilator FVC was 83 percent predicted, post-bronchodilator FVC was 56 percent predicted, and DLCO was 57 percent predicted. Several pre-bronchodilator spirometry trials were attempted, and the technician circled trial 4, which revealed FEV-1/FVC of 52 percent. Post-bronchodilator trials showed worse results. The technician noted that the Veteran seemed dyspneic throughout testing. A VA physician reviewed the results and, after review of relevant literature and discussion with pulmonary medicine colleagues, determined that the Veteran's disability was most accurately represented by the DLCO result because "it is a more sensitive test for detection of early interstitial disease, which is the best explanation for the current functional status of [the Veteran's] lungs." The examiner further stated that "[a]s with other inflammatory processes which affect the parenchymal tissues of the lung, impairment of the diffusion of respiratory gases across the lining of the smallest airways (as indicated by a decrease in the DLCO) often becomes very severe long before a significant decrease in the FVC parameter which indicates the overall (organ-level) airflow function is seen."  The Board finds this extremely probative and relied on the Veteran's August 2009 DLCO result. 
+
+The Veteran was afforded a third VA PFT in July 2012. Pre-bronchodilator PFT results showed FVC of 73 percent predicted, FEV-1 of 68 percent predicted, FEV-1/FVC of 75 percent, and DLCO of 60 percent predicted. Post-bronchodilator PFT results showed FVC of 85 percent predicted, FEV-1 of 74 percent predicted, and FEV-1/FVC of 69 percent. The examiner determined that the Veteran's DLCO was the best indicator of his disability level. 
+
+He was afforded a fourth VA PFT in April 2021. Pre-bronchodilator PFT results showed FVC of 78 percent predicted, FEV-1 of 83 percent predicted, FEV-1/FVC of 68 percent, and DLCO of 105 percent predicted. Post-bronchodilator PFT results showed FVC of 63 percent predicted, FEV-1 of 70 percent predicted, and FEV-1/FVC of 74 percent. The examiner determined that his FEV-1/FVC was the best indicator of his disability level.
+
+After reviewing the available medical evidence, the Board finds that a rating higher than 30 percent is not warranted for the entire appeal period. The VA provider who reviewed the April 2009 PFT determined that it was poor quality and unreliable. For these reasons, the Board did not consider it. His subsequent PFT results, including the August 2009 DLCO, July 2012 DLCO, and April 2021 FEV-1/FVC, meet the criteria for a 30 percent rating and no higher.  
+
+The Board considered the argument made by Dr. Carey in a July 2020 statement and arguments made by the Veteran's attorney in various submissions, including in August 2020 and April 2022. Dr. Carey argued that a higher rating is warranted based on the April 2009 PFT results. He cited to the FEV-1/FVC ratio of 59 percent predicted pre-bronchodilator and 47 percent predicted post-bronchodilator, and stated these deficits "would be classified as severe." Per VA regulations, however, the Board would not consider the post-bronchodilator results because they were poorer than the pre-bronchodilator results, and the FEV-1/FVC ratio of 59 percent is squarely within the 30 percent rating criteria under Diagnostic Code 6604. See 38 C.F.R. §§ 4.96, 4.97. Critically, it was determined by the providers who conducted and reviewed the PFTs that the April 2009 PFT was unreliable. Thus, a higher rating is not warranted based on the April 2009 PFT results regardless. 
+
+Dr. Carey and the Veteran's attorney cited to an FEV-1 measurement of 38 percent and FEV-1/FVC ratio of 37 percent from the August 2009 PFT to support a 60 percent rating. The August 2009 VA provider who reviewed the results opined, with confirmation from VA pulmonologists, that the DLCO result most accurately represented the Veteran's impairment level. The DLCO result was 57 percent, which is squarely within the criteria for a 30 percent rating under Diagnostic Code 6833. The Board finds that the opinion for utilizing the DLCO result is more probative than Dr. Carey's opinion because it included a rationale supported by medical literature and specialists in pulmonology. Accordingly, a higher rating is not warranted based on the August 2009 PFT results.  
+
+Dr. Carey utilized the April 2009 and August 2009 results to question the July 2012 PFT results and opined that "it is extremely unlikely that [the Veteran's] condition improved between the August 2009 PFTs and the July 2012 PFTs." There is no evidence that the examination was inadequate or that the results were inaccurate. Furthermore, there is little difference between the August 2009 DLCO result and the July 2012 DLCO result, which both VA examiners determined most accurately reflected the Veteran's impairment level. The Board finds that the contemporaneous objective data is more probative than Dr. Carey's opinion based on descriptions of the Veteran's impairment made many years later. Critically, the Board must base the ratings for asbestosis and COPD using PFT results unless specific criteria, outlined in 38 C.F.R. § 4.96(d)(1), are met. The criteria were not satisfied here. The regulations further instruct to evaluate based on PFTs "when PFT's are not consistent with clinical findings" unless an examiner states why they are not a valid indication of respiratory functional impairment in a particular case. Id. at (d)(3). Here, the VA examiner did not find that the results were not a valid indication of his impairment at that time and explained why. Again, the Board finds that the contemporaneous medical evidence is more probative than Dr. Carey's opinion written 8 years later based on subjective details of the Veteran's impairment at that time. 
+
+In April 2022, the Veteran's attorney argued that the April 2021 FVC of 63 percent supports the claim that a higher rating is warranted. The April 2021 PFT showed a pre-bronchodilator FVC of 78 percent predicted and post-bronchodilator FVC of 63 percent predicted. The Board must use the pre-bronchodilator result when the post-bronchodilator result is worse. 38 C.F.R. § 4.96(d)(5). An FVC of 78 percent predicted warrants a 10 percent rating under Diagnostic Code 6833 and is not the test result the examiner indicated was the best measure of the Veteran's impairment level. 
+
+Accordingly, based on the weight of the persuasive evidence, the Board finds that a rating higher than 30 percent is not warranted for the service-connected asbestosis with COPD and the claim is denied.
+
+2. Entitlement to a TDIU on an extraschedular basis, effective July 1, 2014, is granted. 
+
+As the substituted claimant, the Appellant seeks entitlement to a TDIU prior to August 26, 2020.
+
+Although the Veteran filed his formal claim for a TDIU on August 26, 2020, his claim for a higher rating for his service-connected respiratory disability has been pending since June 16, 2010 and his TDIU claim is based on his respiratory disability. Thus, the Board will consider entitlement to a TDIU as of June 16, 2010, the date he filed his respiratory disability claim that is also on appeal. See Rice v. Shinseki, 22 Vet. App. 447, 453-454 (2009); see also Harper v. Wilkie, 30 Vet. App. 356, 359 (2018).
+
+The threshold requirement for the assignment of a schedular TDIU are not met prior to August 26, 2020. See 38 C.F.R. § 4.16(a). As such, the sole means to a TDIU for this period is through an extraschedular evaluation. See 38 C.F.R. § 4.16(b). The Board referred the present claim to VA's Director of Compensation Service for extraschedular consideration in June 2023 and the Director issued an opinion in November 2023. Thus, the Board can decide the merits of the claim.
+
+Total disability ratings for compensation may be assigned, where the schedular rating is less than total, when the disabled person is unable to secure or follow a substantially gainful occupation as the result of service-connected disabilities. See 38 C.F.R. § 4.16. In Ray v. Wilkie, the Court interpreted and defined the phrase "unable to secure and follow a substantially gainful occupation" in § 4.16 to encompass two components: one economic and one noneconomic. 31 Vet. App. 58, 72 (2019). The Court held the economic component "simply means an occupation earning more than marginal income (outside of a protected environment) as determined by the U.S. Department of Commerce as the poverty threshold for one person." Id. at 73. Determining whether the non-economic component is satisfied necessitates consideration of the Veteran's history, education, skill, and training, his physical ability to perform the type of activities required by the occupation at issue, and his mental ability to perform the activities required by the occupation at issue. See Ray, 31 Vet. App. at 73.
+
+After reviewing the evidence, the Board finds that the Veteran is entitled to a TDIU on an extraschedular basis, effective July 1, 2014.
+
+The record shows that the Veteran's previous work experience includes 10 years as a computer operator at a brick manufacturing plant. He contends that he left this job due to his respiratory disability. From July 2008 to June 30, 2014, he worked as a custodian parttime. His retirement was classified as a service retirement and not a disability retirement. His 2019 SSA earnings history, received in April 2022, confirmed he received no income after 2014. 
+
+In August 2020, the Veteran wrote that the "last few years have become increasing[ly] difficult for me" and "each year is more difficult than the other." He wrote that he was unable to work outside in the garden, walk in the park, and play with his granddaughter due to his respiratory disability. The Appellant and their children also wrote letters stating the Veteran was unable to engage in activities he previously could. 
+
+In March 2019, the Veteran submitted a private nexus opinion from Dr. Carey, a medical doctor, to support his service connection claim for COPD. He opined the Veteran's frequent exacerbations of respiratory symptoms related to any amount of extended activity had prevented him from maintaining gainful employment since 2010. In April 2019, the Veteran's family medicine physician similarly wrote that the Veteran's ability to work and perform daily activities had declined, he was no longer able to stand for prolonged periods without resting, and his condition forced him to leave full time work in 2010 due to his lack of stamina and inability to perform his duties without fatigue. 
+
+The Veteran underwent a vocational assessment in April 2022. The provider concluded that his bilateral hearing loss, tinnitus, and respiratory conditions prevented him from participating in gainful employment since July 2014. She opined his previous occupations as a janitor and computer operator required light to medium work and his respiratory disability significantly limited his ability to perform any physical work. She further noted that the Veteran had retired from his operator job due to his respiratory disability, and his hearing loss and tinnitus disabilities would additionally impact his ability to operate in an environment with typical noise. Due to his education, work experience, and disabilities, she concluded he would be unable to obtain a new occupation, including sedentary work. 
+
+In November 2023, VA's Director of Compensation Service recommended entitlement to a TDIU effective August 26, 2020 be granted. The grant was based on the Veteran's medical records, lay statements, and vocational assessment. The Director highlighted that the evidence showed the limitations from the Veteran's respiratory disability "would be prohibitive for any employment." The Director also noted that the Veteran's hearing loss would impact his ability to communicate and attend meetings. For these reasons, the Director recommended a grant effective August 26, 2020. 
+
+It is unclear whether the Director limited the grant to August 26, 2020 based on the date the Veteran filed his formal claim for a TDIU or because the Veteran's rating for his bilateral hearing loss was increased from 0 percent to 10 percent on that date. The Board finds, however, that the evidence shows that his hearing loss and tinnitus impacted his ability to hear and communicate with others prior to August 26, 2020, regardless of the assigned ratings. Critically, the evidence shows that his respiratory disability caused him to leave his parttime work as a custodian and impacted his ability to engage in normal daily activities, like walking and performing household tasks, since July 1, 2014. Indeed, the Director's recommendation relied on evidence of the Veteran's respiratory impairment prior to August 26, 2020. The Board thus finds that the basis for the Director's recommendation remains relevant to the period prior to August 26, 2020. 
+
+After weighing the evidence, including the lay statements, vocational assessment, and the Director's recommendation, the Board finds that the evidence shows a TDIU is warranted on an extraschedular basis, effective July 1, 2014, when the Veteran stopped working. Accordingly, the claim for a TDIU effective July 1, 2014 is granted. 
+
+3. Entitlement to a TDIU prior to July 1, 2014 is denied. 
+
+The Board referred the present claim to VA's Director of Compensation Service for extraschedular consideration in June 2023 and the Director issued an opinion in November 2023. In its decision, the Board stated that the vocational assessment, in which the provider opined that the Veteran has been unemployable since July 1, 2014, triggered the referral. However, the Board referred the claim for a TDIU on an extraschedular basis without a time frame limitation. In the opinion, the Director of Compensation Service only found a grant of entitlement to a TDIU was warranted on an extraschedular basis, effective August 26, 2020. However, the Board finds entitlement to a TDIU on an extraschedular basis prior to that date was implicitly considered by the Director of Compensation Service, as the Director considered the Veteran's contention he was too disabled to work beginning June 1, 2008, and noted that he had worked part-time as a custodian from July 1, 2008 to July 1, 2014. Therefore, the Board can decide the merits of the claim for TDIU on an extraschedular basis prior to July 1, 2014. 
+
+Marginal employment shall not be considered substantially gainful employment. See 38 C.F.R. § 4.16(a). Marginal employment generally shall be deemed to exist when a veteran's earned annual income does not exceed the amount established by the U.S. Department of Commerce as the poverty threshold for one person. See id.; Ray, 31 Vet. App. at 72. Marginal employment may also be held to exist, on a facts-found basis when the Veteran's earned annual income exceeds the poverty threshold, including, but not limited to, employment in a protected environment such as a family business or sheltered workshop. See 38 C.F.R. § 4.16(a). Here, the Veteran's part-time earnings prior to July 1, 2014 exceeded the poverty threshold for one person. The issue is whether, on a facts-found basis, the evidence shows that his employment was marginal.
+
+The Veteran's SSA earnings history show that he earned the following income from 2010 to 2014: $13,952 (2010); 13,696 (2011); $14,103 (2012); $14,754 (2013); and $10,463 (2014). The poverty thresholds for one person 65 years and over for those years are as follows: $10,458 (2010); $10,788 (2011); $11,011 (2012); $11,173 (2013); and $11,354 (2014). 
+
+The Veteran reported during the July 2012 VA examination that he took an early retirement from the brick factory because he believed he no longer had the energy to work full-time. He reported that he was only able to find work as a custodian in a local school, and worked 4 hours per day, 5 days per week through June 30, 2014. His retirement was classified as a service retirement and not a disability retirement.
+
+The Board finds that the Veteran's part-time work as a custodian did not constitute marginal employment. For pension cases, VA has listed examples of what can constitute marginal employment, including a self-employed farmer, a small business owner, a contractor, a person who works odd jobs, or a person employed at less than half the usual remuneration (payment received for usual employment). See 38 C.F.R. § 4.17(a). Working in a "protected environment" can also constitute marginal employment. See 38 C.F.R. § 4.16(a).  The term "protected environment" is not defined by regulation. See Cantrell v. Shulkin, 28 Vet. App. 382 (2017). Factors such as the type and extent of accommodations received, the employer behavior or intent toward the Veteran, and whether the Veteran's income is significantly above the poverty threshold can be considered. See Arline v. McDonough, 34 Vet. App. 238 (2021) (Bartley, J., dissenting in part). In LaBruzza v. McDonough, the Court defined "employment in a protected environment" as a "lower-income position that, due to the veteran's service-connected disability or disabilities, is shielded in some respect from competition in the employment market." 37 Vet. App. 111, 123-24 (2024). The Court held that the "protected-environment inquiry is highly factual by its nature" and "no fact or factor should be dispositive," including income, disability accommodations, and employer intent. Id. at 124. The Court emphasized the income must be "relatively low" to qualify as "in a protected environment." Id.
+
+Here, the evidence shows the Veteran worked regularly, albeit part-time. Part-time work is not de facto marginal employment, however. There is no evidence that his position was shielded from competition in the employment market and his statements made during the July 2012 examination suggest that he obtained his job in a typical manner. The evidence also does not show that he received any accommodations beyond those required by law. Finally, his earned income was beyond the poverty threshold for one person 65 years and over. The evidence therefore does not show that he worked in a protected environment or that his employment was otherwise marginal. 
+
+Because the Veteran was engaged in substantially gainful employment through June 30, 2014, the Board finds that a TDIU is not warranted for that period. Accordingly, the claim for a TDIU prior to July 1, 2014 is denied. 
+
+ 
+
+ 
+
+MICHELLE L. KANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Lavan
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

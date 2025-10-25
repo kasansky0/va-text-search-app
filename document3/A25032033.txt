@@ -1,0 +1,93 @@
+Citation Nr: A25032033
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240621-451023
+DATE:  April 8, 2025
+
+REMANDED
+
+Entitlement to service connection for left arm numbness is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Coast Guard from September 1979 until his honorable discharge in September 1981.
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the June 2024 Regional Office decision. 38 C.F.R. § 20.301. If evidence was submitted during the period after the Regional Office issued the decision, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claims of entitlement to service connection for left arm numbness, any evidence the Board could not consider will be considered by the Regional Office in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+?
+
+Entitlement to service connection for left arm numbness.
+
+The Veteran was afforded a January 2024 VA examination; however, the Board finds that the nexus opinions were inadequate. Where VA provides the Veteran with an examination in a service connection claim, the examination must be adequate. Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).
+
+The Veteran reported an in-service motor vehicle accident in January 2024 disability benefits questionnaire examination. The VA examiner failed to address this in the direct service-connection nexus opinion. The service treatment records report that a motor vehicle accident took place on August 14, 1981, and that the Veteran complained of neck pain. The examiner stated
+
+ The claimant is diagnosed with l arm numbness The claimed condition is less likely than not (likelihood is less than approximately balanced or nearly equal) incurred in or caused by the claimed in-service injury, event, or illness. Rationale is, STRS were reviewed there is no evidence of a medical condition to cause L arm numbness in strs. 
+
+The Board finds that this opinion is inadequate as it fails to address the Veteran's statement and the service treatment record reporting that the Veteran was in a motor vehicle accident during service. See Dalton v. Nicholson, 21 Vet. App. 23, 39-40 (2007) (finding an examination inadequate where the examiner relied on the lack of evidence in service treatment records to provide negative etiology opinion).
+
+For this reason alone, the claim must be remanded as there is not enough competent medical evidence to grant the claim. 
+
+The Veteran also asserts that the left arm numbness is secondary to the service-connected left arm scars and/or a result of exposure to toxins during service. 
+
+The negative secondary service opinion included the following rationale, "minor scars and [abrasions] do not cause 20+ years of L arm numbness STRS were reviewed there is no evidence of a medical condition to cause L arm numbness in strs." The Board finds that this opinion is conclusory and again violates Dalton. 
+
+The United States Court of Appeals for Veterans Claims has routinely found medical opinions such as these inadequate for the Board to rely on. See, e.g., Horn v. Shinseki, 25 Vet. App. 231, 240 (2012) (holding that "an unexplained conclusory opinion is entitled to no weight in a service-connection context"); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007) (stating that the Board may not assess the probative value of "a mere conclusion by a medical doctor"); Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008) (an examiner may not merely list facts and conclusions with no reasoned explanation connecting the two). As a result, a new secondary service connection opinion is required. 
+
+After describing the toxic exposure in service, the examiner provided the following opinion:
+
+The claimed condition is less likely than not (likelihood is less than approximately balanced or nearly equal) caused by the indicated toxic exposure risk activity(ies), after considering the total potential exposure through all applicable military deployments of the veteran and the synergistic, combined effect of all toxic exposure risk activities of the veteran. Rationale is there is no medical or scientific evidence available that provides any indication of a relationship between the development of the condition(s) at issue and the TERA.
+
+See January 2024 VA Examination. Again, the Board finds that this opinion is also inadequate. The Board finds that a new VA addendum examination is required to provide new VA nexus opinions.
+
+The matter is REMANDED for the following action:
+
+Obtain an addendum opinion regarding the etiology of the Veteran's left arm numbness disability. The entire claims file must be made available to and be reviewed by the examiner. If an examination is deemed necessary, it shall be provided. An explanation for all opinions expressed must be provided.
+
+The examiner must address the following:
+
+(a.) Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the left arm numbness had its onset in or is otherwise related to active service.
+
+The examiner is instructed to address the Veteran's assertion in the disability benefits questionnaire that the left arm numbness began after the August 1981 motor vehicle accident in service. Stating that left arm numbness was not reported in the service treatment records alone is not enough and will be found inadequate.
+
+(b.)  Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's left arm numbness has been was caused or aggravated a service-connected disability, to specifically include left arm scars and/or low back disability. 
+
+The examiner is advised that aggravation under 38 C.F.R. § 3.310(b) does not require that there be "permanent" worsening of the nonservice connected disability.
+
+The examiner is also advised that 38 U.S.C. § 1110 allows for service connection of conditions that would have been less severe were it not for the service-connected disability even if the worsening of the condition occurs due to the natural progression of that condition. See Spicer v. McDonough, 61 F.4th 1360, 1364 (2023).
+
+The examiner must provide separate opinions and rationales to address secondary causation and secondary aggravation. Atencio v. O'Rourke, 30 Vet. App. 74 (2018).
+
+(c.) Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's left arm numbness is due to toxic exposure during service, to include exposure to o carcinogenic compounds, benzene, certain polycylic aromatic hydrocarbons (PAHs), formaldehyde, vinyl chloride, halogenated compounds, and hydrogen cyanide (HCN).
+
+The examiner is reminded to consider the Veteran's lay statements regarding the nature and onset of his disability, including any evidence concerning continuity of symptomatology, as he is legally permitted to report his symptoms, past medical history, and experiences. 
+
+The examiner must not opine on the credibility of the Veteran. The examiner may, however, discuss whether there is any medical reason to accept or reject the Veteran's assertions. 
+
+A clear and detailed rationale for the opinion(s), including a discussion of the facts and medical principles involved, should be provided as it will be of considerable assistance to the Board. Please do not simply list the facts on which you relied. 
+
+The examiner is informed that reliance on a lack of treatment and/or gap between discharge from military service and diagnosis of a disability, without explaining why such evidence is significant, may be an insufficient rationale.
+
+If the examiner relies on medical treatises, the examiner should identify and discuss the treatises. 
+
+If the examiner determines a disability was acute rather than chronic, the examiner should explain how he or she arrived at that conclusion rather providing a conclusory opinion. For example, what evidence led to that conclusion, what would the examiner expect to see if a condition was chronic, how do the Veteran's lay statements, if any, affect the conclusion?
+
+If the examiner determines that a requested opinion cannot be rendered without resorting to speculation, the examiner must state whether the need to speculate is caused by a deficiency in the state of general medical knowledge (i.e., no one could respond given medical science and the known facts) or by a deficiency in the record or the examiner (i.e., additional facts are required, or the examiner does not have the needed knowledge or training). The examiner should identify what evidence is necessary to offer an opinion and why such evidence cannot be obtained.
+
+ 
+
+ 
+
+L. Chu
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. A. Johnston, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

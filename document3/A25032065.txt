@@ -1,0 +1,77 @@
+Citation Nr: A25032065
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240828-468657
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for irritable bowel syndrome (IBS) to include gastroesophageal reflux disease (GERD) is denied.
+
+FINDING OF FACT
+
+The Veteran's IBS with GERD has been manifested by recurrent pyrosis, reflux, diarrhea or alternating constipation without abdominal distress.  Moderate IBS with frequent episodes of bowel disturbance with abdominal distress, or severe IBS manifested by diarrhea or alternating diarrhea and constipation with more or less constant abdominal distress have not been shown.
+
+CONCLUSION OF LAW
+
+The criteria for an initial compensable rating for IBS to include GERD have not been met.  38 U.S.C. § 1155, 5107; 38 C.F.R. §§ 3.102, 4.1-4.7, 4.113, 4.114, Diagnostic Code 7346-7319.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 1988 to January 1994.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2023 rating decision and a February 2024 higher-level review (HLR) rating decision by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In October 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of the July 2023 rating decision.  In February 2024, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior July 2023 rating decision.  As such, the record on appeal closed on the date of the AOJ's notice of the July 2023 rating decision.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), the appellant elected the Direct Review option; therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.
+
+Entitlement to a compensable rating for IBS to include GERD.
+
+The Veteran is in receipt of a non-compensable rating based on his symptoms of IBS, to include GERD, pursuant to Diagnostic Codes 7346-7319, effective May 16, 2023.  
+
+As a preliminary matter, in accordance with 38 C.F.R. § 4.114, ratings under Diagnostic Codes 7301 to 7329, inclusive, 7331, 7342, and 7345 to 7348 inclusive will not be combined with each other.  A single evaluation will be assigned under the diagnostic code which reflects the predominant disability picture, with elevation to the next higher evaluation where the severity of the overall disability warrants such elevation.
+
+The Veteran is rated under Diagnostic Code 7346-7319.  Hyphenated diagnostic codes are used when a rating under one diagnostic code requires use of an additional diagnostic code to identify the specific basis for the evaluation assigned; the additional code is shown as a hyphen.  38 C.F.R. § 4.27.
+
+The Veteran's IBS and GERD is rated by analogy to 38 C.F.R. § 4.114, Diagnostic Code 7346-7319, for irritable colon syndrome.
+
+During the pendency of the appeal, VA published amendments to 38 C.F.R. § 4.114, the Schedule of Ratings for the Digestive System, effective May 19, 2024.  Under the amended criteria, Diagnostic Code 7319 was amended to irritable bowel syndrome (IBS), and a new diagnostic code, Diagnostic Code 7206, was added for GERD.  Schedule of Rating Disabilities: The Digestive System, 89 Fed. Reg. 19735, 19754 (Mar. 20, 2024).
+
+Diagnostic Code 7319 is one of the diagnostic codes that was amended.  VA thus must consider the claim for a higher disability rating pursuant to the former and revised regulations during the latter part of this appeal.  VAOPGCPREC 3 2000, 65 Fed. Reg. 33,422 (2000); DeSousa v. Gober, 10 Vet. App. 461, 467 (1997).  Therefore, the Board will consider the Veteran's claim under the old criteria prior to May 19, 2024, and both the old and new rating criteria from May 19, 2024.  The criteria that is more favorable to the Veteran will be applied.
+
+Prior to May 19, 2024, Diagnostic Code 7319 for irritable colon syndrome, directed a noncompensable disability rating for mild disturbances of the bowel function with occasional episodes of abdominal distress.  A 10 percent disability rating is warranted for moderate, frequent episodes of bowel disturbance with abdominal distress.  A 30 percent disability rating is warranted for severe; diarrhea, or alternating diarrhea and constipation, with more or less constant abdominal distress.
+
+As of May 19, 2024, under the amended version of Diagnostic Code 7319, the criteria for irritable bowel syndrome: abdominal pain related to defecation at least once during the previous three months; and two or more of the following: (1) change in stool frequency, (2) change in stool form, (3) altered stool passage (straining and/or urgency), (4) mucorrhea, (5) abdominal bloating, or (6) subjective distension, is rated 10 percent disabling; abdominal pain related to defecation for at least three days per month during the previous three months; and two or more of the following: (1) change in stool frequency, (2) change in stool form, (3) altered stool passage (straining and/or urgency), (4) mucorrhea, (5) abdominal bloating, or (6) subjective distension, is rated 20 percent disabling; and abdominal pain related to defecation is at least one day per week during the previous three months; and two or more of the following: (1) change in stool frequency, (2) change in stool form, (3) altered stool passage (straining and/or urgency), (4) mucorrhea, (5) abdominal bloating, or (6) subjective distension, is rated 30 percent disabling. A 30 percent rating is the maximum rating provided under Diagnostic Code 7319.
+
+Prior to May 19, 2024, Diagnostic Code 7346, for hiatal hernia provided a 10 percent disability rating is warranted for two or more of the symptoms for the 30 percent evaluation of less severity.  A 30 percent evaluation is warranted for persistently recurring epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of the Veteran's health and the maximum 60 percent evaluation is warranted for symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health.
+
+For reference, "Considerable" is defined as "large in extent or degree." Merriam-Webster's Collegiate Dictionary 267 (11th ed. 2012).  "Severe" is defined as "very painful or harmful."  Id. at 1140.
+
+Under the new Diagnostic Code 7206 for GERD, a noncompensable evaluation is assigned for documented history without daily symptoms or requirement for daily medications.  A 10 percent rating is assigned for documented history of esophageal stricture(s) that requires daily medications to control dysphagia otherwise asymptomatic.  A 30 percent rating is assigned for documented history of recurrent or refractory esophageal stricture(s) causing dysphagia which requires dilation no more than 2 times per year.  A 50 percent rating is assigned for documented history of recurrent or refractory esophageal stricture(s) causing dysphagia which requires at least one of the following (1) dilatation 3 or more times per year, (2) dilatation using steroids at least one time per year, or (3) esophageal stent placement. An 80 percent rating is assigned for documented history of recurrent or refractory esophageal stricture(s) causing dysphagia with at least one of the symptoms present: (1) aspiration, (2) undernutrition, and/or (3) substantial weight loss as defined by § 4.112(a) and treatment with either surgical correction or percutaneous esophago-gastrointestinal tube (PEG tube).
+
+The revised rating criteria apply to all claims received by VA or that are pending before the AOJ on or after May 19, 2024.  Claims pending prior to the effective date will be considered under both the old and new rating criteria and the criteria which is more favorable to the Veteran's claim will be applied.  The Federal Circuit has held that the Board may not apply a current regulation prior to its effective date unless the regulation explicitly provides otherwise.  Kuzma v. Principi, 341 F.3d 1327, 1328 (Fed. Cir. 2003).  The Board is not precluded from applying the prior version of an applicable regulation to the period on or after the effective date of the new regulations if the prior version was in effect during the pendency of the claim (as in this appeal).  38 U.S.C. 5110(g).
+
+The Veteran was afforded a VA intestinal examination in June 2023.  The examiner diagnosed the Veteran with IBS.  The Veteran reported current symptoms of a "sudden urge to go within 5 minutes max, having to go when going somewhere."  He stated that stress makes it worse.  Additionally, he reported that "if stressed he has to go, then unable to go for 2-3 days after.  He described getting very hot and sweaty "when he has to go" along with cramps.  The Veteran requires continuous medication for control of his intestinal condition.  He denied surgical treatment for an intestinal condition.  The Veteran reported signs or symptoms attributable to any non-surgical non-infectious intestinal conditions were described as alternating diarrhea and constipation.  The Veteran reported 3 days of diarrhea and 3 days of constipation per week.  The Veteran did not have episodes of bowel disturbance with abdominal distress, or exacerbations or attacks of the intestinal condition.  The Veteran did not have weight loss attributable to an intestinal condition and no malnutrition, serious complications or other general health effects attributable to the intestinal condition.  
+
+In the June 2023 esophageal examination report, the examiner noted a diagnosis of GERD.  The Veteran's current symptoms include heartburn and soreness in the back of the throat.  He uses a wedge pillow.  He reported taking over the counter medication.  He stated he does not take prescription medication because he takes too many already.  He reported certain foods exacerbate his condition.  He watches what he eats.  It impacts the amount of sleep and quality of sleep, and causes pain in his chest and back of throat, which can make talking difficult at times.  His condition did not impact his ability to work.  
+
+The Board finds that the evidence is persuasively against the assignment of a compensable rating for the Veteran's IBS under the diagnostic criteria applicable for the rating period on appeal.  The Veteran's IBS has been manifested, at worst, by symptoms of occasional episodes of bowel disturbance with abdominal distress.  Frequent episodes of bowel disturbance with abdominal distress were not indicated and, as such, the Veteran's IBS has not more nearly approximated the criteria for a 10 percent rating.  Although the Veteran reported alternating diarrhea and constipation 2 to 3 days a week, the June 2023 VA examiner found that the Veteran did not have any episodes of bowel disturbance with abdominal distress and the evidence does not otherwise show that the Veteran had more or less constant abdominal distress as is required under the 30 percent rating criteria.
+
+The Board is sympathetic to the Veteran's belief that a higher rating is warranted for his IBS with GERD.  However, the evidence of record, when compared to the rating criteria, does not warrant an initial compensable rating under the applicable rating criteria.
+
+Accordingly, the Board finds that the persuasive weight of the evidence is against this claim, and the claim is denied.  Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+ 
+
+ 
+
+David Gratz
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jordan, Jacquelynn
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

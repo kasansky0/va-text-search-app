@@ -1,0 +1,63 @@
+Citation Nr: A25033048
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240606-445997
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for sleep apnea to include as secondary to service-connected posttraumatic stress disorder (PTSD) is granted.
+
+FINDING OF FACT
+
+The Veteran's sleep apnea had its onset in service and is also secondary to his service-connected PTSD.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for sleep apnea are met.  38?U.S.C. §?1110; 38?C.F.R. §§?3.303, 3.310. 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from November 2003 to April 2005.  He also had service in the Army National Guard from January 1992 to December 2005.?? 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an April 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).?? 
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket.? As the Veteran has selected the Direct Review Docket, the Board may only consider the evidence of record before the AOJ at the time of its decision on the issue on appeal.? See 38 C.F.R. §§ 20.300(a), 301.? The Board will not consider evidence received after the agency of original jurisdiction (AOJ) decision unless the claimant files a timely request for a Board hearing or an opportunity to submit additional evidence on the NOD (VA Form 10182).? 38 C.F.R. § 20.301.? The Veteran has not filed such a request. 
+
+The Board acknowledges that in its April 2024 rating decision, the AOJ recognized that the Veteran's sleep apnea claim had been previously denied, but then considered the claim on its merits, thereby indicating that "new and relevant" evidence had been received sufficient for readjudication of the claim on its merits.  The Board is bound by this favorable finding.???
+
+Service connection for sleep apnea
+
+The Veteran contends that he has sleep apnea that is related to service, to include as due to exposure to environmental hazards such as burn pits during his service in Southwest Asia.  He alternatively contends that his sleep apnea is secondary to his service-connected PTSD.
+
+Veterans are entitled to compensation from VA if they develop a disability "resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty."  38?U.S.C. §?1110 (wartime service), 1131 (peacetime service).  To establish a right to compensation for a present disability, a veteran must show: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service"-the so-called "nexus" requirement.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004). 
+
+Service connection is also warranted for disability which is proximately due to or the result of a service-connected disease or injury.  When service connection is thus established for a secondary condition, the secondary condition shall be considered a part of the original condition.  38?C.F.R. §?3.310(a).  Any increase in severity of a non-service connected disease or injury that is proximately due to or the result of a service connected disease or injury, and not due to the natural progress of the nonservice connected disease or injury, will be service connected.
+
+The Board initially notes that the Veteran's available service treatment records are absent complaints of or treatment for sleep apnea.  However, the Veteran is competent to report experiencing difficulty sleeping and snoring during service as well as exposure to environmental hazards and moreover, his service personnel records document his service in Southwest Asia.  Additionally, the Veteran currently evidences sleep apnea, and he has indicated a continuity of sleep apnea symptoms since service and has submitted a statement from his wife documenting the continuity of sleep apnea symptoms since separation from active service.
+
+As will be discussed below, the Board finds that the most probative evidence of record demonstrates that the Veteran's current sleep apnea is related to service and the service-connected PTSD.  
+
+A probative medical opinion is of record concerning the issue of nexus for the Veteran's sleep apnea in the form of an October 2023 private opinion from L.B., PA-C.  Specifically, L.B., PA-C reviewed the Veteran's medical history and following such concluded that it is at least as likely as not that the Veteran's sleep apnea is directly linked to service as well as secondary to the service-connected PTSD.  L.B., PA-C's rationale for her conclusion was based on her finding that the Veteran did not have sleep apnea symptoms prior to service.  She further noted statements from the Veteran's wife documenting the Veteran's symptoms of loud snoring and exhibiting apneic events during sleep began shortly after the Veteran's active service.  Further, she noted her review of medical literature which in connection with the aforementioned lay evidence indicated an onset of sleep apnea in active service.  Additionally, in finding a nexus between the Veteran's sleep apnea and PTSD, L.B., PA-C documented her review of medical literature which indicated a link inasmuch that the medical evidence showed PTSD patients can exhibit anatomical changes within the brain that may contribute to sleep apnea and that PTSD patients can have almost three times the incidence of sleep apnea versus patients without PTSD regardless of other sleep apnea risk factors.  She also noted that chronic activities of stress hormones caused by PTSD may cause neural sensitization with upper airway dysfunction contributing to or aggravating sleep apnea.  Moreover, chronic stress, like that experienced from PTSD, has been associated with systemic inflammatory response, which may also contribute to upper airway remodeling and dysfunction that can lead to sleep apnea.
+
+In this case, the Board finds that the most probative evidence supports a finding that the Veteran currently has sleep apnea that had its onset during the Veteran's service and also caused by the Veteran's service-connected PTSD.  The Board finds the private opinion from L.B., PA-C to be of great probative value as the opinion was based on a thorough consideration of the Veteran's medical history. 
+
+The Board acknowledges that a VA examiner opined in a February 2024 opinion report that it is less likely than not that the Veteran's sleep apnea was caused by in-service toxic exposure risk activity.  While the examiner documented a review of medical literature in their rationale, the examiner did not address the statements from the Veteran's wife of record that noted the Veteran's sleep apnea symptoms that occurred shortly after separation from active service thereby indicating an onset of symptoms during service.  As such, the Board finds this opinion to be of minimal probative value and is outweighed by the opinion from L.B., PA-C who noted a review in particular of the Veteran's wife's statement.
+
+Also, the VA examiner opined that it is less likely than not that the Veteran's sleep apnea is proximately due to or the result of the service-connected PTSD.  Pertinently, however, the examiner did not render an opinion as to whether the Veteran's sleep apnea is aggravated by the PTSD.  The examiner also did not address medical articles reviewed by L.B., PA-C that supported a positive nexus between sleep apnea and PTSD.  Therefore, the Board finds the VA opinion to be of no probative value.   
+
+Accordingly, there is a competent and credible basis to conclude that the Veteran's current sleep apnea is caused by active service and is also secondary to the service-connected PTSD.  See 38?U.S.C. §?5107(b) (2012); 38?C.F.R. §?3.102 (2023).  Therefore, service connection for sleep apnea is warranted.  See 38?U.S.C. §?1110; 38?C.F.R. §§?3.303, 3.310. 
+
+ 
+
+ 
+
+T. Raymond
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Arif Syed, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,65 @@
+Citation Nr: A25032728
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240412-432851
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to a separate initial 30 percent disability rating for Parkinson's disease under Diagnostic Code 8004 is granted.
+
+FINDING OF FACT
+
+The persuasive weight of the evidence is in support of a finding that the Veteran's Parkinson's disease manifested with symptoms that are not independently rated as compensable.
+
+CONCLUSION OF LAW
+
+The criteria for a separate initial 30 percent rating for Parkinson's Disease under Diagnostic Code 8004 have been met. 38 U.S.C. § 1155; 38 C.F.R. § 4.124a, Diagnostic Code 8004.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from February 1987 to February 2001.
+
+This matter is on appeal from a November 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO) which adjudicated the issue of entitlement to an initial disability rating for the Veteran's Parkinson's disease based on the evidence of record at the time of the decision. The Veteran requested higher level review of this claim in December 2023 through the submission of a VA Form 20-0996. The Veteran's claim was denied in an April 2024 rating decision.
+
+The Veteran then filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD) later in April 2024 in which the Veteran elected the Direct Review option. Accordingly, this decision has been written consistent with the Appeals Modernization Act (AMA) framework.
+
+In this case, the Board may only consider the evidence of record at the time of the November 28, 2023, AOJ decision on appeal, which was subsequently subject to higher-level review. See 38 C.F.R. §§ 3.2601(f), 20.301. 
+
+If evidence was associated with the claims file during a period when additional evidence was not allowed, the Board has not considered it in its decision. Id. If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. See 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id.
+
+Entitlement to a separate initial 30 percent disability rating for Parkinson's disease under Diagnostic Code 8004.
+
+The Veteran contends that he was entitled to a separate initial disability rating for his service-connected Parkinson's disease under Diagnostic Code 8004. He is currently in receipt of 30 percent disability rating for Parkinson's disease with left upper extremity tremor pursuant to 38 C.F.R. § 4.87, Diagnostic Code 8004-8514. See November 2023 Rating Decision - Codesheet. Additionally, relevant to this claim, the Veteran is in receipt of a 20 percent disability rating for left lower extremity tremor associated with Parkinson's disease under Diagnostic Code 8520; a noncompensable rating for partial loss of smell associated with Parkinson's disease under Diagnostic Code 6275; and a noncompensable rating for sexual dysfunction associated with Parkinson's disease under Diagnostic Code 7522. Id. Notably, the Veteran does not challenge the evaluations for these conditions other than to assert that he is entitled to a separate initial disability rating of 30 percent under Diagnostic Code 8004. See December 2023 VA Form 20-0996 Request for Higher-Level Review ("[the Veteran] first appeals for a separate 30 percent rating for Parkinson's [disease] under [Diagnostic Code 8004]"); April 2024 VA Form 10182 Notice of Disagreement ("[the Veteran] asks the Board to grant a separate 30 percent rating for Parkinson's [disease] under [Diagnostic Code] 8004"). 
+
+The Board acknowledges the December 2023 VA Form 20-0996 and the April 2024 VA Form 10182 were associated with the Veteran's claims file during a period of time when additional evidence was not allowed. See 38 C.F.R. § 20.302(a). However, "[e]vidence is defined as '[s]omething (including testimony, documents, and tangible objects) that tends to prove or disprove the existence of an alleged fact." Aviles-Rivera v. McDonough, 35 Vet. App. 268, 277 (2022) (quoting BLACK'S LAW DICTIONARY (11th ed. 2019)). Legal arguments, such as those presented in the December 2023 VA Form 20-0996 and the April 2024 VA Form 10182, are therefore not evidence. See generally Harvey v. Shulkin, 30 Vet. App. 10 (2018).  Furthermore, there are no restrictions on the submission of argument.
+
+Parkinson's disease is rated under Diagnostic Code 8004, which is titled "Paralysis agitans." See Duran v. McDonough, 36 Vet. App. 230 n.2 (2023) ("'[p]aralysis agitans' is a term for 'shaking palsy' used by Dr. James Parkinson in his groundbreaking 1817 essay on the disease that would be given his name").
+
+Hyphenated Diagnostic Codes are used when a rating under one Diagnostic Code requires use of an additional Diagnostic Code to identify the basis for the evaluation assigned. See 38 C.F.R. § 4.27. In this case, the AOJ assigned a hyphenated diagnostic code to recognize Parkinson's disease (Diagnostic Code 8004) to indicate the Veteran's underlying diagnosis and paralysis of the musculospiral nerve (Diagnostic Code 8514) as indicating the symptoms.
+
+Diagnostic Code 8004 states that a 30 percent minimum rating is warranted for paralysis agitans. See 38 C.F.R. § 4.124a, Diagnostic Code 8004. The preamble to this regulation states directs VA to rate Parkinson's disease "from 10 percent to 100 percent in proportion to the impairment of motor, sensory, or mental function." Id. VA is further directed to "[c]onsider especially psychotic manifestations, complete or partial loss of use of one or more extremities, speech disturbances, impairment of vision, disturbances of gait, tremors, visceral manifestations, etc., referring to the appropriate bodily system of the schedule. With partial loss of use of one or more extremities from neurological lesions, rate by comparison with the mild, moderate, severe, or complete paralysis of peripheral nerves." Id.
+
+Furthermore, a note following Diagnostic Code 8025 indicates that "for the minimum ratings for residuals under diagnostic codes 8000-8025, that there be ascertainable residuals" and therefore requires "[d]eterminations as to the presence of residuals not capable of objective verification, i.e., headaches, dizziness, fatigability," to "be approached on the basis of the diagnosis recorded; subjective residuals will be accepted when consistent with the disease and not more likely attributable to other disease or no disease." Id.
+
+However, in Duran, the United States Court of Appeals for Veterans Claims (Court) provided an in-depth overview of Diagnostic Code 8400 and emphasized that "as a chronic, progressive disease, Parkinson's cannot be cured and does not have inactive periods. So, although Parkinson's disease manifests itself in various ways, it does not appear strictly accurate to call these manifestations 'residuals,' as that word is normally used." Duran, 26 Vet. App. at 236. Consistent with Duran, the terminology of Parkinson's disease manifestations, rather than residuals, will be used in this decision.
+
+Moreover, the Court held in Duran that the minimum 30 percent rating under Diagnostic Code 8004 for paralysis agitans (Parkinson's disease) applies, in addition to separate compensable ratings under other relevant Codes, where those manifestations do not total more than 30 percent under Diagnostic Codes other than Diagnostic Code 8004. Id. However, the Court further held that the minimum 30 percent rating under Diagnostic Code 8004 applies, in addition to separate compensable ratings under other relevant codes, where those manifestations total more than 30 percent under Diagnostic Codes other than Diagnostic Code 8004 and there is at least one ascertainable manifestation of Parkinson's disease that is not compensated under any other Code. Id. 
+
+Therefore, under the Court's holding in Duran, a Parkinson's disease diagnosis justifies a minimum disability rating of 30 percent under Diagnostic Code 8004 where its manifestations, either singly or together, do not warrant a rating higher than 30 percent. If Parkinson's disease manifestations are separately rated and combine to 30 percent or greater, a separate rating under Diagnostic Code 8004 is only warranted if there are any other Parkinson's disease manifestations that cannot be separately rated under any other appropriate diagnostic codes. Id.
+
+As noted above, the Veteran is currently rated for four manifestations of Parkinson's Disease, including two under Diagnostic Codes 8004-8514 and 8520, which combine for a disability rating of 30 percent or more, and two under Diagnostic Codes 6275 and 7522 which are rated as noncompensable. See November 2023 Rating Decision - Codesheet. As the persuasive weight of the evidence shows the Veteran has a diagnosis of Parkinson's disease with at least one ascertainable manifestation not being compensated under another Diagnostic Code, the Board agrees with the Veteran that entitlement to a separate initial 30 percent disability rating under Diagnostic Code 8004 is warranted. See 38 C.F.R. § 4.124a, Diagnostic Code 8004; Duran, 36 Vet. App. at 237. Neither the Veteran nor his representative have raised any other pertinent issues, nor have any other issues been reasonably raised by the record. See Doucette v. Shulkin, 28 Vet. App. 366, 369-70 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the record).
+
+ 
+
+ 
+
+A. S. CARACCIOLO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Doyle, Stephan C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,113 @@
+Citation Nr: A25033099
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 250225-511631
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is granted.
+
+Entitlement to service connection for tinnitus is granted.
+
+Entitlement to service connection for migraine headaches is granted.
+
+FINDINGS OF FACT
+
+1.  The Veteran had auditory thresholds of 40 decibels or greater in his right and left ears in the frequencies of 500, 1000, 2000, 3000, and 4000 Hertz, along with Maryland CNC scores below 72 percent in his right ear and below 56 percent in his left ear. 
+
+2. Resolving reasonable doubt in the Veteran's favor, his bilateral hearing loss began after exposure to acoustic trauma in service and has continued to worsen since service.
+
+3. Resolving reasonable doubt in the Veteran's favor, his tinnitus has been continuous since service.
+
+4. Resolving reasonable doubt in the Veteran's favor, his migraine headaches are caused by his service-connected tinnitus.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for bilateral hearing loss have been met.  38 U.S.C. §§ 1101, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309(a), 3.385.
+
+2. The criteria for entitlement to service connection for tinnitus have been met.  38 U.S.C. §§ 1101, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309.
+
+3. The criteria for service connection for headaches as secondary to service connected tinnitus are met.  38 U.S.C. §§ 1101, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from September 1961 to September 1963.
+
+This appeal comes to the Board of Veterans' Appeals (Board) from a February 2025 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In a February 2025 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected Direct Review.  Therefore, the Board may only consider the evidence of record at the time of the February 2025 rating decision.  38 C.F.R. § 20.301.
+
+If evidence was associated with the claims file during a period when additional evidence was not allowed, the Board has not considered it in this decision.  38 C.F.R. § 20.300.  If the Veteran like VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a supplemental claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a supplemental claim are included with this decision.
+
+The Board notes the Veteran has the right to select a different Board review option by submitting a new VA Form 10182 within one year from the date the AOJ mailed the decision on appeal, or within 60 days of the date the Board received the VA Form 10182, whichever date is later. 38 C.F.R. § 20.202(c)(2); see Williams v. McDonough, 37 Vet. App. 305 (2024).  Although the period to change dockets per 38 C.F.R. § 20.202(c)(2) has not elapsed, as notification of the February 2025 rating decision was mailed on February 10, 2025, and VA received the Veteran's VA Form 10182 on February 26, 2025, because the issues of service connection for hearing loss, tinnitus, and headaches are being granted in full, there is no prejudice to the Veteran in proceeding to adjudicate the appeal. 
+
+The Veteran was denied entitlement to service connection for bilateral hearing loss and tinnitus in a September 2021 rating decision and filed a supplemental claim in April 2024.  The May 2024 supplemental claim rating decision included a specific finding of new and relevant evidence; the Veteran filed for higher level review and the November 2024 higher-level review rating decision identified a duty to assist error and a new VA examination was obtained.  While the February 2025 rating decision did not include a specific finding of new and relevant evidence, the examination and opinion were considered and the matter was readjudicated on the merits, which the Board finds is an implicit finding of new and relevant evidence.  As the?Board is bound by the AOJ's favorable findings, new and relevant evidence need not be addressed, and the Board may proceed with addressing the merits of the claims.  See 38?C.F.R. §?3.2501.
+
+This appeal has been advanced on the docket pursuant to 38 U.S.C. § 7107(b); 38 C.F.R. § 20.902(c).
+
+SERVICE CONNECTION 
+
+To establish service connection, the evidence must generally show (1) a present disability, (2) an in-service incurrence or aggravation of a disease or injury, and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  See Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).  Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+VA has established certain rules and presumptions for chronic diseases, including organic diseases of the nervous system, such as sensorineural hearing loss and tinnitus.  See 38 C.F.R. §§ 3.303(b), 3.307, 3.309(a); Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).  With chronic diseases shown as such in service to permit a finding of service connection, subsequent manifestations of the same chronic disease at any later date, however remote, are service connected, unless attributable to intercurrent causes.  38 C.F.R. § 3.303(b).  If chronicity in service is not established, a showing of continuity of symptoms after discharge may support the claim.  38 C.F.R. § 3.303(b).
+
+Service connection may be established on a secondary basis for a disability that is proximately due to or the result of a service-connected disease or injury.  38 C.F.R. § 3.310(a).  Establishing service-connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability.  38 C.F.R. § 3.310(a).  Secondary service connection requires that a current disability exists and a finding that the disability was proximately caused, or aggravated, by a service-connected disability.  See Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+Lay evidence may be competent evidence to establish incurrence.  See Davidson v. Shinseki, 581 F. 3d 1313 (Fed. Cir. 2009).  Furthermore, a layperson is competent to report on the onset and continuity of symptomatology.  See Layno v. Brown, 6 Vet. App. 465, 470 (1994) (a Veteran is competent to report on that of which he or she has personal knowledge).  However, competent medical evidence is necessary where the determinative question is one requiring medical knowledge.  See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007).
+
+The threshold for normal hearing is from 0 to 20 decibels.  See Hensley v. Brown, 5 Vet. App. 155, 157 (1993).  Audiometric testing measures puretone threshold hearing levels (in decibels) over a range of frequencies (in Hertz).  Id.  For the purposes of applying the laws administered by VA, impaired hearing is considered a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.
+
+VA shall consider all information and medical and lay evidence of record.  Where there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; see also Lynch v. McDonough, 21 F.4th 776, 781 (Fed. Cir. 2021) (en banc).
+
+1. Entitlement to service connection for bilateral hearing loss.
+
+2. Entitlement to service connection for tinnitus.
+
+The Veteran contends that he developed hearing loss and tinnitus in service from the noise he was exposed to while assigned to a Field Artillery division.  See January 2021 VA Form 21-526EZ.  The Veteran specifically claims he began to have trouble hearing and a constant ringing or hissing in both ears after he was exposed, without hearing protection, to artillery fire, bunker explosions, rifle fire, and field training in simulated battle zones.  See January 2010 VA Audiology Consult, October 2017 VA Audiology Note, September 2021 and January 2025 VA Hearing Loss Examinations. 
+
+There are no service records in the Veteran's file, other than a copy of his DD 214 showing that he was assigned to the 4th Army Field Artillery Battery, with a military occupational specialty of personnel admin specialist, and that he had earned rifle expert and sharpshooter badges.  After multiple attempts to obtain the Veteran's records, VA determined they are "unavailable for review" and further attempt would be futile as all efforts to obtain them had been exhausted.  See August 2021 VA Letter.  When service treatment records are unavailable at no fault of the Veteran, as in this case, VA has a heightened duty to assist the Veteran in developing the claim, as well as to consider the applicability of the benefit-of-the-doubt rule.  See O'Hare v. Derwinski, 1 Vet. App. 365, 367 (1991).
+
+The Veteran has current diagnoses of tinnitus and bilateral sensorineural hearing loss for VA purposes.  See September 2021 VA Hearing Loss Examination; 38 C.F.R. § 3.385.  The Veteran's tinnitus and bilateral hearing loss diagnoses, as well as his exposure to hazardous noise during service while serving in a field artillery battery, were included as favorable findings in the November 2024 and February 2025 rating decisions.  The Board is bound by these favorable findings.  38 C.F.R. § 3.104(c).  Therefore, the first and second elements of service connection are met.     
+
+Turning to the final element of service connection, the Board notes there is evidence in favor of and against service connection.    
+
+When the Veteran first established care with VA in July 2004, he sought treatment for hearing loss and was diagnosed with a mild to moderate hearing handicap.  As previously outlined, during January 2010 and October 2017 VA audiology consults, the Veteran reported he had been exposed to artillery fire, machine gun fire, rifle fire, and handgun fire, and that he had longstanding hearing loss and tinnitus, which he described as "ringing and hissing" in both ears.  
+
+The Veteran was afforded a VA hearing loss and tinnitus examination in September 2021, during which the Veteran reported that the constant ringing in his ears began during basic training.  The examiner acknowledged the Veteran's exposure to rifle fire, and the fact that there were no entrance or separation reports of medical examinations available for review.  However, the rationale provided in support of the negative nexus opinions was that there was no evidence of treatment for hearing loss or tinnitus in service, there was a low probability of hazardous noise exposure in the Veteran's military occupational specialty of personnel administrative specialist, and that hearing loss was a comorbidity of the Veteran's metabolic syndrome of hypertension, hyperlipidemia, and diabetes.  
+
+During an April 2024 VA hearing loss examination, the Veteran reported he noticed hearing loss in October or November 1961, during basic training, following a mock combat exercise, and that his symptoms of tinnitus also began in 1961.  Despite acknowledging that the Veteran's hearing at entrance and separation was unknown, the examiner opined that it was likely that the Veteran's hearing was within normal limits during service "considering his hearing status forty years after separation", and "considering hearing progression".  The examiner's rationale in support of the negative nexus opinion was the conclusion of a 2006 Institute of Medicine study on hearing loss that a prolonged delay in onset was "unlikely".  However, the examiner also opined that the Veteran's hearing remained with in normal limits during service, even though there are no service treatment records in the file and the Veteran has consistently stated he noticed hearing loss and tinnitus in service.  
+
+The Veteran provided an opinion letter from a private otolaryngologist who opined that conditions such as loud noise environments encountered in service can lead to the development of tinnitus.  See February 2024 Letter, Dr. J.F.  Dr. J.F. also opined that the Veteran's tinnitus and migraine headaches and inextricably linked and that it is more likely than not that the Veteran's migraines are related to his tinnitus.  The Board finds that the evidence in support of the Veteran's claims for service connection for hearing loss and tinnitus, sympathetically read, sufficiently identifies the benefit sought requirement; specifically, that the Veteran's migraine headaches are a complication of his tinnitus and have been reasonably raised by the record as part of his claim for tinnitus.  See 38 C.F.R. § 3.103(a); Shea v. Wilkie, 926 F.3d 1362, 1368-69 (Fed. Cir. 2019); DeHart v. McDonough, 37 Vet. App. 371, 383-84 (2024) (citing Bailey v. Wilkie, 33 Vet. App. 188, 203 (2021) for its holding that the duty to assist includes identification and adjudication of issues, and even entire claims, that are reasonably raised by the record generated through adjudication of an initial claim).  Therefore, the Board has addressed the Veteran's entitlement to service connection for headaches on a secondary basis below. 
+
+During a November 2024 higher-level review informal conference, the Veteran stated that he was assigned to a field artillery battery, which as outlined above, was indicated on his DD 214.  VA conceded the Veteran's moderate to high probability of noise exposure due to his assignment to a field artillery unit and the heightened duty to assist the Veteran in the absence of his service records.  See November 2024 Higher-Level Review Return.  
+
+In a January 2025 VA hearing loss examination, the Veteran reported that he first noticed symptoms of hearing loss and tinnitus in October 1961, during basic training at an artillery training center, in a simulated battle zone that included bunker explosions, constant rifle firing, and artillery training and demonstrations.  The Veteran reported another instance of exposure during artillery training in January 1962.  He also reported that he did not use hearing protection in service.  The same examiner who conducted the April 2024 VA examination acknowledged that the Veteran's conceded noise exposure was "at least moderate if not high", that his hearing on entry and separation were unknown, and that his report of onset of symptoms was consistent with his prior examinations.  However, the examiner based the negative nexus opinions on silent service treatment records, the "absence of data" to support any known etiology or event, and that it was undetermined whether the Veteran had a significant threshold shift in service, despite noting his conceded noise exposure and reports of onset of hearing loss and tinnitus following exposure to artillery fire, bunker explosions, and constant rifle fire, all without hearing protection.  The examiner cited to the same 2006 Institute of Medicine study relied upon in the April 2024 opinion and provided the same rationale: that "considering his July 2004 hearing, it is probable that his hearing was within normal limits on discharge."  Notably, neither the April 2024 nor the February 2025 opinion explained how this conclusion was reached in the absence of service treatment records, and despite the Veteran's conceded exposure and his consistent reports of symptoms beginning in and continuing to worsen since service.  
+
+While the Board cannot ignore or disregard the VA examiner's medical conclusions [Willis v. Derwinski, 1 Vet. App. 66 (1991)], the Board is free to assess medical evidence and is not compelled to accept a medical opinion.  See Wilson v. Derwinski, 2 Vet. App. 614 (1992).  Here, the September 2021, April 2024, and January 2025 negative nexus opinions relied primarily on a lack of evidence of tinnitus or hearing loss symptoms in the Veteran's unavailable service treatment records, and the forty-year gap between his service and his first VA treatment record noting a complaint of hearing loss and tinnitus symptoms; however, a lack of evidence cannot be corroborating to conclude that there is no relationship between the Veteran's current disability and his military service.  See Dalton v. Nicholson, 21?Vet. App.?23 (2007).  Notably, none of the opinions considered the Veteran's lay reports of onset of symptoms of both hearing loss and tinnitus in service.  See Miller v. Wilkie, 32 Vet. App. 249, 257 (2020) (an examination with a medical opinion adequately informing the Board of the Veteran's disability while considering prior medical history requires thorough consideration of the Veteran's lay reports of symptomatology).  Furthermore, the opinions reached, to include that it was probable that the Veteran's hearing was within normal limits on discharge, were inadequate as they were speculative and without sufficient rationale.  See Nieves-Rodriguez, supra; see also Stefl v. Nicholson, 21 Vet. App. 120 (2007) (holding that a mere conclusion is insufficient to allow the Board to make an informed decision as to what weight to assign the opinion).  Therefore, the Board affords the September 2021, April 2024, and January 2025 VA opinions little probative weight.  
+
+The Veteran is competent to report his own symptoms of tinnitus and hearing loss, as it is capable of lay observation.  See Barr v. Nicholson, 21 Vet. App. 303, 307 (2007); see also Layno 6 Vet. App. at 470.  The Veteran has consistently reported that his symptoms of hearing loss and tinnitus began in service.  After careful consideration, the Board finds nothing in the record that renders the statements of the Veteran not credible.  See O'Hare, 1 Vet. App. at 367.  As the Veteran's lay statements regarding the continuity of his hearing loss and tinnitus symptoms since service are facially plausible and consistent with other evidence of record, to include his conceded hazardous noise exposure, the Board finds them to be credible and of high probative value.  See Caluza v. Brown, 7?Vet. App.?498, 511 (1995).  As such, the Board finds that the Veteran's lay statements support a finding of continuity of symptomatology since service sufficient to support service connection.  Id.; 38 C.F.R. §§ 3.303(b), 3.307, 3.309.
+
+After a careful review of the evidence, the Board finds that there is at least an approximate balance of positive and negative evidence with respect to whether the Veteran's current bilateral hearing loss and tinnitus are related to his conceded in-service acoustic trauma.  See Lynch 21 F.4th at 781-782.  Accordingly, having resolved doubt in favor of the Veteran, service connection for bilateral hearing loss and tinnitus, is warranted, and the appeal is granted.  38?U.S.C. §?5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309.
+
+3. Entitlement to service connection for migraine headaches.
+
+Regarding the Veteran's migraine headaches, the Board finds that the probative evidence of record establishes that he has a current diagnosis of migraine headaches, and that his headache disability was either caused or aggravated by his now service-connected tinnitus.  
+
+Dr. J.F., identified as a private otolaryngologist familiar with the Veteran's medical history and current conditions, opined that a perceived ringing or buzzing sound in the ears can be intricately linked to migraine headaches, and further opined that the Veteran's migraine headaches were prostrating and related to his (now service- connected) tinnitus.  See February 2024 Letter, Dr. J.F.  Therefore, as the examiner considered the Veteran's medical history and provided clear conclusions with supporting medical evidence, the Board assigns this favorable evidence significant probative weight.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008).
+
+There is no evidence of record weighing against service connection.  Therefore, the Board finds the evidence persuasively in favor of service connection.  Accordingly, as service connection for tinnitus has been granted, service connection for migraine headaches on a secondary basis is also warranted.  38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 3.310.  
+
+ 
+
+ 
+
+A. J. Spector
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Zahn, C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

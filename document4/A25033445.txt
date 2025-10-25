@@ -1,0 +1,109 @@
+Citation Nr: A25033445
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240625-450731
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA), as secondary to service-connected posttraumatic stress disorder (PTSD), is granted.
+
+FINDINGS OF FACT
+
+1.	The Veteran's OSA did not have its onset in service or is otherwise related to an in-service injury or event. 
+
+2.	The Veteran's OSA was aggravated by his service-connected PTSD.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.303, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran served in the United States Army from July 2001 to August 2005.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a May 2024 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO), an agency of original jurisdiction (AOJ).
+
+In September 2023, the Veteran submitted VA Form 20-0995, Decision Review Request: Supplemental Claim, seeking readjudication of service connection for OSA addressed in a November 2022 rating decision. In May 2024, the AOJ found new and relevant evidence had been received but ultimately denied the claim.
+
+In June 2024, the Veteran submitted VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), and elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the May 2024 rating decision on appeal. 38 C.F.R. § 20.301. If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Since the Board is granting the claim, the Board finds there is no prejudice in proceeding to a decision without a waiver of the time to switch dockets. Williams v. McDonough, 37 Vet. App. 305 (2024); 38 C.F.R. § 20.202(c)(2).
+
+Entitlement to service connection for obstructive sleep apnea (OSA), as secondary to service-connected posttraumatic stress disorder (PTSD), is granted.
+
+The Veteran seeks service connection for OSA. Specifically, he asserts that his service-connected PTSD caused or aggravated his OSA. See July 2022 VA Form 526EZ Application for Disability Compensation and Related Compensation Benefits.  
+
+Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.303. Establishing service connection requires evidence of: (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection may also be granted on a secondary basis for a disability that is proximately due to, or the result of, or aggravated by a service-connected disability. Establishing secondary service connection requires evidence of: (1) a current disability (for which secondary service connection is sought); (2) an already service-connected disability; and (3) an indication that the current disability was either (a) caused or (b) is being aggravated by the service-connected disability. 38 C.F.R. § 3.310(a) and (b); Allen v. Brown, 7 Vet. App. 439 (1995) (en banc).
+
+Factual Background
+
+In this case, the AOJ made favorable findings that the Veteran has a current diagnosis of OSA and is service-connected for PTSD. See November 2022 and May 2024 rating decisions. The Board is bound by these favorable findings. 38 C.F.R. § 3.104.
+
+Accordingly, the first two elements of secondary service connection are satisfied. The remaining question before the Board is whether the Veteran's service-connected PTSD caused or aggravated his OSA. 
+
+The Veteran's service treatment records (STRs) show that in August 2001, he reported difficulty sleeping due to constant eye pain. See page 26 of 78 STRs. However, at the time of separation, he indicated that he did not have frequent trouble sleeping. See page 6 of 78 STRs. 
+
+A September 2004 Post-Deployment assessment completed by the Veteran reflects that his health stayed about the same or got better during the deployment, and he denied still feeling tired after sleeping. See page 34 of 56 STRs.
+
+In May 2008, the Veteran complained of sleep problems for the past 3 or 4 years after returning from Iraq in 2003. See page 14 of 56 STRs. The treating provider attributed the Veteran's sleep disturbances to PTSD and prescribed Trazodone for insomnia. 
+
+In February 2022, the Veteran reported excessive daytime somnolence and snoring. See VA outpatient treatment records page 108 of 150.
+
+In August 2022, the Veteran underwent a VA Sleep Apnea examination, which confirmed a diagnosis of OSA. He reported undergoing a sleep study earlier that year and endorsed symptoms including difficulty sleeping, nightmares, snoring, fatigue during the day, and excessive daytime sleepiness. He also reported that he had recently received his CPAP machine and experienced some improvement in symptoms. 
+
+The examiner opined that the Veteran's OSA was less likely than not (less than 50 percent probability) proximately due to or the result of his service-connected PTSD. The examiner reasoned that there is no evidence to support that PTSD causes or leads to OSA. Instead, the examiner attributed the Veteran's OSA to physiological factors, explaining that OSA occurs when the muscles in the back of your throat relax during sleep, narrowing or closing the airway, which can reduce blood oxygen levels and trigger sleep disturbances. The examiner concluded that the Veteran's OSA is a mechanical condition not caused by PTSD.
+
+However, the examiner acknowledged that poor sleep quality is nearly universal among individuals with PTSD, and that disturbed sleep is actually a key feature in distinguishing PTSD from normal post-trauma processing. The examiner noted that common sleep disorders observed in individuals with PTSD are insomnia, nightmares, and OSA. The examiner indicated that patients with PTSD often present with vague, subjective complaints of sleep fragmentation, and it is frequently difficult to clinically differentiate the cause of nocturnal awakenings, particularly because many patients have multiple coexisting sleep disorders.
+
+The examiner then referenced several studies showing that there is a high prevalence of OSA among individuals with PTSD, often involving younger and thinner cohorts than typically seen in OSA alone. The examiner referenced a growing body of evidence suggesting that the co-occurrence of PTSD and OSA worsens clinical outcomes and diminishes treatment response. The examiner also noted that each condition might be a risk factor for development of the other condition.
+
+In September 2023, the Veteran submitted a private medical opinion from Dr. D.B., who opined that it is at least as likely as not that the Veteran's service-connected PTSD, sinusitis, and rhinitis aggravated his OSA. Dr. D.B. explained that PTSD affects both mental and physical aspects of affected individuals. He cited the DSM-5, noting that Criterion E for PTSD includes marked alterations in arousal and reactivity associated with the traumatic event(s), which may begin or worsen after the traumatic event(s). This includes increased autonomic nervous system activity, which includes both voluntary and involuntary responses such as sleep patterns and breathing. Dr. D.B. also cited studies indicating that sinusitis and rhinitis impede upper respiratory function, particularly during sleep due to congestion and inflammation. He referenced several articles supporting a link between PTSD and OSA, and between allergic and non-allergic rhinitis and OSA.
+
+Also, in September 2023, the Veteran submitted a buddy statement from C.S., who described an incident during deployment in which the Veteran had a distressing nighttime episode where the Veteran was screaming and yelling, which disrupted the sleep of others. C.S. reported that the Veteran was not the only one experiencing sleep disturbances during that deployment, and the snoring and behavioral outbursts, negatively affected everyone's sleep.
+
+In February 2024, VA obtained a medical opinion addressing whether the Veteran's OSA was caused by toxic exposure risk activity(ies) (TERA) during service. The examiner considered the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran and concluded that OSA is a multi-factorial disease with many known risk factors. The examiner found that none of the Veteran's exposures were significantly associated with the development of OSA. Instead, the examiner emphasized other risk factors such as hereditary, congenital, smoking history, weight, lab findings, multifactorial, etc. as more significant contributors. While subjective burn pit exposure was considered, the examiner ultimately concluded it was unlikely to have influenced the development of OSA in the Veteran's case.  However, the examiner cited several studies indicating that, due to the high rate of OSA in this cohort, continued research into the potential effects of deployment exposures on sleep-disordered breathing is warranted. 
+
+In April 2024, VA obtained a second medical opinion addressing whether the Veteran's OSA was caused or aggravated by his service-connected PTSD, sinusitis, or tinnitus or whether those service-connected conditions contributed to the development of obesity, which in turn caused or aggravated his OSA. The examiner conducted a records review and opined that the Veteran's OSA was less likely than not proximately due to or the result of his service-connected conditions, including obesity as a potential intermediate factor.
+
+The examiner noted that the Veteran was diagnosed with OSA in May 2022, and at that time, his body mass index (BMI) was 27.1. Based on this, the examiner concluded that the Veteran did not meet the criteria for obesity at the time of his OSA diagnosis. Therefore, the examiner found it less likely that the Veteran's PTSD, sinusitis, or tinnitus caused the Veteran's reported obesity, or that obesity contributed to the development of OSA. The examiner acknowledged that while obesity is one of many possible risk factors for OSA, it was not applicable in this case based on the Veteran's BMI.
+
+Analysis
+
+Initially, to the extent that the buddy statement from C.S. raises the issue of entitlement to direct service connection for the Veteran's OSA, the Board finds that the evidence of record does not support such a finding. 
+
+C.S. described an incident during deployment in which the Veteran had a distressing nighttime episode where the Veteran screamed and yelled, which disrupted the sleep of others. C.S. noted that the Veteran was not the only one experiencing sleep disturbances during that deployment, and that the snoring and behavioral outbursts negatively affected everyone's sleep. However, C.S. did not specifically state that the Veteran snored during service (a common symptom of OSA), nor did the statement indicate that the Veteran exhibited other symptoms consistent with OSA during service. As such, the statement is not sufficient to establish the presence of OSA in service or to support entitlement to direct service connection. 
+
+The Veteran's STRs contain no complaints, treatment, or diagnoses related to OSA or associated symptoms during service.  For example, while the Veteran reported difficultly sleeping in August 2001 due to eye pain, he denied having frequent trouble sleeping at separation. Moreover, his post-deployment assessment in 2004 indicated that his health remained the same or improved during deployment, and he denied feeling tired after sleeping. Although in 2008 he reported sleep problems that began after returning from Iraq in 2003, his medical provider attributed these issues to PTSD and prescribed Trazodone for insomnia. Notably, the Veteran was not diagnosed with OSA until 2022.
+
+Accordingly, in the absence of evidence linking the Veteran's OSA to service or establishing its onset during service, direct service connection is not warranted.
+
+Therefore, the Board turns to secondary service connection.
+
+The Board finds that the September 2023 private medical opinion provides the most probative evidence regarding the etiology of the Veteran's OSA. Dr. D.B. offered a well-reasoned opinion with specific reference to the Veteran's medical history. He provided a rationale that supports a finding that the Veteran's OSA was aggravated by both PTSD and allergic rhinitis, citing several medical studies and applying them to the Veteran's specific case. 
+
+In contrast, the August 2022 examiner opined that the Veteran's OSA was less likely than not due to PTSD but failed to address whether the Veteran's PTSD aggravated the Veteran's OSA, as required by El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013). This omission renders the opinion inadequate. Moreover, although the examiner concluded that PTSD did not cause OSA, the rationale paradoxically acknowledged a strong clinical association between PTSD and OSA and the likelihood that these conditions may exacerbate one another. Therefore, the Board finds the August 2022 opinion lacks probative value. 
+
+Accordingly, based on the foregoing, the Board finds that the evidence persuasively weighs in favor of a finding that the Veteran's OSA was aggravated by his service-connected PTSD. Therefore, service connection for OSA is warranted on a secondary basis. 38 U.S.C. § 5107; 38 C.F.R. § 3.310.
+
+Given the favorable outcome granting entitlement to service connection for OSA as secondary to PTSD, further discussion of any other theories of entitlement (OSA due to allergic rhinitis; OSA due to TERA; or obesity as an "intermediate step" between a service-connected disability and OSA) is not necessary. 
+
+ 
+
+ 
+
+KRISTI L. GUNN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Hatcher, Valerie
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

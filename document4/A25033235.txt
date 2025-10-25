@@ -1,0 +1,81 @@
+Citation Nr: A25033235
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240909-471060
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for tinnitus is granted.
+
+FINDING OF FACT
+
+1. The Veteran currently has tinnitus.
+
+2. Resolving all doubt in favor of the Veteran, his tinnitus is etiologically related to his active service.
+
+CONCLUSION OF LAW
+
+1. The criteria for service connection for tinnitus are met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran honorably served on active duty in the United States Army from February 2019 to September 2021 and Army National Guard of the United States (ARNGUS) from January 2023 to May 2023.  The Veteran also served in the National Guard with periods of active duty for training (ACDUTRA) and inactive duty for training (INACDUTRA).
+
+This matter was initially denied in a February 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO), the Agency of Original Jurisdiction (AOJ).
+
+In March 2024, the Veteran requested Higher level Review (HLR) of the February 2024 denial of service connection for tinnitus.  The AOJ again denied the Veteran's claim in a July 2024 rating decision, which considered the evidence of record at the time of the February 2024 rating decision.
+
+In July 2024 the Veteran submitted a Supplemental Claim for service connection for tinnitus.  The AOJ denied the claim in the August 2024 rating decision on appeal.
+
+Subsequently in September 2024, the Veteran timely submitted a Notice of Disagreement (NOD) to the Board of Veterans' Appeal (Board) seeking appeal of the August 2024 rating decision.  The Veteran checked "direct review" by a Veterans Law Judge.  Therefore, any evidence submitted after the August 2024 rating decision cannot be considered by the Board.? 38 C.F.R. §§ 20.300, 20.301, 20.801.?
+
+The Board is cognizant of the recent decision issued by the United States Court of Appeals for Veterans Claims (Court) in the case of Williams v. McDonough, 37 Vet. App. 305 (2024).  There, the Court held, in essence, that the Board must refrain from deciding a case until the case proceeds to the point where a docket switch is no longer permitted under the terms of 38 C.F.R. § 20.202(c)(2). In this case, a docket switch is still permitted under the terms of 38 C.F.R. § 20.202(c)(2) as it is less than one year from the date that the AOJ mailed notice of the decision on appeal, but it is more than 60 days of the date that the Board received the September 2024 NOD.  However, as the instant decision represents a full grant of the benefits sought, there is no prejudice to the Veteran for proceeding before the end of one year from rating decision on appeal, and the Board shall proceed with adjudication.
+
+Qualifying Service
+
+Active duty for training (ACDUTRA) includes full-time duty with the Reserves, or the National Guard of any State under sections 316, 502, 503, 504, or 505 of title 32 (32 U.S.C. §§ 316, 502, 503, 504, or 505), or the prior corresponding provisions of law. See 38 U.S.C. § 101(22)(b), 38 U.S.C. §§ 101 (22)(C); 38 C.F.R. § 3.6 (c). Basically, this refers to the two weeks of annual training, which each Reservist or National Guardsman must perform each year. It can also refer to the Reservist's or National Guardsman's initial period of training.
+
+Inactive duty training (INACDUTRA) includes service with the Reserve (other than full-time duty) that usually indicates weekend drills or training. 38 U.S.C. § 101(23)(A), 38 C.F.R. § 3.6(d). Inactive duty training also includes service in the National Guard of any State under sections 316, 502, 503, 504, or 505 of title 32 (32 U.S.C. §§ 316, 502, 503, 504, or 505), or the prior corresponding provisions of law (including drill weekends under 32 U.S.C. § 502(a)). See 38 U.S.C. § 101(23); 38 C.F.R. § 3.6(d).
+
+Furthermore, 38 C.F.R. § 3.6(a) provides that any period of active military, naval, and air service, including active duty for training during which the individual was disabled or died from a disease or injury incurred or aggravated in the line of duty, and any period of inactive duty training during which the individual concerned was disabled or died from an injury (but not disease) incurred or aggravated in line of duty or from an acute myocardial infarction, a cardiac arrest, or a cerebrovascular accident, which occurred during such training.
+
+To establish status as a "Veteran" for a period of active duty for training, a claimant must establish that he was disabled from disease or injury incurred or aggravated in the line of duty during that period of active duty for training. 38 C.F.R. § 3.1(a), (d); Paulson v. Brown, 7 Vet. App. 466, 470 (1995). The burden to establish "Veteran" status for a claim based on a period of active duty for training is on the appellant. Donnellan v. Shinseki, 24 Vet. App. 167, 171-75 (2010). The fact that a claimant has established status as a veteran for other periods of service does not obviate the need to establish that he is also a veteran for purposes of the period of active duty for training where the claim for benefits is based on that period of active duty for training. Mercado-Martinez v. West, 11 Vet. App. 415, 419 (1998).
+
+The Veteran is currently service connected for obstructive sleep apnea, lumbosacral strain, right knee strain, left knee strain, and allergic rhinitis. 
+
+Here, the Veteran contends his tinnitus is related to his active service. The Veteran served in the Army with a military occupation specialty (MOS) in Preventative Medicine, which has a low probability of hazardous noise exposure, and in Field Artillery, which has high probability of hazardous noise exposure. See generally, DPRIS Response (containing the Veteran's DD-214s).  The record indicates the Veteran's hearing was monitored annually in a hearing conservation program which showed abnormal hearing in his last exam in March 2021.  See generally, 2019 to 2021 Service Treatment Records.  The record further indicates that the Veteran completed 19 weeks of Field Artillery Basic Officer Leader training. See May 2023 Form DD214, Certificate of Release or Discharge from Active Duty. The Board finds, for the purposes of entitlement to service connection for tinnitus, the Veteran has satisfied his burden and established his Veteran status.
+
+Service Connection
+
+The law provides that service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military service.? 38 U.S.C. § 1110;?38 C.F.R. §§ 3.303, 3.304. Service connection may be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.? 38 C.F.R. § 3.303?(d).
+
+To establish service connection for a claimed disorder, the following must be shown: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury;?and?(3) a causal relationship between the present disability?and?the disease or injury incurred or aggravated during service. Shedden v. Principi,?381 F.3d 1163, 1167?(Fed. Cir. 2004).
+
+1. Entitlement to service connection for tinnitus
+
+The Veteran contends his tinnitus is etiologically related to his active service.  Specifically, the Veteran asserts he has experienced "high-pitched ringing noises" intermittently or for periods of a week or longer which onset in the "beginning of 2021" during his active-duty service.  See July 2024 Statement in Support of Claim.
+
+Tinnitus is a unique disability, as it is defined as being subjective, with its diagnosis generally determined by whether a lay person claims to experience it. Smith v. Principi, 17 Vet. App. 168, 170 (2003); Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009).
+
+The Board determines that the probative evidence contained in the evidentiary window is at least in approximate balance that the Veteran is currently experiencing tinnitus.  See March 2021 Hearing Conservation Examination (examiner checked "NO" for "hearing normal (less than or equal to 25Db)" but noted no significant threshold shift.); see also July 2024 Statement in Support of Claim (Veteran noted misunderstanding the audiology examiner's question regarding the frequency of the high-pitched noise explaining he interpreted the question to refer to extremely loud noises rather than the constant ringing he experiences.) 
+
+The Board has considered the November 2023 VA examination and medical opinion in which the examiner concluded that the Veteran's reported tinnitus did not support a formal diagnosis of tinnitus as the "transient ear noise" described is not consistent with noise-induced tinnitus.  The examiner opined that an "[e]tiology of tinnitus is not warranted when symptomatology and clinical exam findings do not indicate a diagnosis of recurrent tinnitus."  No other possible etiologies or intercurrent causes for the Veteran's subjective symptoms were provided, and the Veteran's post exam lay statements demonstrate the examiner and the Veteran did not have a mutual understanding of the examination metrics.  Therefore, the Board affords the VA medical opinion limited probative value regarding service connection for tinnitus.
+
+The Board concludes that while the Veteran's tinnitus was not diagnosed during service, the Veteran has reported the onset as incurring in service, there has been continuity of symptomatology since his separation from service, and there is no basis in the record to discount this statement.  As to his observations that his symptoms began during active service and the continuity of symptomology or worsening from in-service until diagnosis, the Board affords these statements persuasive probative weight.
+
+Considering the totality of the evidence including: 1) the Veteran's March 2021 abnormal hearing exam; 2) the Veteran's competent and credible lay statements; and 3) that tinnitus is consistent with the circumstances of his service as a Field Artillery, General (13A), it is in approximate balance that the Veteran has tinnitus that is related to his active-duty service.  Thus, resolving all reasonable doubt in the Veteran's favor, service connection for tinnitus is warranted.  38 U.S.C. § 5107; 38 C.F.R. § 3.102.  As such, service connection for tinnitus is granted.
+
+ 
+
+ 
+
+Martin T. Mitchell
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Herring, Victoria B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

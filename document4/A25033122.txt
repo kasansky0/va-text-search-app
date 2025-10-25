@@ -1,0 +1,91 @@
+Citation Nr: A25033122
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240712-456225
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to an initial compensable disability rating for service-connected bilateral hearing loss is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's bilateral hearing loss has been manifested by hearing acuity of no worse than Level I in the right ear and Level II in the left ear.
+
+2. The Veteran's bilateral hearing loss symptoms are adequately contemplated by Diagnostic Code 6100 and do not warrant referral for extraschedular consideration.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial compensable disability rating for bilateral hearing loss have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.85, 4.86, Diagnostic Code 6100.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from December 1969 to December 1972.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a February 2024 rating decision issued by a Department of Veterans Affairs (VA) regional office, the agency of original jurisdiction (AOJ).
+
+In the July 2024 VA Form 10182 Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the February 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Entitlement to an initial compensable disability rating for bilateral hearing loss is denied.
+
+The Veteran seeks an initial compensable disability rating for his service-connected bilateral hearing loss.
+
+The Veteran's bilateral hearing loss has been rated as noncompensable under Diagnostic Code (DC) 6100, effective June 7, 2023. As the issue for a higher rating arose from a disagreement with the rating decision which granted service connection and assigned the initial rating, the relevant period on appeal is from the date of service connection.  
+
+Disability evaluations are determined by the application of a schedule of ratings, which is in turn based on the average impairment of earning capacity caused by a given disability. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. Separate diagnostic codes identify the evaluations to be assigned to the various disabilities.
+
+If there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. If different disability ratings are warranted for different periods of time over the life of a claim, "staged" ratings may be assigned. Hart v. Mansfield, 21 Vet. App. 505 (2007); Fenderson v. West, 12 Vet. App. 119, 125-26 (1999).
+
+Hearing loss is evaluated under Diagnostic Code 6100. The condition is normally rated on the basis of controlled speech discrimination tests (Maryland CNC), together with the results of pure tone audiometry tests. See 38 C.F.R. § 4.85. Ordinarily, the results of these tests are charted on Table VI, as set out in the Rating Schedule, to determine the appropriate Roman numeral designation (I through XI) to be assigned for the hearing impairment in each ear. These numeric designations are then charted on Table VII to determine the rating to be assigned. Id. See, e.g., Lendenmann v. Principi, 3 Vet. App. 345, 349 (1992) (indicating that evaluations of hearing loss are determined by a mechanical application of the rating schedule).
+
+However, not all patterns of hearing loss are rated in this manner. For example, if the pure tone threshold at 1000, 2000, 3000, and 4000 Hertz is 55 decibels or more, the Roman numeral designation for that ear is taken from either Table VI or VIA, whichever results in the higher numeral. 38 C.F.R. § 4.86(a). See also 38 C.F.R. §§ 4.85(c) and 4.86(b) (indicating that alternative methodologies also apply when the examiner certifies that use of the speech discrimination test is not appropriate or when the pure tone threshold is 30 decibels or less at 1000 Hertz and 70 decibels or more at 2000 Hertz).
+
+Turning to the evidence, the Veteran submitted private treatment records dated March 2023. See Medical Treatment Record, Non-Government Facility, received July 2023. The Veteran reported "concerns about possible hearing loss." The Veteran denied vertigo, recent ear infections, sudden hearing loss, ear surgery, ear drainage, and ear pain/discomfort. The Veteran was diagnosed with mild to moderate sensorineural hearing loss in the right ear and mild to moderately-severe sensorineural hearing loss in the left ear. The hearing evaluation report states that the Northwestern University Auditory Test No. 6, and not the Maryland CNC test, was used. Thus, the private audiological evaluation is not suitable for VA rating purposes. See 38 C.F.R. § 4.85(a) (specifying that an examination for hearing impairment for VA purposes "must include a controlled speech discrimination test (Maryland CNC)").
+
+The Veteran underwent a VA audiological examination in January 2024. The Veteran reported difficulties hearing his wife when she talks to him, difficulties "centering on anything" when there are background noises, and that he used close captioning while watching television. Audiometric testing at that time revealed the following pure tone thresholds, in decibels:
+
+ 	 	 	HERTZ	 	 
+
+ 	500	1000	2000	3000	4000	Avg.
+
+RIGHT	30	40	55	50	45	47.5
+
+LEFT	40	50	60	65	65	60
+
+Speech recognition testing using the Maryland CNC Word List demonstrated speech recognition ability of 94 percent in the right ear and 96 percent in the left ear. See VA Hearing Loss and Tinnitus Disability Benefits Questionnaire, February 2024. 
+
+The Veteran's bilateral hearing examination does not show an exceptional pattern of hearing impairment; thus, Table VI is applicable. Applying the January 2024 audiometric findings to Table VI yield a numeric designation of Level I in the right ear (47.5 decibel pure tone threshold average, and 94 percent speech discrimination) and a numeric designation of Level II in the left ear (60 decibel pure tone threshold average, and 96 percent speech discrimination). The numeric designation for the right ear (Level I) along with the numeric designation for the left ear (Level II), entered into Table VII, produces a noncompensable evaluation for hearing impairment. 
+
+In light of the foregoing, the Board concludes that an initial compensable rating is not warranted for the Veteran's bilateral hearing loss. 
+
+The Board has considered the statements from the Veteran regarding the difficulties associated with his bilateral hearing loss. The Board finds that the Veteran is both competent and credible in his reports of hearing loss symptomatology. Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007). However, the rating criteria for hearing impairment is designed to consider the Veteran's diminished hearing acuity, and as outlined above, the assignment of a disability evaluation on a schedular basis is a purely mechanical process based on audiometric test results. Moreover, the rating criteria contemplates speech reception thresholds, the ability to hear spoken words on Maryland CNC testing. The functional impact that the Veteran describes is contemplated by the rating criteria. Doucette v. Shulkin, 28 Vet. App. 366 (2017). Accordingly, based on the audiological examinations, the Veteran's hearing loss does not meet the criteria for a rating higher than that already assigned.
+
+The Board has also considered whether extraschedular consideration is warranted. The Board finds that the record does not show that the Veteran's disability picture is so exceptional or unusual as to warrant referral for the assignment of a higher evaluation on an extraschedular basis. See 38 C.F.R. § 3.312(b)(1).
+
+The threshold factor for extraschedular consideration is a finding that the evidence presents such an exceptional disability picture that the available schedular evaluations for that service-connected disability are inadequate. In making this determination, the Board compares the level of severity and symptomatology of the claimant's service-connected disability with the established schedular rating criteria for that disability. If the criteria reasonably describe the claimant's disability level and symptomatology, then the claimant's disability picture is contemplated by the rating schedule and the assigned schedular evaluation is therefore adequate; no extraschedular referral is required. See Thun v. Peake, 22 Vet. App. 111 (2008). If the schedular evaluation does not adequately contemplate the claimant's disability picture and is found inadequate, VA must determine whether there is an exceptional disability picture that demonstrates other related factors, such as "marked interference with employment" or "frequent periods of hospitalization." See 38 C.F.R. § 3.312(b)(1).
+
+Here, the threshold criteria for an extraschedular referral are not satisfied. The schedular criteria adequately contemplates the Veteran's disability picture for his level of hearing loss. Specifically, the Veteran's disability level and symptomatology are contemplated by a rating under Diagnostic Code 6100, 38 C.F.R. § 4.85. The Veteran reported difficulty hearing and understanding speech, particularly when there is background noise. Difficulty hearing and understanding speech are contemplated by the schedular rating criteria. See Doucette v. Shulkin, 28 Vet. App. 366, 369 (2017). The schedular criteria contemplates hearing loss symptoms from essentially normal hearing to complete deafness, which includes the Veteran's level of difficulty hearing. 38 C.F.R. § 4.85. Thus, the schedular criteria is adequate to rate the Veteran's hearing loss disability, and referral for an extraschedular rating is not warranted.
+
+The Board is sympathetic to the Veteran's reports and understands that his bilateral hearing loss has adversely affected his daily life. However, his bilateral hearing loss meets the criteria for the assigned evaluations and does not warrant a rating increase at this time. If the Veteran's hearing loss should worsen in the future, he is free to file a claim for an increased disability rating at that time.
+
+As the evidence weighs persuasively against the Veteran's claim, the positive and negative evidence is not in approximate balance. Consequently, the benefit-of-the-doubt rule does not apply, and the Veteran's claim for an increased rating must be denied. 38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).
+
+(continued on next page).
+
+Finally, the Board has considered whether an inferred claim of entitlement to a total disability rating based on individual unemployability (TDIU) has been raised in conjunction with the increased rating claim adjudicated above. The Board notes that at no point has the evidence supported, nor has the Veteran contended, that his service-connected disability renders him unable to secure and follow gainful employment. Accordingly, the matter of entitlement to a TDIU is not raised by the record. See Rice v. Shinseki 22 Vet. App. 447, 453-54 (2009).
+
+ 
+
+ 
+
+B. D. WATSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	P. S. Rubin, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

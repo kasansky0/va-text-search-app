@@ -1,0 +1,77 @@
+Citation Nr: A25032432
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240522-441264
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to a rating of 20 percent, but no higher, for bilateral hearing loss is granted. 
+
+FINDING OF FACT
+
+For the entire appellate period, the Veteran's bilateral hearing loss has manifested with hearing acuity of no better than Level V in the right ear and Level V in the left ear. 
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to a 20 percent rating for bilateral hearing loss have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.85, 4.86, Diagnostic Code (DC) 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from March 1972 to March 1975. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of an April 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO), which is also the agency of original jurisdiction (AOJ). 
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected Direct Review. Therefore, the Board may only consider the evidence of record at the time of the April 2024 decision. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Lastly, the Board is cognizant of the ruling of the United States Court of Appeals for Veterans Claims (Court) in Rice v. Shinseki, 22?Vet. App.?447 (2009). In Rice, the Court held that a claim for a total rating based on individual unemployability (TDIU) due to service-connected disability, either expressly raised by the Veteran or reasonably raised by the record, involves an attempt to obtain an appropriate rating for a disability and is part of a claim for an increased rating. In this case, the Veteran has not argued, and the record does not otherwise reflect, that the disability at issue rendered the Veteran unemployable. Accordingly, the Board concludes that a claim for a TDIU has not been raised. 
+
+Entitlement to a compensable rating for bilateral hearing loss
+
+The Veteran contends his hearing loss, which makes it difficult for him to hear women's voices and to hear in situations with background noise, warrants a compensable rating. See April 2024 VA examination. 
+
+By way of history, in May 2012, the Veteran was granted service connection for bilateral hearing loss with a noncompensable (0 percent) rating effective June 24, 2011. The Veteran did not appeal that decision. 
+
+In September 2023, the Veteran filed a VA 21-0966 Intent to File. Then in February 2024, the Veteran filed a VA Form 21-526EZ Application for Disability Compensation (VA Form 21-526EZ), seeking a compensable rating for his hearing loss. In April 2024, the AOJ issued the decision that is now before the Board. Therefore, the rating period on appeal begins September 7, 2023, the date of the Intent to File, to include the one-year "look back period" that precedes the date of the Intent to File. 38 C.F.R. § 3.400?(o). 
+
+Disability ratings are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects his ability to function under the ordinary conditions of daily life, including employment, by comparing symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule). 38 U.S.C. § 1155; 38 C.F.R. § 4.1. 
+
+Evaluations of defective hearing range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of a controlled Maryland CNC speech discrimination test, together with the average hearing threshold level measured by puretone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz). 38 C.F.R. § 4.85, DC 6100. 
+
+To evaluate the degree of disability from bilateral service-connected hearing loss, the schedule establishes eleven auditory hearing acuity levels designated from Level I for essentially normal hearing acuity through Level XI for profound deafness. 38 C.F.R. § 4.85, Tables VI and VII. 
+
+An exceptional pattern of hearing impairment occurs when the puretone threshold at each of the four specified frequencies - 1000, 2000, 3000, and 4000 Hertz - is 55 decibels or more. 38 C.F.R. § 4.86 (a). In addition, in those situations, the rating specialist is directed to determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral. Id. Further, when the average puretone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz, the rating specialist is directed to determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and elevate that numeral to the next higher numeral. 38 C.F.R. § 4.86 (b). 
+
+Table VIA is also used when the examiner certifies that use of the speech discrimination test is not appropriate due to reasons including language difficulties or inconsistent speech discrimination scores. In such cases, a Roman numeral designation (I through XI) for hearing impairment is based only on the puretone threshold average. 38 C.F.R. § 4.86 (c).
+
+Here, in the April 2024 VA audiological evaluation, the examiner certified such a finding - that the use of speech discrimination scores was not appropriate for this Veteran, and the examiner "could not test" for Maryland CNC percent discrimination values. Therefore, the Veteran's hearing impairment was determined based on Table VIA. On the evaluation, puretone thresholds, in decibels, were as follows: 
+
+?? 	? 	? 	HERTZ 	? 	? 
+
+? 	1000 	2000 	3000 	4000 	Average 
+
+RIGHT 	35? 	60 	80? 	80? 	63.75 
+
+LEFT 	35? 	60? 	80? 	80? 	63.75? 
+
+Applying the April 2024 results to Table VIA, the findings yield a numeric designation of Level V for the right ear and Level V for the left ear. Entering the resulting numeric designation of Level V for each of the right and left ears to 38 C.F.R. § 4.85, Table VIA, equates to a 20 percent disability rating under DC 6100. The Veteran's hearing loss does not constitute an exceptional pattern of hearing impairment under 38 C.F.R. § 4.86 in either ear.
+
+The Board acknowledges the Veteran's assertion that the examiner incorrectly concluded that the Veteran had language difficulties, and that instead, he simply could not hear during the examination. See May 2024 Notice of Disagreement. The misunderstanding is unfortunate, but the Board assures the Veteran that the examination was conducted in accordance with 38 C.F.R. § 4.85 (c) and the Veteran was not prejudiced by the use of Table VIA to determine the level of impairment. Because the examiner "could not test" using the CNC protocol, the corresponding analytic table provides the appropriate values and accounts for such circumstances. Lendenmann v. Principi, 3?Vet. App.?345 (1992). The functional effects of difficulty hearing and understanding speech reported by the Veteran are adequately reflected in the rating criteria, which contemplate such impacts. Doucette v. Shulkin, 28?Vet. App.?366 (2017). 
+
+In summary, based on the audiometric data, the Board finds that the Veteran's bilateral hearing loss manifests with hearing acuity of no better than Level V in the right ear and Level V in the left ear. The Board further finds the evidence of record persuasively supports the Veteran's claim and entitlement to a 20 percent rating, but no higher, for bilateral hearing loss is warranted. Lynch v. McDonough, 21 F.4th 776 (2021).  
+
+ 
+
+ 
+
+A. Dean
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jaeger, L
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

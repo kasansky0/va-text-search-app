@@ -1,0 +1,59 @@
+Citation Nr: A25033230
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240308-422970
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to waiver of recovery of an overpayment of Department of Veterans Affairs (VA) compensation benefits, to include whether the debt was validly created, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Navy from August 2004 to May 2005, from February 2008 to December 2008, from July 2009 to March 2011, from April 2011 to July 2011, and from July 2016 to September 2017, with additional Navy Reserve drill periods.
+
+In the March 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the December 2023 Decision on Waiver of Indebtedness issued by the Committee on Waivers and Compromises (Committee), the agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+1. Entitlement to waiver of recovery of an overpayment of Department of Veterans Affairs (VA) compensation benefits, to include whether the debt was validly created, is remanded.
+
+The Board notes that the propriety of the creation of the debt, to include the amount calculated, is a threshold issue that must be addressed prior to a decision on the waiver of indebtedness.  See Schaper v. Derwinski, 1 Vet. App. 430, 437 (1991) ("when a[n appellant] raises the validity of the debt as part of a waiver application... it is arbitrary and capricious and an abuse of discretion to adjudicate the waiver application without first deciding an[appellant]'s challenge to the lawfulness of the debt asserted against him or her").  A debtor may dispute the amount or existence of a debt, which is a right that may be exercised separately from a request for waiver or at the same time.  38 C.F.R. § 1.911(c)(1).
+
+Under 38 U.S.C. § 5304(c), the receipt of VA disability compensation benefits for any period for which the person receives active service drill payments is prohibited.  See also 38 C.F.R. §§ 3.654, 3.700.  
+
+In this case, the Veteran has been sent several Notification and Demand Letters regarding concurrent payment of VA compensation pay and military drill pay.  In October 2018, the Veteran was sent a Demand Letter in the amount of $567.26 for an overpayment of drill days in Fiscal Year (FY) 2018.  This amount was adjusted in September 2019 and increased by $3,553.12, resulting in a balance of $3,734.19.
+
+In February 2021, the Veteran was informed that he was overpaid for 63 drill days completed in FY 2020.  A Demand Letter in the amount of $5,713.21 was sent to the Veteran in October 2021.  VA proposed withholding $159.00 per month until the debt was recouped.
+
+In February 2022, the Veteran was notified that he was overpaid for 32 drill days completed in FY 2021.  However, no Demand Letter was ever sent regarding that overpayment.
+
+In February 2023, the Veteran was notified that VA had received information that he had completed 107 drill days in FY 2022, and that his compensation benefits would be retroactively adjusted.  A Demand Letter in the amount of $27,487.91 was sent in March 2023.  However, in July 2023, VA wrote the Veteran and informed him, again, that due to his 107 drill days in FY 2022, his VA compensation pay would be reduced.  A second Demand Letter was sent in July 2023 informing the Veteran that his debt has been increased by $12,546.96 and the new balance was $57,888.54.  There was no explanation provided for the additional $12,546.96, or whether it was related to the 107 drill days of FY 2022, which appeared to have been assessed in the March 2023 Demand Letter of $27,487.91. 
+
+Additionally, it is wholly unclear to the Board how the total debt amount of $57,888.54 was calculated.  A rough calculation obtained by adding the balances of each of the Demand Letters sent to the Veteran results in a balance of approximately $49,482.00, and that is without factoring in the steady reduction of the debt through the withholding of a portion of the Veteran's monthly compensation benefit.  
+
+The Veteran sought waiver in September 2023, which was denied.  He sought a reconsideration of the denial and the Committee reconsidered the waiver request and waiver was denied in December 2023.  In each of these decisions the Committee listed the Veteran's debt as $57,888.54 and listed the fiscal years involved as "2019, 2020, and 2021."  Of note, FY 2018 and 2022 were not included.
+
+The Board must remand cases where there is a pre-decisional duty to assist error, or correction of any error by the AOJ in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the Veteran's claim.  38 C.F.R. § 20.802(a).  The remand must specify the action to be taken by the AOJ.  
+
+In this case, the Committee committed a pre-decisional duty to assist error when it did not apply the correct debt period to the debt at issue, and did not explain how the debt amount was calculated in its Decision on Waiver of Indebtedness.  Moreover, the Board notes that the record is missing at least one Demand Letter regarding FY 2021 drill dates.  The provision of Demand Letters is a statutory duty, as well as a critical due process requirement in assessing and collecting any purported debt.  Thus, the Board finds remand is necessary to calculate the accurate amount of debt the Veteran owes.
+
+The matters are REMANDED for the following action:
+
+1. Prepare an audit that explains the creation of the debt and how the overpayment due to the Veteran's drill days for Fiscal Years 2018, 2019, 2020, 2021, and 2022 was calculated.  In so doing, verify the drill dates and show the amount overpaid for each drill day and the total amount overpaid for each fiscal year, as well as the amounts already recouped from withholding the Veteran's monthly VA compensation benefits.
+
+2. Then, make an administrative decision regarding the validity of the amount of the debt in question.  The Veteran must be provided a written copy of all findings.
+
+3. Once the development above is completed, obtain a current Financial Status Report from the Veteran and readjudicate the issue of entitlement to a waiver of recovery of the overpayment of VA compensation benefits.
+
+ 
+
+ 
+
+T. REYNOLDS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Nelson, L.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

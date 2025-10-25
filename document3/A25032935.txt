@@ -1,0 +1,65 @@
+Citation Nr: A25032935
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240618-450396
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA), to include as secondary to service-connected asthma with chronic obstructive pulmonary disease (COPD), is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Air Force from September 1977 to September 1994, including service in Southwest Asia during the Persian Gulf War.
+
+This matter comes before the Board of Veterans' Appeals (Board) from a September 2023 rating decision issued by the Department of Veterans Affairs (VA) Agency of Original Jurisdiction (AOJ).  
+
+By way of history, in October 2023, the Veteran submitted a supplemental claim and higher-level review request simultaneously, which is a prohibited concurrent election of review requests.  See 38 C.F.R. § 3.2500(b).  Thereafter, the AOJ processed the higher-level review in a February 2024 higher-level review decision which found a duty to assist error, and the claim was relegated back to the supplemental lane for further development.  Subsequently, the AOJ issued a May 2024 rating decision denying the claim.  In his June 2024 VA Form 10182, the Veteran requested direct review of the evidence considered by the AOJ in the September 2023 rating decision.  However, since the May 2024 rating decision also adjudicated the sleep apnea issue, and allows for a larger evidentiary window, the Board will consider the May 2024 rating decision as the one on appeal, as this is more favorable to the Veteran.  Based upon the selection of the Direct Review option, the Board may only consider the evidence of record as of May 31, 2024 -the date of the rating decision on appeal.  See 38 C.F.R. §§ 20.301, 3.2601(f).  If the Veteran submitted evidence that was added to the record after May 31, 2024, the Board did not consider it.  If the Veteran wishes to have VA consider any evidence that was not considered, a supplemental claim should be submitted identifying such evidence.  See 38 C.F.R. § 3.2501.  
+
+In the September 2023 rating decision, the AOJ determined the new and relevant evidence had been received to readjudicate the claim; his participation in a toxic exposure risk activity is conceded, specifically that evidence shows service in theater of Operation Desert Storm/ Shield between August 11, 1990 and March 15, 1991; and that he is service-connected for the claimed primary disability of asthma.  Additionally, in the May 2024 rating decision, the AOJ determined that the Veteran has a current diagnosis of OSA; that his participation in a toxic exposure risk activity is conceded, specifically his records show that he was exposed to hazardous materials during service; and that he is service-connected for the claimed primary disability of asthma with COPD.  As there is no clear and unmistakable evidence in these findings, the Board is bound by them.  See 38 C.F.R. § 3.104(c).
+
+Here, the Veteran asserts that his obstructive sleep apnea is due to his service during the Persian Gulf War, including burn pit exposure, and/or is secondary to service-connected asthma with COPD.  See December 2022 VA Form 21-526EZ and April 2023 VA Form 20-0995.  
+
+In this case, the Sergeant First Class (SFC) Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act was passed effective August 10, 2022.  See Pub. L. No. 117-168, 136 Stat. 1759 (Aug. 10, 2022) (PACT Act).  Among other things, the PACT Act provides that VA is required to obtain a medical opinion when a veteran submits a claim for compensation, has evidence of disability and participation in a toxic risk activity (TERA) during service, and the evidence is not sufficient to establish service connection for that disability.  38 U.S.C. § 1168(a).
+
+Here, the Veteran is presumed to be a toxic exposed veteran under 38 U.S.C. § 1119(c), due to his Persian Gulf War service and a July 2023 VA Memorandum confirmed as such and conceded his toxic exposures.  Thus, a TERA medical opinion was obtained in August 2023 in compliance with 38 U.S.C. § 1168(a).  
+
+The Veteran was afforded a VA examination in August 2023 with a clarifying addendum opinion rendered in February 2024.  The August 2023 examiner diagnosed the Veteran with mixed sleep apnea, supine > non-supine, positional, but then contradictorily stated he did not have a sleep apnea diagnosis in opining negatively on his obstructive sleep apnea being related to his participation in a TERA.  Thus, this opinion is of no probative value and resulted in the AOJ seeking an addendum opinion, which was furnished in February 2024.  The February 2024 examiner confirmed a diagnosis of sleep apnea but opined negatively on direct and secondary service connection; however, this opinion is also inadequate, as the examiner relied on the August 2023 VA examiner's inadequate opinion, merely stating that the prior examiner was correct in their negative opinion on his sleep apnea being related to a TERA, and did not render an opinion on his own.  Moreover, regarding secondary service connection, the examiner provided limited rationale for proximate causation and did not address the aggravation prong at all.  Thus, this opinion is also inadequate and of no probative value.
+
+As the opinions of record were of evidence prior to the May 2024 rating decision, the Board finds the AOJ's failure to obtain an adequate opinion is a pre-decisional duty to assist error and thus is sufficient to trigger VA's duty to assist.  38 U.S.C. § 5103A.  Thus, on remand, a VA opinion that adequately addresses all theories of entitlement should be secured.  McLendon v. Nicholson, 20 Vet. App. 79, 83 (2006).  
+
+The matters are REMANDED for the following action:
+
+Obtain a VA medical opinion to address the etiology of the Veteran's obstructive sleep apnea from an examiner other than the August 2023 and February 2024 VA examiners.  No examination of the Veteran is necessary, unless the examiner determines otherwise.
+
+Following review of the claims file, the examiner should opine as to whether it is at least as likely as not (approximately 50 percent probability or nearly 50 percent probability) that the Veteran's obstructive sleep apnea (see February 2024 VA opinion and May 2024 rating decision favorable findings):
+
+(a)	had its onset during or is otherwise etiologically related to his active duty service,  include as a result of the synergistic combined effects of all toxic exposure risk activities (TERAs) considering the total potential exposure through all applicable military deployments.  
+
+In addressing this question, the examiner should consider the effects of TERAs related to the Veteran's duties as a clinical nurse.
+
+The examiner is advised that any opinion premised solely on the lack of in-service treatment, or a post-service diagnosis will be returned as inadequate.
+
+(b)	was caused by service-connected asthma with COPD; or
+
+(c)	got worse due to service-connected asthma with COPD.
+
+The examiner is advised that inquiries (b)-(c) require two separate opinions for proximate causation and aggravation and a comprehensive rationale must be furnished for all opinions expressed.  The examiner is also advised that primary disability, asthma with COPD, need not be service-connected or even diagnosed at the time OSA is incurred and reliance on this fact will render the opinion inadequate.  
+
+A complete rationale should be provided for all opinions, citing to specific evidence of record and medical principles, as necessary.  If the examiner cannot provide an opinion without resort to speculation, the examiner must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), a deficiency in the record (additional facts are required), or the examiner (does not have the knowledge or training). 
+
+If the inability to provide an opinion without resorting to speculation is due to a deficiency in the record (additional facts are required), the AOJ should develop the claim to the extent it is necessary to cure any such deficiency.  If the inability to provide an opinion is due to the examiner's lack of requisite knowledge or training, then the AOJ should obtain an opinion from a medical professional with the knowledge and training needed to render such an opinion.
+
+ 
+
+ 
+
+S. BUSH
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Asante, Ruby
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

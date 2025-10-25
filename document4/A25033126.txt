@@ -1,0 +1,75 @@
+Citation Nr: A25033126
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 231223-402950
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to a compensable rating for chronic bronchitis is denied.
+
+Entitlement to a 10 percent rating, but not higher, for costochondritis is granted.
+
+Entitlement to a compensable rating for restless leg syndrome is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's chronic bronchitis was not chronic or productive of FEV-1 of 71- to 80-percent predicted; FEV-1/FVC of 71 to 80 percent; or DLCO (SB) of 66 to 80 percent predicted.
+
+2. The Veteran's costochondritis has been productive of pain, but at no point has the disability been analogous to the removal of ribs, or a moderately severe or severe muscle group injury.
+
+3. The Veteran's claim for an increased rating for restless leg syndrome could not be established without further examination; the Veteran failed to report for a scheduled VA examination and good cause has not been shown.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a compensable rating for chronic bronchitis have not been met.  38 U.S.C. §§ 1155, 5107 (2018); 38 C.F.R. §§ 4.7, 4.96, 4.97, Diagnostic Codes 6600 (2024).
+
+2. The criteria for a 10 percent rating, but not higher, for costochondritis have been met.  38 U.S.C. §§ 1155, 5107 (2018); 38 C.F.R. §§ 4.20, 4.56, 4.73, Diagnostic Code 5321 (2024).
+
+3. The criteria for a compensable rating for restless leg syndrome have not been met.  38 U.S.C. §§ 1155, 5107 (2018); 38 C.F.R. § 3.655(b) (2024).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active military service from August 2003 to February 2008.  These matters come before the Board of Veterans' Appeals (Board) on appeal from April and May 2023 rating decisions issued by the Department of Veterans Affairs (VA) agency of original jurisdiction (AOJ).  
+
+In the December 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the direct review docket.  Therefore, the Board may only consider the evidence of record at the time of the respective April and May 2023 rating decisions on appeal. 38 C.F.R. § 20.301.  Any evidence submitted after the respective April and May 2023 rating decisions on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801 (2024). 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+1. Increased Rating - Chronic Bronchitis
+
+The Veteran contends that her chronic bronchitis is worse than that contemplated by the currently assigned rating.  Her chronic bronchitis is rated 0 (zero) percent disabling pursuant to Diagnostic Code 6600.  38 C.F.R. § 4.97.  
+
+In March 2023, the Veteran was afforded a VA examination.  She reported shortness of breath upon exertion and progressively worsening coughing.  Pre-bronchodilator pulmonary function test (PFT) results were 106 percent predicted FVC (Forced Vital Capacity), 116 percent predicted FEV-1 (Forced Expiratory Volume in one second), and 77 percent predicted FEV-1/FVC.  Post-bronchodilator PFT results were 111 percent predicted FVC, 116 percent predicted FEV-1, and 82 percent predicted FEV-1/FVC.  The examiner indicated that FEV-1/FVC was the most accurate test result.  Further, the examiner noted that diffusion capacity of the lung for carbon monoxide by the single breath method (or DLCO (SB) was not indicated for the Veteran's condition.  The examination was unremarkable for any other pertinent physical findings, complications, conditions, signs, or symptoms.
+
+Based on the foregoing, the Board finds a higher rating is not warranted.  At no time during the appeal period did the Veteran have chronic bronchitis with FEV-1 of 71- to 80-percent predicted or FEV-1/FVC of 71 to 80 percent.  While the VA examiner reported a pre-bronchodilator result of 77 percent predicted FEV-1/FVC, the examiner did not indicate that post-bronchodilator results could not be used as required for rating purposes.  See 38 C.F.R. § 4.96.  Therefore, the Board finds that a rating in excess of zero (0) percent for chronic bronchitis is not warranted.  38 C.F.R. § 4.97, Diagnostic Code 6600.
+
+Consideration has been given to assigning staged ratings.  However, at no time during the period in question has the disability warranted a higher schedular rating than that assigned.  Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+2. Increased Rating - Costochondritis
+
+The Veteran asserts that her costochondritis is worse than that contemplated by the currently assigned rating.  Her costochondritis is rated by analogy to 38 C.F.R. § 4.71a, Diagnostic Code 5297, pertaining to removal of ribs.  However, alternatively, the Veteran's costochondritis is closely analogous to 38 C.F.R. § 4.73, Code 5321, for muscle group XXI (muscles of respiration: thoracic muscle group).  38 C.F.R. § 4.20.  Disabilities resulting from muscle injuries under diagnostic codes 5301 through 5323, shall be classified as "slight," "moderate," "moderately severe," or "severe." 38 C.F.R. § 4.56.  See also 38 C.F.R. § 4.73, Note 2.
+
+In March 2023, the Veteran was afforded a VA examination.  She reported extreme sharp pain, tingling in her hands, numbness, and burning sensations.  Chest X-ray findings were normal.  The examiner remarked that the Veteran had no lung or muscle wall pathology.  The examiner stated that the Veteran's symptoms more closely mimicked a panic or anxiety attack.  The examination was unremarkable for any other pertinent physical findings, complications, conditions, signs, or symptoms.
+
+Based on the foregoing, the Board finds a higher rating is warranted.  In this regard, the Veteran's costochondritis was productive of symptoms that were no more than moderate.  While the Veteran had no cardinal signs or symptoms of muscle disability, the Veteran had a consistent complaint of pain.  The Board acknowledges that the Veteran reported additional symptoms of tingling in her hands, numbness, and burning sensations; however, there is no evidence that her symptoms were analogous to moderately severe or severe disability of muscle group XXI.  Furthermore, the Veteran has not had the removal or resection of her ribs or symptoms analogous thereto.  Therefore, the Board finds that a 10 percent rating, but not higher, for costochondritis is warranted.  38 C.F.R. § 4.73, Diagnostic Code 5321.
+
+Consideration has been given to assigning staged ratings.  However, at no time during the period in question has the disability warranted a higher schedular rating than that assigned.  Hart, 21 Vet. App. 505.
+
+3. Increased Rating - Restless Leg Syndrome
+
+The Veteran claims that her restless leg syndrome (RLS) is worse than that contemplated by the currently assigned rating.  Her RLS is rated by analogy to 38 C.F.R. § 4.124a, Diagnostic Code 8881-8103.  Here, Diagnostic Code 8881 represents a neurological disability due to undiagnosed illness, while Diagnostic Code 8103 pertains to convulsive tic.  To ascertain if the rating currently assigned adequately contemplates the Veteran's disability picture for RLS, the AOJ scheduled the Veteran for a VA peripheral nerves examination in May 2023.  Notably, the Veteran's symptomatology may be closely analogous to the criteria under another Diagnostic Code pertaining to a peripheral nerve disability.  However, without good cause shown, the Veteran failed to report to the respective VA examination.  Given that the VA examination was scheduled in conjunction with the Veteran's claim for increase and she has not presented good cause for her failure to report, the Veteran's claim for an increased rating must be denied as a matter of law.  38 C.F.R. § 3.655(b); Sabonis v. Brown, 6 Vet. App. 426, 430 (1994). 
+
+ 
+
+ 
+
+LESLEY A. REIN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Ware, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

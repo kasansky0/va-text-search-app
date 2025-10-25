@@ -1,0 +1,143 @@
+Citation Nr: A25033596
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 231206-398688
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is denied.
+
+REMANDED
+
+Entitlement to service connection for a bilateral foot disability, claimed as bilateral foot pain, is remanded.
+
+Entitlement to service connection for residuals of a right eye injury is remanded.
+
+FINDING OF FACT
+
+The Veteran does not have a hearing loss disability for VA purposes. 
+
+CONCLUSION OF LAW
+
+The criteria for service connection for bilateral hearing loss have not been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.385. 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 14, 1981 to October 22, 1981. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a May 2023 Appeals Modernization Act (AMA) rating decision by the Agency of Original Jurisdiction (AOJ). In December 2023, the Veteran submitted a VA Form 10182 requesting Direct Review as the review option.
+
+Based on the Veteran's election, the Board may only consider the evidence of record at the time of the May 2023 rating decision. 38 C.F.R. § 20.301.
+
+Any additional evidence associated with the claims file during a period of time when additional evidence was not allowed has not been considered. If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+However, because the Board is remanding the Veteran's claims for service connection for a bilateral foot disability and residuals of a right eye injury, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+1. Entitlement to service connection for bilateral hearing loss.
+
+Service connection generally will be awarded when a veteran has a disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. § § 1110, 1131; 38 C.F.R. § 3.303(a).  Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).  
+
+Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) incurrence or aggravation of a disease or injury in service; and (3) a link ("nexus") between the current disability and the disease or injury incurred or aggravated in service.  Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009). 
+
+A claimant is entitled to the benefit of the doubt when there is an approximate balance of positive and negative evidence on any issue material to the claim.  38 U.S.C. § 5107; 38 C.F.R. § 3.102.  If the positive and negative evidence is in approximate balance-which includes but is not limited to equipoise-the claimant receives the benefit of the doubt.  Lynch v. McDonough, 21 F.4th 776, 781 (Fed. Cir. 2021).  If the evidence persuasively favors one side or the other, there is not an approximate balance, and therefore the benefit-of-the-doubt-rule does not apply.  Id. at 781-82.
+
+For the purpose of applying the laws administered by VA, impaired hearing will be considered a disability when the auditory threshold for any of the frequencies of 500, 1000, 2000, 3000, and 4000 Hertz is 40 decibels or greater; the auditory thresholds for at least three of these frequencies are 26 decibels or greater; or speech recognition scores using the Maryland CNC Test are less than 94 percent. 38 C.F.R. § 3.385.  The threshold for normal hearing is from 0 to 20 decibels; higher threshold levels indicate some degree of hearing loss.  Hensley v. Brown, 5 Vet. App. 155 (1993).
+
+To establish a hearing loss disability requires an examination for hearing impairment conducted by a state-licensed audiologist and must include a pure tone audiometry test and a controlled speech discrimination test (Maryland CNC). Examinations are conducted without the use of hearing aids. 38 C.F.R. § 4.85(a).
+
+The Veteran was afforded a VA audiological examination in April 2023.  The results of the examination, as measured by puretone audiometry testing, were as follows:
+
+?
+
+  	 	 	HERTZ	 	 
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	10	10	15	25	30
+
+LEFT	10	15	20	25	35
+
+Speech discrimination scores were 94 percent in each ear.  These findings show a lack of a hearing loss disability for VA purposes.  
+
+The Veteran submitted an April 2023 private audiometric examination which showed puretone threshold higher than the April 2023 VA examination, to include puretone thresholds at 40 decibels at 4000 Hertz.  However, because no speech discrimination scores were reported, this report does not meet the audiological testing requirements as set forth in 38 C.F.R. § 4.85(a).  Therefore, this report lacks probative value.
+
+The Board acknowledges the Veteran's report of the functional impact of his hearing loss on his daily life, at the time of his April 2023 VA examination.  In Saunders v. Wilkie, 886 F.3d 1356, 1368 (Fed. Cir. 2018), the United States Court of Appeals for the Federal Circuit held that even in the absence of a diagnosis, there is a current disability where a veteran experiences functional impairment from symptoms of a disorder.  However, since VA has specifically defined what constitutes a hearing loss disability in 38 C.F.R. § 3.385, the Federal Circuit's holding in Saunders is not applicable to a claim for service connection for hearing loss.  See McKinney v. McDonald, 28 Vet. App. 15, 25 (2016) (concluding that § 3.385 "reasonably interpreted what constitutes a hearing disability").
+
+A key element for any grant of service connection is a finding of a current disability.  Based on the above, however, the Veteran does not have hearing loss in either ear for VA purposes.  38 C.F.R. § 3.385.
+
+The Board has considered the Veteran's statements, to include his assertions that he has hearing loss that is related to service.  As the Veteran is not shown to have medical education or experience, he is a lay person and is competent to report (1) symptoms that are observable to a layperson, e.g., difficulty hearing; (2) symptoms at the time supporting a later diagnosis by a medical professional; or (3) a contemporaneous medical diagnosis.  See Davidson v. Shinseki, 581 F.3d 1313 (2009).  The Veteran is not competent to independently render a medical diagnosis of hearing loss that meets the criteria of 38 C.F.R. § 3.385, which is based upon audiological testing and speech recognition scores.  Thus, his lay assertions do not constitute evidence upon which service connection can be granted.  
+
+For the above reasons, the evidence is neither evenly balanced nor approximately so with regard to whether service connection for bilateral hearing loss is warranted.  Rather, the evidence persuasively weighs against such a finding.  The benefit of the doubt doctrine, see 38 U.S.C. § 5107(b), is therefore not for application as to this claim.  Lynch, 21 F.4th 776.
+
+REASONS FOR REMAND
+
+2. Entitlement to service connection for a bilateral foot disability, claimed as bilateral foot pain, is remanded.
+
+3. Entitlement to service connection for residuals of a right eye injury is remanded.
+
+The Veteran asserts that he has a bilateral foot disability, claimed as "foot pain," and residuals of a right eye injury that are each related to service. 
+
+The Veteran's Service Treatment Records (STRs) show that he suffered from mild foot pain during basic training. See September 1981 STR. He denied a past history of foot pain. The pain worsened during Security Specialist Training, at which point he was evaluated by podiatry.  He was assessed with flat feet and given various treatments, to include arch supports and tape, with no improvement.  A September 15, 1981 STR noted that chronic, severe foot strain persisted.  The Veteran was then reviewed by the Medical Board, who assessed him with pes valgo planus with incapacitating foot pain. See October 1981 STR.  The Medical Board found that his disability was congenital and existed prior to service and had not been aggravated permanently; he was recommended for discharge for erroneous enlistment. The Veteran was discharged later that month. 
+
+Post-service treatment records show that the Veteran has been diagnosed as having plantar fasciitis and peroneal tendonitis.
+
+The AOJ denied the Veteran's claim on the basis that pes valgo planus is considered a congenital or developmental defect which is unrelated to military service and not subject to service connection, and that the condition existed prior to service.  However, the Veteran was not scheduled for a VA examination and no medical opinion was obtained.  The AOJ's failure to obtain a VA examination and medical opinion constitutes a pre-decisional duty to assist error which must be corrected on remand. 38 C.F.R. § 20.802.
+
+In regard to the Veteran's right eye disability, his January 1981 entrance examination reflects that he gave a history of a right eye injury, which he described as an explosion, and noted that his eyes water when he is reading.  His visual acuity was recorded as 20/20, bilaterally.  A September 1981 STR reflects that he reported a right eye injury at the age of 13, secondary to an explosion in a fire. The report reflects that he wore glasses for a time after the injury, but that he now had 20/20 vision.  
+
+Post service, the Veteran has been diagnosed as having dry eye syndrome, refractive amblyopia, presbyopia, hypermetropia, regular astigmatism, and diabetic retinopathy.  
+
+The Veteran underwent a VA examination for his claimed right eye disability in March 2023, where he was diagnosed with refractive amblyopia and dry eye syndrome. The Veteran asserted that during his basic training, there was wind, dust, and flying particles in the air, which he stated caused burning and loss of vision. He also reported that his dry eye symptoms began in service in February 1981 with symptoms of burning, watery, itchy eyes with light sensitivity which has worsened with more intense symptoms. The VA examiner opined that the Veteran's claimed right eye injury, which clearly and unmistakably existed prior to service, was clearly and unmistakably not aggravated beyond its natural progression during service.  The examiner did not offer any rationale for the opinion that the Veteran's right eye disability clearly and unmistakably existed prior to service.  The AOJ's failure to obtain an adequate VA medical opinion constitutes a pre-decisional duty to assist error which must be corrected on remand. 38 C.F.R. § 20.802. 
+
+The matters are REMANDED for the following action:
+
+1. Schedule an appropriate VA compensation examination to determine the nature and etiology of the Veteran's claimed bilateral foot disability, claimed as bilateral foot pain. The entire claims file and a copy of this REMAND must be made available to the examiner in conjunction with the examination.
+
+The examiner must note in the examination report that the evidence in the claims file has been reviewed.
+
+Following a review of the claims file, and the Veteran's elicited history, the clinician is asked to provide an opinion on the following:
+
+a) Identify all current foot disabilities found to be present, i.e., pes valgo planus, plantar fasciitis, peroneal tendonitis, etc.
+
+b) If the Veteran is diagnosed as having pes valgo planus, is this disability a congenital defect (i.e., a structural or inherent abnormality which is more or less static in nature) or a congenital disease (a condition considered capable of improving or deteriorating)?
+
+c) If it is determined that the Veteran's bilateral pes valgo planus is a congenital defect, then is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that there was a superimposed disease or injury in service that resulted in additional disability of the feet apart from the congenital or developmental defect?
+
+?
+
+d) If it is determined that the Veteran's bilateral pes valgo planus is a congenital disease, then is there clear and unmistakable evidence that it preexisted the Veteran's service?
+
+e) If the answer to d) is yes, then is there clear and unmistakable evidence that the preexisting bilateral pes valgo planus was not aggravated beyond its natural progression during service?
+
+f) If the answer to d) is no, then is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that pes valgo planus had its onset during service or is related to any incident of service?
+
+g) For any diagnosed foot disorder other than pes planus, to include plantar fasciitis and peroneal tendonitis diagnosed in November 2022, it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that it had its onset during service or is related to any incident of service?  In formulating this opinion, the examiner should consider the in-service notation of chronic, severe foot strain in September 1981.
+
+A complete rationale for all opinions must be provided.
+
+2. Send the claims file to an appropriate examiner to offer opinions on the following:
+
+a) The Veteran has been diagnosed as having dry eye syndrome, refractive amblyopia, presbyopia, hypermetropia, regular astigmatism, and diabetic retinopathy.  Please state whether any of these eye conditions is a refractive error of the eye.
+
+b) For any right eye disorder that is not a refractive error of the eye, is there clear and unmistakable evidence that it preexisted the Veteran's service?  If so, is there clear and unmistakable evidence that it was not aggravated beyond its natural progression during service?
+
+c) For any right eye disorder that is not a refractive error of the eye, it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that it had its onset during service or is related to any incident of service?  
+
+In providing the above opinions, the examiner must consider the Veteran's statement that during his basic training, there was wind, dust, and flying particles in the air, which caused burning and loss of vision, as well as his statement that his dry eye symptoms began in service in February 1981 with symptoms of burning, watery, itchy eyes with light sensitivity which has worsened with more intense symptoms.
+
+A complete rationale for all opinions must be provided. 
+
+ 
+
+ 
+
+P.M. DILORENZO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Mohammad, Tahmina
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

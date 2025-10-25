@@ -1,0 +1,63 @@
+Citation Nr: A25032905
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 250313-525164
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to an effective date earlier than February 18, 2022, for the award of an increased rating of 70 percent for generalized anxiety disorder with unspecified depressive disorder is dismissed.
+
+Entitlement to an effective date earlier than February 18, 2022, for the award of a total disability rating based on individual unemployability (TDIU) is dismissed.
+
+FINDINGS OF FACT
+
+1. In a May 2023 rating decision, the Agency of Original Jurisdiction (AOJ) denied an increased rating greater than 70 percent for generalized anxiety disorder with unspecified depressive disorder.  The Veteran did not continuously pursue the issue of entitlement to an earlier effective date by timely filing any of the available review options within one year of the issuance of the May 2023 rating decision.
+
+2. In a July 2023 rating decision, the AOJ granted TDIU from February 18, 2022.  The Veteran did not continuously pursue the issue of entitlement to an earlier effective date by timely filing any of the available review options within one year of the issuance of the July 2023 rating decision.
+
+CONCLUSIONS OF LAW
+
+1. Entitlement to an effective date earlier than February 18, 2022, for the award of an increased rating of 70 percent for generalized anxiety disorder with unspecified depressive disorder is dismissed.  38 U.S.C. § 7105(c); 38 C.F.R. § 3.2500(h)(1).
+
+2. Entitlement to an effective date earlier than February 18, 2022, for the award of TDIU is dismissed.  38 U.S.C. § 7105(c); 38 C.F.R. § 3.2500(h)(1).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from November 1966 to August 1969.  He appeals February and March 2025 rating decisions by the Agency of Original Jurisdiction (AOJ) denying an effective date earlier than February 18, 2022, for the increased rating of 70 percent for generalized anxiety disorder with unspecified depressive disorder and for the award of TDIU.
+
+In the March 2025 VA Form 10182, the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the February and March 2025 AOJ decisions on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decisions on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 38 U.S.C. § 7113(a).
+
+On his March 2025 VA Form 10182, the Veteran expressly "waived the right to select a different Board review option" and asked the Board to "review [his] appea [sic] as soon as possible."  See March 2025 VA Form 10182.  Accordingly, adjudication is appropriate.  See Williams v. McDonough, 37 Vet. App. 305 (2024).
+
+In a November 2022 rating decision, the AOJ granted an increased rating of 70 percent for generalized anxiety disorder with unspecified depressive disorder.  The rating assigned was continuously pursued until May 2023, when the AOJ denied an increased rating greater than 70 percent for generalized anxiety disorder with unspecified disorder.  See May 2023 rating decision.  The Veteran did not request a higher-level review, appeal to the Board, or submit a supplemental claim within one year from May 5, 2023, which is the date on which the AOJ issued notice of the decision.  Accordingly, the effective date issue was not continuously pursued after the May 2023 rating decision.
+
+In a July 2023 rating decision, the AOJ granted entitlement to TDIU from February 18, 2022.  The Veteran did not request a higher-level review, appeal to the Board, or submit a supplemental claim within one year from July 21, 2023, which is the date on which the AOJ issued notice of the decision.  Accordingly, the issue was not continuously pursued.
+
+The claim must be dismissed as the Veteran is attempting to pursue freestanding claims for earlier effective dates.  The AOJ should not have addressed the earlier effective date issues on the merits in the February and March 2025 rating decisions.  As a general matter, in legacy cases, once there is a relevant final decision on an issue, there cannot be a "freestanding claim" for an earlier effective date.  See Rudd v. Nicholson, 20 Vet. App. 296 (2006).  In other words, in the legacy system, a claimant is not entitled to subsequently make an earlier effective date claim after a prior final denial was not properly appealed.
+
+In the modernized review system under the Appeals Modernization Act (AMA), the rules relating to finality have been altered by the addition of a regulation allowing "continuous pursuit of a claim."  Calhoun v. McDonough, 37 Vet. App. 96, 102-03 (2024).  In that regard, 38 C.F.R. § 3.2500 (h)(1) provides that, if a claimant continuously pursues an issue by timely filing in succession any of the available review options specified in paragraph 38 C.F.R. § 3.2500(c) within one year of the issuance of the decision, the effective date will be fixed in accordance with the date of receipt of the initial claim or date entitlement arose, whichever is later.  
+
+In Calhoun, the Court of Appeals for Veterans Claims (Court) held that the AMA implementing regulations allow the finality of a Board decision, which is final on the date stamped on the face of the decision, 38 C.F.R. § 20.1100(a), to be vitiated by a supplemental claim if the supplemental claim is filed within a year of the Board decision.  This is because 38 C.F.R. § 3.2500(c)(3) provides that continuous pursuit includes the filing of supplemental claim following notice of a Board decision.  Calhoun, 37 Vet. App. at 103.  
+
+The Court in Calhoun left open the question of whether the Rudd rule would apply if a review option were not selected within a year of a decision.  Calhoun v. McDonough, 37 Vet. App. 96, n. 4 (2024) ("Whether Rudd and Leonard apply in the AMA system when a supplemental claim is filed more than 1 year after the last prior adjudication, which the Secretary asserts is analogous to a legacy system claim to reopen, Secretary's Supplemental Br. at 2, is beyond the scope of this decision").
+
+In this case, the Veteran did not select a review option within a year of the May 2023 rating decision denying an increased rating greater than 70 percent for generalized anxiety disorder or the July 2023 rating decision granting TDIU from February 18, 2022.  In this regard, following notice of a decision on an initial claim or a supplemental claim, the claimant may file a supplemental claim, request a higher-level review, or appeal to the Board.  38 C.F.R. § 3.2500(c)(1).  Here, however, the Veteran did not pursue any of these review options within a year of the May 2023 or July 2023 decisions and the effective date determinations thus became final.  Given that this most recent rating decision became final, the subsequent attempt to challenge the effective date was an improper freestanding earlier effective date claim that the Board cannot address pursuant to Rudd.
+
+The Veteran argues that within a year of a September 2014 rating decision denying an increased rating greater than 50 percent for his mental health disorder, VA was in constructive possession of a VA treatment record that was new and material to his claim, and, as a result, the claim remained pending when the AOJ increased the Veteran's 50 percent rating to 70 percent from February 18, 2022, in a November 2022 rating decision, and when the AOJ granted TDIU from February 18, 2022, in a July 2023 rating decision.  See March 2025 VA Form 10182.  However, even if the February 2014 claim remained pending, the subsequent rating decisions assigning effective dates became final and were not continuously pursued.
+
+For the foregoing reasons, the May 2023 and July 2023 rating decisions became final pursuant to the AMA implementing regulations regarding finality, and the subsequent October 2024 supplemental claim requesting an earlier effective date for the increased rating and TDIU was a freestanding earlier effective date claim that must be dismissed.  DiCarlo v. Nicholson, 20 Vet. App. 52, 55 (2006) ("Except as provided by law, when a case or issue has been decided and an appeal has not been taken within the time prescribed by law, the case is closed, the matter is ended, and no further review is afforded").
+
+ 
+
+ 
+
+DONNIE R. HACHEY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Salazar, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

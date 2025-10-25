@@ -1,0 +1,57 @@
+Citation Nr: A25033912
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 191202-289168
+DATE: April 11, 2025
+
+REMANDED
+
+Whether the character of the service member's discharge is a bar to VA benefits.
+
+?
+
+REASONS FOR REMAND
+
+This claim is based on the service of a service member who served on active duty from May 1968 to January 1971.  He was discharged from service under conditions other than honorable.  He died in June 2021.  The appellant is his surviving spouse.  She has been substituted in this appeal for purposes of processing the claim to completion.
+
+The case is on appeal from a June 2019 decision, which was issued during the service member's lifetime.  It determined that the service member's discharge from military service was issued under conditions which constitute a bar to payment of VA benefits.  
+
+In a July 2019 notice of disagreement (NOD), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on that claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.  However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+This issue was previously denied by the Board in December 1985.  The June 2019 decision addressed the merits of the issue.  The RO's treatment of this issue is consistent with a favorable finding that new and relevant evidence was received.  As there is not clear and unmistakable error in this finding, the Board will not reconsider this question.  See 38C.F.R. §20.801(a).
+
+The Board denied this appeal in a November 2022 decision.  The appellant appealed the Board's decision to the United States Court of Appeals for Veterans Claims (Court), which issued a memorandum decision in June 2024.  The Court's decision vacated and remanded the Board's decision.
+
+The Board is issuing a separate decision under a different docket number addressing the issue of entitlement to Dependency and Indemnity Compensation (DIC) benefits.  
+
+Whether the character of the service member's discharge is a bar to VA benefits.
+
+The Board finds that this issue must be remanded to substantially comply with the Court's June 2024 memorandum decision.  In that decision, the Court agreed with the appellant that the Board inadequately supported its determination that the service member was not insane when he committed the offenses that led to his other than honorable discharge.  The Court found that the Board summarily concluded, without  explanation, that the evidence "did not indicate behavior consistent with insanity."  Moreover, the Court determined, the Board did not justify its reliance on the March 1970 neuropsychiatric evaluation, given that the evaluation concerned the service member's mental state at the time of that evaluation, rather than his mental state at the time of the charged offenses leading to his discharge.  The Court found that the Board should have discussed the relevancy, if any, of that evaluation with the nature of the service member's further misconduct.  Based on the Court's memorandum decision, the Board now finds that remand for a VA opinion to address insanity is needed.  
+
+Under VA regulations, insanity is defined as "one who, while not mentally defective or constitutionally psychopathic, except when a psychosis has been engrafted upon such basic condition, exhibits, due to disease, a more or less prolonged deviation from his normal method of behavior; or who interferes with the peace of society; or who has so departed (become antisocial) from the accepted standards of the community to which by birth and education he belongs as to lack the adaptability to make further adjustment to the social customs of the community in which he resides."  See 38 C.F.R. § 3.354 (a).
+
+The term "constitutionally psychopathic" in 38 C.F.R. § 3.354 (a) refers to a condition which may be described as an antisocial personality disorder. VAOPGCPREC 20-97.  The definition of insanity excludes behavior attributable to a personality disorder because insanity requires behavior "due to a disease," and a personality disorder is not a disease or injury for purposes of VA disability compensation.  VAOPGCPREC 20-97.  Mental illness is not identical to "insanity," and there need be no causal connection between the insanity and the misconduct, but the acts leading to the discharge and the insanity must be concurrent.  Beck v. West, 13 Vet. App. 535, 539 (2000).
+
+Willful misconduct requires an intentional act under 38 C.F.R. § 3.1 (n), and because intent presupposes sufficient mental capacity at the time of the act to understand its nature, although no VA regulation expressly so provides, insanity, if proven, will constitute a viable defense under VA law to a charge of willful misconduct.  Zang v. Brown, 8 Vet. App. 246, 252 (1995) (internal quotations omitted).  If the claimant had been insane at the time of the injury, then he could not have formed "the intent necessary to carry out" a "deliberate or intentional" act.  Id. 
+
+A claimant who seeks an exception to the rule regarding dishonorable discharge must show that he or she (1) has prolonged deviation from his normal method of behavior due to disease, (2) has interfered with the peace of society due to disease, or (3) has so departed (become antisocial) from the accepted standards of the community to which by birth and education he belongs as to lack the adaptability to make further adjustment to the social customs of the community in which he resides due to disease.  Zang v. Brown, 8 Vet. App. 246, 252 (1995).
+
+Although insanity need not be causally connected to the misconduct that led to the discharge, it must be concurrent with that misconduct and requires competent medical evidence to establish a diagnosis.  Gardner v. Shinseki, 22 Vet. App. 415, 419 (2009).  The question (and only relevant timeframe) is whether the service member was insane at the time he committed the offense(s) at issue.  Gardner, 22 Vet. App. at 420-21 (The determination whether insanity existed at the relevant time is factual).
+
+The matters are REMANDED for the following action:
+
+Obtain an opinion from an appropriate clinician to determine if the service member met VA examiner's definition of insanity during service at the time he committed the offenses leading to his discharge.  The examiner must use VA's definition of insanity, as given herein above.  In answering this question, the examiner must articulate the reasons underpinning every conclusion.  That is, (1) identify what facts and information, whether found in the record or outside the record, support the conclusion, and (2) explain how that evidence justifies the conclusion that the appellant was or was not insane.
+
+ 
+
+ 
+
+RYAN T. KESSEL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. Bosely, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

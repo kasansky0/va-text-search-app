@@ -1,0 +1,83 @@
+Citation Nr: A25033999
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240703-452442
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for acid reflux disorder is dismissed.
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea is remanded.
+
+FINDING OF FACT
+
+The Veteran submitted a Notice of Disagreement in July 2024, more than one year after he received notice of the September 2020 rating decision denying service connection for acid reflux disorder.
+
+CONCLUSION OF LAW
+
+The criteria for dismissal of the appeal for service connection for acid reflux disorder have been met.  38 U.S.C. § 7105; 38 C.F.R. § 20.205.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from April 1988 to May 1991.
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from a rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO) in November 2023. The Veteran selected the Direct Review docket without a Board hearing under the Appeals Modernization Act (AMA) by submitting a VA Form 10182 (Decision Review Request: Board Appeal (Notice of Disagreement)). Accordingly, the Board's current review is limited to the evidence at the time of the Agency of Original Jurisdiction's (AOJ's) November 2023 rating decision. The Board cannot consider any evidence submitted by the Veteran after the rating decision on appeal.
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in this decision. 38 C.F.R. § 20.300.  If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Entitlement to service connection for acid reflux disorder
+
+The Board may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed. 38 U.S.C. § 7105(d); 38 C.F.R. § 20.205.
+
+Under the modernized appeals review system, a proper appeal of a decision by the AOJ consists of a Notice of Disagreement submitted to the Board in accordance with all provisions of 38 C.F.R. §§ 20.202-20.204. See 38 U.S.C. §§ 501, 7105; 38 C.F.R. § 20.201. To that end, a properly completed Notice of Disagreement or VA Form 10182 in response to a decision by the AOJ must be filed within one year from the mailing date of the rating decision addressing the contested issue. 38 C.F.R. § 20.203(b). An extension for filing a Notice of Disagreement may be granted but only when a written extension request showing good cause is filed with the Board. 38 C.F.R. § 20.203(c).
+
+The RO denied service connection for acid reflux disorder in a September 2020 rating decision, and the Veteran was notified of the rating decision in the same month. In his July 2024 Notice of Disagreement, the Veteran expressed disagreement with the September 2020 rating decision's denial of service connection for acid reflux. 
+
+Unfortunately, the Board must dismiss the appeal for service connection for acid reflux disorder because the appeal is untimely. The Veteran submitted his July 2024 Notice of Disagreement more than one year after receiving notice of the September 2020 rating decision, and a review of the claims file did not reveal any written extension request. Accordingly, the Veteran's attempt to appeal with September 2020 rating decision denying service connection for acid reflux disorder is untimely, and the appeal must be dismissed. 38 U.S.C. § 7105(d); 38 C.F.R. § 20.205.
+
+REASONS FOR REMAND
+
+Entitlement to service connection for obstructive sleep apnea is remanded.
+
+Under the AMA, remand is permissible only for: (a) correction of pre-decisional duty to assist errors, to include examinations and medical opinions; and (b) correction of an AOJ error in satisfying a regulatory or statutory duty, if correction of such error would have a reasonable possibility of aiding in substantiating the appellant's claim. 38 C.F.R. § 20.802.
+
+When VA undertakes the effort to provide an examination or medical opinion, the examination or medical opinion must be adequate. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). Inadequate medical examinations include those that provide unsupported conclusions. Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008); Barr, 21 Vet. App. at 311. It is the factually accurate, fully articulated, sound reasoning for the conclusion that contributes probative value to a medical opinion. Nieves-Rodriguez, 22 Vet. App. at 304. VA must consider all lay and medical evidence of record. 38 U.S.C. §§ 1154(a), 5107; 38 C.F.R. § 3.303.
+
+The Veteran has claimed entitlement to service connection for obstructive sleep apnea. He asserts that his sleep apnea has been present since his time in service and/or is secondary to his service-connected posttraumatic stress disorder (PTSD).
+
+The Veteran underwent a VA examination in September 2021, wherein a diagnosis of obstructive sleep apnea was confirmed. In October 2021, the examiner opined that the Veteran's sleep apnea is less likely than not caused by his PTSD. The examiner stated that there is no concrete medical evidence or date to support the Veteran's claim and no medical opinion linking his sleep apnea to his PTSD. Finally, the examiner stated that some studies have suggested an association between obstructive sleep apnea and PTSD, but those are cohort studies and do not show causality.
+
+Another VA examination was conducted in April 2023. The examiner opined that the Veteran's obstructive sleep apnea is less likely than not caused by his in-service toxic exposure risk activities. He stated that definite factors that impact development of obstructive sleep apnea include obesity and craniofacial and upper airway soft tissue abnormalities, but a review of medical literature does not show it to be caused by toxic exposures.
+
+The Board finds that a remand is necessary because the VA medical opinions of record are inadequate. First, the October 2021 opinion addressed only whether the Veteran's sleep apnea was caused by his PTSD, without discussing aggravation. Medical opinions for secondary service connection claims must address both causation and aggravation. Additionally, the April 2023 medical opinion is unsupported by an adequate rationale. The examiner noted obesity and craniofacial and upper airway soft tissue abnormalities as definite factors impacting obstructive sleep apnea, but he did not indicate whether either of these factors applied to the Veteran. The examiner also did not discuss the Veteran's statement that his sleep apnea has been present since active service. Therefore, the VA medical opinions of record are inadequate. The RO's failure to obtain adequate medical opinions constitutes a pre-decisional duty to assist error, and a remand is warranted to obtain addendum medical opinions.
+
+The matter is REMANDED for the following action:
+
+Obtain an addendum medical opinion from the examiner who conducted the April 2023 VA sleep apnea examination or, if that examiner is unavailable then another similarly qualified examiner may respond instead. The entire claims file, including a copy of this remand, must be made available for review by the examiner, and such review should be noted in the examination report. A new VA examination is only necessary if deemed so by the examiner. The examiner should respond to the following:
+
+(a.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's obstructive sleep apnea had its onset during active service or is otherwise due to an in-service injury, event, or illness, to include the Veteran's participation in toxic exposure risk activities?
+
+In rendering an opinion, the examiner must consider the total potential exposure through all applicable military deployments and the synergistic, combined effects of all toxic exposure risk activities for the Veteran. 
+
+(b.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's obstructive sleep apnea was caused and/or aggravated (any incremental increase in disability) by his service-connected PTSD?
+
+(c.) If aggravation is found, is there medical evidence created prior to the aggravation or at any time between the time of aggravation and the current level of disability that shows a baseline for the obstructive sleep apnea prior to aggravation? If so, please identify.
+
+The examiner must provide a comprehensive rationale for each proffered opinion. The examiner is advised that the Veteran is competent to report his symptoms and history, and such reports are to be considered in formulating any opinion. 
+
+If any opinion cannot be given without resorting to speculation, the examiner should explain why and state whether the need to speculate is due to a deficiency in the?state of general medical knowledge (no one could respond given medical science and the known facts), the?record (additional facts are required), or the examiner does not have the knowledge or training.?As appropriate, the AOJ should conduct additional development or supplement the record.	 
+
+ 
+
+Eric S. Leboff
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Pratt
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

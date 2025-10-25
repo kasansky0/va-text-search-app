@@ -1,0 +1,107 @@
+Citation Nr: A25032575
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 241203-493955
+DATE: April 9, 2025
+
+ORDER
+
+An initial disability rating in excess of 50 percent for the service-connected posttraumatic stress disorder (PTSD) is denied.
+
+FINDING OF FACT
+
+The severity, frequency, and duration of the Veteran's PTSD manifest in symptomatology more nearly approximating occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks, but not with deficiencies in most areas or total occupational and social impairment.
+
+CONCLUSION OF LAW
+
+The criteria for a disability rating in excess of 50 percent for the service-connected PTSD have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.126, 4.130, Diagnostic Code 9411.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The appellant is a Veteran who served on active duty in the United States Army from March 1967 to January 1969.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a September 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO).  In that decision, the RO granted service connection for PTSD and hypertension, and assigned an initial 50 percent disability rating for the PTSD, and an initial 10 percent rating for the hypertension, both effective from November 8, 2023.  
+
+In the December 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran listed the September 2024 rating decision and disagreed with the initial 50 percent disability rating for the service-connected PTSD.  The Veteran also indicated, "sleep apnea should be included in hypertension disability."  The Veteran selected the Evidence Submission docket, and he submitted evidence during the 90-day evidentiary window following the December 2024 Notice of Disagreement.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2024 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran or his representative with, or within 90 days from receipt of, the VA Form 10182.  38 C.F.R. § 20.303. If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the date the Board received the VA Form 10182, or (2) more than 90 days following the date the Board received the VA Form 10182, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.303, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Notably, the Veteran's statement attempting to claim service connection for sleep apnea was not filed on the proper form.  A VA Form 10182 is a Board appeal; however, there is no rating decision issued within the one-year period prior to the receipt of the December 2024 VA Form 10182 that adjudicated the issue of service connection for sleep apnea.  Moreover, if the Veteran wishes to file a claim of service connection for sleep apnea, he must do so on the proper form.  Original claims are filed on a VA Form 21-526EZ, and supplemental claims are filed on a VA Form 20-0995.  
+
+Further, the Veteran did not express disagreement with his initial hypertension rating, or the effective date assigned for the grant of service connection for hypertension.  Accordingly, the sole issue on appeal is whether the Veteran is entitled to an increased rating for his service-connected PTSD.
+
+Increased Ratings
+
+Disability evaluations are determined by application of the criteria set forth in the VA's Schedule for Rating Disabilities, which is based on average impairment in earning capacity.  38 U.S.C. § 1155; 38 C.F.R. Part 4.  An evaluation of the level of disability present must also include consideration of the functional impairment of the Veteran's ability to engage in ordinary activities, including employment.  38 C.F.R. § 4.10. When a question arises as to which of two ratings apply under a particular diagnostic code, the higher evaluation is assigned if the disability more closely approximates the criteria for the higher rating.  38 C.F.R. § 4.7. After careful consideration of the evidence, any reasonable doubt remaining is resolved in favor of the Veteran.  38 C.F.R. § 4.3.
+
+The Veteran's entire history is to be considered when making disability evaluations.  See generally 38 C.F.R. § 4.1; Schafrath v. Derwinski, 1 Vet. App. 589 (1995).
+
+If two disability evaluations are potentially applicable, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating; otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7. All reasonable doubt as to the degree of disability will be resolved in favor of the claimant.  38 U.S.C. § 5107 (b); 38 C.F.R. § 4.3.
+
+1. An initial disability rating in excess of 50 percent for posttraumatic stress disorder (PTSD).
+
+The Veteran contends that his PTSD warrants a higher rating than when service connection was established.  The Veteran's service-connected PTSD is rated 50 percent disabling pursuant to 38 C.F.R. § 4.130, Diagnostic Code 9411.  Accordingly, the Veteran's PTSD is rated under the General Rating Formula for Rating Mental Disorders (General Rating Formula).  38 C.F.R. § 4.130.
+
+Under the General Rating Formula, a noncompensable rating is warranted where a mental condition has been formally diagnosed, but symptoms are not severe enough either to interfere with occupational and social functioning or to require continuous medication.  Id.
+
+A 10 percent rating is warranted where there is occupational and social impairment due to mild or transient symptoms which decrease work efficiency and ability to perform occupational tasks only during periods of significant stress, or symptoms controlled by continuous medication.  Id.
+
+A 30 percent rating is warranted where there is occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks (although generally functioning satisfactorily, with routine behavior, self-care, and normal conversation, due to such symptoms as: depressed mood, anxiety, suspiciousness, panic attacks (weekly or less often), chronic sleep impairment, mild memory loss (such as forgetting names, directions, recent events).  Id.
+
+A 50 percent rating is warranted where there is occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short- and long-term memory; impaired judgment; impaired abstract thinking; disturbance of motivation and mood; difficulty in establishing and maintaining effective work and social relationships.  Id.
+
+Under the General Rating Formula, a 70 percent rating is assigned for occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work like setting); inability to establish and maintain effective relationships.  Id.
+
+A 100 percent rating is assigned for total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; memory loss for names of close relatives, own occupation, or own name.  Id.
+
+To the extent that the medical evidence reflects diagnoses of other psychiatric disorders, where it is not possible to distinguish the effects of nonservice-connected conditions from those of a service-connected condition, the reasonable doubt doctrine dictates that all symptoms be attributed to the Veteran's service-connected disability.  See Mittleider v. West, 11 Vet. App. 181 (1998).
+
+The use of the phrase "such symptoms as," followed by a list of examples, provides guidance as to the severity of symptomatology contemplated for each rating.  The use of such terminology permits consideration of items listed as well as other symptoms and contemplates the effect of those symptoms on the Veteran's social and work situation.  See Mauerhan v. Principi, 16 Vet. App. 436 (2002).
+
+In other words, in applying the General Formula for Mental Disorders (General Formula), the Board must conduct a "holistic analysis" that considers all associated symptoms, regardless of whether they are listed as criteria.  Bankhead v. Shulkin, 29 Vet. App. 10, 22 (2017); 38 C.F.R. § 4.130. The analysis must include a determination as to whether unlisted symptoms are similar in severity, frequency, and duration to the listed symptoms associated with specific disability percentages.  38 C.F.R. § 4.126. Then, the Board must determine whether the associated symptoms, both listed and unlisted, caused the level of impairment required for a higher disability rating.  Vazquez-Claudio v. Shinseki, 713 F.3d 112, 114-118 (Fed. Cir. 2013).
+
+In this case, as discussed below, the evidence persuasively weighs against assignment of a disability rating in excess of 50 percent for the service-connected PTSD, as the Veteran's symptoms do not cause the level of impairment required for a rating of 70 percent or higher.  Rather, his symptoms more nearly approximate the symptoms associated with a 50 percent (or less) rating and resulted in a level of impairment that most closely approximated the level of impairment associated with a 50 percent (or less) rating.  See Mauerhan v. Principi, 16 Vet. App. 426 (2002).
+
+There is scant medical evidence regarding the Veteran's PTSD symptomatology.  VA treatment records from a November 2023 Agent Orange Registry Consult show the Veteran reported some PTSD symptomatology.  He had been getting more anxious and angrier for no reason; was easily startled by loud noises (like the fourth of July); was having nightmares; was crying easily at funerals; and didn't like crowds or airplanes (due to plane crash in Vietnam).  He denied suicidal or homicidal ideation and noted that his children were his support system.
+
+The Veteran underwent VA examination via telehealth for his PTSD in August 2024.   The Veteran reported that he has been married for 36 years (this is his second marriage) and has 3 children.  He worked as an attorney in private practice in contract law.  He endorsed anxiety, depression, and trauma related symptoms like anger and irritability.  He denied suicidal or homicidal ideation as well as symptoms associated with thought disorder such as hallucinations and delusions.  Additional symptoms were hypervigilance, suspiciousness, anhedonia, disturbing memories, nightmares, and flashbacks.  On behavioral observation, the Veteran's speech was pressured in rate, rhythms, and tone; facial expressions were consistent with content; thought processes were linear and logical; he was well groomed; he displayed an anxious affected; and exhibited poor eye contact.  There were no unusual behavioral oddities noted.
+
+The examiner confirmed a diagnosis of PTSD and noted the following symptoms: depressed mood, anxiety, suspiciousness, chronic sleep impairment, disturbances in motivation and mood, difficulty in establishing and maintaining effective work and social relationships, and difficulty adapting to stressful circumstances, including work or a work like setting.  The examiner marked that the symptoms resulted in occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks, although generally functioning satisfactorily, with normal routine behavior, self-care, and conversation.  
+
+The Veteran submitted a statement in December 2024 with respect to his current PTSD symptomatology and asserting he is entitled to a rating higher than 50 percent.  He stated that, as a result of his time in the military, he experiences the following: he finds himself quick to get angry about minor things; has fits of road rage while driving (including yelling and gesturing at other drivers); drinks alcohol daily and has urges to drink before going out in public, as he gets stressed in crowded places; has difficulty making friends with people and co-workers; has no friends of his own making; doesn't often engage in conversations (especially political, as he is viewed as negative or conspiratorial); has difficulty falling asleep; doesn't enjoy taking walks; prefers to work alone or with minimal interaction with co-workers, including taking breaks and lunch alone; avoids religious services due to uncontrollable crying; discomfort attending funerals; rarely visiting or communicating via text or email with his sisters, even though they live within 100 miles; extremely sensitive to sudden or unexpected noises and when someone unexpectedly enters a room (his body jerks); and he stated that these problems were why his first wife divorced him after only three years.  
+
+The Veteran's entire December 2024 statement was considered in determining whether a higher disability rating is warranted - including symptoms listed and not listed in the rating criteria.  The Veteran is competent to report the PTSD symptoms he experiences, which are capable of lay observation.  The Veteran's statements do not conflict with the medical evidence of record, and there is no reason to doubt the credibility of his statements. 
+
+Given the above, the Veteran's service-connected PTSD manifests, whether occasionally or frequently, by symptoms associated with a 30 percent disability rating (depressed mood, anxiety, suspiciousness, chronic sleep impairment), a 50 percent rating (disturbances of motivation and mood, difficulty establishing and maintaining effective work and social relationships), and a 70 percent rating (difficulty in adapting to stressful circumstances, unprovoked irritability, but without period of violence).  Symptoms of the 100 percent rating were not observed in the record.  He also reported symptoms that are not listed with a specific rating, such as nightmares, avoidance behaviors, detachment from others, an exaggerated startle response, hypervigilance, flashbacks, and daily alcohol use.  Regarding the frequency, severity, and duration of the unlisted symptoms, the Veteran endorsed daily alcohol use but did not otherwise describe the frequency, severity, or duration of his other symptoms.  
+
+The Veteran's overall disability picture is more consistent with a 50 percent, or less, rating - occupational and social impairment with reduced reliability and productivity due to PTSD symptoms.  The August 2024 VA examiner reached the same conclusion.
+
+Regarding occupational impairment, the Veteran noted that he was a retired attorney and that he did not make friends with his co-workers, preferring to eat lunch and work alone.  Regarding social impairment, the Veteran has been married for 36 years and has 3 children whom he has reported as a support system for himself.  He does not keep in contact with his sisters.  He has difficulty making friends and engaging in conversations, and he avoids going out because he gets stressed in crowded places.  The record does not support that the severity, frequency, and duration of the Veteran's listed and unlisted symptoms, and their resulting impact on occupational and functional functioning, more nearly approximate the symptoms contemplated by a 70 percent or 100 percent rating.  
+
+Accordingly, the Veteran's overall disability picture is more consistent with a 50 percent, or less, rating.  As such, an evaluation in excess of 50 percent for PTSD is not warranted and the Veteran's claim must be denied at this time.  38 C.F.R. §§ 4.7, 4.130, Diagnostic Code 9411.
+
+While the Veteran may have experienced some symptoms contemplated by a 70 percent rating and occupational and social impairment are shown, deficiencies in most areas, including deficiencies in judgment and thinking, are not supported by the record.  The Veteran has consistently denied suicidal or homicidal ideation, and the record does not reveal symptoms associated with a 70 percent disability rating, including obsessional rituals interfering with routine activities, intermittent speech difficulties, near-continuous panic or depression affecting the Veteran's ability to function independently, appropriately, and effectively, spatial disorientation, or neglect of personal appearance and hygiene.  Additionally, the Veteran did not endorse similar symptoms of the same frequency, duration and severity.
+
+Furthermore, a 100 percent rating is not warranted, as there is no evidence of gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; memory loss for names of close relatives, own occupation, or own name.  The Veteran also did not have other symptoms of similar frequency, severity, or duration.
+
+(Continued on the next page)
+
+?
+
+In sum, the relevant evidence of record persuasively weighs against finding that the Veteran meets the criteria for a rating in excess of 50 percent for PTSD.  As the evidence of record persuasively weighs against the claim, the benefit-of-the-doubt rule does not apply.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+L. B. CRYAN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. A. Feroce
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

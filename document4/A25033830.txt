@@ -1,0 +1,105 @@
+Citation Nr: A25033830
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240528-444341
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to a compensable initial evaluation for service-connected bilateral hearing loss is denied. 
+
+REMANDED
+
+Service connection for insomnia is remanded.
+
+Service connection for sleep apnea is remanded.
+
+FINDING OF FACT
+
+Throughout the appeal period, the Veteran's hearing loss has been manifested by no more than Level I hearing impairment in each ear as defined in 38 C.F.R. § 4.85, Table VI.
+
+CONCLUSION OF LAW
+
+The criteria for a compensable disability evaluation for bilateral hearing loss have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.85, 4.86, Diagnostic Code 6100. 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from July 1977 to August 1981 as an infantryman.
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the March 2024 agency of original jurisdiction (AOJ) rating decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the March 2024 rating decision cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+Following the March 2024 rating decision and May 2024 Notice of Disagreement, the Veteran filed a November 2024 claim for increased evaluation for hearing loss. In connection with that claim, he filed a written lay statement and attended further VA audiologic examinations. Because these records were associated with the Veteran's claims file after the March 2024 rating decision on appeal, the Board may not consider them. The AOJ considered these records in a December 2024 rating decision. If the Veteran would like the Board to consider that evidence, he may appeal the December 2024 rating decision to the Board. In the alternative, he may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, the AOJ will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Following the March 2024 rating decision and May 2024 Notice of Disagreement, the Veteran also filed a May 2024 claim for service connection for depression. The AOJ denied this claim in a July 2024 rating decision. However, because the Board is remanding the claims for service connection for sleep apnea and insomnia, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Entitlement to a compensable initial evaluation for service-connected hearing loss is denied.
+
+The Veteran contends that he is entitled to a compensable disability evaluation for bilateral hearing loss. In his November 2023 claim, he described in-service noise exposure from weapons systems and progressive hearing loss since service. In the March 2024 rating decision on appeal, the AOJ awarded service connection for bilateral hearing loss and assessed a noncompensable initial evaluation.
+
+Disability evaluations are determined by application of the criteria set forth in VA's Schedule for Rating Disabilities (the schedule), which is based on average impairment in earning capacity. 38 U.S.C. § 1155; 38 C.F.R. Part 4. An evaluation of the level of disability present must also include consideration of the functional impairment of the Veteran's ability to engage in ordinary activities, including employment. 38 C.F.R. § 4.10. When a question arises as to which of two ratings apply under a particular DC, the higher evaluation is assigned if the disability more closely approximates the criteria for the higher rating. 38 C.F.R. § 4.7. After careful consideration of the evidence, any reasonable doubt remaining is resolved in favor of the Veteran. 38 C.F.R. § 4.3.
+
+Although the Board must consider the Veteran's entire history when making disability evaluations, see Schafrath v. Derwinski, 1 Vet. App. 589 (1995), it is the present level of disability that is of primary concern where entitlement to compensation already has been established and an increase in the disability rating is at issue, see Francisco v. Brown, 7 Vet. App. 55, 58 (1994). In a claim for an increased initial evaluation, the relevant time period is from the date of the claim. Moore v. Nicholson, 21 Vet. App. 211, 215 (2007), rev'd in irrelevant part, Moore v. Shinseki, 555 F.3d 1369 (2009). Additionally, the U.S. Court of Appeals for Veterans Claims has held that "staged" ratings are appropriate for any rating claim when the factual findings show distinct time periods where the service-connected disability exhibits symptoms that would warrant different ratings. See Hart v. Mansfield, 21 Vet. App. 505 (2007); Fenderson v. West, 12 Vet. App. 119 (1999).
+
+Hearing impairment is evaluated pursuant to 38 C.F.R. § 4.85, Diagnostic Code 6100. Evaluations of service-connected hearing impairment range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of a controlled Maryland CNC speech discrimination test together with the average hearing threshold level measured by pure tone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz). 
+
+To evaluate the degree of disability from bilateral service-connected hearing loss, the schedule establishes eleven auditory hearing acuity levels designated from Level I for essentially normal hearing acuity through Level XI for profound deafness. 38 C.F.R. § 4.85, Tables VI and VII.
+
+An exceptional pattern of hearing impairment occurs when the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more. 38 C.F.R. § 4.86(a). In that situation, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral. Further, when the average pure tone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and that numeral will then be elevated to the next higher numeral. 38 C.F.R. § 4.86(b).
+
+A February 2024 VA audiologist performed an audiogram, provided speech recognition scores, diagnosed hearing loss for VA purposes, and offered a favorable nexus opinion. The Board reviewed this examination report and finds the Veteran's hearing loss does not meet the criteria for a compensable rating. See 38 C.F.R. § 4.85. 
+
+At the examination, the Veteran reported difficulty hearing people unless they are in close proximity and hearing customers at his sales counter at work. He described being forced to ask people to repeat themselves because he cannot hear them clearly. 38 C.F.R. § 4.10; Martinak v. Nicholson, 21 Vet. App. 447 (2007). The examiner reported speech recognition ability of 96 percent in each ear and puretone thresholds, in decibels, as follows:
+
+  	 	 	HERTZ	 	 
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	 5	10	10	50	60
+
+LEFT	5	10	20	55	35
+
+This represents an average of 32.5 decibels in the right ear and 30 decibels in the left ear. Applying these averages and 96 percent speech recognition scores to 38 C.F.R. § 4.85, Table VI, yields a numeric designation of Level I in each ear. Entering the resulting numeric designation of Level I for each ear to 38 C.F.R. § 4.85, Table VII, equates to a noncompensable evaluation under Diagnostic Code 6100. The audiometric testing also does not show an exceptional pattern of hearing impairment under 38 C.F.R. § 4.86. Based on the evidence above, a compensable disability rating for bilateral hearing loss is not warranted. 
+
+Although the Veteran reported difficulty hearing people unless they are in close proximity, difficulty hearing customers at work, and the need to request people to repeat themselves for clarity, disability evaluations for hearing loss are derived from a mechanical application of the rating schedule to the numeric designations resulting from audiometric testing. See Lendenmann v. Principi, 3 Vet. App. 345 (1992). The Veteran is both competent and credible in his report of difficulty hearing people; however, the rating criteria contemplate pure tone threshold averages and the ability to hear spoken words on Maryland CNC testing. The difficulty hearing that the Veteran described at the February 2024 VA examination is contemplated by the rating criteria. See Doucette v. Shulkin, 28 Vet. App. 366 (2017); see also Rossy v. Shulkin, 29 Vet. App. 142, 145 (2017).
+
+The most probative evidence of record persuasively weighs against the claim of entitlement to a compensable initial evaluation for bilateral hearing loss. The evidence is not in "approximate balance" or "nearly equal." Accordingly, the Board must deny a compensable initial evaluation for service-connected bilateral hearing loss. 38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+REASONS FOR REMAND
+
+1. Service connection for insomnia is remanded.
+
+2. Service connection for sleep apnea is remanded.
+
+The Veteran's November 2023 claims for service connection for insomnia and sleep apnea are related in that they both involve sleep impairment. In a lay statement filed with his claims, he described that sleep problems began during service with insomnia, that these sleep problems have progressively gotten worse since service, and that he has now been diagnosed with sleep apnea. He specifically described stress as an infantryman that caused him to "always be on guard" and affected his sleep. 
+
+However, the Veteran has not been afforded a VA examination with respect to these claims. Such development is necessary if the information and evidence of record does not contain sufficient competent medical evidence to decide the claim, but (1) contains competent evidence of diagnosed disability or symptoms of disability, (2) establishes that the Veteran suffered an event, injury or disease in service, or has a presumptive disease during the pertinent presumptive period, and (3) indicates that the claimed disability may be associated with the in-service event, injury, or disease, or with another service-connected disability. 38 C.F.R. § 3.159(c)(4); McLendon v. Nicholson, 20 Vet. App. 79, 83-86 (2006).
+
+Here, the Veteran is both competent and credible to report in-service onset for stress and insomnia because these symptoms do not require specialized medical knowledge to identify but instead are based on personal knowledge and observation. See Layno v. Brown, 6 Vet. App. 465, 469-70 (1994). Although the Veteran is not competent to diagnose sleep apnea, he is competent to report that he has been medically diagnosed with sleep apnea, and his lay statement reported as much. See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed.Cir.2007). Moreover, the Veteran's description of progressive, consistent sleep problems since service indicates that these current problems may be associated with the in-service onset of similar problems. These pre-decisional lay statements triggered the VA's duty to assist the Veteran by providing him an examination to determine the nature and etiology of his claimed insomnia and sleep apnea. Because there is no opinion of record that addresses these claims, remand is required. 
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for VA examinations with the appropriate examiners to determine the nature and etiology of his sleep problems, to include both sleep apnea and insomnia. The examiners must review the entire claims file, to include a complete copy of this REMAND, and provide an opinion discussing the Veteran's medical history and lay assertions. Any indicated evaluations, studies, or tests deemed necessary by the examiner should be accomplished. The examiner must address the following:
+
+(a.) As to sleep apnea, the examiner should state whether the Veteran has a diagnosis of sleep apnea, and, if so, whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's sleep apnea had its onset in active service or is otherwise etiologically related to active service. The examiner should also discuss any relationship between sleep apnea and insomnia, including an opinion as to whether insomnia has caused or aggravated sleep apnea. 
+
+(b.) As to insomnia, the examiner should state whether the Veteran has a diagnosis of insomnia, and, if so, whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's insomnia had its onset in active service or is otherwise etiologically related to active service. The examiner should also discuss any relationship between insomnia and sleep apnea, including an opinion as to whether sleep apnea has caused or aggravated insomnia.
+
+*Each examiner should specifically review the lay statements submitted by the Veteran on his November 2023 VA Forms 21-4138 and 21-526EZ reporting in-service onset for hypervigilance and stress affecting his sleep, in-service onset for insomnia, the progressive increase in such sleep problems since service, and current diagnosis of sleep apnea. The examiner is advised that the Veteran is competent to report his symptoms and history, and that such reports must be considered, along with the other evidence of record, in formulating the requested opinion.
+
+(Continued on the next page)
+
+Rationale for all requested opinions shall be provided. If the examiner cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation stating why this is so. In so doing, the examiner shall explain whether the inability to provide a more definitive opinion is the result of a need for additional information or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question(s).
+
+ 
+
+ 
+
+A. S. CARACCIOLO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Schonland, Avery M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

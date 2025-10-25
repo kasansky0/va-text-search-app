@@ -1,0 +1,81 @@
+Citation Nr: A25032041
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240903-472054
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to an initial disability rating in excess of 10 percent for chronic bronchitis is denied. 
+
+FINDING OF FACT
+
+The Veteran's chronic bronchitis is not manifested by FEV-1 of 56-70 percent predicted, or; FEV-1/FVC of 56-70 percent, or; DLCO (SB) 56-65 percent predicted.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial disability rating in excess of 10 percent for chronic bronchitis have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.10, 4.14, 4.3, 4.97, Diagnostic Code (DC) 6600.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from January 2004 to February 2008.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from an April 2024 rating decision where the Agency of Original Jurisdiction (AOJ) granted service connection for chronic bronchitis and assigned a 10 percent evaluation. 
+
+In September 2024, the Veteran timely appealed the decision to the Board by submitting a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD) and requesting a "Direct Review" of the evidence by a Veterans Law Judge. 
+
+In an Appeals Modernization Act (AMA) Direct Review, the Board considers the evidence of record at the time of the April 2024 rating decision on appeal.  38 C.F.R. § 20.301. 
+
+If evidence was associated with the claims file during a period when additional evidence was not allowed, the Board has not considered it in its decision here.  38 C.F.R. § 20.300.  If the Veteran would like the VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to an initial disability rating in excess of 10 percent for chronic bronchitis.   
+
+The Veteran contends that his chronic bronchitis should be rated higher than the currently assigned 10 percent rating.  
+
+Increased Rating 
+
+VA has adopted a Schedule for Rating Disabilities (Schedule) to evaluate service-connected disabilities.  See 38 U.S.C. § 1155; 38 C.F.R., Part IV.  Disability evaluations assess the ability of the body as a whole, the psyche, or a body system or organ to function under the ordinary conditions of daily life, to include employment.  38 C.F.R. § 4.10.  The percentage ratings in the Schedule represent the average impairment in earning capacity resulting from service-connected diseases and injuries and their residual conditions in civilian occupations.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.  The percentage ratings are generally adequate to compensate for considerable loss of working time from exacerbation or illness proportionate to the severity of the disability.  Id. 
+
+In disability rating cases, VA assesses the level of disability from the initial grant of service connection or a year prior to the date of application for an increased rating and determines whether the level of disability warrants the assignment of different disability ratings at different times over the course of the claim, a practice known "staged ratings."  See Fenderson v. West, 12 Vet. App. 119, 126 (1999).  
+
+When all the evidence is assembled, the Board is then responsible for determining whether the evidence supports the claim or is in relative equipoise, with the Veteran prevailing in either event, or whether the evidence is persuasively against the claim, in which case the claim is denied.  When there is an approximate balance of positive and negative evidence regarding an issue material to the determination of a matter, VA shall resolve reasonable doubt in favor of the Veteran.  38 U.S.C. § 5107; 38 C.F.R. § 4.3.
+
+In deciding claims, it is the Board's responsibility to evaluate the entire record on appeal.  See 38 U.S.C. § 7104(a).  Although the Board has an obligation to provide reasons and bases supporting this decision, there is no need to discuss every piece of evidence submitted by the Veteran or on his behalf.  See Gonzales v. West, 218 F.3d 1378, 1380-81 (Fed. Cir. 2000).  Rather, the Board's analysis below will focus specifically on what evidence is needed to substantiate the claim and what the evidence in the claims file shows, or fails to show, with respect to the claim.  See Timberlake v. Gober, 14 Vet. App. 122, 128-30 (2000).
+
+The Veteran's chronic bronchitis is rated as 10 percent disabling from August 11, 2023, under DC 6600 for Diseases of the Trachea and Bronchi.  See 38 C.F.R. § 4.97.
+
+Under that diagnostic code, a 10 percent rating is assigned for Forced Expiratory Volume in one second (FEV-1) of 71-80 percent predicted, or; the ratio of Forced Expiratory Volume in one second to Forced Vital Capacity (FEV-1/FVC) of 71 80 percent; or, Diffusion Capacity of the Lung for Carbon Monoxide by the Single Breath Method (DLCO (SB)) is 66-80 percent predicted.  A 30 percent rating is assigned for FEV-1 of 56-70 percent predicted, or; FEV-1/FVC of 56 70 percent, or; DLCO (SB) 56-65 percent predicted.  A 60 percent rating is assigned for FEV-1 of 40-55 percent predicted, or; FEV-1/FVC of 40-55 percent, or; DLCO (SB) of 40-55 percent predicted, or; maximum oxygen consumption of 15 to 20 ml/kg/min (with cardiorespiratory limit).  A 100 percent rating is assigned for FEV-1 less than 40 percent of predicted value, or; FEV-1/FVC less than 40 percent, or; DLCO (SB) less than 40 percent predicted, or; maximum exercise capacity less than 15 ml/kg/min oxygen consumption (with cardiac or respiratory limitation), or; cor pulmonale (right heart failure), or; right ventricular hypertrophy, or; pulmonary hypertension (shown by Echo or cardiac catheterization), or; episode(s) of acute respiratory failure, or; requires outpatient oxygen therapy.  38 C.F.R. § 4.97, DC 6600.
+
+Post-bronchodilator findings for pulmonary function tests (PFTs) are the standard in pulmonary assessment for Diagnostic Code 6600.  See 38 C.F.R. § 4.96 (d). However, post-bronchodilator studies are not required when the results of pre-bronchodilator pulmonary function tests are normal or when the examiner determines that post-bronchodilator studies should not be done and states why.  Id.  If the DLCO (SB) test is not of record, VA should evaluate based on alternative criteria as long as the examiner states why the test would not be useful or valid in a particular case.  Id.  When there is a disparity between the results of different PFT's, so that the level of evaluation would differ depending on which test result is used, the regulations state that the evaluator should use the test result that the examiner states most accurately reflect the level of disability.  Id. 
+
+The Board has carefully reviewed the evidence of record and finds that the evidence persuasively weighs against the award of an initial disability rating in excess of 10 percent for the Veteran's chronic bronchitis.  The reasons follow.
+
+November 2019 VA treatment records show that in a review of systems in which the Veteran's chest was assessed, he denied having cough, sputum, and shortness of breath.  A physical examination revealed that his lungs were clear with no rales or wheeze. 
+
+An August 2023 VA treatment record documents that in a review of systems in which the Veteran's lungs were assessed, he denied any increase in shortness of breath or cough and hemoptysis.  A physical examination of the Veteran's lungs showed symmetrical expansion, breath sounds, no wheezing, crackles or rhonchi appreciated.  
+
+A March 2024 VA examination report documents a diagnosis of chronic bronchitis.  With respect to the onset of the respiratory disability, the Veteran reported that during service, he experienced cough and chest tightness with difficulty taking deep breaths for which he took over-the-counter medication.  He also reported intermittent visits with his primary care provider and a few treatments of antibiotics with no improvement.  His current symptoms included dyspnea and cough with physical/exertional activity.  The Veteran's treatment consisted of over-the-counter cough drops and 10 mg of Zyrtec every other day.  He did not require oral or parenteral corticosteroid medication, inhaled medication, antibiotics, or oxygen treatment.  He also did not have any other pulmonary conditions.  
+
+Pre-bronchodilator PFT testing revealed FVC at 75 percent predicted, FEV-1 at 76 percent predicted, FEV-1/FVC at 79 percent, and DLCO was not reported.  Post-bronchodilator PFT testing showed FVC at 58 percent predicted, FEV-1 at 60 percent predicted, and FEV-1/FVC at 84 percent.  The examiner documented that PFT testing reflected the Veteran's current pulmonary function and that the FEV-1 test results most accurately reflected the Veteran's level of disability.  The examiner provided that DLCO was not completed because it was not indicated for the Veteran's condition.  Regarding functional impact, the examiner noted that there was between zero and one week of work time lost in the last 12 months due to the Veteran's disability.  The examiner further indicated that the Veteran's current job in industrial refrigeration required wearing a respiratory mask, which increased his symptoms of dyspnea.  The examiner stated that there were no other significant diagnostic test findings and/or results.  
+
+Based upon the competent medical evidence of record, which includes only one PFT test during the period on appeal, the Board finds that a disability rating in excess of 10 percent for chronic bronchitis is not warranted.  As previously noted, PFT testing is the standard for evaluating the severity of respiratory disabilities.  In this instance, the PFT test results from the March 2024 VA examination, which the Board finds adequate and probative, do not demonstrate FEV-1 of 56-70 percent predicted, or; FEV-1/FVC of 56-70 percent, or; DLCO (SB) 56-65 percent predicted to warrant a 30 percent rating.  With no other PFT test results of record, there is no competent medical evidence in which the Board could rely upon to support an increased rating.  
+
+The Board notes that in the Veteran's September 2024 Notice of Disagreement, he states that the examiner had to stop the test because of his breathing.  A review of the March 2024 VA examination report does not show a notation that PFT tests were interrupted due to the Veteran experiencing breathing issues or that the findings within the report are not reliable.  To the contrary, within the examination report, the examiner documented that the PFT test results reflected the Veteran's current pulmonary functioning.  Moreover, during the appeal period, there are no other PFT test results of record or any other medical evidence indicating that the Veteran's respiratory disability may be more severe than documented in the March 2024 VA examination report.  
+
+Likewise, the Board disagrees with the Veteran's representative's contention in the October 2024 brief that the Veteran's non-deployment related toxic exposure was not properly considered.  Specifically, the representative states that, "While the [Veteran] was not found to qualify for a presumption of exposure during his Iraq service, the memorandum and evidence in his eFolder and/or ILER confirm non-deployment related toxic exposure consistent with his service.  This non-deployment exposure contributed to the [Veteran's] respiratory condition and should be considered when evaluating his disability rating."  In both the March VA 2024 examination and medical opinion reports, the examiner indicated that the Veteran's e-folder had been reviewed.  Additionally, within the evidence comments in the March 2024 VA examination report, the examiner included notations of both the August 2023 Toxic Risk Exposure Activity (TERA) Memorandum finding that the Veteran participated in non-deployment related TERA, as well as the August 2023 Individual Longitudinal Exposure Record (ILER) listing various contaminants of which the Veteran was exposed during his service.  Consequently, the Board finds that the Veteran's TERA exposure was properly considered.  Moreover, the Board notes that a finding that a current disability is related to a Veteran's service and the assignment of a disability rating based upon the severity of a service-connected disability are separate concepts involving different considerations.  In this instance, the Veteran's TERA exposure relates to establishing a nexus between his current chronic bronchitis and his service.  Evaluating the severity of the Veteran's service-connected chronic bronchitis, on the other hand, concerns pulmonary functioning measured via PFT testing.  Thus, the Board finds the March 2024 PFT test results adequate and appropriate in assessing the severity of the Veteran's chronic bronchitis.     
+
+For the reasons laid out above, the Board finds that the evidence persuasively weighs against the claim for an initial disability rating in excess of 10 percent for chronic bronchitis.  The benefit of the doubt doctrine is not for application, and the claim for an increased rating is denied.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+ 
+
+ 
+
+A. P. SIMPSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	P.C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

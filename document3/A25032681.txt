@@ -1,0 +1,75 @@
+Citation Nr: A25032681
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 230421-341353
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to a disability rating in excess of 10 percent for tinnitus is DENIED.
+
+Entitlement to disability ratings higher than 30 percent until January 1, 2025, and 70 percent thereafter, for posttraumatic stress disorder (PTSD) is REMANDED.
+
+FINDING OF FACT
+
+The current 10 percent rating for tinnitus is the maximum schedular rating available.
+
+CONCLUSION OF LAW
+
+The criteria for a disability rating in excess of 10 percent for tinnitus have not been met.  38 C.F.R. § 4.87, Diagnostic Code 6260.
+
+FACTUAL AND PROCEDURAL HISTORY
+
+The Veteran served on active duty in the United States Army from June 2005 to October 2006.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from April 2022 and July 2022 rating decisions of a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the April 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the April 2022 and July 2022 decisions on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+For tinnitus, if the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this Decision. 
+
+For PTSD, because the Board is remanding the increased rating claim, any evidence the Board could not consider will be considered by the RO in the readjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+Legal Criteria - Tinnitus
+
+Disability ratings are determined by applying the criteria set forth in the VA's Schedule for Rating Disabilities ("Rating Schedule"), which is based on the average impairment of earning capacity. Individual disabilities are assigned separate diagnostic codes. See 38 U.S.C. § 1155; 38 C.F.R. § 4.1. The basis of disability evaluations is the ability of the body as a whole, or of the psyche, or of a system or organ of the body to function under the ordinary conditions of daily life including employment. See 38 C.F.R. § 4.10.
+
+If there is a question as to which evaluation to apply to the Veteran's disability, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating. Otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. When reasonable doubt arises as to the degree of disability, such doubt will be resolved in the Veteran's favor. See 38 C.F.R. § 4.3.
+
+Pertinent regulations do not require that all cases show all findings specified by the Rating Schedule, but that findings sufficiently characteristic to identify the disease and the resulting disability and coordination of rating with impairment of function. See 38 C.F.R. § 4.21. Therefore, the Board has considered the potential application of various other provisions of the regulations governing VA benefits as well as the entire history of his disabilities in reaching its decision. Schafrath v. Derwinski, 1 Vet. App. 589, 595 (1991).
+
+Tinnitus is evaluated under Diagnostic Code 6260, which was revised effective June 13, 2003, to clarify existing VA practice that only a single 10 percent evaluation is assigned for "recurrent" tinnitus, whether the sound is perceived as being in one ear, both ears, or in the head. 38 C.F.R. § 4.87, Diagnostic Code 6260, Note (2). In Smith v. Nicholson, 451 F.3d 1344 (Fed. Cir. 2006), the Federal Circuit concluded that the Court erred in not deferring to the VA's interpretation of its own regulations, 38 C.F.R. § 4.25 and Diagnostic Code 6260, which limits a veteran to a single 10 percent maximum rating for tinnitus, regardless of whether the tinnitus is unilateral or bilateral.
+
+Analysis
+
+In this case, the Veteran's service-connected tinnitus has been assigned the maximum schedular rating available for the period on appeal under 38 C.F.R. § 4.87, Diagnostic Code 6260. As there is no legal basis upon which to award separate schedular evaluations for tinnitus in each ear, the Veteran's appeal must be denied. Sabonis v. Brown, 6 Vet. App. 426, 430 (1994).
+
+Based on the foregoing, entitlement to a disability rating in excess of 10 percent for tinnitus must be denied.
+
+REASONS FOR REMAND
+
+PTSD
+
+On June 2022 VA PTSD examination, under mental health history, the Veteran reported completion of a Volunteers of America program at Shelby Men's Center in 2021, including weekly meetings with a social worker.  This is corroborated by a March 2021 VA 10-5345 Request for and Authorization to Release Medical or Health Information, in which the Veteran requested release of VA records to VOA.  However, VOA records are not in evidence. 
+
+Because the Veteran identified relevant outstanding VOA records prior to the July 2022 rating decision on appeal, a pre-decisional duty to assist error has been identified.  A remand is required to allow VA to obtain these records.
+
+The matter is REMANDED for the following action:
+
+Ask the Veteran to complete a VA Form 21-4142 for VOA records.  Make two requests for the authorized records from VOA, unless it is clear after the first request that a second request would be futile.  
+
+ 
+
+STEVEN V. ADLER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Amanda Baker, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

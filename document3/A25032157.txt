@@ -1,0 +1,75 @@
+Citation Nr: A25032157
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 210414-152859
+DATE: April 8, 2025
+
+ORDER
+
+Service connection for a cervical spine disability is denied.
+
+FINDING OF FACT
+
+The Veteran's degenerative disc disease of the cervical spine (cervical spine disability) did not have onset during active service or within one year of service, and the most competent, credible, and probative evidence of record persuasively weighs against a finding that a cervical spine disability was incurred because of service.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for a cervical spine disability are not met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty with the United States Army from September 1991 to July 1995.
+
+This appeal comes before the Board of Veterans' Appeals (Board) from a March 2021 higher-level review (HLR) rating decision by a Department of Veterans Affairs (VA) Regional Office (RO) which denied service connection for a cervical spine disability. The Veteran's VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) was received in April 2021. The Veteran elected the Hearing docket. A Board hearing was held on August 7, 2024 before the undersigned Veterans Law Judge. The transcript is associated with the file.
+
+Therefore, the Board may only consider the evidence of record at the time of the May 2020 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review, as well as any evidence submitted by the Veteran at the hearing or within 90 days following the hearing. 38 C.F.R. § 20.302(a). If evidence was submitted either (1) during the period after the AOJ issued the decision, which was subsequently subject to higher-level review and prior to the Board hearing, or (2) more than 90 days following the hearing, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.302(a), 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+The Board notes that correspondence received on August 7, 2024, from the Veteran's representative at the time, contains a written request to withdraw this issue from appellate consideration. However, the same day that the correspondence was received, the Veteran testified at a hearing in this appeal where he continued to argue for entitlement to service connection for a cervical spine disability. The representative was not present and the Veteran wanted to proceed without his representative.  As such, the Board finds that the attempted withdrawal was ambiguous as it was received simultaneous to the Veteran's contrary hearing testimony and is therefore not valid. 38 C.F.R. § 20.205(b)(1).
+
+Service Connection 
+
+Service connection will be granted if the evidence demonstrates that current disability resulted from an injury suffered or disease contracted in active military, naval, or air service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a). Establishing service connection generally requires competent evidence of three things: (1) current disability; (2) in-service injury or disease; and (3) a relationship between the two. Saunders v. Wilkie, 886 F.3d 1356, 1361 (Fed. Cir. 2018). Consistent with this framework, service connection is warranted for a disease first diagnosed after service when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+Service connection may also be established on a secondary basis for a disability which is proximately due to or the result of a service-connected disease or injury.  When service connection is thus established for a secondary condition, the secondary condition shall be considered a part of the original condition.  38 C.F.R. § 3.310(a). 
+
+Establishing a service connection on a secondary basis requires evidence sufficient to show: (1) that a current disability exists; and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability.  38 C.F.R. § 3.310; Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+Entitlement to service connection for a cervical spine disability.
+
+The Veteran asserts that?he has a cervical spine disability that is related to active service.? Specifically, the Veteran contends that his current cervical spine disability was caused by an in-service motor vehicle accident. See generally August 2024 Hearing Transcript.
+
+The AOJ found that the Veteran has a current diagnosis of degenerative arthritis and disc disease of the cervical spine. See March 2021 Rating Decision. The AOJ similarly found that the Veteran experienced an in-service injury in the form of a motor vehicle accident and was treated for neck pain during service. The Board is bound by these favorable findings. 38 C.F.R. § 3.104(c).
+
+As noted above, service treatment records (STRs) document that the Veteran experienced an in-service injury in the form of a motor vehicle accident and was treated for neck pain during service. Diagnostic imaging of the cervical spine performed several weeks following the motor vehicle accident revealed a normal cervical spine with no abnormalities of the vertebral bodies, the intervertebral disc spaces, or intervertebral foramina. See July 1994 radiologic consultation report. Notably, a follow up treatment note reveals that the Veteran stated that his neck pain had resolved but that he still experiences lower back pain. See August 1994 service treatment note.
+
+Post-service evidence of record shows that, the earliest post-service documentation in treatment records of a cervical spine disability was diagnostic imaging conducted in February 2016 which showed moderate multilevel disc degeneration, loss of lordosis, mild canal stenosis, and a C5-C6 paracentral disc osteophyte causing C6 nerve compression. In March 2019, the Veteran complained of a several-year history of neck pain. See March 2019 VA treatment note. Diagnostic imaging revealed "some disk narrowing mild to moderate in degree" with anterior endplate osteophytes and a 9mm by 3mm calcification consistent with calcification of the nuchal ligament. See March 2019 VA imaging note. VA and private treatment records prior to February 2016 reveal normal neck findings including full range of motion and do not indicate any complaints of neck pain or other symptoms, despite regular treatment for other orthopedic disabilities. See, e.g. private treatment records dated in November 2012, April 2013, January 2014, and April 2015. Such lapse in time between separation from service and the earliest documentation of a current disability is a factor that weighs against the service connection claim. See Maxson v. Gober, 230 F.3d 1330 (Fed. Cir. 2000).
+
+The Veteran was provided a VA examination in January 2020. The VA examiner provided a diagnosis of degenerative arthritis and disc disease of the cervical spine. The examiner opined that the Veteran's current cervical spine disability was less likely than not incurred in, or related to, active service. The examiner recounted the Veteran's relevant medical history and acknowledged that he was treated for cervical strain following a motor vehicle accident (MVA) during service in 1994. However, the examiner noted that x-rays following the accident were normal regarding the cervical spine. The examiner stated that the Veteran's current neck pain is due to his degenerative arthritis and disc disease of the cervical spine and is not due to cervical strain, the disability he had during active service. The examiner further stated that strains of the cervical spine do not cause, result in, or hasten the development of arthritis or disc disease of the spine. The examiner acknowledged the Veteran's lay reports of a continuity of symptoms since service but noted that available records do not show any complaints of, or treatment for, neck symptoms. The examiner stated that the Veteran's post service occupational history included work as a police officer and railroad engineer, professions that require both demanding physical labor and regular medical examinations but noted that the Veteran has not identified nor submitted any such reports. The examiner further noted that more recent private treatment records, from 2011 through 2015, do not include any complaints of neck symptoms.
+
+The Veteran submitted a September 2024 statement from a private physician. The physician stated that they treat the Veteran for his lumbar back pain. The private physician noted that the Veteran also suffers from cervical neck pain and radiculopathy. The physician stated that this neck pain is associated with the Veteran's military service. For rationale, the physician stated that they "feel that his service required an increased physicality that often times can trigger cervical pain and pathology." See September 2024 correspondence.
+
+The Board finds that the September 2024 private medical opinion is of no probative value. General plausibility does not meet the standard of proof required for service connection and such an opinion is too speculative to be considered probative. The U.S. Court of Appeals for Veterans Claims has held that medical opinions, which are speculative, general or inconclusive in nature, cannot support a claim. See Polovick v. Shinseki, 23 Vet. App. 48, 54 (2009) (holding doctor's statement that veteran's brain tumor "may well be" connected to Agent Orange exposure was speculative); Bloom v. West, 12 Vet. App. 185, 187 (1999) (noting that the use of the term "could," without other rationale or supporting data, is speculative); Goss v. Brown, 9 Vet. App. 109, 114 (1996) (noting that the use of the phrase "could not rule out" was too speculative to establish medical nexus); Tirpak v. Derwinski, 2 Vet. App. 609, 611 (1992) (holding that medical opinions are speculative and of little or no probative value when a physician makes equivocal findings such as "the veteran's death may or may not have been averted"). Here, the private physician uses vague and speculative language such as "feel" and "often times can." Moreover, the opinion's supporting rationale is too general as it only comments on the symptom of neck pain and does not address how the Veteran's current cervical spine pathology or diagnosis developed from the mentioned "increased physicality." Nor does the opinion address or discuss any of the negative evidence of record, such as the post-MVA diagnostic imaging showing no evidence of abnormal cervical spine pathology.
+
+Conversely, the Board finds that the January 2020 VA medical opinion is adequate and highly probative because the examiner thoroughly reviewed the claims file and discussed the relevant evidence, considered the contentions of the Veteran, and provided a thorough supporting rationale for the conclusions reached. Barr v. Nicholson, 21?Vet. App.?303 (2007); Stefl v. Nicholson, 21?Vet. App.?120 (2007); Nieves-Rodriguez v. Peake, 22?Vet. App.?295 (2008). 
+
+The Veteran has asserted that he has had neck pain since the in-service MVA. See generally August 2024 Hearing Transcript. However, the competent medical evidence of record does not indicate post-service complaints or treatment for a neck disability until 2016 at the earliest. VA and private treatment records prior to 2016 indicate that on all other occasions, the Veteran either did not report, or denied any neck pain and his neck was consistently found to have full range of motion. See, e.g. private treatment records dated in November 2012, April 2013, January 2014, and April 2015. Significantly, an August 1994 service treatment note reveals that the Veteran affirmatively stated that his neck pain had resolved approximately two months following the in-service MVA, and this is inconsistent with his testimony asserting neck pain since the MVA.
+
+Accordingly, given the inconsistencies between the Veteran's statements and the findings in the STRs and post-service treatment records, the Board places greater weight on the specific, reasoned opinion of the VA examiner than the Veteran's more general lay assertions. Moreover, even assuming, arguendo, that the Veteran has had continuity of pain since service, these lay statements of pain are outweighed by the medical examiner's opinion because the Veteran, as a lay person, is not competent to know that the cause of his neck pain during service is the same cause of his neck pain now, particularly where, as here, degenerative disc disease of the cervical spine was not shown during service or to a compensable degree within the first post-service year. The question of an actual association between his current neck disability, diagnosed many years after his separation from service, and his neck pain during service is a medical question too complex for a lay person to competently address. See 38 C.F.R. § 3.159(a); see Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007). The Veteran has not demonstrated expertise in this area.
+
+For the foregoing reasons and based on the evidence of record, both medical and lay, the Board finds there is not an approximate balance of evidence favoring the claim for service connection. The Board has considered the benefit-of-the-doubt doctrine; however, the evidence weighs persuasively against the claim in this case. As there is not an approximate balance of the evidence for the claim, the doctrine is not applicable, and the claim must be denied. 38 U.S.C. § 5107 (b); 38 C.F.R. § 4.3.
+
+ 
+
+ 
+
+Paulette Vance Burton
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M, Victor
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

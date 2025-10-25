@@ -1,0 +1,69 @@
+Citation Nr: A25033028
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 210329-149211
+DATE: April 9, 2025
+
+ORDER
+
+Service connection for a heart disorder is denied.
+
+Service connection for diabetes mellitus type 2 (diabetes) is denied.
+
+Service connection for pancreatic cancer is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran was not exposed to herbicides or contaminated water at Camp Lejeune during service.  
+
+2. The heart disease, diabetes, and pancreatic cancer were not incurred until years after service and are not etiologically related to service.  
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for a heart disorder have not been met.  38 U.S.C. §§ 1110, 1112; 38 C.F.R. §§ 3.303, 3.307, 3.309.
+
+2. The criteria for service connection for diabetes have not been met.  38 U.S.C. §§ 1110, 1112; 38 C.F.R. §§ 3.303, 3.307, 3.309.
+
+3. The criteria for service connection for pancreatic cancer have not been met.  38 U.S.C. §§ 1110, 1112; 38 C.F.R. §§ 3.303, 3.307, 3.309.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service from January 1973 to December 1975.  
+
+In a March 2021 rating decision, the agency of original jurisdiction (AOJ) denied the claims for service connection.  In the March 2021 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Hearing docket.  A Board hearing was held in December 2024.  The Board may only consider the evidence of record at the time of the March 2021 AOJ decision on appeal, as well as any evidence submitted by the Veteran or representative at the hearing or within 90 days following the hearing.  38 C.F.R. § 20.302(a).  If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the Board hearing, or (2) more than 90 days following the hearing, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.302(a), 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in-service.  38 C.F.R. § 3.303(d).
+
+Certain chronic diseases may be presumed to have been incurred in service if they manifest to a compensable degree within one year of separation from service; however, if the evidence of the record is insufficient to establish a disease was chronic in service, and/or manifested within the specified time period, then there must be a continuity of disease symptoms shown after discharge in order to warrant service connection.  38 C.F.R. § 3.303(b).  Diabetes, cardiovascular-renal disease, and malignant tumors are considered to be chronic diseases under 38 C.F.R. § 3.309(a).
+
+Service connection for certain disabilities, to include diabetes and ischemic heart disease, may be presumed for those exposed to particular herbicide agents.  Veterans exposed to Agent Orange or other listed herbicide agents are presumed service-connected for certain conditions, even if there is no record of such disease during service.  38 U.S.C. § 1116; 38 C.F.R. §§ 3.307(a)(6), 3.309(e).
+
+Persons residing or working at the U.S. Marine Corps Base Camp Lejeune between August 1953 and December 1987 were potentially exposed to drinking water contaminated with volatile organic compounds (VOCs).  Service connection for certain disabilities may be presumed for those who served at Camp Lejeune for no less than 30 days during this period.  Diabetes, pancreatic cancer, and heart disease are not presumed conditions.  See 38 C.F.R. § 3.309(f).
+
+The Veteran contends that his diabetes, heart disease, and pancreatic cancer are related to of in-service exposure to contaminated water at Camp Lejeune.  He has reported that he received infantry training at Camp Lejeune.  Service personnel records document that the Veteran received infantry training at Camp Pendleton; there is no documentation of a tour of duty or other service at Camp Lejeune.  Although the Veteran is competent to report his location during service, the Board finds the current history of training at Camp Lejeune during service is not credible and thus not probative because it is contradicted by the service personnel records, which document that the reported training was at a different site.  The Board finds the personnel records, which were created contemporaneous with service, are more probative.  Thus, the Board finds service connection is not available on the basis of exposure to contaminated water at Camp Lejeune.  
+
+The Veteran has alternately contended that the conditions are related to in-service herbicide exposure.  He has reported that he was stationed at a base where Agent Orange was stored.  He has also reported exposure while stationed at Camp Hansen in Okinawa or Subic Bay in the Republic of the Philippines.  VA recognizes herbicide exposure due to herbicide use, testing, or storing as having occurred during certain times and places.  Okinawa and Subic Bay are not areas for which herbicide exposure is presumed.  Exposure to the herbicide agent may still be shown, even if not presumed.  See Combee v. Brown, 34 F.3d 1039 (Fed. Cir. 1994).  However, the record is absent any probative evidence of the presence of herbicide at either location.  A layperson's assertions indicating exposure to gases or chemicals during service are not considered to be sufficient evidence alone to establish actual exposure.  See Bardwell v. Shinseki, 24 Vet. App. 36 (2010).  Although the Veteran has reported that he was stationed at a base where Agent Orange was stored, he has not reported personal exposure to Agent Orange (such as seeing herbicide barrels) and has not provided the basis for the contention that Agent Orange was stored at one of his duty stations.  The record is absent other corroborative evidence of herbicide use at any of the Veteran's duty locations.  Thus, the Board finds he was not exposed to an herbicide agent during service.  
+
+Service connection may still be warranted on a direct basis.  After review of the evidence, the Board finds service connection is not warranted for a heart disorder, diabetes, or pancreatic cancer.  Medical records do not report diagnosis of any of the conditions during or within a year of discharge from service, and the Veteran has not reported the existence of symptoms attributed to any claimed disorder during and/or since service.  The Veteran has not reported any toxic exposure risk activity other than the claimed exposures to herbicides and at Camp Lejeune, and the record is absent medical findings linking the diabetes, heart disorder, or pancreatic cancer to service.  Notably, there is no regulation presuming service connection for diabetes, heart disorder, or pancreatic cancer other than those discussed above and found not applicable. 
+
+The Board acknowledges that the record only includes the Veteran's entrance examination.  The record indicates that the Veteran's complete medical and personnel records were requested and "all available" records were associated with the record in November 2017.  The Veteran was informed that only the December 1972 entrance examination record was available in the March 2021 rating decision.  The Veteran has not reported in-service treatment which could suggest a need to make additional requests for records, such as inpatient records, and there is no probative evidence that the November 2017 request was inadequate.  Thus, the Board finds VA satisfied its duty regarding service records.  
+
+The Board further acknowledges that a VA examination was not conducted for these claims.  The Board finds the low standards necessitating an examination have not been met, however.  McLendon v. Nicholson, 20 Vet. App. 79 (2006).  Notably, the record is absent a history of in-service symptoms or an indication that the diabetes, pancreatic cancer, or heart disease may be associated with service.  The Board reiterates that the most probative evidence does not support a finding of Agent Orange exposure or service at Camp Lejeune, that the record includes no competent evidence suggesting that diabetes, pancreatic cancer, or heart disease could be otherwise related to service, and that the Veteran has not reported symptoms during and since service.  The Veteran does not otherwise possess the training or credentials needed to provide a competent medical nexus opinion. Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).  Consequently, a VA examination and opinions were not warranted, and the claims are denied.
+
+ 
+
+ 
+
+A.	C. MACKENZIE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Snyder, N.
+
+The Board's decision in this case is binding only with respect to the instant matter decided.  This decision is not precedential and does not establish VA policies or interpretations of general applicability.  38 C.F.R. § 20.1303.

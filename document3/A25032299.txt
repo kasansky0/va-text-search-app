@@ -1,0 +1,85 @@
+Citation Nr: A25032299
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240826-468230
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to an initial rating in excess of 30 percent for chronic pelvic pain syndrome, status-post pelvic inflammatory disease with history of salpingitis is denied.
+
+REMANDED
+
+Entitlement to special monthly compensation (SMC) based on loss of use of a creative organ is remanded.
+
+FINDING OF FACT
+
+The Veteran's chronic pelvic pain syndrome is assigned the maximum rating available.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial rating in excess of 30 percent for chronic pelvic pain syndrome, status-post pelvic inflammatory disease with history of salpingitis have not been met. 38 U.S.C. § 1155;38 C.F.R. § 4.116, Diagnostic Code 7614.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 1989 to November 1989. 
+
+In July 2024, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of entitlement to an initial rating in excess of 30 percent for chronic pelvic pain most recently addressed in a September 2022 rating decision.  In August 2024, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision.  Therefore, the Board may only consider the evidence of record at the time of the decision on appeal.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the August 2024 agency of original jurisdiction (AOJ) supplemental claim decision on appeal.  38 C.F.R. § 20.301.  If evidence was submitted after the AOJ issued the supplemental claim decision on appeal, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the issue of SMC under 38 U.S.C. § 1114(k), any evidence the Board could not consider will be considered by the AOJ in the adjudication of that issue.  38 C.F.R. § 3.103(c)(2)(ii).
+
+Preliminary Matters
+
+At the outset, it appears the issue the Veteran, through her representative, is seeking to appeal is not actually the assigned 30 percent rating, but instead, her total compensation amount and/or effective date for the grant of service connection. 
+
+Under 30 U.S.C. § 1155, VA provides ratings ranging from 0 to 100 percent based upon the average impairments of earning capacity resulting from such injuries in civil occupations.  The payment amounts are set forth in 38 U.S.C. § 1114 with cost-of-living adjustments.  For the entire period on appeal, the Veteran has been in receipt of a 100 percent rating. 
+
+As noted in the September 2022 letter, the Veteran was granted a separate 30 percent rating for chronic pelvic pain syndrome, but the combined compensation percentage continues unchanged at 100 percent.  See 38 C.F.R. § 4.25. 
+
+As the Veteran is in receipt of a 100 percent total disability rating, no higher percentage or compensation amount is possible unless the Veteran's disabilities qualify for Special Monthly Compensation (SMC) under 38 U.S.C. § 1114 (k)-(t). As discussed further below, the Board finds the issue of entitlement to SMC under 38 U.S.C. § 1114 (k) to have been raised by the record. 
+
+Of note, the August 2024 rating decision on appeal continued the 30 percent rating for the chronic pelvic pain syndrome.  There were no effective dates assigned in this rating decision.  To the extent that the Veteran is requesting an earlier effective date for the grant of service connection for chronic pelvic pain syndrome and/or mental health disability, as requested in the August 2024 VA Form 10182, there is no legal basis to do so.  Additionally, to the extent that the Veteran has taken issue with rating decisions prior to the August 2024 rating decision on appeal, such claims represent a freestanding claim for earlier effective date, which is not permitted.  See Rudd v. Nicholson, 20 Vet. App. 296 (2006).
+
+1. Entitlement to an initial rating in excess of 30 percent for chronic pelvic pain syndrome, status-post pelvic inflammatory disease with history of salpingitis
+
+As discussed above, the Veteran's primary contention is that she is owed retroactive payments based on the grant of a 30 percent rating for chronic pelvic pain syndrome, status-post pelvic inflammatory disease with history of salpingitis (CPPS). 
+
+The Veteran's disability is rated under Diagnostic Code 7614.  DC 7614 is rated using the General Rating Formula for Disease, Injury, or Adhesions of Female Reproductive Organs.  Under Diagnostic Code 7614 a noncompensable rating is warranted for symptoms that do not require continuous treatment; a 10 percent rating is warranted for symptoms that require continuous treatment; and a maximum 30 percent rating is warranted for symptoms that are not controlled by continuous treatment.  38 C.F.R. § 4.116, DC 7614.
+
+A September 2020 VA examination indicated that the Veteran had symptoms that are not controlled by continuous treatment. 
+
+The 30 percent rating currently assigned is the maximum rating available, and the Veteran has not alleged the existence of any symptoms not contemplated by the current rating.  The record does not suggest the application of any alternate diagnostic codes under which the Veteran's CPPS could be rated.  Additionally, the record indicates that service connection is already in effect for a psychiatric disability rated at 100 percent.  Thus, the claim for an initial rating in excess of 30 percent is denied.
+
+REMAND
+
+2. Entitlement to SMC based on loss of use under 38 U.S.C. § 1114 (k)
+
+The evidence of record has raised the issue of entitlement to SMC for loss of use of a creative organ under 38 U.S.C. § 1114 (k). 
+
+VA provides SMC if a veteran, as a result of service-connected disability, has suffered the anatomical loss or loss of use of one or more creative organs. 38 U.S.C. § 1114(k).  The regulations explicitly provide that loss of use of a creative organ will be shown by acquired absence of ovaries or another creative organ.  38 C.F.R. § 3.350 (a)(1)(i).
+
+The September 2020 VA examination indicated the Veteran had undergone an oophorectomy due to ovarian cysts, but it is unclear from the record whether this was related to her service-connected disabilities and whether this resulted in the loss of use of a creative organ.  This issue is remanded to cure a pre-decisional duty to assist error-namely, failure to address/develop a possible manifestation of the service-connected disability on appeal. 
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion, with new examination if deemed necessary, from an appropriate clinician regarding whether the Veteran's oophorectomy was at least as likely as not due to or related to a service-connected disability, and, if so, if it resulted in or approximated the loss of use of a creative organ. 
+
+ 
+
+ 
+
+H.M. WALKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M.D. Taylor, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

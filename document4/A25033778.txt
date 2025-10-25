@@ -1,0 +1,63 @@
+Citation Nr: A25033778
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240923-476867
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is granted.
+
+FINDING OF FACT
+
+Resolving reasonable doubt in the Veteran's favor, the evidence is at least in approximate balance as to whether his OSA was caused by his service-connected acquired psychiatric disorder, with obesity as an intermediate step.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for OSA have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 1986 to September 1990.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2023 rating decision by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement (NOD)), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the October 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+The Board acknowledges that private and VA examiners submitted materials that contained hyperlinks to content that is not otherwise part of the record on appeal.  While the Board could review evidence submitted via hyperlink, because hyperlinked information may not be static, the Board would be unable to determine whether what the Board saw when it accessed the hyperlinked information was what the clinicians intended to rely on.  As the Board cannot create evidence, what was found at the hyperlinked address would not be part of the record.  In turn, the United States Court of Appeals for Veterans Claims (Court) would be unable to perform meaningful appellate review of evidence that is not in the record.  Given the foregoing, the Board advises that hyperlinked references were not reviewed.
+
+Entitlement to service connection for OSA.
+
+The Veteran asserts that his diagnosed OSA was caused by his service-connected acquired psychiatric disorder with obesity as an intermediate step.
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for direct service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+Service connection shall be granted on a secondary basis under the provisions of 38 C.F.R. § 3.310 where it is demonstrated that a service-connected disorder has caused or aggravated a nonservice connected disability.  See Allen v. Brown, 7 Vet. App. 439 (1995).
+
+The Board notes that although obesity is not a condition for which service connection may be granted, obesity may qualify as an "intermediate step" between a service-connected disability and another current disability.  See VAOPGCPREC 1-2017; see also Garner v. Tran, 33 Vet. App. 241 (2021); Walsh v. Wilkie, 32 Vet. App. 300 (2020).  In a secondary service connection claim, a theory of obesity as an intermediate step is raised when there is some evidence in the record which draws an association or suggests a relationship between the veteran's obesity, or weight gain resulting in obesity, and a service-connected condition.  Garner, supra.
+
+The record in this case clearly establishes the Veteran has OSA (see September 2023 VA examination report).  While the Veteran was not seen in service for sleep disorders or symptoms, the Veteran is service connected for an acquired psychiatric disorder, which he asserts caused his OSA.  The Board therefore finds that the first and second elements of the service connection analysis are satisfied.  Thus, the remaining question is whether there is a nexus.  On this question there are opinions in favor of and against the claim. 
+
+The evidence against the claim includes a September 2023 VA examiner's opinion that the Veteran's OSA was not caused by his acquired psychiatric disorder.  In support thereof, the examiner explained that OSA is primarily caused by weight gain or obesity and that acquired psychiatric disorders do not cause OSA.  The opinion went on to conclude that the body of current medical knowledge and evidence did not support a finding that OSA was caused by the Veteran's acquired psychiatric disorder.  Notably, the opinion was conclusory in nature, failed to discuss obesity as an intermediate step, and failed to provide any opinion as to whether the Veteran's OSA was aggravated by his psychiatric disorder.  Further, the examiner failed to discuss a positive private opinion of record, which is discussed below. 
+
+Turning to the favorable evidence, the record contains a July 2023 opinion from advanced practice registered nurse (APRN) K.M. that it is as likely as not that the Veteran's acquired psychiatric disorder caused his OSA.  In support, the clinician initially noted that the Veteran's weight increased after the development of his acquired psychiatric disorder.  Additionally, she acknowledged the Veteran's lay reports that his acquired psychiatric disorder caused a lack of motivation to exercise and led him to make poor food.  Next, K.M. turned to treatise evidence findings that depression induced weight gain and obesity can be due to the dopamine received by people when indulging in certain foods.  It was explained that indulging in food releases dopamine in the brain that provides a pleasurable effect, leading to greater intake of the food to re-experience the pleasurable feeling; it was intimated that this cycle is especially prevalent in people with depression.  Next, like the VA examiner, the nurse explained that obesity is the leading risk factor for developing OSA and that even a small escalation in body mass index can lead to the development of OSA.  Tying the literature and facts together, K.M. opined that it was at least as likely as not that the Veteran gained weight due to his acquired psychiatric disorder and that this excess weight led to his development of OSA.
+
+The Board affords the September 2023 VA opinion that the Veteran's OSA was not caused by his service-connected acquired psychiatric disorder limited probative weight as the examiner provided a conclusory rationale, failed to consider obesity as an intermediate step, did not discuss the positive opinion of record, and failed to provide an opinion as to aggravation.  Further, the Board affords such opinion less probative weight as it was obtained in error.  In this regard, as a matter of course, VA should not develop for negative evidence solely to deny a claim as the RO seems to have done here.  38C.F.R. § 3.304 (c) ("The development of evidence in connection with claims for service connection will be accomplished when deemed necessary but it should not be undertaken when evidence present is sufficient for this determination").
+
+Turning to the positive opinion from APRN K.M., the Board affords the opinion probative weight as it was supported by a rationale specific to the Veteran's health history with interwoven citations and analysis based on treatise evidence.  Further, the opinion is supported by the September 2023 VA examination report documenting that obesity is the leading risk factor in developing OSA.
+
+Given the foregoing, the Board will resolve reasonable doubt in the Veteran's favor and finds that all elements of service connection have been met.  Therefore, service connection for OSA is granted.  See 38 U.S.C. § 5107 (b).
+
+ 
+
+ 
+
+Nathaniel Doan
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Sosna, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

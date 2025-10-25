@@ -1,0 +1,83 @@
+Citation Nr: A25033513
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 241228-496123
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to service connection for residuals of bilateral lung transplant, claimed as a result of asbestosis, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active service from May 1952 to April 1956.  The Appellant is the Veteran's surviving spouse.
+
+This matter comes before the Board of Veterans' Appeals (Board) from a December 2024 Supplemental Statement of the Case (SSOC) by a U.S. Department of Veterans Affairs (VA) Regional Office.  The Appellant validly opted in to the appeals modernization act (AMA) in a December 2024 Decision Review Request: Board Appeal, VA Form 10182.  The Appellant elected the Hearing docket.  A hearing with a Veterans Law Judge was held in April 2025; a transcript of the hearing is of record.
+
+Because the Veteran elected the Hearing docket, the Board may only consider the evidence of record at the time of the Agency of Original Jurisdiction (AOJ) decision on appeal (December 9, 2024), as well as any evidence submitted by the Veteran at the hearing or within 90 days of the hearing (April 8, 2025, through July 7, 2025).  38 C.F.R. § 20.302.  The Board cannot consider (1) evidence submitted during the period after the AOJ issued the decision on appeal and before the hearing was held (December 10, 2024, through April 7, 2025), or (2) evidence submitted more than 90 days after the hearing was held (on or after July 8, 2025).  38 C.F.R. § 20.302.  
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision.  38 C.F.R. § 20.300.  With regard to the post-hearing evidence submission window, the Appellant waived the remainder of this period on the record at the Board hearing; thus, the Board has only considered evidence, including lay testimony at the hearing, submitted on April 8, 2025.  However, because this case is being remanded, any evidence that is not considered by the Board at this time will be considered by the AOJ upon readjudication of this claim.
+
+As a final initial matter, the Board observes the Appellant's VA Form 10182 purports to appeal a determination regarding entitlement to Dependency and Indemnity Compensation (DIC).  This issue was not included in the December 2024 SSOC identified by the Appellant on the VA Form 10182, and there does not appear to be an AOJ decision regarding entitlement to DIC in the twelve months preceding the submission of the VA Form 10182.  The Board will therefore not address entitlement to DIC in this decision.  If the Appellant wishes to pursue this claim, she may file an appropriate claim or review option.
+
+By way of additional procedural history, this matter was previously remanded for additional development in May 2023 and June 2024 Board decisions.  For the reasons that follow, the Board finds there has not been substantial compliance with those remand directives, so a further remand is required in order to correct that pre-decisional error in this case.  See 38 C.F.R. § 20.802; cf. Stegall v. West, 11 Vet. App. 268 (1998) (a remand by the Board confers upon the claimant, as a matter of law, the right to compliance with the remand order).
+
+Those remands directed the AOJ to provide the Appellant with an opportunity to provide a VA Form 21-4142 for outstanding medical records from private providers.  The Appellant provided a signed form in June 2023 identifying four providers, though two are associated with the University of Pittsburg Medical Center (UPMC).  The Appellant has since indicated that all records from one of those facilities has been associated with the file, but records from the remaining three facilities have not been obtained.  Two of the remaining three facilities-West Virginia University Medicine and UPMC Presbyterian Shadyside-rejected the records request because the release was not signed by the patient, stating that a death certificate alone was insufficient to release the records, which indicates the issue is the need for additional documentation showing the Appellant is duly authorized to release the records on the Veteran's behalf.  There is no indication in the record that the AOJ attempted to provide this additional level of documentation to the providers.  Additionally, there is no indication the AOJ made a second request to the third facility, UPMC, as required by 38 C.F.R. § 3.159(c)(1) and as directed by the June 2024 Board remand.
+
+Additionally, the Board reflects that it appears that Veteran and the Appellant have raised toxic exposure risk activities (TERAs) as a result of military service, to include but not limited to asbestos exposure.  In this regard, after review of the claims file, it does not appear that the AOJ completed all necessary development for such contentions under the PACT Act and 38 U.S.C. § 1168 prior to the decision on appeal.  In this regard, a pre-decisional error exists in this case that must be rectified by remand.  
+
+Finally, the Board decisions requested addendum opinions regarding the etiology of the Veteran's lung transplant and resulting residuals.  Neither opinion obtained in response to these remands is adequate.  In this regard, the Appellant strongly maintains the Veteran worked only as a pile driver, not a carpenter or a millwright, see April 2025 Hearing Transcript, p. 4, and that his work as a pile driver did not result in any asbestos exposure.  These statements during the hearing, however, appear to be at odds with the Veteran's own prior representations to his medical providers.  See, e.g., Private Treatment Record dated June 30, 2004 (indicating the Veteran was a disabled millwright); August 3, 2009 Letter of Dr. E.H. (indicating the Veteran had "significant occupational asbestos exposure").  
+
+In any regard, contrary to these assertions, the October 2024 opinion indicates the Veteran worked for 30 years as a carpenter, and the March 2024 opinion similarly indicates the Veteran worked predominantly as a millwright.  These opinions do not address the Appellant's contention that the Veteran worked only as a pile driver.  See Miller v. Wilkie, 32 Vet. App. 249 (2020) (stating a VA examiner must address the Veteran's lay statements to provide the Board with an adequate medical opinion).  Accordingly, a remand is necessary to obtain an adequate opinion.  See 38 C.F.R. § 20.802; Barr v. Nicholson, 21 Vet. App. 303 (2007) (holding that once VA has provided a VA examination or obtained a medical opinion, it is required to provide or obtain one that is adequate for the purpose sought).
+
+The matter is REMANDED for the following action:
+
+1. Use the Appellant's validly executed VA Form 21-4142, which is of record, to send at least two requests for the Veteran's records to University of Pittsburg Medical Center, UPMC Presbyterian Shadyside, and West Virginia University Medicine.  
+
+The AOJ should provide an explanation to these providers that the Appellant is the Veteran's surviving spouse and work with the providers and the Appellant to provide any additional documentation required by state or federal law to demonstrate the Appellant is a valid personal representative who can authorize disclosure of the Veteran's protected health information (PHI).  In this regard, merely sending two letters is not sufficient; the AOJ must attempt to provide the additional information required by the providers to prove the Appellant is authorized to release the Veteran's PHI.  
+
+Any negative response from any of the providers, however, must be communicated to the Appellant and representative so that they can attempt to obtain the records on their own.
+
+?
+
+2. Properly develop the claim for toxic risk exposure activities (TERAs) as required by 38 U.S.C. § 1168, and upload a TERA Memorandum to the file documenting any and all toxic exposures the Veteran had due to his service, including but not limited to asbestos exposure.
+
+3. After records development is completed to the extent possible, forward the claims file to a VA clinician to obtain an addendum opinion regarding the Appellant's claim for service connection for residuals of bilateral lung transplant.  
+
+After review of the claims file (and examination if deemed necessary), the examiner should opine whether the Veteran's lung disease began during service, or is otherwise the result of military service, to include service aboard the U.S.S. Boxer and exposure to asbestos thereon and service in Japan in a building containing pipes wrapped in asbestos.  
+
+In providing this opinion, the examiner is asked to consider total potential exposure through all applicable military deployments and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.
+
+In addition to the above, the examiner should more specifically address the following questions: 
+
+(1)	Whether the Veteran's asbestosis is the result of his claimed exposure to asbestos during his military service.  If the examiner determines that the Veteran's asbestosis is more likely related to his occupational history (specifically as a pile driver), the examiner should provide a thorough explanation for such opinion, including what probability a pile driver had regarding asbestos exposure during the Veteran's period of work history (in the 1950s through the 1980s).  
+
+To this end, the examiner is specifically directed to consider the whether the Veteran's employment as a pile driver (not a carpenter or millwright) resulted in exposure to asbestos that is the more likely cause of his asbestosis.  On these questions, the examiner should consider and weigh the medical and lay evidence of record, including but not limited to the following: (a) the nature of the Veteran's claimed exposures aboard the U.S.S. Boxer and while stationed in Japan; (b) Dr. E.H.'s statement that the Veteran's asbestos resulted from "significant occupational exposure" and whether such is consistent with the Veteran's claimed in-service exposures; (c) the Appellant's submission of a January 2007 document (dated long after the Veteran retired) that asbestos should not be used as hammer cushions; (d) the Veteran's lay statement indicating that his hammer was cushioned with wood material, not asbestos; and (e) the Veteran's claim for workers compensation based on occupational exposure to asbestos, which the Appellant claims was rejected based on the Veteran's lack of exposure to asbestos, though such records are no longer available.  
+
+If the examiner uses a source not associated with the claims file to determine the Veteran was exposed to asbestos as a pile driver prior to his retirement in 1985, the examiner should identify the source and either provide a copy of the source as an addendum or reproduce in the opinion the relevant portion of the source.
+
+Finally, the examiner should address whether the Veteran's smoking history would have cause any asbestos exposure and what if any effect on the development of his asbestosis his history of smoking would have caused.
+
+(2)	Whether the Veteran's asbestosis caused the Veteran's lung transplant-i.e., whether but for the Veteran's asbestosis, he would have required a lung transplant.  
+
+In this regard, the examiner is asked to explain medical records indicating that the Veteran's left lung was in worse condition than his right lung as well as radiology reports confirming the presence of asbestos only in his right lung (and not his left lung) and whether such is a sampling error/issue or a medically significant finding.  
+
+The examiner is also asked to address whether any of the Veteran's coexisting lung diseases, including emphysema, were the but-for cause of his lung transplant.  In this regard, the examiner is asked to consider records as early as 1995 indicating a lung transplant was appropriate based on asbestos, records from 2007-2009 indicating the Veteran had pulmonary end-stage emphysema, and the 2010 pathology report indicating the "background pattern of fibrosis is consistent with a usual interstitial pneumonia pattern of fibrosis.  Given the presence of focal asbestos bodies, the fibrosis may be, at least in part, due to asbestosis.  However, due to the presence of additional findings (emphysema and anthracosilicotic nodules), the possibility of other factors contributing to the fibrosis cannot be excluded."  
+
+If any such lung disease is the more likely cause of the Veteran's lung transplant, to the exclusion of asbestosis, the examiner should explain whether any such lung disease was related to the Veteran's military service, to include any toxic exposures therein; in addressing this, the examiner is again asked to consider total potential exposure through all applicable military deployments and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  If such lung disease has a nonservice-related cause, such as smoking, the examiner should provide an explanation for such conclusion.
+
+A complete rationale should be provided for all opinions and conclusions expressed.
+
+ 
+
+ 
+
+MARTIN B. PETERS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Kuhns
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

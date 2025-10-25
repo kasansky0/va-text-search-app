@@ -1,0 +1,45 @@
+Citation Nr: A25033746
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 230913-378950
+DATE: April 11, 2025
+
+REMANDED
+
+Challenges to the validity of the $10,218.18 amount of an overpayment debt are remanded.
+
+The claim for a waiver of the recoupment of the overpayment debt in the amount of $10,218.18 is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active duty from November 2001 to April 2002, from January 2004 to April 2005, from September 2007 to November 2008, from November 2011 to November 2012, from October 2021 to January 2022, and from February 2022 to August 2, 2023. These matters come before the Board of Veterans' Appeals (Board) on the Veteran's September 2023 filing of his VA Form 10182, Notice of Disagreement (NOD).
+
+The NOD challenged the July 2023 decision of the Department of Veterans Affairs (VA), Committee on Waivers and Compromises (COWC), that denied the Veteran's request for reconsideration of COWC's May 2023 decision. COWC's May 2023 decision, in turn, denied the Veteran's claim for a waiver of the recoupment of his combined overpayment debt in the amount of $10,218.18. According to COWC - which, in turn - relied on the VA agency of original jurisdiction (AOJ), the debt arose from the Veteran's receipt of military pay based on his execution of unit training assemblies (UTAs) during fiscal years (FYs) 2017 and 2018, since this pay was received by the Veteran concurrently with his VA compensation.
+
+The AOJ asserted - and the Veteran did not dispute - that, during FY 2017, while the Veteran had a combined rating of 60 percent, the Veteran executed and received military pay for 78 UTAs. Based on this duplicated pay, the AOJ charged him with an overpayment in the amount of $3,729.10, and the VA Debt Management Center (DMC) issued him its April 8, 2019, demand letter for $3,729.10. However, as to FY 2018 UTAs, the AOJ proposed to charge the Veteran with an overpayment based on 93 UTAs, but the Veteran disputed the amount of UTAs and pointed out that he executed only 42 UTAs during FY 2018. Although the record suggests that the AOJ acknowledged the Veteran's contention and accepted it for the purposes of its calculations, the debt increase letter issued by the DMC shows that the AOJ did not recalculate the amount of the Veteran's debt arising from the FY 2018 UTAs. Indeed, the DMC debt increase letter stated that the AOJ calculated the Veteran's FY 2018 UTAs-based debt as $6.489.08.
+
+Assuming, arguendo, that all FY 2018 UTAs were executed by the veteran between July 1, 2018, and September 30, 2018, his monthly compensation (based on the increase of his combined rating to 80 percent effective July 1, 2018) had to be calculated based on $2,093.25 monthly rate. This rate yields a per diem rate of  $68.82 ($2,093.25 x 12 / 365). Therefore, based on 42 UTAs, it should have been $2,890.44 ($68.82 x 42). And, since the DMC stated that this overpayment was $6.489.08, it is self-evident that the AOJ factored more UTAs into its FY 2018 calculation. Simply put, while the AOJ's statements suggested that the AOJ might have accepted the 42 FY 2018 UTAs assertion made by the Veteran, the record shows that, for all financial purposes, the AOJ denied the Veteran's contention.
+
+Regretfully, the record does not contain the Veteran's UH022-2405 History Report for calendar years 2017 and 2018, thus preventing the Board from verifying the amount of the Veteran's FY 2018 UTAs on the Board's own. However, the fact that the COWC's May 2023 decision asserted that the Veteran continued executing his FY 2018 UTAs until October 3, 2018, provides the Board with proof that the UTAs factored into the AOJ's calculations were inaccurate because, effective October 1, 2018, FY 2019 started to run, meaning that the Veteran could not have possibly executed FY 2018 UTAs during October 1 to October 3, 2018. Thus, while the Board cannot recalculate the amount of the Veteran's debt on its own, a remand for further development by the AOJ is required. 
+
+And, mindful of the guidance provided in Schaper v. Derwinski, 1 Vet. App. 430, 437 (1991), that it is an abuse of the Board's discretion to adjudicate a waiver claim where the litigant asserts or the record suggests that the debt was created in error or calculated in error, the Board finds that the Veteran's waiver claim cannot be reached until the amount of his combined debt based on his FY 2017 and FY 2018 UTAs is recalculated. In conjunction with so finding, the Board notes that the Veteran filed his updated VA Form 21-5655, Financial Status Report (FSR) jointly with his VA Form 10182, clearly intending to offer the FSR as evidence for the Board's review, but - unfortunately - the Veteran selected the direct review appeal, thus barring the Board from considering any evidence that had been associated with the Veteran's claims file after the May 2023 COWC decision. Accordingly, the Board would afford the Veteran an opportunity to submit his updated FSR.
+
+The matters are REMANDED for the following action:
+
+1. Contact the Defense Finance Accounting Service and request the Veteran's UH022-2405 History Report for calendar years 2017 and 2018 to determine the exact dates and number of UTAs that he executed during FY 2018. 
+
+2. Upon completion of the foregoing, recalculate the Veteran's overpayment during FY 2018 being mindful that his combined rating increased to 80 percent in June 2018, with the increase becoming payable only July 1, 2018, i.e., all UTAs that the Veteran executed before July 1, 2018, should be calculated at a 60 percent rate, and all UTAs that he executed between July 1 and September 30, 2018, should be calculated at an 80 percent rate. Upon completion of the recalculation, issue the Veteran an Appeal Notification Letter detailing the calculations and accompany the Appeal Notification Letter with copies of the Veteran's UH022-2405 History Report for calendar years 2017 and 2018.
+
+3. Simultaneously with the foregoing, afford the Veteran a period of not shorter than 60 days to file his updated FSR. Upon receipt of the Veteran's updated FSR or the expiration of the allotted period, forward the Veteran's claims file to COWC for a readjudication of the Veteran's waiver claim and notify the Veteran of the outcome, upon clarifying that his waiver claim would not be automatically returned to the Board, and the Veteran's timely and proper actions would be required in the event he desires further review by the Board. 
+
+ 
+
+Cynthia M. Bruce
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Anna Kapellan, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

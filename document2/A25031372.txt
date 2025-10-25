@@ -1,0 +1,129 @@
+Citation Nr: A25031372
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240328-427962
+DATE: April 4, 2025
+
+ORDER
+
+Entitlement to an increased rating greater than 20 percent for bilateral hearing loss is denied.
+
+Entitlement to service connection for benign prostatic hyperplasia (BPH) with urinary retention and erectile dysfunction is granted.
+
+REMAND
+
+Entitlement to service connection for ESBL-positive E. coli complicated urosepsis with bacteremia (blood disorder due to E. Coli.) is remanded.
+
+FINDINGD OF FACT
+
+1. The Veteran demonstrated, at worst, level I hearing acuity in the right ear and level I hearing in the left ear throughout the appeal period.
+
+2. The evidence is at least evenly balanced as to whether the Veteran's BPH with urinary retention and erectile dysfunction is related to his military service.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for an increased rating greater than 20 percent for bilateral hearing loss have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.321, 4.3, 4.7, 4.85, Diagnostic Code (DC) 6100.
+
+2. With reasonable doubt resolved in the Veteran's favor, the criteria for entitlement to service connection for BPH with urinary retention and erectile dysfunction are met.  38 U.S.C. §§ 1131, 5107(b); 38 C.F.R. §§ 3.102, 3.303.  
+
+REASONS AND BASES FOR FINDINGD AND CONCLUSIONS
+
+The Veteran served on active duty from September 1970 to June 1973.  
+
+This case comes to the Board of Veterans' Appeals (Board) on appeal from a November 2023 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO), which denied entitlement to service connection for blood disorder due to E. Coli.  This case also comes before the Board from a December 2023 rating decision which denied an increased rating greater than 20 percent for bilateral hearing loss.  This case also comes before the Board from a January 2024 rating decision which denied entitlement to service connection for prostate gland (injuries, infections, hypertrophy).  
+
+In a March 2024 Decision Review Request: Board Appeal (Notice of Disagreement) (VA Form 10182), the Veteran timely appealed the rating decisions to the Board and requested direct review of the evidence considered by the RO.  38 C.F.R. § 20.202.  As the Veteran has selected the Direct Review docket, the Board may consider only the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on the issue or issues on appeal.  38 U.S.C. § 7113(a); 38 C.F.R. § 20.301.  The Board will not consider evidence added to the record after the date of the rating decisions on appeal.  If evidence was added during this ineligible period, the Board did not consider it.  If the Veteran wishes to have VA consider any evidence that was not considered, he may at any time file a supplemental claim with the AOJ after receiving this decision and the additional evidence will be considered in connection with the supplemental claim.  38 U.S.C. §§ 5104C(a)(1)(B), (b); 5108; 38 C.F.R. §§ 3.2501, 20.1105(a).  If filed within one year, this supplemental claim will preserve the date of the claim denied herein as the effective date of the grant of the benefit or benefits sought.  38 U.S.C. § 5110(2)(B); 38 C.F.R. § 3.2500(h).
+
+Although the Veteran listed an unspecified left testicular condition on the March 2024 VA Form 10182, this issue was not adjudicated in the November 2023, December 2023 and January 2024 rating decisions or any other rating decision within a year prior to the March 2024 VA Form 10182.  Therefore, to the extent that the Board has jurisdiction to review these matters based on their inclusion in the NOD, it will not waive the one-year deadline in 38 U.S.C. § 7105(b) to file an NOD, which is "an important and mandatory claim-processing rule" and dismissal of the claims is therefore warranted.  Ferko v. McDonough, 37 Vet. App. 262, 265 (2024).  The Veteran has not contended and the record does not otherwise indicate that there is any basis to waive this important and mandatory claims processing rule.  Hall v. McDonough, 34 Vet. App. 329, 333-34 (2021) (when invoking a claims processing rule to dismiss an appeal, "the Board should identify the governing law, any formal defects in the appeal, whether waiver or forfeiture is a relevant consideration, and any other relevant factors").
+
+1. Bilateral hearing loss 
+
+Disability evaluations are determined by the application of VA's Schedule for Rating Disabilities, which is based on average impairment of earning capacity. 38 U.S.C. § 1155; 38 C.F.R. Part 4.  The basis of disability evaluations is the ability of the body as a whole, or of the psyche, or of a system or organ of the body, to function under the ordinary conditions of daily life including employment.  38 C.F.R. § 4.10.  Where there is a question as to which of two evaluations shall be applied, the higher rating will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.
+
+The Veteran's entire history is reviewed when making disability evaluations. 38 C.F.R. § 4.1.  Where an award of service connection for a disability has been granted and the assignment of an initial evaluation for that disability is disputed, separate evaluations may be assigned for separate periods of time based on the facts found.  In other words, the evaluations may be staged.  Fenderson v. West, 12 Vet. App. 119 (1999).  Where entitlement to compensation has already been established and an increase in the disability rating is at issue, the present level of disability is of primary concern.  Francisco v. Brown, 7 Vet. App. 55 (1994).
+
+Hearing loss is evaluated under 38 C.F.R. §§ 4.85, 4.86, DC 6100, Tables VI, VIA, and VII of VA's rating schedule.  The Rating Schedule provides a table for rating purposes (Table VI) to determine a Roman numeral designation (I through XI) for hearing impairment, established by a state-licensed audiologist, including a controlled speech discrimination test (Maryland CNC), and based upon a combination of the percent of speech discrimination and the puretone threshold average, which is the sum of the puretone thresholds at 1000, 2000, 3000, and 4000 Hertz divided by four.  38 C.F.R. § 4.85.  Table VII is used to determine the percentage evaluation by combining the Roman numeral designations for hearing impairment of each ear.  The horizontal row represents the ear having the poorer hearing and the vertical column represents the ear having the better hearing.  If a veteran is in receipt of service connection for hearing loss disability in only one ear, the non-service-connected ear is assigned a Roman numeral designation of I.
+
+There is evidence of two audiometric examinations that occurred during the claim period in this case.  At the December 2023 VA audiological examination, pure tone thresholds, in decibels, were as follows:
+
+		HERTZ				
+
+	1000	2000	  3000		4000	Average
+
+RIGHT	15	60	  70		80	56.25
+
+LEFT	15	50	  70		75	52.50
+
+Maryland CNC speech recognition score was 94 in the right ear and 94 in the left ear.  With application of the December 2023 test results to 38 C.F.R. § 4.85, Table VI, the Veteran's right ear is assigned a numeric designation of I.  The left ear hearing loss is assigned a numeric designation of I.  With application of the December 2023 test results to Table VII, the Veteran's right ear hearing loss warrants a noncompensable rating.
+
+At the February 2024 VA audiological examination Maryland CNC speech recognition score was 94 in the right ear and 94 in the left ear.  Pure tone thresholds, in decibels, could not be tested.  The VA audiologist noted his audiometric testing were deemed invalid due to inter-test inconsistence.  The VA audiologist also noted the Veteran was re-instructed and re-tested, however, the results were unreliable to render a diagnostic or an opinion.  
+
+The Veteran contends that his current bilateral hearing loss presented a greater degree of impairment than currently assigned.  The Veteran is competent to report the symptoms of his hearing loss disability.  See Jandreau, 492 F.3d at 1377; Buchanan v. Nicholson, 451 F.3d 1331, 1337 (2006).  However, the assigned rating for hearing loss is determined by mechanically applying the rating criteria to certified test results.  See Lendenmann v. Principi, 3 Vet. App. 345, 349 (1992).  Therefore, given the mechanical nature of deriving schedular ratings for hearing loss, the Veteran is not entitled to an increased rating for bilateral hearing loss.
+
+In Martinak v. Nicholson, 21 Vet. App. 447 (2007) the Court of Veterans Appeals (Court) addressed a challenge to VA's audiological testing practices, specifically, whether VA's policy of conducting all audiometry testing of hearing-loss claimants in a sound-controlled room was valid.  The Court also addressed the requirements for an adequate VA audiological examination report.  The Court upheld VA's policy of conducting audiometry testing in a sound-controlled room.  The Court also held that, in addition to dictating objective test results, a VA audiologist must fully describe the functional effects caused by a hearing disability in his or her final report.  The VA audiologists noted that the Veteran's hearing loss impacts his ability to hear speech in conversation.  Therefore, the December 2023 and February 2024 VA examination reports complied with Martinak.
+
+Moreover, although the Veteran stated during the hearing that has difficulty hearing conversations, such difficulties are related to difficulty hearing or understanding speech, which is contemplated by the schedular rating criteria for hearing loss.   Doucette v. Shulkin, 28 Vet. App. 366, 371-72 (2017) (difficulty in distinguishing sounds in a crowded environment, locating the source of sounds, understanding conversational speech, hearing the television, and using the telephone are each a manifestation of difficulty hearing or understanding speech, which is contemplated by the schedular rating criteria for hearing loss). 
+
+For the above reasons, the evidence is neither evenly balanced nor approximately so with regard to whether an increased rating greater than 20 percent for bilateral hearing loss is warranted.  Rather, the evidence persuasively weighs against an increased rating for hearing loss.  The benefit of the doubt doctrine, see 38?U.S.C. §?5107(b), 38 C.F.R. § 4.3, is therefore not for application in this regard.  Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+2. BPH with urinary retention and erectile dysfunction
+
+The Veteran contends that he is entitled to service connection for BPH with urinary retention and erectile dysfunction which was caused by his exposure to contaminated water while he was stationed at Camp Lejeune. 
+
+Service connection may be granted on a presumptive basis for certain diseases associated with exposure to contaminants (defined as the volatile organic compounds (VOCs), trichloroethylene (TCE), perchloroethylene (PCE or PERC), benzene, and vinyl chloride) in the on-base water supply located at Camp Lejeune, even though there is no record of such disease during service, if they manifest to a compensable degree at any time after service at the United States Marine Corps Base Camp Lejeune and/or Marine Corps Air Station New River in North Carolina, during the period beginning on August 1, 1953, and ending on December 31, 1987.  38 C.F.R. § 3.307(a)(7). 
+
+The following diseases are deemed associated with exposure to contaminated water at Camp Lejeune: kidney cancer, liver cancer, Non-Hodgkin's lymphoma, adult leukemia, multiple myeloma, Parkinson's disease, aplastic anemia and other myelodysplastic syndromes, and bladder cancer.  38 C.F.R. § 3.309(f).  BPF is not among the diseases for which VA has specifically determined a presumption of service connection is warranted.  As a result, entitlement to service connection on a presumptive basis based on exposure to contaminated water at Camp Lejeune is not warranted. 
+
+Nevertheless, consideration of whether a grant of service connection on a direct basis is still necessary in this case.  See 38 U.S.C. § 1113(b); 38 C.F.R. § 3.303(d) (the availability of service connection on a presumptive basis does not preclude consideration of service connection on a direct basis).
+
+Service connection will be granted on a direct basis if the evidence demonstrates that current disability resulted from an injury or disease incurred in active military service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  Establishing service connection generally requires competent evidence of three things: (1) current disability; (2) in-service incurrence of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Saunders v. Wilkie, 886 F.3d 1356, 1361 (Fed. Cir. 2018).  Consistent with this framework, service connection is warranted for a disease first diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+A July 2023 VA examiner diagnosed the Veteran with BPH with urinary retention and erectile dysfunction.  Thus, a current disability has been demonstrated.
+
+As to the in-service injury or disease element, a veteran who had no less than 30 days (consecutive or nonconsecutive) of service at Camp Lejeune during the period beginning on August 1, 1953, and ending on December 31, 1987 shall be presumed to have been exposed during such service to water contaminated with volatile organic compounds (VOCs) during such service, unless there is affirmative evidence to establish that the individual was not exposed to contaminants in the water supply during that service.  38 C.F.R. § 3.307(a)(7).  A November 2023 VA Memorandum reflects that he was stationed at Camp Lejeune for at least 30 days during service.  Therefore, he is presumed to have been exposed to water contaminated with VOCs and has met the in-service disease or injury requirement.
+
+The remaining question is whether a nexus exists between the Veteran's current BPH with urinary retention and erectile dysfunction and an in-service injury or disease.  
+
+A July 2023 VA examiner opined that the Veteran's BPH with urinary retention and erectile dysfunction was at least as likely as not related to his exposure to contaminated water while in service.  In support of this opinion, she explained the progression of his symptoms in relation to his service dates.  Although the VA examiner's rationale was not extensive, reading the opinion as a whole and in the context of the evidence of record, it is entitled to some probative weight as she ultimately concluded that his disability is related to his service.  See Monzingo v. Shinseki, 26 Vet. App. 97, 106 (2012) (the fact that the rationale provided by an examiner "did not explicitly lay out the examiner's journey from the facts to a conclusion," did not render the examination inadequate); Acevedo v. Shinseki, 25 Vet. App. 286, 294 (2012) (medical reports must be read as a whole and in the context of the evidence of record). 
+
+A January 2024 VA examiner opined that the Veteran's BPH with urinary retention and erectile dysfunction was less likely than not caused by the indicated toxic exposure risk activity(ies), after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  The VA examiner explained the etiology of BPH is unknown and he was diagnosed with this disability years after separating from service.  Further, she explained that BPH is not a condition listed among the disabilities associated with Camp Lejeune water contamination.  
+
+The fact that the Veteran may not meet the requirements of a presumptive regulation does not preclude him from establishing service connection by way of proof of actual direct causation.  Polovick v. Shinseki, 23 Vet. App. 48, 55 (2009) ("To [deny] service connection... on the basis that it is not likely there is any nexus to service solely because the statistical analysis (in an IOM report) does not support presumptive service connection, would, in effect, permit the denial of direct service connection simply because there is no presumptive service connection").  In Polovick, the Court explained the factors affecting a direct service connection analysis when a disability is not on the presumptive list, including whether a medical professional finds studies persuasive, whether there are risk factors personal to the veteran that might be the cause of the disability for which benefits are sought, and whether the disability has manifested itself in an unusual manner.  Id. at 53.  As the VA examiner relied mostly on the Veteran's disability not being on the list of presumptive conditions associated with Camp Lejeune contaminated water, this opinion is afforded no probative value.  Id. at 53.  
+
+Given the positive nexus opinion and inadequate negative nexus opinion, the evidence is at least evenly balanced as to whether the Veteran's BPH with urinary retention and erectile dysfunction is related to his military service.  As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection for BPH with urinary retention and erectile dysfunction is warranted.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+REASONS FOR REMAND
+
+A September 2018 VA treatment note indicates he is diagnosed with ESBL-positive E. coli complicated urosepsis with bacteremia.  Thus, a current disability has been demonstrated.
+
+The Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxins Act of 2022 (PACT Act) was signed into law on August 10, 2022.  The PACT Act included changes to medical examination requirements where there is documented toxic exposure risk activity (TERA).  Under the PACT Act, Section 303 implemented 38 U.S.C. § 1168, requiring VA to schedule an examination and request a medical opinion for certain non-presumptive diseases involving TERA.  For such claims, absent a specific exception that does not apply here, VA is required to provide a disability examination and medical opinion when a veteran submits a claim for compensation, has evidence of a disability, has evidence of participation in a TERA, and such evidence is not sufficient to establish service connection for the disability.  Under 38 U.S.C. § 1710(e)(4), a TERA is defined as any activity that required a corresponding entry in an exposure tracking record system, to include any system used by the Secretary of Defense to track how veterans or members of the Armed Forces have been exposed to various occupational or environmental hazards.  See also 38 U.S.C. § 1119(c)(2).
+
+In the November 2023 VA Memorandum, the AOJ determined he participated in TERA.  Therefore, the in-service injury or disease requirement is met.  
+
+The remaining question is whether a nexus exists between the Veteran's current blood disorder due to E. Coli and his military service.  
+
+A November 2023 VA examiner opined his blood disorder due to E. Coli is less likely than not incurred in or caused by the claimed in-service injury, event, or illness.  The VA examiner explained his infection does not coincide with his service dates. 
+
+The November 2023 VA medical opinion is inadequate because it did not consider the Veteran's total potential exposure through all applicable military deployments and the synergistic, combined effect of all toxic exposure risk activities.  Therefore, a remand is necessary to obtain another VA medical opinion to correct this pre-decisional duty to assist error in relying on an inadequate opinion.  38 U.S.C. § 5103A(d), (f)(2)(A); 20.802(a).
+
+The matter is REMANDED for the following action:
+
+Obtain an opinion from an appropriate clinician regarding the etiology of the Veteran's blood disorder due to E. Coli.  If an examination is deemed necessary, one should be conducted, to include via telehealth if necessary.  
+
+The clinician must opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that his blood disorder due to E. Coli (1) began during active service; or (2) is related to an in-service injury or disease, including participation in toxic exposure risk activity or activities.  Specifically, the clinician must acknowledge the Veteran's exposure to TERAs.
+
+In forming these opinions, the clinician must consider and specifically discuss (i) the total potential exposure through all applicable military deployments; and (ii) the synergistic, combined effect of all toxic exposure risk activities.
+
+The clinician is advised that the Veteran is competent to report symptoms and treatment and that his reports must be taken into account in formulating the requested opinion. 
+
+ 
+
+Jonathan Hager
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Miller, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,213 @@
+Citation Nr: A25033864
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240209-415287
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for right ear hearing loss is denied.
+
+Entitlement to a compensable rating for left ear hearing loss is denied.
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA), to include on a secondary basis and on a toxic exposure risk activity (TERA) basis, is remanded.
+
+FINDINGS OF FACT
+
+1. The evidence of record persuasively weighs against finding that the Veteran has, or during the pendency of the claim has had, right ear hearing loss for VA purposes.
+
+2. The Veteran is service connected for a left ear hearing loss disability but is not service-connected for right ear hearing loss.  Audiological evaluations performed prior to the rating decision on appeal reveal that he experienced no worse than a Level I hearing impairment in the left ear.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for right ear hearing loss have not been met.  38 U.S.C. §§ 503, 1110, 1131, 5107, 7104; 38 C.F.R. §§ 3.102, 3.104, 3.303, 3.309, 3.385, 4.3, 4.85.
+
+2. The criteria for entitlement to a compensable rating for the service-connected left ear hearing loss is not met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.385, 4.1, 4.3, 4.85, 4.86, Diagnostic Code 6100.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Navy from March 2004 to April 2012.  He was awarded the Navy and Marine Corps Achievement Medal, Afghanistan and Iraq Campaign Medals, and the Sea Service Deployment Ribbon, among others.
+
+Applicable Evidentiary Windows
+
+In regard to OSA, the rating decision on appeal was issued in February 2024.  In regard to both hearing loss claims, the rating decision on appeal was issued in July 2023; therefore, the modernized review system, known as the Appeals Modernization Act (AMA), applies.  In the February 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Under the Direct Review docket, the Board is authorized to review only the evidence considered by the Agency of Original Jurisdiction (AOJ) at the time of the February 2024 OSA rating decision and at the time of the July 2023 hearing loss rating decision.  The Board may not consider evidence presented outside of the timeframes discussed above.  Evidence provided following the July 2023 and the February 2024 rating decisions on appeal have not been considered by the Board in its decision on the claims.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+When, as here, a Veteran seeks an increased evaluation, it will generally be presumed that the maximum benefit allowed by law and regulation is sought, and it follows that such a claim remains in controversy where less than the maximum benefit available is awarded.  See AB v. Brown, 6 Vet. App. 35, 38 (1993).
+
+In regard to OSA, the Board notes that the AOJ initially indicated in the February 2024 rating decision that the Veteran's claim was denied on the basis of new and relevant evidence not being submitted despite this being a new claim and then returned to the claim stream following the finding of a duty to assist error by a higher level review.  See February 2024 rating decision.  However, the same rating decision notes in paragraph seven that "new and relevant evidence has been received and your claim is now reconsidered."  Based on this finding, the determination regarding new and relevant evidence has been conceded by the AOJ and is not before the Board.  38 C.F.R. § 3.104.
+
+1. Entitlement to service connection for right ear hearing loss is denied.
+
+The Veteran contends that he has right ear hearing loss due to service.  See March 2023 VA Form 20-0995.
+
+Service connection is warranted where the evidence of record establishes that a particular injury or disease resulting in disability was incurred in the line of duty in active military service or, if pre-existing such service, was aggravated thereby.  38 U.S.C. § 1110, 1131; 38 C.F.R. § 3.303(a).  Under 38 C.F.R. § 3.303(b), service connection will be presumed where there are either chronic symptoms shown in service or continuity of symptomatology since service for diseases identified as "chronic" in 38 C.F.R. § 3.309(a).  Walker v. Shinseki, 708 F.3d 1331, 1338-40 (Fed. Cir. 2013).  Sensorineural hearing loss and tinnitus (organic disease of the nervous system) are "chronic diseases" listed under 38 C.F.R. § 3.309(a).
+
+Where the Veteran asserts entitlement to a chronic disease but there is insufficient evidence of a diagnosis in service, service connection may be established under 38 C.F.R. § 3.303(b) by demonstrating a continuity of symptomatology since service, but an award solely on this basis is only permissible if the chronic disease is listed under 38 C.F.R. § 3.309(a).  Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+Service connection for hearing loss may be granted where there is credible evidence of acoustic trauma due to significant noise exposure in service, post-service audiometric findings meeting the regulatory requirements for hearing loss for VA purposes, and a medically sound basis upon which to attribute the post-service findings to the injury in service (as opposed to intercurrent causes).  Hensley v. Brown, 5 Vet. App. 155, 159 (1993).
+
+For VA purposes, a minimum degree of hearing loss is a prerequisite for entitlement to service connection.  See McKinney v. McDonald, 28 Vet. App. 15 (2016).  Determinations regarding hearing loss disability are governed by 38 C.F.R. § 3.385.  Impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz (Hz) is 40 decibels (dB) or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.
+
+In making all determinations, the Board must fully consider the lay assertions of record.  A layperson is competent to report on the onset and continuity of his current symptomatology.  See Layno v. Brown, 6 Vet. App. 465, 470 (1994) (a Veteran is competent to report on that of which he or she has personal knowledge).  Lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if: (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).  When considering whether lay evidence is competent the Board must determine, on a case-by-case basis, whether the Veteran's particular disability is the type of disability for which lay evidence may be competent.  Kahana v. Shinseki, 24 Vet. App. 428 (2011); see also Jandreau, 492 F.3d at 1376-77.
+
+The Board is charged with the duty to assess the credibility and weight given to evidence.  Madden v. Gober, 125 F.3d 1477, 1481 (Fed. Cir. 1997), cert. denied, 523 U.S. 1046 (1998); Wensch v. Principi, 15 Vet. App. 362, 367 (2001).  In Jefferson v. Principi, 271 F.3d 1072 (Fed. Cir. 2001), the Federal Circuit Court, citing its decision in Madden, recognized that the Board had inherent fact-finding ability.  Id. at 1076; see also 38 U.S.C. § 7104(a).  Further, the United States Court of Appeals for Veterans Claims (Court) has declared that in adjudicating a claim, the Board has the responsibility to weigh and assess the evidence.  Bryan v. West, 13 Vet. App. 482, 488-89 (2000); Wilson v. Derwinski, 2 Vet. App. 614, 618 (1992).
+
+After careful consideration of the evidence, any reasonable doubt remaining, including degree of disability, is to be resolved in favor of the Veteran.  38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3.  When all of the evidence is assembled, VA is responsible for determining whether the evidence supports the claim or if there is an approximate balance, i.e., nearly equal, with the appellant prevailing in either event.  The evidence is not in approximate balance or nearly equal when the evidence persuasively favors one side or the other.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side, or another is the benefit of the doubt doctrine not for application).
+
+The January 2024 rating decision included favorable findings that the Veteran has been exposed to hazardous noise during service.  This finding is binding on the Board.  38 C.F.R. § 3.104.  Therefore, the only question pending before the Board is whether the Veteran meets the audiological requirements in the right ear for service connection.
+
+The Veteran was provided two VA audiological examinations by the same provider in May 2023.  The results of the first Puretone audiometry examination were handwritten on May 9, 2023 and are as follows:
+
+  	 	 	HERTZ	 	 
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	15 	10 	15 	20 	25 
+
+LEFT	20 	25	20	20	55
+
+Speech audiometry for the right ear was not provided.  However, the handwritten notes indicate an overall impression of essentially normal hearing as it relates to the right ear.
+
+The result of the second Puretone audiometry examination, which was provided on the standard Disability Benefit Questionnaire on May 22, 2023 are as follows:
+
+  	 	 	HERTZ	 	 
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	20 	10 	 15	20 	 25
+
+LEFT	25 	20	25	25	55
+
+Speech audiometry revealed speech recognition ability of 100 percent in the right ear.
+
+As such, the Board must find that the May 9, 2023 handwritten audiology report is inadequate for rating purposes as it did not include a speech recognition score under the Maryland CNC standards.  38 C.F.R. §§ 3.385, 4.85.
+
+However, the May 22, 2023 VA audiological examination is adequate as it contains all the standards necessary for both Puretone thresholds and speech recognition ability.  When viewing the evidence as a whole, neither the Puretone thresholds nor the speech discrimination testing met the thresholds to establish a hearing loss disability in the right ear as defined by 38 C.F.R. § 3.385.
+
+The Board has reviewed the medical evidence of record prior to the rating decision on appeal and there are no other audiometric findings that establish the presence of VA defined hearing loss in the right ear during the pendency of the claim.
+
+The Board has considered the Veteran's general assertions that he has right ear hearing loss that is related to his service.  However, because he is a layperson, he is not competent to diagnose or opine on the nature or etiology of the right ear hearing loss, which is a medically complex question.  See Jandreau v. Nicholson, 492 F. 3d 1372, 1377 (2007).
+
+The Board is sympathetic to the Veteran's assertions and grateful for his service.  However, the Board is bound and constrained by law, and its decision is dictated by the relevant statutes, regulations, and medical evidence of record.  The Board is without authority to grant benefits simply because it might perceive such a grant to be equitable.  38 U.S.C. §§ 503, 7104; Harvey v. Brown, 6 Vet. App. 416, 425 (1994).  "[N]o equities, no matter how compelling, can create a right to payment out of the United States Treasury that has not been provided for by Congress."  Smith v. Derwinski, 2 Vet. App. 429, 432-33 (1992).
+
+The Board finds that the evidence of record persuasively weighs against the claim that the Veteran had right ear hearing loss for VA purposes at any time during the pendency of the claim.  As such, the appeal is denied.  See 38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3; see also Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+2. Entitlement to a compensable rating for left ear hearing loss is denied.
+
+The Veteran contends that he is entitled to a compensable rating for his service-connected left ear hearing loss.  See February 2024 VA Form 10182.  The Veteran was service-connected for left ear hearing loss in a July 2023 rating decision and assigned a non-compensable evaluation effective March 10, 2023.  See July 2023 rating decision.
+
+Disability ratings are determined by evaluating the extent to which a veteran's service-connected disability adversely affects the ability to function under the ordinary conditions of daily life, including employment, by comparing the symptomatology with the criteria set forth in the Schedule for Rating Disabilities. 38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+While the Veteran's entire history is reviewed when assigning a disability rating, 38 C.F.R. § 4.1, where service connection has already been established and an increase in the disability rating is at issue, it is the present level of disability that is of primary concern.  Francisco v. Brown, 7 Vet. App. 55 (1994).  Additionally, the Court has held that in determining the present level of a disability for any increased evaluation claim, the Board must consider the application of staged ratings.  See Hart v. Mansfield, 21 Vet. App. 505 (2007).  In other words, where the evidence contains factual findings that demonstrate distinct time periods in which the service-connected disability exhibited diverse symptoms meeting the criteria for different ratings during the course of the appeal, the assignment of staged ratings would be necessary.
+
+In evaluating service-connected hearing loss, disability ratings are derived by a mechanical application of the rating schedule to the numeric designations assigned after audiometric evaluations are performed.  See Lendenmann v. Principi, 3 Vet. App. 345, 349 (1992); 38 C.F.R. § 4.85.  Evaluations of bilateral defective hearing range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of controlled speech discrimination tests, together with the average hearing threshold level as measured by pure tone audiometric tests at the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz).  To evaluate the degree of disability from bilateral defective hearing, the rating schedule establishes eleven auditory acuity levels designated from Level I, for essentially normal acuity, through Level XI, for profound deafness.  Id.
+
+When the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIa, whichever results in the higher numeral.  Each ear will be evaluated separately.  See 38 C.F.R. § 4.86(a).  Similarly, if the pure tone threshold is 30 decibels or less at 1000 Hz, and 70 decibels or more at 2000 Hz, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and that numeral will be elevated to the next higher Roman numeral.
+
+Table VIa, "Numeric Designation of Hearing Impairment Based Only on Pure Tone Threshold Average," is used to determine a Roman numeral designation (I through XI) for hearing impairment based only on the pure tone threshold average.  Table VIa will be used when the examiner certifies that use of the speech discrimination test is not appropriate because of language difficulties, inconsistent speech discrimination scores, etc., or when indicated under the provisions of Section 4.86, described in the preceding paragraph.  38 C.F.R. § 4.85(c).
+
+The Board further notes the United States Court of Appeals for Veterans Claims has held that, "in addition to dictating objective test results, a VA audiologist must fully describe the functional effects caused by a hearing disability in his or her final report." Martinak v. Nicholson, 21 Vet. App. 447, 455 (2007).
+
+At the outset, the Board notes that, to date, the Veteran has not been awarded entitlement to service connection for a right ear hearing loss disability.  Pursuant to 38 C.F.R. § 4.85(f), if impaired hearing is service-connected in only one ear, the non-service-connected ear will be designated as "Level I" hearing in order to determine the percentage evaluation, for the service-connected ear, from Table VII.
+
+As above, the Veteran was provided both a handwritten and disability benefit questionnaire audiological examination in May 2023.  As noted above, the handwritten audiological examination is not adequate for rating purposes as it does not include a speech recognition score under the Maryland CNC standards.  38 C.F.R. §§ 3.385, 4.85.
+
+As it relates to the left ear hearing loss, on the May 22, 2023 audiological examination the Veteran was found to have a Puretone threshold average of 31.25 and a speech discrimination score of 100 percent.  When utilizing Table VI, the Veteran's left ear exhibits a Level I hearing impairment.  Pursuant to 38 C.F.R. § 4.85(f), a Level I hearing impairment is assigned to the on-service-connected right ear.  After applying these results to Table VII, a noncompensable rating percentage is warranted.
+
+The Board has reviewed the medical evidence of record prior to the rating decision on appeal and there are no additional audiometric findings regarding Puretone thresholds as it relates to the service-connected left ear hearing loss during the pendency of the claim.
+
+Based on the above, the Board finds that the evidence of record persuasively weighs against the claim for a compensable rating for the Veteran's service-connected left ear hearing loss at any time during the pendency of the claim.  As such, the appeal is denied, and the benefit of the doubt doctrine is not for application.  See 38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3; see also Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+REASONS FOR REMAND
+
+Entitlement to service connection for obstructive sleep apnea (OSA), to include on a secondary basis and on a TERA basis, is remanded.
+
+The Veteran contends that his conceded OSA is due to his service or, in the alternative, is due to his service-connected PTSD disability.  See March 2023 VA Form 21-526EZ; see also October 2023 Higher Level Review - Informal Conference.  The Veteran is currently service-connected for his PTSD disability rated at 50 percent effective July 2022.  The Veteran also has a positive determination of participation in a TERA during service.  See April 2023 TERA memo.
+
+Establishing direct service connection generally requires competent evidence showing: (1) the existence of a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  38 U.S.C. §§ 1110, 1131; Shedden v. Principi, 381, F.3d 1163, 1167 (Fed. Cir. 2004).  Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Establishing service connection on a secondary basis requires evidence sufficient to show that: (1) a current disability exists and (2) the current disability was either (a) caused by or (b) aggravated by a service-connected disability.  38 C.F.R. § 3.310.  Secondary causation exists when, but for the service-connected disability, the non-service-connected disability was caused by a service-connected disability either in a direct, etiological way or via multiple steps in a causal chain.  Spicer v. McDonough, 61 F.4th 1360, 1365 (Fed. Cir. 2023) (citations omitted).  Secondary aggravation exists when the non-service-connected disability not caused by a service-connected disability would be less severe were it not for a service-connected disability.  Id. at 1364.  For example, secondary aggravation may be established where the natural progression of the non-service-connected disability could have been arrested or improved but for the service-connected disability.  Id.
+
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.  38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3.  When a Veteran seeks benefits and the evidence is in relative equipoise, the Veteran prevails.  Gilbert v. Derwinski, 1 Vet. App. 49 (1990).  The benefit-of-the-doubt rule does not apply when the evidence persuasively favors one side or the other.  Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).
+
+As an initial matter, the October 2023 rating decision made favorable findings that the Veteran has a current diagnosis, PTSD is a service-connected disability, and there is a qualifying in-service event; specifically, exposure to a TERA.  These favorable findings are binding on the Board.  38 C.F.R. § 3.104.  Therefore, the first and second elements of direct service connection and the first element of secondary service connection have been met.  As such, the questions pending before the Board are regarding the third element of direct service connection and the second element of secondary service connection.
+
+The Board notes that during the pendency of this claim, the Veteran was provided an October 2024 higher-level review rating decision that found a duty to assist error for failing to provide secondary service connection medical opinions.  The Board will address each medical examination and medical opinion prior to the February 2024 rating decision.
+
+During the pendency of this claim, the Veteran filed his claim in March 2023 as simply OSA.  No mention of TERA exposure was marked on the claim.  See March 2023 VA Form 21-526EZ.  The AOJ, without explanation or justification, submitted an examination request for "a disability pattern related to obstructive sleep apnea" and requested a TERA opinion.  The examination request did not request a direct or secondary service connection medical opinion.  No direct service connection opinion has been provided to date.
+
+The first VA OSA examination was provided in May 2023.  The examiner noted a diagnosis of OSA.  The examiner also noted the Veteran's reported onset of symptoms during deployment with good sleep quality prior to the deployment.
+
+The second VA OSA examination was provided in November 2023 by a different VA examiner.  This examiner noted the Veteran's onset of symptoms based on daytime fatigue, snoring, and frequent nighttime awakenings.
+
+The first VA OSA medical opinion was provided in April 2023 specifically regarding TERA.  No direct or secondary service connection medical opinion was provided.  The VA examiner opined that the Veteran's OSA was less likely than not caused by an in-service TERA.  As rationale, the examiner noted, by copy and paste, the positive TERA memo and noted review of public VA websites.  The examiner also cited to a Hopkins medical website and an Agency for Toxic Substances and Disease Registry website.  The examiner noted that there is no physiological connection between asbestos or other toxin exposures and OSA.  The examiner indicated that there is no medical or scientific evidence to indicate a relationship between OSA and a TERA.
+
+The Board finds the April 2023 VA medical opinion regarding TERA exposure inadequate.  First, the examiner did not address the Veteran's lay statements of record or provide a medical rationale that relates specifically to this Veteran.  Miller v. Wilkie, 32 Vet. App. 249 (2020) (when an examiner fails to address the Veteran's lay evidence, and the Board does not find the Veteran not credible or not competent to offer that lay evidence, a new exam is needed); Bailey v. O'Rourke, 30 Vet. App. 54, 60 (2018) (a medical examiner must provide a rationale that relates to a Veteran's "particular medical condition and circumstances").  Second, the examiner's medical opinion is impermissibly conclusory such that, while the examiner noted a review of websites containing general information provided to the public, the examiner failed to provide citations to peer reviewed literature or how it does or does not apply to this Veteran's claim.  A mere copy/paste of the TERA memo and a link to generic website information is not sufficient for adjudicative purposes.  Further, the examiner's assertion that the Veteran's toxic exposure could not lead to OSA is not given any meaningful medical explanation.  Monzingo v. Shinseki, 26 Vet. App. 97, 106 (2012) (medical examination reports are adequate "when they sufficiently inform the Board of a medical expert's judgment on a medical question and the essential rationale for that opinion"); Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007) (The Board may reject a medical opinion that is conclusory and lacks supporting analysis); Horn v. Shinseki, 25 Vet. App. 231, 240-42 (2012) (stating that under caselaw "an unexplained conclusory opinion is entitled to no weight in a service-connection context").  As this medical opinion is based on conclusory opinions, fails to address the Veteran's lay statements, and does not provide a medical basis or medical literature for the conclusory opinions, the Board finds the April 2023 medical opinion regarding TERA exposure to be inadequate.
+
+The second VA OSA medical opinion was provided in November 2023 specifically regarding secondary service connection.  No direct service connection or TERA medical opinion was provided.  Additionally, no medical opinion regarding aggravation of a non-service-connected condition by a service-connected disability was provided.  The VA examiner opined that the Veteran's OSA was less likely than not caused by the Veteran's service-connected PTSD.  As rationale, the examiner provided a copy/paste description of and risk factors for OSA.  The examiner noted that the Veteran BMI being over 28 is considered being obese or overweight which, in combination with a deviated septum, is the more likely cause of the Veteran's OSA.
+
+The Board finds the November 2023 VA medical opinion regarding secondary service connection inadequate.  First, the examiner did not address the Veteran's lay statements of record or provide a medical rationale that relates specifically to this Veteran.  Miller v. Wilkie, 32 Vet. App. 249 (2020); Dalton v. Nicholson, 21 Vet. App. 23 (2007); Bailey v. O'Rourke, 30 Vet. App. 54, 60 (2018).  Second, the examiner did not address the determination by the VA PTSD examination of record of symptoms including sleep disturbance, night terrors, and chronic sleep impairment.  This includes the PTSD examiners determination that these symptoms are relevant to the PTSD diagnosis.  See April 2023 VA PTSD examination.  Bailey v. O'Rourke, 30 Vet. App. 54, 60 (2018) (a medical examiner must provide a rationale that relates to a Veteran's "particular medical condition and circumstances").  
+
+Third, the examiner's medical opinion is impermissibly conclusory such that, while the examiner noted a review of medical literature, the examiner failed to provide how the cited literature does or does not apply to this Veteran's claims.  A mere copy/paste of the description of and risk factors for OSA with links to articles is not sufficient for adjudicative purposes.  Monzingo v. Shinseki, 26 Vet. App. 97, 106 (2012) (medical examination reports are adequate "when they sufficiently inform the Board of a medical expert's judgment on a medical question and the essential rationale for that opinion"); Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007) (The Board may reject a medical opinion that is conclusory and lacks supporting analysis); Horn v. Shinseki, 25 Vet. App. 231, 240-42 (2012) (stating that under caselaw "an unexplained conclusory opinion is entitled to no weight in a service-connection context").  
+
+Finally, the examiner did not address the aggravation of a non-service-connected condition by a service-connected disability.  See El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013) (a medical opinion is inadequate when it fails to adequately address the question of aggravation); Jeffries v. McDonough, No 23-1339, 2024 U.S. App. Vet. Claims LEXIS 1503 (September 19, 2024) - non-precedential (when an examiner opines on secondary service connection, the examiner must directly address aggravation, separately from wither a service-connected disability caused the disability at issue.  In particular, the opinion must address whether the service-connected disability or disabilities aggravated any functional impairment associated with the non-service-connected disability); Bethea v. Derwinski, 2 Vet. App. 252 (1992) (single-judge memorandum decisions may be cited or relied upon for any persuasiveness or reasoning they contain).  As this medical opinion is based on conclusory opinions, fails to address the Veteran's lay statements, does not address aggravation of a non-service-connected condition by a service-connected disability, and does not provide a medical basis or medical literature for the conclusory opinions, the Board finds the November 2023 medical opinion regarding secondary service connection to be inadequate.
+
+There are no other VA or private examinations or medical opinions of record.
+
+While the Board regrets the additional delay this remand brings, there is no adequate medical opinion of record regarding either TERA, direct, or secondary service connection and the AOJ's failure to obtain an adequate TERA, direct, or secondary service connection medical opinion is a pre-decisional duty to assist error.  38 U.S.C. § 5103A; 38 C.F.R. § 20.802.  The Board finds this claim must be remanded to correct the pre-decisional duty to assist error and to obtain an adequate VA examination and medical opinion regarding TERA, direct, and secondary service connection.
+
+In providing this remand, the Board makes no determination, express or implied, regarding the credibility of any statements within the record.  Smith v. Wilkie, 32 Vet. App. 332 (2020).
+
+The matters are REMANDED for the following action:
+
+Schedule the Veteran for an in-person examination and medical opinion with a NEW clinician to determine the nature and etiology of the Veteran's OSA as it relates to direct, TERA, and secondary service connection.  The claims file, including this remand, must be made available to the examiner.  The examiner must document that a full and thorough review of the record, to include this remand, has been completed.
+
+1. For the purpose of providing the opinion requested, please acknowledge, and discuss: 
+
+a) For direct service connection, is it at least as likely as not that the Veteran's sleep apnea began during service or is otherwise etiologically related to service?
+
+b) Regarding TERAs, is the OSA condition at least as likely as not related to the Veteran's in-service exposure to toxins.
+
+In doing so, the examiner must consider TERAs, the total potential exposure through all applicable deployments and the synergistic, combined effect of all toxic exposure risk activities of the Veteran, and the Veteran's lay statements that he had trouble sleeping following his deployments.
+
+c) For secondary service connection, is it at least as likely as not that the Veteran's sleep apnea was caused or aggravated by his service-connected PTSD. 
+
+In other words, would the Veteran's sleep apnea have occurred "but for" the Veteran's service-connected PTSD; or, whether "but for" the Veteran's service-connected PTSD, the functional impairment of sleep apnea would have improved/worsened.   
+
+d) Regarding obesity as an intermediate step, whether it is at least as likely as not that the Veteran's service-connected disabilities caused the Veteran to become obese?
+
+(i) If so, was obesity a substantial factor in causing the Veteran's sleep apnea?
+
+(ii) Whether the Veteran's sleep apnea would not have occurred but for his obesity?
+
+Consistent with Lynch v. McDonough, 21 F.4th 776, 781-82 (2021), the clinician is advised that the term "at least as likely as not" means that the likelihood is at least approximately balanced or nearly equal, if not higher.
+
+A complete rationale must be provided for all opinions or conclusions expressed.  If the clinician is unable to provide an opinion without resorting to speculation, he or she must explain why this is so.
+
+The examiner is advised that the Veteran is competent to report symptoms and injuries, as well as diagnoses provided to him by physicians, and that his reports (lay observations) must be considered in formulating the requested opinion.
+
+If the Veteran's statements are discounted, the examiner should provide a full, medically explained reason for doing so.  The Veteran's statements or lay statements may not be discounted solely on the basis of the lack of confirmation in the medical or service records.
+
+The examiner may not mistakenly rely on an absence of medical evidence in the record to support his or her conclusions.?
+
+A complete and fully explanatory rationale must be provided for any and all opinions expressed.  If the examiner finds that the requested opinion cannot be rendered without resorting to speculation, he or she should so state, and should indicate whether the need to speculate is caused by a deficiency in the state of general medical knowledge (i.e., no one could respond given the state of medical science and the known facts) or by a deficiency in the record (i.e., additional facts are required), or that the examiner does not have the necessary knowledge or training.
+
+When responding, regardless of whether favorably or unfavorably, it is essential the examiner provide rationale preferably citing to evidence in the file and/or accepted medical authority in order to support the conclusions asserted.  An unsupported medical opinion will carry negligible probative weight.
+
+ 
+
+ 
+
+Colleen M. Glaser-Allen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Daniel Stephens, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided.  This decision is not precedential and does not establish VA policies or interpretations of general applicability.  38 C.F.R. § 20.1303.

@@ -1,0 +1,159 @@
+Citation Nr: A25033475
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240826-466272
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for a bilateral hearing loss disability is denied.
+
+Entitlement to an initial disability rating in excess of 10 percent for gastroesophageal reflux disease (GERD) is denied.
+
+Entitlement to an initial rating in excess of 50 percent for insomnia disorder with anxious distress is denied.
+
+FINDINGS OF FACT
+
+1. During the appeal period, the Veteran was not shown to have a hearing loss disability in either ear, as defined in VA regulations.
+
+2. During the appeal period, the Veteran's GERD symptoms did not more nearly approximate symptoms productive of considerable impairment of health.
+
+3. During the appeal period, the Veteran's insomnia disorder with anxious distress more nearly approximated occupational and social impairment with reduced reliability and productivity due to such symptoms as flattened affect, disturbances of motivation and mood, and difficulty in adapting to stressful circumstances; more severe occupational and social impairment was not shown.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for a bilateral hearing loss disability were not met.  38 U.S.C. §§ 1110, 5107 (2012); 38 C.F.R. §§ 3.159, 3.303, 3.385 (2022).
+
+2. The criteria for an initial rating in excess of 10 percent for GERD were not met.  38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 3.159, 4.1, 4.3, 4.7, 4.114, Diagnostic Code (DC) 7399-7346 (2022).
+
+3. The criteria for an initial rating in excess of 50 percent for insomnia disorder with anxious distress were not met.  38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 3.159, 4.1, 4.3, 4.7, 4.130, DC 9413 (2022).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Air Force from October 2016 to June 2017, including in the Southwest Asia theater of operations during the Persian Gulf War.  He was awarded the National Defense Service Medal and the Global War on Terrorism Service Medal, among other decorations and medals.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision issued by the Department of Veterans Affairs (VA) Agency of Original Jurisdiction (AOJ).  In August 2024, the Veteran filed a Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), electing the Direct Review docket.  Accordingly, the Board may only consider evidence of record at the time of the AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+The Board notes that evidence pertaining to the claimed disabilities was associated with the record after the Veteran's NOD was received.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Pursuant to the Veterans Claims Assistance Act (VCAA), VA has duties to notify and assist claimants in substantiating claims for VA benefits.  38 U.S.C. §§ 5102, 5103, 5103A, 5107; 38 C.F.R. § 3.159.  With respect to the claims adjudicated herein, the Veteran has not alleged, and there is no evidence to suggest, that VA violated its duties to notify or assist.  See 38 C.F.R. § 3.159(b), (c); Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015) (holding that "the Board's obligation to read filings in a liberal manner does not require the Board . . . to search the record and address procedural arguments when the veteran fails to raise them before the Board."); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016) (applying Scott to a duty to assist argument).
+
+1. Entitlement to service connection for a bilateral hearing loss disability
+
+The Veteran contends that he developed hearing loss due to being around loud machinery in service.  Unfortunately, the Board finds that service connection must be denied.
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a link between the claimed in-service disease or injury and the present disability.  Romanowsky v. Shinseki, 26 Vet. App. 289, 293 (2013).
+
+Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disability was incurred in service.  38 C.F.R. § 3.303(d).
+
+At the outset, the Board acknowledges the AOJ's favorable finding that "exposure to hazardous noise has been conceded" in light of the Veteran's military occupational specialty (MOS) having a low probability for hazardous noise exposure.  See 38 U.S.C. § 1154(a).  The "in-service incurrence" element has therefore been met.  See 38 C.F.R. § 3.303(a).  The remaining question is whether the evidence establishes a current hearing loss disability during the appeal period and, if so, whether there is a nexus between such disability and in-service hazardous noise exposure. 
+
+The threshold for normal hearing is from 0 to 20 decibels.  Hensley v. Brown, 5 Vet. App. 155, 157 (1993).  For the purposes of applying the laws administered by VA, impaired hearing will be considered a "disability" when the auditory thresholds in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.  Hearing loss does not constitute a "disability" if it does not meet these threshold requirements.  Palczewski v. Nicholson, 21 Vet. App. 174, 179-80 (2007).
+
+The Veteran's service treatment records do not reflect a hearing loss disability in either ear.  Notably, he was treated in March 2017 for hearing loss due to cerumen impact.  He reported that his hearing improved post-cerumen removal.  A June 2017 post-deployment assessment reflects that the Veteran denied trouble hearing.
+
+The Veteran filed the instant claim in October 2023.  He was afforded a VA audiological evaluation in December 2023.  Pure tone thresholds, in decibels, were as follows:
+
+  	 	 	HERTZ	 	 
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	20 	20	25	25	25
+
+LEFT	15 	15	20	20	20
+
+Speech audiometry revealed speech recognition ability of 100 percent in both ears.  The examining audiologist noted that the puretone test results and word recognition scores were valid and appropriate for the Veteran.  The audiologist conceded military noise exposure, noting, however, that the Veteran had normal hearing in both ears.  The report does not reflect any functional impact due to hearing loss.  
+
+Based on the above findings, the December 2023 VA audiological evaluation did not establish a hearing loss disability in either ear under 38 C.F.R. § 3.385.  There are no other audiograms of record demonstrating a current hearing loss disability under the applicable regulation.
+
+The Board accepts the Veteran's competent, credible reports of hearing loss.  (Although he did not appear to report specific functional difficulties related to hearing loss at his VA examination, his NOD states, "I have trouble hearing," and his claim for service connection implies some degree of functional hearing loss.)  See Layno v. Brown, 6 Vet. App. 465, 469-70 (1994); Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).  Unfortunately, the Veteran's reported symptoms do not pertain to the specific question of whether he had a current hearing loss disability under 38 C.F.R. § 3.385 during the appeal period.  
+
+The Veteran has not established his competence to opine on matters requiring specialized knowledge, such as whether he met the criteria for a hearing loss disability.  The Board is not permitted to substitute its own judgment on a medical matter in light of the audiological evaluation of record.  See Colvin v. Derwinski, 1 Vet. App. 171 (1991).  The Board is also bound to apply the regulations, which provide strict criteria for what qualifies as a hearing loss disability under 38 C.F.R. § 3.385.
+
+The Board finds that, despite the hearing loss described by the Veteran in this case, service connection for a bilateral hearing loss disability cannot be granted, because the most persuasive evidence of record regarding the severity of the Veteran's hearing loss-the audiological evaluation discussed above-does not demonstrate that the requirement of a current disability was met for either ear at any point during the appeal period.  In short, there is no evidence that the thresholds in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz were ever 40 decibels or greater, or that the thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz were 26 decibels or greater.  See 38 C.F.R. § 3.385.  Speech recognition findings likewise do not establish results that support a current disability.  Id.  There is no other objective evidence in the record of hearing loss rising to the level of a disability pursuant to 38 C.F.R. § 3.385.  The Board finds that the audiological evaluation discussed above is the most persuasive evidence as to the question of a current disability.
+
+The Board has considered the Veteran's lay reports of subjective hearing loss, which he attributed to in-service hazardous noise exposure.  Although these statements constitute competent evidence of hearing loss, they do not speak to the question at issue here-whether the Veteran had a demonstrated hearing loss disability pursuant to 38 C.F.R. § 3.385 during the appeal period.  To that end, the medical evidence of record, including, most notably, the VA audiogram discussed above, weighs against his claim, and is more persuasive than his lay statements.  See Layno, 6 Vet. App. at 469-70; Jandreau, 492 F.3d at 1377.  
+
+In sum, the relevant evidence of record does not establish that the Veteran had a bilateral hearing loss disability pursuant to 38 C.F.R. § 3.385 at any point during the appeal period.  Without a current disability, service connection may not be granted.  Palczewski, 21 Vet. App. at 179-80.  For these reasons, the claim for service connection for a bilateral hearing loss disability must be denied.  See 38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.303.  The benefit of the doubt doctrine, see 38 U.S.C. § 5107(b), is not for application at this time.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+2. Entitlement to an initial disability rating in excess of 10 percent for GERD
+
+The Veteran seeks an increased initial rating for GERD.  His symptoms are rated as 10 percent disabling under 38 C.F.R. § 4.114, DC 7399-7346.  Hyphenated codes are used when a rating under one code requires use of an additional DC to identify the basis for the rating assigned.  38 C.F.R. § 4.27.  Here, the use of DC 7399-7346 reflects that there was no DC specifically applicable to GERD when the rating was assigned, and that the disability was rated by analogy to hernia hiatal under DC 7346.  See 38 C.F.R. § 4.20.
+
+During the pendency of the appeal, amendments to 38 C.F.R. § 4.114, the Schedule of Ratings for the Digestive System, were enacted, effective May 19, 2024.  Under the amended criteria, a new DC (7206) was added for GERD, which provides the same rating criteria as DC 7203 for stricture of the esophagus.
+
+If a law or regulation changes during the course of a claim or an appeal, the version more favorable to the veteran will apply, to the extent permitted by any stated effective date in the amendment in question.  38 U.S.C. § 5110(g); see also Kuzma v. Principi, 341 F. 3d 1327 (Fed. Cir. 2003).  If the revised version of the regulation is more favorable, the implementation of that regulation under 38 U.S.C. § 5110(g) can be no earlier than the effective date of that change.  If the former version is more favorable, VA can apply the earlier version of the regulation for the period prior to, and from, the effective date of the change.  38 U.S.C. § 5110; Kuzma, 341 F. 3d 1327.  In this case, the period on appeal is dated from the October 25, 2022 effective date of service connection for GERD through the date of the March 2024 rating decision on appeal.  As the entire appeal period predates the May 19, 2024 amendments, the amended rating criteria are not applicable in this case and will not be discussed further.
+
+Pursuant to DC 7346, a 10 percent rating is warranted for two or more of the symptoms for the 30 percent rating, but at less severity.  A 30 percent rating is assigned for persistently recurring epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health.  The maximum 60 percent rating is assigned for symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health.  38 C.F.R. § 4.114, DC 7346.
+
+Neither the Rating Schedule nor the regulations provide definitions for descriptive words such as "considerable" or "severe" impairment of health.  However, "considerable" is defined as "large in extent or degree."  Merriam-Webster Dictionary Online, https://www.merriam-webster.com/dictionary/considerable (last visited April 4, 2025).  "Severe" is defined as "of a great degree."  Merriam-Webster Dictionary Online, https://www.merriam-webster.com/dictionary/severe (last visited April 4, 2025).  Also, the term "persistent" may be defined as "continuing to exist despite interference or treatment."  Merriam-Webster Dictionary Online, https://www.merriam-webster.com/dictionary/persistent (last visited April 4, 2025).  Rather than applying a mechanical formula, VA must evaluate all the evidence to the end that its decisions are "equitable and just."  38 C.F.R. § 4.6.
+
+The Veteran was afforded a VA esophageal conditions examination in December 2023.  A diagnosis of GERD was noted.  The Veteran reported that his condition began in 2016 and that his current symptoms included severe burning sensation causing sleep disturbance.  He reported using Zantac and over-the-counter acid reducers, but stated, "nothing works."  The examiner noted that the Veteran had symptoms of infrequent episodes of epigastric distress with pyrosis, reflux, substernal pain, and sleep disturbance four or more times per year.  The examiner did not indicate that the Veteran's symptoms manifested in "persistently recurrent epigastric distress" or symptoms or symptom combinations productive of considerable or severe impairment of health.  No esophageal stricture, spasm, or acquired diverticulum of the esophagus was noted to be present.  No functional impact was noted by the examiner.
+
+Additional medical evidence includes private treatment records from 2020, which reflect that the Veteran sought treatment at that time for heartburn.  A February 2020 treatment note reflects his report of substernal burning that could wake him from sleep with rare liquid reflux and no dysphagia.  The Veteran reported taking omeprazole, which helped; however, symptoms returned after completing the therapy.  He was prescribed omeprazole again and received an upper endoscopy in May 2020 which revealed mild chronic gastritis. 
+
+After careful review, the Board finds that the Veteran's GERD was shown to be productive of pyrosis as well as substernal pain; however, it was not shown to be productive of dysphagia or regurgitation, nor was it shown to result in considerable impairment of health at any time during the appeal period.  The evidence of record does not indicate changes in weight, anemia, increased treatment or medications, or anything else that would indicate considerable impairment of health.  See 38 C.F.R. § 4.114, DC 7399-7346.  Additionally, the relevant evidence does not show that the Veteran's symptoms required hospitalizations, increased medication, weight loss requiring medical intervention, or evidence that the Veteran was unable to maintain employment due to symptoms, as could imply severe impairment in health.  Id.  The December 2023 VA examination report reflects no significant functional impact due to GERD, which is inconsistent with impairment that is "large in extent or degree" or "of a great degree."
+
+The Board is aware of the case of Jones v. Shinseki,?26 Vet. App. 56?(2012), in which the United States Court of Appeals for Veterans Claims (Court) held that when a DC is silent as to the effects of medication, VA may not deny entitlement to a higher disability rating based on the relief provided by the medication.  In a recent decision, Ingram v. Collins, No. 23-1798, LEXIS 327 (Mar. 12, 2025), the Court found that when DCs and special regulations do not explicitly contemplate medication use when rating a disability, the Board must discount the beneficial effects of medication when assigning an evaluation for that disability.  
+
+As noted above, while the Veteran reported some beneficial effects from taking medication for his GERD symptoms in 2020, he reported during his VA examination in December 2023 that (of his medication) "nothing works."  Because the Veteran thus denied any beneficial effects of medication during the period under review in this case, the Board finds that an additional medical opinion contemplating the effects of medication pursuant to Jones and Ingram is not required.
+
+The Board appreciates the Veteran's concerns, raised in his NOD, that his GERD resulted in sleep issues which "altered my life."  For the above reasons, however, the Board finds that entitlement to an initial rating in excess of 10 percent for GERD is not warranted under the applicable diagnostic criteria.  (The Veteran's sleep issues are separately compensated by his 50 percent rating under the General Rating Formula for Mental Disorders, discussed below.)  The Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record.  See Doucette v. Shulkin, 28 Vet. App. 366, 369-70 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the record).
+
+3. Entitlement to an initial rating in excess of 50 percent for insomnia disorder with anxious distress
+
+The Veteran seeks an increased initial rating for insomnia disorder with anxious distress.  He is currently in receipt of a 50 percent rating under 38 C.F.R. § 4.130, DC 9413.  
+
+All psychiatric disabilities are evaluated under a General Rating Formula for Mental Disorders.  Under the General Rating Formula, a 50 percent rating is warranted for occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect, circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short- and long-term memory (e.g. retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; difficulty in establishing and maintaining effective work and social relationships.  Id.
+
+A 70 percent evaluation is warranted for occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately, and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful situations (including work or a worklike setting); and inability to establish and maintain effective relationships.  Id.
+
+Finally, a total schedular rating of 100 percent is warranted when the disorder results in total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of mental and personal hygiene); disorientation to time or place; memory loss for names of close relatives, own occupation, or own name.  Id.
+
+The symptoms listed in the rating schedule are not intended to constitute an exhaustive list, but rather serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating.  See Mauerhan v. Principi, 16 Vet. App. 436 (2002).  Nevertheless, all ratings in the general rating formula are associated with objectively observable symptomatology, and in Vazquez-Claudio v. Shinseki, 713 F.3d 112, 117 (Fed. Cir. 2013), the Federal Circuit stated that "a veteran may only qualify for a given disability rating under § 4.130 by demonstrating the particular symptoms associated with that percentage, or others of similar severity, frequency, and duration."
+
+The Federal Circuit further noted that "§ 4.130 requires not only the presence of certain symptoms but also that those symptoms have caused occupational and social impairment in most of the referenced areas."  Id.  Thus, "[a]lthough the veteran's symptomatology is the primary consideration, the regulation also requires an ultimate factual conclusion as to the veteran's level of impairment in 'most areas.'"  Id. at 118.  As such, the Board will consider both the Veteran's specific symptomatology as well as the occupational and social impairment described in the general rating formula to determine whether an increased evaluation is warranted.
+
+This appeal dates from the Veteran's October 2023 claim for service connection.  In November 2023, he received a VA mental disorders examination.  The report reflects a diagnosis of insomnia disorder with anxious distress.  The Veteran reported that he was single.  He and his ex-girlfriend had one child and were expected another.  He reported that he was employed for Samsung as a chemical maintenance technician; he had held this position since the previous year.  The Veteran reported that he was seen for anxiety around a year prior, and was prescribed medication which he ultimately discontinued due to side effects.  He denied received psychiatric care currently.  He denied any history of suicide attempts.  He denied any post-service legal or behavioral history.  The Veteran described his sleep as "poor," stating that he usually slept fewer than four or five hours per night, with fragmented sleep.  Throughout the day, he would feel tired with poor energy levels.  
+
+The examiner noted symptoms of anxiety; panic attacks that occurred weekly or less often; chronic sleep impairment; flattened affect; disturbances of motivation and mood; and difficulty adapting to stressful circumstances, including work or a work-like setting.  Under behavioral observations, the examiner noted that the Veteran presented as appropriately groomed and dressed.  Eye contact was fair, speech was regular, and gait was within normal limits.  The Veteran was alert and fully oriented.  He described his mood as anxious with congruent affect.  His thought process was goal-directed, linear, and logical.  He denied current suicidal or homicidal ideations, intent, or plan.  He denied auditory or visual hallucinations or symptoms consistent with paranoia or delusions.  His attention and concentration were fair during the interview.  His insight and judgment were estimated to be fair.  The examiner determined that the Veteran's overall mental health symptomatology resulted in occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks, although generally functioning satisfactorily, with normal routine behavior, self-care, and conversation.
+
+On his NOD, the Veteran stated that his "sleep issues alone have altered my life."  He did not provide further lay evidence of relevant psychiatric symptoms during the appeal period. 
+
+After careful review of the evidence, the Board finds that the Veteran's symptoms do not warrant an increased initial rating.  In the aggregate, and particularly when considering the November 2023 VA examination report, which is the most thorough analysis of the Veteran's mental health symptoms, the Board finds that the evidence demonstrates that the Veteran's insomnia disorder with anxious distress more nearly approximates a level of disability resulting in occupational and social impairment with reduced reliability and productivity.  The record fairly shows that the Veteran's disorder caused, among other symptoms, flattened affect and disturbances of motivation and mood.  These specific symptoms are contemplated by the 50 percent rating criteria.
+
+The Board finds that the Veteran's disability picture did not more nearly approximate occupational and social impairment with deficiencies in most areas at any point during the appeal period.  The record does not reflect evidence of obsessional behaviors; illogical, obscure, or irrelevant thought content or speech; near-continuous panic or depression (as opposed to intermittent panic attacks and episodic anxiety); violent behavior with impaired impulse control; spatial disorientation; neglect of personal appearance and hygiene; or an inability to establish and maintain effective relationships.  
+
+The Board acknowledges that the VA examiner noted that the Veteran had difficulty adapting to stressful circumstances, including work or a work-like setting, which is one of the symptoms listed under the 70 percent criteria.  The Board therefore finds that this single symptom does not reflect impairment of sufficient frequency or duration as to amount to occupational and social impairment with deficiencies in most areas.  See Vazquez-Claudio, 713 F.3d 112, 117 (holding that "§ 4.130 requires not only the presence of certain symptoms but also that those symptoms have caused occupational and social impairment in most of the referenced areas").  The Veteran's ability to sustain full-time employment shows at least some ability to adjust to such circumstances.  Moreover, the lay and medical evidence of record does not describe in detail how the Veteran's struggles functioning in stressful situations contributed to his overall occupational or social impairment.
+
+To reiterate, the presence of one or more of the symptoms listed in the higher rating criteria is not necessarily sufficient to warrant an increased rating.  See id.  In this case, the fact that the Veteran experienced "difficulty in adapting to stressful circumstances," in and of itself, is insufficient to justify a 70 percent rating.  More persuasive is the fact that a VA medical professional assessed the Veteran's symptomatology as a whole and determined that his acquired psychiatric disorder resulted in occupational and social impairment with no more than reduced reliability and productivity.
+
+The Board has also considered various other symptoms reported by the Veteran, including fatigue and difficulty focusing during the day due to insomnia.  Considered altogether, none of these symptoms are of similar severity, duration, or frequency as to warrant a 70 percent rating under the relevant criteria. 
+
+The Veteran's psychiatric symptomatology was not shown to result in total occupational and social impairment, as the Veteran was able to maintain full-time employment throughout the appeal period.  He therefore cannot be considered "totally" impaired occupationally.  Furthermore, the VA examination of record does not demonstrate that the Veteran suffered from gross impairment in thought processes or communication, persistent delusions or hallucinations, grossly inappropriate behavior, or a persistent danger of hurting self or others.  He has not been shown to have intermittent inability to perform activities of daily living, or disorientation to time or place.  No other symptoms of similar severity, frequency, and duration to those listed under the 100 percent criteria have been demonstrated. 
+
+In sum, since the Veteran's claim for service connection was granted, the evidence of record demonstrates that the overall impairment caused by the Veteran's insomnia disorder with anxious distress more nearly approximated occupational and social impairment with reduced reliability and productivity due to such symptoms as flattened affect, disturbances of motivation and mood, and difficulty in adapting to stressful circumstances.  The VA examination report of record includes a broad discussion of the severity, frequency, and duration of the Veteran's symptoms, with accompanying conclusions that his symptoms caused no more than reduced reliability and productivity.  More severe occupational and social impairment has not been established.
+
+To the extent that the Veteran has reported taking medication to treat his insomnia, the Board notes that, because the General Rating Formula explicitly references medication in rating mental disorders (specifically under the 10 percent rating criteria, which contemplates "symptoms controlled by continuous medication," see 38 C.F.R. § 4.130), the holdings of Jones, supra and Ingram, supra, which provide that the Board must discount beneficial medication effects when assigning an evaluation, are inapplicable.
+
+(Continued on the next page)
+
+?
+
+For the above reasons, the Board finds that entitlement to an initial rating in excess of 50 percent for insomnia disorder with anxious distress is not warranted.  The Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record.  See Doucette, 28 Vet. App. at 369-70.
+
+The Board is grateful for the Veteran's honorable service.  This decision is in no way meant to detract from that service.  The Board is bound by the law, however, and for the reasons discussed above, the benefits he seeks cannot be granted at this time.
+
+ 
+
+ 
+
+A. S. CARACCIOLO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T. Minot, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

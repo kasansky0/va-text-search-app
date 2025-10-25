@@ -1,0 +1,77 @@
+Citation Nr: A25033164
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240607-447868
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is denied.
+
+FINDING OF FACT
+
+The evidence of record persuasively weighs against finding that bilateral hearing loss began during active service or is otherwise related to an in-service injury or disease.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for bilateral hearing loss have not been met. 38 U.S.C. §§ 1110, 1131; 5107; 38 C.F.R. §§ 3.102, 3.303, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Marine Corps from August 2008 to August 2013.  
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from a June 2023 Appeals Modernization Act (AMA) rating decision by the Department of Veterans Affairs (VA) Regional Office (RO). The June 2023 rating decision was a higher-level review of an earlier March 2022 rating decision denying service connection for bilateral hearing loss. 
+
+In June 2024, the Veteran submitted a VA Form 10182 (Notice of Disagreement) with the June 2023 higher-level review decision. The Veteran selected the direct review docket. 
+
+As this is an AMA case on the direct review, and the rating decision on appeal is a higher-level review, the Board may only consider the evidence of record at the time of the initial March 2022 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.303. If evidence was submitted during the period after the AOJ issued the decision on appeal the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.303, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+SERVICE CONNECTION
+
+Service connection will be granted for a disability resulting from an injury or disease contracted in the line of duty, or for aggravation of a pre-existing injury suffered or disease contracted in the line of duty, in the active military, naval, air, or space service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a). Service connection requires evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+The Board is responsible for determining whether the evidence persuasively supports the claim or is in approximate balance, with the Veteran prevailing in either event, or whether the evidence is persuasively against the claim, in which case the claim is denied. When there is an approximate balance of positive and negative evidence regarding any issue material to the determination, the benefit of the doubt is afforded to the claimant. 38 U.S.C. § 5107; see Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021); Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).
+
+Entitlement to service connection for bilateral hearing loss.
+
+The Veteran contends that his bilateral hearing loss is related to his military service. 
+
+Starting with the first element of service connection, for the purposes of applying the laws administered by VA, impaired hearing is considered a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000 or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent. 38 C.F.R. § 3.385.
+
+In the December 2021 VA examination, the Veteran was diagnosed with normal hearing in the right ear and sensorineural hearing loss in the left ear. The audio examination report revealed the following puretone thresholds in decibels for the right and left ears:
+
+HERTZ (Hz)
+
+	500	1000	2000	3000	4000
+
+RIGHT	10	5	5	15	5
+
+LEFT	10	10	15	35	25
+
+Furthermore, the Veteran's speech audiometry testing showed speech recognition scores of 98 percent in the right ear and 98 percent in the left ear.
+
+For each ear, none of the auditory thresholds in the frequencies 500, 1000, 2000, 3000, or 4000 Hz were 40 decibels or greater. Moreover, there were not at least three of the frequencies 500, 1000, 2000, 3000, 4000 Hz that were 26 decibels or greater. Additionally, the Veteran's speech discrimination score of each ear was not less than 94 percent. Therefore, the first element of service connection for the right and left ear, a current disability, was not met. As there is no current disability of bilateral hearing loss for VA purposes, service connection for bilateral hearing loss is denied. See 38 C.F.R. § 3.385.
+
+While the Veteran believes he has a current diagnosis of bilateral hearing loss, the Veteran is not competent to diagnose hearing loss for VA purposes because this requires expertise in the administration of audiological testing. Such competent evidence has been provided by the December 2021 VA examiner. Consequently, the Board gives more probative weight to the competent medical evidence.
+
+Therefore, the Board finds that at no time during the pendency of the claim does the Veteran have a current diagnosis of bilateral hearing loss as defined by VA regulations. As there is no probative evidence indicating that the Veteran has the disability for which service connection is sought, there can be no valid claim for service connection. See Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). Consequently, service connection for bilateral hearing loss is not warranted.
+
+(Continued on next page)
+
+?
+
+In reaching this conclusion, the Board has considered the applicability of the benefit of the doubt doctrine. However, here, it is not applicable because there is not an approximate balance of positive and negative evidence. Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+ 
+
+Wendy Daknis
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	V. Ruberto
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

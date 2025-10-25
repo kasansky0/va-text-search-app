@@ -1,0 +1,87 @@
+Citation Nr: A25033242
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240415-433020
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to an initial evaluation greater than 70 percent for unspecified sleep wake disorder is denied.
+
+FINDING OF FACT
+
+During the rating period on appeal, the symptoms and overall impairment associated with the Veteran's sleep wake disorder do not approximate total occupational and social impairment.
+
+CONCLUSION OF LAW
+
+The criteria for an initial disability rating in excess of 70 percent for unspecified sleep wake disorder have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.126, 4.130, DC 9431.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 1998 to July 2002.
+
+This matter comes to the Board of Veterans' Appeals (Board) from an August 2023 rating decision of a Department of Veterans Affairs (VA) Agency of Original Jurisdiction (AOJ).
+
+In May 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of an April 2023 decision.  In August 2023, the AOJ issued the HLR decision on appeal, which considered the evidence of record at the time of the prior April 2023 decision. 
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the April 2023 AOJ decision. 38 C.F.R. § 20.301. Any evidence submitted after the April 2023 AOJ decision cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Increased Rating  
+
+Disability ratings are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects their ability to function under the ordinary conditions of daily life, including employment, by comparing their symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule). See 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.10. If two ratings are potentially applicable, the higher rating will be assigned if the disability more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran. See 38 C.F.R. § 4.3.
+
+In evaluating the severity of a particular disability, it is essential to consider its history. 38 C.F.R. §§ 4.1, 4.2, 4.41. However, where an increase in the disability rating, rather than the propriety of the initial rating, is at issue, the present level of disability is of primary importance, and past medical reports should not take precedence over current findings. Francisco v. Brown, 7 Vet. App. 55, 58 (1994). Regardless of whether an appeal stems from disagreement with the initial rating assigned following an award of service connection or from disagreement with the rating assigned following a claim for increase, separate ratings can be assigned for separate periods of time based on the facts found. Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007) (citing Fenderson v. West, 12 Vet. App. 119, 126 (1999)).
+
+Entitlement to an increased initial rating for unspecified sleep wake disorder.
+
+The criteria for rating psychiatric disabilities, other than eating disorders, are set forth in the General Rating Formula for Mental Disorders (General Rating Formula) and are applicable here. 38 C.F.R. § 4.130. Under the General Rating Formula, the following ratings are provided:
+
+100 percent rating (the maximum schedular rating) - Total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; memory loss for names of close relatives, own occupation or own name.
+
+70 percent rating - Occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work like setting); inability to establish and maintain effective relationships.
+
+50 percent rating - Occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short- and long-term memory (e.g. retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; difficulty in establishing and maintaining effective work and social relationships.
+
+30 percent rating - Occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks (although generally functioning satisfactorily, with routine behavior, self-care, and conversation normal), due to such symptoms as: depressed mood, anxiety, suspiciousness, panic attacks (weekly or less often), chronic sleep impairment, and mild memory loss (such as forgetting names, directions, recent events).
+
+10 percent rating - Occupational and social impairment due to mild or transient symptoms which decrease work efficiency and ability to perform occupational tasks only during periods of significant stress, or; symptoms controlled by continuous medication.
+
+When determining the appropriate disability evaluation to assign, the Board's primary consideration is the veteran's symptoms, but it must also make findings as to how those symptoms impact a veteran's occupational and social impairment. Vazquez-Claudio v. Shinseki, 713 F.3d 112 (Fed. Cir. 2013). The use of the term "such as" in the rating criteria demonstrates that the symptoms after that phrase are not intended to constitute an exhaustive list, but rather are to serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating. Mauerhan v. Principi, 16 Vet. App. 436 (2002). Thus, the Board need not find the presence of all, most, or even some, of the enumerated symptoms to award a specific rating. Id. at 442.
+
+Nevertheless, all ratings in the General Rating Formula are also associated with objectively observable symptomatology and the plain language of the regulation makes it clear that the veteran's impairment must be "due to" those symptoms; a veteran may only qualify for a given disability rating by demonstrating the particular symptoms associated with that percentage, or others of similar severity, frequency, and duration. Vazquez-Claudio, 713 F.3d at 118. The Board recognizes that the Court in Mauerhan, 16 Vet. App. 436, stated that the symptoms listed in VA's General Rating Formula is not intended to constitute an exhaustive list, but rather are to serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating. However, the Court further indicated that without those examples, differentiating between rating evaluations would be extremely ambiguous.
+
+Turning to the evidence, in a December 2022 lay statement, the Veteran reported that he is often unable to focus which causes difficulty completing daily tasks. He also requires time to make judgement calls and will often have to start over on tasks if he feels anxious. When he is feeling overwhelmed, he will occasionally need to take the day away from work to recover. He noted he sometimes just prefers to be alone and tends to keep to himself in social atmospheres. He noted he has been married and divorced. 
+
+The Veteran was afforded a VA examination in March 2023.  The VA examiner noted that the Veteran has several friends, and sustains regular, primarily electronic, contact with his parents, siblings, and friends. The examiner noted that the Veteran's psychosocial functioning was mildly adversely affected by his sleep disorder. The Veteran reported that he was currently employed as a regional sales director for a construction equipment company and that the position requires him to travel regularly to construction sites and offices. The examiner noted the Veteran's report that his disorder mildly adversely affects his work focus, quality, and interactions with others. He reported the Veteran's symptoms related to the diagnosis included chronic sleep impairment, mild memory loss, disturbances of motivation and mood, difficulty adapting to stressful circumstances, including work or a worklike setting, and intermittent inability to perform activities of daily living, including maintenance of minimal personal hygiene. The examiner concluded that the Veteran's unspecified sleep wake disorder caused social and occupational impairment due to mild or transient symptoms which decrease work efficiency and ability to perform occupational tasks only during periods of significant stress. 
+
+While the Veteran has reported psychiatric symptoms, including feeling withdrawn, unmotivated, having panic attacks, anxiety, lack of focus, and depression, the evidence persuasively weighs against a rating in excess of 70 percent. The clinical records do not support symptoms of the severity or frequency to more closely approximate the criteria for a 100 percent rating. Again, it is not the mere presence of a symptom listed as an example in the rating criteria which warrants that rating, but the effect that the symptom has on a veteran's functional ability.
+
+In that regard, the evidence does not establish that the Veteran's symptoms cause total occupational and social impairment. There is no evidence of legal troubles, physical violence, disorientation to time or place, difficulty understanding complex commands, significant memory loss, gross impairment in thought processes or communication, hallucinations and delusions, or suicidal or homicidal ideation. The Veteran has maintained consistent employment, owns his home, maintains a small social group, is able to seek counseling, and has relationships with family members. See March 2023 Disability Benefits Questionnaire (DBQ). Private treatment records from 2018 through 2020 note that the Veteran is well appearing, has negative depression screenings, has not been bothered by anxiety in the last month, and has normal psychiatric screenings. See August 18, 2020, August 26, 2019, and August 24, 2018 private treatment records. Neurological treatment records also report that the Veteran has normal speech, intact memory, and is appropriately alert to person place and time. See July 22, 2020 and October 21, 2020 private treatment records. This evidence is not indicative of total occupational and social impairment as contemplated by the 100 percent rating.
+
+The March 2023 DBQ notes that the Veteran was alert, attentive, cooperative, engaging, articulate and appropriate, with a moderately fatigued affect and euthymic mood. His cognitive and intellectual functioning were normal, with good insight and judgement. There was no indication that the Veteran's symptoms manifest in an inability to find or maintain an occupation, behave appropriately in social settings, or maintain relationships. The Veteran's December 2022 lay statement discusses feelings of anger, low self-esteem, and difficulty making decisions. However, the records do not support that the Veteran has impaired impulse control or exhibited peristent danger of hurting himself or others. Moreover, while the Veteran's representative has argued that he is unable to perform certain activities of daily living, including maintaining personal hygiene, and the VA examiner did note that symptom, the Veteran's December 2022 lay statement does not indicate inability to perform chores/tasks, maintain hygiene, or little interest in activities and hobbies. The VA examiner did not comment on inappropriate dress or hygiene at the time of the examination. Regardless, total occupational and social impairment is simply not established, even assuming the Veteran sometimes neglects personal hygiene. As discussed above, he is employed full time and maintains some relationships. He has not contended otherwise. Moreover, the Veteran reports that he is employed in a position that requires frequent travel, which weighs against gross impairment in thought processes or communication or an inability to perform activities of daily living, given the preparation and organization required for travel, particularly business travel.
+
+The Board further finds that the lay statements describing anger, depression, anxiety, negative thoughts, isolation, difficulty focusing, and panic attacks during the claim period do not establish an overall disability picture that more closely approximates the criteria for a 100 percent rating. 
+
+(Continued on the next page)
+
+?
+
+In short, the Board finds that the symptomatology associated with the Veteran's sleep wake disorder does not result in total occupational and social impairment to warrant a 100 percent rating  at any time during the appeal period. His current 70 percent rating adequately compensates him for the occupational and social impairment caused by his sleep disorder symptoms throughout the claim period. His impairment does not more closely approximate a higher rating. 
+
+As the evidence is persuasively against entitlement to a higher rating, the benefit of the doubt rule does not apply, and the claim for an initial rating greater than 70 percent for unspecified sleep wake disorder must be denied.
+
+ 
+
+L. STEPANICK
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Barbato
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,105 @@
+Citation Nr: A25032506
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 210519-160476
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for post-traumatic stress disorder (PTSD) is denied. 
+
+Entitlement to a 30 percent rating for panic disorder is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran was service connected for an acquired psychiatric disorder, other than PTSD, during the appeal period. 
+
+2. The Veteran does not have a current diagnosis for PTSD.
+
+3. The Veteran's panic disorder more nearly approximated the criteria for a 30 percent rating. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for PTSD is denied. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+2. The criteria for a 30 percent rating for panic disorder have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.130, Diagnostic Code 9412.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from May 2004 to August 2009. 
+
+The rating decision on appeal was issued in December 2020. Since this constitutes an initial decision by the agency of original jurisdiction (AOJ), issued after the effective date of the Appeals Modernization Act (AMA), the modernized review system applies. See 38 C.F.R. § 3.2400(a)(1).
+
+The Veteran appealed this decision by submitting a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD). In her NOD, the Veteran identified a May 2021 decision that she intended to appeal. Additionally, she specifically noted that she was appealing the rating that was assigned for her service-connected panic disorder. The Board notes, however, that the May 2021 decision was a higher-level review that adjudicated the issue of service connection for PTSD. The increased rating issue concerning her service-connected panic disorder was adjudicated in a December 2020 rating decision. Although the Veteran did not list the December 2020 decision in her NOD, the Board will interpret her NOD to include the December 2020 decision since she specifically identified the issue concerning her assigned rating for panic disorder, and her NOD was filed within one year of issuance of the notice of the decision. 38 U.S.C. § 7105 (b)(1)(A).  
+
+The Board further notes that the Veteran elected the Hearing option in her NOD. Thus, the Veteran was afforded a virtual hearing before the undersigned Veterans Law Judge in November 2024. A transcript of the hearing has been associated with the claims folder. The Board notes, however, that in adjudicating the matters under the AMA, the Board may only consider the evidence of record at the time of the AOJ decision on appeal as well as any evidence submitted by the Veteran or her representative at the hearing or within 90 days following the hearing. 38 C.F.R. § 20.302 (a).
+
+Increased Rating
+
+Disability ratings are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects his ability to function under the ordinary conditions of daily life, including employment, by comparing the symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule). 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.2, 4.10.
+
+In evaluating a disability, the Board considers the current examination reports in light of the whole recorded history to ensure that the current rating accurately reflects the severity of the condition. The Board has a duty to acknowledge and consider all regulations that are potentially applicable. Schafrath v. Derwinski, 1 Vet. App. 589 (1991). The medical, as well as, industrial history is to be considered, and a full description of the effects of the disability upon ordinary activity is also required. 38 C.F.R. §§ 4.1, 4.2, 4.10.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. Separate ratings can be assigned for separate periods of time based on facts found, a practice known as "staged" ratings. Hart v. Mansfield, 21 Vet. App. 505 (2007). When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102.
+
+1. Entitlement to a compensable rating for panic disorder.
+
+The Veteran's panic disorder has been assigned a noncompensable rating and evaluated under Diagnostic Code 9412, which uses the General Rating Formula for Mental Disorders. 38 C.F.R. § 4.130, Diagnostic Code 9412. 
+
+Under the General Formula for Mental Disorders (General Formula), the Board must conduct a "holistic analysis" that considers all associated symptoms, regardless of whether they are listed as criteria. Bankhead v. Shulkin, 29 Vet. App. 10, 22 (2017); 38 C.F.R. § 4.130. The Board must determine whether unlisted symptoms are similar in severity, frequency, and duration to the listed symptoms associated with specific disability percentages. Then, the Board must determine whether the associated symptoms, both listed and unlisted, caused the level of impairment required for a higher disability rating. Vazquez-Claudio v. Shinseki, 713 F.3d 112, 114-118 (Fed. Cir. 2013).
+
+A noncompensable rating is assigned when a mental condition has been formally diagnosed, but symptoms are not severe enough to either require continuous medication, or to interfere with occupational and social functioning. 38 C.F.R. § 4.130, Diagnostic Code 9412.
+
+A 10 percent rating is assigned when mild or transient symptoms which decrease work efficiency and ability to perform occupational tasks only during periods of occasional stress, or symptoms controlled by medication cause occupational and social impairment. 38 C.F.R. § 4.130, Diagnostic Code 9412.
+
+A 30 percent rating is assigned when symptoms such as depressed mood, anxiety, suspiciousness, panic attacks (weekly or less often), chronic sleep impairment, or mild memory loss (such as forgetting names, directions, or recent events), cause occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks (although generally functioning satisfactorily, with routine behavior, self-care, and normal conversation). 38 C.F.R. § 4.130, Diagnostic Code 9412.
+
+A 50 percent rating is assigned when a veteran's psychiatric disorder causes occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short-term and long-term memory (e.g., retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; or difficulty in establishing and maintaining effective work and social relationships. 38 C.F.R. § 4.130, Diagnostic Code 9412.
+
+A 70 percent evaluation is warranted when there is occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work-like setting); and inability to establish and maintain effective relationships. 38 C.F.R. § 4.130, Diagnostic Code 9412.
+
+The maximum schedular rating of 100 percent is warranted when there is total occupational and social impairment due to such symptoms as gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; and memory loss for names of close relatives, own occupation or own name. 38 C.F.R. § 4.130, Diagnostic Code 9412.
+
+	Merits
+
+The Board has reviewed all the evidence in the Veteran's claims file. Although the Board has an obligation to provide adequate reasons and bases supporting this decision, there is no requirement that the evidence submitted by a Veteran or obtained on his behalf be discussed in detail. Rather, the Board's analysis below will focus specifically on what evidence is needed to substantiate the claim and what the evidence in the claims file shows, or fails to show, with respect to the claim. See Gonzales v. West, 218 F.3d 1378, 1380-81 (Fed. Cir. 2000); Timberlake v. Gober, 14 Vet. App. 122, 128-30 (2000). Thus, after considering the evidence of record, the Board finds that an increased rating is warranted.
+
+A review of the evidence shows that the Veteran received a VA examination for PTSD in December 2020 in which the Veteran was diagnosed with panic disorder. In the examination, the Veteran reported that she was currently living in a house in Nebraska with her children. She reported being married and divorced two times and noted that she is not currently in a relationship. She indicated that she has three sons and one daughter and that she gets along with them "very well." The Veteran reported spending her free time reading and playing board games. Her current social support includes her children, her sister, and some friends.
+
+Occupationally, the Veteran reported receiving her bachelor's degree in business management from Bellevue University in 2015. She stated that she has been working on a master's degree in project management since the Spring of 2020. The Veteran reported working at a call center, in a school cafeteria, as a department manager at a grocery store, and at a commissary after her discharge from service. She reported that she has been working as a manager of a dental clinic and as the STAR lead at a grocery store for the past four months. With regard to work, the Veteran stated, "I like it a lot, it's a little stressful;" but she denied any significant occupational impairment. With regard to treatment, the Veteran reported having two individual phone therapy sessions with a provider through her employee assistance program (EAP) in the Summer of 2020. She stated that she has been meeting with a VA psychologist for individual therapy since August 2020.
+
+The examiner noted a symptom of panic attacks that occur weekly or less often. Behavioral observations showed that the Veteran was dressed neatly and was well kempt. Her speech was logical and goal oriented. The Veteran was cooperative with the evaluation process and with answering questions, and she was oriented to person, place, situation, and time. Her concentration, attention, judgment, and insight were good. She described her mood as "a lot better than it was." Her affect was slightly agitated, and she appeared mildly anxious. The examiner found that the Veteran's symptoms cause occupational and social impairment due to mild or transient symptoms. 
+
+The Board notes that the examiner's finding corresponds to a 10 percent rating under 38 C.F.R. § 4.130, Diagnostic Code 9412, of which the Veteran's panic disorder is evaluated under; however, the AOJ continued to assign a noncompensable rating. In this regard, the Board notes that while the VA examiner found a symptom of panic attacks with mild occupational and social impairment, the Board observes the examiner's report in which it was noted that the Veteran reported spending about a day and a half thinking about losing her baby. She further reported having feelings of guilt, which resulted in panic attacks. It was also noted that she has physiological arousal and anxiety once weekly to monthly. Furthermore, the Veteran reported transient depression which occurs approximately once weekly, and that she avoids thinking about her ectopic pregnancy.
+
+The Board also observes an August 13, 2020 VA mental health consult in which the Veteran was diagnosed with depression and adjustment disorder. In her evaluation, the Veteran reported recurrent depression (low mood, low self-esteem, ruminations, emotional fluctuations, fatigue, rare crying spells, instances of emotional upset) since experiencing an ectopic pregnancy while in service. She described instances in which memories and emotions related to the traumatic loss of her pregnancy are triggered, but she has not been able to identify a pattern or particular triggers. The Veteran described panic symptoms or panic attacks that occur on an occasional basis, with the most recent one occurring three weeks ago. She reported that she was driving to work, and felt overwhelmed, "like a mess," and was crying. The Veteran called her EAP for support. She indicated that she worries about functional impairment due to her panic attacks. 
+
+In the examiner's summary, the examiner noted that the Veteran reported symptoms of anxiety and depression with a waxing, waning course. The examiner stated that panic attacks are the most interfering symptom at this time, and that the Veteran worries about having one at work or in other situations in which her functioning could be significantly impacted. The examiner noted that the Veteran wonders if the traumatic loss of her pregnancy has resulted in PTSD, as this has been suggested to her by other providers. However, the examiner indicated a diagnosis of depression unspecified and adjustment disorder given the Veteran's report of depression and anxiety symptoms within the context of recent stressors and changes. 
+
+Moreover, in a July 2020 VA mental health telephone encounter, it was noted that the Veteran reported that she was driving to work and was "triggered." She reported "freaking out" on her way to work and being unable to settle down, and subsequently calling the EAP through her job. The Veteran reported having an ectopic pregnancy while in the military and having had something or an emotion that triggered the memory. She further reported having conflicting emotions, and that it took her two hours to emotionally calm down. 
+
+Based on the above and remaining evidence, the Board finds that the Veteran's symptoms more nearly approximated the criteria for a 30 percent rating for the period on appeal. Although the AOJ assigned a noncompensable rating, the December 2020 VA examiner's finding corresponds to a minimum 10 percent rating. Additionally, the Veteran reported symptoms including feelings of guilt, transient depression, and anxiety. Moreover, in her August 2020 mental health consult, she reported having recurrent depression and panic attacks, with one occurring recently that required her to seek assistance through her EAP. Further, the August 2020 VA medical clinician diagnosed the Veteran with depression and adjustment disorder. Therefore, the Board finds that the persuasive evidence of record shows that the Veteran's panic disorder caused symptoms that approximated the criteria for a 30 percent rating such that the Veteran's symptoms caused occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks.
+
+The Board notes, however, that a rating greater than 30 percent is not warranted because the Veteran's panic disorder did not cause occupational and social impairment with reduced reliability and productivity. For instance, in an August 31, 2020 VA treatment note, the Veteran reported that her anxiety was reduced, and she had not experienced a panic attack since her mental health intake on August 13, 2020. She specifically noted that it was helpful having an increased understanding of her anxiety and panic attack symptoms. The Veteran also reported improvement in her overall mood/outlook. Additionally, in an October 2020 VA treatment record, the Veteran reported continued improvement in her circumstances. She indicated that she continues to do well at her job, and she has reduced irritability. The examiner also noted increased behavioral activity as the Veteran reported signing up for a kickboxing class. Furthermore, in her December 2020 VA examination, the Veteran denied any significant occupational impairment and reported that she was working on a master's degree in project management. Therefore, the Veteran was not impaired socially and occupationally to the extent that a rating greater than 30 percent is warranted.
+
+Accordingly, a 30 percent rating, and no higher, is granted for service-connected panic disorder.  
+
+Service Connection
+
+Generally, in order to prove service connection, there must be competent, credible evidence of (1) a current disability, (2) in-service incurrence or aggravation of an injury or disease, and (3) a nexus, or link, between the current disability and the in-service disease or injury. See, e.g., Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Pond v. West, 12 Vet. App. 341 (1999). 
+
+2. Entitlement to service connection for PTSD.
+
+The Veteran seeks service connection for PTSD. The Board notes, however, that the evidence does not include a current diagnosis for PTSD. In the absence of proof of a present disability, there can be no valid claim. Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992).  Accordingly, the claim is denied.
+
+ 
+
+GAYLE STROMMEN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Laffitte, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

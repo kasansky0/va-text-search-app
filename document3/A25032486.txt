@@ -1,0 +1,81 @@
+Citation Nr: A25032486
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240718-458046
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for tinnitus is granted.
+
+Entitlement to service connection for bilateral hearing loss is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran's tinnitus is etiologically related to military noise exposure in service.
+
+2. The evidence is in equipoise as to whether the Veteran's bilateral hearing loss is related to military noise exposure.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for tinnitus have been met. 38 U.S.C. §§ 1101, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+The criteria for service connection for bilateral hearing loss have been met. 38 U.S.C. §§ 1101, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service from August 1979 to August 1986. 
+
+The rating decision on appeal was issued in April 2024. Since this constitutes an initial decision by the agency of original jurisdiction (AOJ), issued after the effective date of the Appeals Modernization Act (AMA), the modernized review system applies. See 38 C.F.R. § 3.2400(a)(1).
+
+The Veteran appealed this decision by submitting a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD). In doing so, the Veteran elected the Direct Review option; therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal. 38 C.F.R. § 20.301.
+
+Service Connection
+
+Generally, in order to prove service connection, there must be competent, credible evidence of (1) a current disability, (2) in-service incurrence or aggravation of an injury or disease, and (3) a nexus, or link, between the current disability and the in-service disease or injury. See, e.g., Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Pond v. West, 12 Vet. App. 341 (1999). 
+
+Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303 (d).
+
+In some cases, service connection may be established by showing evidence of a chronic disease in service, which requires a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time. 38 C.F.R. § 3.303 (b). If chronicity in service is not established, a showing of continuity of symptoms after discharge is required to support the claim. Id. The provisions of 38 C.F.R. § 3.303 (b) pertaining to continuity of symptomatology can be applied only in cases involving those conditions explicitly recognized under 38 C.F.R. § 3.309 (a). Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013). Organic diseases of the nervous system are listed among the chronic diseases in 38 C.F.R. § 3.309 (a). Sensorineural hearing loss and tinnitus are considered organic diseases of the nervous system. Fountain v. McDonald, 27 Vet. App. 258 (2015).
+
+Whenever there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the Veteran. 38 U.S.C. § 5107 (b).
+
+1. Entitlement to service connection for bilateral hearing loss.
+
+The Veteran seeks service connection for bilateral hearing loss. After reviewing the evidence of record, the Board finds that service connection is warranted.
+
+In the decision on appeal, the AOJ conceded noise exposure in service and favorably found a current diagnosis for bilateral hearing loss; however, the AOJ denied service connection. In doing so, the AOJ relied on the Veteran's April 2024 VA examination in which the examiner found that the Veteran's hearing loss was less likely than not related to service. 
+
+In the examination, the examiner conceded the Veteran's noise exposure in service citing that the Veteran had a military occupational specialty (MOS) of Aviation Structural Mechanic. The examiner noted that this MOS has a high probability of hazardous noise exposure. However, the examiner indicated that there was no significant permanent shift in hearing thresholds beyond test variability from the Veteran's enlistment examination in October 1978 to his separation exam in July 1986, which is objective evidence of no permanent auditory damage on active duty from conceded noise. The examiner further noted that there is no report of complaints or treatment for hearing decrease in the Veteran's service treatment records (STRs) or at the time of separation. The examiner explained that although noise exposure is conceded, the relationship of noise, auditory damage and hearing loss is well-established; auditory damage and hearing loss are not conceded based on noise alone. There must be a nexus of auditory damage to relate the Veteran's current hearing loss to military noise and not another etiology such as occupational or recreational noise exposure and/or presbycusis (hearing loss due to aging). The examiner concluded that the Veteran's hearing loss was less likely than not related to military noise exposure.
+
+While the examiner provided a detailed rationale, the Board finds that the opinion is inadequate. In this regard, the Board notes that the examiner found that there was no significant permanent shift in hearing thresholds, nor were there complaints or treatment for hearing decrease in the Veteran's STRs; however, the absence of documented treatment, complaints, or a diagnosis in service is not fatal to a service connection claim, and the absence of evidence in a veteran's STRs is an insufficient basis, by itself, for a negative opinion. See Ledford v. Derwinski, 3 Vet. App. 87, 89 (1992).
+
+Further, the examiner suggested that the Veteran's hearing loss was caused by another etiology such as occupational or recreational noise exposure; however, this finding is speculative. The examiner did not indicate any other etiology for the Veteran's hearing loss and specifically noted that the Veteran reported having no occupational noise exposure. Additionally, although the Veteran reported post-service noise exposure from firearms, he stated that hearing protection was used. Therefore, since the examiner did not provide an adequate medical rationale to support the opinion, the Board finds that the opinion offers low probative value.
+
+The Board also observes a February 2024 private audiology examination in which the Veteran was diagnosed with right ear moderate sensorineural hearing loss and left ear moderate to severe sloping sensorineural hearing loss. The examiner indicated that the Veteran was exposed to noise in service and that his hearing loss was at least as likely as not caused by his military noise exposure. However, the examiner did not provide a medical rationale to support the medical opinion. 
+
+The Board notes that while both medical opinions did not contain an adequate rationale, "VA is not permitted to completely ignore even an 'inadequate' opinion or examination, whether it is in favor or against a veteran's claim." Monzingo v. Shinseki, 26 Vet. App. 97, 106 (2012). Therefore, considering the opinions of record, the Board finds that the evidence is in relative equipoise. Resolving all doubt in favor of the Veteran, entitlement to service connection for bilateral hearing loss is granted.
+
+2. Entitlement to service connection for tinnitus.
+
+The Veteran seeks service connection for tinnitus. In the decision on appeal, the AOJ denied service connection and based their decision on the Veteran's April 2024 hearing loss and tinnitus examination. In the examination, the examiner found that the Veteran's tinnitus was not related to service; however, the examiner utilized the same reasoning and rationale with regard to the Veteran's hearing loss. As explained above, the examiner may not rely on the absence of a diagnosis or treatment in service as this does not preclude service connection. 
+
+Furthermore, tinnitus, which manifests as ringing in the ears, is not the type of medical condition which requires specialized medical knowledge or training to assess. Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007). The Veteran, as a lay person, is competent to report symptoms such as ringing or buzzing in his ears as this requires only personal knowledge as it comes to him through his senses. See Layno v. Brown, 6 Vet. App. 465, 470 (1994).
+
+In this case, the Board notes that while the Veteran's STRs do not contain complaints of tinnitus, noise exposure in service has been conceded. Additionally, in his examination, the Veteran reported that his tinnitus began in service and has worsened since that time. The Board finds that the Veteran's statements are both competent and credible. Moreover, as noted above, tinnitus is a chronic disease under 38 C.F.R. § 3.309 (a). Therefore, the Veteran' statements support service connection based on continuity of symptomatology under 38 C.F.R. § 3.303 (b).
+
+Based on these findings, the Board concludes that the persuasive evidence of record weighs in favor of granting the claim. Accordingly, service connection for tinnitus is granted. 
+
+ 
+
+ 
+
+GAYLE STROMMEN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Laffitte, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

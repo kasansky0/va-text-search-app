@@ -1,0 +1,69 @@
+Citation Nr: A25031276
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240703-454430
+DATE: April 4, 2025
+
+ORDER
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) is granted; an effective date for the assignment of this benefit will be assigned by the RO in the first instance.
+
+FINDING OF FACT
+
+The Veteran's service-connected disabilities render him unable to secure or follow a substantially gainful occupation consistent with his education and work history.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to a TDIU have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.340, 3.341, 4.16.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 1967 to June 1970 and from December 1973 to August 1979. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a rating decision issued in June 2024 by a Department of Veterans Affairs (VA) Regional Office. 
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the June 2024 decision on appeal.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+A claimant is entitled to the benefit of the doubt when there is an approximate balance of positive and negative evidence on any issue material to the claim. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.  If the positive and negative evidence is in approximate balance or nearly equal-which includes but is not limited to equipoise-the claimant receives the benefit of the doubt.  Lynch v. McDonough, 21 F.4th 776, 781 (Fed. Cir. 2021).  If the evidence persuasively favors one side or the other, there is not an approximate balance, and therefore the benefit-of-the-doubt-rule does not apply. Id. at 781-82.
+
+Entitlement to individual unemployability.
+
+The Veteran contends that he has been unable to work due to his service-connected disabilities.  See July 2024 Brief.  The Board agrees.
+
+To establish entitlement to TDIU, there must be impairment so severe that it is impossible for the Veteran to secure or follow a substantially gainful occupation. See 38 U.S.C. § 1155; 38 C.F.R. §§ 3.340, 3.341, 4.16.  The central inquiry is whether the Veteran's service-connected disabilities alone are of sufficient severity to produce unemployability.  Hatlestad v. Brown, 5 Vet. App. 524 (1993). Consideration may be given to the Veteran's level of education, special training, and previous work experience in arriving at a conclusion, but not to age or to the impairment caused by nonservice-connected disabilities.  See 38 C.F.R. §§ 3.341, 4.16, 4.19; Van Hoose v. Brown, 4 Vet. App. 361 (1993).
+
+"Substantially gainful employment" is considered "work that involves doing significant productive physical or mental duties and is done for pay or profit" even if the work "is done on a part-time basis or if a claimant is paid less or is given less responsibility than when the same claimant worked before."  In other words, a "substantially gainful occupation" is "one that provides annual income that exceeds the poverty threshold for one person, irrespective of the number of hours or days that the veteran actually works and without regard to the veteran's earned annual income" prior to when he was last employed.  See Faust v. West, 3 Vet. App. 342, 356 (2000) (citing analogous Social Security Administration regulations).  Marginal employment generally shall be deemed to exist when a veteran's earned annual income does not exceed the amount established by the U.S. Department of Commerce, Bureau of the Census, as the poverty threshold for one person.  38 C.F.R. § 4.16(a).  Marginal employment may also be held to exist, on a facts-found basis (includes but is not limited to employment in a protected environment such as a family business or sheltered workshop), when earned annual income exceeds the poverty threshold.  Consideration shall be given in all claims to the nature of the employment and the reason for termination.  Id.  The phrase "employment in a protected environment" is "unambiguous" and means, "a lower-income position that, due to the veteran's service-connected disability or disabilities, is shielded in some respect from competition in the employment market." LaBruzza v. McDonough, 37 Vet. App. 111 (2024).
+
+In a claim for a TDIU, the ultimate question of whether a Veteran is capable of substantially gainful employment is not a medical one; that determination instead is for the adjudicator.  See 38 C.F.R. § 4.16 (a); see also Geib v. Shinseki, 733 F.3d 1350 (Fed. Cir. 2013); Floore v. Shinseki, 26 Vet. App. 376 (2013).
+
+A veteran is eligible for a schedular rating of TDIU if either one service-connected disability is rated at least 60 percent or multiple service-connected disabilities yield a combined rating of 70 percent (with at least one of those disabilities rated 40 percent or more).  38 C.F.R. § 4.16 (a).  For the above purpose of one 60 percent disability, or one 40 percent disability in combination, the following will be considered as one disability: (1) Disabilities of one or both upper extremities, or of one or both lower extremities, including the bilateral factor, if applicable, (2) disabilities resulting from common etiology or a single accident, (3) disabilities affecting a single body system, e.g. orthopedic, digestive, respiratory, cardiovascular-renal, neuropsychiatric, (4) multiple disabilities incurred in action, or (5) multiple disabilities incurred as a prisoner of war. 38 C.F.R. § 4.16 (a).
+
+During the appeal period, the Veteran is service connected for sleep apnea associated with degenerative arthritis cervical spine with collapse rotator cuff tear, with a 50 percent evaluation from June 10, 2021, left foot plantar fascitis with swelling, with a 30 percent evaluation from June 20, 2023, diabetes mellitus type 2 associated with degenerative arthritis cervical spine with collapse rotator cuff tear, with a 20 percent evaluation from June 10, 2021, degenerative arthritis, left shoulder with partial rotator cuff tear, with a 20 percent evaluation from January 23, 2024, tinnitus with a 10 percent evaluation from March 8, 2013, degenerative arthritis cervical spine with collapse rotator cuff tear, with a 10 percent evaluation from January 23, 2024, left lower extremity diabetic peripheral neuropathy associated with diabetes mellitus type 2, with a 10 percent evaluation from January 23, 2024, right lower extremity diabetic peripheral neuropathy associated with diabetes mellitus type 2, with a 10 percent evaluation from January 23, 2024, face scar, residual of laceration, noncompensable from March 8, 2013, and noncompensable bilateral hearing loss from June 10, 2021.  Therefore, the Veteran meets the schedular requirements for a TDIU during the appeal period.
+
+As to the impact the Veteran's service-connected physical disabilities had on his occupational functioning, he reports he retired because he had difficulty completing his job duties.  The Veteran reports he experiences neck pain and limited range of motion, flare ups that prevent him from taking care of his day-to-day business, difficulty driving or looking around, difficulty standing or walking for prolonged periods of time, difficulty focusing, difficulty hearing soft speech, left shoulder pain and limited range of motion, peripheral neuropathy, and limitations due to diabetes and fatigue with daily hypersomnolence. 
+
+On VA examination in January 2020 for sleep apnea, diabetes, and peripheral neuropathy, the examiner reported the Veteran's diabetic peripheral neuropathy impacted his ability to work, because the Veteran had physical limitations with prolonged walking and prolonged standing.  Additionally, his diagnosed sleep apnea reportedly impacted his ability to work.  The Veteran reported only a 50 percent improvement in his daytime hypersomnolence after using the continuous positive airway pressure (CPAP) machine.
+
+On VA examination in July 2023 for his foot conditions, the Veteran reported severe flare ups of the left foot three to four times a week that last for an hour.  The Veteran reports the pain and swelling are alleviated by elevating his foot on a pillow and taking medication.  Additionally, he reported that walking more than 20 minutes caused pain.  The examiner reported the Veteran experienced pain on passive and active motion, weight-bearing and non-weight bearing, and when resting.
+
+On examination in September 2023 for sleep apnea, bilateral hearing loss and tinnitus, the examiner noted the Veteran's sleep apnea impacted his ability to work, because it is difficult to hold a job that would require focus and concentration.  Additionally, the Veteran has difficulty hearing soft speech.
+
+On VA examination in October 2023 for sleep apnea and diabetes, the Veteran reported he has flare ups from his neck condition that prevent him from taking care of his day-to-day business due to the severity of the pain.
+
+On VA examination in February 2024 for diabetes, peripheral neuropathy, sleep apnea, and neck conditions, the Veteran's neck range of motion (ROM) was reported as abnormal, and he had pain with active and passive motion.  The examiner reported the pain does not cause functional loss.  The Veteran reported he wakes up every two hours at night despite using a CPAP.  Additionally, the Veteran reported it is difficult to stand or walk for prolonged periods of time due to radiating tingling and pins and needle feeling into both legs.  The examiner reported moderate paresthesias and/or dysesthesias in bilateral lower extremities.  The Veteran takes insulin more than once a day for his diabetes, and the examiner reported the Veteran has peripheral neuropathy.  With regard to an individual unemployability statement, the examiner stated, "Difficulty standing due to foot pain, difficulty focusing due to pain in neck and very limited range of motion.  Further complaints of left shoulder pain and limited range of motion.  Feels limited due to diagnosis of diabetes and fatigue from sleep apnea." 
+
+Upon review, the Board affords the Veteran's statements and clinician's opinions, when considered together, probative value.  The Board finds that the record shows that the Veteran was precluded from securing or following a substantial gainful occupation due to his service-connected disabilities.  
+
+In consideration of the totality of the Veteran's symptomatology and the resulting functional impairment, the Board finds his service-connected disabilities render him unable to secure or follow a substantially gainful occupation consistent with his education and work history.  Thus, as the probative evidence of record weighs in favor of the claim, the benefit of the doubt doctrine is not applicable, and the claim for a TDIU rating is granted.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).  Under the facts and procedural history of this appeal, the AOJ will assign the effective date for the award of this benefit, as an appealable issue. 
+
+ 
+
+Nathaniel Doan
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Scherba, Heather L.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

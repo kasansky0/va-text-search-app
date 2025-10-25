@@ -1,0 +1,67 @@
+Citation Nr: A25031228
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240513-441386
+DATE: April 4, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from July 2002 to July 2005, with additional service in the Army National Guard.  For her service, she was awarded the Iraq Campaign Medal, Army Commendation Medal, Army Achievement Medal (2nd Award), National Defense Service Medal, Global War on Terrorism Service Medal, and Army Service Ribbon.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a rating decision issued in April 2024 by a Department of Veterans Affairs (VA) Regional Office under the modernized appeals system known as the Appeals Modernization Act.
+
+In May 2024, the Veteran filed a timely Decision Review Request: Board Appeal (VA Form 10182), electing the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the April 2024 rating decision.  See 38 C.F.R. § 20.301.  Any evidence submitted after the April 2024 rating decision could not be considered by the Board.  See 38 C.F.R. §§ 20.300, 20.301, 20.801.  The Board acknowledges that the Veteran submitted evidence that could not be reviewed; however, because the Board is remanding the above claim, any evidence the Board could not consider will be considered by the Agency of Original Jurisdiction (AOJ) in the readjudication of such claim.  See 38 C.F.R. § 3.103(c)(2)(ii).
+
+Service connection for obstructive sleep apnea.
+
+The Veteran contends that her obstructive sleep apnea is caused by her service-connected posttraumatic stress disorder (PTSD).  The Board notes the Veteran is service connected for major depressive disorder, single episode moderate with anxious distress, previously rated as PTSD (hereinafter, acquired psychiatric disorder).  While the Board acknowledges that the Veteran is asserting obstructive sleep apnea on a secondary basis, the record also indicates that obstructive sleep apnea may have had its onset in service or be otherwise related to service.  Therefore, the Board finds the theory of entitlement to service connection on a direct basis has been raised by the record.
+
+For AMA cases, a remand is warranted only for correction of pre-decisional duty to assist errors or to satisfy a statutory or regulatory duty-if that would aid in substantiating the claim.  38 C.F.R. § 20.802.  In this case, a remand is warranted to correct a pre-decisional duty to assist error.
+
+A December 2023 VA examination report shows a diagnosis of obstructive sleep apnea, and the AOJ favorably found that the Veteran had such diagnosis in its April 2024 rating decision.
+
+Regarding an in-service injury, disease, or event, on her September 2003 Post Deployment Health Assessment, the Veteran endorsed still feeling tired after sleeping.  Additionally, the Veteran's participation in a Toxic Exposure Risk Activity (TERA) has been conceded by the AOJ, based on its favorable finding in the December 2023 TERA Memorandum and the April 2024 rating decision.
+
+Regarding a nexus between the Veteran's current obstructive sleep apnea disability and her military service, the December 2023 VA examiner opined that it was less likely than not that the Veteran's obstructive sleep apnea was proximately due to her service-connected acquired psychiatric disorder.  The examiner's rationale was that obstructive sleep apnea was a disease with clear etiology of anatomical obstruction of the throat-due to abnormal movement of throat muscles-and was therefore not related to depression or anxiety.  Additionally, after considering the Veteran's total potential exposure through all applicable military deployments and the synergistic, combined effect of all her TERAs, the examiner opined that her obstructive sleep apnea was less likely than not caused by her TERAs.  The examiner's rationale was that obstructive sleep apnea was a disease with clear etiology of anatomical obstruction of the throat-due to abnormal movement of throat muscles-and was therefore not related to any TERA.
+
+Upon review, the Board finds that the medical evidence of record, to specifically include the December 2023 VA examiner's opinion, inadequate for the purpose of determining entitlement to service connection for obstructive sleep apnea.  First, the examiner's opinion contains no analysis.  See Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007) (finding that a medical opinion "must support its conclusion with an analysis that the Board can consider and weigh against contrary opinions"). Instead, the examiner merely recited the information she relied on in forming her opinion.
+
+Second, the examiner considered only whether the Veteran's obstructive sleep apnea was caused by her service-connected acquired psychiatric disorder and failed to address whether it was directly related to her military service-other than as due to her TERAs.  C.f. at 123-24 (holding that a medical nexus opinion finding that a condition is not related to service because it is not entitled to presumptive service connection, without first considering direct service connection, is inadequate on its face).  Specifically, the examiner did not address the Veteran's post-deployment report of still feeling tired after sleeping.  Additionally, the examiner failed to address that the Veteran had experienced headaches while in service and discuss whether such headaches may have been symptomatic of obstructive sleep apnea.  The Veteran's reports of headaches while on active duty are well-documented: an October 2003 service treatment record (STR) notes that the Veteran complained of "migraines that last for a day [which] even hurts [sic] when she wakes up"; and on her April 2005 separation Report of Medical History, the Veteran endorsed typically experiencing a headache every day.  Connecting her headaches to obstructive sleep apnea, a May 2023 VA treatment record notes that the Veteran was referred to a sleep specialist to rule out a "sleep disorder that may be contributing to headaches."  And, a September 2023 VA treatment record notes that, "Based on the consult request to the Sleep Center, the [Veteran's] sleep-related symptoms include: often feeling tired, fatigued, or sleepy during the day, as well as waking up with headaches in the morning" (emphasis added).  Finally, the examiner did not discuss relevant evidence contained in the August 2020 VA examination report, which notes that the Veteran reported post-military sleep disturbance and confirms chronic sleep impairment.  Despite the fact that all the above medical evidence was available at the time the December 2023 VA examiner issued her medical opinion, the examiner did not discuss a direct theory of entitlement to service connection for obstructive sleep apnea-other than as due to the Veteran's TERAs.
+
+Additionally, in reaching the conclusion that the Veteran's obstructive sleep apnea was not caused by her service-connected acquired psychiatric disorder, the examiner failed to discuss relevant evidence of record.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (stating that "The Board must be able to conclude that a medical expert has applied valid medical analysis to the significant facts of the particular case in order to reach the conclusion submitted in the medical opinion").  Specifically, in the December 2023 Application for Disability Compensation (VA Form 21-526EZ), the Veteran-who is a licensed vocational nurse-stated: "My sleep apnea is secondary to my PTSD that I received as a result of my military service.  I have difficulty sleeping and staying asleep at night.  I wake up choking and gasping for air at night at times."  In an August 2023 VA treatment record, a clinician related the Veteran's insomnia to her obstructive sleep apnea by noting Assessment and Diagnoses to include "Insomnia unspecified [rule out] Sleep apnea."  Notably, the Veteran's insomnia is also included as part of her service-connected acquired psychiatric disorder.  That is, in a January 2021 medical opinion, the VA examiner stated that the Veteran's "symptoms of insomnia are subsumed under a diagnosis of [major depressive disorder]."  Nevertheless, the December 2023 VA examiner did not discuss the above medical evidence regarding a possible relationship between the Veteran's obstructive sleep apnea and her service-connected acquired psychiatric disorder.  Instead, the examiner concluded that, because obstructive sleep apnea was a disease with clear etiology of anatomical obstruction of the throat, it could not be related to an acquired psychiatric disorder.
+
+Furthermore, the examiner improperly failed to discuss whether the Veteran's obstructive sleep apnea was aggravated by her service-connected acquired psychiatric disorder-as was raised by the record.  See El-Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013) (finding that a secondary service connection medical opinion was inadequate because it did not discuss aggravation).  In this regard, an April 2022 VA treatment record notes the following:
+
+[The Veteran] has difficulty sleeping and concentrating and a lot of anxiety most of the time.  Of note is that [the Veteran] reports she has been having these symptoms 'forever but with the VA officially 4-5 years[,] but it has now gotten to a stage where [I] think [I] need medications,' she said.  Sleep is about 2-4 hours/night average depending on the day.  Diffculty [sic] falling and remaining asleep and has tried all sleep hygiene habits but no improvement.  Unsure if she has sleep apnea as she has not been tested but reports waking up at night gasping for breath.
+
+Finally, the examiner improperly concluded that the Veteran's obstructive sleep apnea was unrelated to her TERAs without first discussing the relevant medical evidence of record contradicting such finding.  See Nieves-Rodriguez, 22 Vet. App. at 304.  Specifically, a December 2023 VA treatment record, which predates the December 2023 VA examiner's opinion, notes the following: "Active Med Problems: Obstructive sleep apnea of adult (SCT 11Exposure to toxic waste, occupational (SCT 102439009)" (emphasis added).
+
+As a result, the Board finds the AOJ failed to obtain an adequate medical opinion, which constitutes a pre-decisional duty to assist error.  Thus, a remand is warranted to correct such error by obtaining an appropriate medical opinion to properly determine the nature and etiology of the Veteran's obstructive sleep apnea.
+
+The matter is REMANDED for the following action:
+
+Forward the complete record to an appropriate clinician for an opinion addressing the nature and etiology of the Veteran's obstructive sleep apnea.  The record, to include a copy of this Remand, must be made available to the clinician.  The need for examination of the Veteran is left to the discretion of the clinician selected to write the opinion.  After review of the record, the clinician should:
+
+(a.) Provide an opinion as to whether it is at least as likely as not that the Veteran's obstructive sleep apnea had its onset in, or is otherwise related to, her military service, to include her documented in-service headaches and feeling tired after sleeping.  The clinician must address the lay statements provided by the Veteran regarding the onset and progression of her in-service and post-service symptoms, to include her reports of sleep disturbance, difficulty sleeping and staying asleep, and waking up choking and gasping for air.  The clinician must also address the Veteran's in-service TERAs, as conceded in the December 2023 TERA Memorandum and the April 2024 rating decision, and address her total potential exposure, through all applicable service deployments, and the synergistic, combined effect of all her TERAs-to include consideration of her obstructive sleep apnea diagnosis being categorized as "Exposure to toxic waste, occupational."
+
+(b.) Provide an opinion as to whether it is at least as likely as not that the Veteran's obstructive sleep apnea is caused or aggravated by her service-connected acquired psychiatric disorder.  For any aggravation found, the clinician should state, to the best of his or her ability, the baseline symptomatology and the amount-quantified if possible-of aggravation beyond the baseline symptomatology by such aggravation.  In offering such opinion, the clinician must consider and discuss the relationship between the Veteran's insomnia and her obstructive sleep apnea, as well as the December 2023 Application for Disability Compensation, wherein the Veteran-who is a licensed vocational nurse-stated that her obstructive sleep apnea is secondary to her PTSD.  If the clinician relies upon medical literature in supporting his or her opinion, he or she should cite it in full and discuss the applicability of the principles to the Veteran's case.
+
+A rationale for any opinion offered should be provided.
+
+ 
+
+ 
+
+Melanie J. Mann
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Dumas, Rebecca H.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

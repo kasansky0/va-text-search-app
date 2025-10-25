@@ -1,0 +1,159 @@
+Citation Nr: A25032641
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240503-438548
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to an initial disability rating higher than 10 percent for tinnitus is DENIED.
+
+Entitlement to an initial compensable disability rating for bilateral otitis media and eustachian tube dysfunction is DENIED.
+
+Entitlement to an effective date earlier than December 12, 2018, for the grant of service connection for tinnitus is DENIED.
+
+FINDINGS OF FACT
+
+1. The current 10 percent disability rating for tinnitus is the maximum schedular rating available.
+
+2. For the entire rating period, bilateral otitis media and eustachian tube dysfunction has not been manifested by active infection or aural polyp.
+
+3. On March 14, 2013, the Veteran submitted an application for compensation seeking service connection for otitis media, which in a January 2014 rating decision was granted.
+
+4. On October 2, 2023, date of VA opinion, entitlement arose for service connection for tinnitus. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for an initial disability rating higher than 10 percent for tinnitus have not been met.  38 C.F.R. § 4.87, Diagnostic Code 6260.
+
+2. The criteria for an initial compensable disability rating for bilateral otitis media and eustachian tube dysfunction have not been met.  38 C.F.R. § 4.87, Diagnostic Code 6200.
+
+3. The criteria for an effective date earlier than December 12, 2018, for the grant of service connection for tinnitus have not been met.  38 C.F.R. § 3.400.
+
+FACTUAL AND PROCEDURAL HISTORY
+
+The Veteran served on active duty in the United States Army from September 1976 to October 1998.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a November 2023 rating decision and April 2024 Supplemental Statement (SSOC) of a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2023 rating decision and April 2024 SSOC. 38 C.F.R. § 20.301. If evidence was submitted after the RO issued the November 2023 rating decision and April 2024 SSOC, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this Decision. 
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+I
+
+Legal Criteria - Increased Rating
+
+Disability ratings are determined by applying the criteria set forth in the VA's Schedule for Rating Disabilities ("Rating Schedule"), which is based on the average impairment of earning capacity. Individual disabilities are assigned separate diagnostic codes. See 38 U.S.C. § 1155; 38 C.F.R. § 4.1. The basis of disability evaluations is the ability of the body as a whole, or of the psyche, or of a system or organ of the body to function under the ordinary conditions of daily life including employment.  See 38 C.F.R. § 4.10.
+
+If there is a question as to which evaluation to apply to the Veteran's disability, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating.  Otherwise, the lower rating will be assigned.  See 38 C.F.R. § 4.7. When reasonable doubt arises as to the degree of disability, such doubt will be resolved in the Veteran's favor.  See 38 C.F.R. § 4.3.
+
+Pertinent regulations do not require that all cases show all findings specified by the Rating Schedule, but that findings sufficiently characteristic to identify the disease and the resulting disability and coordination of rating with impairment of function. See 38 C.F.R. § 4.21. Therefore, the Board has considered the potential application of various other provisions of the regulations governing VA benefits as well as the entire history of his disabilities in reaching its decision. Schafrath v. Derwinski, 1 Vet. App. 589, 595 (1991).
+
+Tinnitus is evaluated under Diagnostic Code 6260, which was revised effective June 13, 2003, to clarify existing VA practice that only a single 10 percent evaluation is assigned for "recurrent" tinnitus, whether the sound is perceived as being in one ear, both ears, or in the head. 38 C.F.R. § 4.87, Diagnostic Code 6260, Note (2). In Smith v. Nicholson, 451 F.3d 1344 (Fed. Cir. 2006), the Federal Circuit concluded that the Court erred in not deferring to the VA's interpretation of its own regulations, 38 C.F.R. § 4.25 and Diagnostic Code 6260, which limits a veteran to a single 10 percent maximum rating for tinnitus, regardless of whether the tinnitus is unilateral or bilateral.
+
+Otitis media and eustachian tube dysfunction is evaluated under Diagnostic Code 6200, which provides a single 10 percent maximum rating for otitis media during suppuration, or with aural polyps.  
+
+Suppuration is the act of becoming converted into and discharging pus.  See Dorland's Illustrated Medical Dictionary 1805 (32nd ed. 2012).  An aural polyp is a polyp in the ear; common sites include the external canal, mucosa of the middle ear, and Eustachian tube.  Id. at 1492.
+
+A Note instructs to evaluate hearing impairment, and complications such as labyrinthitis, tinnitus, facial nerve paralysis, or bone loss of skull separately.  The Board acknowledges that the Veteran's grant of service connection for tinnitus arose as a symptom associated with service-connected otitis media.  See November 2023 Rating Decision.
+
+Given the nature of the present claims for higher initial evaluations, the Board has considered all evidence of severity since the effective date for the award of service connection. Fenderson v. West, 12 Vet. App. 119 (1999).
+
+Analysis - Tinnitus 
+
+In this case, the Veteran's service-connected tinnitus has been assigned the maximum schedular rating available for the period on appeal under 38 C.F.R. § 4.87, Diagnostic Code 6260. As there is no legal basis upon which to award separate schedular evaluations for each ear or an extraschedular rating, the Veteran's appeal must be denied. Sabonis v. Brown, 6 Vet. App. 426, 430 (1994).
+
+Based on the foregoing, entitlement to an initial disability rating in excess of 10 percent for tinnitus must be denied.
+
+Analysis - Otitis Media 
+
+The Veteran requests a compensable disability rating for service-connected bilateral otitis media and eustachian tube dysfunction. His bilateral otitis media is currently evaluated as noncompensable (0 percent), effective March 14, 2013, under Diagnostic Code 6200. 
+
+The Board finds that throughout the appeal period, the Veteran's bilateral otitis media disability has not been manifested by an active ear infection, ear drainage, or polyps.
+
+The Veteran has been afforded multiple VA ear condition examinations.  A September 2014 VA examination report reflects the Veteran reported suffering ear infections every year starting in the fall until early spring; the Veteran reported severe infection requiring antibiotics since 2009.  Examination of the Veteran's ears during the September 2014 VA examination was normal and the VA examiner assessed the bilateral otitis media was in remission and the Eustachian tube dysfunction was quiescent.
+
+The Veteran underwent another VA examination in December 2018, during which the Veteran reported constantly seeking medical treatment for otitis media. Examination of the Veteran's ears revealed no current diagnosis for otitis media, but the VA examiner noted positive findings for effusion, which is consistent with Eustachian tube dysfunction.
+
+VA treatment records throughout the relevant rating period on appeal do not reflect constant medical treatment for otitis media or Eustachian tube dysfunction as reported by the Veteran during the December 2018 VA examination.  Instead, VA treatment records reflect the Veteran was seen for otitis media in the right ear in October 2010, and prior to that, he was seen for otitis media in the left ear in July 2006 and Eustachian tube dysfunction in October 2006.  
+
+Pursuant to Diagnostic Code 6200 Note, the Board has considered whether service-connected bilateral otitis media has any related hearing impairment or complications that can be rated separately.  The Veteran is already in receipt of a separate disability rating for tinnitus associated with service-connected bilateral otitis media.  See November 2023 Rating Decision.  The evidence does demonstrate any other related complications.
+
+Based on the foregoing, the Board finds that the Veteran did not have any infection or polyp in bilateral ears during the relevant rating period on appeal. Therefore, an initial compensable disability rating under Diagnostic Code 6200 is not warranted.
+
+II
+
+Legal Criteria - Effective Date
+
+Except as otherwise provided, the effective date of an evaluation and award of pension, compensation, or dependency and indemnity compensation based on an initial claim or supplemental claim will be the date of receipt of the claim or the date entitlement arose, whichever is later.  38 C.F.R. § 3.400. 
+
+However, there are exceptions to this rule. Where compensation is awarded pursuant to any Act or administrative issue, the effective date of such award shall be fixed in accordance with the facts found but shall not be earlier than the effective date of the Act or administrative issue, and in no event shall the award be retroactive for more than one year from the date of application therefor or the date of the administrative determination of entitlement, whichever is earlier. 38 U.S.C. § 5110(g).
+
+If the award of compensation is due to a liberalizing change in the law or an administrative issue, the effective date of the award shall be fixed in accordance with the facts but shall not be earlier than the date of the change in the law. 38 U.S.C. § 5110(g); 38 C.F.R. §§ 3.400(p), 3.114(a). Under the effective date rules for liberalizing laws, where a claim is reviewed on the initiative of VA more than one year after the effective date of the law or VA issue, benefits may be authorized for a period of one year prior to the date of administrative determination of entitlement. 38 C.F.R. § 3.114(a)(2), (3).
+
+Prior to March 24, 2015, a claim was "a formal or informal communication in writing requesting a determination of entitlement, or evidencing a belief in entitlement, to a benefit." 38 C.F.R. § 3.1(p). An informal claim is "[a]ny communication or action indicating intent to apply for one or more benefits." 38 C.F.R. § 3.155(a). VA must look to all communications from a claimant that may be interpreted as applications or claims - formal and informal - for benefits and is required to identify and act on informal claims for benefits. Servello v. Derwinski, 3 Vet. App. 196, 198 (1992). 
+
+The essential elements for any claim, whether formal or informal, are: (1) an intent to apply for benefits; (2) an identification of the benefits sought; and (3) a communication in writing. Brokowski v. Shinseki, 23 Vet. App. 79, 84 (2009); MacPhee v. Nicholson, 459 F.3d 1323, 1326-27 (Fed. Cir. 2006) (holding that the plain language of the regulations requires a claimant to have intent to file a claim for VA benefits).
+
+For claims or appeals filed on or after March 24, 2015, a claim for benefits must be submitted on a standardized form. Standard Claims and Appeals Forms, 79 Fed. Reg. 57660, 57686 (Sept. 25, 2014) (eff. Mar. 24, 2015). Claims or appeals pending before VA on that date are to be decided based on the regulations as they existed prior to the amendment. Standard Claims and Appeals Forms, 79 Fed. Reg. 57660, 57686.
+
+With regard to the date of entitlement, the term date entitlement arose is the date when the claimant met the requirements for the benefits sought, on a facts found basis. 38 U.S.C. § 5110(a); McGrath v. Gober, 14 Vet. App. 28, 35 (2000). These facts found include the date the disability first manifested and the date entitlement to benefits was authorized by law and regulation. See generally 38 C.F.R. § 3.400. 
+
+For instance, if a claimant filed a claim for benefits for a disability before he actually had the disability, the effective date for benefits can be no earlier than the date the disability first manifested. Ellington v. Peake, 541 F.3d 1364, 1369-70 (Fed. Cir. 2008). However, the date entitlement arose is not the date that the RO receives the evidence, but the date to which that evidence refers. McGrath, 14 Vet. App. at 35.
+
+The effective date for a secondarily service-connected condition is not necessarily identical to that of the original condition. See Ellington v. Nicholson, 541 F.3d 1364 (Fed. Cir. 2008). The effective date assigned for a secondarily service-connected condition does not have to be the same as the effective date for the underlying condition simply because 38 C.F.R. § 3.310 states that a "secondary condition shall be considered a part of the original condition." See Ross v. Peake, 21 Vet. App. 528 (2008). But the effective date for the secondary condition could arise no earlier than the date on which the appellant applied for benefits for the underlying condition since it precipitated (meaning caused or aggravated) the secondary condition. 38 C.F.R. § 3.310.
+
+The "plain meaning of [38 C.F.R. § 3.310] is and has always been to require VA to afford secondarily service-connected conditions the same treatment (no more or less favorable treatment) as the underlying service-connected conditions for all determinations." Roper v. Nicholson, 20 Vet. App. 173, 181 (2006). 
+
+Building on Roper, the Court of Appeals for the Federal Circuit (Federal Circuit) held that "a requirement that a secondary condition 'be considered a part of [an] original condition' does not, in our view, establish that the original condition and the secondary condition must receive identical effective dates." Ellington v. Peake, 541 F.3d 1364, 1369 (Fed. Cir. 2008). "Indeed, a per se rule requiring identical effective dates for primary and secondary conditions would be illogical, given that secondary conditions may not arise until years after the onset of the original condition." Id. 
+
+The Federal Circuit concluded that "the effective date for secondary conditions is governed by [38 C.F.R. §] 3.400, which establishes the effective date as the 'date of receipt of claim, or [the] date entitlement arose, whichever is later.'" Id. It explained: "[T]his result is consistent with 38 U.S.C. § 5110, the statute which governs the effective date of awards. Section 5110(a) provides generally that '[u]nless specifically provided otherwise in this chapter, the effective date of an award based on an original claim . . . shall be fixed in accordance with the facts found but shall not be earlier than the date of receipt of application therefor.' The statute contains no exception to this rule for a claim." Id. at 1370; see Manzanares v. Shulkin, 863 F.3d 1374 (Fed. Cir. 2017).
+
+In general, decisions of the RO and the Board that are not appealed in the prescribed time period are final. 38 U.S.C. §§ 7104, 7105; 38 C.F.R. §§ 3.104, 20.1100, 20.1103. Once a decision becomes final, it may only be revised by a showing of clear and unmistakable error (CUE). 38 C.F.R. §§ 3.104, 3.105. CUE is a very specific and rare kind of "error." It is the kind of error, of fact or of law, that when called to the attention of later reviewers compels the conclusion, to which reasonable minds could not differ, that the result would have been manifestly different but for the error. See Evans v. McDonald, 27 Vet. App. 180, 185 (2014), aff'd, 642 F. App'x 982 (Fed. Cir. 2016); Damrel v. Brown, 6 Vet. App. 242, 245 (1994); Russell v. Principi, 3 Vet. App. 310, 313-14 (1992).
+
+Procedural History
+
+In a November 2023 rating decision, the RO granted entitlement to service connection for tinnitus as a complication associated with service-connected bilateral otitis media. 
+
+On March 14, 2013, the Veteran submitted a VA21-526b Supplemental Claim seeking service connection for otitis media.  In a January 2014 rating decision, the RO granted service connection for bilateral otitis media, effective March 15, 2013.  In an August 2014 rating decision, the RO found CUE in the January 2014 rating decision, and granted an earlier effective date of March 14, 2013, for the grant of service connection for bilateral otitis media.  
+
+The Veteran timely submitted a May 2014 Notice of Disagreement for the assigned rating for otitis media in the January 2014 rating decision.  In September 2016 a Statement of the Case (SOC) was issued otitis media and the appeal was perfected to the Board through submission of a November 2016 VA Form 9.  An SSOC was issued in December 2017.  In June 2018, the Board remanded the increased rating claim. In June 2021, the Board denied an initial rating for otitis media. 
+
+The Veteran appealed the Board's June 2021 decision to the Court of Appeals for Veterans Claims (Court).  The Board's June 2021 decision was remanded pursuant to a May 2022 Joint Motion for Partial Remand (JMPR).  The parties to the May 2022 JMPR agreed that remand is warranted for the Board to adequately address whether a separate rating for tinnitus as a complication of service-connected otitis media is warranted. 
+
+In a January 2023 decision, the Board remanded the tinnitus claim for a VA opinion.  In a November 2023 rating decision, the RO granted service connection for tinnitus, rated 10 percent, effective December 12, 2018, date of medical evidence showing entitlement arose.  In May 2024, the Veteran submitted a VA Form 10182 Notice of Disagreement, requesting an increased rating and earlier effective date for the grant of service connection for tinnitus, thus, giving rise to the present appeal. 
+
+Analysis - Tinnitus 
+
+The Veteran requests an effective date of March 14, 2013, for the grant of service connection for tinnitus, which is the effective date he was awarded for the grant of service connection for bilateral otitis media the primary disability.
+
+The Board is bound by the law and regulations governing the date of the Veteran's claim.  The relevant regulation provides that an effective date for an award for compensation is the date of receipt of claim or the date entitlement arose, whichever is later.  38 C.F.R. § 3.400.
+
+Here, the Veteran filed a claim for service connection for otitis media, the primary condition, on March 14, 2013, which was granted in a January 2014 rating decision.  The Veteran did not file an application for secondary service connection for tinnitus, nor was there new and material evidence, constructive or otherwise, showing that tinnitus is a complication related to otitis media within a year of the January 2014 rating decision.  In fact, the Veteran has never filed a formal or informal claim, or standardized application seeking service connection for tinnitus.
+
+The issue of tinnitus arose based on a December 12, 2018 VA ear conditions examination, during which the Veteran was diagnosed with bilateral otitis media and reported current symptoms of ear pressure and ringing.  Citing this report, in December 2020, the Veteran's representative requested a separate rating for tinnitus associated with otitis media. 
+
+In an October 2, 2023 VA opinion and addendum, an examiner opined that the Veteran's tinnitus is due to his service-connected bilateral otitis media.  This is the date entitlement arose.
+
+Based on the above, there is no date of application, because the Veteran did not submit any application seeking service connection for tinnitus.  Even if the Board were to construe the evidence in the most favorable light to the Veteran and assign March 14, 2013, as the date of application for the primary disability otitis media as the date of application for tinnitus, the proper effective date is October 2, 2023, the date entitlement arose because this is the later date.  38 C.F.R. § 3.400.
+
+Here, service connection for tinnitus currently has an effective date of December 12, 2018, which is earlier than the proper effective date of October 2, 2023.  Because the current assigned effective date for tinnitus has resulted in a benefit to the Veteran, the Board will leave this finding undisturbed.
+
+As there is no legal basis for assignment of an earlier effective date, and because the evidence is against the claim for an earlier effective date, the Board finds that entitlement to an effective date prior to December 12, 2018, for the award of service connection for tinnitus is not warranted.  38 C.F.R. § 3.400.  As the evidence is against the claim, the benefit-of-the-doubt rule does not apply. 38 U.S.C. § 5107.  The appeal is denied. 
+
+ 
+
+STEVEN V. ADLER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Amanda Baker, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

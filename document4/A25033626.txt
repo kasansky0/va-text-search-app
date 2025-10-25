@@ -1,0 +1,73 @@
+Citation Nr: A25033626
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240813-463723
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA) as secondary to depressive disorder with pain syndrome, anxious distress, adjustment disorder, anxiety and insomnia disorder is granted.
+
+FINDING OF FACT
+
+The Veteran's OSA is caused by his service-connected depressive disorder with pain syndrome, anxious distress, adjustment disorder, anxiety and insomnia disorder.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA as secondary to service-connected depressive disorder with pain syndrome, anxious distress, adjustment disorder, anxiety and insomnia disorder have been met. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from November 1980 to November 2000.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a July 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO). In this decision, the RO determined that new and relevant evidence had been received and adjudicated the claim for service connection for OSA on the merits. The Board is bound by this favorable finding. 38 C.F.R. § 3.104(c).
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the July 2024 agency of original jurisdiction (AOJ) decision. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+The Board interprets the Veteran's statements as reflecting an intent to have this matter reviewed in an expeditious manner, which the Board finds to be an implicit waiver of the Veteran's right to change Board dockets under Williams v. McDonough, 37?Vet. App.?305 (2024).
+
+Entitlement to service connection for OSA as secondary to depressive disorder with pain syndrome, anxious distress, adjustment disorder, anxiety and insomnia disorder.
+
+The Board finds that service connection for the Veteran's OSA as secondary to depressive disorder with pain syndrome, anxious distress, adjustment disorder, anxiety and insomnia disorder is established.
+
+Service connection generally will be awarded when a veteran has a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a). Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+Service connection may also be established on a secondary basis for a disability which is proximately due to or the result of a service-connected disease or injury; or, for any increase in the severity of a nonservice-connected disease or injury that is proximately due to or the result of a service-connected disease or injury, and not due to the natural progression of the nonservice-connected disease. See 38 C.F.R. § 3.310(a)-(b); Allen v. Brown, 7 Vet. App. 439 (1995). To prevail under a theory of secondary service connection, there must be: (1) evidence of a current disorder; (2) evidence of a service-connected disability; and (3) medical evidence establishing a connection between the service-connected disability and the current disorder. See id.
+
+The determination as to whether these elements are met is based on an analysis of all evidence of record and an evaluation of its credibility and probative value. See Jones v. Principi, 16 Vet. App. 219, 225 (2002). The Board is required to consider all pertinent medical and lay evidence when evaluating a claim for disability benefits. 38 U.S.C. § 1154(a); see also Washington v. Nicholson, 19 Vet. App. 362, 367-68 (2005) (holding that the Board must assess the credibility of and weight to be given to the evidence).
+
+Competent lay evidence is any kind of evidence that does not require that the proponent have specialized education, training, or experience. 38 C.F.R. § 3.159(a)(2). Lay evidence is competent if it is provided by a person who has knowledge of facts or circumstances and conveys matters that can be observed and described by a lay person. See Layno v. Brown, 6 Vet. App. 465, 469-71 (1994).
+
+Competent medical evidence is necessary where the determinative question is one that requires medical knowledge. See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007). Competent medical evidence is provided by a person who is qualified through education, training, or experience to offer medical diagnoses, statements, or opinions. See Cox v. Nicholson, 20 Vet. App. 563, 569 (2007); 38 C.F.R. § 3.159(a)(1). It may also include sound medical principles found in medical treatises and statements contained in authoritative writings such as medical and scientific articles and research reports or analyses. 38 C.F.R. § 3.159(a)(1). 
+
+Where there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102. However, when the evidence persuasively favors one side or the other, the evidence is not in approximate balance and the benefit-of-the-doubt rule does not apply. See Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).
+
+Here, the Veteran seeks service connection for OSA, including as secondary to various service-connected disabilities, to include depressive disorder with pain syndrome, anxious distress, adjustment disorder, anxiety and insomnia disorder.
+
+In the July 2024 decision on appeal, the AOJ made favorable findings including that the Veteran has been diagnosed with the disability of OSA; and that the claimed primary disabilities of depressive disorder with pain syndrome, anxious distress[,] adjustment disorder, anxiety and insomnia disorder, limitation of extension status post patella tendon repair, degenerative joint disease, left knee, tinnitus, limitation of flexion residuals status post patella tendon repair, degenerative joint disease, left knee, scar, left knee, and bilateral hearing loss are service-connected. These findings are binding on the Board. 38 C.F.R. § 3.104(c). Therefore, the first two elements to establish secondary service connection are satisfied. 
+
+The remaining question is whether the evidence of record establishes that the Veteran's current OSA was caused by or aggravated by a service-connected disability. The Board concludes that the evidence establishes that the Veteran's OSA is caused by his service-connected depressive disorder with pain syndrome, anxious distress, adjustment disorder, anxiety and insomnia disorder. 
+
+The Veteran was afforded Sleep Apnea DBQs and Medical Opinion DBQs in April 2023 and March 2024. Of these, however, only the March 2024 Medical Opinion DBQ addressed the issue of secondary service connection. 
+
+The March 2024 VA examiner opined that the Veteran's OSA was less likely than not proximately due to or the result of his service-connected conditions. Regarding a possible connection between the Veteran's OSA and his service-connected depressive disorder disability, the examiner noted various medical studies, including research findings indicating a lack of direct causation. However, the examiner stated, "Review of the literature is inconsistent regarding the association between depression, anxiety and OSA." The examiner also noted studies indicating "that depression slightly increases the risk of sleep apnea" and that OSA and OSA symptoms "are associated with probable major depression, regardless of factors like weight, age, sex, or race[.]" Despite noting these more favorable research findings, the examiner stated that there is no evidence to support that the Veteran's depressive disorder disability was a substantial factor in bringing about his OSA. The examiner indicated the Veteran's OSA is more likely than not caused by his Mallampati score as noted in August 2012, citing to research showing the Mallampati score to be an independent risk factor in predicting OSA. The VA examiner did not address whether the Veteran's OSA is at least as likely as not aggravated by his service-connected depressive disorder disability. See March 2024 Medical Opinion DBQ. 
+
+The evidence in favor of the claim includes a February 2024 private medical opinion indicating that it is at least as likely as not that the Veteran's OSA is the direct result of his service-connected depressive disorder with pain syndrome, anxious distress, adjustment disorder, anxiety and insomnia. See February 2024 Private Medical Opinion of Dr. M.S. As a rationale, the private practitioner noted the Veteran's current diagnoses and discussed medical literature, including research indicating a "causal relationship between anxiety and OSA." The private practitioner also pointed to a study indicating that factors including prolonged sleep deprivation contribute to OSA as well as anxiety and further noted that "the chronic stress associated with anxiety has been shown to increase the likelihood of developing [OSA]." In addition, the private practitioner noted research finding an overlap between pain syndrome and disturbed sleep and wake cycles. See id. 
+
+The Board finds that the March 2024 Medical Opinion DBQ was inadequate in that the medical opinion as to causation did not provide a rationale that was specific to the Veteran's particular manifestations of depressive disorder with pain syndrome, anxious distress, adjustment disorder, anxiety and insomnia disorder; nor did it adequately explain why the findings suggesting a possible positive association between OSA, depression, and/or anxiety were inapplicable in this case. See Bailey v. O'Rourke, 30 Vet. App. 54, 60 (2018) (holding that a VA medical opinion was inadequate because the rationale was based solely on general articles and did not discuss any facts pertaining to the veteran's condition or individual circumstances).
+
+The Board finds that the February 2024 private medical opinion applied a valid medical analysis to significant facts of this case, including by addressing the Veteran's service-connected disability manifestations such as anxiety, insomnia, and pain syndrome. The Board finds this private opinion to be persuasive, particularly in comparison with the March 2024 Medical Opinion DBQ. See e.g., Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (stating, "The Board must be able to conclude that a medical expert has applied valid medical analysis to the significant facts of the particular case in order to reach the conclusion submitted in the medical opinion"); D'Aries v. Peake, 22 Vet. App. 97, 107 (2008) (stating, "The Board is permitted to favor one medical opinion over another provided it gives an adequate statement of its reasons and bases for doing so").
+
+Accordingly, the Board finds the probative evidence weighs in favor of finding that the Veteran's OSA is caused by his service-connected depressive disorder with pain syndrome, anxious distress, adjustment disorder, anxiety and insomnia disorder. Thus, the third element to establish secondary service connection is satisfied. For these reasons, the Veteran's claim is granted.
+
+ 
+
+P.M. DILORENZO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Boldt, Allison W.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

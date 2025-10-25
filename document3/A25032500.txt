@@ -1,0 +1,75 @@
+Citation Nr: A25032500
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240620-452768
+DATE: April 8, 2025
+
+ORDER
+
+The 50 percent disability rating for a headache disability, characterized as tension headaches is restored, effective July 1, 2024, and the appeal is granted.
+
+FINDING OF FACT
+
+The Veteran's service-connected headache disability did not show actual improvement under the normal circumstances of life during the pertinent appeal period.
+
+CONCLUSION OF LAW
+
+The reduction of the 50 percent rating for service-connected headache disability was improper and the rating is restored.  38 U.S.C. §§ 1155, 5103, 5103(a), 5112(b)(6); 38 C.F.R. §§ 3.103(b), 3.105(e), 4.1, 4.2, 4.7, 4.115(a), 4.115(b), Diagnostic Code (DC) 8100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from August 2001 to April 2002, January 2003 to June 2003, July 2003 to March 2004, and June 2005 to January 2015.
+
+The rating decision on appeal was issued in April 2024 issued by a Department of Veterans Affairs (VA) Regional Office (RO), and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  In her June 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal.  38?C.F.R. § 20.301.
+
+The Veteran filed a claim for increased ratings in September 2021. 
+
+In December 2021, the Veteran's evaluation for a headache disability was deferred to obtain a VA opinion addendum.  Then, later in December 2021, the AOJ provided a rating decision that proposed to decrease the Veteran's evaluation from 50 percent to noncompensable for her service-connected headache disability.
+
+Next, in a June 2022 rating decision, the Veteran's disability evaluation for her headache disorder was reduced to non-compensable. 
+
+Subsequently, in a September 2022 rating decision the Veteran's rating restored noting that the reduction was not completed with the correct due process noting a clear and unmistakable error occurred. 
+
+Then, in October 2022 the Veteran's 50 percent rating for his headache disorder was continued. Lastly, in an April 2024 rating decision, the Veteran's rating was reduced to noncompensable effective July 1, 2024. 
+
+1. Entitlement to a reduced disability rating for a headache disability
+
+The Veteran contends that the AOJ erred when it reduced the Veteran's evaluation for a headache disability from 50 percent to noncompensable rating. For the reasons that follow, the Board finds that the rating reduction was improper and the Veteran's 30 percent rating for hypertension must be restored.
+
+Notwithstanding the procedural steps that must be taken, a rating reduction is not proper unless the veteran's disability shows actual improvement in his or her ability to function under the ordinary conditions of life and work.  See Faust v. West, 13 Vet. App. 342, 349 (2000) (noting that VA must review the entire history of the veteran's disability, ascertain whether the evidence reflects an actual change in the disability, and ascertain whether the examination reports reflecting such change are based upon thorough examinations) (citing Brown v. Brown, 5 Vet. App. 413, 421 (1993)).
+
+The provisions of 38 C.F.R. § 3.105(e) allow for the reduction in evaluation of a service-connected disability when warranted by the evidence, but only after following certain procedural guidelines.  The RO must issue a rating action proposing the reduction and setting forth all material facts and reasons for the reduction.  The Veteran must then be given 60 days to submit additional evidence and to request a predetermination hearing.  Then a rating action will be taken to effectuate the reduction.  38 C.F.R. § 3.105 (e).  The effective date of the reduction will be the last day of the month in which a 60-day period from the date of notice to the Veteran of the final action expires.  38 C.F.R. § 3.105 (e), (i)(2)(i).
+
+The Veteran was notified of the RO's intent to reduce her rating for her service-connected headache disorder by letters dated in December 2021 and September 2022.  Thereafter, she was afforded an opportunity to have a pre-determination hearing in March 2024 and given at least 60 days in which to present additional evidence.  Final action to reduce the rating for her disability was taken pursuant to 38 C.F.R. § 3.105 (e) in an April 2024 rating decision.  The rating reduction was made effective beginning July 1, 2024.
+
+Consequently, the Board finds that the RO did not violate any of the procedures required under 38 C.F.R. § 3.105, as the Veteran was notified of her rights, given an opportunity for a hearing and time to respond, and the rating reduction was made effective no sooner than permitted ("the last day of the month in which a 60-day period from the date of notice to the beneficiary of the final action expires").  38 C.F.R. § 3.105 (e).
+
+Therefore, having decided that the process required to reduce the Veteran's rating was correctly followed by the RO, the next question to be addressed is whether, given the available evidence, a reduction to noncompensable was proper.
+
+The Veteran's headache disability is rated under DC 8100. Under that Diagnostic Code, a 50 percent rating is assigned for very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability. A 30 percent rating is assigned for characteristic prostrating attacks occurring on an average once a month over last several months. A 10 percent rating is assigned where there are characteristic prostrating attacks averaging one in two months over the last several months. Where there are less frequent attacks, a non-compensable rating is assigned. 38 C.F.R. § 4.124a, DC 8100.
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under DC 8100 to describe the nature and severity of migraines, but it is not defined in the regulation. Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness." Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+VA regulations also do not define "economic inadaptability." In Pierce v. Principi, 18 Vet. App. 440, 445 (2004), the Court examined the term "productive of severe economic inadaptability" in the criteria for a 50 percent rating under Diagnostic Code 8100 and noted that "[n]owhere in the DC is 'inadaptability' defined, nor can a definition be found elsewhere in title 38 of the [C.F.R.]." Id. at 446. The Court explained that, "nothing in Diagnostic Code 8100 requires that the claimant be completely unable to work in order to qualify for a 50 percent rating" because "[i]f "economic inadaptability" were read to import unemployability," a claimant who "met the economic-inadaptability criterion, would then be eligible for a rating of total disability based on individual unemployability [(TDIU)]... rather than just a 50 percent rating." Id. The Court therefore rejected the notion that "severe economic inadaptability" was equivalent to an inability to secure or follow a substantially gainful occupation, the unemployability standard for a TDIU. Id. In addition, the Court acknowledged VA's concession that the phrase "productive of severe economic inadaptability" in Diagnostic Code 8100 should be construed as either "producing" or "capable of producing" severe economic inadaptability. Id. at 445.
+
+In rating headaches or migraines under DC 8100, the Board may not consider the ameliorative effects of medication. See Jones v. Shinseki, 26 Vet. App. 56, 63 (2012).
+
+As noted in the applicable rating decision, the Veteran's 50 percent evaluation was based primarily upon a February 2021 VA examination report.  In that examination report, the Veteran reported worsening pain in her head and neck with the frequency and severity of the headaches increasing. She stated that she gets severe headaches a few times per week requiring her to lay in a dark room. It was noted that she experiences constant pulsating and throbbing head pain. It was characterized as frontal headaches. Further, it was noted that the pain worsens with physical activity. The Veteran also experiences nausea, sensitivity to light and sound, and hazy vision. She reported continuous headaches with severe episodes lasting hours up to a full day. It was noted that the Veteran has prostrating and prolonged attacks of migraines and non-migraine pain productive of severe economic inadaptability.
+
+Next, the Veteran underwent a VA examination in November 2021, it was noted that the Veteran's condition stayed the same noting that the headaches start at the back of her neck. It was noted that the Veteran experienced headache pain with pain localized to one side of the head. She also experienced sensitivity to light and sound. The duration of her typical head pain was less than one day. The examiner found that the Veteran did not experience prostrating attacks of headache pain.  This is what the proposal for reduction was based upon. 
+
+Then, the Veteran had a predetermination hearing in March 2024 where she testified that she has not experienced any improvement in her symptoms related to her headache disability.  Thus, the AOJ scheduled the Veteran for an examination in April 2024.  This was not an in-person examination as it was based upon a review of the records.  In April 2024 the examiner noted that the pain lasts for less than a day and is on the right side. He stated that the Veteran did not experience prostrating attacks of headache pain.
+
+Upon consideration of the foregoing evidence, and a comparison of the demonstrated symptomatology at the time of the assignment of the Veteran's pre-reduction 50 percent disability rating versus the demonstrated symptomatology since that time, the Board concludes that the evidence does not show actual improvement in the Veteran's ability to function under the ordinary conditions of life and work.  See Faust, supra.  Rather, the medical evidence continues to support the 50 percent evaluation.  In arriving at this conclusion, the Board finds that the Veteran's February 2021 VA examination is most reliable.  Here, the November 2021 VA examiner stated that the Veteran's headache disability symptomology stayed the same not that it had improved but described a much less severe headache impairment.  Then, the April 2024 VA examination was not completed via an in person or virtual examination.  Thus, the Board will rely on the February 2021 VA examination.  Thus, no actual improvement has been shown. 
+
+Therefore, the Board finds that the reduction of the 50 percent disability rating was improper and that the restoration of the 50 percent rating for her service-connected headache disorder is warranted, effective July 1, 2024.  See 38 C.F.R. §§ 4.2, 4.10; Brown, 5 Vet. App. at 421. The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.
+
+ 
+
+B.T. KNOPE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Billinger, Associate Counsel

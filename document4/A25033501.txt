@@ -1,0 +1,85 @@
+Citation Nr: A25033501
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 200604-91375
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to an evaluation in excess of 30 percent disabling for the period prior to May 12, 2020, to exclude the period of temporary total evaluation, and in excess of 70 percent disabling for the period thereafter, for service-connected posttraumatic stress disorder, to include depression and anxiety, (PTSD) is remanded.
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) for the period prior to March 1, 2022, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from June 1970 to June 1973.
+
+In a November 2017 rating decision, the issue of entitlement to service connection for PTSD was granted, with a 30 percent disability evaluation awarded, effective March 28, 2008.  The November 2017 rating decision was issued under the legacy system.  In December 2017, the Veteran submitted a timely notice of disagreement (NOD), disagreeing with the evaluation.  In May 2020, the agency of original jurisdiction (AOJ) issued a statement of the case (SOC).  On the same day as the SOC, a rating decision was issued increasing the Veteran's disability evaluation to 70 percent disabling, effective May 12, 2020.
+
+However, the issue on appeal was opted into the modernized review system, also known as the Appeals Modernization Act (AMA), with the receipt of a June 2020 VA Form 10182, Decision Review Request: Board Appeal (NOD), which elected the Hearing docket.  On January 16, 2024, the hearing request was withdrawn.
+
+The May 2020 SOC is the decision on appeal.  Accordingly, the Board may only consider the evidence of record at the time of the May 2020 SOC, as well as any evidence submitted by the Veteran or the Veteran's representative within 90 days following receipt of the withdrawal of the hearing request.  38 C.F.R. § 20.302(b).  If evidence was submitted either (1) during the period after the AOJ issued the May SOC and prior to receipt of the withdrawal, or (2) more than 90 days following receipt of the withdrawal, the Board did not consider it in its decision.  38C.F.R. §§ 20.300, 20.302(b), 20.801.  However, because the Board is remanding the issues on appeal, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those issues.  38 C.F.R. § 3.103(c)(2)(ii).
+
+In September 2017, correspondence was received from the Veteran's representative "requesting that his appeal be expedited" and indicating that the Veteran is homeless.  Third Party Correspondence, September 2017.  Accordingly, the Board finds that the appeal shall be advanced on the docket.  38 U.S.C. § 7107(b); 38 C.F.R. § 20.800(c).
+
+Regarding the issues on appeal, the Board notes the following.  First, the issue of entitlement to an increased evaluation for service-connected PTSD has been recharacterized to exclude the period of temporary total evaluation. 
+
+Second, the VA Form 10182 requests "an evaluation in excess of 30 percent disabling with an effective date prior to August 1, 2019".  VA Form 10182, June 2020.  The period prior to August 1, 2019, is on appeal, and includes a 30 percent evaluation, as well as a temporary total evaluation.  Accordingly, the Board interprets the statements in the June 2020 VA Form 10182 to be a request for an increased evaluation rating for the entire period on appeal.  To the extent that the Veteran is entitled to an earlier effective date for "an evaluation in excess of 30 percent disabling", this is subsumed in the increased rating claim.  VA Form 10182, June 2020.  As such, the Board has characterized the issue as one of an increased rating as shown on the issues listed above.  The Board's interpretation is further supported by statements contained in the representative's February 2024 memorandum, which states: "However, the most important contentions are: (1) that [the Veteran] is entitled to a higher initial rating of 70% for PTSD effective March 28, 2009, and (2) pursuant to Rice v. Shinseki, et. al. that [the Veteran] is entitled to a TDIU effective March 28, 2009."  Third Party Correspondence, February 2024.
+
+Third, the issue of entitlement to a TDIU for the period prior to March 1, 2022, has been added to the issues on appeal pursuant to Rice v. Shinseki, 22 Vet. App. 447, 454 (2009).  The Veteran was granted entitlement to a TDIU, effective March 1, 2022.  See Rating Decision, June 2022.  The AOJ found that the Veteran's service-connected PTSD "is the [sic] solely responsible for inability to maintain substantially gainful employment."  Rating Decision, June 2022.  Accordingly, the Board finds that the issue of entitlement to a TDIU for the period beginning March 1, 2022, is no longer on appeal.
+
+1. Entitlement to an increased evaluation for service-connected PTSD.
+
+2. Entitlement to a TDIU.
+
+The Board finds that remand is needed in order to address the following duty to assist errors.  First, the Board finds that there may be outstanding relevant treatment records to obtain and to associate with the claim file.  For example, a July 2014 VA examination report for posttraumatic stress disorder identifies two facilities where the Veteran was hospitalized.  In addition, records obtained from the Social Security Administration (SSA) appear to contain evidence of private treatment.  Accordingly, upon remand, the Board asks that any outstanding treatment records be identified and associated with the claim file.
+
+In addition, the Board finds that a new medical opinion is needed in order to adequately evaluate the Veteran's symptoms, in particular for the period prior to May 12, 2020.  The July 2014 VA examination report for posttraumatic stress disorder identified two diagnoses: major depressive disorder (MDD), moderate, with anxious distress, as well as alcohol use disorder.  The report indicates that it is "possible to differentiate what symptom(s) is/are attributable to each diagnosis".  VA Examination Report, July 2014.  However, the report then states that "it is not possible to differentiate what portion of the indicated level of occupational and social impairment is attributable to each diagnosis".  VA Examination Report, July 2014 (emphasis added).  
+
+Similarly, the Board acknowledges a March 2015 private medical opinion, which notes diagnoses of posttraumatic stress disorder, MDD, with psychotic features, and alcohol use disorder.  This opinion states, inter alia: "Finally, I believe he overuses alcohol to relieve both PTSD and Depressive Symptoms."  Correspondence, April 2015.
+
+The Board does not see that the May 2020 VA examination report for posttraumatic stress disorder lists alcohol use disorder under "Current Diagnoses"; however, this report states: 
+
+He completed treatment for alcohol in the remote past.  According to records, he has been treated once for alcohol abuse.
+
+He denies abusing alcohol currently.  He reports he only drinks when watches sporting events and on other rare occasions.  He added "when I get highly depressed I'll drink. . . and just to calm the anxiety."  VA Examination Report, May 2020 (some capitalization omitted).
+
+Upon remand, the Board seeks clarification regarding whether the Veteran's symptoms for his service-connected psychiatric disability may be differentiated from an alcohol use disorder.
+
+The Board also seeks clarification regarding the Veteran's sleep disturbance symptoms.  The Veteran is service connected for obstructive sleep disorder.  However, both the July 2014 and May 2020 VA examination reports for post traumatic stress disorder list "Chronic sleep impairment" as one of the Veteran's symptoms.  VA Examination Report, July 2014; and VA Examination Report, May 2020.  The May 2020 VA examination report for post traumatic stress disorder indicates that the Veteran "estimates sleeping 2-2 1/2 hours/night.  Reports having sleep apnea since approx 2002."  VA Examination Report, May 2020.  Accordingly, upon remand, the Board asks that the examiner clarify, if possible, whether the Veteran's sleep disturbance symptoms may be distinguished from the symptoms associated with his service-connected obstructive sleep disorder.
+
+The Board acknowledges that a February 2024 memorandum from the Veteran's representative includes references to an "included . . . sworn statement from" the Veteran, which presumably contains "reports [of] regular suicidal ideations since March 2008", as well as an "attached . . . competent expert opinion" addressing the Veteran's employability.  Third Party Correspondence, February 2024.  However, the Board does not see either referenced document included with the representative's correspondence.
+
+Finally, regarding the claimed TDIU, the Board asks that the Veteran be provided with appropriate notice of how to substantiate a claim for entitlement to TDIU.  Additionally, the Board asks that the Veteran be provided with a VA Form 21-8940, or other appropriate VA Form(s), and asked to supply the requisite information.
+
+The matters are REMANDED for the following action:
+
+1. After securing any necessary consent forms from the Veteran, obtain any outstanding relevant treatment records, to include any private and/or VA treatment records, to include records contained in repositories accessible through VA, pertaining to the issues on appeal.
+
+In addition, provide the Veteran with appropriate notice of how to substantiate a claim for entitlement to TDIU.  Additionally, provide the Veteran with a VA Form 21-8940, or other appropriate VA Form(s), and request that the Veteran supply the requisite information.
+
+Obtain all necessary consent.  All efforts should be documented in the claim file.  If any records could not be obtained, this should be noted in the claim file.
+
+2. Upon completion of the above, schedule the Veteran for a medical examination in order to address the severity of the service-connected PTSD disability, beginning March 28, 2008.
+
+The examiner is asked to address whether the Veteran has additional psychiatric disabilities and, if so, whether the symptoms may be distinguished.
+
+The Board also seeks clarification regarding the Veteran's sleep disturbance symptoms.  The Veteran is service connected for obstructive sleep disorder.  The Board asks that the examiner clarify, if possible, whether the Veteran's sleep disturbance symptoms may be distinguished from the symptoms associated with his service-connected obstructive sleep disorder.
+
+In addition, the examiner is asked to identify each of the Veteran's service-connected disabilities and to address the impact, if any, of each disability, both individually and in conjunction with other service-connected disabilities, on the Veteran's employability.
+
+?
+
+Obtain all necessary consent.  The examiner should be given access to the claim file.  The examiner should state that a review of the claim file was completed.  The examiner must provide a comprehensive report including complete rationales for all opinions and conclusions reached, citing the objective medical findings leading to the conclusions.  A detailed rationale is requested for all opinions provided.
+
+ 
+
+ 
+
+E. I. VELEZ
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

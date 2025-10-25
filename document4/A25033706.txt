@@ -1,0 +1,73 @@
+Citation Nr: A25033706
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240828-468543
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disorder (claimed as generalized anxiety disorder/depression) is denied.
+
+FINDING OF FACT
+
+The Veteran's acquired psychiatric disorder, diagnosed as generalized anxiety disorder and major depressive disorder, did not manifest during a period of qualifying service and is not otherwise related to a period of qualifying service.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for an acquired psychiatric disorder have not been met. 38 U.S.C. §§ 101, 1110; 38 C.F.R. §§ 3.6, 3.102, 3.159, 3.303.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the Alabama Army National Guard from 2013 to 2019, which included periods of service from April 2013 to November 2013 (initial active duty for training (ACDUTRA)) and from July 2015 to July 2016 (ordered to active duty in support of Operation Enduring Freedom).
+
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a February 2024 rating decision.
+
+The Veteran filed a VA Form 10182 in August 2024 and elected the direct review docket.  Therefore, the Board may only consider the evidence of record at the time of the February 2024 agency of original jurisdiction (AOJ) decision.  If evidence was submitted during the time period after the AOJ issued that decision, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.  
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider for the issue decided herein, he may file a supplemental claim (VA Form 20-0995) and submit or identify this evidence.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  38 C.F.R. § 3.2501.  Specific instructions for filing a supplemental claim are included with this decision.
+
+Law and Analysis
+
+The Veteran has not raised any issues with the pre-decisional duty to notify or duty to assist.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015) (holding that "the Board's obligation to read filings in a liberal manner does not require the Board . . . to search the record and address procedural arguments when the veteran fails to raise them before the Board."); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016) (applying Scott to a duty to assist argument).
+
+Service connection may be established for disability resulting from personal injury suffered or disease contracted in line of duty in the active military, naval, air, or space service.  38 U.S.C. §§ 1110, 1131.  That an injury or disease occurred in service is not enough; there must be chronic disability resulting from that injury or disease.  Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303.
+
+A veteran is a person who served in the active military, naval, air, or space service and who was discharged or released under conditions other than dishonorable.  38 U.S.C. § 101(2); 38 C.F.R. § 3.1(d).  The term "active military, naval, air, or space service" includes active duty, any period of ACDUTRA during which the individual concerned was disabled or died from a disease or injury incurred or aggravated in line of duty, and any period of inactive duty training (INACDUTRA) during which the individual concerned was disabled or died from an injury incurred or aggravated in line of duty or from an acute myocardial infarction, a cardiac arrest, or a cerebrovascular accident which occurred during such training.  38 U.S.C. § 101(24); 38 C.F.R. §§ 3.6(a)-(d).  To have basic eligibility for VA compensation benefits based on a period of duty as a member of a state National Guard, the claimant must have been ordered into Federal service by the President of the United States under 10 U.S.C. § 12401 or must have performed "full-time duty" under the provisions of 32 U.S.C. §§ 316, 502, 503, 504, or 505.  Allen v. Nicholson, 21 Vet. App. 54, 58 (2007) (internal citations omitted).  The fact that a claimant has established veteran status for other periods of service does not obviate the need to establish veteran status for the period of ACDUTRA or INACDUTRA on which the claim is based. Mercado-Martinez v. West, 11 Vet. App. 415, 419 (1998).
+
+Because the Veteran has not been shown to have a psychosis, the disorder at issue is not considered a chronic disease for VA compensation purposes.  As such, the provisions of 38 C.F.R. § 3.303(b) for chronic diseases are not for application in this case where applicable.  38 C.F.R. §§ 3.303(b), 3.309, 3.384; Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013), Smith v. Shinseki, 24 Vet. App. 40 (2010), and Hill v. McDonald, 28 Vet. App. 243 (2016).
+
+A mental disorder diagnosis must conform to the Fourth Edition of the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM-IV), or, for claims received by or pending before the AOJ on or after August 4, 2014, the DSM-5 (Fifth Edition).  See 38 C.F.R. §§ 4.125, 4.130; 79 Fed. Reg. 45093 (Aug. 4, 2014) and 80 Fed. Reg. 14,308 (March 19, 2015) (adopting interim final rule as final).
+
+Except as otherwise provided by law, a claimant has the responsibility to present and support a claim for benefits. VA shall consider all information and lay and medical evidence of record in a case and when there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (benefit-of-the-doubt rule not for application when evidence persuasively favors one side or the other).
+
+In considering the evidence of record under the laws and regulations as set forth above, the Board finds that the Veteran is not entitled to service connection for an acquired psychiatric disorder.
+
+The Veteran has contended that he developed his currently diagnosed generalized anxiety disorder and depression toward the later years of his military career and that the disorder has gradually worsened over the years. See August 2023 original compensation claim.  
+
+The AOJ made a favorable finding that the Veteran has a current diagnosis of generalized anxiety disorder and major depressive disorder that is binding on the Board.  38 U.S.C. § 5104(b)(4), 5104A; 38 C.F.R. § 20.801(a).  The record also supports that determination.  See, e.g., September 2023 private treatment record (both disorders in diagnosis); December 2023 VA examination report (depressed mood part of generalized anxiety disorder diagnosis).
+
+Nevertheless, the Board finds that the Veteran's acquired psychiatric disorder did not manifest during a period of qualifying active service.  The Veteran's service treatment records do not document any complaints, treatment, or diagnosis of a psychiatric disorder, including during or after a period of qualifying service.  He was found to have no psychiatric abnormalities on examinations, and he denied a history of numerous relevant symptoms at those times. See, e.g., February 2014 Army National Guard periodic health assessment and functional capacity certificate form, July 2015 pre-deployment health assessment, June 2016 post-deployment health assessment, June 2016 active duty separation examination and report of medical history, and September 2016 post-deployment health re-assessments.
+
+In addition to the lack of evidence showing that an acquired psychiatric disorder manifested during a period of qualifying service or within close proximity thereto, the weight of the evidence of record does not relate the current disorder to the Veteran's military service.
+
+The December 2023 VA examiner did not address the question of etiology in that report, which appears consistent with the original examination request; however, the Veteran has not identified any injury, disease, or event during a qualifying period of service to which the current disorder could be related.  See also Coburn v. Nicholson, 19 Vet. App. 427, 431 (2006) (the absence of any one element will result in denial of service connection).  As previously noted, he provided a non-specific indication in his claim that his mental health symptomatology started while he was in the National Guard, but he did not prove any further information during the course of his claim, including at the VA examination.  Indeed, the Veteran has not stated that the symptomatology began during a period of active service as opposed to any other time while he was in the National Guard.  The examination report shows that the Veteran did not receive mental health services while in the military and that he did not have any relevant military history based on the current examination and review of available medical records.  The examination report further indicates that the Veteran reported current symptomatology without mention of any potentially relevant in-service circumstances, such as his deployment. See also, e.g., June 2016 post-deployment health assessment (examiner noted that, per review of available medical records and discussion with service member, negative mental health issues identified) and September 2016 post-deployment health re-assessments (Veteran denied various potential circumstances during deployment).  
+
+Moreover, the post-service treatment records identified by the Veteran indicate that his symptomatology is associated with current circumstances and do not mention any events or circumstances during his military service.  See, e.g., historical and current private treatment records from January 2023 (fairly close in time to claim, reported panic attack last May), June 2023 (subjective report notation that "all this kicked off after wife's botched sx [surgery]" with a lot of related frustration), and September 2023 (current symptoms).  
+
+For these reasons, the Board finds that any further development related to an etiology opinion is not necessary at this time. 38 C.F.R. § 3.159 (c)(4)(i); cf. Duenas v. Principi, 18 Vet. App. 512, 517 (2004), citing Paralyzed Veterans of Am. v. Sec'y of Veterans Affairs, 345 F.3d 1334, 1355-57 (Fed. Cir. 2003) (noting that a medical examination conducted in connection with claim development could not aid in substantiating a claim when the record does not already contain evidence of an in-service event, injury, or disease); Waters v. Shinseki, 601 F.3d 1274 (Fed. Cir. 2010).
+
+Based on the foregoing, the Board concludes that the evidence persuasively weighs against the claim.  Therefore, the benefit-of-the-doubt rule does not apply, and the appeal is denied.
+
+ 
+
+ 
+
+J.W. ZISSIMOS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Postek, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided.  This decision is not precedential and does not establish VA policies or interpretations of general applicability.  38 C.F.R. § 20.1303.

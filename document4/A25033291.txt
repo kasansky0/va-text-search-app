@@ -1,0 +1,105 @@
+Citation Nr: A25033291
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240324-428267
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for tinnitus is granted.
+
+REMANDED
+
+Entitlement to an initial compensable disability rating for contact dermatitis is remanded.
+
+INTRODUCTION
+
+The Veteran served on active duty in the U.S. Army from June 2020 to December 2020.
+
+In November 2023, the Regional Office (RO) issued a rating decision which addressed the above-noted issues.  Thereafter, in March 2024, the Veteran submitted a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), wherein she sought to appeal the claims in the Appeals Modernization Act (AMA) System.  She selected the Direct Review option; therefore, the Board may only consider the evidence of record at the time the RO issued the November 2023 rating decision.  38 C.F.R. § 20.301.
+
+However, because the Board is remanding the above-referenced dermatitis claim, any evidence the Board could not consider will be considered by the RO in the readjudication of that claim.  38 C.F.R. § 3.103 (c)(2)(ii).
+
+FINDING OF FACT
+
+The Veteran's tinnitus is etiologically related to her active service.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for tinnitus have been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+Duties to Notify and Assist
+
+VA has a duty to notify and assist veterans in substantiating a claim for VA benefits.  38 U.S.C. §§ 5100, 5102, 5103, 5103A, 5107, 5126; 38 C.F.R. §§ 3.102, 3.159, 3.326(a).  Because the Board is granting the Veteran's service connection claim for tinnitus, any error committed with respect to this claim is harmless.
+
+Legal Criteria
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303.
+
+Service connection may be granted for any disease initially diagnosed after service, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303 (d).
+
+Burden of Proof
+
+Except as otherwise provided by law, a claimant has the responsibility to present and support a claim for benefits under laws administered by the Secretary.  The Secretary shall consider all information and lay and medical evidence of record in a case before the Secretary with respect to benefits under laws administered by the Secretary.  When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).
+
+Factual Background and Analysis
+
+The Veteran seeks service connection for tinnitus, which she contends originated in service.
+
+The medical evidence confirms the Veteran currently has tinnitus.  The central issue that must be resolved at this time is whether the Veteran's current disability originated during service or is otherwise related to service.
+
+Initially, the Board notes the Veteran's service treatment records (STRs) show no evidence of ear trouble during her May 2019 enlistment examination.  Her STRs do not show treatment for tinnitus in service.  However, the Veteran's records do indicate she experienced a puretone threshold shift from June 2020 to February 2021.  These records are very probative, as they demonstrate the Veteran's diminished hearing during her period of active service.  
+
+On VA examination in June 2023, the Veteran was diagnosed with tinnitus.  During her examination, the Veteran reported she first experienced tinnitus after attending rifle qualification training without hearing protection.  She stated her tinnitus has been constantly present since that time.  However, the examiner concluded the Veteran's tinnitus was less likely than not caused by or the result of her military service.  In this respect the examiner indicated the Veteran's STRs were silent for treatment of tinnitus, and she did not experience a "significant" threshold shift in service.  The RO then obtained a second opinion in September 2023, from an examiner who did not conduct the June 2023 examination.  This examiner likewise found the Veteran's disability was less likely than not incurred in service, because the Veteran checked a box on an annual assessment in February 2021, indicating she did not have recurring noises in her head or ears.  In each of these opinions, the examiners wholly failed to explain how the facts noted led to their conclusions.  The June 2023 examiner did not explain what a significant threshold shift was, nor why such a shift would be required to demonstrate in-service noise exposure.  Further, both examiners appear to have ignored the Veteran's competent reports of ringing in the ears from service to present.  
+
+A medical examination report must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008).  Further, examiners simply are not free to ignore a veteran's statements related to lay observable symptoms.  See Dalton v. Nicholson, 21 Vet. App. 23 (2007).
+
+Notwithstanding the medical opinions provided by the above-noted VA examiners, the Veteran has reported she was exposed to significant noise exposure during her period of active duty while performing rifle qualification training without ear protection.  Further, the Veteran has indicated she initially noticed her ringing in the ears at that time, and that her ringing has persisted constantly since.
+
+In this case, the Board must determine the value of all evidence submitted, including lay and medical evidence.  Buchanan v. Nicholson, 451 F.3d 1331 (Fed. Cir. 2006).  The evaluation of evidence generally involves a 3-step inquiry.  First, the Board must determine whether the evidence comes from a "competent" source.  The Board must then determine if the evidence is credible, or worthy of belief.  Barr v. Nicholson, 21 Vet. App. 303 (2007) (Observing that once evidence is determined to be competent, the Board must determine whether such evidence is also credible).  The third step of this inquiry requires the Board to weigh the probative value of the proffered evidence in light of the entirety of the record.  The Board also notes that under certain circumstances, lay evidence may be sufficient to establish a nexus.  See Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); see also Layno v. Brown, 6 Vet. App. 465, 469 (1994).  Lay evidence has been found to be competent with regard to a disease that has "unique and readily identifiable features" that are "capable of lay observation."  See Barr v. Nicholson, 21 Vet. App. 303, 308-09 (2007); see also Charles v. Principi, 16 Vet. App. 370, 374-75 (2002) (providing that a veteran's testimony regarding tinnitus is competent evidence, as "ringing in the ears is capable of lay observation.").
+
+Here, the Veteran has reported that she experienced ringing of the ears in service, which has persisted since.  The Board finds the Veteran competent to report her hearing limitations.  It is generally within the competence of a lay person to identify and observe the effect of a disability under the ordinary conditions of daily life.  Many symptoms are readily observable by a lay person.  Accordingly, the lay evidence provided by the Veteran is unquestionably competent evidence. 
+
+In this respect, the Board finds the Veteran's own reports of experiencing ringing of the ears to be at least as probative as the above-noted VA examiner's findings.  
+
+As previously noted, this appeal turns on whether there is a nexus between the Veteran's current disability and her exposure to acoustic trauma in service.  The Veteran has competently and credibly reported that she experienced tinnitus during and since service due to in-service acoustic trauma.  Accordingly, a nexus to service is established.  To the extent the June and September 2023 VA examiners opined that it was less likely as not that the Veteran's tinnitus was related to her military service, the Board finds these opinions to be of limited probative value as the opinions failed to account for the Veteran's competent reports.
+
+In sum, the Board is satisfied that the evidence supporting a nexus between the Veteran's currently diagnosed tinnitus and her in-service acoustic trauma is at least in equipoise with the evidence against a nexus.  Therefore, the Veteran is entitled to service connection for her tinnitus.
+
+REASONS FOR REMAND
+
+Pursuant to 38 C.F.R. § 20.802, unless an issue on appeal can be granted in full, the Board shall remand the appeal to the agency of original jurisdiction for correction of an error on the part of the agency of original jurisdiction to satisfy its duties under 38 U.S.C. § 5103A, if the error occurred prior to the date of the agency of original jurisdiction decision on appeal.
+
+The Board may remand for correction of any other error by the agency of original jurisdiction in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the appellant's claim.
+
+Under certain circumstances, 38 U.S.C. § 5103A (d) and 38 C.F.R. § 3.159 (c)(4) require VA to obtain a VA examination or medical opinion.  When VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).  The failure to provide the above-noted assistance constitutes a due process violation.
+
+By way of her March 2024 NOD, the Veteran indicated her dermatitis affected her daily life and work, and was worse than previously assessed.  Here, the Board observes this disability is the type which has the potential to wax and wane.  Though the Veteran was afforded a VA examination to assess this disability in October 2023, it does not appear her condition was assessed during an active flare up.  In this regard, the Board notes that when a disease consists of active and inactive stages during which the condition improves, VA must provide for the conduct of an adequate examination during the active stage of the disease.  Ardison v. Brown, 6 Vet. App. 405, 407 (1994).  The Board finds an additional VA examination, preferably during a flare-up, is needed to adequately evaluate the Veteran's skin disorder.
+
+Based on the foregoing insufficiencies, the Board finds the RO failed to provide the requisite pre-decisional assistance in this matter.  As such, this case must be remanded.
+
+Accordingly, the case is REMANDED for the following actions:
+
+Obtain a VA examination by an examiner with sufficient expertise to fully assess the severity of the Veteran's service-connected dermatitis.  The examination should be conducted during a flare-up, if possible.  All pertinent evidence of record should be made available to and reviewed by the examiner.  Any indicated studies should be performed.
+
+(Continued on the next page)
+
+?
+
+Ensure the examiner provides all information required for rating purposes.  If the examiner is unable to conduct the required testing or concludes that the required testing is not necessary, he or she should be directed to clearly explain why that is so.
+
+ 
+
+ 
+
+T. REYNOLDS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Fraser, Gordon
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,83 @@
+Citation Nr: A25032748
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240322-426552
+DATE: April 9, 2025
+
+ORDER
+
+Service connection for dermatomyositis is granted.
+
+FINDING OF FACT
+
+The evidence is at least evenly balanced as to whether the Veteran's dermatomyositis is related to his toxic exposure during active service.
+
+CONCLUSION OF LAW
+
+Resolving reasonable doubt in the Veteran's favor, the criteria for service connection for dermatomyositis have been met.  38 U.S.C. §§ 1110, 1131, 38 C.F.R. § § 3.102, 3.303, 3.304.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from October 1990 to October 1992.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).  In that rating decision, the RO denied service connection for dermatomyositis.
+
+In the same month, the Veteran appealed the March 2024 rating decision with a VA Form 10182, Decision Review Request: Board Appeal (notice of disagreement (NOD)).  The Veteran selected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the underlying March 4, 2024, rating decision.  See 38 C.F.R. § 20.302.
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision on the claim on appeal.  38 C.F.R. § 20.300.  If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider in this decision, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service.  See U.S.C. §§ 1110; 38 C.F.R. § 3.303(a).  To establish a right to compensation for a present disability, a Veteran must show: (1) the existence of a present disability; (2) in-service occurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)).
+
+In determining whether service connection is warranted, the Board shall consider the benefit-of-the-doubt doctrine.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1991).  That is, the claimant is entitled to the benefit of the doubt when the evidence is in "approximate" balance i.e., "nearly equal" but does not require that the evidence be in exact equipoise.  Lynch v. McDonough, 21 F.4th 776 (2021).
+
+Entitlement to service connection for dermatomyositis
+
+The Veteran asserts that his dermatomyositis is related to various toxic exposures during his active service. 
+
+After review of the evidence, and resolving reasonable doubt in favor of the Veteran, the Board finds that service connection for dermatomyositis is warranted.
+
+In December 1996, a biopsy confirmed the Veteran had a diagnosis of dermatomyositis.  VA treatment records show continuous diagnosis and treatment for dermatomyositis throughout the period on appeal.  Thus, the current disability criterion is met.
+
+Regarding an in-service incurrence, the March 2024 rating decision on appeal made a favorable finding of conceding participation in a toxic exposure risk activity (TERA).  The Board is bound by favorable findings made by the RO unless rebutted by clear and unmistakable evidence to the contrary, which is not present in this instance.  38 C.F.R. § 3.104(c). A November 2023 TERA Memorandum further specifies that the Veteran's military occupational specialty (MOS) was Abrams Armor Crew (Tank) and exposures to fuels, possible depleted uranium used to armor the tanks and bullets, and solvents have been conceded. Thus, the in-service incurrence criterion is met via these exposures.
+
+Regarding a nexus, the Veteran underwent a VA examination in May 2017. The examiner provided a positive nexus opinion and explained:
+
+"To give the rarity of these illnesses clinical perspective, I myself, a general internist, have seen dermatomyositis and or scleroderma less than a dozen times in 20 years of internal medicine practice across the country.  The veteran has no family history of any type of autoimmune, rheumatologic, inflammatory, myopathic, or connective tissue disorders.  Therefore, it is at least as likely as not that environmental exposures--e.g., toxins or gases during his military service--superimposed upon a genetic predisposition--are primarily responsible for the opinion (that) the Veteran's medical records support that any currently diagnosed condition related to the Veteran's claimed dermatomyositis and scleroderma are at least as likely as not incurred in or caused by toxic exposures he experienced during service."
+
+The RO subsequently requested an addendum opinion because it was unclear what toxic exposure the examiner had referenced and VA had not conceded toxic exposures. In a September 2017 addendum, the same examiner stated: 
+
+"There is no proof in records of toxic exposure.  The opinion is changed to:  The currently diagnosed condition(s) related to the veteran's claimed dermatomyositis are less likely than not incurred in or caused by the multi illnesses during service.  The specific cause of dermatomyositis is not known, most but is felt to relate to immune, genetic, and environmental influences.  There is no link in records to environmental influences while in the military."
+
+The Veteran was afforded another VA examination in July 2023. That examiner opined that the Veteran's dermatomyositis was not at least as likely as not related to his active service because his skin rash was documented by neurology in 1996, while the Veteran was enlisted in the National Guard.  The examiner also stated that on review of the Veteran's records, he found no toxic exposures present and that there are no obvious toxic exposures from service that she can contribute to the development of dermatomyositis.
+
+Another VA medical opinion was provided in November 2023. That examiner found that the claimed condition was less likely than not caused by toxic exposures from performing duties as an armor tank crewman.  The examiner stated review of two articles on exposures and reasoned that there is no medical or scientific evidence available that provides any indication of a relationship between the development of the condition at issue and a TERA (toxic exposure risk activity).  The examiner then cited "Per Mayo Clinic: dermatomyositis is an uncommon inflammatory disease marked by muscle weakness and a distinctive skin rash.  The condition can affect adults and children.  In adults, dermatomyositis usually occurs in the late 40s to early 60s.  In children, it most often appears between 5 and 15 years of age.  Dermatomyositis affects more females than males."
+
+The Board ascribes the July 2023 opinion minimal probative value as it is predicated on an incorrect factual premise. Specifically, the lack of in-service exposures. The May 2017 and November 2023 opinions are probative.
+
+The May 2017 VA examiner is an internist and gave a very comprehensive explanation of the Veteran's course of disease, the medical process of development of the disease, and came to the conclusion that his dermatomyositis was related to toxic exposure during active service as he has no family history of related immune diseases.  The examiner provided a detailed explanation of the disease of dermatomyositis, noted the progression of the Veteran's own disease process, and explained the disease rarity in her 20 years of practice in internal medicine.  She further explained that the Veteran has no family history of any type of autoimmune, rheumatologic, inflammatory, myopathic, or connective tissues disorders.  This made her conclude that the Veteran's dermatomyositis is at least as likely as not due to his environmental exposures during his military service.
+
+The November 2023 VA opinion, conducted by a nurse practitioner, only surmised that there is no medical or scientific evidence available to show a relationship between toxic exposure and the Veteran's condition.  In support of this opinion, the examiner cited to a Mayo Clinic quote that only discussed who the disease usually occurs in.  The quotation was not a discussion of any possible etiologies to support the examiner's conclusion.
+
+(Continued on the next page)
+
+?
+
+As the May 2017 VA examiner thoroughly explained the reasons for her conclusions based on an accurate characterization of the evidence of record and supporting medical literature, this opinion is given more probative weight than the November 2023 VA opinion.
+
+Resolving reasonable doubt in the Veteran's favor, the Veteran's dermatomyositis is at least as likely as not attributable to toxic exposure in service. 38 C.F.R. § 3.102. Thus, a nexus has been established. Service connection for dermatomyositis is warranted.
+
+ 
+
+ 
+
+Mike Sobiecki
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Robinson, C. B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

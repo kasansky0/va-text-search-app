@@ -1,0 +1,91 @@
+Citation Nr: A25032161
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240409-431575
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD) is granted.
+
+REMANDED
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) is remanded.
+
+FINDING OF FACT
+
+The Veteran's diagnosed PTSD is the result of in-service stressor events.
+
+CONCLUSION OF LAW
+
+The criteria for service for PTSD are met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from August 1997 to December 1998 in the United States Air Force.
+
+The instant issue comes before the Board of Veterans' Appeals (Board) from a November 2023 rating decision from a Department of Veterans Affairs (VA) Regional Office (RO/AOJ).  The Veteran filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) in April 2024.  He elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the March 2023 which was subject to higher level review in the November 2023 AOJ rating decision.  38?C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+1. Entitlement to service connection for PTSD.
+
+The Veteran contends that his PTSD is due to responding to the suicide of a fellow soldier with whom he went through basic training and technical school with.  Furthermore, the Veteran argues that the stress of guarding nuclear missiles contributes to his current condition.  Specifically, the Veteran reports an instance where his unit was placed in "Defense Condition 2 meaning hostile action was possible due to severe threat to U.S. forces.  We were on such a high alert; we were told to arm up.  I was terrified during those conditions."  See August 2019 Statement in Support of Claim for PTSD; January 2023 Lay Witness Reports (Veteran).
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  Service connection may also be granted for any disease diagnosed after discharge, when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+There are particular requirements for establishing service connection for PTSD in 38 C.F.R. § 3.304 (f) that are separate from those for establishing service connection generally.  Arzio v. Shinseki, 602 F.3d 1343, 1347 (Fed. Cir. 2010). Service connection for PTSD generally requires: (1) medical evidence diagnosing the condition in accordance with applicable criteria; (2) a link, established by medical evidence, between current symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304 (f).
+
+Regarding medical evidence of a diagnosis of PTSD in accordance with 38 C.F.R. § 4.125 (a), this regulation provides that, for VA purposes, all mental disorder diagnoses must conform to the Fifth Edition of the American Psychiatric Association's DIAGNOSTIC AND STATISTICAL MANUAL FOR MENTAL DISORDERS (DSM-5).  See Martinez-Bodon v. McDonough, 28 F.4th 1241, 1247 (Fed. Cir. 2022) (holding that a DSM-5 diagnosis is required for service connection to be awarded for a psychiatric disability under § 4.130).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).
+
+In the November 2023 rating decision on appeal, the AOJ favorably found that the Veteran has a current diagnosis of PTSD.  See January 2023 CAPRI at 15.  The Board is bound by the AOJ's favorable findings.  See 38 C.F.R. § 3.104(c).  The Board notes the DSM-5 diagnosis of PTSD provided by Dr. J.M.  See January 2023 Private Examination at 9.  
+
+The Board has reviewed the Veteran's claims file and notes that the Veteran's Military Occupational Specialty (MOS) was security forces.  The Board takes further notice that the Veteran was attached to Flight 4, 321st Missile Squadron, 790th Group.  See August 2019 DD 214; February 2020 PTSD Investigation Reports.  The Board notes the AOJ attempted to verify the Veteran's claimed stressors; however, a researcher at the Air Force Historical Research Agency indicated that the Veteran's unit histories were not available. 
+
+In January 2023, the Veteran submitted an opinion from Dr. J.M. who reviewed the claims file and interviewed the Veteran.  Dr. J.M. determined that the Veteran's current PTSD 
+
+is directly related to the stress of guarding nuclear missiles where there was an abiding fear of hostile military and terrorist activity in the form of potential sabotage.  It is also my opinion that his PTSD was first incurred during active military service, but he was incorrectly diagnosed with an Occupational Problem by the Air Force psychiatrist in September of 1998.  This is evidenced by the behavior outbursts during service with resulting disciplinary action that was the initial manifestation of his mental health condition.  
+
+The evidence of record does not contain any negative nexus opinions.  
+
+Therefore, after review of the credible medical evidence of record the Board finds the Veteran has a current diagnosis of PTSD that conforms with the DSM-5, credible evidence supporting an in-service stressor event (fear of hostile military or terrorist activity related to guarding nuclear missiles), and a medical nexus opinion linking the Veteran's current PTSD symptoms to his in-service stressor event.  Dr. J.M. provided a diagnosis of PTSD, which was attributed to the in-service stressor event.  Therefore, affording the Veteran the full benefit of the doubt, the Veteran's diagnosed PTSD is the result of an in-service stressor event.  
+
+For these reasons, and after resolving all doubt in favor of the Veteran, the Board finds that the criteria for service connection for PTSD has been met.  38 U.S.C. § 5107; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+REASONS FOR REMAND
+
+2. Entitlement to a TDIU.
+
+Under the Appeals Modernization Act (AMA), the Board must remand to the AOJ to correct pre-decisional duty to assist errors (including when the AOJ failed to make reasonable efforts to obtain VA treatment records or relevant federal or private treatment records, failed to obtain a VA examination, or provided an inadequate VA examination or opinion).  38 C.F.R. § 20.802 (a)
+
+At the time of the rating decision on appeal the Veteran's combined disability rating was 20 percent.  However, as a result of this decision, the Veteran has been granted entitlement to service connection for PTSD.  The rating for this disability has not yet been adjudicated by the AOJ in the first instance and such a rating may affect the Veteran's claim for a TDIU based on the current evaluations of all of the Veteran's service connected disabilities on a schedular basis.  38 C.F.R. § 4.16(a).  
+
+However, after the AOJ adjudicates the Veteran's PTSD rating and if he does not meet the schedular, referral for extraschedular TDIU under 38 C.F.R. § 4.16(b) should still be considered. 
+
+As the Board may not consider the Veteran's claim for an extraschedular TDIU in the first instance, but will refer it to the Director, Compensation Service if there is a reasonable possibility that the Veteran was unemployable by reason of service connected disabilities.  38 C.F.R. § 4.16(b); Bowling v. Principi, 15 Vet. App. 1, 9 (2001).
+
+In Snider v. McDonough, 35 Vet. App. 1 (2021), the Court clarified the standard by which VA is to determine whether referral for extraschedular consideration for a TDIU is appropriate.  In Snider, the Court held that in determining whether extraschedular referral is warranted, VA is to consider whether there is sufficient evidence to substantiate a "reasonable possibility" that the veteran at issue is unemployable because of service-connected disabilities.  Id. at 6-7 (citations omitted).  The Court then specified that a decision regarding whether referral is appropriate is analogous to a determination as to whether a VA examination is warranted under McLendon v. Nicholson, 20 Vet. App. 79 (2006). Id. at 8-9. 
+
+Applying Snider to the instant case leads the Board to conclude that there is a "reasonable possibility" that the Veteran's service connected disabilities rendered him unemployable.  The Veteran was unemployed throughout the period on appeal.  In the January 2023 opinion, Dr. J.M. determined that the Veteran's PTSD and major depressive disorder "imposed very severe and persistent inextricably intertwined limitations of social and occupational functioning that prevent the veteran from performing non-exertional activities such as communicating, remembering and following instructions, using judgment, adapting to changes, and dealing with people, including supervisors, coworkers, and the public from 2019 forward to the point where he is now totally disabled and unemployable." 
+
+As there is a reasonable possibility that the Veteran's service connected disabilities rendered him unemployable and as a result of the grant of service connection for PTSD, readjudication of the issue of a TDIU is warranted after the AOJ's assignment of a rating in the first instance.  However, If the schedular is not met after such assignment, refer the Veteran's claim for a TDIU to the Director for consideration of whether a TDIU is warranted on an extraschedular basis.  See 38 C.F.R. § 4.16 (b); Snider, supra.    
+
+The matter is REMANDED for the following actions:
+
+1. Send the appropriate notice letter informing the Veteran of the evidence required to substantiate his claim for a TDIU 
+
+2.  Adjudicate the Veteran's entitlement to TDIU.  
+
+If the Veteran does not meet the schedular for a TDIU, then refer the Veteran's claim for a TDIU to VA's Director, Compensation Service for extraschedular TDIU.  Then, adjudicate the TDIU claim to include on an extraschedular basis.
+
+ 
+
+L. Chu
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Scheirich, David B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

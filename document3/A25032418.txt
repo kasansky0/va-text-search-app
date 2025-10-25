@@ -1,0 +1,79 @@
+Citation Nr: A25032418
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240826-468345
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to service connection for diabetes mellitus type II, to include as secondary to service-connected disabilities with obesity as an intermediate step, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from June 1985 to March 1986 and in the United States Air Force from January 1989 to January 1993.
+
+Although the Veteran initially requested Higher-Level Review when submitting the August 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review, the Higher-Level Reviewer determined that there had been a duty to assist error and transferred the claim to the Supplemental Claim decision review option for additional development.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board of Veterans' Appeals (Board) may only consider the evidence of record at the time of the July 2024 agency of original jurisdiction (AOJ) supplemental claim decision on appeal.  38 C.F.R. § 20.301.  If evidence was submitted after the AOJ issued the supplemental claim decision on appeal, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the claim of entitlement to service connection for diabetes mellitus type II, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+As a final preliminary matter, the Board acknowledges the recent precedential decision in Williams regarding 38 C.F.R. § 20.202(c)(2) and deciding Appeals Modernization Act (AMA) appeals before the time to change dockets has ended.  See Williams v. McDonough, 37 Vet. App. 305 (2024).  Generally, the Board may not decide an appeal before the deadline for requesting an AMA docket switch has elapsed.  38 C.F.R. § 20.202(c)(2) allows claimants to switch AMA dockets by completing and submitting a new Notice of Disagreement within one year from the date the AOJ mails notice of the decision on appeal, or 60 days from when the Board receives the Notice of Disagreement, whichever is later, unless a claimant has already submitted evidence or testimony as described in 38 C.F.R. §§ 20.302 and 20.303.  In this case, less than one year has passed since the AOJ mailed notice of the decision on appeal; however, as the Board is remanding the issue for additional development, there is no prejudice to the Veteran in proceeding with the claim on appeal prior to the expiration of the deadline for requesting an AMA docket switch.
+
+Entitlement to service connection for diabetes mellitus type II, to include as secondary to service-connected disabilities with obesity as an intermediate step.
+
+The Veteran contends that his diabetes mellitus type II is secondary to his obesity caused by mobility issues due to his service-connected bilateral knee and mental health disabilities.  See March 2023 VA Form 21-526EZ, Application for Disability Compensation and Related Compensation Benefits; see also August 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review.
+
+Following a review of the claims file, a remand is warranted to correct a pre-decisional duty to assist error.  Specifically, the Board finds the VA medical opinions inadequate for adjudicative purposes.  The Board notes that when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303 (2007).
+
+Upon VA examination in April 2023, the Veteran's diagnosis of diabetes mellitus type II was confirmed.  Addressing the Veteran's service-connected left knee disability, the VA examiner opined that the Veteran's diabetes mellitus type II is less likely than not caused by knee or joint conditions.  The examiner reasoned that the Veteran is noted to have a history of comorbidities and deconditioning, as well as a noted struggle with diet and lifestyle choices, which are all major contributing factors to diabetes mellitus.
+
+During a subsequent VA examination in February 2024, the Veteran's diagnosis of diabetes mellitus type II was again confirmed.  The VA examiner opined that the Veteran's diabetes mellitus type II is less likely than not due to or aggravated by the Veteran's service-connected bilateral knee and mental health disabilities.  The examiner additionally opined that the Veteran's obesity is less likely than not secondary to his bilateral knee and mental health disabilities.  The VA examiner stated that there is no evidence for a nexus between the Veteran's obesity and his bilateral knee or mental health disabilities or evidence to support aggravation of his diabetes mellitus by his service-connected disabilities.  The examiner further provided that obesity is caused by an imbalance between food intake and energy expenditure and noted the general obesity risk factors.  The VA examiner indicated that the Veteran's obesity is most likely secondary to one or more of the noted obesity risk factors.  Last, the examiner opined that the Veteran's diabetes mellitus type II was less likely than not caused by the Veteran's toxic exposure risk activities during service, stating that the medical literature is silent for the Veteran's toxic exposure risk activities, that is his exposure to radiation as a radiologic specialist, as a causative factor or etiology for his diabetes mellitus type II.
+
+Considering the aforementioned medical opinions, the Board first finds the April 2023 medical opinion inadequate as it does not address all of the service-connected disabilities that the Veteran contends caused his diabetes mellitus type II.  The Board additionally finds the February 2024 medical opinion inadequate as it is conclusory and is not based on facts specific to the individual Veteran.  See Bailey v. O'Rourke, 30 Vet. App. 54, 60-61 (2018).  The Board further finds that the April 2023 medical opinion does not address obesity as an intermediate step entirely and the February 2024 medical opinion does not address all the necessary elements regarding obesity as an intermediate step.  See Garner v. Tran, 33 Vet. App. 241 (2021); see also Walsh v. Wilkie, 32 Vet. App. 300 (2020).  Specifically, the February 2024 examiner did not specify whether the Veteran's service-connected bilateral knee and/or mental health disabilities aggravated the Veteran's obesity.
+
+Accordingly, a remand is necessary to obtain an addendum VA medical opinion and cure the pre-decisional duty to assist error.
+
+The matter is REMANDED for the following action:
+
+1. Obtain an addendum medical opinion from an appropriate clinician to determine the nature and etiology of the Veteran's diabetes mellitus type II.  The need for an in-person examination is left to the discretion of the examiner.
+
+The entire claims file, including a copy of this Remand, must be made available to the examiner.  After reviewing the entire claims file, the examiner should:
+
+Opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's diabetes mellitus type II was incurred in, caused by, or is etiologically related to his active service, to include as due to exposure to environmental toxins or other toxic risk exposure during service.
+
+With respect to the toxic exposure risk activity (TERA) opinion, the examiner must consider the Veteran's total potential exposure through all applicable military deployments and the synergistic and combined effect of all toxic exposure risk activities.
+
+Opine whether the Veteran's diabetes mellitus type II was at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) caused by his service-connected disabilities, to include his bilateral knee conditions and persistent depressive disorder with anxious distress.
+
+Opine whether the Veteran's diabetes mellitus type II was at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) aggravated by his service-connected disabilities, to include his bilateral knee conditions and persistent depressive disorder with anxious distress.
+
+The examiner is reminded that causation and aggravation are separate and distinct concepts and require separate rationales.  The examiner should provide specific evidence of record to support any conclusions, such as references from this Veteran's relevant medical history and/or medical literature.
+
+Address obesity as an intermediate step between the Veteran's service-connected disabilities and his diabetes mellitus type II.  Specifically:
+
+i.	Opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any of the Veteran's service-connected disabilities caused him to become obese or aggravated his obesity.
+
+The examiner must render an opinion on both causation and aggravation.
+
+ii.	If yes (his obesity/weight gain was caused or aggravated by his service-connected disability), opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's obesity was a substantial factor in causing his diabetes mellitus type II; and
+
+iii.	If yes (his obesity/weight gain was caused or aggravated by his service-connected disability), opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's diabetes mellitus type II would not have occurred but for the obesity/weight gain caused or aggravated by the Veteran's service-connected disabilities.
+
+(Continued on the next page)
+
+?
+
+The examiner is advised that the Veteran is competent to report his symptoms and history and that such reports must be acknowledged and considered in formulating any opinions.  The examiner must provide a complete rationale for any opinion offered, citing to the examiner's own expertise, medical principals, and/or evidence in the Veteran's claims file, when necessary, to support the conclusion reached.  If an opinion cannot be reached without resorting to speculation, the examiner must fully explain why.
+
+ 
+
+ 
+
+H.M. WALKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Caitlin B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

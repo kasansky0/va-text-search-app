@@ -1,0 +1,81 @@
+Citation Nr: A25033448
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240710-455557
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for bilateral hearing loss is denied.
+
+FINDING OF FACT
+
+The Veteran's bilateral hearing loss manifests with hearing acuity of no worse than Level I in the right ear and Level II in the left ear. 
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial compensable rating for bilateral hearing loss have not been met. 38 U.S.C. §§ 1155, 5107;?38 C.F.R. §§ 4.1, 4.3, 4.7, 4.85, 4.86, Diagnostic Code 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from March 1969 to January 1972.? 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an April 2024 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO), which is also the agency of original jurisdiction (AOJ).? 
+
+The Board notes that in June 2024, the Veteran submitted a VA Form 20-0995 Supplemental Claim application for an increased rating for his service-connected hearing loss. He then submitted a July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement). In February 2025, he submitted a VA Form 20-0996 Request for Higher-Level Review, and in September 2024, VA notified him that his increased rating claim for hearing loss was being processed under pending Board appeal. As the AOJ informed the Veteran that the instant claim is before the Board and did not adjudicate the June 2024 Supplemental Claim, the Board finds there are no problems with concurrent election and will address the matter herein. See 38 CFR 3.2500(b). 
+
+In the July 2024 VA Form 10182, the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the April 2024 AOJ decision on appeal. 38?C.F.R. §?20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§?20.300, 20.301, 20.801.? 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to an initial compensable rating for bilateral hearing loss
+
+The Veteran has been assigned an?initial?noncompensable?rating?pursuant to?38 C.F.R. §§ 4.85, 4.86, Diagnostic Code 6100, for?hearing?loss. The Veteran contends that he is entitled to a compensable disability rating for his service-connected hearing loss. See July 2024 VA Form 10182, Notice of Disagreement.
+
+Disability?ratings?are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects his ability to function under the ordinary conditions of daily life, including employment, by comparing symptomatology with the criteria set forth in the Schedule for?Rating?Disabilities (Rating?Schedule).?38 U.S.C. § 1155;?38 C.F.R. § 4.1.? 
+
+Evaluations of defective?hearing?range from noncompensable to 100 percent based on organic impairment of?hearing?acuity as measured by the results of a controlled Maryland CNC speech discrimination test, together with the average hearing threshold level measured by puretone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz).?38 C.F.R. § 4.85, Diagnostic Code 6100.? 
+
+To evaluate the degree of disability from service-connected?bilateral hearing?loss, the schedule establishes eleven auditory?hearing?acuity levels designated from Level I for essentially normal?hearing?acuity through Level XI for profound deafness. See?38 C.F.R. § 4.85, Tables VI and VII.? 
+
+An exceptional pattern of?hearing?impairment occurs when the puretone threshold at each of the four specified frequencies-1000, 2000, 3000, and 4000 Hertz-is 55 decibels or more. See?38 C.F.R. § 4.86?(a). In those situations, the rating specialist is directed to determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral. Id. Further, when the average puretone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz, the?rating?specialist is directed to determine the Roman numeral designation for?hearing?impairment from either Table VI or Table VIA, whichever results in the higher numeral, and elevate that numeral to the next higher Roman numeral. See?38 C.F.R. § 4.86(b).? 
+
+In addition to dictating objective test results, a VA examination must provide the functional effects caused by a hearing disability. However, even if an examiner's description of the functional effects of a veteran's hearing disability was somehow defective, the veteran bears the burden of proving any prejudice caused by a deficiency in the examination. Martinak v. Nicholson, 21?Vet. App.?447 (2007).? 
+
+During the February 2024 VA audio examination, the VA examiner indicated that the Veteran stated that when he goes to restaurants and wears his hearing aids, he has to take them out. "When I am sitting there, I cannot hear people talk." He also relies on visual cues, asks for repetition, has breakdowns in communication, needs to increase volume on devices, and relies on amplification. See February 2024 VA examination. On this audiological evaluation, puretone thresholds, in decibels, were as follows: 
+
+??? 	HERTZ?
+
+?? 	 1000?? 	 2000?? 	 3000?? 	 4000?? 	 Average?? 
+
+ Right?? 	 30 	 60	 55	 50	 49
+
+ Left 	 35	 60	 70	 80	 61
+
+Speech audiometry using the Maryland CNC word list revealed speech recognition ability of 100 percent for the right ear and 100 percent in the left ear.? 
+
+Applying the February 2024 results to Table VI, the findings yield a numeric designation of Level I for the right ear and Level II for the left ear. Entering the resulting bilateral numeric designation of Level I for the right ear and Level II for the left ear to?38 C.F.R. § 4.85, Table VII, equates to a zero percent disability rating under Diagnostic Code 6100. In addition, an exceptional pattern of hearing impairment under?38 C.F.R. § 4.86?was not shown in either ear.? 
+
+The VA examiner identified the effects that the Veteran's bilateral hearing loss disability had on his daily activities in his own words. Therefore, the Board finds that the VA audiology evaluation report compliant with the requirements of Martinak.? 
+
+In addition, the Board has considered the Veteran's lay statements regarding the impact his hearing loss has on ordinary conditions of life and finds them to be credible. Nevertheless, the Board finds the February 2024 VA examination highly probative and notes that it was conducted in accordance with 38 C.F.R. § 4.85(a). Accordingly, the Board finds that the VA examination is more probative than the Veteran's lay contentions as to the extent of his hearing loss because disability ratings for hearing impairment are derived by a mechanical application of the Rating Schedule to the numeric designations assigned after audiometric evaluations are rendered. See Lendenmann v. Principi, 3?Vet. App.?345 (1992). Furthermore, the functional effects of not being able to hear people talk, the need to ask for repetition or to increase volume on devices, and breakdowns in communication reported by the Veteran, are adequately reflected in the rating criteria, which contemplate such impacts. See Doucette v. Shulkin, 28?Vet. App.?366 (2017).? 
+
+Thus, based on the audiometric findings, the noncompensable rating assigned to the Veteran's service-connected bilateral hearing loss is appropriate, and entitlement to an initial compensable rating for bilateral hearing loss is not warranted at any time during the appeal period. Fenderson v. West, 12?Vet. App.?119, 127 (1999).? 
+
+In reaching this decision, the Board considered the doctrine of reasonable doubt; however, as the persuasive evidence is against assigning a higher initial rating, the doctrine is not for application. Gilbert v. Derwinski, 1?Vet. App.?49, 55 (1990).? 
+
+As well, the Board is cognizant of the ruling of the United States Court of Appeals for Veterans Claims (Court) in Rice v. Shinseki,?22?Vet. App.?447?(2009). In Rice, the Court held that a claim for a total?rating?based on individual unemployability (TDIU) due to service-connected disability, either expressly raised by the Veteran or reasonably raised by the record, involves an attempt to obtain an appropriate rating?for a disability and is part of a claim for an increased?rating. In this case, the Veteran has not argued, and the record does not otherwise reflect, that the bilateral hearing loss disability at issue renders him unemployable. Accordingly, the Board concludes that a claim for a TDIU has not been raised.? 
+
+ 
+
+ 
+
+A. Dean
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Rivera Pagan, Cristina A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

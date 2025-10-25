@@ -1,0 +1,127 @@
+Citation Nr: A25033326
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240613-448273
+DATE: April 10, 2025
+
+ORDER
+
+Service connection for a right hip condition is granted.
+
+REMANDED
+
+Service connection for a back condition, to include degenerative disc disease other than intervertebral disc syndrome (IVDS) and intervertebral disc syndrome with left lower extremity radiculopathy, is remanded.
+
+Service connection for a left knee condition is remanded.
+
+FINDING OF FACT
+
+The Veteran's right hip condition is proximately due to his service-connected right knee disability. See August 2023 Private Medical Opinion and January 2024 VA Medical Opinion.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for a right hip condition are met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 1976 to October 1983. This matter comes before the Board of Veteran's Appeal (Board) on appeal from January 2024 rating decisions of the Department of Veterans Affairs (VA) Regional Office (RO).
+
+As background, in January 2018, the Veteran filed a claim for service connection for the back and left knee conditions only. In February 2018, the RO denied these claims. 
+
+In June 2021, the Veteran submitted an Intent to File form. Subsequently, in September 2021, the Veteran submitted a VA Form 29-0995 Supplemental Claim Application, seeking readjudication of the February 2018 rating decision. The Veteran also submitted a new claim for service connection for a right hip condition. See September 2021 VA Form 21-526EZ. Subsequently, in December 2021, the RO denied these claims. 
+
+In response, in January 2022, the Veteran submitted a VA Form 20-0996 Higher-Level Review Request seeking review of the December 2021 rating decision. Thereafter, in January 2022, the RO denied service connection for the right hip condition, but also found that it committed duty to assist errors with respect to the back and left knee conditions. Following additional development, in April 2022, the RO again denied service connection for the back and left knee conditions. 
+
+Thereafter, in July 2022, the Veteran submitted a VA Form 20-0995 Supplemental Claim Application, seeking readjudication of the January 2022 and April 2022 rating decisions. In December 2022, the RO again denied these claims.  In response, in December 2022, the Veteran submitted a VA Form 20-0996 Higher-Level Review Request seeking review of the December 2022 rating decision. Thereafter, in March 2023, the RO again denied these claims.
+
+In August 2023, the Veteran submitted a VA Form 20-0995 Supplemental Claim Application, seeking readjudication of these claims. Subsequently, in January 2024, the RO again denied these claims.
+
+Then, the Veteran submitted a June 2024 VA Form 10182, Decision Review Request: Board Appeal and selected the Direct Review docket at the Board.
+
+Based upon the selection of the Direct Review option for the right hip condition, the Board may only consider the evidence of record as of January 9, 2024-the date of the rating decision on appeal.  See 38 C.F.R. §§ 20.301.  If the Veteran submitted evidence that was added to the record after January 9, 2024 for the right hip condition, the Board did not consider it. 
+
+Based upon the selection of the Direct Review option for the back and left knee conditions, the Board may only consider the evidence of record as of January 31, 2024-the date of the rating decision on appeal.  See 38 C.F.R. §§ 20.301. For these conditions, if the Veteran submitted evidence that was added to the record after January 31, 2024, the Board did not consider it.
+
+As a final introductory note, in June 2024, the Veteran was informed that he had a year from the date his January 2024 rating decisions were mailed to him or within 60 days of the date the Board received his NOD to switch his Board review option. The Veteran did not respond to the Board's June 2024 letter. As more than year passed since the January 2024 rating decisions were issued and the 60-day period specified in the June 2024 letter has lapsed, the Board finds that the period to switch his Board review option has expired. Accordingly, the Board will proceed with the adjudication of his appeal.
+
+Service Connection
+
+Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability. See Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Hickson v. West, 12 Vet. App. 247, 253 (1999); Caluza v. Brown, 7 Vet. App. 498, 506 (1995), aff'd per curiam, 78 F. 3d 604 (Fed. Cir. 1996) (table). Service connection may also be established for a disability that is proximately due to or the result of a service-connected disability. 38 C.F.R. § 3.310(a).
+
+Right Hip Condition
+
+As noted in the Conclusion of Law section, the Board finds that service connection is warranted for a right hip condition. Accordingly, the Veteran's claim is granted.
+
+Here, the Veteran contends that he is entitled to service connection for a right hip condition because it was caused by or aggravated by the service-connected right knee condition. See September 2023 VA Form 21-526EZ. 
+
+Moving to the evidence of record, the Board first notes that the evidence of record demonstrates that the Veteran has a current diagnosis of right hip osteoarthrosis. See September 2021 VA Treatment Record. Additionally, the Board notes that the Veteran's right knee condition is already service connected. See January 2024 Rating Decision - Codesheet. As such, the Board finds that the first and second elements of secondary service connection are met.
+
+Moreover, the Board finds that the evidence of record demonstrates a nexus between the right hip condition and the service-connected right knee condition. In this regard, the January 2024 VA examiner noted that medical literature found that changes in gait mechanics in the knee joint have a strong effect on joint moment of the ankle and hip joints. This examiner then applied this medical literature to the facts of this case and found that his right knee would affect the joints above it, including the right hip. The private and VA treatment records demonstrate that the Veteran has an antalgic gait due to insufficient knee flexion. See August 2022 VA Treatment Record and August 2023 Medical Treatment Record - Non-Government Facility. Accordingly, the Board finds that a nexus between his right hip condition and his service-connected right knee condition has been established.
+
+Comparatively, the Board notes that the October 2021 and November 2022 VA examiners opined that the right hip condition is less likely than not due to the right knee disability. In support of this finding, the November 2022 VA examiner stated that the medical literature research documenting a causal biomechanical association between the service-connected right knee condition. However, these examiners failed to address his antalgic gait, and whether his right knee condition aggravated his right hip condition.
+
+In Lynch v. McDonough, the United States Court of Appeals for the Federal Circuit (Federal Circuit) held that, under 38 U.S.C. § 5107 (b), the benefit-of-the-doubt principle may be triggered where the evidence of record is nearly equal. 21 F.4th 776, 781 (Fed. Cir. 2021) (citations omitted). The Federal Circuit further explained that this interpretation of 38 U.S.C. § 5107(b) "necessarily includes scenarios where the evidence is not in equipoise but nevertheless is in approximate balance." Id. 
+
+The Board finds Lynch to be applicable here as the evidence of record is in approximate balance regarding whether the right hip condition was caused by his right knee condition. Resolving all reasonable doubt in the Veteran's favor, the Board grants the Veteran's claim. 38 C.F.R. § 3.102. Thus, entitlement to service connection for the right hip condition is warranted. 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS FOR REMAND
+
+Back and Left Knee Conditions
+
+After reviewing the evidence of record, the Board finds that a remand is required to correct a duty to assist error that occurred prior to the issuance of the January 2024 rating decisions. 
+
+Here, the Veteran contends that his back and left knee conditions were caused by his service-connected right knee condition. See January 2018 VA Form 21-4138, April 2018 VA Treatment Record, and June 2023 Medical Treatment Record - Government Facility. In support of this theory of entitlement, he reported an onset of back pain began in approximately 2017, and an onset of left knee pain began in the 1990s and in 2015. See VA Medical Opinions dated February 2018, September 2021, October 2021, and January 2022. 
+
+Additionally, as an alternative theory of entitlement, he also reported that his back pain and left knee pain started during service due to carrying heavy equipment as a machine gunner in the Marines. See September 2021 and October 2021 VA Medical Opinions. However, the VA examiners failed to address this alternative theory of entitlement. See February 2018, October 2021, February 2022, December 2022, and January 2024 VA Medical Opinions. This is of particular importance because the Veteran reported that he was unsure whether he had recurrent back pain during service, and his military personnel records show that he was a rifleman and machine gunner in service. See July 1985 Service Treatment Record (STR) and DD 214s. Further, none of the VA examiners opined whether the right knee condition aggravated his back and left knee conditions. A medical opinion regarding secondary service connection must address both causation and aggravation. See El Amin v. Shinseki, 26 Vet. App. 140 (2013). Accordingly, an addendum opinion is needed to address these deficiencies.
+
+Further, the Board acknowledges the positive nexus opinions of record. See December 2022 and August 2023 Medical Treatment Records - Non-Government Facility and June 2023 VA Treating Clinician Medical Opinion. However, the Board notes that the private clinician and his VA treating clinician failed to reconcile the Veteran's competing statements regarding the onset of his back and left knee conditions. Additionally, his June 2023 VA treating clinician relied solely on the Veteran's statements that he felt that chronic wear and tear from service caused his back and left knee conditions without providing any additional medical analysis. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302 (2008). Further, the private clinician also failed to apply the research study showing a high correlation between lumbar and back osteoarthritis to the Veteran's case. Accordingly, the Board finds that an addendum opinion is warranted.
+
+Lastly, the Board finds that the RO failed to obtain outstanding treatment records from the Veteran. In April 2018, the Veteran inform his VA treating clinician that he had found treatment records for his back condition from the years immediately following his discharge. See April 2018 VA Treatment Record. Under 38 C.F.R. § 3.159(c), VA has a duty to assist claimants in obtaining evidence to substantiate all substantially complete initial and supplemental claims, to include VA will make reasonable efforts to help the Veteran obtain evidence necessary to substantiate the claim. Here, his VA treatment records show that there were outstanding treatment records for his back condition, but the RO failed to attempt to obtain them from the Veteran or have the Veteran obtain. Accordingly, the Board finds that the RO should request a copy of these treatment records from the Veteran and/or send the Veteran a VA Form 21-4142 so the RO can obtain these records on his behalf.
+
+Based on the foregoing, the Board finds that an addendum opinion is warranted to adjudicate this appeal. In ordering?a?remand in the instant case, the Board is not making a preliminary formal finding as to the credibility of the Veteran's lay reports.?Rather, the Board is merely requesting that the?examiner?on remand consider the Veteran's own descriptions of the history of his back and left knee conditions.?See Smith v. Wilkie, 32 Vet. App. 332, 338-39 (2020).
+
+The matters are REMANDED for the following action:
+
+1. Ask the Veteran to provide a copy of the back treatment records from the period immediately following his separation from service. Also, send a VA Form 21-4142 and ask the Veteran to complete it for the clinician who treated his back immediately following his separation from service. 
+
+After the authorization is received, make 2 requests for the authorized records from the treatment provider, unless it is clear after the first request that a second request would be futile. If it becomes futile to request these records, please notify the Veteran of the inability to recover these records.
+
+2. The RO should send the claims file to an appropriate VA clinician to provide an addendum that determines whether the back and left conditions had their onset in service and/or were aggravated by his service-connected right knee condition.  The claims file, including a copy of this Remand, must be made available to and be reviewed by the examiner in conjunction with the examination. If a clinical evaluation is deemed necessary to answer the questions presented, one should be scheduled. A notation indicating that the claims file and remand was reviewed should be included in the examination report. Following review of the file and this remand, the examiner is to address the following:  
+
+(a.) Please state at least as likely as not (approximately 50 percent probability or nearly 50 percent probability) that the back condition had its onset during service or within a year from separation from service. Please explain why or why not. 
+
+In providing a response to Part (a), please specifically consider and address the following: (1) his in-service statement suggesting recurrent back pain during service; (2) his reports of an onset of back pain in service due to strenuous activities as a machine gunner and rifleman; and (3) his diagnosis of moderate L5-S1 degenerative disc disease. See July 1985 STR, February 2018 VA Treatment Record, and September 2021 VA Medical Opinion. Please explain why or why not.
+
+(b.) If you find that it did not have its onset in service, please state whether it is at least as likely as not (approximately 50 percent probability or nearly 50 percent probability) that the back condition worsened because of the right knee condition or the treatment prescribed for right knee condition, to include physical therapy. See 2018 VA Treatment Record (showing physical therapy treatment for the knee). Please explain why or why not.
+
+(c.) Please state whether it is at least as likely as not (approximately 50 percent probability or nearly 50 percent probability) that the back condition worsened because of a delay in treatment attributable to the right knee condition or the treatment prescribed for right knee condition. Please explain why or why not.
+
+(d.) Please state at least as likely as not (approximately 50 percent probability or nearly 50 percent probability) that the left knee condition had its onset during service or within a year from separation from service. Please explain why or why not. 
+
+(e.) In providing a response to Part (a), please specifically consider and address his reports of an onset of left knee pain in service due to strenuous activities as a machine gunner and rifleman and his diagnosis of mild osteoarthritis. See October 2021 VA Medical Opinion and November 2019 VA Treatment Record. Please explain why or why not.
+
+(f.) If you find that it did not have its onset in service, please state whether it is at least as likely as not (approximately 50 percent probability or nearly 50 percent probability) that the left knee condition worsened because of the right knee condition or the treatment prescribed for right knee condition, to include physical therapy. See December 2018 VA Treatment Record (showing physical therapy treatment for the knee). Please explain why or why not.
+
+(g.) Please state whether it is at least as likely as not (approximately 50 percent probability or nearly 50 percent probability) that the left knee condition worsened because of a delay in treatment attributable to the right knee condition or the treatment prescribed for right knee condition. Please explain why or why not.
+
+In providing the requested opinions, consider the Veteran's description of his in-service symptoms as well as his post-service symptoms. If there is any medical reason to accept or reject the proposition that the Veteran's reported symptoms in service and thereafter represented the onset of his current condition, this should be noted. Stated another way, do the Veteran's reports about his symptoms align with how the currently diagnosed disability is known to develop or are the Veteran's reports generally inconsistent with medical knowledge or are they implausible?
+
+Please keep in mind that the phrase "at least as likely as not" means that "the favorable and unfavorable evidence is in approximate balance or is nearly equal.
+
+(The Board reminds the Veteran that in asking the examiner to accept the history he provided, the Board is not at this time making an assessment of the credibility of his statements)
+
+A discussion of the underlying reasons for any opinion expressed must be included in your report, to include reference to pertinent evidence of record and?medical literature?or treatises where appropriate. If you cannot provide the requested opinion without resorting to speculation, please expressly indicate this and state why that is so (e.g. lack of sufficient information/evidence, the limits of medical knowledge, etc.).
+
+ 
+
+ 
+
+S.C. Krembs
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Foster, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

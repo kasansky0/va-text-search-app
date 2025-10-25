@@ -1,0 +1,95 @@
+Citation Nr: A25033288
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240515-442569
+DATE: April 10, 2025
+
+ORDER
+
+Service connection for hepatic steatosis (previously claimed as fatty liver) is granted.
+
+A compensable rating for bilateral sensorineural hearing loss with chronic nonsuppurative otitis media is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's hepatic steatosis is related to his military service. 
+
+2. The Veteran's hearing loss measured not more than level II in the left ear and level III in the right ear.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for hepatic steatosis (previously claimed as fatty liver) have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309.
+
+2. The criteria for a compensable rating for bilateral sensorineural hearing loss with chronic nonsuppurative otitis media have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.85, 4.86, Diagnostic Code (DC) 6100.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran honorably served in the U.S. Navy from April 1978 to October 1998.
+
+This appeal comes to the Board of Veterans' Appeals (Board) from February 2024 and March 2024 Department of Veterans Affairs (VA) Regional Office decisions.  
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the February 2024 and March 2024 agency of original jurisdiction (AOJ) decisions for their respective disabilities, one of which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decisions, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Hepatic steatosis 
+
+"A veteran, or former reservist or member of the National Guard, who had no less than 30 days (consecutive or nonconsecutive) of service at Camp Lejeune during the period beginning on August 1, 1953, and ending on December 31, 1987, shall be presumed to have been exposed during such service to the contaminants in the water supply, unless there is affirmative evidence to establish that the individual was not exposed to contaminants in the water supply during that service."  38 C.F.R. 3.307(a)(7)(iii).  Further, one of "[t]he diseases listed in § 3.309(f) [must] have become manifest to a degree of 10 percent or more at any time after service" to be given presumptive consideration.  Id. at (ii).
+
+Service connection may also be granted for a disability resulting from disease or injury incurred in, cause by, or aggravated by service. 38 C.F.R. § 3.303(a). To establish service connection or service-connected aggravation for a present disability, the Veteran must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  Shedden v. Principi, 381 F.3d 1166, 1167 (2004).
+
+In the February 2024 rating decision, the AOJ found the Veteran served at Camp Lejeune during an affected period of contamination and has a diagnosis for hepatic steatosis, satisfying the first two elements of service connection.  These are favorable findings which will not be disturbed, and the remaining question is whether the two are related.  38 C.F.R. § 3.104
+
+In January 2024, the Veteran attended a VA examination which confirmed his hepatic steatosis diagnosis.  In the associated February 2024 disability benefits questionnaire (DBQ), the examiner found the Veteran's disability is related to his military service.  Specifically, they write, "A review of the medical literature showed the following excerpt: 'Here are the 15 covered conditions related to Camp Lejeune ... hepatic steatosis.'  As shown, hepatic steatosis is among the list of medically accepted conditions related to exposure to contaminated drinking water at Camp Lejeune."  
+
+Based on this medical opinion, the persuasive weight of the evidence is in favor of finding the Veteran's exposure at Camp Lejeune and his disability are directly related.  The third element of service connection is met. 
+
+Having met all three elements for service connection, the claim is granted.  
+
+Bilateral hearing loss
+
+Disability evaluations are determined by the application of a schedule of ratings, which is based on average impairment of earning capacity caused by the given disability.  Separate diagnostic codes identify the various disabilities.  38 U.S.C. § 1155; 38 C.F.R. Part 4.
+
+When a question arises as to which of two ratings applies under a particular diagnostic code, the higher rating is assigned if the disability more closely approximates the criteria for the higher rating.  38 C.F.R. § 4.7.  After careful consideration of the evidence, any reasonable doubt remaining, including degree of disability, is to be resolved in favor of the Veteran.  38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3; Lynch v. McDonough, 21 F.4th 776 (2021).  Where entitlement to compensation has already been established and an increase in the disability rating is at issue, the present level of disability is of primary concern.  Francisco v. Brown, 7 Vet. App. 55, 58 (1994).
+
+Evaluations of defective hearing range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of a controlled Maryland CNC speech discrimination test together with the average hearing threshold level measured by pure tone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz). 38 C.F.R. § 4.85, DC 6100.
+
+To evaluate the degree of disability from bilateral service-connected hearing loss, the schedule establishes 11 auditory hearing acuity levels designated from Level I for essentially normal hearing acuity through Level XI for profound deafness. 38 C.F.R. § 4.85, Tables VI and VII.
+
+An exceptional pattern of hearing impairment occurs when the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more. 38 C.F.R. § 4.86(a). In that situation, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral. Further, when the average pure tone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and that numeral will then be elevated to the next higher numeral. 38 C.F.R. § 4.86(b).
+
+In August 2023, the Veteran attended a VA hearing examination with audiometric and Maryland CNC word recognition testing.  The results were as follows: 
+
+	Hertz	CNC
+
+ 	1000	2000	3000	4000	Avg	%	 
+
+RIGHT	50	45	45	65	51.25	100%	 
+
+LEFT	40	40	45	55	45	100%	 
+
+Based on these results, application of exceptional hearing loss is warranted.  
+
+For the right ear, Table VI assigned a hearing loss level of I.  Table VIa assigns a level III hearing loss level.  Level III will be applied under 38 C.F.R. § 4.86. 
+
+For the left ear, Table VI assigns a level I hearing loss.  Table VIa assigns a level II hearing loss level.  Level II will be applied.  
+
+(Continued on the next page)?
+
+Based on this evidence a compensable rating is not warranted.  The Board acknowledges the Veteran's reports of worsening during the period on appeal.  The Veteran is competent to report such, however disability ratings for hearing loss are established from a mechanical application of the ratings schedule to numeric designations resulting from audiometric testing.  See Lendenmann v. Principi, 3 Vet. App. 345 (1992).  These rating criteria contemplate speech recognition thresholds and ability to hear spoken words on Maryland CNC testing. The functional impact the Veteran describes is contemplated by the rating criteria. Doucette v. Shulkin, 28 Vet. App. 366 (2017); Rossy v. Shulkin, 29 Vet. App. 142, 145 (2017).  Therefore, the claim must be denied.  
+
+ 
+
+ 
+
+JOHN Z. JONES
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	N. Guarnieri, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,83 @@
+Citation Nr: A25031384
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 230418-340614
+DATE: April 4, 2025
+
+ORDER
+
+Entitlement to a total disability evaluation due to individual unemployability (TDIU) is denied.
+
+FINDING OF FACT
+
+The weight of the probative evidence of record does not show that the Veteran was unable to secure and follow substantially gainful employment due solely to his service-connected post-traumatic stress disorder (PTSD) during the period of appeal.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to a TDIU have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.340, 3.341, 4.16.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from August 2001 to August 2005.
+
+In April 2023, the Board of Veterans' Appeals (Board) received a VA Form 10182, Decision Review Request: Board Appeal electing the Direct Review docket to review a March 2023 rating decision issued by an Agency of Original Jurisdiction (AOJ) of the Department of Veterans Affairs (VA). In January 2025, the Board sent the Veteran and his representative a letter affording him an opportunity to switch his direct review docket appeal to a different docket that would allow review of additional evidence. See January 2025 AMA Notification Letter. The Board's letter instructed the Veteran to complete a new VA Form 10182 within 60 days if he wished to exercise this option. Id. The Veteran did not do so. Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal. 38?C.F.R. § 20.301.
+
+Evidence was added to the claims file during a period of time when new evidence was not allowed.  As the Board is deciding all issues on appeal as described on the title page, it may not consider this evidence in its decision. 38 C.F.R. § 20.300. The Veteran may file a Supplemental Claim and submit or identify this evidence. 38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+1. Entitlement to a TDIU.
+
+The Veteran contends that he is unable to secure and follow substantially gainful employment solely because of his service-connected PTSD.
+
+A.	Legal Criteria
+
+Where the schedular rating is less than total, a total disability rating for compensation purposes may be assigned when the Veteran is unable to secure or follow a substantially gainful occupation as a result of service-connected disabilities, provided that, if there is only one such disability, this disability shall be ratable at 60 percent or more, or if there are two or more disabilities, there shall be at least one ratable at 40 percent or more, and sufficient additional disability to bring the combined rating to 70 percent or more. 38 C.F.R. § 4.16(a). Consideration may be given to a Veteran's level of education, special training, and previous work experience in arriving at whether a TDIU rating is warranted, but the Veteran's age or the impairment caused by nonservice-connected disabilities may not be considered in such a determination. 38 C.F.R. §§ 3.341, 4.16, 4.19.
+
+Marginal employment shall not be considered substantially gainful employment, and for purposes 38 C.F.R. § 4.16, marginal employment generally shall be deemed to exist when a Veteran's earned annual income does not exceed the amount established by the U.S. Department of Commerce, Bureau of the Census, as the poverty threshold for one person. 38 C.F.R. § 4.16 (a)(5). Marginal employment may also be held to exist, on a facts-found basis (includes but is not limited to employment in a protected environment such as a family business or sheltered workshop), when earned annual income exceeds the poverty threshold. Id.
+
+A request for TDIU "...is not a separate claim for benefits, but rather involves an attempt to obtain an appropriate rating for a disability or disabilities, either as part of the initial adjudication of a claim [...] or as part of a claim for increased compensation." Rice v. Shinseki 22 Vet. App. 447, 453-54 (2009). It is raised whenever a claimant seeks a higher disability evaluation and "presents cogent evidence of unemployability." Comer v. Peake, 553 F.3d 1362, 1367 (Fed. Cir. 2009). However, while a claim for increased disability compensation encompasses the issue of possible entitlement to TDIU, the issue is not raised until evidence of unemployability is actually presented. See Roberson v. Principi, 251 F.3d 1378, 1384 (Fed. Cir. 2001) ("Once a veteran submits evidence of a medical disability and makes a claim for the highest rating possible, and additionally submits evidence of unemployability, the 'identify the benefit sought' requirement of 38 C.F.R. § 3.155(a) is met and VA must consider TDIU.") "When entitlement to TDIU is raised during the adjudicatory process of the underlying disability or during the administrative appeal of the initial rating assigned for that disability, it is part of the claim for benefits for the underlying disability." Rice v. Shinseki 22 Vet. App. 447, 454 (2009).
+
+A claimant bears the burden of demonstrating his or her entitlement to a particular benefit. See 38 U.S.C. § 5107(a) (a claimant has the responsibility to present and support a claim for benefits); Skoczen v. Shinseki, 564 F.3d 1319, 1324 (Fed. Cir. 2009) (recognizing that, the responsibilities of developing the evidence aside, the claimant bears the burden of establishing his or her entitlement to the benefits sought); Ortiz v. Principi, 274 F.3d 1361, 1365 (Fed. Cir. 2001) (explaining that the evidence must demonstrate entitlement to the benefit).
+
+The Board must assess the credibility and weight of all the evidence, including the medical evidence, to determine its probative value, accounting for the evidence which it finds to be persuasive or unpersuasive, and providing reasons for rejecting any evidence favorable to the claimant. See Masors v. Derwinski, 2 Vet. App. 181 (1992). Equal weight is not accorded to each piece of evidence contained in the record; every item of evidence does not have the same probative value.
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107 (b). This benefit-of-the-doubt rule applies if the competing evidence is nearly equal but does not apply when the evidence persuasively favors one side or the other. See Lynch v. McDonough, 999 F.3d 1391 (Fed. Cir. 2021).
+
+B.	Facts and Analysis
+
+As an initial matter, the Board notes that the Veteran's claim for a TDIU arises from a September 20, 2022, claim for an increased evaluation for service-connected PTSD. See September 2022 VA 21-526EZ, Fully Developed Claim (Compensation). During development of the Veteran's PTSD claim, evidence was presented that the Veteran may not be working due to his service-connected PTSD. See February 2023 C&P Exam. As such, the Board finds that the Veteran's TDIU claim is part-and-parcel to his September 20, 2022, claim for an increased evaluation for PTSD. Therefore, the earliest date the Board can look for eligibility for TDIU is one year prior to VA's receipt of the Veteran's September 2022 claim for an increased rating for PTSD. See Rice, supra; see also Gaston v. Shinseki, 605 F.3d 979, 982 (Fed. Cir. 2010).
+
+Next, the Board notes that the Veteran's PTSD has been evaluated as 50 percent disabling from February 2, 2017; and 70 percent disabling from September 20, 2022. See September 2024 Rating Decision - Codesheet. Thus, the Veteran has met the schedular criteria for a TDIU based on a single disability from September 20, 2022.
+
+Turning to the medical evidence of record, the Board finds little in the way of VA treatment records from the period of review. Prior to the period of appeal, the Veteran reported that he last worked in April 2017 as a machinist and lost his job due to using his personal cellular phone at work. See August 2024 VAMC Output / Reports at 202, 196. The Veteran attributed this to a misunderstanding and did not reference his service-connected PTSD symptoms. Id. The Veteran was incarcerated from approximately May 2019 until September 2020. Id at 190-1. The Veteran was homeless for a period of time after his incarceration. Id at 189. The Veteran's VA treatment records show that the Veteran experienced symptoms of depression, anxiety, and PTSD during the period of review, but do not articulate that the Veteran was unable to work solely or even primarily due to these symptoms. Id at 182.
+
+The Veteran was afforded a VA examination of his service-connected PTSD in February 2023. See February 2023 C&P Exam. The examiner reviewed the claims file and examined the Veteran. Id at 1. The examiner checked a block indicating occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking and/or mood. Id at 2. The Veteran reported to the examiner that he last worked in manufacturing in 2017. Id at 3. The Veteran reported that he worked in that field for 10 years for two employers before quitting because of "nitpicking." Id at 3. The Veteran reported serving 18 months in jail for assault and battery starting in 2018. The Veteran reported anxiety in crowds, 3-4 hours of sleep per night, and a preference for staying home. Id. The Veteran reported that he can be easily frustrated and irritated. Id. The examiner checked blocks indicating symptoms of depressed mood, anxiety, suspiciousness, panic attacks that occur weekly or less often, chronic sleep impairment, mild memory loss, difficulty understanding complex commands, impaired judgment, disturbances of motivation and mood, difficulty establishing and maintaining effective work and social relationships, difficulty adapting to stressful circumstances, including work or a work-like setting, and impaired impulse control. Id at 5. The examiner did not check a block indicating inability to establish and maintain effective relationships. Id. The examiner also noted that the Veteran experiences guilt and low self-esteem. Id at 6.
+
+The Board has reviewed the minimal lay evidence of record. The Veteran provided no written statements of his own or hearing testimony describing his symptoms or employment situation during the period of review. Prior to the period of review, one brief statement is of record, noting the Veteran's incarceration in November 2019. See November 2019 VA 21-4138 Statement in Support of Claim.
+
+In February 2023, the AOJ sent the Veteran and his representative a letter asking him to complete and return a VA 21-8940 Veterans Application for Increased Compensation Based on Unemployability, and a VA 21-4192, Request for Employment Information in Connection with Claim for Disability Benefits. See February 2023 Subsequent Development Letter. The AOJ instructed the Veteran to complete and return these forms within 30 days. Id. The Veteran did not do so.
+
+Based on the foregoing, the Board finds that the probative evidence of record does not establish that the Veteran was unable to secure and follow substantially gainful employment during the period of appeal due solely to his service-connected disabilities. Specifically, the Board notes that the evidence concerning the circumstances and nature of any unemployment during this period are unclear. While it is clear to the Board that the Veteran experienced PTSD symptoms during this time, there is no medical evidence or statement to the effect that these symptoms alone rendered the Veteran unemployable. The Veteran's lay statements suggest that he stopped working after violating a policy concerning cellular phone use, which the Veteran described as a misunderstanding on his part, and did not ascribe to his PTSD symptoms. The Veteran also described difficulty finding housing and employment following a period of incarceration.
+
+The Board notes that although the Veteran was afforded an opportunity to provide additional details about his current and past employment history, he did not do so and left many of the basic facts of his unemployment unexplained. While VA has a duty to assist the Veteran by developing his claim, in this case, appropriate steps were taken by the AOJ to obtain employment information from the Veteran. The duty to assist is not a one-way street; a claimant cannot remain passive when he or she has relevant information. See Wamhoff v. Brown, 8 Vet. App. 517 (1996) (VA has duty to assist the veteran, not a duty to prove his claim while the Veteran remains passive); Wood v. Derwinski, 1 Vet. App. 190 (1991); Hayes v. Brown, 5 Vet. App. 60 (1993) (VA's duty to assist is not a one-way street; if a veteran wants help, he cannot passively wait for it in those circumstances where his own actions are essential in obtaining evidence). The Board notes that the practical effect of not providing this information is that the AOJ (and the Board) does not have the information which might help decide Veteran's claim. The Board has considered whether to remand this matter to afford the Veteran another such opportunity to provide employment information. However, in light of the paucity of information supplied by the Veteran and the opportunity to provide additional evidence already afforded to the Veteran (via the January 2025 docket switch letter), the Board finds that such a remand would likely be futile. See Skoczen, supra.
+
+Based on the foregoing, the Board finds that the weight of the probative evidence of record does not establish that the Veteran was unable to secure and follow substantially gainful employment due solely to his service-connected PTSD from September 20, 2022. With respect to the period of September 20, 2021, to September 19, 2022, the Board finds that there is insufficient evidence to substantiate a reasonable possibility that the Veteran was unemployable by reason of service-connected PTSD alone during this time. Specifically, the Board notes that the first medical evidence of significant occupational impairment due to PTSD is the February 2023 VA examination. Accordingly, the Board does not find that remand for referral to the Director of Compensation Service for extraschedular assessment is warranted. 38 C.F.R. § 4.16 (b); see Bowling v. Principi, 15 Vet. App. 1, 10 (2001); Kuppamala v. McDonald, 27 Vet. App. 447, 457 (2015); Ray v. Wilkie, 31 Vet. App. 58, 66 (2019).
+
+(Continued on the next page)
+
+?
+
+Accordingly, the Veteran's claim for entitlement to a TDIU is denied. In reaching these conclusions, the Board has considered the applicability of the benefit of the doubt doctrine. However, as the weight of the evidence is against the Veteran's claim, that doctrine is not applicable in the instant appeal. See 38 U.S.C. § 5107 (b); Ortiz v. Principi, 274 F.3d 1361, 1364 (Fed. Cir. 2001); Gilbert v. Derwinski, 1 Vet. App. 49, 55-57 (1990).
+
+ 
+
+ 
+
+R. Bisignani
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Robert Divis, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

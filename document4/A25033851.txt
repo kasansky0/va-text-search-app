@@ -1,0 +1,83 @@
+Citation Nr: A25033851
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240415-433068
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to a rating of 30 percent, but no higher, for gastroesophageal reflux disease (GERD), which is currently rated as 10 percent disabling, is granted.
+
+FINDING OF FACT
+
+The Veteran's GERD more nearly approximated symptoms of persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain that were productive of considerable impairment of health.
+
+CONCLUSION OF LAW
+
+During the review period, the criteria for entitlement to a rating of 30 percent, but no higher, for gastroesophageal reflux disease (GERD), have been met.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from October 2013 to April 2014. 
+
+This matter comes before the Board of Veterans' Appeals (Board) from a February 2024 rating decision issued by a Department of Veterans Affairs (VA), Regional Office (RO), which continued the 10 percent rating for GERD.  
+
+A supplemental claim decision was issued in the modernized review system, also known as the Appeals Modernization Act (AMA) system, by the agency of original jurisdiction (AOJ) in August 2022. The Veteran requested higher-level review (HLR) of that decision in January 2023. The HLR review was returned for an addendum opinion because of conflicting information in two separate VA examinations. 
+
+A new rating decision was issued in October 2023. The Veteran requested HLR of that decision as well, and the AOJ issued an HLR decision in February 2024, continuing the Veteran's GERD rating at 10 percent. 
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the October 2023 supplemental claim decision. 38 C.F.R. § 20.301.
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in this decision. 38 C.F.R. § 20.300. If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a supplemental claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the related claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a supplemental claim are included with this decision.
+
+Entitlement to a rating of 30 percent, but no higher, for gastroesophageal reflux disease (GERD), which is currently 10 percent disabling. 
+
+The Veteran contends that he should be awarded a rating higher than 10 percent for his service-connected GERD diagnosis. See VA Form 10182 Notice of Disagreement, February 2024. 
+
+Disability ratings are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects their ability to function under the ordinary conditions of daily life, including employment, by comparing their symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule). See 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.10. If two ratings are potentially applicable, the higher rating will be assigned if the disability more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran. See 38 C.F.R. § 4.3.
+
+In evaluating the severity of a particular disability, it is essential to consider its history. 38 C.F.R. §§ 4.1, 4.2, 4.41. However, where an increase in the disability rating, rather than the propriety of the initial rating, is at issue, the present level of disability is of primary importance, and past medical reports should not take precedence over current findings. Francisco v. Brown, 7 Vet. App. 55, 58 (1994). Regardless of whether an appeal stems from disagreement with the initial rating assigned following an award of service connection or from disagreement with the rating assigned following a claim for increase, separate ratings can be assigned for separate periods of time based on the facts found. Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007) (citing Fenderson v. West, 12 Vet. App. 119, 126 (1999)).
+
+Where a law or regulation changes during the pendency of a claim for a higher rating, the Board must first determine whether the intervening change is more favorable to the Veteran. If it is, the Board should apply that provision to rate the disability for periods after the effective date of that regulatory change. VAOPGCPREC 03-00, Apr 10, 2000; see also DeSousa v. Gober, 10 Vet. App. 461, 467 - 468 (U.S. 1997). 
+
+In this case, the regulation governing evaluation of gastrointestinal conditions changed during the pendency of the appeal, but the revised regulation is less favorable to the Veteran, as explained below. Consequently, the previous rating criteria will be used. The Veteran's disability is currently rated by analogy to 38 C.F.R. § 4.114, Diagnostic Code (DC) 7346, for hiatal hernia, as, prior to the regulatory amendments that took effect in 2024, there were no diagnostic criteria specific to GERD. 
+
+Under the previous criteria for DC 7346, a 60-percent rating was warranted for "symptoms of pain, vomiting, material weight loss, and hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health."  A 30-percent rating was warranted for "persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health." The maximum 60 percent evaluation is warranted for symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health.
+
+"Considerable" is defined as "large in extent or degree."  See www.merriam-webster.com/dictionary/considerable. "Severe" is defined as "very painful or harmful." See www.merriam-webster.com/dictionary/severe. The term "persistent" may be defined as "continuing to exist despite interference or treatment." See https://www.merriam-webster.com/dictionary/persistent.
+
+During the pendency of the appeal, amendments to 38 C.F.R. § 4.114, the Schedule of Ratings for the Digestive System, were enacted, effective May 19, 2024.  Under the amended criteria, a new diagnostic code (DC 7206) was added for GERD, which provides the same rating criteria as DC 7203 for stricture of the esophagus.
+
+Under DC 7206, a noncompensable evaluation is assigned for documented history without daily symptoms or requirement for daily medications.  A 10 percent rating is assigned for documented history of esophageal stricture(s) that requires daily medications to control dysphagia otherwise asymptomatic.  A 30 percent rating is assigned for documented history of recurrent or refractory esophageal stricture(s) causing dysphagia which requires at least one of the following (1) dilatation 3 or more times per year, (2) dilatation using steroids at least one time per year, or (3) esophageal stent placement.  A 50 percent rating is assigned for documented history of recurrent or refractory esophageal stricture(s) causing dysphagia which requires dilatation no more than 2 times per year.  A maximum 80 percent rating is assigned for documented history of recurrent or refractory esophageal stricture(s) causing dysphagia with at least one of the symptoms present: (1) aspiration, (2) undernutrition, and/or (3) substantial weight loss as defined by § 4.112(a) and treatment with either surgical correction or percutaneous esophago-gastrointestinal tube (PEG tube).
+
+In this case, the medical records do not contain documentation of esophageal strictures or esophageal dilatation, so the Veteran would not qualify for an evaluation in excess of his current 10 percent rating under the new criteria.  
+
+Under the old criteria, the Veteran only needed to show evidence of persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health. A VA examination conducted in April 2021 identified episodes of epigastric distress, pyrosis, reflux, regurgitation, and substernal pain. See VA Examination, April 2021. That examination also identified esophageal spasms at least twice daily, but no esophageal strictures. Id. 
+
+During a subsequent VA examination in October 2022, the Veteran complained of dysphagia, pyrosis, regurgitation, substernal pain, and arm pain. C&P Examination, October 2022. He reported a recurrence of those symptoms 4 or more times per year and stated that they lasted less than 1 day. Additionally, the Veteran reported, in a statement submitted in August 2022, "I have multiple symptoms of GERD including heartburn with acid reflux, regurgitation of stomach contents into my throat, a feeling like there is a lump in my throat, and chest pain that radiates to my shoulder multiple times per day." VA 21-4138 Statement in Support of Claim, August 2022. 
+
+Consequently, there is evidence in the record to support a 30-percent rating under the old criteria, but not under the revised criteria. The most recent VA examination also states that the Veteran "reports dysphagia, pyrosis, reflux, regurgitation, pain, sleep disturbance, nausea (occasional), vomiting (occasional). He reports intermittent feeling of lump in throat as well as intermittent dysphasia for solid foods. He states that when this occurs, he has to drink smoothies in place of solid foods. Symptoms occur daily and [intermittently]." See C&P Examination, August 2023. The examination also notes shoulder pain, but that he "denies left sided chest pain, jaw pain, upper back pain or left arm pain." Id. Those last comments seem to be differentiating the Veteran's GERD symptoms from possible cardiac issues. Overall, the documentation supports a finding that the Veteran has persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health. Because the Veteran's symptoms are consistent with the applicable rating criteria for a 30 percent evaluation, an increase is warranted. 
+
+The independent medical examination submitted by the Veteran states that such an increase should be awarded at the 60-percent level, rather than the 30-percent level. See Medical Treatment Record - Non-Government Facility, March 2023. However, under the prior rating criteria of DC 7346, a 60-percent rating would require evidence of "hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health."  Neither the Veteran's medical treatment notes, nor any information in the combined medical examinations, nor the Veteran's own lay statements support such a finding that his symptoms are equivalent to severe impairment of health, i.e., very painful or harmful; therefore, entitlement to a rating in excess of 30 percent is not warranted.
+
+The Board notes that the Veteran was employed throughout the rating period on appeal.  Thus, a claim for a total disability rating based on individual unemployability (TDIU) has not been raised by the record.  See Rice v. Shinseki, 22 Vet. App. 447, 453 (2009). 
+
+(Continued on the next page)
+
+?
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary is required to give the benefit of the doubt to the claimant. 38 U.S.C. § 5107. Accordingly, as the record shows that the Veteran experiences nearly all of the symptoms contemplated by the 30-percent rating criteria, the Board resolves reasonable doubt in his favor and finds that the requirements for a 30-percent rating-but no higher-under DC 7346 have been met.
+
+ 
+
+ 
+
+S. Merrick
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Musgrave, Stan M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

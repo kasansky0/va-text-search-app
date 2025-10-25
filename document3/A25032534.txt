@@ -1,0 +1,69 @@
+Citation Nr: A25032534
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 210830-181734
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA), including as secondary to tinnitus, is granted.
+
+FINDING OF FACT
+
+The persuasive weight of the evidence of record supports a but-for medical nexus between the Veteran's service-connected tinnitus and his current OSA.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for OSA, including as secondary to tinnitus, have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the U.S. Navy from October 1968 to November 1969.
+
+An August 20, 2021 rating decision denied service connection for OSA, including as secondary to the Veteran's service-connected tinnitus disability. The Veteran timely appealed this decision to the Board by requesting the Appeals Modernization Act (AMA) Hearing Lane for a reevaluation of the evidence considered by the AOJ. See August 2021 VA Form 10182. As this is a Hearing appeal under the AMA, the record closed on the date of the August 2021 rating decision, reopened on the date of the December 16, 2024 hearing, and closed on December 19, 2024 when, through counsel, the Veteran waived the remainder of the 90-day evidence submission period. See 38 C.F.R. § 20.302. If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision on the claims on appeal. 38 C.F.R. § 20.300.
+
+Service Connection, Including Secondary Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. See 38 U.S.C. § 1110; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury, and; (3) a causal relationship between the current disability and the in-service disease or injury. See Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection is also warranted for disability that is "but-for" due to or the result of service-connected disease or injury, and where a non-service-connected disability would have been less severe "but-for" a service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability. See 38 C.F.R. § 3.310(a); Spicer v. McDonough, 61 F.4th 1360, 1364-66 (2023) (invalidating the requirement of "proximate cause" and instead held a "but-for" causation or aggravation is enough to show entitlement to secondary service connection).
+
+Establishing service connection on a secondary basis requires evidence sufficient to show: (1) a current disability; (2) a primary, service-connected disability; and (3) a nexus between the current disability and the service-connected disability. See Wallin v. West, 11 Vet. App. 509, 512 (1988).
+
+Compensation may be established for any incremental increase in disability or any additional impairment of earning capacity in nonservice-connected disabilities resulting from service-connected disabilities above the degree of disability existing before the increase regardless of its permanence. See Ward v. Wilkie, 31 Vet. App. 233, 239 (2019). There is no requirement for objective measurement or numeric quantification for VA to ascertain an increase in disability for compensation purposes. See id. Compensation may also be established for "the natural progression of a condition not caused by a service-connected injury or disease, but that nonetheless would have been less severe were it not for the service-connected disability." See Spicer v. McDonough, 61 F.4th 1364 (Fed. Cir. 2023).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107(b). It follows, that when the evidence persuasively favors one side or the other, the benefit-of-the-doubt rule is not applied. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+1. Entitlement to service connection for OSA, including as secondary to tinnitus, is granted.
+
+The Veteran contends that his service-connected tinnitus contributes to and aggravates his OSA by interrupting his sleep. See, e.g., December 2024 Hearing Transcript ("It's really, really bad at night when I'm trying to sleep, and I noticed that it happens mostly when I'm in a silent room . . . and I don't have anything to drown it out.").
+
+The AOJ made the favorable findings that the Veteran has a current disability diagnosis of OSA, and a primary, service-connected disability of tinnitus. See August 2021 Rating Decision. Therefore, the Board finds that these elements of secondary service connection have been established.
+
+The Board next considers whether the evidence of record supports a medical nexus between the Veteran's service-connected tinnitus and his current OSA.
+
+In a November 2020 VA medical opinion, the examiner opined that the Veteran's OSA "is less likely than not proximately due to or the result of" his service-connected tinnitus because his OSA is more likely related to anatomical pressure on his airway and/or obesity, and his "sensorineural" tinnitus symptoms are "completely separate and unrelated from the oropharyngeal airway." The Board finds this opinion has some probative weight to the medical nexus at issue, reduced because it uses the incorrect causation standard to provide a negative secondary service connection opinion. See Spicer v. McDonough, 61 F.4th 1364.
+
+In a May 2021 VA medical opinion, the examiner opined that OSA and tinnitus "are not medically related" and "separate" diagnoses as medical scholarship "failed to demonstrate a causal relationship" between the two, instead attributing the Veteran's OSA to weight gain or anatomical obstruction of his airway. The Board finds this opinion has probative weight to the medical nexus at issue, reduced somewhat because it appears to use the incorrect causation standard to provide a negative secondary service connection opinion. See Spicer, 61 F.4th 1364.
+
+In an August 2021 private opinion, the examining internal medicine physician opined that the Veteran was entitled to service connection for his OSA secondary to his tinnitus, based on his professional opinion and supported by sleep study data and several cited pieces of medical scholarship. The Board affords this opinion probative weight as to the medical nexus at issue.
+
+In a November 2024 private opinion, the examining internal medicine physician opined that the Veteran's OSA was at least as likely as not "caused by and/or aggravated by his service-connected tinnitus," supporting his conclusion with sleep study data and several cited pieces of medical scholarship, as above. The Board finds this opinion probative to the nexus at issue. The Board also acknowledges that this opinion uses the incorrect causation standard for secondary service connection, but still finds it probative as it uses a stricter causation standard to provide a positive opinion. See Spicer, 61 F.4th 1364.
+
+In sum, the Board finds the persuasive weight of the probative evidence of record supports a medical nexus between the Veteran's service-connected tinnitus and his current OSA, and all elements of secondary service connection have been established. See Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+Therefore, entitlement to service connection for OSA is granted.
+
+ 
+
+ 
+
+Martin T. Mitchell
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Galik, E.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

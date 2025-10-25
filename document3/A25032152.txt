@@ -1,0 +1,57 @@
+Citation Nr: A25032152
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 230912-506152
+DATE: April 8, 2025
+
+ORDER
+
+The appeal from September 12, 2023, for additional accrued benefits, to include entitlement to additional special monthly compensation (SMC), is denied.
+
+FINDING OF FACT
+
+The appellant has not been determined to be a "child" of the surviving spouse for Department of Veterans Affairs (VA) benefits purposes and has already been reimbursed the full amount for her payment of the surviving spouse's last sickness and burial.
+
+CONCLUSION OF LAW
+
+As the appellant is no longer an eligible claimant for accrued benefits, the September 2023 appeal for additional accrued benefits is denied. 38 U.S.C. § 5121, 5121A; 38 C.F.R. §§ 3.1000, 3.1010.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from October 1957 to October 1960.  He died in February 2017, and his surviving spouse was substituted into his pending claims and appeals at the time of his death.  The surviving spouse died in August 2022, and the appellant, who is the surviving spouse's adult daughter, was determined to be a substitute party on the basis of her payment of the last sickness and burial of the surviving spouse's last sickness and burial expenses.
+
+This matter comes before the Board of Veterans' Appeals (Board) from March 2023 rating decision that granted on an accrued basis entitlement to a total disability rating based on individual unemployability (TDIU) and eligibility for Dependents' Educational Assistance (DEA) effective April 9, 1993.  The appellant and her representative were notified of this decision in correspondence from April 2023.
+
+The appellant's representative submitted a VA Form 10182 (Notice of Disagreement) to the Board in which he sought additional accrued benefits either through increased ratings or additional SMC.  The Board ultimately finds that the appellant is no longer an eligible claimant to seek additional accrued benefits and the appeal must therefore be denied as moot.  
+
+The appellant's representative seeks additional accrued benefits beyond the roughly $1,500 paid to the appellant after the withholding of the representative's attorneys fees in April 2023 through the assignment of higher ratings or additional SMC which the representative implicitly contends were decided in the March 2023 rating decision on appeal.  Accrued benefits are those benefits to which an individual was entitled at the time of death under an existing rating or based on evidence in the file at the date of death.  See 38 U.S.C. § 5121(a); 38 C.F.R. § 3.1000(a).  Upon the death of an individual, any accrued benefits are payable to the first living person in a list as follows: the Veteran's spouse, the Veteran's children (in equal shares), or the Veteran's dependent parents (in equal shares) or surviving parent.  38 U.S.C. § 5121(a)(2); 38 C.F.R. § 3.1000(a)(1).  In all other cases, accrued benefits may be paid only as necessary to reimburse the person who bore the expense of last sickness and burial.  38 U.S.C. § 5121(a)(6); 38 C.F.R. § 3.1000(a)(5).  Under 38 U.S.C. § 5121(c), a claim for accrued benefits requires that the application be filed within one year after the date of death.
+
+Similarly, if a claimant dies while a claim for benefits or appeal is pending, a living person who would be eligible to receive accrued benefits may file a request to be substituted as the claimant for the purposes of processing the claim to completion provided the request is submitted within one year of the date of the death of the claimant.  38 U.S.C. § 5121A.
+
+For accrued benefits, the term "child" is defined, in pertinent part, as a child of the Veteran who is under the age of 18 years, became permanently incapable of self-support before reaching the age of 18 years, or after reaching the age of 18 years until reaching the age of 23 years is pursuing a course of instruction at an educational institution approved by the Department of Veterans Affairs.  38 C.F.R. § 3.57(a).
+
+With respect to substitution, a largely identical set of criteria is applicable.  Only those eligible for accrued benefits can be substituted in the case of a death of a claimant.  The same definition of a "child" is applicable to parties seeking to be substituted into pending claims as the definition of "child" applicable to accrued claims.  38 U.S.C. § 5121A(a)(1); 38 C.F.R. § 3.1010(a).
+
+As explained above, the appellant is the substitute party for her late mother, who in turn as the surviving spouse of the Veteran, had been deemed a substitute party to complete any pending claim or appeals at the time of his death.  However, there is no indication in the record, and neither the appellant nor the representative contend, that the appellant meets the criteria as a "child" of the surviving spouse due to permanent incapacity for self-support prior to attaining age 18, on the basis that she is under the age of 18, or on the basis that she is between 18 and 23 and attending a course of study at a VA approved educational institution.  
+
+Instead, the appellant has been deemed a substitute party of the surviving spouse's pending appeals due to her payment of the surviving spouse's last sickness and burial expenses.  After granting substitution, VA issued the March 2023 rating decision that assigned an earlier effective date to the award of a TDIU.  That award resulted in a substantial amount of accrued benefits that potentially could have been eligible for distribution to an appropriate substitute party.  However, because the appellant does not fall into any category of eligible substitutes set forth at 38 C.F.R. § 3.1000(a)(1) through (a)(4), VA only paid her out of that substantial sum the amount of expenses that she had identified as having paid for the surviving spouse's last sickness and burial.
+
+As an initial matter, the Board finds that the United States Court of Appeals for the Federal Circuit (Federal Circuit) recently issued a decision that directs a finding in the appellant's appeal.  The facts of Smith v. Collins, No. 2023-1749 are remarkably similar to those in the appellant's appeal.  There, the appellant was the adult son of a Veteran who had had passed away during that Veteran's attempt to secure an earlier effective date for the grant of service connection for posttraumatic stress disorder (PTSD).  The Board in that appeal ultimately denied an earlier effective date for this award, and the United States Court of Appeals for Veterans Claims (Court) affirmed the Board's decision.  The Smith appellant then appealed to the Federal Circuit.  While that appeal was ongoing, VA had already determined that the amount of past due benefits that had been granted after the Veteran's death amounted to over $9,000 and that the Smith appellant had paid $1,143 in last sickness and burial expenses.  
+
+Due to those facts, the Federal Circuit found that the Smith appellant ceased to be an eligible claimant with respect to accrued benefits because he did not fit into the categories enumerated at 38 U.S.C. § 5121(a)(1)-(5).  The only potential eligibility was as a claimant to be reimbursed for the payment of last sickness and burial.  Because the amount of past-due benefits already pending was determined to exceed the reimbursement amount that had also been calculated, the Court in Smith determined that the appeal for an even earlier effective date for service connection for PTSD was moot. 
+
+The Board finds that the reasoning applied by the Federal Circuit in Smith is directly applicable to the current appeal from September 2023.  As in Smith, the amount of accrued benefits has been determined.  Unlike Smith, however, the appellant has already been paid the full amount that she claimed for reimbursement for her payment of the surviving spouse's last sickness and burial expenses.  The Board finds that this full reimbursement removes the appellant from the category of eligible claimants for yet additional accrued benefits.  The appeal is moot and must be denied.
+
+ 
+
+ 
+
+M. Tenner
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B. Whitelaw, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

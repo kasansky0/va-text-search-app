@@ -1,0 +1,85 @@
+Citation Nr: A25033944
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240301-421735
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to an initial increased rating of 10 percent for left brow scar is granted.
+
+REMANDED
+
+Entitlement to a compensable rating for headaches is remanded.
+
+FINDING OF FACT
+
+The evidence is in at least relative equipoise as to whether the Veteran's left brow scar has manifested with pain.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial rating of 10 percent, but no higher, for left brow scar have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.118, Diagnostic Code 7804.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Navy from May 2008 to September 2008, June 2011 to January 2012, January 2016 to August 2016, June 2017 to July 2018, April 2019 to February 2020, and August 2020 to September 2022. 
+
+In the March 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the May 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim for increased rating for migraine, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Increased Rating for Left Brow Scar
+
+The Veteran's left brow scar was previously rated noncompensable under Diagnostic Code (DC) 7800. However, as the Board finds herein that the evidence warrants a 10 percent rating for one or two painful scars, the Diagnostic Code is now changed from DC 7800 to 7804 as the basis for this Veteran's disability rating.
+
+Under Diagnostic Code 7804, one or two scars that are unstable or painful scars warrants a 10 percent rating. Three or four scars that are unstable or painful scars warrants a 20 percent rating. Five or more scars that are unstable or painful warrants a 30 percent rating. 38 C.F.R. § 4.118. Note 1 to Diagnostic Code 7804 instructs that an unstable scar is one where, for any reason, there is frequent loss of covering of skin over the scar. Id. Note 2 instructs that "if one or more scars are both unstable and painful, add 10 percent to the evaluation that is based on the total number of unstable or painful scars." Id.
+
+The Veteran contends entitlement to a compensable initial rating for his left brow scar. He contends that the scar is painful. See March 2024 NOD.
+
+In this case, the Veteran asserts that his left brow scar that is service connected is painful. The Board finds that the Veteran is competent to report his scar pain symptoms as this is something he can experience and report. See Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed Cir. 2006); Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).
+
+The Board recognizes that the May 2023 VA examination for scars found that the Veteran's left brow scar is not painful. The VA examiner is a medical professional who had the opportunity to examine the Veteran. The Board finds the VA examiner's findings to be probative for these reasons, and that this evidence raises a reasonable doubt as to whether his left brow scar is painful. But the Board resolves the reasonable doubt in favor of the Veteran to find that he has one painful scar, which supports the criteria for a 10 percent rating under Diagnostic Code 7804.
+
+The Board considered whether the next higher rating of 20 percent is warranted, but the evidence is against finding that the Veteran has more than one service-connected scar on the left brow.
+
+Accordingly, resolving reasonable doubt in the Veteran's favor, entitlement to an initial 10 percent rating, but no higher, for the Veteran's left brow scar is warranted. See 38 U.S.C. § 5107; see also Gilbert v. Derwinski, 1 Vet. App. 49, 55 (1990).
+
+REASONS FOR REMAND
+
+Headaches
+
+The Veteran contends entitlement to a compensable initial rating for his headaches.  He has contended that his migraine headaches render him unable to work during when he has headaches.  
+
+The May 2023 rating decision granted service connection for migraine headache under Diagnostic Code 8100 and assigned a noncompensable rating, effective September 3, 2022. 
+
+The Board finds that remand is warranted here in order for the AOJ to correct pre-decisional duty to assist errors for the claim. 38 C.F.R. § 20.802(a). Specifically, the Board finds that a remand is warranted to obtain a new VA examination as the April 2023 VA examination is inadequate because the examiner did not explain why the Veteran's symptoms do not amount to prostrating attacks of headache pain. Barr v. Nicholson, 21 Vet. App. 303 (2007). The VA examiner noted that the Veteran had intermittent onset of bilateral, sharp temple pain and sharp pain between the eyes, and sensitivity to light and sound. During the onset of these headaches, the Veteran is unable to perform occupational functioning and ordinary activities, including participation in most physical activity, including exercise, limited employment ability and limited ability to drive. Therefore, remand is necessary to explain why these symptoms do not amount to prostrating attacks.
+
+The matters are REMANDED for the following action:
+
+Schedule the Veteran for an examination by an appropriate clinician to assess the severity of his service-connected headache disability.
+
+The examiner should provide a full description of the disability and report all signs and symptoms necessary for evaluating the Veteran's disability under the rating criteria.
+
+Does the Veteran have, or has he had during the pendency of this appeal characteristic prostrating attacks of migraine/nonmigraine pain? Explain.
+
+(a.) If yes, the clinician must describe the frequency with which the Veteran experiences such migraines in terms of the average number of prostrating migraines experienced each month and the average length (duration) of a prostrating migraine. 
+
+(b.) If no, the clinician must explain why the Veteran's symptoms do not amount to "prostrating attacks" of headache pain.
+
+NOTE: A clinician may consider that, pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness." Thus, the phrase "characteristic prostrating attacks" can be understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness. Similarly, the phrase "characteristic prostrating attacks" means attacks that typically produce powerlessness or a lack of vitality. Johnson v. Wilkie, 30 Vet. App. 245 (2018).
+
+ 
+
+ 
+
+ANTHONY C. SCIRÉ, JR
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Fam, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

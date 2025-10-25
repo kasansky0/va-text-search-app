@@ -1,0 +1,83 @@
+Citation Nr: A25033901
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240604-445036
+DATE:
+
+REMANDED
+
+Entitlement to service connection for an acquired psychiatric disorder, claimed as posttraumatic stress disorder (PTSD), is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from August 2009 to April 2016.  He received the Army Achievement Medal and National Defense Service Medal, among other awards.
+
+Applicable Evidentiary Window
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an April 2024 higher level review decision of the Department of Veterans Affairs (VA) Regional Office (RO), agency of original jurisdiction (AOJ).  Therefore, this matter is adjudicated under the Appeals Modernization Act (AMA).
+
+In the June 2024, VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review Docket.  Therefore, the Board may only consider the evidence of record at the time of the May 2023 rating decision, which was subject to the higher-level review requested by the Veteran.  See 38 C.F.R.§ 20.301.  Any evidence submitted after the May 2023 rating decision cannot be considered by the Board.  See 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, or if the Veteran would like to submit any new and relevant evidence, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  See 38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+The Court of Appeals for Veterans Claims (Court) has held that the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record.  Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009).  Thus, the Board has expanded the Veteran's claim to entitlement to an acquired psychiatric disorder.
+
+Preliminary Matters
+
+As a procedural matter, the Board notes that the Veteran listed in the VA Form 10182 that the May 2023 rating decision was the one on appeal.  However, the VA Form 10182 was not filed until June 4, 2024, meaning that the appeal would be untimely and not within one year of the rating decision listed by the Veteran.  Mindful that filings are to be interpreted favorably to the Veteran, the Board finds that the Veteran clearly intended to appeal his claim for service connection for PTSD.  See 38 C.F.R. § 20.202.  Therefore, rather than dismiss the appeal due to an untimely VA Form 10182, the Board will consider the decision on appeal to be the latest AOJ decision, which was rendered in April 2024.  See Scott v. McDonald, 789 F.3d. 1375 (Fed. Cir. 2015) (which requires the Board to read the pleadings liberally).
+
+The Board further notes that Williams v. McDonough, 37 Vet. App. 305 (2024) provides guidance under which the Veteran may choose a docket review option during the latter of one year from the date that the AOJ mails notice of the rating decision or sixty days from the date the Board receives the notice of disagreement, pursuant to 38 C.F.R. § 20.202(c)(2).  However, since a remand is warranted, the appellant is not prejudiced by the Board issuing this decision without such a delay.  See 38 C.F.R.§ 20.800; see also Stiles v. McDonough, 37 Vet. App. 328 (2024) (remand orders are neither final nor adverse to a Veteran); Kirkpatrick v. Nicholson, 417 F.3d 1361 (Fed. Cir. 2005) (remand is not a final order as it does not grant or deny relief).
+
+Service Connection for PTSD
+
+The Veteran contends that he suffers chronic PTSD with depression, anxiety, and nightmares which began in November 2016.  He states that the condition arose from witnessing multiple in-service incidents.  See December 2022 VA Form 21-526EZ.  The Veteran filed a Lay Witness Statement with his claim in which he described several in-service events that he believed caused his PTSD.  He described finding a service member deceased in his barracks and observing a service member shoot his girlfriend in the head and then shooting himself.  The Veteran stated that he was called upon to identify a service member who was run over by a train, and when stationed in Korea, two service members froze to death.  At Fort Lewis, he observed a service member struck by the breach of a Howitzer and provided aid until Medics arrived.  The Veteran provided details of the emotional damage and suffering he believes is related to these events that happened while he served in the Army.  See December 2022 Lay Statement.
+
+In the April 2024 higher level review decision, the RO made a favorable finding that the Veteran was diagnosed with a current disability of PTSD.  The Board is bound by this favorable finding absent clear and unmistakable error.  See 38 C.F.R. § 3.104(c).  The RO decision found that there was no link between the alleged stressor and the Veteran's service.  The RO also found that the Veteran's lay statement, in the absence of other corroborating evidence, was not sufficient to establish that the stressor occurred.  The Board is called upon to consider (1) whether there is credible supporting evidence that the in-service stressor occurred, and (2) whether there is medical evidence of a causal connection between the PTSD and the claimed in-service stressor.
+
+The Board initially considered whether there is credible evidence that the stressor events, in fact, occurred.  Lay testimony may be sufficient to establish the stressor event for diagnosis of PTSD in four instances: (1) the PTSD was diagnosed in service, (2) the Veteran was a combat veteran under 38 U.S.C.§ 1154, (3) the stressor related to the Veteran's fear of hostile military or terrorist activity, or (4) the Veteran was a prisoner-of war, See 38 C.F.R.§ 3.304(f)(1)-(4).  None of these four scenarios apply here.  Therefore, neither the Veteran's lay testimony nor after the fact medical nexus evidence will satisfy this requirement.  See Cohen v. Brown, 10 Vet. App. 128 (1997); Moreau v. Brown, 9 Vet. App. 389 (1996).
+
+Rather, there must be corroborating and probative evidence of the claimed stressors.  The Veteran provided a copy of an article published by an ABC News affiliate reporting the Fort Bliss shooting incident.  See December 2022 Lay Witness Statement.  The Veteran reported that he witnessed a service member shoot his girlfriend at point blank range in the head and then shoot himself.  The girlfriend was pleading for her life, which made the event more traumatizing to the Veteran.  However, there are several inconsistencies between the Veteran's report of the incident, and the news article submitted by the Veteran and noted by the VA medical examiner.  See December 2022 Lay Witness Statement.  
+
+Moreover, there is no corroborative evidence of the other described stressors.  The record fails to document what steps, if any, were taken by the RO to verify and corroborate the claimed stressors.  For instance, the record does not include an investigative report or contact with a military research unit or other military historical center to investigate the occurrence of the asserted stressors.  Further, none of the other reported stressors, to include finding a deceased service member in his barracks, a service member committing suicide by laying on train tracks, two service members found frozen to death, or a service member being injured by a Howitzer, are corroborated by evidence in the record.  It would be expected to have some reports or documentation of such deaths and incidents involving service members on active duty in official records or documents.  
+
+The Board finds that it was a pre-decisional duty to assist error for the RO to fail to develop the record to verify the stressors claimed by the Veteran.  While the Board regrets the additional delay, remand is necessary to correct this error prior to deciding the claim on the merits.  38 C.F.R. § 20.802(a).
+
+Lastly, the Board acknowledges that the Veteran was previously diagnosed with adjustment disorder with mixed anxiety and depressed mood and alcohol abuse disorder.  The most recent diagnosis is PTSD, and the examiner concluded that this diagnosis included the Veteran's symptomatology of adjustment disorder, anxiety, depression, alcohol use disorder, and sleep problems.  See April 2023 VA Medical Opinion DBQ.  However, since the Board is remanding the matter for further development regarding verification and corroboration of the stressors, a new medical opinion will be requested to consider all present diagnoses.  
+
+On remand the RO is to further develop the record to verify and corroborate the identified stressors.  After this step is undertaken, the RO is to make a formal finding of record as to whether the stressors are confirmed. Then, the RO is to request a medical opinion regarding the nature and etiology of the Veteran's mental health condition.
+
+The matter is REMANDED for the following action:
+
+1. Undertake all necessary steps to determine whether the Veteran's claimed stressors can be verified.  See December 23, 2022 VA Form 21-10210.  Once that development is complete, please make a formal finding in the record as to whether the claimed stressors are confirmed.
+
+2. After the above development is completed, please request a medical opinion from a qualified clinician, regarding the nature and etiology of the Veteran's mental health condition claimed as PTSD, to include adjustment disorder, anxiety, depression, alcohol use disorder, and sleep problems. The entire claims file, including a copy of this remand, must be made available to the clinician, and the clinician should confirm that such records were reviewed.  No additional examination of the Veteran is necessary, unless the reviewing clinician determines otherwise.
+
+The clinician should address the following:
+
+(a.) Identify the Veteran's current diagnoses.
+
+(b.) For PTSD, the clinician should identify the confirmed stressor(s) upon which such diagnosis is made.
+
+(c.) For any diagnosis other than PTSD, the clinician should opine whether it is at least as likely as not that the began during service or is otherwise etiologically related to service, to include the Veteran's documented mental health treatment in service?
+
+When providing this opinion, the examiner must consider all potential causes for the diagnosed condition, the Veteran's lay statements, and any verified stressors.
+
+Consistent with Lynch v. McDonough, 21 F.4th 776, 781-82 (2021), the clinician is advised that the term "at least as likely as not" means that the likelihood is at least approximately balanced or nearly equal, if not higher.
+
+In rendering the above opinions, the clinician should consider and include an analysis of the relevant medical records, as well as specifically address the Veteran's contention that his claimed mental health conditions were incurred during service.  The clinician should consider all appropriate theories of causation.
+
+The clinician is to consider the Veteran's reports of his symptoms, as well as address the verified stressors and the reported symptoms in the medical treatment records. If the clinician rejects the Veteran's lay statements, the clinician should provide a reason for doing so.
+
+A complete rationale for any opinions rendered must be provided.  If it is not possible for the clinician to provide an opinion without resorting to speculation, he or she should expressly indicate such, and provide a supporting rationale as to why that is so.
+
+ 
+
+Luke H. Pelican
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Smith, Linda L.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303

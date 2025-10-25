@@ -1,0 +1,61 @@
+Citation Nr: A25032589
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240629-452582
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for hypertension as causally secondary to posttraumatic stress disorder (PTSD) is granted.
+
+FINDING OF FACT
+
+The Veteran's hypertension caused by his service-connected PTSD.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for hypertension as secondary to PTSD is met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 1979 to September 1982, and from December 2003 to March 2005. He had additional service in the Army National Guard, including a period of active duty for training (ACDUTRA) from March 2003 to May 2003.
+
+He appeals a January 2024 rating decision by the Agency of Original Jurisdiction (AOJ) continuing a previous denial of service connection for hypertension.
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the January 2024 rating decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the January 2024 rating decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. In this regard, the Veteran submitted a VA Form 10182 identifying hypertension in December 2024, which indicated multiple other review options. As such, VA informed him it was invalid, and it cannot be accepted as a docket switch request. Regardless, the Board is granting the claim herein and there is thus no prejudice to the Veteran.
+
+Entitlement to service connection for hypertension.
+
+The Veteran contends that his hypertension disability is secondary to his service-connected PTSD disability. See April 2022 VA Form 21-526EZ; October 2022 VA examination report.
+
+Generally, to establish a right to compensation for a present disability, a veteran must show: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service, the so-called "nexus" requirement. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+A disability which is the result of a service-connected disease or injury shall be service-connected. See 38 U.S.C. § 1110; 38 C.F.R. § 3.310(a). In Spicer v. McDonough, the Federal Circuit held that § 1110 plainly requires compensation when a service-connected disease or injury is a "but-for cause of a present-day disability." 61 F.4th 1360 (Fed. Cir. 2023).
+
+The first two elements of secondary service connection are met as the AOJ favorably found in the January 2024 rating decision on appeal that the Veteran has a current diagnosis of hypertension and is service connected for PTSD. 38 C.F.R. § 3.104(c).
+
+Initially, the record includes a May 2013 opinion which stated that hypertension was less likely than not aggravated beyond its natural progression by PTSD. The examiner stated instead that hypertension was due to his family history, race, and hyperlipidemia. The Board affords this opinion no probative weight as it seemingly only considered whether permanent worsening occurred, did not address causation, and did not provide any details regarding the aggravation opinion. See Ward v. Wilkie, 31 Vet. App. 233, 240 (2019) (the aggravation prong of secondary service connection analysis requires worsening of the claimed disability, not permanent worsening of the disability); El-Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013) (an examiner must consider both causation and aggravation); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007) ("[A]medical opinion... must support its conclusion with an analysis that the Board can consider and weigh against contrary opinions").
+
+Thereafter, in October 2022, the Veteran underwent a VA examination and was diagnosed with hypertension. The examiner noted that the Veteran was previously diagnosed with PTSD. Further, the examiner noted that there is a growing body of research concerning PTSD and hypertension and specifically referenced a March 2018 study published in medical literature that found that veterans' who are diagnosed with PTSD have double the risk of having hypertension.
+
+The October 2022 VA examiner conducted a review of available literature, a thorough evaluation of the Veteran's record, and in-person examination of the Veteran. The examiner concluded that the Veteran's hypertension is at least as likely as not (50 percent or greater probability) proximately due to or the result of the Veteran's service-connected PTSD. See October 2022 VA Medical Opinion.
+
+In contrast, in August 2023, another VA examiner opined that the hypertension was less likely than not that the hypertension was caused by or the result of PTSD. In support of this opinion, the examiner noted that the Veteran "has essential hypertension which is multi-factorial disease that can be caused by any number of recognized etiologies - mainly obesity, sodium intake, age, male gender, and race (particularly Black males)." The examiner further stated that "[c]hronic essential hypertension is not caused by PTSD or any other mental health conditions." 
+
+Importantly, both clinicians provided citations to research and literature in favor of each opinion. Both clinicians also showed a knowledge and review of the record, and provided complete rationales, relying on and citing to the records reviewed. Moreover, the clinicians offered clear conclusions with supporting data as well as reasoned medical explanations connecting the two. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Stefl, 21 Vet. App. at 124. Thus, both opinions hold probative weight.
+
+Importantly however, the later opinion did not review the earlier October 2022 opinion, even though it was of record. Further, the October 2022 opinion provided more research and detail to support the opinion and was thus more detailed and complete. See Prejean v. West, 13 Vet. App. 444, 448-9 (2000) (finding VA examination reports were more probative because they were more thorough and detailed, they discussed the conflicting opinions, and examiners had access to the claims file). As such, that opinion holds slightly more weight. 
+
+Based on the foregoing, the Board finds that the positive and negative evidence is at least in approximate balance, and as such all doubt is resolved in the Veteran's favor. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2022). Accordingly, hypertension is found to have been caused by PTSD, and the claim for service connection for hypertension is granted. 
+
+ 
+
+J.M. ESTES
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Moyer, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

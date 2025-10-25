@@ -1,0 +1,59 @@
+Citation Nr: A25033125
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 230302-327759
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to compensation under 38 U.S.C. § 1151 for residuals of vein surgery for peripheral artery disease is remanded.
+
+Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD), is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from April 1969 to June 1071.
+
+The rating decision on appeal was issued in November 2022 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  In the March 2023 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Hearing docket.  Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal and within 90 days of the Board hearing.  38 C.F.R. § 20.302.
+
+In September 2022, the Veteran claimed entitlement to service connection for PTSD.  However, the claims file reflected that the Veteran has tested positive for depression.  See September 2022 VA Treatment Records.  As reflected on the title page, the Board has expanded the scope of the claim to include any acquired psychiatric disorder.  See Clemons v. Shinseki, 23 Vet. App. 1, 9 (2009).
+
+1. Entitlement to compensation under 38 U.S.C. § 1151 for residuals of vein surgery for peripheral artery disease is remanded.
+
+Under AMA, the Board must remand issues to the AOJ to correct pre-decisional duty to assist errors.  38 C.F.R. § 20.802(a).
+
+Prior to the November 2022 rating decision on appeal, there is some evidence that the Veteran receives disability benefits from the Social Security Administration (SSA).  A March 2016 "award print" document indicates that the Veteran was deemed disabled by SSA effective September 1, 2015.  The Veteran is notably an amputee, but the award print does not indicate why SSA deemed him disabled.  The Board notes that the claims file contains several documents related to SSA retirement payments, but the claims file does not contain any other documents related to the SSA's finding that the Veteran is disabled.  A remand is needed to develop the records related to disability benefits from the SSA, which may be relevant to the claims on appeal, and to allow the AOJ to consider any SSA records in the first instance while adjudicating the issues on appeal to avoid prejudice to the Veteran.  Bernard v. Brown, 4 Vet. App. 384, 394 (1993).
+
+The Veteran's claim of entitlement to compensation under 38 USC § 1151 arises from a series of VA surgeries on his left lower extremity.  The Veteran sought treatment for blood clots in his left lower extremity.  He received stents and an internal pump, which eventually caused gangrene, leading to an above-the-knee amputation of his left lower extremity.  
+
+The October 2022 VA examiner offered a medical opinion related to the gangrene leading to the amputation, but the examiner did not address the diagnosis of peripheral neuropathy of the left lower extremity status post above-the-knee amputation.  The examiner determined that VA treatment for poor blood circulation, the gangrene infection, and the amputation were less likely than not caused or worsened by VA treatment; due to fault of VA employees; the result of an event that could not reasonably be foreseen; or failure to timely diagnose and/or properly treat the claimed disease.  
+
+A component of a claim under 38 U.S.C. § 1151 involves a determination as to whether that any additional disability was the result of "an event not reasonably foreseeable."  38 C.F.R. § 3.361(d)(2).  See generally McNair v. Shinseki, 25 Vet. App. 98 (2011). In determining whether an event was reasonably foreseeable, VA will consider whether the risk of that event was the type of risk that a reasonable health care provider would have disclosed in connection with the informed consent procedures of 38 C.F.R. § 17.32.  Id.  The informed consent form for the procedures performed in 2015 (and earlier time periods) are not associated with the claims folder, but are stored under VistA imaging.  See, e.g., CAPRI, CONSENT PROCEDURE AND/OR SURGERY, dated March 25, 2015 (noting the informed consent form has been scanned into VistA imaging.  The informed consent forms are constructively contained in the record, and must be obtained for actual review.  Bell v. Derwinski, 2 Vet. App. 611 (1992).  
+
+2. Entitlement to service connection for an acquired psychiatric disorder, to include PTSD, is remanded.
+
+During the December 2024 Board hearing, the Veteran and his representative raised the issue of entitlement to an acquired psychiatric disorder as secondary to residuals of his left lower extremity amputation and surgeries for the first time.  However, the Board has no duty to assist under the AMA and this theory raised after the AOJ decision cannot form the basis for a pre-adjudicatory error remand.  This issue can be addressed on remand.
+
+Prior to the AOJ decision on appeal, the Veteran claimed that he manifested an acquired psychiatric disorder due to events during basic training and that he had been suffering from psychiatric symptoms such as nightmares, night sweats and fear of being killed since service.  However, at separation, the Veteran denied having or having had frequent trouble sleeping, frequent terrifying nightmares, depression or excessive worry, and nervous trouble of any sort at separation, and a medical professional found a normal psychiatric status.  The Veteran did not present any competent evidence of a nexus of an acquired psychiatric disorder to service prior to the AOJ adjudication on appeal.
+
+Nonetheless, the AOJ failed to obtain potentially relevant SSA disability records prior to the adjudication on appeal, and this issue must be remanded for a pre-adjudicatory duty to assist error.  Golz v. Shinseki, 590 F.3d 1317 (Fed. Cir. 2010).
+
+The matters are REMANDED for the following action:
+
+1. Ensure that medical and legal documents pertaining to any award of disability benefits with the Social Security Administration have been associated with the claims folder.
+
+2. Associate with the claims folder all informed consent forms related to surgical procedures involving vein surgery for peripheral artery disease.  See, e.g., See, e.g., CAPRI, CONSENT PROCEDURE AND/OR SURGERY, dated March 25, 2015 (noting the informed consent form has been scanned into VistA imaging); IMED VASCULAR SURGERY CONSENT, April 4, 2011, noting (The full consent document can be accessed through Vista Imaging). 
+
+ 
+
+ 
+
+T. MAINELLI
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Howell, Chad
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,89 @@
+Citation Nr: A25033050
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240917-474920
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from July 2007 to December 2007 and March 2009 to April 2010, with additional service in the Army Reserve.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an April 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office (RO). Because the April 2024 rating decision on appeal was issued after February 19, 2019, it is subject to the Appeals Modernization Act ("AMA"). 38 C.F.R. §§ 3.2400(a)(1); 19.2(a).
+
+In the Veteran's September 2024 VA Form 10182 Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. 
+
+Therefore, the Board may only consider the evidence of record at the time of the April 2024 rating decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the rating decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding this claim, any evidence the Board could not consider will be considered by the Agency of Original Jurisdiction (AOJ) in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The Board notes that recently in Williams v. McDonough, 37 Vet. App. 305 (2024), the Court of Appeals for Veterans Claims held that "because [38 C.F.R. § 20.202(c)(2)] gives a claimant the later of one year from the date that the AOJ mails notice of the decision or 60 days from when the Board receives the Notice of Disagreement (NOD) to change the NOD and select a different lane, the Board ordinarily may not decide an appeal before this time period is up." Here, the one-year period following the April 2024 rating decision has not yet expired.
+
+However, in this case the Board is remanding the Veteran's claim for additional development and there is no prejudice to the Veteran in proceeding with the claim. Accordingly, the Board will proceed with the appeal at this time.
+
+Entitlement to service connection for OSA is remanded.
+
+The issue of entitlement to service connection for OSA is remanded to correct pre-decisional errors to assist the Veteran in the development of his claim. 38 C.F.R. § 20.802(a).
+
+The Veteran contends that his OSA is secondary to his service-connected asthma, to include chronic bronchitis and chronic obstructive pulmonary disease (COPD). See December 2023 VA 21-526EZ. Alternatively, the Veteran asserts that his OSA is linked to his service-connected posttraumatic stress disorder (PTSD). See September 2024 Notice of Disagreement. 
+
+Initially, the Board notes that the April 2024 rating decision made the following favorable findings: 1) the Veteran has been diagnosed with OSA; 2) the evidence shows that a qualifying event, injury, or disease had its onset during the Veteran's service as the evidence shows the Veteran served in the Southwest Asia theater of operations; and 3) the Veteran participated in a toxic exposure risk activity (TERA). 
+
+The Veteran's service treatment records (STRs) show that the Veteran reported a medical history of trouble sleeping in March 2010. The Board notes that the Veteran's enlistment and separation examinations are not of record.
+
+After service, the Veteran's VA treatment records indicate that the Veteran was first diagnosed with OSA in March 2017. Additionally, the Veteran consistently reported sleep disturbances in relation to treatment for PTSD. See November 2020 VA treatment record; February 2020 VA treatment record; June 2019 VA treatment record; February 2018 VA examination. During a March 2019 VA examination for PTSD, the examiner opined that the Veteran's sleep disturbance was at least as likely as not directly related to his PTSD and that a separate diagnosis was not warranted. However, the examiner did not address the Veteran's OSA diagnosis, and it is unclear whether this opinion encompassed the Veteran's OSA symptoms. 
+
+In January 2024, a VA examination was obtained concerning the etiology of the Veteran's OSA. The examiner provided direct service connection and TERA opinions. In the direct service connection opinion, the examiner stated that the Veteran's OSA was less likely than not incurred in or caused by service. In the TERA opinion, the examiner stated that the Veteran's OSA was less likely than not caused by the indicated toxic exposure risk activities after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities. The examiner provided the same rationale for both opinions, stating that the research did not show that the toxic chemicals the Veteran was exposed to were causative factors of OSA. Additionally, the examiner noted that the Veteran had a history of obesity and alcohol use, which were more likely to contribute to the Veteran's development of OSA.
+
+In April 2024, another VA examination was obtained for the Veteran's OSA, and the examiner provided a secondary service connection opinion. The examiner stated that the Veteran's OSA was less likely than not proximately due to or the result of the Veteran's service-connected asthma, to include chronic bronchitis and COPD. As a rationale, the examiner stated that review of all the available records and medical literature revealed no objective evidence of any direct, causal relationship between asthma, bronchitis, and/or COPD and development of sleep apnea. 
+
+The Board finds there was a pre-decisional duty to assist error in failing to obtain a medical opinion that is sufficient to make an informed decision on the claim. See 38 U.S.C. §§ 5103A(a), 5103A(d)(2)(C); 38 C.F.R. § 3.159(c)(4). Once VA undertakes efforts to provide a VA examination, it must ensure that it is an adequate one. See Barr v. Nicholson, 21 Vet. App. 303 (2007).
+
+While the Board finds the January 2024 TERA opinion adequate, the Board finds the January 2024 direct service connection opinion insufficient for adjudication purposes for the following reasons. First, the opinion contains an insufficient rationale. See Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007) (stating that a medical opinion must support its conclusion with an analysis that the Board can weigh, and a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision). Specifically, the examiner only addressed whether the Veteran's OSA was related to his TERA in service and did not address whether it was otherwise incurred in or caused by service, to include beginning in service and continuing since then. Furthermore, the examiner did not address all of the relevant evidence of record, including the March 2010 notation of a history of trouble sleeping in service. Additionally, the examiner did not adequately explain why she believed the Veteran's obesity and alcohol use were more likely to contribute to the Veteran's development of OSA. 
+
+The Board also finds the April 2024 secondary service connection opinion insufficient for adjudication purposes for the following reasons. While the examiner provided an opinion as to whether the Veteran's OSA was secondary to his service-connected asthma, to include chronic bronchitis and COPD, the examiner did not separately and distinctly discuss causation and aggravation, as is required in a secondary service connection medical opinion. See El-Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013). In fact, the examiner did not provide any opinion concerning whether the Veteran's OSA was aggravated by his service-connected asthma. Furthermore, the causation opinion provided was not supported by a sufficient rationale. See Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007) (stating that a medical opinion must support its conclusion with an analysis that the Board can weigh, and a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision). Rather, the examiner only provided one sentence in support of the causation opinion and merely concluded that the available records and medical literature revealed no objective evidence of a direct, causal relationship between asthma, bronchitis, and/or COPD and development of sleep apnea. Additionally, the examiner did not consider the Veteran's lay statement that having asthma and COPD made it difficult for him to sleep at night due to a drop in oxygen levels. Miller v. Wilkie, 32 Vet. App. 249, 258-60 (2020) (holding that unless the Board finds the lay statements not competent or not credible, an examiner's opinion must address the Veteran's relevant lay statements in order to include enough detail to inform the Board's decision. Failure to do so renders that opinion inadequate.).
+
+Furthermore, the Board finds there was a pre-decisional duty to assist error in failing to obtain an opinion concerning whether the Veteran's OSA was secondary to his service-connected PTSD. While the Veteran did not explicitly raise this theory of service connection until submitting his September 2024 Notice of Disagreement, the Board finds that this theory was reasonably raised by the evidence of record that existed at the time of the April 2024 rating decision. Specifically, at the time of the April 2024 rating decision, the Veteran's VA treatment records indicated that he reported sleep symptoms when seeking treatment for PTSD and his February 2018 and March 2019 VA examinations mentioned sleep disturbances in relation to PTSD. See November 2020 VA treatment record; February 2020 VA treatment record; June 2019 VA treatment record. Furthermore, the March 2019 VA examiner opined that the Veteran's sleep disturbance was at least as likely as not directly related to his PTSD. Accordingly, on remand an opinion should be obtained concerning whether the Veteran's OSA is secondary to his service-connected PTSD. 38 U.S.C. §§ 5103A(a), 5103A(d)(2)(C); 38 C.F.R. § 3.159(c)(4).
+
+Additionally, the Board finds there was a pre-decisional duty to assist error in obtaining the Veteran's complete STRs, as the RO did not make sufficient efforts to attempt to obtain the Veteran's entrance and separation examinations. 38 U.S.C. § 5103A(c)(1); 38 C.F.R. § 3.159(c)(2); see Gagne v. McDonald, 27 Vet. App. 397 (2015) (holding that VA has a duty to search for records that would assist a Veteran in the development of his claim, and for which the Veteran has provided the Secretary information sufficient to locate such records, to include making as many requests as are necessary and ending only when such a search would become "futile."). While the RO obtained STRs from the Dwight D. Eisenhower Army Medical Center and attempted to obtain records from the VA Records Management Center, the STRs that were obtained do not contain the Veteran's entrance or separation examinations. See September 2017 VA Memorandum; September 2017 STR Certification. Furthermore, the Veteran's STRs of record suggest that entrance and separation examinations exist as they indicate that he underwent a pre-deployment assessment in March 2009 and a post-deployment assessment in March 2010 at Martin ACH, Fort Benning, GA. However, the RO did not attempt to obtain the Veteran's entrance and separation examinations from any other sources. Under these circumstances, the Board finds that the RO's attempts to obtain the Veteran's complete STRs were not sufficient under 38 C.F.R. § 3.159(c). Accordingly, remand is warranted to attempt to obtain the Veteran's complete STRs, to include entrance and separation examination reports, from any appropriate sources.
+
+The matter is REMANDED for the following actions:
+
+1. Attempt to obtain the Veteran's complete STRs, to include any entrance and separation examination reports, from any sources that may have the records, including the National Personnel Records Center (NPRC). If any requested records are not available, or the search for any records otherwise yields negative results, that fact must clearly be documented in the claims file. 
+
+2. After completing the above directives, obtain a new opinion from an appropriately qualified clinician to determine the nature and etiology of the Veteran's OSA. The claims file, including a copy of this remand, must be made available to and reviewed by the clinician. If an in-person examination is deemed necessary, one should be scheduled. 
+
+After review of the record, the reviewing clinician must opine on:
+
+(a.) Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's OSA was incurred in, or is otherwise related to, his active service.
+
+The examiner must specifically address the March 2010 STR indicating that the Veteran reported a medical history of trouble sleeping.
+
+(b.) Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's OSA was caused or aggravated by the service-connected asthma, to include chronic bronchitis and COPD, and/or the service-connected PTSD. 
+
+The examiner is advised that aggravation under 38 C.F.R. § 3.310(b) does not require that there be "permanent" worsening of the nonservice connected disability. 
+
+The examiner is also advised that 38 U.S.C. § 1110 allows for service connection of conditions that would have been less severe were it not for the service-connected disability even if the worsening of the condition occurs due to the natural progression of that condition. See Spicer v. McDonough, 61 F.4th 1360, 1364 (2023).
+
+The examiner must provide separate opinions and rationales to address secondary causation and secondary aggravation. Atencio v. O'Rourke, 30 Vet. App. 74 (2018).
+
+The reviewing clinician is advised that the Veteran is competent to report his symptoms and history. Such reports must be acknowledged and considered in formulating any opinion. If the reviewing clinician rejects the Veteran's reports, he or she must provide an explanation for such rejection. In forming the opinion, the examiner cannot rely on the absence of medical records corroborating disability.
+
+A complete rationale for any opinion expressed must be provided. If an opinion cannot be expressed without resort to speculation, discuss why this is the case. In this regard, indicate whether the inability to provide a definitive opinion is due to a need for further information or because the limits of medical knowledge have been exhausted regarding the etiology of the disability at issue or because of some other reason.
+
+ 
+
+ 
+
+L. CHU
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Corcoran, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

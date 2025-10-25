@@ -1,0 +1,99 @@
+Citation Nr: A25032385
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240803-466879
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA), to include as secondary to service-connected temporomandibular joint disorder (TMD) with malocclusion, is granted.
+
+FINDING OF FACT
+
+The evidence is at least in approximate balance as to whether the Veteran's OSA was caused on a secondary basis by surgical treatment for his service-connected TMD with malocclusion.
+
+CONCLUSION OF LAW
+
+Resolving reasonable doubt in the Veteran's favor, the criteria for service connection for OSA, to include as secondary to TMD with malocclusion, are met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from August 2008 to November 2013. This matter comes before the Board of Veterans' Appeals (Board) on appeal from an April 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In December 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a November 2023 decision. In April 2024, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior November 2023 decision. 
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence considered at the time of the November 2023 decision, which was subject to higher-level review. 38 C.F.R. § 20.301. Any evidence submitted after the November 2023 decision cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+The RO initially denied the Veteran's claim for sleep apnea in June 2023. Subsequently, the RO found that new and relevant evidence was received to support readjudication of the Veteran's claim. Rating Decision, November 2023. The Board will not disturb that favorable finding. 38 C.F.R. § 3.104(c).
+
+Service connection 
+
+Generally, service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship, or nexus, between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection can also be granted on a secondary basis if a Veteran has (1) a current disability, (2) a separate disability already subject to service connection, and (3) the first disability is due to or the result of or aggravated by the service-connected disability. Allen v. Brown, 7 Vet. App. 439 (1995). 
+
+In making all determinations, the Board must fully consider the lay assertions of record. A layperson is competent to report on the onset and recurrence of symptoms. See Layno v. Brown, 6 Vet. App. 465, 470 (1994) (a Veteran is competent to report on that of which he or she has personal knowledge). When considering whether lay evidence is competent the Board must determine, on a case by case basis, whether the Veteran's particular disability is the type of disability for which lay evidence may be competent. Kahana v. Shinseki, 24 Vet. App. 428 (2011); see also Jandreau v. Nicholson, 492 F.3d at 1377 (Fed. Cir. 2007) (holding that "[w]hether lay evidence is competent and sufficient in a particular case is a factual issue to be addressed by the Board").
+
+Once evidence is determined to be competent, the Board must determine whether such evidence is also credible. See Layno, supra (distinguishing between competency, "a legal concept determining whether testimony may be heard and considered;" and credibility, "a factual determination going to the probative value of the evidence to be made after the evidence has been admitted"). The Board is also charged with the duty to assess the probative weight given to all evidence. Madden v. Gober, 125 F.3d 1477, 1481 (Fed. Cir. 1997), cert. denied, 523 U.S. 1046 (1998); Wensch v. Principi, 15 Vet. App. 362, 367 (2001).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter (which includes but is not limited to equipoise), VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; see Lynch v. McDonough, 21 F.4th 776, 778 (Fed. Cir. 2021).
+
+Entitlement to service connection for OSA, to include as secondary to service-connected TMD with malocclusion, is granted.
+
+The Veteran asserts that his sleep apnea was caused on a secondary basis by his service-connected jaw disability. After granting benefit of the doubt, the Board agrees.
+
+As above, the first element of secondary service connection is a current disability. See Allen, supra. In April 2024, the RO conceded that the Veteran has been diagnosed with chronic OSA. The Board will not disturb that favorable finding. 38 C.F.R. § 3.104(c). Therefore, the Veteran has met the first element of secondary service connection.
+
+The second element is a separate disability already subject to service connection. See Allen, supra. In April 2024, the RO conceded that the Veteran has a primary service-connected disability of TMD with malocclusion. The Board will not disturb that favorable finding. 38 C.F.R. § 3.104(c). Therefore, the Veteran has met the second element of secondary service connection. 
+
+The third element generally requires medical evidence showing that the first disability is due to or the result of or aggravated by the service-connected disability. See Allen, supra. As will be shown, the Board finds that there is benefit of the doubt to support a grant of service connection for OSA.
+
+To determine the nature and cause of the Veteran's sleep disability, he was afforded a VA examination in March 2023. The examiner diagnosed obstructive sleep apnea. During the examination, the Veteran "report[ed] loud snoring and witnessed apneas for 9-10 years." See also Lay Witness Statement, August 2023 (Veteran's spouse reports observation of sleep apnea symptoms beginning in 2013). 
+
+In June 2023, a different examiner authored a negative nexus opinion regarding secondary causation: 
+
+"Medical literature notes that while the two conditions often exist together, there is no evidence TMD causes obstructive sleep apnea. Sleep Apnea is an ongoing functional collapse of the velopharyngeal and/or oropharyngeal airway causing an airway obstruction, it is an physical anatomical complication. It is less likely than not there is a sleep apnea condition caused by the veteran's temporomandibular joint disorder with malocclusion. A nexus has not been established."
+
+In September 2023, a third examiner authored a different negative opinion regarding secondary causation: 
+
+"Studies show OSA as a risk factor for development of TMD however the opposite is not true. Evidence does not support TMD causing OSA. Therefore, the claimed condition is less likely than not (likelihood is less than approximately balanced or nearly equal) proximately due to or the result of the Veteran's service connected condition." 
+
+The Board notes that neither examiner provided an opinion regarding the possibility of service connection via secondary aggravation of OSA. Therefore, both opinions carry no probative weight for deciding the Veteran's claim. See Allen v. Brown, 7 Vet. App. 439, 448 (1995) (opinion regarding secondary service connection is inadequate if it does not address both causation and aggravation of the nonservice-connected condition).
+
+Typically, the Board would remand a claim for the RO to obtain an addendum opinion regarding secondary aggravation. However, because the evidence supports a grant of service connection (with benefit of the doubt), the Board finds that such a remand would be inappropriate for this case. See Mariano v. Principi, 17 Vet. App. 305, 312 (2003) (VA is forbidden to develop additional evidence for the purpose of obtaining evidence unfavorable to the Veteran). 
+
+To support his claim, the Veteran submitted an August 2023 opinion from a private medical provider. The provider explained that medical literature supports a connection between TMD and OSA. According to the provider, a medical article titled "The Role of Malocclusion in Non-obese Patients with Obstructive Sleep Apnea Syndrome" (authored by E. Miyao, et al.) "posits that malocclusion, a condition often associated with TMD, plays a significant role in development of OSA." 
+
+According to the provider, the Veteran developed symptoms of TMD in service after a rollover motor vehicle accident fractured his jaw, which necessitated two surgeries occurring in January 2013 and February 2013. See STR January 31, 2013 (referring to mandible surgery on January 25, 2013); Surgery Note, February 7, 2013 ("Open reduction, internal fixation of mandibular left parasymphysis fracture").  
+
+According to the provider, the Miyao-authored study "underscores the physiological mechanisms that could link malocclusion and, by extension, TMD to the development of OSA. [] Therefore, the Miyao et al. study is a pivotal piece of scientific evidence that fortifies the claim that [the Veteran's] OSA is at least as likely as not a direct consequence of his service-connected TMD."
+
+Upon review, the Veteran has been diagnosed with a malocclusion. C&P Exam, October 2023 (diagnosing "temporomandibular joint disorder with malocclusion"). The Board notes, however, that the provider's opinion is based on an oversimplistic reading of the Miyao, et al. study, which observes an increased likelihood of OSA development among people with specific types of malocclusion: namely, overbites and overjets. After careful review, the Board finds no evidence showing that the Veteran has an overbite or an overjet. 
+
+The Board finds, however, that a second medical article includes sufficient evidence to support service connection based on benefit of the doubt: "Oromaxillofacial Surgery: Both a Treatment and a Possible Cause of Sleep Apnea-A Narrative Review" by D. Martinovic, et al. See Correspondence, August 2023. According to that article, "[t]he latest studies are suggesting that surgical treatment in the head and neck region for causes other than OSA could possibly have a major impact on the emergence of newly developed OSA." 
+
+According to the article, a study by Lupi-Ferandin, et al., investigated the prevalence of OSA after surgery for maxillary and zygomatic fractures. Correspondence, August 2023. "They found that 54% of their participants developed OSA in a period of three months after surgery. Furthermore their study found that OSA is more common in patients with maxillary fractures (62%) than in patients with zygomatic fractures (38%)." 
+
+According to a January 28, 2013, service treatment record (STR), the Veteran underwent an open reduction internal fixation and "axillomandibular fixation (jaw wired)" procedure to treat fractures of the left maxillary sinus and mandibular jaw. STR, July 2015. Therefore, the Veteran received surgical correction for a maxillary fracture, which (according to Lupi-Ferandin, et al.) would result in a 62 percent chance that the Veteran would develop OSA within three months after surgery. 
+
+The "Oromaxillofacial Surgery" article cites a different study by El-Anwar, et al., which "investigated mandibular fractures and found that OSA was diagnosed in 35.8% of their patients, all with bilateral fractures." Correspondence, August 2023. 
+
+In February 2013, the Veteran received a second surgery to correct the damage to his jaw. STR, July 2015. According to the surgical report, the Veteran presented with bilateral subcondylar fractures, which means that his mandible was fractured on both sides in the subcondylar region below the jaw hinges. Because the Veteran has shown a bilateral mandibular fracture, the El-Anwar study indicates a 35.8 percent chance that he would develop OSA following surgery.
+
+As shown, the medical evidence indicates that the Veteran's odds of developing post-surgical OSA range from "35.8%" (El-Anwar, et al.) to "62%" (Lupi-Ferandin, et al.). The Board finds that the probability represented by those percentages is sufficient to support a grant of service connection based on benefit of the doubt.
+
+Therefore, the Veteran's service connection claim for OSA, to include as secondary to service-connected TMD or treatment for the same, should be granted. As discussed, the Veteran has received benefit of the doubt. See Lynch, supra.
+
+ 
+
+ 
+
+Jenna Brant
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J.D. Shoup, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

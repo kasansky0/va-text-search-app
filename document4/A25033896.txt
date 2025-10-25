@@ -1,0 +1,65 @@
+Citation Nr: A25033896
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240806-463487
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea is granted.
+
+FINDING OF FACT
+
+The evidence shows that the Veteran's obstructive sleep apnea is proximately due to his service-connected major depressive disorder and right ankle disability. 
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for obstructive sleep apnea have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active duty military service from February 1991 to November 1999, including service in Kuwait.
+
+This matter comes before the Board on appeal of a rating decision issued in August 2023 which denied service connection for obstructive sleep apnea. In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the August 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+Finally, the Board notes that the Veteran's August 2024 VA Form 10182 also included an appeal of a rating for gastroesophageal reflux disorder (GERD).  This will be addressed in a separate Board decision.
+
+Entitlement to service connection for obstructive sleep apnea
+
+The Veteran seeks service connection for obstructive sleep apnea, which he asserts is the result of his service-connected disabilities of major depressive disorder and right ankle status post open reduction causing him to be less active and thereby gain weight.
+
+Generally, to establish a right to compensation for a present disability, a Veteran must show: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service, the so-called "nexus" requirement.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).  All three elements must be established by competent and credible evidence in order that service connection may be granted.
+
+Service connection is also provided for a disability which is proximately due to, the result of, or aggravated by a service-connected disability. Allen v. Brown, 7 Vet. App. 439 (1995); 38 C.F.R. § 3.310. 
+
+In this instance, the chain of causation asserted by the Veteran is a multiple step process. The record has clearly established that he sustained a right ankle disability in service and service-connection has been granted for that disability. The record has shown that the Veteran has major depressive disorder, which is also service connected. The contention at issue here is that the Veteran's major depressive disorder has manifested at least in part by reduced activity and overeating, which resulted in significant weight gain. The Veteran's right ankle disability has also reduced his activity levels. The Veteran asserts that his obstructive sleep apnea is a further result of the weight gain, the fatigue related to depression, and the chronic pain, having been either caused or aggravated by these conditions.
+
+VA laws and regulations have determined that obesity can be considered an "intermediate step" between a service-connected disability and a current disability and thus satisfy the causal link between the two. VAOGCPREC 1-2017. Such cases require consideration of both proximate causation and aggravation in analyzing the following: (1) whether the service-connected disability caused the veteran to become obese or aggravated the veteran's obesity; (2) if so, whether the obesity or aggravation of obesity as a result of the service-connected disability was a substantial factor in causing the current disability; and (3) whether the current disability would not have occurred but for obesity caused or aggravated by the service-connected disability. Walsh v. Wilkie, 32 Vet. App. 300 (2020).
+
+The record shows that the Veteran was formally diagnosed with obstructive sleep apnea in 2022. (See C&P Exam, 12/12/2022.) The Veteran reported onset of symptoms of sleep apnea in about 2000, including sleep disturbance, severe snoring, and choking or not breathing properly at night. He also experienced daytime sleepiness and fatigue even after a full night's sleep. After his diagnosis in 2022 he was provided a CPAP machine and prescription medication, which have reduced his symptoms but not eliminated them. 
+
+The December 2022 VA examination yielded an opinion that the Veteran's sleep apnea was not causally related to his major depressive disorder or his right ankle disability because there was no established medical evidence directly connecting these disabilities to sleep apnea. (See C&P Exam, 12/12/2022.) The examiner did not address the question of secondary causation due to weight gain and inactivity.
+
+A VA opinion was also obtained in July 2023 with respect to the Veteran's toxic exposure history in service. (See C&P Exam, 07/02/2023.) The opinion stated that the Veteran's obstructive sleep apnea was less likely than not related to his exposure in service to burn pits and fine particulate matter. The opinion considered the question of individual exposures and combined synergistic effects of all exposures. The negative opinion also noted that the question of service connection for a medically unexplained chronic multisymptom illness (MUCMI) or undiagnosed illness was not applicable because sleep apnea is a disease with a clear and specific etiology and diagnosis.
+
+The Veteran has submitted a medical opinion which connected his obstructive sleep apnea to his service-connected disabilities. (See Medical Treatment Record, 10/27/2022.) Specifically, the medical provider noted that the Veteran's current weight was 237 pounds, with a BMI of 33.1, meeting the standard for obesity. The provider noted that weight gain and obesity is the number one risk factor for developing obstructive sleep apnea. The provider also cited studies which show a relationship between mental health disabilities, chronic pain, and sleep impairment. Studies also show a connection between medication to treat mental health conditions and weight gain, as well as NSAIDs for pain control and fluid retention impacting postural shifts during sleep. Based on these studies and the Veteran's medical history, the provider offered the opinion that (1) the Veteran's weight gain was at least as likely as not due to his service-connected ankle pain and major depressive disorder; (2) that the Veteran's obstructive sleep apnea was at least as likely as not due to his weight gain; and (3) that the Veteran's obstructive sleep apnea would not have occurred without the weight gain.
+
+(Continued on the next page)
+
+?
+
+After consideration of the record, with specific attention to the documents discussed above, the Board finds that the evidence supports the conclusion that the Veteran's obstructive sleep apnea is proximately due to his service-connected disabilities. The private medical provider's opinion satisfies the requirements of VAOGCPREC 1-2017 and Walsh v. Wilkie, 32 Vet. App. 300 (2020) for service connection based on obesity as an intermediate step of causation. In contrast, the VA examination and opinions did not address the question of intermediate step causation due to weight gain, instead addressing only the question of direct service connection. As there is no evidence which contradicts the medical opinion of record, the Board finds that the evidence in support of service connection is persuasive. The claim is granted.
+
+ 
+
+ 
+
+Eric S. Leboff
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Handy, Cheryl E.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

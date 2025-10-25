@@ -1,0 +1,53 @@
+Citation Nr: A25033784
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 231212-419028
+DATE: April 11, 2025
+
+ORDER
+
+The Veteran's eligibility category in the VA healthcare system of medical care and prescription copay required for income year 2022 was proper, and the claim is denied.
+
+FINDING OF FACT
+
+The Veteran's attributable household income for income year 2022 exceeded the Means Test and Geographical Means Test thresholds.
+
+CONCLUSION OF LAW
+
+The criteria for medical care and prescriptions without a copay in the VA healthcare system for income year 2022 have not been met.  38 U.S.C. §§ 1710, 1722A; 38 C.F.R. §§ 3.271, 3.272, 17.36, 17.47, 17.110.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+In December 2023, the Board of Veterans' Appeals (Board) received a VA Form 10182, Decision Review Request: Board Appeal electing the Direct Review docket to review a November 2023 decision by a VA Agency of Original Jurisdiction (AOJ).  Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal. 38?C.F.R. § 20.301.
+
+Income Verification Match (IVM) is a secure procedure by which VA may obtain income information from the Social Security Administration and the Internal Revenue Service (IRS), in order to verify income amounts that are reported to VA. The adjudication of this matter involves information provided by the IRS and Social Security Administration for 2022. However, to avoid disclosure of sensitive information, the Board's decision does not directly cite dollar amounts included in any IVM report that has not been verified by the Veteran. Therefore, the text of this decision is not subject to the additional protections required under the IVM procedures.
+
+VA shall furnish hospital care and medical services to any veteran who is unable to defray the expenses of necessary care. 38 U.S.C. §§ 1710(a)(2)(G). For the purposes of 38 U.S.C. § 1710(a)(2)(G), a veteran shall be considered to be unable to defray the expenses of necessary care if his attributable income is not greater than a specified income threshold, which is updated annually. 38 U.S.C. § 1722 (a)-(c). If a veteran does not qualify under 38 U.S.C. § 1710(a)(2)(G), he or she will be responsible for a copayment for VA healthcare services that relate to nonservice-connected disabilities.
+
+Service connection is not in effect for any disabilities. Therefore, the Veteran can only be exempt from medical care and prescription copayments if his income for 2022 did not exceed the NMT, GMT, and MAPR. See 38 C.F.R. §§ 17.110, 17.111. 
+
+The Veteran had one dependent, his spouse. The Means Test income threshold is updated annually and published in the Federal Register. See 38 C.F.R. § 3.28. For 2022, the national means test (NMT) threshold was $47,817 for a veteran with one dependent. The GMT threshold for a veteran with one dependent was $51,200. Since the Health Eligibility Center calculated the Veteran's income as being higher than the NMT and the GMT, the Veteran was assigned the MT copay required eligibility category.
+
+Determinations with respect to attributable income shall be made in the same manner, including the same sources of income and exclusions from income, as determinations with respect to income that are made for assessing eligibility for pension under 38 C.F.R. §§ 3.271 and 3.272. Payments from any source shall be counted as income during the 12-month annualization period in which received unless specifically excluded under 38 C.F.R. § 3.272. The exclusions include medical expenses. See 38 C.F.R. § 3.272(g). The term "attributable income" means income for the calendar year preceding application for care, determined in the same manner in which an income determination is made for pension purposes under 38 U.S.C. § 1521. See 38 U.S.C. § 1722(f)(1), (3); 38 C.F.R. § 17.47(d)(4).
+
+Medical expenses in excess of five percent of the applicable maximum annual rate of pension (MAPR) can be excluded from countable income if paid within the 12-month period. 38 C.F.R. § 3.272(g). The five percent deductible for 2022 was $1,050.  
+
+The IVM reports show income for the Veteran and his spouse that is approximately two times greater than the GMT in 2022. The Board notes that there was a discrepancy in the IVM match due to earned income from stocks. The Veteran contends that the reported income was actually a negative balance due to the fees associated with the transactions. Pursuant to 38 C.F.R. § 3.272, such is not an enumerated source that may be excluded from income for VA purposes. Rather, payments of any kind from any source shall be counted as income during the 12-month annualization period in which received. 38 C.F.R. § 3.271. In addition, the Veteran asserts that his income is below the MT and GMT because his AGI was actually less than the MAPR. However, for purposes of determining the effect of financial resources on obligations to pay copayments, income is defined as current income (including, but not limited to, wages and income from a business (minus business expenses), bonuses, tips, severance pay, accrued benefits, cash gifts, inheritance amounts, interest income, standard dividend income from non tax deferred annuities, retirement income, pension income, unemployment payments, worker's compensation payments, black lung payments, tort settlement payments, social security payments, court mandated payments, payments from VA or any other Federal programs, and any other income). See 38 C.F.R. § 17.111(d)(2)(i).
+
+Further, the Veteran included correspondence that explained medical expenses for that year totaled around $11,000 but no records are included to support the contention. Further, even assuming such expenses can offset countable income, the record shows income in excess of the MT and GMT even when the claimed medical expenses are deducted. The Board is sympathetic to the Veteran's contentions regarding the nuances of his financial picture but is limited by law in the consideration of the above earned income. Therefore, the Veteran is not exempt from copays for 2022; the Board notes that as the criteria for medical services copayments were not met, such is also not met on the basis of income for medication as the income threshold based on MAPR is lower.  See 38 U.S.C. § 1722 (f)(1), (3); 38 C.F.R. § 17.47(d)(4).
+
+Because the most probative evidence is against the claim, the benefit of the doubt doctrine is inapplicable, and the claim must be denied.  38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+H.M. WALKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A.O.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

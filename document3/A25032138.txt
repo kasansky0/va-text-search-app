@@ -1,0 +1,51 @@
+Citation Nr: A25032138
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240812-463797
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is granted.
+
+FINDING OF FACT
+
+Resolving all doubt in the Veteran's favor, his OSA is at least as likely as not related to his service.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for OSA have been met.  38 U.S.C. §§ 1110, 1141, 5103, 5103A, 5107 (2024); 38 C.F.R. § 3.102, 3.303 (2024).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from January 1976 to December 1982.  This matter came before the Board of Veterans Appeals (Board) on appeal from a February 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Hearing docket.  In September 2024, he withdrew the hearing request.  Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran or his within 90 days following the hearing withdrawal.  38 C.F.R. §?20.302(a).
+
+Entitlement to service connection for OSA
+
+The Veteran contends that he is entitled to service connection for OSA, to include as due to his in-service toxic exposure.  For the reasons outlined below, the Board finds that, resolving all reasonable doubt in the Veteran's favor, entitlement to service connection for OSA is warranted.
+
+Service connection may be established for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes the disease was incurred in service.  38 C.F.R. § 3.303(d).  Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability).  See Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Hickson v. West, 12 Vet. App. 247, 253 (1999); 38 C.F.R. § 3.303(a).
+
+VA is required to give due consideration to all pertinent medical and lay evidence in evaluating a claim for disability benefits. When the evidence is in approximate balance in the veteran's favor or nearly equal regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990). If the evidence is not in approximate balance or nearly equal, the claim is to be denied.  See Lynch v. McDonough, 21 F. 4th 776 (Fed. Cir. 2021).
+
+The Veteran has a diagnosis of OSA.  See February 2024 VA Sleep Apnea Examination.  VA Treatment records indicate that he began to complain of snoring in November 2004 and was diagnosed with OSA via a sleep study in 2006.   See November 2004 and October 2006 VA Treatment Records.
+
+The AOJ obtained a VA etiology opinion in February 2024.  The examiner found that the Veteran's OSA was less likely than not related to his service, to include his in-service toxic exposure.  However, despite evidence in the record of chemical and fuel exposure during the Veteran's regular duties, the examiner only provided discussion of his exposure during his Southwest Asia Service.  See July 1995 Service Treatment Record.  In addition, the examiner noted several risk factors for the development of OSA, to include weight gain, but provided discussion only regarding traumatic injury to the craniofacial or upper airway.  As the February 2024 VA etiology opinion failed to address all the relevant evidence of record, it is inadequate.    See Nieves- Rodriguez v. Peake, 22 Vet. App. 295 (2008); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).  The Board will therefore afford it no probative weight.
+
+In support of his claim, the Veteran submitted a private etiology opinion in December 2024.  Included in the report is the Veteran's competent lay statement that he began experiencing symptoms such as snoring and weight gain during service.  See Layno v. Brown, 6 Vet. App. 465, 470 (1994) (lay testimony is competent to prove that a claimant exhibited certain symptoms and the time period that those symptoms appeared).  The examiner determined that his OSA was at least as likely as not related to his service.  In particular, she determined that medical literature and the evidence of record supported a finding that the Veteran's high operational demands, physical and psychological stressors, irregular sleep patterns, musculoskeletal pain, and weight gain during service all contributed to his disease progression.  At the outset, the Board finds that the December 2024 private opinion is adequate for appellate review.  There is no evidence that the examiner was not competent or credible, and as the report is based on the Veteran's statements, file review, and the examiners' observations, the Board finds it is entitled to significant probative weight.  Nieves-Rodriguez, supra.
+
+Upon review of the above, the Board finds that the weight of the competent evidence is at least in approximate balance that the Veteran's OSA is related to his service.  The only competent etiology opinion of record is the December 2024 private opinion, which found that there was a nexus to the Veteran's service.  In particular, the examiner discussed the Veteran's weight gain during service.  Even the inadequate February 2024 VA opinion acknowledged that medical literature supported weight gain as a risk factor for the development of OSA, though it provided no discussion specific to the Veteran on that point.  Service treatment records do show that the Veteran was reported as above body fat standards during service.  See e.g., April 1981, February 1984, March 1984, June 1997 Service Treatment Records.  There is no other evidence of record contradicting the December 2024 private opinion or disassociating the weight gain during service from the disease process that resulted in the Veteran's later diagnosis of OSA.  As noted above, any doubt must be resolved in the Veteran's favor.  When combined with the competent lay evidence regarding the onset of snoring and weight gain during service, the Board therefore finds that it is as likely as not that the Veteran's OSA is related to his service.  Service connection is therefore warranted.  38 C.F.R. § 3.310. 
+
+ 
+
+E. I. VELEZ
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Bock
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

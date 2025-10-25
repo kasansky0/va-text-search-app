@@ -1,0 +1,123 @@
+Citation Nr: A25032691
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 231020-385844
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for gastroesophageal reflux disease (GERD) is granted.
+
+Entitlement to service connection for a gastric ulcer is granted.
+
+Entitlement to a rating higher than 10 percent for bilateral tinnitus is denied.
+
+REMANDED
+
+Entitlement to a compensable rating for pseudofolliculitis barbae is remanded.
+
+Entitlement to a rating higher than 30 percent for irritable bowel syndrome with gastritis is remanded.
+
+FINDINGS OF FACT
+
+1. The diagnosed GERD is due to medication prescribed to treat the Veteran's service-connected psychiatric disability.
+
+2. The diagnosed gastric ulcer is due to medication prescribed to treat the Veteran's service-connected psychiatric disability.
+
+3. For the entire period on appeal, the Veteran has been in receipt of the maximum available rating for bilateral tinnitus.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to secondary service connection for GERD have been met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+2. The criteria for entitlement to secondary service connection for gastric ulcer have been met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+3. The criteria for entitlement to a rating higher than 10 percent for bilateral tinnitus have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.87, Diagnostic Code 6260.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served honorably on active duty in the United States Army from January 1990 to March 1994.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from an October 2022 rating decision of a Department of Veterans Affairs (VA) Agency of Original Jurisdiction (AOJ). The Veteran was notified of that decision in November 2022.
+
+In August 2022, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of April 2022, June 2022, and July 2022 rating decisions. The October 2022 HLR decision on appeal considered the evidence of record at the time of those prior decisions.  
+
+In the October 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the April 2022, June 2022, and July 2022 AOJ decisions, which were subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decisions for the respective issues that were subsequently subject to higher-level review in October 2022, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+For those claims decided herein, if the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the related claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Because the Board is remanding the remaining claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The Veteran's representative has raised a claim of entitlement to a total disability rating based on individual unemployability due to service-connected disability (TDIU) in the context of his increased rating claim for irritable bowel syndrome. In general, a claim for a TDIU is part and parcel of an increased rating claim when such claim is raised by the record. See Rice v. Shinseki, 22 Vet. App. 447, 453 (2009). In this appeal, the Board declines to take on the issue of entitlement to a TDIU because it was already pending in an earlier appeal stream (Docket No. 230711-36054) as part and parcel of the increased rating claim for the psychiatric disability. As part of that separate appeal stream, a March 2025 Board decision remanded the issue of entitlement to a TDIU for further development. Because the claim of entitlement to a TDIU was already pending in a prior appeal stream and is in the process of being further developed, the Board declines to duplicate that issue in this decision at this time.  
+
+SERVICE CONNECTION
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a). To establish a right to compensation for a present disability, a Veteran must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service - the so-called "nexus" requirement.  Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)). Service connection may be granted for any disease initially diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d). 
+
+Establishing service connection on a secondary basis requires evidence sufficient to show that a current disability exists and that the current disability results from the service-connected disability. 38 U.S.C. §§ 1110, 1131; Spicer v. McDonough, 61 F.4th 1360, 1364, 1366 n.1 (Fed. Cir. 2023) (holding that section 1110 "requires compensation when a service-connected disease or injury is a but-for cause of a present-day disability" and noting that, apart from distinguishing whether service was during a period of war, 38 U.S.C. §§ 1110 and 1131 are identical).
+
+1. Entitlement to secondary service connection for GERD is granted.
+
+2. Entitlement to secondary service connection for a gastric ulcer is granted. 
+
+The Veteran asserts that secondary service connection is warranted for GERD and a gastric ulcer because those conditions were caused by medication he uses to treat his service-connected psychiatric disability. See November 2021 Correspondence. 
+
+The evidence shows and the AOJ has already favorably found that the Veteran is diagnosed with a gastric ulcer and GERD, and service connection is in effect for posttraumatic stress disorder with major depressive disorder and alcohol use disorder. Also, the more probative evidence shows the claimed disabilities are etiologically related to the Veteran's service-connected psychiatric disability.
+
+In May 2022, the AOJ secured addendum opinions as to whether any of the medications prescribed to treat the Veteran's service-connected conditions caused or aggravated the claimed GERD and gastric ulcer. That examiner opined that it was at least as likely as not that both GERD and the gastric ulcer were caused by Sertraline, a medication that the Veteran was prescribed to treat his psychiatric disability. The examiner explained that Sertraline was a selective serotonin reuptake inhibitor, and that GERD and gastric ulcers were known side effects of that type of medication. The examiner cited to medical literature from the Mayo Clinic stating the same thing to support their conclusion. That opinion is adequate and highly probative.
+
+VA obtained another medical opinion in July 2022, but it is not adequate. That examiner opined that GERD and the gastric ulcer were not related to medications prescribed to treat the Veteran's service-connected conditions because there was no objective evidence to confirm that relationship, and because the causes of those conditions were multifactorial. That opinion is overly conclusory and fails to address the noted medical literature showing the positive association that was cited in the prior opinion. As a result, the July 2022 opinion is not afforded probative weight.
+
+Instead, the more probative May 2022 opinion establishes that the diagnosed GERD and gastric ulcer are at least as likely as not caused by medication prescribed to treat the Veteran's service-connected psychiatric disability. The criteria for secondary service connection for GERD and gastric ulcer are met, and those claims are fully granted. 
+
+INCREASED RATING
+
+Disability ratings are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects their ability to function under the ordinary conditions of daily life, including employment, by comparing their symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule). See 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.10. If two ratings are potentially applicable, the higher rating will be assigned if the disability more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran. See 38 C.F.R. § 4.3.
+
+In evaluating the severity of a particular disability, it is essential to consider its history. 38 C.F.R. §§ 4.1, 4.2, 4.41. However, where an increase in the disability rating, rather than the propriety of the initial rating, is at issue, the present level of disability is of primary importance, and past medical reports should not take precedence over current findings. Francisco v. Brown, 7 Vet. App. 55, 58 (1994). Regardless of whether an appeal stems from disagreement with the initial rating assigned following an award of service connection or from disagreement with the rating assigned following a claim for increase, separate ratings can be assigned for separate periods of time based on the facts found. Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007) (citing Fenderson v. West, 12 Vet. App. 119, 126 (1999)).
+
+1. Entitlement to a rating higher than 10 percent for bilateral tinnitus
+
+The Veteran has appealed the 10 percent rating assigned for tinnitus but neither he nor his attorney has offered argument as to why a higher rating is warranted. Tinnitus is specifically listed in the rating schedule at 38 C.F.R. § 4.87, Diagnostic Code (DC) 6260. Under DC 6260, 10 percent is the maximum rating for tinnitus. Copeland v. McDonald, 27 Vet. App. 333, 336 (2015) (where a condition is listed in the rating schedule, rating by analogy is not appropriate). Because the Veteran is already in receipt of the maximum allowable rating for tinnitus for the entire period on appeal, there is no basis to award a higher rating, and the claim must be denied. As the evidence of record persuasively weighs against a higher rating, the benefit-of-the-doubt rule does not apply. 38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+REASONS FOR REMAND
+
+1. Entitlement to a compensable rating for pseudofolliculitis barbae is remanded.
+
+This issue is remanded to correct a duty to assist error that occurred prior to the decision on appeal. The Board must remand an appeal to the AOJ for correction of an error on the part of the AOJ to satisfy its duties under 38 U.S.C. 5103A if the error occurred prior to the date of the AOJ decision on appeal. 38 C.F.R. § 20.802. VA's duty to assist claimants to obtain evidence needed to substantiate a claim includes making reasonable efforts to obtain relevant private medical records.  38 C.F.R. § 3.159(c)(1). 
+
+Here, the AOJ was on notice of the existence of outstanding and potentially relevant private treatment records at the time of the June 2022 decision that adjudicated entitlement to a higher rating for pseudofolliculitis barbae. At the January 2022 VA examination, the Veteran reported he had started laser treatment for pseudofolliculitis barbae in December 2021, however those treatment records are not in the claims file. Because the AOJ was on notice of the existence of outstanding and potentially relevant private treatment records while the duty to assist the Veteran still attached, the failure to undertake reasonable efforts to obtain them was a duty to assist error that must be cured on remand. 
+
+2. Entitlement to a rating higher than 30 percent for irritable bowel syndrome with gastritis is remanded.
+
+This issue is remanded to obtain an adequate medical examination regarding the severity of the claimed disability. VA's duty to assist includes securing an adequate medical examination and/or opinion when necessary to decide a claim. Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). For increased rating claims, an adequate examination report is one that contains all findings necessary to rate the disability. In this case, the AOJ failed to obtain an adequate medical examination that contained all findings necessary to rate the disability prior to issuing the decision on appeal.
+
+By way of background, the June 2022 rating decision combined gastritis with irritable bowel syndrome under Diagnostic Code 7319 and continued the 30 percent rating under Diagnostic Code 7319. Although the Veteran is already in receipt of the maximum allowable rating for irritable bowel syndrome, higher ratings may be available under the Diagnostic Code for gastritis if that is the predominant disability. Under the rating criteria for the digestive system, Diagnostic Codes 7301 through 7329 cannot be combined. See 38 C.F.R. § 4.114. Instead, when more than one rating is warranted under those diagnostic codes, a single evaluation shall be assigned under the diagnostic code that reflects the predominant disability picture. That rating may be elevated it to the next higher evaluation if warranted by the severity of the overall disability.
+
+The Veteran specifically asserts that his gastritis could warrant a higher rating under Diagnostic Codes 7307/7304. See January 2022 lay statement. The rating schedule for the digestive system were amended effective May 19, 2024, and during the pendency of the appeal. Prior to May 19, 2024, Diagnostic Code 7307 for gastritis provided for a maximum 60 percent rating. On and after that date, Diagnostic Code 7307 was amended to state that chronic gastritis was to be rated as peptic ulcer disease under Diagnostic Code 7304. Diagnostic Code 7304 also allows for ratings higher than 30 percent and up to 100 percent. Prior to the May 19, 2024 amendments, Diagnostic Code 7304 was for a gastric ulcer and provided a maximum 60 percent rating for pain only partially relieved by standard ulcer therapy, periodic vomiting, recurrent hematemesis or melena, with manifestations of anemia and weight loss productive of definite impairment of health. 
+
+The Veteran underwent a VA examination in May 2022 specifically for gastritis. The Veteran related that his symptoms included discomfort after eating and drinking, stomach pain, feeling full quickly, bloating, and burning. For VA rating purposes, the examiner noted the following signs or symptoms "due to any stomach or duodenum condition:" periodic abdominal pain on partially relieved by standard ulcer therapy; periodic nausea with 4 or more episodes per year that averaged 1 to 9 days at a time; and periodic vomiting with 4 or more episodes per year that averaged 1 to 9 days at a time. The examiner noted diagnostic studies that showed esophagitis, inflammation of the stomach, and one linear gastric ulcer. Later in the report, in the section for "other conditions" the examiner stated the Veteran did not have atrophic or hypertrophic gastritis, and the examiner did not include the findings necessary to rate chronic gastritis under Diagnostic Code 7307. Other VA and private treatment records discuss the symptoms of nausea and vomiting in the context of the separately diagnosed GERD, which has been service-connected as a result of this decision. Because the 2022 examination report did not contain all findings necessary to rate the noted gastritis, and did not clarify the symptoms specifically attributable to gastritis, the examination report was not adequate. Thus, remand is required to correct this error.
+
+The matters are REMANDED for the following action:
+
+1. Contact the Veteran and afford him the opportunity to identify by name, address and dates of treatment or examination any relevant medical records related to the laser treatment for his pseudofolliculitis barbae. Subsequently, and after securing the proper authorizations where necessary, make arrangements to obtain all the records of treatment or examination from all the sources listed by the Veteran which are not already on file. All information obtained must be made part of the file. All attempts to secure this evidence must be documented in the claims file, and if, after making reasonable efforts to obtain named records, they are not able to be secured, provide the required notice and opportunity to respond to the Veteran and his representative.
+
+(Continued on next page.)
+
+?
+
+2. Schedule the Veteran for an examination by an appropriate clinician to determine the current severity of the service-connected chronic gastritis. The examiner should provide a full description of the disability and report all signs and symptoms necessary for evaluating the Veteran's chronic gastritis disability under the rating criteria.
+
+ 
+
+L. STEPANICK
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. Smith, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,73 @@
+Citation Nr: A25033342
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240926-478886
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to service connection for tinnitus is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from February 1977 to November 1979. This matter comes before the Board of Veterans' Appeals (Board) on appeal from a September 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office (RO). 
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the September 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. However, because the Board is remanding the Veteran's claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+Previously, the RO found that new and relevant evidence has been received sufficient to readjudicate the Veteran's previously denied claim for service connection. See Rating Decision, September 24, 2024. The Board will not disturb that favorable finding. 38 C.F.R. § 3.104(c).
+
+As a final preliminary matter, the Board notes that the Veteran did not waive the remainder of his window to request a change of dockets pursuant to Williams v. McDonough, 37 Vet. App. 305 (2024). However, the current decision is a remand which does not constitute a final determination on the benefit sought. Therefore, the absence of a waiver represents only harmless error by the Board.
+
+The Veteran asserts that his tinnitus was caused by exposure to harmful noise during service. The RO has conceded that the Veteran has a current diagnosis of tinnitus and that his service as an infantryman carries a high likelihood of exposure to harmful noise. See Rating Decision, September 24, 2024; DD 214. The Board will not disturb those favorable findings. 38 C.F.R. § 3.104(c).
+
+After careful review, the Board finds that the claims file includes no explicit testimonial statements from the Veteran regarding continuity of tinnitus symptoms following active service.  
+
+In August 2024, VA received a medical article titled "Vestibular Schwannoma (Acoustic Neuroma) and Neurofibromatosis," which was issued by the National Institute on Deafness and Other Communication Disorders. Correspondence, August 2024. Upon review, this article discusses a correlation between audiological conditions (including tinnitus and hearing loss) and a benign tumor called vestibular schwannoma. Upon review, the record includes no medical evidence showing that the Veteran has a vestibular schwannoma or any other form of acoustic neuroma. 
+
+To determine the nature and cause of the Veteran's audiological disabilities, he was afforded a VA examination in June 2024. The examiner authored a positive opinion to support a grant of service connection for bilateral hearing loss. However, the provider gave a negative opinion regarding tinnitus: 
+
+"There is no report or diagnosis of tinnitus during the service dates listed and the first report of tinnitus occurred on 02/23/2024. Nexus is not established; therefore, Veteran's tinnitus is less likely than not caused by his military noise exposure." 
+
+The examiner assessed that the "Veteran's hearing loss predates his tinnitus." However, the examiner also assessed the Veteran's onset date for tinnitus is "Unknown." As the Veteran's representative has pointed out, those statements represent an unexplained contradiction by the examiner. Appellate Brief, October 2024. If the onset date is unknown, the examiner has not explained how they can, with any degree of certainty, determine that tinnitus symptoms began subsequent to the onset of hearing loss.  
+
+For these reasons, the Board finds that the examiner's negative opinion is inadequate to support denial for service connection. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (holding that a medical opinion obtains probative weight from "factually accurate, fully articulated, sound reasoning for the conclusion").
+
+The RO's failure to obtain an adequate opinion constitutes a pre-decisional duty to assist error that should be corrected on remand. 38 C.F.R. § 20.802(a); Barr v. Nicholson, 21 Vet. App. 303 (2007) (when VA undertakes to provide an examination for a claim for service connection, even if not statutorily obliged to do so, it must provide an adequate one or, at minimum, notify the claimant why one will not or cannot be provided).
+
+The Board also notes that the Veteran has been receiving disability benefits from the Social Security Administration (SSA). SSA Inquiry, April 2024 ("Current Entitlement Date: 02/2023"). Under 38 C.F.R. § 3.159(c)(2), "VA will make as many requests as are necessary to obtain relevant records from a Federal department or agency." Because the Veteran is receiving disability benefits from SSA, those records may include evidence relevant to his claim for service connection. Accordingly, that claim should be remanded for the RO to obtain documents from SSA. The RO's failure to obtain SSA records constitutes a pre-decisional duty-to-assist error, which should be corrected on remand. 38 C.F.R. § 20.802(a).
+
+The matter is REMANDED for the following actions:
+
+1. Obtain Social Security records pertaining to the Veteran's application for and grant of disability benefits from that administration. 38 C.F.R. § 3.159(c)(2). 
+
+2. After completing the previous directive to the extent possible, schedule a VA examination with a medical provider to determine the nature and cause of the Veteran's tinnitus.  
+
+The examiner should determine whether tinnitus is directly related to noise exposure during active service.
+
+The examiner should note that VA has conceded a current diagnosis of tinnitus and an in-service incurrence based on noise exposure during service as an infantryman. Additionally, the Veteran is currently service connected for bilateral hearing loss. 
+
+The examiner should determine whether the Veteran's tinnitus is directly related to noise exposure during active service.  
+
+While making the above determination, the examiner should consider any relevant lay evidence and medical evidence. The examiner is advised that the Veteran is competent to report the onset and continuation of lay-observable symptoms, and his reports must be considered when formulating the requested opinions. 
+
+The relevant medical evidence includes, but is not limited to, an article titled "Vestibular Schwannoma (Acoustic Neuroma) and Neurofibromatosis" from the National Institute on Deafness and Other Communication Disorders." Correspondence, August 2024. 
+
+The examiner should be aware that the absence of complaints or treatment for a disability during military service is not, by itself, fatal to the Veteran's claim for service connection.  
+
+If it is not possible to provide any opinion without speculation, the examiner should explicitly state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts); a deficiency in the record (additional facts are required); or a deficiency in the examiner (does not have the knowledge or training).
+
+A clear and complete rationale should be given for each opinion expressed, as well as a discussion of all the facts and medical principles involved.
+
+ 
+
+ 
+
+Jenna Brant
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J.D. Shoup, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

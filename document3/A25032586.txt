@@ -1,0 +1,63 @@
+Citation Nr: A25032586
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240429-437190
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is denied.
+
+FINDING OF FACT
+
+The evidence of record persuasively weighs against finding that the Veteran had bilateral hearing loss for VA purposes during or proximate to the pendency of the claim.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for bilateral hearing loss have not been met. 38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from February 1994 to June 1994, March 1995 to May 1997, September 2002 to June 2004, and August 2010 to May 2012.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a May 2023 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO). The May 2023 rating decision was issued in response to the Veteran's March 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review, which he submitted as to a February 2023 rating decision. In April 2024, the Veteran submitted VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), appealing the May 2023 rating decision to the Board. He elected the Direct review option; therefore, the Board may only consider the evidence of record at the time of the February 2023 rating decision. 38 C.F.R. § 20.301.
+
+As to any evidence associated with the claims file after the February 2023 rating decision, the Board cannot consider such. 38 C.F.R. § 20.301; see also Cook v. McDonough, 36 Vet. App. 175 (2023). To the extent that this evidence may relate to the claim decided below, the Veteran is advised to submit a Supplemental Claim. Instructions for doing so are attached to this decision.
+
+VA regulations provide that, "[u]pon request, a claimant is entitled to a hearing on any issue involved in a claim... before VA issues notice of a decision on an initial or supplemental claim." 38 C.F.R. § 3.103(d)(1). That regulation does not indicate that the claimant is entitled to pre-decisional notice of this optional hearing. In fact, 38 C.F.R. § 3.103(b)(1) provides that, following a decision, "[c]laimants and their representatives are entitled to notice of any decision made by VA affecting the payment of benefits or the granting of relief... [including] the right to a hearing on any issue involved in the claim as provided in paragraph (d) of this section...." Read together with § 3.103(d), the only notice § 3.103(b) requires is that a claimant be provided notice of the right for a hearing with notification of the decision (by definition, a post-decisional notice). In November 2022, VA amended VA Form 21-526EZ and, in May 2024, VA amended VA Form 20-0995 to inform claimants of the right to a hearing at any time during the claims process. The claim in this appeal was filed prior to the amended version of VA Form 21-526EZ. However, the Board finds that any error in the failure to inform the Veteran of the right to a pre-decisional hearing before the Regional Office (RO) was harmless error.
+
+In Bowen, the Court found that when a claimant is denied a hearing before the RO, there is no due process violation if she is subsequently offered the opportunity for a hearing before the Board, even if a hearing was not requested or conducted, as long as there is no violation of due process concerning the Board hearing opportunity. Bowen v. Shinseki, 25 Vet. App. 250, 253-4 (2012). The facts in the case can be differentiated on several levels, to include that the Veteran did not actually request an RO hearing and the issue in Bowen was not one of notice. Regardless, the Board cannot find a basis to conclude that the underlying holding and logic of the Bowen case would not lead to the same finding of no prejudicial error under the procedure and facts of this case. The notification letter informing the Veteran of the rating decision on appeal included VA Form 20-0998, Your Right to Seek Review of Our Decision, outlining the Veteran's appeal options, to include a hearing before the Board. Additionally, in the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran was provided with an option to request a hearing with a Veterans Law Judge. The Veteran instead elected for Direct review by a Veterans Law Judge, and the form explicitly states that by choosing this option, he does not want a Board hearing. Because the Veteran was provided with notice of the right to appeal to the Board, as well as the right to a Board hearing, there was no due process violation in the processing of the claim or any suggestion that he was prejudiced by the failure of VA to provide a hearing at the RO level. See Bowen.
+
+The Board notes that the Veteran has a separate pending appeal as to service connection for posttraumatic stress disorder (docket 240503-439516), and a decision in that appeal will be issued in the ordinary course of business.
+
+Discussion
+
+The Veteran seeks service connection for bilateral hearing loss, which he generally contends is related to his active service, which involved a high probability of hazardous noise exposure in his military occupational specialty as an M1 armor crewman. See December 2022 VA Examination. 
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated during active service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303(a). Generally, service connection for a disability requires competent evidence of: (1) the existence of a current disability; (2) the existence of the disease or injury in service; and (3) a causal relationship or nexus between the current disability and any injury or disease during service. See Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009).
+
+Impaired hearing is considered a disability for VA compensation purposes when the auditory threshold in any of the frequencies of 500, 1000, 2000, 3000, or 4000 Hertz is 40 decibels or greater; the thresholds for at least three of these frequencies are 26 or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent. 38 C.F.R. § 3.385.
+
+The Veteran was afforded a VA examination assessing the nature and extent of his claimed bilateral hearing loss in December 2022. At the examination, neither his right nor left ear hearing acuity reached 40 decibels in any of the above-listed frequencies or 26 decibels or greater in at least three of the above-listed frequencies, and neither involved a Maryland CNC speech recognition score of less than 94 percent. Accordingly, audiology testing at the examination failed to demonstrate bilateral hearing loss for VA purposes. 38 C.F.R. § 3.385.
+
+The Board finds that a current bilateral hearing loss disability is not demonstrated by the record. The Board recognizes that the Veteran is competent to report the onset and ongoing existence of certain symptoms of hearing loss, such as difficulty hearing others, as those observations come to him through his senses. Jandreau v. Nicholson, 492 F.3d 1372, 1377, n.4 (Fed. Cir. 2007). However, as diagnosis of hearing loss for VA purposes pursuant to 38 C.F.R. § 3.385 is mechanical in nature and he has not been shown to possess audiological training or experience and access to equipment necessary to test his own hearing acuity and interpret the results pursuant to VA standards, the Board finds that he is not competent to diagnose himself with a bilateral hearing loss disability.
+
+The Board finds that a bilateral hearing loss disability is not demonstrated by the record. The Board has not overlooked the Court's holding in Hensley that the threshold for normal hearing is from 0 to 20 decibels and higher thresholds indicate some degree of hearing loss. Hensley v. Brown, 5 Vet. App. 155, 157 (1993). Here, while the Veteran's hearing acuity equaled or exceeded 20 dB in at least one frequency for both ears at the December 2022 VA examination, such hearing loss, again, does not meet the threshold to be considered a disability for VA purposes; therefore, he does not have a bilateral hearing loss disability such that the Board may continue in a service connection analysis. 38 C.F.R. §§ 3.385, 1110; see McKinney v. McDonald, 28 Vet. App. 15, 23, 27-38 (2016) (finding "because hearing loss is not considered a "disability" unless the loss exceeds a certain threshold on an audiometric test, a minimum degree of hearing loss is a prerequisite for entitlement to disability compensation benefits").
+
+As there is no evidence demonstrating a bilateral hearing loss disability for VA purposes, there can be no valid claim for entitlement to service connection. Discussion of the remaining elements for entitlement to service connection, including the possibility of presumptive service connection, is unnecessary.
+
+As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and service connection for bilateral hearing loss is not warranted.
+
+ 
+
+ 
+
+MICHELLE L. KANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Tierno
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

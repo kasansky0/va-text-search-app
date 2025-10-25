@@ -1,0 +1,109 @@
+Citation Nr: A25032514
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 221129-301031
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is denied.
+
+FINDING OF FACT
+
+The evidence is persuasively against finding that the Veteran has a current hearing loss disability for VA compensation purposes.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for bilateral hearing loss have not been met.  38 U.S.C. §§ 1101, 1110, 1112, 1113; 38 C.F.R. §§ 3.303, 3.307, 3.309, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from October 1990 to November 1993.
+
+The rating decision on appeal was issued in November 2022; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  See 38 C.F.R. § 3.2400(a)(1). 
+
+In September 2022, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a September 2022 rating decision.  In November 2022, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior decision. 
+
+In the November 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2022 AOJ rating decision, which was subsequently subject to higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service connection will be granted if the Veteran has a disability resulting from personal injury or disease incurred in the line of duty, or for aggravation of a preexisting injury or disease incurred in the line of duty during active service.  38 U.S.C. § 1110, 1131; 38 C.F.R. § 3.303.  
+
+Service connection may also be granted on a secondary basis for a disability that is proximately due to or the result of a service-connected disability.  See 38 C.F.R. § 3.310.  Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) proximately caused by or (b) proximately aggravated by a service-connected disability.  Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).  Where a service-connected disability aggravates a nonservice-connected condition, a Veteran may be compensated for the degree of disability (but only that degree) over and above the degree of disability existing prior to the aggravation.  Id.  Secondary service connection may be granted where a non-service-connected disability would have been less severe but for a service-connected disability.  Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023).
+
+Certain chronic diseases, to include organic diseases of the nervous system such as hearing loss, may be presumed to have been incurred during service if manifested to a compensable degree within one year of separation from active service.  38 U.S.C. § 1112; 38 C.F.R. §§ 3.307, 3.309.  Moreover, if a disease listed in 38 C.F.R. § 3.309(a) is shown to be chronic in service, subsequent manifestations of the same chronic disease at any later date, however remote, are service connected, unless clearly attributable to intercurrent causes.  38 C.F.R. § 3.303(b).  For the showing of chronic disease in service, there is required a combination of manifestations sufficient to identify the disease entity and sufficient observation to establish chronicity at the time.  Id.
+
+However, if evidence of a chronic condition is noted during service or during the presumptive period, but the chronic condition is not "shown to be chronic, or where the diagnosis of chronicity may be legitimately questioned," i.e., "when the fact of chronicity in service is not adequately supported," then a showing of continuity of symptomatology after discharge is required to support a claim for disability compensation for the chronic disease.  Walker v. Shinseki, 708 F.3d 1331, 1333 (Fed. Cir. 2013) (quoting 38 C.F.R. § 3.303(b)).  A claimant "can benefit from continuity of symptomatology to establish service connection in the ultimate sense, but only if [the] chronic disease is one listed in § 3.309(a)."  Id. at 1337.
+
+The threshold for normal hearing is from 0 to 20 decibels, and puretone thresholds above 20 decibels may demonstrate hearing loss.  McKinney v. McDonald, 28 Vet. App. 15, 24-5 (2016).  However, hearing loss at this level does not equate as being a "disability" for VA purposes.  Id. at 24-5.  Specifically, hearing loss does not constitute a disability if it does not meet the threshold requirements set forth in 38 C.F.R. § 3.385.  Palczewski v. Nicholson, 21 Vet. App. 174, 179-80 (2007).  Under this standard, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz, is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz, are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.
+
+The Veteran asserts bilateral hearing loss due to her active service.  Specifically, she claimed exposure to noise trauma from sirens, pistols, rifles, 2.5-ton trucks, grenades, machine guns, and artillery.  She stated that she has difficulty hearing everyday sounds, such as high-pitched voices, and that it is hard to hear with any background noise.  She must ask others to repeat themselves constantly and people tell her that she talks too loudly.
+
+The Board notes the Veteran's military occupational specialty of military police.  Additionally, the Veteran is service-connected for tinnitus from March 2022.  
+
+In service, the Veteran had no complaints of or treatment for hearing issues.  On her January 1990 enlistment examination, she marked "yes" for ear, nose, and throat trouble.  In the remarks section, it was noted that the Veteran was previously treated for otitis externa.  Her enlistment audiogram was as follows:
+
+			HERTZ		
+
+	500	1000	2000	3000	4000
+
+RIGHT	15	00	00	10	00
+
+LEFT	15	00	05	15	10
+
+The Veteran was discharged from active duty in November 1993 and there is no separation examination of record.  Medical records were afterward silent for complaints of or treatment for any hearing issues for approximately 24 years.
+
+Following service, in an October 2017 clinic visit the Veteran denied any hearing difficulty, ear pain or drainage, or tinnitus.
+
+In October 2019, the Veteran complained of worsening hearing loss at a primary care visit.  She was to follow up with audiology.
+
+The Veteran was seen in January 2020 for an initial audiological consult.  She complained of difficulty hearing her partner from another room or during noise.  The Veteran denied any history of ear pathology, head injury, balance disorders, or aural fullness.  She did report occasional bilateral tinnitus which was not bothersome.  Pure tone audiometry at this visit showed "essentially normal hearing with some high frequency mild loss."  Speech recognition scores were 100 percent bilaterally.  
+
+The Veteran was afforded a VA hearing examination in January 2021.  The Veteran stated that she has been having trouble hearing for a long time and that it is gradually getting worse.  She often must ask people to repeat themselves.  The examiner considered the Veteran's MOS of military police which had a moderate probability of hazardous noise exposure, and noted the Veteran's badges for the rifle, pistol, 9mm, grenades, and as a driver mechanic.  Her audiogram was as follows:
+
+			HERTZ		
+
+	500	1000	2000	3000	4000
+
+RIGHT	15	15	20	20	5
+
+LEFT	5	5	15	15	20
+
+Speech recognition scores using the Maryland CNC Test were 98 percent bilaterally.  The Veteran was diagnosed with normal hearing bilaterally.  The examiner concluded that the Veteran's hearing was within normal limits.  
+
+The Board acknowledges an October 2021 private medical opinion regarding the Veteran's tinnitus. See Medical Treatment Record received by VA March 2022.  While the opinion references the Veteran's "auditory condition" and hearing loss generally, a nexus opinion was only rendered as to tinnitus.  No audiogram or speech scores were provided as part of that opinion, and no hearing loss diagnosis was made.  Therefore, the Board finds the October 2021 private medical opinion has no probative value regarding whether the Veteran has a hearing loss disability per 38 C.F.R. § 3.385.
+
+The Veteran was afforded a VA hearing examination in July 2022.  The Veteran stated that she began noticing hearing difficulty approximately 20 years ago.  She has difficulty in noisy environments, has to blast the TV because she cannot hear the words, and speech is not clear.  She stated that she just nods her head and makes up what people are saying.  The examiner considered the Veteran's MOS and the Veteran's badges in weapons.  Her audiogram was as follows:
+
+			HERTZ		
+
+	500	1000	2000	3000	4000
+
+RIGHT	20	15	25	25	20
+
+LEFT	15	10	20	20	25
+
+Speech recognition scores using the Maryland CNC Test were 96 percent in the right ear and 98 percent in the left ear.  The Veteran was diagnosed with normal hearing bilaterally.  
+
+Here, the Veteran claims hearing loss and the AOJ favorably found treatment for hearing loss in the VA clinic setting.  There is, however, a difference between hearing loss and a hearing loss disability.  VA regulations establish when such hearing loss reaches the level of disability which the AOJ recognized in specifically finding that the Veteran did not manifest a hearing loss disability per VA standards.  Since the existence of hearing loss disability requires certain specific testing, the Veteran is not competent to establish that she has disability as distinguished from just perceived decreased acuity.  Hearing loss does not constitute a disability if it does not meet the threshold requirements set forth in 38 C.F.R. § 3.385.  Palczewski, 21 Vet. App. At 179-80.  
+
+Without a current disability, discussion of the remaining criteria for service connection is not necessary. Here, the law requires two elements. There must be a disease or injury and a resulting disability (impairment). In the absence of a disability, compensation may not be awarded, even if there is an underlying disease.
+
+As such, the Board finds the Veteran did not have a hearing loss disability for compensation purposes under VA standards at any time during the appeal period. The objective test results are controlling in this case. In the absence of evidence of a current disability, there can be no grant of service connection under the law. Brammer, 3 Vet. App. at 223.
+
+The evidence is against the Veteran's claim, and there is no doubt to be resolved. Accordingly, the claim for service connection for hearing loss must be denied. See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49, 53-56 (1990).
+
+ 
+
+T. MAINELLI
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Estes
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

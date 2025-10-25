@@ -1,0 +1,103 @@
+Citation Nr: A25032395
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240502-436902
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+Entitlement to service connection for tinnitus is remanded.
+
+REASONS FOR REMAND
+
+The Veteran honorably served on active duty in the United States Navy from June 1972 to March 1973 with a Military Occupational Specialty (MOS) of electrician. See DD Form 214. 
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from a February 2024 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO), denying the claims. In May 2024, the Veteran appealed the denials to the Board, and he selected the direct review docket on his Notice of Disagreement (NOD). See VA Form 10182. 
+
+APPLICABLE EVIDENTIARY WINDOW
+
+As the appellant has selected the Direct Review Docket, the Board may only consider the evidence of record before the AOJ at the time of its decision on the issue(s) on appeal. See 38 C.F.R. §§ 20.300(a), 301. The Board will not consider evidence received after the AOJ decision unless the claimant files a timely request for a Board hearing or an opportunity to submit additional evidence on the NOD (VA Form 10182). 38 C.F.R. § 20.301. The appellant has not filed such a request. If additional evidence was submitted after the AOJ decision, the Board will not consider it. The appellant is welcome to file a supplemental claim to have this evidence considered. See Cook v. McDonough, 36 Vet. App. 175 (2023). 
+
+1. Entitlement to service connection for bilateral hearing loss.
+
+The Veteran claims that his bilateral hearing loss is related to his in-service hazardous noise exposure. See December 2023 VA Form 21-526EZ Fully Developed Claim. 
+
+The February 2024 rating decision on appeal made the favorable findings that the Veteran has a current disability, and that he was exposed to hazardous noise during service. See February 2024 Rating Decision. As such, these findings are binding on the Board. 38 C.F.R. § 20.801(a). 
+
+Therefore, the outstanding question for the Board is whether his bilateral hearing loss is related to his in-service hazardous noise exposure. 
+
+In January 2024, the Veteran was afforded a VA examination for his hearing loss, at which time the Veteran reported that during service he served on an aircraft carrier and was exposed to noise from the aircrafts landing and taking off on the carrier, and from the engine room to which he was assigned, indicating that hearing protection was not provided. See January 2024 VA Examination Report. Moreover, the Veteran reported that while on the ship, he was hit in the right ear with a metal tray, but never reported the incident. Id. The Veteran's post-service occupational noise exposure included working in the coal mines for about 20 years, without wearing hearing protection. Id. 
+
+With respect to the right ear hearing loss, upon review of the service treatment record, the VA examiner opined that the Veteran's right ear hearing loss preexisted service based on the June 1972 audiology test taken at entrance, showing abnormal hearing at the 3000 Hz frequency. Id. 
+
+Notably, the Veteran's thresholds at entrance were as follows:
+
+			HERTZ		
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	15	15	15	N/A	30
+
+LEFT	20	15	25	N/A	25
+
+See December 2023 STR. 
+
+The thresholds for normal hearing are between 0 and 20 decibels, and higher thresholds show some degree of hearing loss. See Hensley v. Brown, 5 Vet. App. 155, 157 (1993). For VA purposes, hearing loss will be considered a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, 4000 Hertz is 40 decibels or greater; or when the auditory threshold for at least three of the frequencies 500, 1000, 2000, 3000, 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent. 38 C.F.R. § 3.385.
+
+Here, the Veteran's puretone thresholds did not meet the legal standard for hearing loss pursuant to VA regulations because none of his puretone thresholds were 40 decibels or greater in any frequency from 500 to 4000 Hz, alternatively his puretone thresholds were not 26 or greater in at least three frequencies from 500 to 4000 Hz. See 38 C.F.R. § 3.385.
+
+In sum, the VA examiner's opinion that the Veteran had right ear hearing loss that preexisted service was inadequate. See Reonal v. Brown, 5 Vet. App. 458, 461 (1993) (holding that an opinion based upon an inaccurate factual premise has no probative value). 
+
+Moreover, the VA examiner opined that, although the Veteran's separation audiology exam consisted of a whisper exam, known to not be a reliable indicator of hearing sensitivity, his preexisting hearing loss was not aggravated by service because the Veteran only served for 8 months, while he had a longer and "greater" post-service occupational noise exposure based on his work in a coal mine. Id. 
+
+The Board finds that the opinion is unsupported by a thorough medical analysis. The Board must be able to conclude that a medical expert has applied valid medical analysis to the significant facts of the case to reach the conclusion submitted in the medical opinion. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295,304 (2008); see also Stefl v. Nicholson, 21 Vet. App. 120 (2007) (holding "a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision as to what weight to assign to a doctor's opinion")."
+
+The VA examiner provided the same rationale in support of the negative opinion for the Veteran's left ear hearing loss, did not preexist service. For the same reasons discussed above, the Board concludes that the opinion is equally inadequate.   
+
+In conclusion, the Board finds that the AOJ's reliance on such inadequate opinion constituted a pre-decisional duty-to-assist error that needs to be cured in order to adjudicate the claim on appeal. 38 U.S.C. § 5103A; 38 C.F.R. § 20.802. Thus, entitlement to service connection for bilateral hearing loss is remanded.
+
+2. Entitlement to service connection for tinnitus.
+
+The Veteran claims that his tinnitus is related to his in-service hazardous noise exposure. See December 2023 VA Form 21-526EZ Fully Developed Claim. 
+
+The February 2024 rating decision on appeal made the favorable findings that the Veteran has a current disability, and that he was exposed to hazardous noise during service. See February 2024 Rating Decision. As such, these findings are binding on the Board. 38 C.F.R. § 20.801(a). 
+
+Therefore, the outstanding question for the Board is whether his tinnitus is related to his in-service hazardous noise exposure. 
+
+In January 2024, the Veteran was afforded a VA examination for his hearing loss and tinnitus claim. At that time, the Veteran reported having intermittent tinnitus that has been ongoing "for a very long time," and he cannot recall the precise onset of the disability. See January 2024 VA Examination Report. Ultimately, the VA examiner opined that the tinnitus is not related to his service because the Veteran's "description of his tinnitus does not meet the Dauman and Tyler definition of tinnitus and is more descriptive of transient ear noise." Id. 
+
+Tinnitus is defined as a noise subjectively heard within the ears and is a condition capable of lay observation and diagnosis. Charles v. Principi, 16 Vet. App. 370, 374 (2003) (observing that "ringing in the ears is capable of lay observation."), Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007). 
+
+Here, the Veteran is competent to report tinnitus, which he described as "ringing in ear" in his December 2023 VA Form 21-526EZ application for compensation. Moreover, the RO made a favorable finding that the Veteran has a disability, and such finding is binding on the Board. 38 C.F.R. § 20.801(a).
+
+In light to the above, the Board finds that the January 2024 VA opinion is inadequate to decide the claim because the rationale for the negative opinion is based on the inaccurate factual premise, i.e., that the Veteran does not have a disability. See Reonal v. Brown, 5 Vet. App. 458, 461 (1993) (holding that an opinion based upon an inaccurate factual premise has no probative value).
+
+In conclusion, the Board finds that the AOJ's reliance on such inadequate opinion constituted a pre-decisional duty-to-assist error that needs to be cured in order to adjudicate the claim on appeal. 38 U.S.C. § 5103A; 38 C.F.R. § 20.802. Thus, entitlement to service connection for tinnitus is remanded. 
+
+The Board by this remand makes no determination, expressed or implied, concerning the credibility of any statements on file.
+
+Accordingly, the matters are REMANDED for the following actions:
+
+1. Obtain an opinion on whether the Veteran's bilateral hearing loss is related to his in-service exposure, to include his MOS. The examiner is reminded that a lack of documented hearing loss in service is not, alone, a sufficient basis for a negative nexus opinion, and that a veteran may establish direct service connection for a hearing disability, even if initially manifest years after separation from service, if there is evidence of a causal relation to service. See Hensley v. Brown, 5 Vet. App. 155, 157 (1993).
+
+2. Obtain an opinion on whether the Veteran's tinnitus is related to his in-service hazardous noise exposure, to include his MOS. 
+
+The Veteran is competent to attest to factual matters of which the Veteran has first-hand knowledge, including observable symptomatology. The examiner may not dismiss the Veteran's statements about his symptoms solely because they are not documented in contemporaneous treatment records. If there is a medical basis to support or doubt the history provided by the Veteran, the medical professional should provide a fully reasoned explanation. 
+
+The need for an examination is left to the discretion of the examiner. A rationale for all opinions offered is requested as adjudicators are precluded from making any medical findings.
+
+ 
+
+ 
+
+J. B. FREEMAN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Fiorito, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

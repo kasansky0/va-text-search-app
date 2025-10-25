@@ -1,0 +1,83 @@
+Citation Nr: A25031887
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240820-484443
+DATE: April 7, 2025
+
+REMANDED
+
+Service connection for diabetes mellitus, type 2 (diabetes) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Air Force from January 1990 through January 2014, as a munitions systems specialist.  The Veteran had over four years six months of foreign service, including deployments to Qatar, Saudi Arabia, and Kuwait.  He was awarded the Air Force Commendation Medal with 3 Oak Leaf Clusters and the Southwest Asia Service Medal with two service stars, among numerous others.  
+
+Applicable Evidentiary Window
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of an August 2023 rating decision issued by the Department of Veterans Affairs (VA) Regional Office, which is the Agency of Original Jurisdiction (AOJ).  The August 2023 rating decision denied service connection for the Veteran's diabetes.  In August 2024, the Veteran filed a timely VA Form 10182: Decision Review Request: Board Appeal (Notice of Disagreement).  The Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the August 2023 VA rating decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the rating decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the Veteran's claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+Preliminary Matters
+
+In the August 2023 rating decision, the AOJ made the favorable findings that: (1) the Veteran had a current diagnosis for diabetes; (2) post-traumatic stress disorder (PTSD), the primary disability (for purposes of secondary service connection), was service-connected; and (3) that the Veteran participated in a toxic exposure risk activity (TERA).  See August 2023 VA Rating Decision Narrative and April 2023 VA TERA Memo.  The Board is bound by such favorable findings and will proceed to review the Veteran's appeal.  38 C.F.R. § 3.104(c). 
+
+Service Connection for Diabetes is Remanded
+
+Unfortunately, in the instant case, remand is required for new VA opinions as to direct and secondary service connection for the Veteran's diabetes because of pre-decisional duty to assist errors.
+
+Although the Veteran was not diagnosed with diabetes during service, there is some evidence of impaired fasting glucose contained in the Veteran's service treatment records.  Specifically, March 2019 Service Treatment Records contain a September 2012 Comprehensive Metabolic Panel showing the Veteran's glucose level was 113 mg/dl, which was further notated as high.  An associated interpretation table revealed that normal glucose levels are less than 100 mg/dl, impaired fasting glucose levels are 100 through 125 mg/dl, and any level above 125 mg/dl indicates a provisional diagnosis for diabetes. 
+
+Further, in a lay statement contained within the Veteran's February 2023 VA Form 21-526EZ: Application for Disability Compensation and Related Compensation Benefits, the Veteran asserted that he was diagnosed with diabetes in November 2014.  A lay witness is competent to report on a medical diagnosis made by a medical professional.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).  The Veteran's statement is partially corroborated by the numerous notations of the Veteran's elevated diabetes risk and the need to conduct regular diabetes screenings contained in his service treatment records.  See, e.g., October 2013 Service Treatment Records (notations to conduct Type 2 Diabetes Screening 'due to sustained BP 135/80+').     
+
+An October 2017 Diabetic Retinopathy Surveillance Outpatient Consult Note, contained within June 2019 VA CAPRI Records, notated that the Veteran's diabetes had its onset in 2014, with the exact date of onset unknown.  A March 2016 Primary Care Note, contained within April 2019 VA CAPRI Records, notated that the Veteran suffered from diabetes, which by that time was "well controlled" with medication.  The Board further notes that VA prescribed the Veteran medication to treat his diabetes symptoms since at least December 2015.  Id. 
+
+Lastly, there is a VA examination report and two VA medical opinions of record.  See May 2024 Diabetes Mellitus Disability Benefits Questionnaire; May 2024 Medical Opinion Disability Benefits Questionnaire; August 2023 Medical Opinion Disability Benefits Questionnaire. 
+
+After an in-person examination of the Veteran and review of the record, the May 2024 Diabetes Mellitus Disability Benefits Questionnaire examiner confirmed the Veteran's diagnosis for diabetes mellitus, which the examiner stated had an initial date of diagnosis in "2014."  The examiner further confirmed that the Veteran's diabetes was medically managed by a restricted diet and oral hypoglycemic medication.  The May 2024 Diabetes Mellitus Disability Benefits Questionnaire did not contain discussion of, or an opinion on, any theory of service connection for the Veteran's diabetes.  
+
+The May 2024 Medical Opinion Disability Benefits Questionnaire was authored by the same examiner as the May 2024 Diabetes Mellitus Disability Benefits Questionnaire.  There, the examiner acknowledged diabetes diagnoses going back to at least March 2016.  Ultimately, the examiner opined that the Veteran's diabetes was less likely than not proximately due to or the result of the Veteran's service-connected PTSD.  The examiner stated that after a thorough review of the applicable medical literature, there is no causal relationship between PTSD and diabetes.  The examiner provided citation to three medical studies, without annotation, summary, or further explanation.  Further, the examiner did not offer an opinion as to whether the Veteran's diabetes was aggravated by his PTSD.  
+
+The August 2023 Medical Opinion Disability Benefits Questionnaire acknowledged the Veteran's deployments to the Southwest Asia Theater of Operations and his positive diabetes diagnosis.  The examiner opined, after considering the combined effect of all the Veteran's toxic exposure risk activities, that the Veteran's diabetes was less likely than not caused by the Veteran's military exposures.  The examiner explained that there is no evidence to support that diabetes is caused by toxic exposure.  "Type 2 diabetes is caused by diminished response to insulin.  Initially, diminished response is countered by increased production of insulin.  However, eventually insulin production decreases, resulting in type 2 diabetes.  The examiner explained that diabetes has become more common in adult populations due to obesity, physical inactivity, and energy dense diets."  The examiner cited to an article in the National Library of Medicine, titled, "Type 2 Diabetes," available at https://www.ncbi.nlm.nih.gov/books/NBK513253 (assessed April 2, 2025).  The examiner only offered an opinion on service connection for diabetes due to toxic exposure, and did not consider or address any other theory of service connection.  
+
+In order to be entitled to probative weight, a medical opinion must contain not only clear conclusions with supporting data, but also a reasoned explanation connecting the two.  Nieves-Rodrigues v. Peake, 22 Vet. App. 295 (2008).  Further, the examiner must consider whether any lay evidence was satisfactory.  Dalton v. Nicholson, 21 Vet. App. 23 (2007); Buchanan v. Nicholson, 451 F.3d 1331, 1336 (Fed. Cir. 2006).  Lastly, the absence of a documented diagnosis or symptomology in service or at separation cannot be the basis for a negative opinion for service connection.  Ledford v. Derwinksi, 3 Vet. App. 87, 89 (1992); Dalton at 23.  Accordingly, an inadequate medical examination or opinion may be assigned low probative value.  Reonal v. Brown, 5 Vet. App. 458, 460-61 (1993) (medical opinion based on inaccurate factual premise may properly be rejected as non-probative); Swann v. Brown, 5 Vet. App. 229, 233 (1993) (Board may properly reject medical opinion where it is based on facts contradicted by the record).  
+
+While the VA examination and opinions provide some helpful information regarding the lack of a nexus between the Veteran's diabetes and his TERA exposures, they do not provide the information necessary to render a decision regarding the Veteran's claimed relationship between his diabetes and military service.  No examiner considered whether the Veteran's diabetes, or diabetes symptoms, manifested in service or were related to service.  Further, no examiner addressed whether Veteran's service-connected PTSD aggravated the Veteran's diabetes.  See, e.g., El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013) (a medical opinion is inadequate when it fails to adequately address the question of aggravation).  Lastly, the examiners did not consider or address the Veteran's lay statements, nor did they discuss the in-service and post-service diabetes-related notations contained in service treatment records and other medical records.  
+
+The Board regrets the additional delay remand causes, however, there is no adequate medical opinion of record regarding direct or secondary service connection for the Veteran's diabetes and the AOJ's reliance on inadequate medical opinions is a pre-decisional duty to assist error.  38 U.S.C. § 5103A; 38 C.F.R. § 20.802; Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (once VA undertakes to provide an examination, it must be adequate).  
+
+Mindful that it must construe a Veteran's claim sympathetically and that the scope of a disability claim encompasses the claimant's description of claim, reported symptoms, and other information of record, the Board considers both direct and secondary service connection as theories of entitlement falling within the scope of the Veteran's claim.  38 C.F.R. § 20.202(a); Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009).  Accordingly, remand is therefore required to obtain addendum opinions regarding service connection on those theories of entitlement.    
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum medical opinions by an appropriate clinician regarding the etiology of the Veteran's diabetes.  The claims file and this remand should be made available to the examiner.  The clinician is requested to provide opinions responsive to the following: 
+
+(a.) Direct Service Connection: opine whether it is at least as likely as not that the Veteran's OSA was incurred in or caused by military service.
+
+Further, the examiner should consider whether there has been a continuity of symptomology of diabetes symptoms since separation from service.
+
+(b.) Secondary Service Connection: opine whether it is at least as likely as not that the Veteran's diabetes was caused or aggravated by his service-connected PTSD.  In other words, would the Veteran's diabetes have occurred "but for" the Veteran's service-connected PTSD or whether "but for" the Veteran's PTSD, the functional impairment of his diabetes would have improved or worsened. 
+
+If the clinician opines that the diabetes would result in less functional impairment but for the service-connected PTSD, the clinician must attempt to establish a baseline level of severity of the diagnosed disability prior to aggravation by the primary service-connected disability.
+
+2. The examiner is reminded that the Veteran is competent to report any lay observable symptoms and their history, as well as reports of medical diagnoses, and that the Veteran's lay reports must be specifically considered in formulating a medical opinion.  If the examiner rejects the Veteran's reports, the examiner should provide a reason for doing so. 
+
+3. A complete rationale must be provided for all opinions or conclusions expressed.  If the clinician is unable to provide an opinion without resorting to speculation, he or she must explain why this is so.
+
+4. Consistent with Lynch v. McDonough, 21 F.4th 776, 781-82 (2021), the examiner is advised that the term "at least as likely as not" means that the likelihood is at least approximately balanced or nearly equal, if not higher.
+
+ 
+
+ 
+
+Colleen M. Glaser-Allen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Stanley, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

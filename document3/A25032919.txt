@@ -1,0 +1,75 @@
+Citation Nr: A25032919
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240820-465056
+DATE: April 9, 2025
+
+ORDER
+
+An initial 50 percent rating for migraines is granted.  
+
+FINDING OF FACT
+
+The Veteran's migraines result in very frequent completely prostrating and prolonged attacks of headache pain productive of severe economic inadaptability.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial 50 percent rating for migraines have been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.1, 4.3, 4.7, 4.124a, Diagnostic Code 8100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from January 2001 to October 2003. 
+
+In February 2024, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of an April 2023 decision.  In May 2024, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior April 2023 decision.  
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  The Board notes that the Veteran misidentified the rating decision he wished to appeal, selecting the April 2023 rating decision which has become final and cannot be appealed.  Therefore, the Board has liberally construed his NOD as appealing the May 2024 HLR decision.  As such, the Board may only consider the evidence of record at the time of the April 2023 AOJ decision which was subsequently subject to higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+The Board notes the Veteran has the right to select a different Board review option by submitting a new VA Form 10182 within one year from the date the AOJ mailed the decision on appeal, or within 60 days of the date the Board received the VA Form 10182, whichever date is later.  38 C.F.R. § 20.202(c)(2); see Williams v. McDonough, 37 Vet. App. 305 (2024).  Although the period to change dockets per 38 C.F.R. § 20.202(c)(2) has not elapsed, the issue is being granted in full and, therefore, there is no prejudice to the Veteran in proceeding to adjudicate the appeal. 
+
+Increased Rating
+
+Disability ratings are determined by application of the criteria set forth in VA's Schedule for Rating Disabilities, which is based on average impairment of earning capacity.  38 U.S.C. § 1155; see generally 38 C.F.R. Part 4.  When a question arises as to which of two ratings applies under a particular diagnostic code, the higher rating is assigned if the disability more closely approximates the criteria for the higher rating.  Otherwise, the lower rating applies.  38 C.F.R. § 4.7.  After careful consideration of the evidence, any reasonable doubt remaining is resolved in favor of the veteran.  38 C.F.R. § 4.3.
+
+The veteran's entire history is to be considered when making disability evaluations.  38 C.F.R. § 4.1; Schafrath v. Derwinski, 1 Vet. App. 589 (1991).  Where, as here, the question for consideration is the propriety of the initial rating assigned, evaluation of the medical evidence since the effective date of the grant of service connection and consideration of the appropriateness of the assignment of different ratings for distinct periods of time, based on the facts found, is required.  Fenderson v. West, 12 Vet. App. 119, 126 (1999); Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007).
+
+Where there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall resolve reasonable doubt in favor of the claimant.  38 U.S.C. § 5107(b); Lynch v. McDonough, 21 F.4th 776, 780-81 (Fed. Cir. 2021).
+
+Entitlement to an initial rating in excess of 30 percent for migraines
+
+The Veteran seeks an increased rating for his migraine disability, which is initially rated 30 percent disabling from January 19, 2023.  He contends that his migraine symptoms are more severe than reflected by his currently-assigned rating.
+
+The Veteran's migraines are rated pursuant to 38 C.F.R. § 4.124a , Diagnostic Code 8100.  Under Diagnostic Code 8100, in relevant part, a 30 percent rating is assigned for migraines with characteristic prostrating attacks occurring on an average of once a month over the last several months.  A maximum 50 percent rating is assigned for migraines with very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability.
+
+The Board notes that the criteria for a 50 percent rating contain several undefined phrases.  The United States Court of Appeals for Veterans Claims (Court) has provided some clarity in understanding the rating criteria.  The Court has held that the phrase "very frequent" contained in the 50 percent criterion, while inexact, connotes a frequency greater than the "once a month" requirement for a 30 percent rating.  Johnson v. Wilkie, 30 Vet. App. 245, 253 (2018).  The Court further concluded that to be completely prostrating, the headaches "must render the veteran entirely powerless."  Id.  The completely prostrating attacks must also be "prolonged," which is defined as "to lengthen in time: extend duration: draw out: continue, protract."  Id.  Finally, the use of the conjunctive "and" makes clear that all criteria must be met to warrant a 50 percent rating.  Id.
+
+Similarly, the rating criteria also do not define "severe economic inadaptability."  However, the Court has indicated that this term is not synonymous with being completely unable to work and that the phrase "productive of" could be read to mean either "producing" or "capable of producing" severe economic inadaptability.  See Pierce v. Principi, 18 Vet. App. 440, 446-47 (2004).  Therefore, the Board notes that the migraines must be, at a minimum, capable of producing severe economic inadaptability.
+
+Finally, the Board notes that the ameliorative effects of medications used to treat the Veteran's migraines may not be considered when evaluating the level of severity of the disability.  See Jones v. Shinseki, 26 Vet. App. 56, 63 (2012).
+
+Turning to the medical evidence, in a January 2023 VA primary care treatment note, the Veteran reported experiencing "nearly daily migraines."  He has tried various medications to treat his migraines without success.  
+
+The Veteran underwent a VA examination in February 2023. The Veteran reported experiencing daily headaches.  He takes Excedrin, Tylenol, and Ativan for his headaches.  He has to go to sleep when the headaches are severe.  He reported missing approximately 10 days of work in the past year due to his migraines.  The Veteran's migraine symptoms are pulsating or throbbing head pain, pain on both sides of the head, and pain worsened with physical activity.  Associated non-migraine symptoms are nausea, vomiting, sensitivity to light and sound, and vision changes.  The duration of typical headache pain is more than two days.  The examiner indicated that the Veteran has characteristic prostrating attacks of migraine/non-migraine headache pain once every month, but he does not have very prostrating and prolonged attacks of migraine/non-migraine headache pain productive of severe economic inadaptability.  The examiner did not provide any supporting rationale for this conclusion.  The examiner noted that the Veteran's migraine disability impacts his ability to work, because it adversely affects job attendance, attention, and concentration during headache events.  However, the examiner remarked that the Veteran's migraines are not suggestive of severe economic inadaptability because he only misses one day of work every one to two months, and this would not prevent him from working. 
+
+After careful review of the medical and lay evidence of record, and resolving all reasonable doubt in the Veteran's favor, the Board finds that his migraine disability more closely approximates the criteria for a 50 percent rating throughout the appeal period.  
+
+As noted above, a 50 percent rating under Diagnostic Code 8100 requires migraines with very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability.  The Veteran's headaches appear to be "very frequent" and "prolonged" as he reports near-daily migraines with more severe headaches that last two days in duration.  He must rest when they are severe and has missed work when they occur.  This suggests that his migraines are capable of producing severe economic inadaptability, particularly when discounting any ameliorative effects of the medications he takes to treat his disability.            
+
+The Board acknowledges that the VA examiner determined that the Veteran does not have very prostrating and prolonged attacks of migraine/non-migraine headache pain productive of severe economic inadaptability, however, in making this finding, the examiner did not address the frequency of the Veteran's headaches or provide any analysis as to how she assessed the severity of the Veteran's migraine headaches.  Rather, the examination report, the Veteran's lay statements, and the other contemporaneous medical evidence of record support a finding that the Veteran's migraine disability more nearly approximates very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability.  
+
+(Continued on next page)
+
+Accordingly, resolving all reasonable doubt in the Veteran's favor, the Board finds that the criteria for an initial 50 percent rating for migraines is warranted.  This is the maximum rating available under the rating schedule for migraine headaches and a higher rating cannot be assigned.  The Veteran's appeal is therefore granted in full.  38 U.S.C. § 5107(b); Lynch, 21 F.4th at 780-81.  
+
+ 
+
+ 
+
+J. NICHOLS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Melissa Barbee, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

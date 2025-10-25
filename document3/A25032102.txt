@@ -1,0 +1,83 @@
+Citation Nr: A25032102
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240828-468795
+DATE: April 8, 2025
+
+ORDER
+
+A 30 percent rating for gastroesophageal reflux disease (GERD) associated with right knee arthritis is granted.
+
+FINDING OF FACT
+
+Throughout the appeal period, the Veteran's GERD symptoms more nearly approximated persistently recurrent pyrosis, chest pain, burning in the throat, substernal pain, and sleep disturbance productive of considerable impairment of health, but did not more nearly approximate hiatal hernia with symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia, or other symptom combinations productive of severe impairment of health. The Veteran's GERD symptoms also do not include a documented history of recurrent or refractory esophageal stricture(s).
+
+CONCLUSION OF LAW
+
+The criteria for an initial rating of 30 percent, but no higher, for service-connected GERD have been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.1, 4.3, 4.20, 4.114, Diagnostic Codes 7206, 7399-7346.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 1983 to July 1987, from October 2001 to May 2002 and from January 2003 to December 2004.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), the appellant elected the Direct Review option; therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.
+
+Entitlement to a rating in excess of 10 percent for GERD.
+
+The Veteran seeks an initial rating in excess of 10 percent for his service-connected GERD.  See August 2024 10182. 
+
+Increased Ratings
+
+Disability ratings are determined by applying the criteria set forth in VA's Schedule for Rating Disabilities.  Ratings are based on the average impairment of earning capacity.  Individual disabilities are assigned separate diagnostic codes.  See 38 U.S.C. § 1155; 38 C.F.R. § 4.1.  In cases in which a claim for a higher initial evaluation stems from an initial grant of service connection for the disability at issue, multiple ("staged") ratings may be assigned for different periods of time during the pendency of the appeal.  See generally Fenderson v. West, 12 Vet. App. 119 (1999).  Although a rating specialist is directed to review the recorded history of a disability in order to make a more accurate evaluation, the regulations do not give past medical reports precedence over current findings.  See Francisco v. Brown, 7 Vet. App. 55 (1994); 38 C.F.R. § 4.2.  Staged ratings are, however, appropriate for an increased rating claim when the factual findings show distinct time periods where the service-connected disability exhibits symptoms that would warrant different ratings. 
+
+GERD
+
+The Veteran's GERD is currently rated as noncompensable under Diagnostic Code 7399-7346.  Hyphenated Diagnostic Codes are used when a rating under one diagnostic code (7399) requires the use of an additional diagnostic code to identify the basis for the rating assigned (7346).  The provisions of 38 C.F.R. § 4.27 provide that when an unlisted disability requires rating by analogy, the code will be "built-up" as follows: the first two digits will be selected from that part of the schedule most closely identifying the body part or system involved, and the last two digits will be "99."  Here, the hyphenated diagnostic code indicates that an unlisted gastrointestinal condition (Diagnostic Code 7399) is rated under the criteria for hiatal hernia (Diagnostic Code 7346).  38 C.F.R. § 4.20.
+
+Under Diagnostic Code 7346, a 10 percent rating is warranted for hernia hiatal with two or more of the symptoms for the 30 percent evaluation of less severity; a 30 percent rating is warranted for persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health; and a 60 percent rating, which is the highest rating under Diagnostic Code 7346, is warranted for symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health.  38 C.F.R. § 4.114, Diagnostic Code 7346.
+
+"Material weight loss" is not defined under Diagnostic Code 7346; however, "substantial weight loss" is defined under 38 C.F.R. § 4.112 as a loss greater than 20 percent of the individual's baseline weight, sustained for three months or longer, and "minor weight loss" is defined as weight loss of 10 to 20 percent of the individual's baseline weight, sustained for three months or longer.
+
+The Board has considered whether the Veteran's gastroesophageal condition should be rated under another diagnostic code.  However, as the remaining digestive system codes pertain to conditions for which the Veteran has not been diagnosed, his GERD is most appropriately rated under the current Diagnostic Code, 7346.
+
+During the pendency of the appeal, VA published amendments to 38 C.F.R. § 4.114, the Schedule of Ratings for the Digestive System, effective May 19, 2024. Under the amended criteria, Diagnostic Code 7206 was added for GERD.
+
+Under Diagnostic Code 7206, a 50 percent rating is assigned for documented history of recurrent or refractory esophageal stricture(s) causing dysphagia which requires at least one of the following (1) dilatation 3 or more times per year, (2) dilatation using steroids at least one time per year, or (3) esophageal stent placement.  A maximum 80 percent rating is assigned for documented history of recurrent or refractory esophageal stricture(s) causing dysphagia with at least one of the symptoms present: (1) aspiration, (2) undernutrition, and/or (3) substantial weight loss as defined by § 4.112(a) and treatment with either surgical correction or percutaneous esophago-gastrointestinal tube (PEG tube).
+
+If the Veteran is entitled to an increased rating under the new criteria, the increased rating can only be granted as of the effective date of the regulation change, May 19, 2024.  38 U.S.C. § 5110 (g). 
+
+Analysis
+
+In the June 2023 VA 21-4138, Statement in Support of Claim, the Veteran reported the following symptoms: pain, discomfort, heartburn, with acid reflux, regurgitation of stomach contents into his throat, chest pain that radiates into his shoulder, frequent coughing, nighttime choking due to regurgitation and changes to his voice with hoarseness weekly.  He stated his symptoms occur mostly at night. The Veteran stated that his symptoms cause him to wake up gagging.  He reported the use of over-the-counter medications like TUMS and Rolaids, 1-2 times per week to control his heartburn.  The Veteran reported the use of vitamin supplements due to vitamin deficiencies because of his restricted diet.  The Veteran reported chest pain and shoulder pain during his GERD flare ups.  He described not being able to sleep more than 2 straight hours due to being awakened from GERD symptoms which resulted in fatigue, lack of concentration, irritability, frequent yawning, difficulty concentrating and memory trouble.  See June 2023 VA 21-4138, Statement in Support of Claim.
+
+In June 2023, the Veteran was afforded an Esophageal Conditions VA Examination. The examiner noted the Veteran's diagnoses of GERD.  Per the examiner, the Veteran had the following signs and symptoms due to his esophageal condition: as pyrosis, reflux, regurgitation, substernal pain, and sleep disturbance caused by esophageal reflux 4 or more times per year.  The Veteran reported taking continuous over the counter medication for his diagnosed conditions.  He did not have symptoms productive of considerable impairment of health, dysphagia, material weight loss, hematemesis, melena with moderate anemia, esophageal stricture, spasms of the esophagus, or an acquired diverticulum of the esophageus.  His esophageal conditions did not impact his ability to work.
+
+After careful review and consideration of the pertinent evidence of record and without considering the ameliorative effects of any medication, the Board finds that an initial rating of 30 percent, but no higher, is warranted.  Under Diagnostic Code 7399-7346, a 30 percent rating is warranted for persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health.  The Veteran's GERD produced persistently recurrent epigastric distress, pyrosis, reflux, regurgitation, substernal pain, sleep disturbances, nausea, and vomiting.  The Veteran's GERD has not produced dysphagia.  Usually, as the criteria under Diagnostic Code 7346 are conjunctive, all criteria must be met for a higher evaluation.  See Middleton v. Shinseki, 727 F.3d 1172, 1178 (Fed. Cir. 2013) (holding that the conjunctive "and" in a diagnostic code as opposed to the disjunctive "or" require all elements be met).  However, as the Veteran's GERD has been rated by analogy, it need not meet each of the precise symptoms listed.  See Webb v. McDonough, 71 F.4th 1377 (2023).
+
+In this instance, while the Veteran's GERD has not produced dysphagia, the Veteran's GERD has produced persistently recurrent epigastric distress, pyrosis, reflux, regurgitation, substernal pain, sleep disturbances, nausea, vomiting, frequent cough, difficulty to do activities, and difficulty to eat.  Considered together, the symptoms result in a considerable impairment of the Veteran's health.  Resolving all doubt in favor of the Veteran, the Board finds his GERD symptoms more closely reflect the criteria for a 30 percent disabling rating.
+
+The Board has considered whether the Veteran is entitled to a higher disabling rating under Diagnostic Code 7399-7346.  Here, entitlement to a higher rating under Diagnostic Code 7399-7346 is not warranted.  The Veteran has denied that he experiences dysphagia, hematemesis, or melena with moderate anemia.  There is no indication that the Veteran has symptoms productive of severe impairment of health.  Remaining cognizant that the Veteran does not have to meet every conjunctive criterion in Diagnostic Criteria 7346, the Board finds that, in this instance, the Veteran's demonstrated symptoms do not rise to a higher level of severity.
+
+The Board has also considered whether the Veteran is entitled to a higher disabling rating under Diagnostic Code 7206, which evaluates GERD under the criteria for esophageal stricture.  Neither the Esophageal Conditions VA Examination nor the Veteran's medical records show that he had an esophageal stricture.  Therefore, entitlement to a rating higher than 30 percent under Diagnostic Code 7206 is not warranted.
+
+In reaching the above conclusions, the Board has not overlooked the Veteran's statements found in the record.  The Veteran's statements as to the severity of his GERD are credible and he is competent to report how he believes his disorder has affected his life, including describing his symptoms.  See Davidson v. Shinseki, 581 F. 3d 1313 (Fed. Cir. 2009).  The Veteran is not, however, competent to identify a specific level of disability for his condition, according to the appropriate diagnostic codes, or, to attribute specific symptoms to a disability.  See Robinson v. Shinseki, 557 F.3d 1355 (2009).  Such competent evidence concerning the nature and extent of the Veteran's disability has been provided by the medical personnel who have examined him during the period on appeal.  The medical findings, as provided in the examination reports and treatment records, directly address the criteria under which the disability is evaluated.
+
+(Continued on the next page)
+
+?
+
+Based on the specific facts of this case, the Board resolves all doubt in favor of the Veteran and finds an initial rating of 30 percent, but no higher, for service-connected GERD is warranted.  38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+David Gratz
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jordan, Jacquelynn
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

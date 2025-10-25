@@ -1,0 +1,73 @@
+Citation Nr: A25032774
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240722-457425
+DATE: April 9, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea, as secondary to service-connected social anxiety disorder including unspecified depressive disorder (acquired psychiatric disorder), is granted.
+
+FINDING OF FACT
+
+Currently diagnosed obstructive sleep apnea was caused by physical inactivity related to, and medications taken for, the service-connected acquired psychiatric disorder.
+
+CONCLUSION OF LAW
+
+Resolving reasonable doubt in the Veteran's favor, the criteria for service connection for obstructive sleep apnea, as secondary to service connected acquired psychiatric disorder, have been met.  38 U.S.C. §§ 1110, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.310, 3.326.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran, who is the appellant, had active service from May 1995 to May 1998.
+
+The Veterans Appeals Improvement and Modernization Act, Pub. L. No. 115-55 (codified as amended in scattered sections of 38 U.S.C.), 131 Stat. 1105 (2017), also known as the Appeals Modernization Act (AMA), creates a new framework of review for appellants disagreeing with the Agency of Original Jurisdiction's (AOJ) decision on a claim.
+
+Following a February 2024 Department of Veterans Affairs (VA) Regional Office (RO) rating decision again denying service connection for obstructive sleep apnea, the Veteran submitted a July 2024 VA Form 10182, Notice of Disagreement (NOD), appealing the decision.  The NOD requested direct review by the Board of Veterans' Appeals (Board).  Direct review is the appeal option to the Board in which a Board decision is issued based on evidence of record at the time of the prior decision.  The Board cannot hold a hearing or accept into the record additional evidence in its direct review.
+
+Service Connection for Obstructive Sleep Apnea, as Secondary to Service Connected Acquired Psychiatric Disorder, is Granted.
+
+Service connection may be granted for disability arising from disease or injury incurred in or aggravated by active service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).  As a general matter, service connection for a disability requires evidence of: (1) the existence of a current disability; (2) the existence of the disease or injury in service, and; (3) a relationship or nexus between the current disability and any injury or disease during service.
+
+Service connection may also be granted for disability that is proximately due to or the result of a service-connected disability.  An increase in severity of a non service connected disorder that is proximately due to or the result of a service connected disability, and not due to the natural progress of the non-service-connected condition, will be service connected.  Aggravation will be established by determining the baseline level of severity of the non-service-connected condition and deducting that baseline level, as well as any increase due to the natural progress of the disease, from the current level.  See 38 C.F.R. § 3.310; Allen v. Brown, 7 Vet. App. 439, 448 (1995).
+
+VA has determined that obesity is not a disability for service connection or secondary service connection compensation purposes, although obesity may act as an "intermediate step" between a service-connected disability and a current disability for which secondary service connection may be established.  See VAOPGCPREC 1-2017.  It was noted that, under 38 C.F.R. § 3.310(a), a disability which is proximately due to or the result of a service-connected disease or injury is service connected and that "proximate cause" had been defined by Black's Law Dictionary, 213 (7th ed. 1999), as a "cause that directly produces an event and without which the event would not have occurred." As such, VA must resolve: 
+
+(1) whether a service-connected disability caused a veteran to become obese; (2) if so, whether the obesity as a result of the service connected disability was a substantial factor in causing the claimed disability; and (3) whether the claimed disability would not have occurred but for obesity caused by the service-connected disability.  See also Walsh v. Wilkie, 32 Vet. App. 300 (2020) (holding that, where obesity is found to be the cause of a nonservice-connected disability, secondary service connection of that disability using the "intermediate step" theory requires VA to consider whether a service connected disability caused or aggravated the obesity).
+
+When all the evidence is assembled, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the veteran prevailing in either event, or whether the persuasive weight of the evidence is against a claim, in which case, the claim is denied.  See 38 U.S.C. § 5107; 38 C.F.R. § 3.102; see also Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+The Veteran appeals for service connection for obstructive sleep apnea, to include as secondary to the service connected acquired psychiatric disorder.  At the outset, the Board finds that there is a current diagnosis of obstructive sleep apnea.  Such diagnosis can be found in the report from an October 2023 VA sleep apnea examination.
+
+Next, the Board notes that, while the Veteran has received a VA sleep apnea examination, and while various VA direct and secondary service connection opinions were obtained, during the course of this appeal the AOJ failed to obtain an adequate VA obesity opinion; however, for the reasons discussed below, the Board finds the evidence of record sufficient to grant service connection for obstructive sleep apnea as secondary to the service connected acquired psychiatric disorder at this time.  As such, remand for an adequate VA obesity medical opinion is unnecessary.
+
+Having reviewed all the evidence of record, lay and medical, the Board finds the evidence at least in relative equipoise on the question of whether the currently diagnosed obstructive sleep apnea was caused by physical inactivity related to, and medications taken for, the service-connected acquired psychiatric disorder.
+
+A private medical opinion was received in February 2023.  Per the opinion report, the private physician, who is certified in sleep medicine, reviewed the medical and lay evidence of record and consulted the medical literature.  The private sleep physician opined that it was at least as likely as not that the Veteran's weight gain/obesity was due to the service-connected acquired psychiatric disorder.  Specifically, the private physician explained that the symptoms of the acquired psychiatric disorder resulted in sleep disturbance, diminished motivation, and comfort overeating, which are associated with weight gain and obesity.
+
+Per the report from a November 2022 VA mental health examination, VA prescribed the drug Mirtazapine to treat the depression symptoms.  A cursory internet search reveals that a common side effect of Mirtazapine is increased appetite and weight gain.
+
+From there, the private sleep physician opined that it was at least as likely as not that the obesity, due to the service-connected acquired psychiatric disorder, caused the currently diagnosed obstructive sleep apnea.  Again, such opinion was based upon a review of medical and lay evidence of record, along with the medical literature.
+
+Based upon the above, the Board finds the February 2023 private opinion adequate to find the first (whether a service-connected disability caused a veteran to become obese) and second (whether the obesity as a result of the service connected disability was a substantial factor in causing the claimed disability) elements of secondary service connection based upon obesity to be met.
+
+As to the third element, whether the claimed disability would not have occurred but for obesity caused by the service-connected disability, an April 2023 VA opinion report stated that, per the medical literature, the most common risk factors for sleep apnea are male gender, obesity, older age, and smoking.  In a subsequent October 2023 VA negative secondary service connection opinion, the VA examiner explained that, of those risk factors, obstructive sleep apnea is primarily caused by weight gain or obesity.  Then, in a corresponding October 2023 negative toxic exposure risk activity (TERA) opinion, the VA examiner explicitly stated that, in rendering the negative opinion, the only non-exposure risk factor considered as relevant to the Veteran was the Veteran's weight.  In other words, the VA examiner appears to have opined that the Veteran's obstructive sleep apnea was solely due to the Veteran's weight gain/obesity.
+
+The Board finds the evidence included in the negative VA medical opinion to be sufficient to place in relative equipoise the question of whether the currently diagnosed obstructive sleep apnea would not have occurred but for obesity caused by the service-connected acquired psychiatric disorder.  As such, the Board finds the third element of secondary service connection based upon obesity to be met.
+
+As the Board has found all three elements of secondary service connection based upon obesity to be met, the evidence of record is sufficient to grant secondary service connection for obstructive sleep apnea based on the "intermediate step" obesity theory.  See Walsh, 32 Vet. App. 300, VAOPGCPREC 1-2017.  For these reasons, and resolving all reasonable doubt in favor of the Veteran, the Board finds that the criteria for service connection for obstructive sleep apnea, as secondary (38 C.F.R. § 3.310) to the service connected acquired psychotic disorder, have been met.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th at 781-82.  
+
+Due to service connection being granted on a secondary basis, there is no need to discuss service connection on any other basis, as other theories of service connection have been rendered moot, leaving no question of law or fact to decide.  See 38 U.S.C. § 7104.
+
+ 
+
+ 
+
+J. PARKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Blowers, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

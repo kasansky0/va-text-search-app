@@ -1,0 +1,109 @@
+Citation Nr: A25033506
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240819-466488
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for cardiomyopathy is granted.
+
+Entitlement to service connection for hypertension (HTN) is denied. 
+
+REMANDED
+
+Entitlement to service connection for heart disorder, to include transient ischemic attack, chronic systolic heart failure, and heart disease, is remanded.
+
+FINDINGS OF FACT
+
+1. The Veteran's cardiomyopathy is caused by toxic exposure risk activities (TERA).
+
+2. The Veteran has not had a diagnosis of a HTN disability that meets the regulatory requirements during the pendency of the appeal.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for cardiomyopathy have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304.
+
+2. The criteria for entitlement to service connection for HTN have not been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 4.104.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from January 1957 to November 1959 and from August 1961 to August 1980.  This matter comes to the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision from a Department of Veteran Affairs (VA) Regional Office (RO) under the modernized appeals system known as the Appeals Modernization Act (AMA)
+
+In August 2024, the Veteran submitted a VA Form 10182, Decision Review Request: Board Appeal, and requested the AMA direct docket review.  Under the rules of the AMA, the Board's review is limited to the evidence associated with the claims file as of the date of the March 2024 rating decision on appeal.  38 C.F.R. § 20.301.
+
+Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1131, 5107; 38 C.F.R. § 3.303.  Generally, service connection requires three elements: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Sheddon v. Principi, 381 F.3d. 1163, 1166-67 (Fed. Cir. 2004).  Service connection may also be granted for any disease diagnosed after discharge when the evidence establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+In deciding the Veteran's claim, the VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the Veteran prevailing in either event; or whether the persuasive evidence is against the claim, in which case the claim is denied.  38 U.S.S. § 5107; Gilbert v. Derwinski, 1 Vet. App. 49, 53-56 (1990).  When there is an approximate balance of positive and negative evidence regarding any issue material to the determination, the benefit of the doubt is afforded the claimant.
+
+1. Entitlement to service connection for cardiomyopathy. 
+
+The Veteran contends his cardiomyopathy is due to military service.  
+
+A January 2023 rating decision made the favorable finding that the Veteran has been diagnosed with a disability, specifically that private medical treatment records from California Rehabilitation Institute show a diagnosis of cardiomyopathy.  The Board is bound by this favorable finding.  The Veteran's private medical treatment records from Cedar Sinai also document a diagnosis of nonischemic dilated cardiomyopathy, ventricular tachycardia, status post biventricular ICD implantation.  See VBMS, document labeled Medical Treatment Record- Non-Government Facility, receipt date 1/5/2024, page 1 of 97.  As such, the first element required for service connection has been met.  
+
+As to the second element required for service connection, that of an in-service injury or event, there is a December 2023 VA Memo in the Veteran's claims file confirming evidence of TERA of non-deployment related exposure.  Specifically, the Veteran was exposed to jet fuel, as his military occupational specialty (MOS) was that of a jet engine technician for 13 years and 9 months.  Consequently, the second element required for service connection has been met.  
+
+Given the above, the only question remaining before the Board is whether the Veteran's cardiomyopathy is due to an in-service disease or injury.  
+
+In August 2022, the President signed into law the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxins Act of 2022, Pub. L. No. 117-168, 136 Stat. 1759 (2022) (commonly known as the "Honoring Our PACT Act of 2022" or "PACT Act"). In pertinent part, this Act added presumptions for toxic exposure, to include burn pits and other toxins, for veterans who served in specific locations, including Iraq (38 U.S.C. § 1119 ); added new presumptive conditions due to in-service exposure to burn pits and other toxins (38 U.S.C. § 1120 (b)); added locations associated with service in the Persian Gulf theater (38 U.S.C. §§ 1112 (c), 1116, 1117); and eliminated the manifestation period and the degree to which a qualifying chronic disability must manifest to be presumed as due to service in the Persian Gulf (38 U.S.C. § 1117). The Act also established a lower threshold to obtain examinations or medical opinions under VA's duty to assist for veterans with presumed toxic exposures or who participated in TERA in service. 38 U.S.C. § 1168.
+
+In March 2024, the Veteran was afforded a VA medical examination to ascertain the nature and etiology of his cardiomyopathy.  The examiner provided a positive medical nexus opinion that the Veteran's dilated cardiomyopathy is due to his in-service TERA, considering the total potential exposure and the synergistic, combined effect of all TERA.  Specifically, the examiner explained that exposure to toxins, such as lead, mercury and cobalt can be a potential cause for cardiomyopathy; that this occurred due to the Veteran's activity as a jet engine technician, and; that the route of exposure was through inhalation and dermal, which occurred daily.  As the examiner reviewed the Veteran's military medical treatment records, post-military medical treatment records, took into consideration the Veteran's lay statements and reconciled their rationale with substantiated reasoning with supported medical facts from the Veteran's claims file, the Board affords this opinion probative weight.
+
+It remains unclear why the AOJ did not reference this opinion in its decision, or otherwise find that the Veteran participated in TERA.  Regardless, given the evidence, service connection for cardiomyopathy is warranted.  
+
+2. Entitlement to service connection for HTN.
+
+The Veteran contends that he has HTN that is due to his military service.  
+
+A prior January 2023 rating decision made the favorable finding that the Veteran has been diagnosed with a disability, that private medical treatment records from the California Rehabilitation Institute show a diagnosis of HTN.  Upon review, these medical treatment records document a diagnosis of HTN as an ongoing chronic medical condition.  However, there are no blood pressure readings accompanying this diagnosis.  This distinction is significant, because while the Veteran has a diagnosis of hypertension, it is not equivalent to a disability for VA compensation purposes. Notably, the March 2023 rating decision on appeal did not make such a favorable finding.
+
+The Veteran was afforded VA medical examinations in January 2023 and March 2024 to ascertain the nature and etiology of his HTN.  Both medical examiners noted that the Veteran does not have a diagnosis of HTN or isolated systolic hypertension on the following criteria: Note (1) for VA disability rating purposes, the term hypertension means that the diastolic (bottom number) blood pressure is predominantly 90mm or greater, and isolated systolic (top number) hypertension means that the systolic blood pressure is predominantly 160mm or greater with a diastolic blood pressure of less than 90mm, and Note (2) for VA purposes, the initial diagnosis of hypertension or isolated systolic hypertension must be confirmed by readings taken 2 or more times on at least 3 different days, and blood pressure results may be obtained from existing medical records or through scheduled visits for blood pressure measurements.  The January 2023 examiner noted the Veteran's HTN was listed as a medical problem by his current cardiologist, Dr. H., that was first noted on December 18, 2013, and that there is no documented blood pressure of greater than 140/80 based on review of all provided records or self-reported readings.  The March 2024 examiner noted the Veteran denies HTN, MI, stroke, headaches, and blurred vision, and that he is not on blood pressure medications.  Given the aforementioned, both VA examiners opined the Veteran does not have a diagnosis of hypertension.  Essentially, while the private medical treatment records reflect a diagnosis of hypertension for medical treatment purposes, the Veteran's medical records do not reflect the necessary test findings to confirm a diagnosis for VA compensation purposes under the rating criteria.  
+
+The Board does not doubt the sincerity of the Veteran's belief that he has HTN for medical treatment purposes.  However, regulation requires that compensation for HTN is only available once his blood pressure readings reach a prescribed level of severity.  In this case, the Veteran's HTN has not reached that level of severity.  
+
+The existence of a current disability is the cornerstone of a claim for VA disability compensation. In the absence of evidence of a current disability there can be no valid claim. As such, the appeal is denied.
+
+REASON FOR REMAND
+
+Entitlement to service connection for heart disorder, to include transient ischemic attack, chronic systolic heart failure, and heart disease.
+
+The Veteran contends he has a heart disorder that is due to military service.  
+
+A prior January 2023 rating decision made the favorable finding that private medical treatment records from the California Rehabilitation Institute show a diagnosis of chronic systolic heart failure.  Private medical treatment records also document diagnoses of heart disease and stroke. 
+
+The Veteran's service treatment records (STRs) do not contain complaints of, treatment for, or a diagnosis referable to a heart disorder.
+
+However, as previously explained, there is a VA Memo in the Veteran's claims file confirming exposure to TERA during military service.
+
+In January 2024, the Veteran was afforded a VA medical examination to ascertain whether his heart disorder is due to TERA.  The examiner explained there is no evidence to support a diagnosis of stroke, and as such, no medical opinion was provide.  However, as previously explained, there is documentation of stroke, in addition to other heart conditions, in the Veteran's medical treatment records.  Consequently, the examiner's medical opinion is inaccurate and not probative.  When VA undertakes the effort to provide an examination, the examination must be adequate.  See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).  Inadequate medical examinations include examinations that provide unsupported conclusions.  Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008); Barr, 21 Vet. App. at 311.  It is the factually accurate, fully articulated, sound reasoning for the conclusion that contributes probative value to a medical opinion.  Nieves-Rodriguez, 22 Vet. App. at 304.  VA must consider all lay and medical evidence of record.  38 U.S.C. § 5107; 38 C.F.R. § 3.303.  Given the aforementioned, a pre-decisional duty to assist error has occurred, and as such, a remand is warranted to obtain an addendum medical opinion.  
+
+The matter is REMANDED for the following action:
+
+1. Schedule the Veteran for an appropriate examination (or telehealth interview, review of the record, etc., if an in-person examination is not feasible) to determine whether he has residuals of a transient ischemic attack, or chronic systolic heart failure, or heart disease. The entire claims file, including a copy of this remand, must be made available to the examiner.  The examiner is requested to provide the following opinions:
+
+(a.) Identify all heart diagnoses during the pendency of the appeal, to include chronic systolic heart failure, stroke, and heart disease.
+
+The examiner's attention is directed to the following:
+
+See VBMS, document labeled Medical Treatment Record- Non-Government Facility, receipt date 11/14/2022, pages 25, 95 of 96 (September 30, 2021 notation of impression of chronic systolic heart failure, diagnosis of heart disease, and stroke). 
+
+(b.) Whether it is at least as likely as not that the Veteran's heart disorder had its onset during, or is otherwise the result of, his military service, to include his acknowledged participation in toxic exposure risk activities, due to exposure to jet fuel.
+
+The examiner is asked to explain the reasons behind any opinions expressed and conclusions reached. The examiner is reminded that the term "as likely as not" does not mean "within the realm of medical possibility," but rather that the likelihood is at least approximately balanced or nearly equal, if not higher. 
+
+An examiner's report that he or she cannot provide an opinion without resort to speculation is inadequate unless the examiner provides a rationale for that statement.  As such, if the examiner is unable to offer an opinion, it is essential that the examiner provide a rationale for the conclusion that an opinion could not be provided without resort to speculation, together with a statement as to whether there is additional evidence that could enable an opinion to be provided or whether the inability to provide the opinion is based on the limits of medical knowledge. 
+
+ 
+
+Bethany L. Buck
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	R. Smith, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

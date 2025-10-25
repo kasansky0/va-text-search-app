@@ -1,0 +1,49 @@
+Citation Nr: A25033381
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240701-452090
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to a disability evaluation in excess of 50 percent for posttraumatic stress disorder (PTSD) prior to February 23, 2024, and in excess of 70 percent thereafter, is remanded.
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from December 1977 to December 1980.
+
+The Rating Decision on appeal was issued in May 2024; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies. See 38 C.F.R. § 3.2400(a)(1).
+
+In the Veteran's July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), he elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the May 2024 Agency of Original Jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the claims on appeal, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The Board acknowledges that, prior to receipt of the February 2024 VA Form 21-526EZ, Application for Disability Compensation and Related Compensation Benefits, which initiated the current claim, the AOJ had previously denied the claim of entitlement to a higher disability evaluation in excess of 50 percent for PTSD in a September 2023 rating decision.  Thereafter, on May 14, 2024, the Veteran submitted another VA Form 10182 in which he appealed the September 2023 rating decision's denial of entitlement to a disability evaluation in excess of 70 percent for PTSD since February 23, 2024, to the Board.  As this VA Form 10182 was received on a different date than the VA Form 10182 addressed herein, it was assigned a separate docket number and will be addressed by the Board in a separate decision.
+
+The Board also notes that, in March 2025, the Veteran appointed a private attorney as his new representative, more than 90 days after he was notified the appeal was placed on the Board's docket.  Under 38 C.F.R. § 20.1304, an appellant and his or her representative, if any, will be granted a period of 90 days following receipt of a Notice of Disagreement, or up to and including the date of the appellate decision is promulgated by the Board, whichever comes first, during which they may submit a request for a change in representation.  The Board cannot accept a request for a change in representation after this 90-day period unless good cause is shown to account for the delay in the submission of the request.  38 C.F.R. § 20.1304 (b).  In the present case, the Veteran has not submitted a motion to the Board requesting a change in his representative, nor is there any explanation for the change in representation at this late date.  Accordingly, the Board does not find good cause for the appellant changing his representative at such a late date.  See e.g., Perez v. Shinseki, 25 Vet. App. 190 (2011) (Board did not err in denying claimant's request for change of representative, where request was submitted more than 90 days after his appeal was certified to the Board and no good cause was shown for the delay).  Consequently, the Board has not accepted the appointment of the new representative for purposes of the current appeal.
+
+Under the AMA, the Board may only remand an issue for the correction of (1) duty to assist errors occurring prior to the date of the AOJ decision on appeal (i.e., pre-decisional duty to assist errors) and (2) AOJ errors in satisfying a regulatory or statutory duty, if correction of such error would have a reasonable possibility of aiding in substantiating the appellant's claim.  See 38 C.F.R. § 20.802(a).  Having reviewed the evidence of record, the Board finds that remand for a pre-decisional duty to assist error is required.
+
+VA, through the Veterans Health Administration (VHA), authorizes eligible Veterans to receive healthcare from a community provider rather than waiting for a VA appointment or traveling to a VA facility.  This authorization includes the former Veterans Choice Program and current Veterans Community Care Program.  
+
+Here, with respect the issue of entitlement to a higher disability evaluation for PTSD, a review of the VA treatment records associated with the claims file prior to the May 2024 Rating Decision on appeal reveals that the Veteran received treatment from private healthcare providers through the Community Care Program on multiple occasions.  For instance, the Veteran was referred to Pitt County Memorial Hospital in Greenville, North Carolina, in January 2021 for "Neuro Sleep Studies."  As chronic sleep impairment has been listed as a symptom of the Veteran's service-connected PTSD, these records are relevant to the claims on appeal.  Additionally, the VA records indicate that the Veteran was seen on multiple occasions by K. Mayo, M.D., at Medical Park Psychiatric Associates in Greenville, North Carolina, for private behavioral health treatment authorized through the Community Care Program.  The VA treatment records reflect that these Community Care records have been scanned and uploaded into VA's Veterans Health Information System Technology Architecture (VistA) Imaging system.  Although the AOJ independently retrieved some of the Veteran's treatment records directly from Dr. Mayo, it is unclear as to whether all private treatment records from Dr. Mayo that were uploaded to the VistA Imaging System were associated with the claims file.  VA treatment records (to include Veterans Choice Program and Community Care Program records), even if not in the claims file, are nevertheless considered part of the record on appeal because they are within VA's constructive possession. See 38 U.S.C. § 5103A (b); Bell v. Derwinski, 2 Vet. App. 611, 613 (1992) (holding that VA adjudicators are deemed to have constructive notice of VA treatment records).  As such, the AOJ's failure to obtain these records from the VistA Imaging system and associate them with the claims file prior to the May 2024 Rating Decision on appeal constituted a pre-decisional duty to assist error.  As the Board does not have access to the VistA Imaging system, any documentation of the aforementioned Community Care Program records must be printed and associated with the Veteran's claims file.
+
+Additionally, the Board notes that when entitlement to a TDIU is raised during the adjudicatory process of the underlying disability, it is part of the claim for benefits for the underlying disability.  See Rice v. Shinseki, 22 Vet. App. 447 (2009).  Here, the Board acknowledges that the Veteran did not file a formal claim of entitlement to a TDIU until December 2024 (i.e., after issuance of the Rating Decision on appeal).  However, in correspondence dated in August 2021, K. Mayo, M.D., the Veteran's private psychiatric physician, opined that the Veteran was currently unemployable due to his PTSD.  While this conclusory opinion, by itself, is insufficient to warrant a 100 percent disability rating for PTSD or entitlement to a TDIU (as the available private treatment records from Dr. Mayo do not reflect symptomatology severe enough to render the Veteran unemployable), it does explicitly raise the issue of entitlement to a TDIU due to service-connected PTSD prior to the May 2024 Rating Decision on appeal. Id.  Significantly, the AOJ did not address the issue of TDIU in the May 2024 rating decision on appeal.  As the claim of entitlement was raised prior to the issuance of the Rating Decision on appeal, the AOJ erred in not developing and adjudicating the issue of entitlement to a TDIU.  Because a decision on the pending appeal of the claim for an increased disability for PTSD could significantly impact a decision on the issue of entitlement to a TDIU, the issues are inextricably intertwined.  A remand of the claim for TDIU is therefore also required. Harris v. Derwinski, 1 Vet. App. 180 (1991).
+
+The matters are REMANDED for the following action:
+
+1. Associate with the claims file any outstanding Community Care Program records currently scanned into the Veterans Health Information System Technology Architecture (VistA) Imaging system, to include "Neuro Sleep Studies" conducted at Pitt County Memorial Hospital in Greenville, North Carolina, in January 2021, as well as all outstanding behavioral health treatment records from Dr. K. Mayo.  The AOJ is reminded that the Board does not have access to the VistA imaging system, so any documentation contained in it must be printed from VistA and uploaded/added to the claims file.  All attempts to obtain these records must be documented in the claims file. The Veteran and his representative must be notified of any inability to obtain the requested documents.
+
+2. Adjudicate the issue of entitlement to a TDIU. 
+
+ 
+
+Tiffany Dawson
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Flamini, Anthony
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

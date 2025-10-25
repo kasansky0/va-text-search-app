@@ -1,0 +1,67 @@
+Citation Nr: A25032007
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 230331-336014
+DATE: April 8, 2025
+
+ORDER
+
+The Veteran's motion to reverse the January 1993 Regional Office (RO) rating decision that denied service connection for a low back disability, on the grounds of clear and unmistakable error (CUE), is dismissed without prejudice to refiling.
+
+FINDING OF FACT
+
+The Veteran's motion to reverse the January 1993 RO rating decision that denied service connection for a low back disability, on the grounds of CUE, does not set forth with clarity or specificity the alleged error of fact or law, the legal or factual basis for such allegations, and why the result would have been manifestly different but for the alleged error.
+
+CONCLUSION OF LAW
+
+The Veteran's motion to reverse the January 1993 RO rating decision that denied service connection for a low back disability, on the grounds of CUE, is dismissed without prejudice to refiling. 38 U.S.C. §§ 5101, 5109A; 38 C.F.R. §§ 3.105.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the Army from August 1989 to July 1992. 
+
+In a December 2022 rating decision, the agency of original jurisdiction (AOJ) denied reversal of the January 1993 RO rating decision that denied service connection for a low back disability, finding that CUE was not shown. In March 2023, the Veteran appealed the December 2022 rating decision to the Board of Veterans' Appeals (Board) and requested direct review of the evidence considered by the AOJ. While this would generally mean that under direct review the Board may only consider the evidence of record at the time of the December 2022 rating decision on appeal, new evidence cannot be considered in this decision because CUE must be based upon the facts and law that existed at the time of the prior decision. See 38 C.F.R. § 3.105(a)(1)(iii).
+
+CLEAR AND UNMISTAKABLE ERROR
+
+A previous determination that is final and binding will be accepted as correct in the absence of CUE. Where evidence establishes such error, the prior decision will be reversed or amended. 38 C.F.R. § 3.105(a). 
+
+The United States Court of Appeals for Veterans Claims (Court) has set forth a three-pronged test to determine whether CUE is present in a prior determination: (1) either the correct facts, as they were known at the time, were not before the adjudicator (i.e., more than a simple disagreement as to how the facts were weighed or evaluated) or the statutory or regulatory provisions extant at that time were incorrectly applied; (2) the error must be "undebatable" and of the sort which, had it not been made, would have manifestly changed the outcome at the time it was made; and (3) a determination that there was CUE must be based on the record and law that existed at the time of the prior adjudication in question. Damrel v. Brown, 6 Vet. App. 242 (1994), Russell v. Principi, 3 Vet. App. 310 (1992).
+
+CUE is a very specific and rare kind of error. It is the kind of error, of fact or of law, that when called to the attention of later reviewers compels the conclusion, to which reasonable minds could not differ, that the result would have been manifestly different but for the error. Fugo v. Derwinski, 6 Vet. App. 40 (1993). 
+
+Claimants must plead allegations of CUE with specificity. Andre v. West, 14 Vet. App. 7 (2000). This specific allegation must assert more than merely disagreement with how facts of a case were weighed or evaluated. In other words, to present a valid claim of CUE, the claimant cannot simply request the Board to reweigh or reevaluate evidence. Crippen v. Brown, 9 Vet. App. 412 (1996). This can never arise to the stringent definition of CUE. Similarly, neither can broad-brush allegations of "failure to follow the regulations" or "failure to give due process," or any other general, nonspecific claim of "error." Fugo v. Brown, 6 Vet. App. 40 (1993). In addition, failure to address a specific regulatory provision involves harmless error unless the outcome would have been manifestly different. Id. at 44.
+
+A judicial decision that formulates a new interpretation of the law subsequent to a final VA decision cannot be the basis of a valid CUE claim. George v. Wilkie, 30 Vet. App. 364 (2019); Damrel v. Brown, 6 Vet. App. 242 (1994). Although a judicial decision must be given full retroactive effect in all cases that are still open on direct review, it does not affect decisions that are final. Smith v. West, 11 Vet. App. 134 (1998); Reynoldsville Casket Co. v. Hyde, 514 U.S. 749 (1995) ("new legal principles, even when applied retroactively, do not apply to cases already closed").
+
+Entitlement to reversal of the January 1993 RO rating decision that denied service connection for a low back disability, on the grounds of CUE.
+
+The Board finds that CUE in a prior final rating decision has not been alleged with the requisite specificity. 
+
+In the April 2022 CUE motion, it was asserted that there is CUE in the January 1993 RO rating decision as VA overlooked documented evidence of an in-service diagnosis and failed to provide notice of a VA examination. Specifically, it was asserted that although VA reasoned that a chronic disability must be substantiated by the clinical evidence to grant entitlement to service connection, VA overlooked the Veteran's service treatment records (STRs) demonstrating a diagnosis of marked lordosis at the L5/S1 level and mild left scoliosis with the apex at the L5 vertebral body. Thus, it was argued that VA erroneously stated that the records were negative for a back disability and that there was not clinical evidence of a back disability. Additionally, it was asserted that the Veteran did not fail to attend the scheduled VA examination related to his claim. Rather, VA failed to properly provide notice of the scheduled VA examination regarding the Veteran's low back disability. Thus, it was asserted that were it not for such CUE, the Veteran's claim of service connection for a low back disability, which was granted in a June 2014 rating decision effective February 24, 2010, would have been granted in the January 1993 RO rating decision.
+
+A review of the STRs demonstrates that in September 1991, the Veteran reported that his car hit two parked cars, and he complained of back pain. Radiology results demonstrated that there was no evidence of fracture or dislocation, and it was remarked that there was a finding of marked lordosis at the L5/S1 level and mild left scoliosis with the apex at the L5 vertebral body. It was noted that the Veteran's lumbar spine was determined to be within normal limits. Four days later the Veteran returned for follow up and complained of back pain, and he was advised to not participate in physical training for two days, use pain reliver as needed, and to return to duty. Subsequently, in October 1991, February 1992, March 1992, April 1992, and May 1992 the Veteran was treated for various ailments but did not report any continuing back pain. Additionally, in the June 1992 separation examination, the Veteran indicated that he did not experience any recurrent back pain in the Report of Medical History, and the examiner determined that the Veteran's spine had no abnormalities upon clinical evaluation.  
+
+In the January 1993 RO rating decision, it was noted that the Veteran's September 1991 STRs documented that he complained of back pain after his car hit two parked cars and that the x-ray of the spine was negative. It was stated that a chronic disability must exist due to an injury or disease to warrant service connection, and that service connection is not warranted for complaints of pain not substantiated by the clinical evidence or without clinical findings together with an appropriate diagnosis of the etiology of the pain. 
+
+The Board finds that CUE has not been shown in the January 1993 RO rating decision. The incidental findings regarding lordosis and scoliosis in the STRs are not clear and unmistakable evidence that the Veteran incurred an in-service injury. Rather, the STRs document that on the day of the incident the Veteran's lumbar spine was determined to be within normal limits and at the follow up visit he was advised to return to duty with the use of pain reliver and avoiding physical training for two days. Moreover, the subsequent STRs do not document any further complaints of back pain although he was treated regularly for various ailments, and the findings of the separation examination document that he had no abnormalities of the spine upon clinical evaluation. Thus, such evidence indicates that the back pain resulting from the in-service incident was acute and had resolved by the time of separation from service. In the January 1993 rating decision, the RO weighed such evidence and determined that it did not demonstrate a diagnosis of a chronic disability. Thus, the Board finds that at the time of January 1993 RO rating decision, the evidence did not clearly and undebatably document an in-service diagnosis such to establish a finding of service connection. Therefore, the Board finds that disagreements as to how facts are weighed, such as whether incidental remarks in x-ray findings regarding lordosis and scoliosis demonstrated evidence of a diagnosed chronic disability, do not constitute CUE. Russell, 3 Vet. App. at 313-14. Moreover, a request for the Board to simply reweigh or reevaluate evidence also does not constitute CUE. Crippen v. Brown, 9 Vet. App. 412 (1996).
+
+Additionally, regarding whether VA properly fulfilled its obligation to provide notice regarding the scheduled VA examination related to the Veteran's claim, as noted above, the duty to assist does not apply to CUE claims. See Livesay v. Principi, 15 Vet. App. 165 (2001) (en banc); 38 C.F.R. § 3.105(a)(1)(vi).
+
+Therefore, the Board finds that even when construed liberally, these filings do not contain clear, specific arguments as to why there is a legal or factual error in a specific prior decision or how this error would have manifestly changed the outcome of any prior rating decision had it not been made. 
+
+Accordingly, the Board must find that the Veteran did not clearly and specifically state the alleged error of fact or law, the legal or factual basis for such allegations, and why the result would have been manifestly different but for the alleged error. Due to such pleading insufficiency, an adequate pleading of CUE under 38 C.F.R. § 3.105(a) has not been presented, and the appeal must be dismissed without prejudice to refiling.
+
+ 
+
+ 
+
+M.E. Larkin
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Page-Nelson, A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

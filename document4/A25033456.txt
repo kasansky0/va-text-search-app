@@ -1,0 +1,93 @@
+Citation Nr: A25033456
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240701-451882
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to an initial evaluation of 50 percent for service-connected cluster headaches is granted.
+
+FINDING OF FACT
+
+During the period on appeal, the Veteran's cluster headaches resulted in very frequent completely prostrating and prolonged attacks, productive of severe economic inadaptability.  
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial evaluation of 50 percent for service-connected cluster headaches have been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.10, 4.124a, Diagnostic Code (DC) 8100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from May 1993 to May 1999.      
+
+The rating decision on appeal was issued in September 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board of Veterans' Appeals (Board) may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to an initial evaluation higher than 30 percent for service-connected cluster headaches
+
+The Veteran contends that he is entitled to at least a 50 percent rating for his service-connected cluster headaches.  See July 2024 Third Party Correspondence; July 2024 Notice of Disagreement.  
+
+Disability ratings are determined by applying a schedule of ratings that is based on average impairment of earning capacity.  Separate diagnostic codes identify the various disabilities.  38 U.S.C. § 1155; 38 C.F.R., Part 4.  Each disability must be viewed in relation to its history and the limitation of activity imposed by the disabling condition should be emphasized.  38 C.F.R. § 4.1.
+
+Where the question to consider is the propriety of the initial evaluation assigned, consideration of the medical evidence since the effective date of the award of service connection and consideration of the appropriateness of a "staged" rating are required.  See Fenderson v. West, 12 Vet. App. 199, 125-26 (1999).  The Board will consider whether separate ratings may be assigned for separate periods of time based on facts found, a practice known as "staged ratings," whether it is an initial rating case or not.  See Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007).
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.
+
+When a Veteran seeks an increased evaluation, it will generally be presumed that the maximum benefit allowed by law and regulation is sought, and it follows that such a claim remains in controversy where less than the maximum benefit available is awarded.  AB v. Brown, 6 Vet. App. 35, 38 (1993).  
+
+In an October 2022 rating decision, the AOJ granted service connection for cluster headaches with a 30 percent evaluation effective August 30, 2022.  The Veteran's cluster headache condition is rated under DC 8100.  
+
+Under DC 8100, migraine headaches with less frequent attacks than the criteria for a 10 percent rating are rated as non-compensable.  Migraine headaches with characteristic prostrating attacks averaging one in two months over the last several months are rated 10 percent disabling.  Migraine headaches with characteristic prostrating attacks occurring on an average once a month over last several months are rated 30 percent disabling.  Migraine headaches with very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability are rated 50 percent disabling.  
+
+The rating criteria of DC 8100 are considered successive, meaning that a claimant cannot fulfill the criteria of the higher rating without fulfilling those of the next lower rating.  Johnson v. Wilkie, 30 Vet. App. 245, 252 (2018).  This renders 38 C.F.R. §§ 4.7 and 4.21 inapplicable.  Id. 
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under DC 8100 to describe the nature and severity of migraines, but it is not defined in the regulation.  Pursuant to Dorland's Illustrated Medical Dictionary 1554 (31st ed. 2007), prostration is defined as "extreme exhaustion or powerlessness."  Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.  
+
+The term "productive of severe economic inadaptability" is not defined by VA regulations either.  However, the United States Court of Appeals for of Veterans Claims (Court) has stated that this term is not synonymous with being completely unable to work and that the phrase "productive of" could be read to mean either "producing" or "capable of producing" severe economic inadaptability.  See Pierce v. Principi, 18 Vet. App. 440, 446-47 (2004).  Regarding "severe economic inadaptability," nothing in the 50 percent criteria requires that the claimant be completely unable to work in order to qualify for that rating.  Id.  The "phrase 'very frequent' connotes a frequency greater than once a month, which is enumerated in the 30% rating level, and once every 2 months, which is enumerated for the 10%." Johnson v. Wilkie, 30 Vet. App. at 252.
+
+The Board also notes the holding of Holmes v. Wilkie, 33 Vet. App. 67 (2020) where the Court held that DC 8100 contemplates migraine headaches, which is more than just headaches.  In other words, in assessing the duration, frequency, and severity of the Veteran's symptoms in applying DC 8100, the Board must be cognizant that DC 8100 meant to compensate a "migraine" disability, which is not just throbbing headache pain, but often accompanied by nausea, vomiting, and sensitivity to light or sound, and is sometimes preceded by an aura and is often followed by fatigue.  Id. at 71 (citing Merriam-Webster.com Dictionary definition of "Migraine"). 
+
+The evidence of record reflects that the Veteran has used medication to treat his headaches; however, the Court has held that in assigning a disability rating, VA may not consider the ameliorative effects of medication where such effects are not explicitly contemplated by the rating criteria. Jones v. Shinseki, 26 Vet. App. 56 (2012).  DC 8100 does not consider the ameliorative effects of medication.  Thus, the Board's analysis in this case does not consider any ameliorative effects of such medication in assessing the severity level of impairment and contemplates the frequency of characteristic prostrating attacks without medication.  
+
+Here, a September 2022 VA examination report reflects that the Veteran had pulsating/throbbing head pain, located in the orbital and occipital areas of the head.  See September 2022 VA examination.  The headaches were noted to last less than one day, with prostrating attacks once every month.  Additional symptoms include sensitivity to light and sound.  The examiner noted that the prostrating attacks were not productive of severe economic inadaptability.  The examiner found that the headaches impacted the Veteran's ability to work, as he lost 0-1 weeks of work in the past 12 months.  The examiner also noted that the Veteran misses work when he gets headaches due to changes in his vision.  
+
+In September 2023, the Veteran was afforded another VA examination, where the examiner confirmed a diagnosis of cluster headaches.  See September 2023 VA Examination.  The report reflects that the Veteran has pulsating/throbbing head pain and pain that worsens with physical activity, located in the back of the head and behind both eyes.  The Veteran's non-headache symptoms include nausea, sensitivity to light, and sensitivity to sound.  The symptoms typically last less than one day.  The examiner determined that the Veteran had characteristic prostrating attacks of migraine/non-migraine headache pain greater than one per month.  The examiner found that the Veteran did not have very prostrating and prolonged attacks of migraine/non-migraine pain productive of severe economic inadaptability.  The examiner determined that the Veteran's headache condition impacted his ability to work, as he lost 2-4 weeks of work in the last 12 months.  Specifically, the cluster headaches may decrease work productivity, as the Veteran is not able to focus, concentrate, and misses work sometimes.  The Veteran reported that he lost 2 days a month or 20 days in last year due to headaches.  The Veteran complained of severe sensitivity to light, debilitating headaches 2 to 3 times per month and a pinched nerve once a week, lasting 6 hours.  When the symptoms occur, the Veteran must use a cold compress, turn off the lights, and "rides [it] out," until the symptoms subside.  The Veteran reported that if the headaches happen in the morning, then he can get through the worse part of it and still be functional; but they occur later in the day, then he cannot sleep. 
+
+The Veteran submitted a private medical opinion in July 2023.  See July 2023 Medical Treatment Record.  The clinician opined that the Veteran meets the criterion for a 50 percent rating for his service-connected cluster headaches.  The clinician relied on the Veteran's August 2022 Statement in Support of Claim (VA Form 21-4138) to support the opinion.  The clinician reasoned that the Veteran, through the statements, demonstrated frequent, completely prostrating attacks of cluster headache pain at least twice a month, making the disability productive of severe economic inadaptability.  
+
+The Board finds that the Veteran's cluster headache symptoms more nearly approximate the criteria for a 50 percent rating under DC 8100.  
+
+The record reflects that the Veteran's headache symptoms remained consistent throughout the appeal period.  The Veteran experiences pulsating/throbbing head pain in the back of his head and behind his eyes, occurring less than one day per week, and prostrating attacks greater than once per month.  The Veteran has sensitivity to light, sensitivity to sound, changes in vision, and nausea; causing extreme powerlessness, as he must turn off the lights and use a cold compress until the symptoms subside after 6 hours.  
+
+While the VA examiners indicated that the prostrating attacks of migraine pain were not productive of severe economic inadaptability, the examiners also indicated that the headaches make working difficult, due to vision changes, and by having to use a cold compress with the lights off until the symptoms subside after 6 hours.  These symptoms have caused the Veteran to lose 2-4 weeks of work over the past year.  
+
+Further, the Veteran competently and credibly described symptoms equating to prostrating attacks productive of severe economic inadaptability in his August 2022 Statement in Support of Claim (VA Form 21-4138).  See Layno v. Brown, 6 Vet. App. 465 (1994) (The Veteran is competent to report symptoms as this requires only personal knowledge, coming through the senses).  The Veteran reported that he frequently experiences pain, tension, tightness, limited movement, pulling sensation, and soreness in his neck.  He noticed that he gets headaches when these symptoms are at their worst.  His headaches occur 1-2 times per week.  The headache pain generally occurs on the back of his head, behind his eyes, and behind his ears.  At least a couple time a month, they knock him out of commission to the point that he is totally incapacitated and unable to do any normal daily activities for 10 hours.  During his headaches, he has light sensitivity, noise sensitivity, nausea, tingling, weakness, lightheadedness, throbbing pain, and pulsating pain.  He has missed events and activities due to his headaches because they render him unable to function at all during the time of the headaches.  
+
+The Board finds the Veteran's testimony as to his symptoms to be competent as it was provided by a person who has knowledge of facts or circumstances and conveys matters that can be observed and described by a lay person. 38 C.F.R. § 3.159 (a); Kahana v. Shinseki, 24 Vet. App. 428, 438 (2011); Layno v. Brown, 6 Vet. App. 465, 470 (1994).  Furthermore, the Board found the Veteran to be credible as to his description of his headache symptoms and the impact on his daily living.  As such, his lay testimony is assigned probative weight in favor of his claim.
+
+(Continued on the next page)
+
+?
+
+Based on the September 2022 VA examination, the September 2023 VA examination, the July 2023 Private Medical Opinion, and the August 2022 statement, the Veteran has credibly and competently indicated that his symptoms more nearly approximate very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability, as contemplated in the 50 percent rating criteria of DC 8100.  Accordingly, a rating of 50 percent is warranted for the entire period on appeal.  A 50 percent rating is the maximum schedular rating allowable under DC 8100.  
+
+For the foregoing reasons, the probative evidence of the record persuasively weighs in favor of finding that the Veteran is entitled to the maximum schedular rating of 50 percent for his cluster headaches for the entire appeal period.  Thus, the benefit-of-the-doubt doctrine is not applicable.  See 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102, 4.3; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side, or another is the benefit of the doubt doctrine not for application).  Further, neither the Veteran nor his representative has raised any other issues, nor have any other issues been reasonably raised by the record.  See Doucette v. Shulkin, 28 Vet. App. 366, 69-70 (2017).  Therefore, the Veteran's claim is granted.
+
+ 
+
+ 
+
+Tiffany Dawson
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Molitoris, Lee A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

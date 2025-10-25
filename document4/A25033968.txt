@@ -1,0 +1,119 @@
+Citation Nr: A25033968
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240428-435064
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for urinary tract infection (UTI), to include as secondary to service-connected priapism, is denied.
+
+REMANDED
+
+Entitlement to service connection for post-micturition dribbling is remanded.
+
+Entitlement to service connection for cervical radiculopathy, left upper extremity, is remanded.
+
+FINDING OF FACT
+
+The evidence of record persuasively weighs against finding that the Veteran has had a UTI diagnosis at any time during or approximate to the pendency of the claim.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for UTI have not been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from December 2004 to March 2005 and September 2005 to September 2009.  
+
+The rating decision on appeal was issued in September 2023.  In April 2024, the Veteran filed VA Form 10182, Notice of Disagreement, choosing to continue his appeal via Direct Review by a Veterans Law Judge under the Appeals Modernization Act (AMA).  Direct review is the appeal option to the Board in which a Board decision is issued based on evidence of record at the time of the prior decision.  The Board cannot hold a hearing or accept into the record additional evidence in its direct review.
+
+The Board is bound by favorable findings made by the AOJ.  In this case, the Veteran has been diagnosed with post micturition dribbling and left upper extremity cervical radiculopathy.  Additionally, the AOJ conceded the Veteran's participation in a toxic exposure risk activity.  
+
+Entitlement to service connection for UTI 
+
+A veteran is entitled to VA disability compensation if there is a disability resulting from personal injury suffered or disease contracted in the line of duty in active service, or for aggravation of a preexisting injury suffered or disease contracted in the line of duty in active service.  38 U.S.C. §§ 1110, 1131. 
+
+Generally, to establish a right to compensation for a present disability, a veteran must show: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service, the so-called "nexus" requirement.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service connection may also be established for any disability which is proximately due to or the result of a service-connected disease or injury.  See 38 C.F.R. § 3.310.  In order to prevail on the issue of entitlement to secondary service connection, there must be (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) nexus evidence establishing a connection between the service-connected disability and the current disability.  See Wallin v. West, 11 Vet. App. 509, 512 (1998).
+
+Service connection may be granted for disability shown after service, when all the evidence, including that pertinent to service, shows that it was incurred in service.  38 C.F.R. § 3.303(d). 
+
+In Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990), the United States Court of Appeals for Veterans Claims stated that "a veteran need only demonstrate that there is an 'approximate balance of positive and negative evidence' in order to prevail."
+
+Analysis 
+
+The Veteran contends that his disability is due to service, to include as secondary to his service-connected priapism.  
+
+The Veteran's service treatment records (STRs) do not document complaints, treatments, or diagnosis for UTI.  During his April 2005 Report of Medical History, Enlistment physical, and July 2009 Separation Exam, the Veteran denied having frequent or painful urination.    
+
+In November 2021, the Veteran saw his private physician complaining of abdominal pain and fever.  He was diagnosed with UTI.  
+
+In July 2022, he was seen at the Phoenix VAMC complaining of foot pain.  He reported having some blood in the urine.  He was diagnosed with, among other things, possible UTI.  The Veteran was prescribed medication, and the symptoms resolved. 
+
+In August 2023, the Veteran was afforded a VA examination to determine the nature and etiology of his disability.  The Veteran reported onset of lower abdominal pain in 2017.  He sought medical attention and was diagnosed with a UTI and was prescribed antibiotics.  Although he completed a course of antibiotics, the abdominal pain was refractory.  After two weeks, he went to his VA primary care physician and was prescribed a second course of antibiotics.  He stated that the UTI symptoms resolved.
+
+The examiner opined that the claimed condition is less likely than not (likelihood is less than approximately balanced or nearly equal) proximately due to or the result of the Veteran's service-connected condition.  The examiner also opined that the claimed condition was less likely than not caused by the indicated toxic exposure risk activity(ies), after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  The examiner explained that recurrent UTIs refer to two or more infections in six months or three or more infections in one year.  The Veteran did not meet these criteria.  The Veteran reported a history of approximately three acute UTIs/bladder infections from 2017 to 2022.  At the time of the exam, he denied any symptoms consistent with an acute UTI including dysuria, abdominal pain, urinary urgency or frequency, and hematuria.  A urinalysis was performed in conjunction with this exam and findings were negative for acute UTI.  The examiner concluded that the Veteran did not have a current UTI or chronicity of UTI.  Therefore, no secondary nexus can be made between a normal diagnosis and the service-connected priapism.  The examiner also stated that the Veteran's past UTI's occurred in 2017-2022 which is years after discharge.  UTIs are caused by bacterial infections in the urinary tract.  There is no relation between acute UTIs and toxic risk exposures during service.
+
+During the period on appeal, the Veteran's post-service treatment records do not document complaints, treatments, or diagnosis for UTI.
+
+The Board finds the VA examiner's opinion to be adequate, reliable, and affords it significant probative weight.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 303-304 (2008).  The examiner's opinion is based on a thorough review of the record and medical testing and contains sufficient rationale.  See Barr v. Nicholson, 21 Vet. App. 303 (2007).  Additionally, the examiner considered the Veteran's relevant medical history and the Veteran's contentions when formulating the opinion.  See Stefl v. Nicholson, 21 Vet. App. 120, 123-24 (2007).  
+
+Based on the evidence of record, the Board finds that the Veteran does not have a currently diagnosed UTI condition.  Here, the Veteran's STRs do not document a diagnosis for UTI.  The Board notes that in 2022, the Veteran was diagnosed with a UTI.  However, he was prescribed medication, and the symptoms resolved.  Since then, the Veteran's post-service treatment records do not document a UTI diagnosis.  Additionally, the VA examiner opined that the claimed condition is less likely than not proximately due to or the result of the Veteran's service-connected condition and was less likely than not caused by the indicated toxic exposure risk activity(ies), after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  The examiner stated that recurrent UTIs refer to two or more infections in six months or three or more infections in one year.  However, in this case, the Veteran did not meet these criteria as he reported a history of approximately three acute UTIs/bladder infections from 2017 to 2022.  At the time of the VA exam, the Veteran denied any symptoms consistent with an acute UTI including dysuria, abdominal pain, urinary urgency or frequency, and hematuria.  A urinalysis was performed, and findings were negative for acute UTI.  The examiner concluded that the Veteran did not have a current UTI or chronicity of UTI, and no secondary nexus could be made between a normal diagnosis and the service-connected priapism.  Based on the evidence of record, the Board concludes that the Veteran does not have a currently diagnosed UTI condition.  As such, element one under Shedden is not met.  In the absence of proof of a present disability, there can be no valid claim.  Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992); see also Rabideau v. Derwinski, 2 Vet. App. 141, 143-44 (1992). 
+
+The Board acknowledges the Veteran and his representative's statements that the Veteran suffers from a UTI condition that is related to his service-connected priapism.  Although lay persons are competent to provide opinions on some medical issues, see Kahana v. Shinseki, 24 Vet. App. 428, 435 (2011), as to the specific issue in this case, a diagnosis and a nexus between the diagnosis and a service-connected condition is outside the realm of common knowledge of a lay person.  See Jandreau v. Nicholson, 492 F.3d 1372, 1377 n. 4 (Fed. Cir. 2007) (lay persons not competent to diagnose cancer).
+
+Therefore, the record persuasively weighs against the claim for service connection for a UTI, and the appeal is denied.  As such, the benefit-of-the-doubt doctrine is not applicable.  See 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+REASONS FOR REMAND
+
+The Veteran has a current diagnosis of cervical radiculopathy, left upper extremity.  He contends that his disability is due to service.  Specifically, on his March 2002 VA Form 21-526EZ, Fully Developed Claim, he stated that the disability occurred because he wore constant PPE, e.g., helmets, vests, NVG's, and full combat loads, for combat.  Additionally, he completed multiple intense martial arts training levels and worked in confined small spaces in vehicles and living quarters.  The Veteran added that he engaged in daily intense physical training like running and lifting heavy weights.  
+
+On August 24, 2023, the Veteran was afforded a VA examination to determine the nature and etiology of his radiculopathy.  The examiner confirmed the Veteran's bilateral upper extremity cervical radiculopathy diagnosis.  The examiner opined that the claimed condition was less likely than not incurred in or caused by the claimed in-service injury, event, or illness.  The examiner stated that the Veteran's STRs are absent for any chronic neck treatments, neck injuries, neck imaging, or chronic neck diagnosis.  His August 2014 VA/CPRS records document complaints of severe neck pain starting in the last year.  A November 2021 orthopedic clinic note revealed cervical radiculopathy.  The VA examiner was unable to establish any nexus to service as there was no neck injury, treatments, imaging, or diagnosis of any cervical condition including right upper extremity radiculopathy during service, at discharge.  
+
+The Board finds the opinion to be inadequate.  When formulating the rationale, the examiner failed to consider and discuss the Veteran's contentions that his disability is due to wearing constant PPE, completing multiple intense martial arts training levels, working in confined small spaces in vehicles and living quarters, and engaging in daily intense physical training like running and lifting heavy weights.  Moreover, the VA opinion is inadequate as it is predicated on the lack of inservice reports.  As such, the Board finds that VA committed a pre-decisional duty to assist error by failing to obtain/provide an adequate medical exam.  See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).  Therefore, a remand is necessary to obtain an adequate opinion.
+
+Regarding his post micturition dribbling, the Veteran contends that he has a disability, that is secondary to his service-connected priapism.  
+
+In August 2023, the Veteran was afforded a VA examination to determine the nature and etiology of his disability.  The examiner diagnosed the Veteran with post-micturition dribbling.  The examiner opined that the claimed condition is less likely than not proximately due to or the result of the Veteran's service-connected condition and was less likely than not caused by the indicated toxic exposure risk activity(ies), after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  The examiner provided a rationale for the opinion.  However, the examiner also stated that at the time of the exam, due to the nature of subjective symptoms, there were no objective findings to support the Veteran's claimed condition and no evidence of continuity of care for the symptoms.
+
+The Board notes that although the VA examiner diagnosed the Veteran with post-micturition dribbling, the examiner stated due to the nature of the subjective symptoms, there were no objective findings to support the Veteran's claimed condition and no evidence of continuity of care for the symptoms.  Based on the conflicting information, the Board is unable to determine whether the Veteran has or had a diagnosis at any point during the period on appeal.  The Board finds that VA committed a pre-decisional duty to assist error by failing to obtain/provide an adequate medical exam.  See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).  Therefore, a remand is necessary to obtain an adequate opinion.
+
+The matters are REMANDED for the following action:
+
+1.   Schedule the Veteran for a VA examination to determine the nature and etiology of his radiculopathy.  The complete record, to include a copy of this remand and the claims folder, must be made available to and reviewed by the examiner in conjunction with the examination.  All indicated studies should be performed, and all findings should be reported.
+
+Based on a review of the entire record, the examiner must opine:  
+
+Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's cervical radiculopathy, left upper extremity, had its onset in or was otherwise related to his period of service, to include as due to wearing constant PPE, completing multiple intense martial arts training levels, working in confined small spaces in vehicles and living quarters, and engaging in daily intense physical training like running and lifting heavy weights.
+
+The examiner must consider and discuss the Veteran's lay statements regarding the onset and progression of his condition.  The supporting rationale for all opinions expressed must be provided.  If any opinion cannot be offered without resorting to mere speculation, the examiner should clearly explain why this is the case and identify any additional evidence that may allow for a more definitive opinion.  Citation to appropriate medical principles would be helpful in the Board's analysis.
+
+2.  Obtain an addendum opinion from the August 2023 VA examiner to determine the nature and etiology of the Veteran's post-micturition dribbling.  The evidentiary record, including a copy of this remand, must be made available to and reviewed by the examiner.  The addendum opinion must include a notation that this record review took place.  It is up to the discretion of the examiner as to whether a new examination is necessary to provide an adequate opinion.  If the examiner is no longer available, obtain an opinion from another appropriate examiner.
+
+The examiner is asked to clarify whether the Veteran has or had a post micturition dribbling diagnosis at any time during the period on appeal, i.e., from July 17, 2023, to September 6, 2023.  
+
+If the Veteran has or had a post-micturition dribbling diagnosis at any time during the period on appeal, the examiner must determine:
+
+i.  Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any diagnosed post-micturition dribbling condition had its onset in or was otherwise related to his period of service, to include as due to the indicated toxic exposure risk activity(ies).
+
+ii.  Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any diagnosed post-micturition dribbling condition was caused or aggravated by, proximately due to, or the result of the service-connected priapism.  If the examiner finds that any post-micturition dribbling was aggravated by the service-connected priapism, the examiner must identify the baseline level of the disability that existed before aggravation by the service-connected priapism occurred.
+
+The examiner must consider and discuss the Veteran's lay statements regarding the onset and progression of his condition.  The supporting rationale for all opinions expressed must be provided.  If any opinion cannot be offered without resorting to mere speculation, the examiner should clearly explain why this is the case and identify any additional evidence that may allow for a more definitive opinion.  
+
+Citation to appropriate medical principles would be helpful in the Board's analysis.
+
+ 
+
+ 
+
+MICHAEL LANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Moore, T.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

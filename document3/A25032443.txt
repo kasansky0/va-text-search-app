@@ -1,0 +1,71 @@
+Citation Nr: A25032443
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240614-447726
+DATE: April 8, 2025
+
+REMANDED
+
+Service connected for sleep apnea is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from January 1990 to June 1999.
+
+Although the Veteran initially requested Higher-Level Review when submitting the January 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), the Higher-Level Reviewer determined that there had been a duty to assist error and transferred the claim to the Supplemental Claim decision review option for additional development.  In January 2024, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision.  Therefore, the Board may only consider the evidence of record at the time of the decision on appeal.  
+
+Evidence was submitted during the period after the AOJ issued the January 2024 rating decision, and the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to service connection for sleep apnea, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+Service connected for sleep apnea is remanded.
+
+The Veteran and his representative assert that service-connected conditions, including a right ankle disability, have made him unable to exercise regularly, leading to obesity.  See March 2023 report of HLR informal conference.  The Veteran and his representative further assert that this obesity has caused him to develop sleep apnea.  See id.
+
+The appeal is remanded to correct duty to assist errors that occurred prior to the January 2024 AOJ rating decision.  38 C.F.R. § 20.802(a).
+
+At the March 2023 HLR Informal Conference, the Veteran stated that his service-connected right ankle disability prevents him from exercising regularly, which has caused weight gain.  The Veteran further reported that this weight gain has caused sleep apnea.  Id.
+
+VA treatment records from June 2023 show the Veteran's providers were concerned about his lack of exercise contributing to weight loss and were encouraging low-impact exercise he could perform.  November 2023 VA treatment records reveal the Veteran reported his ankle and other conditions made exercising difficult, which the provider noted was related to his weight. 
+
+The AOJ obtained a secondary service connection nexus opinion in November 2023.  Notably, this nexus opinion stated the Veteran's obesity could be related to osteoarthritis of the knees, for which the Veteran is service connected bilaterally.  The November 2023 VA clinician nevertheless rendered a negative nexus opinion regarding service connection for sleep apnea secondary to the service-connected right ankle disability.
+
+However, this nexus opinion was incomplete, as it focused exclusively on whether the Veteran's sleep apnea was caused by the service-connected right ankle disability, failing to address the aggravation prong of secondary service connection.  See Atencio v. O'Rourke, 30 Vet. App. 74 (2018).  The Board cannot make a fully-informed decision on the issue of entitlement to secondary service connection for sleep apnea because no clinician has competently and credibly opined whether the Veteran's conceded sleep apnea disability was aggravated by the service-connected right ankle disability as required by 38 C.F.R. § 3.310(b).  See El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013) (indicating that findings of "not caused by," and "not related to" a service-connected disability are insufficient to address the question of aggravation under 38 C.F.R. § 3.310(b)).
+
+Moreover, the portion of the November 2023 opinion regarding obesity as an intermediate step did not properly address either the Veteran's lay statements regarding how he believes his service-connected right ankle disability caused his obesity and in turn his sleep apnea or the VA treatment records indicating a potential relationship between the Veteran's service-connected right ankle disability and his obesity.  There is no adequate VA medical opinion of record which addresses the Veteran's statements at the March 2023 HLR informal conference about obesity as an intermediate step.  The November 2023 addendum VA medical opinion also does not reference the pre-existing VA treatment records regarding the potential effect of the Veteran's right ankle disability and other service-connected conditions on his weight, including indications that the Veteran's service-connected right ankle disability prevents him from exercising and that lack of exercise is a factor in his obesity.  See June and November 2023 VA treatment records.  
+
+The Board emphasizes that it is not determining whether or not the Veteran's statements that his service-connected right ankle disability prevents him from exercising and led to obesity as an intermediate step to the current sleep apnea disability are credible at this time, as the additional development set forth in the directives below could impact that determination.  Nevertheless, the AOJ must obtain a nexus opinion which addresses the Veteran's statements and all relevant medical records.
+
+Accordingly, remand is warranted for a VA addendum opinion that corrects the pre-decisional duty to assist errors described above.   
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion from an appropriate clinician regarding whether the Veteran's sleep apnea disability was aggravated by his service-connected right ankle disability or is linked to his right ankle disability through obesity as an intermediate step.  The clinician must review the claims file.  A physical examination of the Veteran is only necessary if deemed so by the clinician.  
+
+The clinician is asked to provide a response to the following:
+
+a.	Is the Veteran's sleep apnea disability aggravated by the service-connected right ankle disability?
+
+b.	Did the Veteran's service-connected right ankle disability or service-connected disabilities of the bilateral knees cause or aggravate his obesity? 
+
+c.	If the answer to (b) is yes, was his obesity a substantial factor in causing the sleep apnea disability? 
+
+d.	If the answer to (c) is yes, determine whether the sleep apnea disability would not have occurred but for the obesity that was caused or aggravated by the service-connected right ankle disability or service-connected disabilities of the bilateral knees.  
+
+Please address the Veteran's statements at the March 2023 HLR informal conference regarding the relationship between the current sleep apnea disability and the service-connected right ankle disability, including that his service-connected right ankle disability limits the exercise he can perform.  Please also address the June and November 2023 VA treatment records regarding the Veteran's barriers to exercise and the resulting impact on his weight.  Please further address the opinion of the November 2023 VA clinician that the Veteran's service-connected disabilities of the bilateral knees could be a cause of his obesity.
+
+Provide a rationale to support the opinion.  If the clinician cannot provide the requested opinion without resorting to speculation, the clinician should so state and explain why.
+
+ 
+
+ 
+
+D. Martz Ames
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Carmichael, A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

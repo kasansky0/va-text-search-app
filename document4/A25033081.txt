@@ -1,0 +1,81 @@
+Citation Nr: A25033081
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 241210-497158
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for bilateral hearing loss is denied.
+
+FINDING OF FACT
+
+During the period on appeal from the February 12, 2024 effective date of service connection, the Veteran had at worst level I hearing in both ears.
+
+CONCLUSION OF LAW
+
+The criteria for an initial compensable rating for bilateral hearing loss are not met. 38 U.S.C. §§ 1155, 5107(b); 38 C.F.R. §§ 4.1, 4.2, 4.7, 4.10, 4.21, 4.85, 4.86, Diagnostic Code (DC) 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from February 1969 to January 1971. 
+
+This matter comes before the Board of Veterans' Appeals (Board) from a May 2024 rating decision.
+
+In a December 10, 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran appealed the May 2024 decision and elected the Board's Direct Review docket. 
+
+Therefore, the Board may only consider the evidence of record at the time of the May 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+As a final preliminary matter, in Williams v. McDonough, 37 Vet. App. 305 (2024), the United States Court of Appeals for Veterans Claims (Court) held that the Board generally may not decide an appeal before the deadline for requesting a docket switch under the Appeals Modernization Act (AMA) has elapsed. In this regard, 38 C.F.R. § 20.202 (c)(2) allows claimants to switch AMA dockets by completing and submitting a new notice of disagreement within one year from the date the AOJ mails notice of the decision on appeal, or 60 days from when the Board receives an NOD, whichever is later, unless a claimant has already submitted evidence or testimony. 
+
+In this case, the deadline for requesting an AMA docket switch has not yet elapsed. The Board sent a letter to the Veteran in January 2025 which informed him that the Board was unable to adjudicate his appeal until the deadline for requesting an AMA docket switch had elapsed unless he informed the Board that he wished to waive his right to request a different Board docket. The Veteran responded in February 2025 that he wished to waive his right to select a different Board review option, and he requested that his appeal be reviewed as soon as possible. Therefore, there has been a voluntary, knowing, and intentional waiver of the right to have the Board delay adjudication of the Veteran's appeal until the deadline for requesting an AMA docket switch has elapsed. See Clark v. O'Rourke, 30 Vet. App. 92, 97-98 (2018) (allowing waiver of a right to a particular time period for submission of evidence to be waived if there is "a voluntary, knowing, and intentional waiver of that right"). 
+
+Entitlement to an initial compensable rating for bilateral hearing loss
+
+Disability ratings are determined by the application of rating criteria set forth in the VA Schedule for Rating Disabilities (38 C.F.R. Part 4) based on the average impairment of earning capacity. Separate diagnostic codes identify the various disabilities. 38 U.S.C. § 1155.
+
+Where service connection has been granted and the assignment of an initial rating is disputed, separate ratings may be assigned for separate periods of time based on the facts found. In other words, the ratings may be "staged." Fenderson v. West, 12 Vet. App. 119, 125-126 (1999). Where there is a question as to which of two ratings shall be applied, the higher rating will be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7.
+
+In view of the number of atypical instances it is not expected, especially with the more fully described grades of disabilities, that all cases will show all the findings specified. Findings sufficiently characteristic to identify the disease and the disability therefrom, and above all, coordination of rating with impairment of function will, however, be expected. 38 C.F.R. § 4.21. The medical as well as industrial history is to be considered, and a full description of the effects of the disability upon ordinary activity is also required. 38 C.F.R. §§ 4.1, 4.2, 4.10.
+
+Hearing loss is rated on the basis of examination results including a controlled speech discrimination test (Maryland CNC), and a pure tone audiometric test of pure tone decibel thresholds at 1000, 2000, 3000, and 4000 Hz with an average pure tone threshold obtained by dividing these thresholds by four. 38 C.F.R. § 4.85.
+
+Once these test results have been obtained, employing Table VI, a Roman numeral designation of hearing impairment is ascertained based on a combination of the percent of speech discrimination and pure tone threshold average. Once a Roman numeral designation of auditory acuity level for each ear has been determined, Table VII is used to determine the percentage evaluation for bilateral hearing loss by combining the Roman numeral designations of auditory acuity level for hearing impairment of each ear. Id. 
+
+There is an alternative method of rating hearing loss in defined instances of exceptional hearing loss. In such exceptional cases, the Roman numeral designation for hearing loss of an ear may be based only on pure tone threshold average, using Table VIA, or from Table VI, whichever results in the higher Roman numeral. Exceptional hearing loss exists when the pure tone threshold at the frequencies of 1000, 2000, 3000, and 4000 Hertz is 55 decibels or more; or where the pure tone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz. In the latter situation, the higher Roman numeral, determined from Table VI or VIA, will then be elevated to the next higher Roman numeral. Each ear will be evaluated separately. 38 C.F.R. § 4.86.
+
+Considering the pertinent evidence in light of the applicable rating criteria and considerations, the Board finds, for the following reasons, that a compensable rating for bilateral hearing loss is not warranted at any time during the period on appeal from the February 12, 2024 effective date of service connection.
+
+During a May 2024 VA audiological examination, the Veteran's pure tone thresholds, in decibels, were as follows:
+
+  	 	 	HERTZ	 	 
+
+ 	1000	2000	3000	4000	Average
+
+RIGHT	10 	15	30	60	29
+
+LEFT	15	15	35	65	33
+
+Speech audiometry revealed speech recognition ability of 96 percent in both ears. Using Table VI, the May 2024 examination revealed level I hearing in both ears. Combining level I hearing for both ears according to Table VII yields a rating of 0 percent.
+
+The Veteran has expressed his belief that the severity of his hearing loss warrants a higher rating. He is competent to report the symptoms of his hearing disability and the Board has no legitimate basis to challenge the credibility of his contentions. See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007); Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006). However, ratings for hearing loss are determined by a mechanical application of the VA rating schedule to the numeric designations assigned based on audiometric test results. Lendenmann v. Principi, 3 Vet. App. 345 (1992). The evidence of record does not show that the Veteran met the specific pure tone thresholds and/or speech discrimination percentages required for a higher rating for hearing loss at any time during the period on appeal from the February 12, 2024 effective date of service connection.
+
+For the above reasons, the evidence is neither evenly balanced nor approximately so with regard to whether an initial compensable rating for bilateral hearing loss is warranted during the period on appeal from the effective date of service connection. Rather, the evidence persuasively weighs against a higher rating. The benefit of the doubt doctrine, see 38 U.S.C. § 5107 (b), is therefore not for application as to this matter. Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+(CONTINUED ON NEXT PAGE)
+
+As a final point, the Board notes that in conjunction with the appeal for a higher initial rating for bilateral hearing loss, no other related issues have been raised by the Veteran, and no other such issues have been reasonably raised by the record. See Doucette v. Shulkin, 28 Vet. App. 366, 369-70 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record). 
+
+ 
+
+Jonathan Hager
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B. Elwood, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

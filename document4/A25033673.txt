@@ -1,0 +1,77 @@
+Citation Nr: A25033673
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 241022-484248
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea, as secondary to service-connected pes planus, is granted.
+
+FINDING OF FACT
+
+Resolving reasonable doubt in the Veteran's favor, the Veteran's obstructive sleep apnea is at least as likely as not due to his service-connected pes planus, with obesity as an intermediate step.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for obstructive sleep apnea have been met. 38 U.S.C. § 5107; 38 C.F.R. § 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from June 1994 until honorable discharge in June 1997.
+
+This case comes before the Board of Veterans' Appeals (Board) on appeal from an October 26, 2023, rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO). 
+
+Following the October 2023 rating decision, the Veteran filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement (NOD)) on October 22, 2024. The Veteran elected to place this appeal on the Direct Review docket. As a valid and timely VA Form 10182 was received, the appeal is properly before the Board.
+
+The Board may only consider the evidence of record at the time of the October 2023 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Service Connection
+
+Direct service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+Service connection may also be granted for a disability that is proximately due to or aggravated by a service-connected disease or injury. See 38 C.F.R. § 3.310(a); see also Allen v. Brown, 7 Vet. App. 439, 448 (1995). To prevail on the issue of secondary service connection, the record must show (1) evidence of a current disability, (2) evidence of a service-connected disability, and (3) medical nexus evidence establishing a connection between the current disability and the service-connected disability. Wallin v. West, 11 Vet. App. 509, 512 (1998); Reiber v. Brown, 7 Vet. App. 513, 516-17 (1995).
+
+The Federal Circuit has held that VA has a duty to consider all theories of entitlement when determining eligibility for compensation. Szemraj v. Principi, 357 F.3d 1370, 1373 (Fed. Cir. 2004); See also Robinson v. Shinseki, 557 F.3d 1355, 1361 (Fed. Cir. 2009) (VA is required to consider all theories of entitlement raised either by the claimant or by the evidence of record as part of the non-adversarial administrative adjudication process).
+
+The claimant bears the responsibility to present and support a claim for benefits. 38 U.S.C. § 5107(a); Fagan v. Shinseki, 573 F.3d 1282, 1286 (Fed. Cir. 2009). However, when there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102. When all of the evidence is assembled, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the veteran prevailing in either event, or whether the evidence is persuasively against the claim, in which case the claim is denied. Gilbert v. Derwinski, 1 Vet. App. 49, 55 (1990).
+
+The benefit of the doubt doctrine, however, is not applicable based on "pure speculation or remote possibility." Fagan, 573 F.3d at 1287. Rather, the evidence must rise to a state of relative equipoise for the veteran to prevail. See Skoczen v. Shinseki, 564 F.3d 1319, 1324 (Fed. Cir. 2009). Indeed, the U.S. Court of Appeals for the Federal Circuit (Federal Circuit) rejected the idea that a veteran must be awarded benefits unless VA produces affirmative evidence refuting the claim. See Skoczen, 564 F.3d at 1329. Instead, the Federal Circuit concluded that if zero evidence is produced in support of a material issue, 1) it may be that no evidence exists to support the particular issue, in which case VA can rule against the claim; or 2) VA may have failed its duty to assist. Id.
+
+Entitlement to service connection for obstructive sleep apnea, as secondary to service-connected pes planus, is granted.
+
+The Veteran contends that he is entitled to service connection for OSA as secondary to his previously service-connected pes planus, with obesity as an intermediary step. See VA Form 21-4138, Statement in Support of Claim, August 2023.
+
+As a preliminary matter, the Board notes that the AOJ made favorable findings in the October 2023 rating decision that are relevant: the AOJ found that the Veteran has a diagnosed disability of sleep apnea; the AOJ confirmed that the claimed primary disability of pes planus is service-connected, and; the AOJ conceded that the Veteran's service in Southwest Asia (Kuwait) constitutes participation in a toxic exposure risk activity (TERA). The Board is bound by the AOJ's favorable findings, absent clear and unmistakable error (CUE).?38 C.F.R. § 3.104?(c). 
+
+Turning to the elements of secondary service connection, elements one and two are met. The Veteran has a current diagnosis of OSA, as confirmed by the AOJ's favorable finding as well as the diagnostic testing from the El Paso Sleep Center in May 2015. Additionally, the claimed primary disability, pes planus, is service-connected, as confirmed by the AOJ's favorable finding. Thus, the remaining question for the Board is whether there is a sufficient nexus linking the diagnosed OSA and the previously service-connected pes planus.
+
+The Board notes that obesity may function as an "intermediate step" in establishing entitlement to secondary service connection. VAOPGCPREC 1-2017 (Jan. 6, 2017); Walsh v. Wilkie, 32 Vet. App. 300, 307 (2020) (addressing entitlement to secondary service connection for hypertension and sleep apnea with obesity serving as an "intermediate step" between those conditions and the primary service-connected condition).
+
+The record contains evidence for and against a finding that the Veteran's OSA is related to the previously service-connected pes planus, with obesity as an intermediary step. In a private medical opinion, dated August 2023, K. M., APRN, states: 
+
+[I]t is at least as likely as not...that the veteran's weight gain is due to and/or related to his service-related condition to include Pes Planus, Bilateral; it is at least as likely as not...that the Veteran's Obstructive Sleep Apnea with [continuous positive airway pressure] CPAP is secondary to, related to, and/or aggravated by the weight gain from the service-related condition to include Pes Planus, Bilateral; and it is at least as likely as not...that without the Veteran's weight gain his Obstructive Sleep Apnea would not have occurred.
+
+This opinion is supported by references to the Veteran's specific medical history and reported symptomology as well as citations to medical publications that illustrate the link between pain from musculoskeletal disabilities, obesity, and OSA. Medical Opinion of K. M., APRN, August 2023. K. M., APRN, lays out the causal link from the Veteran's service-connected pes planus pain, to a more sedentary lifestyle, to the Veteran's development of obesity, to the medical consensus that obesity is a high risk factor for OSA, to the conclusion that absent the Veteran's weight gain related to per planus, the Veteran would not have developed OSA. Medical Opinion of K. M., APRN, August 2023. As this opinion cites directly to the Veteran's reported symptomology, which is consistent with the medical record before the Board, and as this opinion provides a cogent, detailed rationale, complete with citations to applicable medical literature, the Board affords this opinion significant probative weight.
+
+As to evidence against finding a causal link between the Veteran's service-connected pes planus and the claimed OSA, a VA medical examiner opined that no such causal link exists. The Veteran underwent a VA medical examination in September 2023. This examination confirmed the Veteran's diagnosis of OSA, consistent with the August 2015 sleep study. VA Medical Examination, September 2023. The VA examiner found that it is less likely than not that the Veteran's claimed OSA is the result of the Veteran's service-connected pes planus. VA Medical Opinion, September 2023. The examiner reasoned that there is a, "lack [of] scientific or medical evidence of a nexus between the respiratory condition -(Sleep Apnea) and the musculoskeletal condition - (Pes Planus)." This is the entirety of the rationale provided by the VA examiner. The opinion does not discuss obesity as an intermediary step, though the examiner had access to the August 2023 medical opinion of K. M., APRN, as well as the Veteran's August 2023 Statement in Support of Claim, which asserts this theory of entitlement. As this opinion does not consider all theories of entitlement related to secondary service connection, including obesity as an intermediary step, nor does it discuss the Veteran's contention regarding obesity as an intermediary step, the Board affords this opinion little probative weight.
+
+Based on a review of all the evidence of record, the Board affords the opinion of K. M., APRN more probative weight than the VA opinion. The opinion of K. M., APRN, includes a detailed rationale as to how the specific facts of this Veteran illustrate a causal link between the previously service-connected pes planus and the claimed OSA; said rationale is supported by accompanying medical literature. The VA opinions offer conclusory statements that do not consider all theories of entitlement. At a minimum, the Board finds that the evidence for and against the claim is in relative equipoise, and therefore, the benefit of the doubt doctrine applies. 38 U.S.C. § 5107; Gilbert v. Derwinski, 1 Vet. App. 49, 54 (1990).
+
+Accordingly, entitlement to service connection for obstructive sleep apnea, as secondary to service-connected pes planus, is granted.
+
+ 
+
+ 
+
+M. Schlickenmaier
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. T. Holtsclaw
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

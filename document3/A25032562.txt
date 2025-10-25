@@ -1,0 +1,73 @@
+Citation Nr: A25032562
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240909-471958
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA), including as secondary to post-traumatic stress disorder (PTSD), is granted.
+
+FINDING OF FACT
+
+The persuasive weight of the probative evidence of record supports a medical nexus between the Veteran's current OSA and his service-connected PTSD.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for OSA, including as secondary to PTSD, have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the U.S. Marine Corps from February 1982 to June 1988.
+
+An October 25, 2023 rating decision denied service connection for OSA, including as secondary to PTSD. The Veteran requested a Higher-Level Review (HLR) and received a decision on April 9, 2024 remanding the claim for a VA examination addendum. After securing the addendum, the Agency of Original Jurisdiction (AOJ) again denied the claim on appeal in an August 23, 2024 rating decision. The Veteran timely appealed this decision to the Board by requesting the Appeals Modernization Act (AMA) Direct Review Lane for a reevaluation of the evidence considered by the AOJ. See September 2024 VA Form 10182. As this is a Direct Review appeal under the AMA, the record closed on the date of the August 2024 rating decision. See 38 C.F.R. § 20.301. The Board cannot consider evidence submitted after the respective AOJ decision. See id. If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision on the claim on appeal. 38 C.F.R. § 20.300.
+
+In adjudicating the Veteran's appeal, the Board acknowledges that in Williams v. McDonough, 37 Vet. App. 305 (2024), the U.S. Court of Appeals for Veterans Claims (Court) held that under 38 C.F.R. § 20.202(c)(2), the Board generally may not decide an appeal before the deadline for requesting an AMA docket switch has elapsed. 38 C.F.R. § 20.202(c) allows appellants to switch AMA dockets by completing and submitting a new VA Form 10182 within 60 days from when the Board receives the original VA Form 10182, or one year from the date the AOJ mails notice of the decision on appeal, whichever is later, unless: (1) an appellant has already submitted evidence or testimony as described in 38 C.F.R. §§ 20.302 and 20.303, or (2) the appellant or representative has requested a waiver of the ability to request to switch dockets during this timeframe. See also Williams, 37 Vet. App. 305. The Board has not solicited a waiver from the Veteran, but because the Board is granting the Veteran's secondary service connection claim, he is not prejudiced by this adjudication and the Board will proceed accordingly.
+
+Secondary Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. See 38 U.S.C. § 1110; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury, and; (3) a causal relationship between the current disability and the in-service disease or injury. See Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection is also warranted for disability that is "but-for" due to or the result of service-connected disease or injury, and where a non-service-connected disability would have been less severe "but-for" a service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability. See 38 C.F.R. § 3.310(a); Spicer v. McDonough, 61 F.4th 1360, 1364-66 (2023) (invalidating the requirement of "proximate cause" and instead held a "but-for" causation or aggravation is enough to show entitlement to secondary service connection).
+
+Establishing service connection on a secondary basis requires evidence sufficient to show: (1) a current disability; (2) a primary, service-connected disability; and (3) a nexus between the current disability and the service-connected disability. See Wallin v. West, 11 Vet. App. 509, 512 (1988).
+
+Compensation may be established for any incremental increase in disability or any additional impairment of earning capacity in nonservice-connected disabilities resulting from service-connected disabilities above the degree of disability existing before the increase regardless of its permanence. See Ward v. Wilkie, 31 Vet. App. 233, 239 (2019). There is no requirement for objective measurement or numeric quantification for VA to ascertain an increase in disability for compensation purposes. See id. Compensation may also be established for "the natural progression of a condition not caused by a service-connected injury or disease, but that nonetheless would have been less severe were it not for the service-connected disability." See Spicer v. McDonough, 61 F.4th 1364 (Fed. Cir. 2023).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107(b). It follows, that when the evidence persuasively favors one side or the other, the benefit-of-the-doubt rule is not applied. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+1. Entitlement to service connection for OSA, including as secondary to PTSD is granted.
+
+The Veteran contends that his current OSA is related to the trauma he experienced during active-duty service in Beirut. See, e.g., December 2019 VA Form 21-526EZ. Through counsel, the Veteran also argues that his October 2023 private opinion was not afforded sufficient probative weight in past decisions, nor was it adequately contemplated in an April 2024 addendum opinion. See November 2024 Appellate Brief.
+
+The AOJ made the favorable findings that the Veteran has a current disability diagnosis of OSA, as well as a primary, service-connected disability of PTSD. See August 2024 Rating Decision. Therefore, the Board finds that these elements of secondary service connection have been established.
+
+The Board next considers whether the evidence of record proves a medical nexus between the Veteran's current OSA and his service-connected PTSD.
+
+In a September 2023 private opinion, the examining psychologist and sleep medicine specialist opined that it is as least as likely as not that the Veteran's OSA is related to his service-connected PTSD because "significant associated factors that reflect both a causal relationship and substantial aggravation have been identified in the research literature and they are consistent with his mental health records." Specifically, PTSD symptoms such as weight gain and hyperarousal "can significantly contribute to the development of sleep apnea and/or substantially aggravate sleep apnea." The Board finds this opinion highly probative to the medical nexus between the Veteran's OSA and PTSD, bolstered by its thorough explanation of how obesity functions as an intermediate step to disability in this case. See Walsh v. Wilkie, 32 Vet. App. 300 (2020) (holding that obesity, as an "intermediate step" in a causal chain for service connection, can be established on either a causal or aggravation basis). The Board acknowledges that this opinion uses the incorrect causation standard for secondary service connection, but still finds it highly probative as it uses a stricter causation standard than required. See Spicer v. McDonough, 61 F.4th 1364-66.
+
+Separately, the Board acknowledges the examiner's argument that the Board should grant service connection in this case because "countless" previous Board decisions have granted secondary service connection for OSA on comparable facts. The Board assigns this argument no probative weight and emphasizes that its decisions are only binding only with respect to the instant matter decided, are not precedential, and do not establish VA policies or interpretations of general applicability. See 38 C.F.R. § 20.1303.
+
+In an October 2023 VA medical opinion, the examiner opined that the Veteran's OSA is "less likely than not . . . proximately due to or the result of" his service-connected PTSD, and is more likely related to "structural factors" limiting airflow or "non-structural factors" such as "obesity, central fat distribution, male, age, and smoking." The Board affords this opinion minimal probative weight because it uses the incorrect, stricter causation standard for secondary service connection to render a negative opinion, does not consider the conflicting medical evidence in support of the present nexus raised by the September 2023 private opinion, and does not contemplate obesity as an intermediate step for service connection. See Spicer, 61 F.4th 1364-66; Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (holding most of a medical opinion's probative value comes from its reasoning, and the Board must be able to conclude that a medical expert applied valid medical analysis to the significant facts of the particular case to reach the opinion's conclusion); Walsh v. Wilkie, 32 Vet. App. 300.
+
+In another October 2023 VA medical opinion, the examiner opined that the Veteran's current OSA is less likely than not related to his military service because there is no service treatment record (STR) evidence reporting "any in service complaints, initial treatment, diagnosis or follow up care related to the claimed condition," and the Veteran stated during his VA OSA examination that his "sleep apnea symptoms started after his discharge from service and he did not get any care while in the military for the claimed condition." The Board affords this opinion probative weight as to a grant of service connection on a direct basis.
+
+In an April 2024 clarifying VA medical opinion, the examiner restated their October 2023 rationale on structural and non-structural factors and that the Veteran's OSA was most likely caused by "obesity, male, [and] age," clarifying that although "there is a correlation" between OSA and PTSD, "there is no causation" because "there is no medical literature found at this time that supports sleep apnea being caused by Post-Traumatic Stress Disorder (PTSD). As above, the Board affords this opinion minimal probative weight because it does not consider the conflicting medical evidence in support of the present nexus raised by the September 2023 private opinion and does not contemplate obesity as an intermediate step for service connection. See Nieves-Rodriguez v. Peake, 22 Vet. App. 304; Walsh v. Wilkie, 32 Vet. App. 300.
+
+In sum, the Board finds the persuasive weight of the probative evidence of record supports a medical nexus between the Veteran's current OSA and his service-connected PTSD, and all elements of secondary service connection have been established. See Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+Therefore, entitlement to service connection for OSA, including as secondary to PTSD, is granted.
+
+ 
+
+ 
+
+Martin T. Mitchell
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Galik, E.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

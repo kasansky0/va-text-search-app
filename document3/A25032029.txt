@@ -1,0 +1,99 @@
+Citation Nr: A25032029
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 210421-157224
+DATE: April 8, 2025
+
+ORDER
+
+An effective date earlier than September 7, 2018, for Special Monthly Compensation (SMC) under 38 U.S.C. § 1114 at the p-2 rate is denied.
+
+The reduction of the rating for Traumatic Brain Injury (TBI) from 40 percent to 0 percent effective March 1, 2020, was improper, and the 40 percent rating is restored effective March 1, 2020.   
+
+The 10 percent rating for tinnitus was properly discontinued effective September 7, 2018.  
+
+FINDINGS OF FACT
+
+1. There is no legal basis for an effective date earlier than September 7, 2018, for the award of SMC under 38 U.S.C. § 1114 at the p-2 rate.
+
+2. The evidence at the time of the rating reduction did not show improvement in the Veteran's ability to function under the ordinary conditions of life and work.
+
+3. The separate 10 percent rating for tinnitus was properly discontinued effective September 7, 2018, for the award of a 100 percent rating for Meniere's disease.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for an effective date earlier than September 7, 2018, for SMC under 38 U.S.C. § 1114 at the p-2 rate have not been met.  38 U.S.C. § 1114(p); 38 C.F.R. § 3.350.
+
+2. The reduction in the rating of 40 percent to 10 percent for TBI effective March 1, 2020, was improper; the 40 percent rating is restored.  38 U.S.C. § 1155; 38 C.F.R. §§ 3.105, 3.344.
+
+3. The criteria for discontinuation of the 10 percent rating for tinnitus have been met effective September 7, 2018.  38 U.S.C. § 1155; 38 C.F.R. § 4.87, Diagnostic Code 6205.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Marine Corps from February 1987 to April 1991.  He was awarded a Combat Action Ribbon, Southwest Asia Service Medal, and Kuwait Liberation Medal, among others.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from an April 2020 rating decision of an agency of original jurisdiction (AOJ) of the United States Department of Veterans Affairs (VA).
+
+In the April 2021 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement (NOD)), the Veteran elected the Hearing docket.  Due to the special circumstances of this case, to include the issuance of separate Board decisions and a hearing held in May 2024 with respect to one of the other docketed appeals, the Veteran withdrew the hearing request on December 5, 2024.  Therefore, the Board may consider the evidence of record at the time of the April 2020 AOJ decision on appeal, as well as any evidence submitted by the Veteran [or representative] within 90 days following receipt of the withdrawal of the hearing request.  38 C.F.R. § 20.302(b).  If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to receipt of the withdrawal, or (2) more than 90 days following receipt of the withdrawal, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.302(b), 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.  See also Cook v. McDonough, 36 Vet. App. 175 (2023).
+
+In the April 2021 NOD, the Veteran requested an earlier effective date for SMC based on aid and attendance.  However, the issue adjudicated in the April 2020 rating decision pertains to the award of SMC under 38 U.S.C. § 1114 at the p-2 rate.  The Veteran's claim of entitlement to SMC under 38 U.S.C. § 1114 at the (t) rate is adjudicated in a separate Board decision.
+
+As to the Veteran's recent arguments in March 2025, these arguments are not relevant to the issues adjudicated in the decision herein.  The Veteran is advised to file the applicable claim concerning any allegations of clear and unmistakable error in a prior rating decision or file a claim for service connection.  
+
+Entitlement to SMC under 38 U.S.C. § 1114 at the p-2 rate prior to September 7, 2018.
+
+In the April 2020 rating decision, the AOJ granted SMC at the p-2 rate effective September 7, 2018, based on the grant of a 100 percent rating for Meniere's disease.  The AOJ noted that it was clear and unmistakable error that the Veteran was not awarded this rate at the time that the Veteran was granted a 100 percent rating for Meniere's disease effective September 7, 2018.  Thus, the April 2020 rating decision was issued to correct that error.  
+
+SMC is available when a veteran's service-connected disability or disabilities cause "additional hardships above and beyond those contemplated by VA's schedule for rating disabilities."  Breniser v. Shinseki, 25 Vet. App. 64, 68 (2011); see 38 U.S.C. § 1114(k)-(s).  When more than one SMC rate is applicable, rates are calculated using the combined ratings table.  The rate of SMC "varies according to the nature of the veteran's service-connected disabilities."  Moreira v. Principi, 3 Vet. App. 522, 524 (1992).  
+
+Basic levels of SMC are listed in section 1114(k), providing for compensation where a veteran, as a result of service-connected disability, has also suffered one of the listed forms of anatomical loss.  A veteran who meets the requirements set out in section 1114(k) can potentially receive additional benefits through the SMC structure Congress has created.  Namely, higher levels of SMC may be awarded if, in addition to one or more of the disabilities specified in subsection (k), the veteran also meets the requirements for any of the rates specified in subsections (l) through (o).  38 U.S.C. § 1114.  And, in cases where a veteran is entitled to an SMC rate between (l) and (n) and also has additional service-connected disabilities not captured by any SMC rate, the SMC rate can be increased by either a half or a full step, but not more than the maximum SMC rate set out in subsection (o).  38 U.S.C. § 1114(p).  There are seven levels of SMC rates between (l) and (o): (l), (l 1/2), (m), (m 1/2), (n), (n 1/2), and (o).
+
+Prior to September 7, 2018, the Veteran had received SMC at the p-1 rate pursuant to 38 C.F.R. 3.350(f)(3) effective October 17, 2014.  See also 38 U.S.C. 1114(p).  The SMC at the p-1 rate was granted for service-connected PTSD (and associated acquired psychiatric disorders) rated at 100 percent, plus additional service-connected disabilities independently ratable at 50 percent or more.   
+
+From September 7, 2018, the Veteran is in receipt of SMC at the p-2 rate equal to subsection (m) on account of the award for service-connected Meniere's disease rated at 100 percent.  The award of SMC at the p-2 rate was based on an additional single permanent disability that was independently evaluated as 100-percent disabling, apart from any consideration of individual unemployability.  See 38 CFR 3.350(f)(4).  A Veteran who is entitled to SMC is entitled to the next rate of SMC if he has an additional single permanent disability, or a combination of disabilities, that is independently evaluated as 50-percent or more disabling.  38 CFR 3.350(f)(3).  With the grant of the 100 percent rating for Meniere's Disease, the Veteran met the criteria for SMC at the p-2 rate effective September 7, 2018, but no earlier.  
+
+The evidence weighs persuasively against the claim for an effective date earlier than September 7, 2018, for the award of SMC under 38 U.S.C. § 1114 at the p-2 rate.  The claim is denied.
+
+Propriety of the reduction of TBI rating from 40 percent to 0 percent effective March 1, 2020.
+
+The April 2020 rating decision reduced the rating for the Veteran's TBI from 40 to 0 percent effective March 1, 2020, due to a special review of the file, as opposed to a claim initiated by the Veteran for a higher rating.  Accordingly, the Board will only reach the issue as to whether the rating reduction was proper.   
+
+The provisions of 38 C.F.R. § 3.105(e) allow for the reduction in evaluation of a service-connected disability when considered warranted by the evidence, but only after following certain procedural and substantive guidelines.  See also 38 C.F.R. § 4.1 (a disability may require re-ratings over time in accordance with changes in law, medical knowledge, and the Veteran's condition).  Specifically, where a reduction in the evaluation of a service-connected disability or employability status is considered warranted, and the reduction would result in the reduction or discontinuance of compensation payments currently being made, a rating proposing the reduction or discontinuance will be prepared setting forth all material facts and reasons.  The Veteran must be notified at his or her last address of record of the action contemplated and furnished detailed reasons therefore and must be given 60 days for the presentation of new evidence to show that compensation should be continued at the present level.  38 C.F.R. § 3.105(e).   Additionally, the Veteran must be informed that he will have an opportunity for a predetermination hearing, provided that the request is received within 30 days of the notice.  38 C.F.R. § 3.105(i).  If a timely request is received, written notification of the hearing must be sent to the Veteran within 10 days of the hearing.  Id.  Because the Veteran's overall compensation was not reduced, the AOJ did not need to comply with the requirements of section 3.105(e).  
+
+A reduction in disability evaluation is warranted if the evidence shows "that an improvement in disability has actually occurred" and that the "improvement actually reflects an improvement in the veteran's ability to function under the ordinary conditions of life and work."  Brown v. Brown, 5 Vet. App. 413, 421 (1993).  If an evaluation has continued for a period of 5 or more years, it cannot be reduced without evidence of sustained material improvement under the ordinary conditions of life as shown by full and complete examinations.  38 C.F.R. § 3.344(a).  If an evaluation has continued for less than 5 years, a reduction may be implemented upon reexaminations disclosing physical or mental improvement.  38 C.F.R. § 3.444(c).  In this case, the Veteran's 40 percent rating for TBI had been in effect for less than 5 years at the time of the rating reduction.  
+
+In Stern, however, the Court held that although 38 C.F.R. § 3.344 applies only to ratings that have been in effect for 5 years or more, pursuant to §§ 4.2 and 4.10, in any rating-reduction case not only must it be determined that an improvement in a disability has actually occurred but also that improvement actually reflects an improvement in the veteran's ability to function under the ordinary conditions of life and work.  Stern v. McDonough, 34 Vet. App. 51 (2021).  In rating reduction cases, the burden is on the VA to establish that a rating reduction is warranted.
+
+After careful review of the record, the Board finds that evidence does not show actual improvement in the Veteran's TBI or in his ability to function under the ordinary conditions of life and work.  See Stern, 34 Vet. App. 51.  First, in the April 2020 rating decision, the AOJ did not address whether there was improvement in the Veteran's ability to function under the ordinary conditions of life and work when reducing the rating for the Veteran's TBI.  Further, while the January 2019 VA examiner found that all 10 facets of TBI-related cognitive impairment and subjective symptoms were normal, the clinician did not adequately reconcile the current findings with the prior findings of record.  Thus, the Board finds the January 2019 VA examination report and subsequent medical opinion inadequate, and the Board finds that the rating reduction was improper.  
+
+Therefore, the 40 percent rating for TBI is restored effective March 1, 2020.
+
+Whether the discontinuance of the separate 10 percent rating for tinnitus effective September 7, 2018, was proper.
+
+In this case, the 10 percent rating for the Veteran's tinnitus was discontinued effective September 7, 2018, due to the award of service connection for Meniere's disease, effective September 7, 2018.  Being in receipt of a 100 percent schedular rating for Meniere's disease is a greater benefit and subsumes the separate rating for tinnitus, effective the date of the 100 percent rating for Meniere's disease.  
+
+Specifically, under Diagnostic Code 6205, Meniere's syndrome (endolymphatic hydrops) is assigned a 100 percent rating where there is hearing impairment with attacks of vertigo and cerebellar gait occurring more than once weekly, with or without tinnitus.
+
+Note: Evaluate Meniere's syndrome either under these criteria or by separately evaluating vertigo (as a peripheral vestibular disorder), hearing impairment, and tinnitus, whichever method results in a higher overall evaluation.  Do not combine an evaluation for hearing impairment, tinnitus, or vertigo with an evaluation under Diagnostic Code 6205.  See 38 C.F.R. § 4.87, Diagnostic Code 6205.
+
+In the April 2020 rating decision, VA explained that the rating for tinnitus should have been discontinued when the Veteran was awarded service connection for Meniere's disease with the 100 percent rating effective September 7, 2018.  The rating decision noted that hearing impairment and tinnitus were considered when deciding on whether to provide the Veteran with a 100 percent rating under Meniere's disease.  The Board emphasizes that pursuant to the note to Diagnostic Code 6205, ratings for hearing impairment, tinnitus, or vertigo (as a peripheral vestibular disorder) are not to be combined with a rating under Diagnostic Code 6205.
+
+Because a 100 percent rating was granted for Meniere's disease effective September 7, 2018, which subsumes the Veteran's tinnitus, the discontinuance of the separate 10 percent rating for tinnitus was proper effective September 7, 2018.  
+
+In deciding the above, the Board acknowledges the Veteran's argument that the rating for tinnitus should not have been discontinued as this separate rating should be rated under Diagnostic Code 8045.  However, the rating criteria for TBI specify that a diagnosis of tinnitus must be evaluated separately, and a veteran may not receive both a rating for Meniere's disease under Diagnostic Code 6205 and a separate rating for tinnitus.  Accordingly, the AOJ was correct to discontinue the separate 10 percent rating for tinnitus effective September 7, 2018.  Moreover, the Board has awarded SMC at the (t) rate from September 7, 2018, in a separate Board decision (under Docket Number 201222-139291), and the discontinuance of the separate rating for tinnitus did not impact the SMC award.
+
+The evidence weighs persuasively against the Veteran's claim to restore the 10 percent rating for tinnitus and the claim is denied.    
+
+ 
+
+Colleen M. Glaser-Allen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Seay, Jessica M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

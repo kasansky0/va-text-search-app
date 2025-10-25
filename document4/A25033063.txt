@@ -1,0 +1,85 @@
+Citation Nr: A25033063
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 241212-497430
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+Entitlement to service connection for sinusitis is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from May 1966 to November 1969. 
+
+This appeal comes before the Board of Veterans' Appeals (Board) on appeal of a December 2023 rating decision by a Department of Veterans Affairs (VA) agency of original jurisdiction (AOJ). In December 2024, the Veteran filed a timely VA Form 10182 Decision Review Request, Board Appeal, Notice of Disagreement, under the Appeals Modernization Act (AMA), and selected evidence submission.
+
+Under the AMA evidence submission docket, the Board may only consider the evidence of record at the time of the AOJ decision on appeal, as well as any evidence submitted by the Veteran or his representative with, or within 90 days from receipt of, the VA Form 10182. 38 C.F.R. § 20.303.  The Board cannot consider (1) evidence submitted during the period after the AOJ issued the decision on appeal and before the VA Form 10182 was received, or (2) evidence submitted more than 90 days after the VA Form 10182 was received. 38 C.F.R. § 20.303. However, as remand is warranted for the issues before the Board, any new evidence associated with the case file will be considered by the AOJ on remand.
+
+This appeal has been advanced on the docket pursuant to 38 U.S.C. § 7107(b); 38 C.F.R. § 20.902(c).
+
+The Veteran contends that his claims for service connection for OSA and sinusitis should be remanded because the VA failed in its duty to assist. It is specifically contended that the toxic exposure risk activity (TERA) memo was completed after the VA examinations, so the examiner did not properly consider all of his TERA. Furthermore, the VA OSA opinion did not properly consider the relationship between his service-connected traumatic brain injury (TBI) and his OSA, and the VA OSA and sinusitis opinions did not provide alternate causes of the conditions.   
+
+OSA 
+
+Sinusitis 
+
+Under the AMA framework, the Board may remand, where there has been a duty to assist error prior to issuance of a rating decision. As part of the duty to assist, once VA has provided a VA examination, it is required to provide an adequate one, regardless of whether it was legally obligated to provide an examination in the first place. Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). While the Board regrets the additional delay, due to the VA's failure to assist, the Veteran's appeal must be remanded.
+
+The Veteran was afforded VA OSA and sinusitis examinations in November 2023. The examiner recognized diagnoses of OSA and sinusitis. The opinions concerning OSA, and sinusitis were exactly the same in virtually every respect, other than changing the condition that was being discussed. 
+
+The examiner opined that it is less likely than not that the Veteran's OSA and sinusitis were caused by exposure to jet fuel, jet exhaust, or Agent Orange, or were caused by his motor vehicle accident in service with TBI and nasal bone fracture. 
+
+The rationale by the examiner was that jet fuel, jet exhaust, and Agent Orange have not been shown to cause OSA or sinusitis. However, a TERA memo was not completed prior to the examination and opinion for the examiner's review and consideration. Therefore, the examiner did not have the opportunity to thoroughly contemplate all of the Veteran's exposures in making a determination on these matters. 
+
+The Board must be able to conclude that a medical expert has applied valid medical analysis to the significant facts of the particular case in order to reach the conclusion submitted in the medical opinion." See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008); see also Stefl (holding that "a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision as to what weight to assign to a doctor's opinion"). Medical evidence is considered probative when it is factually accurate, fully articulated, and provides sound reasoning for the conclusion. See Id. Here, important factual information was absent from the case file at the time of the VA OSA and sinusitis examinations and opinions. 
+
+Moreover, the Board notes that the record does not show that the AOJ tried to generate an Individual Longitudinal Exposure Record (ILER) to assess all of the TERA the Veteran was involved in during service. In failing to take this action the VA has not met the duty to assist. The VA has the duty to make reasonable efforts to assist a claimant in securing evidence necessary to substantiate their claim for VA benefits. See 38 U.S.C. § 5103, 5103A; 38 C.F.R. § 3.159(c).
+
+The examiner also rationalized that the motor vehicle accident with TBI and nasal bone fracture that occurred during service would not be responsible for the Veteran's current OSA or sinusitis because his nasal bone fracture did not have any significant displacement, and his bilateral nasal passages were clear with no obvious nasal septal deviation on the day of the examination. However, no medical analysis was provided explaining why significant displacement or bilateral nasal septal deviation would be required for the nasal bone fracture to cause or aggravate the Veteran's OSA or sinusitis. See Nieves-Rodriguez.
+
+Additionally, as the examiner based the determination that the OSA and sinusitis would not be related the Veteran's nasal bone fracture because the passages were clear on the day of the examination, it does not appear that the examiner fully considered the Veteran's report of year around nasal congestion, drainage, and postnasal drip. In making all determinations, the Board must fully consider the lay assertions of record. A layperson is competent to report on the onset and recurrence of symptoms. See Layno v. Brown, 6 Vet. App. 465, 470 (1994).
+
+Furthermore, although the examiner referred to the nasal bone fracture in the rationale, the examiner provided no analysis whatsoever as to why the Veteran's service connected TBI is not related to his OSA or sinusitis. Therefore, the examiner did not adequately consider the relationship between the Veteran's TBI and his OSA and sinusitis. 
+
+The Board also notes that the determination that the Veteran's OSA and sinusitis are not related to his TBI are essentially secondary service connection opinions. However, as noted above, the opinions fail to address aggravation. A secondary opinion which addresses a causal relationship, but which does not address the question of aggravation, is inadequate. See El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013).
+
+Based on the foregoing, the Board finds the November 2023 VA OSA and sinusitis opinions to be inadequate. 
+
+Accordingly, remand is warranted for further development.    
+
+The matters are REMANDED for the following action:
+
+1. The AOJ must conduct any appropriate development to determine all of the Veteran's toxic exposures during military service, to include generating an ILER for TERA. The AOJ must then prepare a TERA memo.
+
+2. After completing the development directed above, obtain an addendum opinion from an appropriate examiner not previously associated with the claim for the issuance of medical opinions as to the nature and etiology of his OSA and sinusitis. The examiner must thoroughly review the Veteran's entire claims file, including a copy of this Remand.
+
+The examiner is asked to provide the following:  
+
+a.)	Opine whether it is at least as likely as not (at least an approximate balance of positive and negative evidence) that the Veteran's OSA and/or sinusitis are related to his military service, to include his nasal bone fracture in service and all TERA during his military service.
+
+The examiner must consider all toxic exposures during the Veteran's military service. The examiner is asked to consider total potential exposure and the synergistic combined effect of all TERA of the Veteran.  
+
+b.)	Opine whether it is at least as likely as not (at least an approximate balance of positive and negative evidence) that the Veteran's OSA and/or sinusitis were caused or aggravated by his in-service nasal bone fracture or his service connected TBI.
+
+The examiner is reminded that a lack of evidence cannot be corroborating to conclude that there is no relationship between the Veteran's current disabilities and his military service. 
+
+The examiner is advised that the Veteran is competent to report symptoms and treatment and that his reports, including his reports as to the onset and nature of his symptoms, must be considered, along with the other evidence of record, in formulating the requested opinions.
+
+The examiner must provide a complete rationale for any opinions expressed. If the examiner is unable to opine without resorting to speculation, a basis for reaching this conclusion must be provided.  
+
+ 
+
+ 
+
+JOHN Z. JONES
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B. Temple, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

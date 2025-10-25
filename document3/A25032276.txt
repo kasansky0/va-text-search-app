@@ -1,0 +1,81 @@
+Citation Nr: A25032276
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 250312-517501
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for a headache disability is granted. 
+
+FINDING OF FACT
+
+Resolving doubt in his favor, the Veteran's headache disability is proximately due to his service-connected posttraumatic stress disorder (PTSD).
+
+CONCLUSION OF LAW
+
+The criteria for service connection for a headache disability as secondary to PTSD are met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from November 1969 to August 1971. He received the Vietnam Service Medal with Overseas Service Bar and Army Commendation Medal, among other awards and decorations. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a February 2025 Higher-Level Review decision of the VA Agency of Original Jurisdiction (AOJ). The February 2025 decision on appeal constitutes an initial decision; therefore, the modernized appellate review system, known as the Appeals Modernization Act (AMA) applies.
+
+In the March 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Based on the Veteran's selection of the Direct Review docket, and because this appeal stems from a Higher-Level Review decision, the Board may only consider the evidence of record at the time of the underlying January 2025 decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the January 2025 decision, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+In Williams v. McDonough, 37 Vet. App. 305 (2024), the United States Court of Appeals for Veterans Claims (Court) held, in essence, that the Board must refrain from issuing a decision until the case proceeds to the point where a docket switch is no longer permitted under the terms of 38 C.F.R. § 20.202(c)(2). With his Notice of Disagreement, the Veteran, through his attorney, explicitly waived his right to switch dockets and requested this appeal be decided as soon as possible. The Board acknowledges the Veteran's waiver and will proceed to adjudicate the appeal. 
+
+This appeal is advanced on the docket due to the Veteran's age. 38 U.S.C. § 7107(a)(2); 38 C.F.R. § 20.902(c).
+
+Entitlement to service connection for a headache disability.
+
+The Veteran seeks service connection for a headache disability, which he asserts is secondary to his service-connected posttraumatic stress disorder (PTSD). 
+
+Service connection may be granted on a secondary basis when a non-service-connected disability is proximately due to or aggravated by an already service-connected disability. This is often referred to as "secondary service connection." 38 C.F.R. § 3.310. To establish secondary service connection, the record must show (1) evidence of a current non-service-connected disability, (2) evidence of a service-connected disability, and (3) evidence that the current non-service-connected disability was either (a) caused or (b) aggravated by the service-connected disability. Allen v. Brown, 7 Vet. App. 439 (1995).
+
+For secondary service connection, the issues of causation and aggravation are independent concepts. See Libertine v. Brown, 9 Vet. App. 521, 522 (1996); 38 C.F.R. § 3.310; see also Atencio v. O'Rourke, 30 Vet. App. 74, 90 (2018) ("We reiterate that aggravation of a condition by a service-connected disability is independent of direct causation.").
+
+Secondary causation exists when a non-service-connected disability is caused by a service-connected disability, either directly or through a causal chain. Spicer v. McDonough, 61 F.4th 1360, 1365 (Fed. Cir. 2023). Secondary aggravation exists when the non-service-connected disability, not caused by a service-connected disability, would nonetheless be less severe (to include worsening of functionality) were it not for a service-connected disability. Id. at 1364. 
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the Veteran. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990). 
+
+For background, in a prior July 2024 decision the Board found a March 2015 VA medical nexus opinion for this claim to be inadequate. In that opinion, the examiner recorded the Veteran's headache symptoms yet concluded the Veteran did not have a headache disability, offering no rationale discounting his self-reports. Moreover, the examiner rendered a conclusory opinion with insufficient rationale, determining that the Veteran's headaches had a "very recent onset" in contrast to his PTSD and were not consistent with a migraine diagnosis given an April 2015 CT scan revealed no structural abnormality. As a result, the Board remanded the matter for an adequate addendum opinion regarding whether the Veteran had a headache disability at any point since October 2020 (date of supplemental claim), and if so, whether the headache disability was caused or aggravated by his service-connected PTSD.
+
+In the subsequent August 2024 addendum opinion, the examiner did not respond to the question regarding secondary causation and aggravation. Instead, the examiner opined that it was less likely than not that Veteran had a headache disability as there was no objective evidence of such a diagnosis since October 2020, and therefore, "an aggravation nexus could not be established."
+
+Based on the foregoing, the Board finds there has not been substantial compliance with the July 2024 remand directives. See Stegall v. West, 11 Vet. App. 268 (1998). As in the inadequate March 2015 opinion, the August 2024 examiner provided no rationale for disregarding the Veteran's report of headache symptoms. See Veteran's November 2020 VA 21-4138 Statement in Support of Claim. Although finding no "objective evidence" of a headache disability, the examiner failed to address the November 2020 private medical opinion of record, wherein a private examiner opined that the Veteran suffers from a headache condition. 
+
+Typically, the Board would remand the claim again for another attempt at an adequate VA opinion in compliance with its prior remand directives, as the Veteran is entitled to the same; however, upon review of the record, the Board finds the probative and persuasive evidence is at least in balance regarding whether the Veteran has a headache disability and whether such disability is secondary to his service-connected PTSD. As the evidence is sufficient to decide the claim, and because the Board is granting service connection, the maximum benefit sought, a further remand is not required. 38 C.F.R. §§ 3.304(c), 20.802(a).
+
+Importantly, a layperson is competent to testify to observable facts. Layno v. Brown, 6 Vet. App. 465, 469-70 (1994). Accordingly, lay evidence of facts supporting a diagnosis may not be categorically rejected as not competent solely because it was provided by a layperson. Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007) (outlining the situations where lay evidence of a diagnosis is competent); Kahana v. Shinseki, 24 Vet. App. 428, 435 (2011) (recognizing that there is "no categorical requirement" that medical evidence be used to establish a diagnosis); see generally Buchanan v. Nicholson, 451 F.3d 1331, 1335 (Fed. Cir. 2006) (holding that "competent lay evidence can be sufficient in and of itself" to establish the elements of service connection).
+
+Rather, the competency of lay evidence must be considered on a case-by-case basis, considering the nature of the claimed condition and whether lay evidence is competent in a particular case to establish the fact for which it was offered. Jandreau, 492 F.3d at n.4 ("Sometimes the layperson will be competent to identify the condition where the condition is simple, for example a broken leg, and sometimes not, for example, a form of cancer."); Kahana, 24 Vet. App. at 433 n.4 ("When considering . . . lay evidence, the Board should determine, on a case-to-case basis, whether the [V]eteran's particular disability is the type of disability for which lay evidence is competent.").
+
+Here, the Veteran has offered lay evidence regarding the onset, development, and characteristics of his headaches. The Board finds that headaches are a condition that is observable by a layperson, and the Veteran is competent to report the presence of symptoms and the degree to which they affect his functioning. The hallmark symptoms of headaches -such as the Veteran's described aching and throbbing head pain, nausea, and cold sweats, as well as their initial onset, development, frequency, and severity -are inherently subjective, self-reported, and do not require specialized medical testing to establish their existence. See VA's Headaches (including migraine headaches) Disability Benefits Questionnaire. Although determining whether a particular set of symptoms meets the diagnostic criteria for a migraine condition might require medical expertise, the Veteran has never maintained he has migraines or a migraine condition. See November 2014 initial claim; October 2020 supplemental claim. 
+
+On balance, the Board also finds the Veteran's competent reports of headaches to be credible and entitled to probative and persuasive value, as he has consistently stated the same general details regarding their onset and development. Caluza v. Brown, 7 Vet. App. 498, 511 (1995). Although there are no medical treatment records for headaches to bolster his statements, the Veteran explained that he self-manages his symptoms with over-the-counter medication and rest, and he expressed reluctance to take additional prescription medication. See March 2015 VA examination; November 2020 VA 21-4138 Statement in Support of Claim. 
+
+Therefore, as the Veteran has a headache disability and is service connected for PTSD, the remaining issue is whether his PTSD caused or aggravated his headaches. 
+
+Although the existing VA opinions are inadequate, and the Veteran is not competent to speak to a medical relationship between PTSD and headaches, as such requires specialized medical knowledge, the Board finds probative and persuasive value in the November 2020 private opinion and associated medical literature. Jandreau, 492 F.3d at 1377; Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302-04 (2008); Owens v. Brown, 7 Vet. App. 429, 433 (1995). 
+
+In the November 2020 opinion, the private examiner provided a medical narrative of the evidentiary record, documenting the Veteran's worsening PTSD symptoms since his initial 2012 diagnosis alongside the onset of his headaches in late 2014. The examiner supported this narrative by citing medical studies indicating a nearly 50 percent overlap between migraines and PTSD among Veterans, with 69 percent of responding Veterans describing PTSD symptoms before the onset of severe or frequent headaches. The study concluded this "suggests that the presence of PTSD may be associated with an increased predisposition to the development of migraine[s]." Additionally, the examiner referenced other literature linking stress and headaches, noting that high levels of stress and emotional strain associated with the Veteran's worsening PTSD could contribute to the onset and exacerbation of his headache symptoms. Although the Veteran has not been diagnosed with migraines, the examiner determined that these studies are nonetheless applicable to the Veteran's headache condition and opined that it was at least as likely as not that "PTSD contributed to the development of headaches." 
+
+In this regard, the Board observes the Veteran has been service-connected for PTSD since December 2012 with an initial 50 percent rating, claimed secondary service connection for headaches in November 2014 shortly after their reported onset, and experienced a severity in his PTSD that warranted a 100 percent rating from May 2017. See October 2024 Board decision. The record, therefore, is consistent with the private examiner's opinion, and the cited medical studies, that high stress and emotional strain from PTSD symptoms can cause headaches, as evidenced by the correlation between the worsening of the Veteran's PTSD and the emergence of his headache disability. 
+
+For the above reasons, and resolving doubt in the Veteran's favor, the probative and persuasive evidence supports a finding that the Veteran has a headache disability, and that his PTSD is at least as likely as not a causative factor. Accordingly, entitlement to service connection for a headache disability as secondary to service-connected PTSD is warranted, and the appeal is granted.  
+
+ 
+
+T. Raymond
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Caldwell, Stephanie L.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,77 @@
+Citation Nr: A25033645
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 241003-479981
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for sleep apnea is granted.
+
+FINDING OF FACT
+
+The evidence supports a finding that the Veteran's service-connected PTSD resulted in the Veteran becoming obese, that obesity was a substantial factor in causing the current disability, and that sleep apnea would not have occurred but for obesity resulting from the service-connected PTSD.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for sleep apnea have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty for training (ACDUTRA) from July 1989 to January 1990.
+
+The rating decision on appeal was issued in October 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  In the October 2023 rating decision, the Agency of Original Jurisdiction (AOJ) found that the Veteran has been diagnosed with obstructed sleep apnea and that the primary disability (PTSD) is service-connected. The Board is bound by these favorable findings.  38 C.F.R. § 3.104(c).
+
+In the October 2024 VA Form 10182, the Veteran elected Direct Review by a Veterans Law Judge as the Board Review option.  As such, the Board may only consider the evidence of record at the time of the October 2024 AOJ decision on appeal.  38 C.F.R. § 20.301.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Service Connection
+
+Service connection may be established for a disability resulting from a disease or injury incurred in or aggravated by active service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303.  Service connection requires evidence showing: (1) a current disability; (2) incurrence or aggravation of a disease or injury in service; and (3) a nexus between the current disability and the disease or injury incurred or aggravated in service. See Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).  Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disability was incurred in service.  38 C.F.R. § 3.303(d).
+
+In addition, service connection may be established on a secondary basis for a disability which is shown to be proximately due to or the result of a service-connected disease or injury.  38 C.F.R. § 3.310.  Establishing service connection on a secondary basis requires evidence sufficient to show that a current disability exists and that the current disability was either caused by or aggravated by a service-connected disability.  38 C.F.R. § 3.310; Allen v. Brown, 7 Vet. App. 439 (1995).
+
+Obesity is a condition that may not be service-connected on a direct basis, as it is not considered a disease or injury for the purposes of 38 U.S.C. §§ 1110.  See Marcelino v. Shulkin, 29 Vet. App. 155, 158 (2018); VAOPGCPREC 1-2017. However, in a precedential opinion, VA's General Counsel recognized that obesity may serve as an "intermediate step" between a primary service-connected disability and a claimed disability for the purposes of establishing service connection on a secondary basis under 38 C.F.R. § 3.310 (a).  In Walsh v. Wilkie, the Court held that obesity as an "intermediate step" in a causal chain for service connection can be established on either a causal or aggravation basis.  See 32 Vet. App. 300 (2020).
+
+In such a case, the evidence would need to reflect that (1) a service-connected disability or disabilities caused the Veteran to become obese or aggravated the Veteran's obesity, (2) the obesity or aggravation of obesity resulting from service-connected disability or disabilities was a substantial factor in causing another disability, and (3) the disability would not have occurred but for the obesity caused by the Veteran's service-connected disability or disabilities or the obesity aggravated by the service-connected disability or disabilities.  Id. at 306 - 07.
+
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue, the benefit of the doubt shall be given to the veteran. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.  When the evidence persuasively favors one side or the other, the benefit-of-the-doubt rule does not apply.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+Entitlement to service connection for sleep apnea is granted.
+
+The Veteran seeks service connection for sleep apnea which she contends is caused or aggravated by her service-connected PTSD.
+
+In April 2021, the Veteran submitted a private opinion from Dr. C.C.  C.C. offered three opinions: (1) that it is at least as likely as not that the Veteran's weight gain is due to and/or related to her service-connected PTSD; (2) that it is at least as likely as not that the Veteran's sleep apnea is secondary to, related to, and/or aggravated by the weight gain from the PTSD; and (3) that without the Veteran's weight gain her sleep apnea would not have occurred.  Dr. C.C. noted the Veteran's report that she weighed 150 pounds upon entrance to military service and has a current weight of 196 pounds, which Dr. C.C. noted meets the national standard for obesity.  Dr. C.C. found this evidence of progressive weight gain and a current overweight condition which chronologically developed after the mental health stressors with mental health medication with known pharmacology to promote weight related to the Veteran's service-connected PTSD.
+
+Dr. C.C.'s rationale was that medical literature supports that psychiatric orders induce weight gain and obesity, even when adjusting for socio-demographic characteristics. Dr. C.C. explained that people with psychiatric disorders have an altered endocrine process, which changes food consumption and can result in emotional eating.  Dr. C.C. stated that multiple studies have documented that veterans of all ages who have PTSD, even when adjusting for demographics, have a greater likelihood of being overweight and obese than the general population. Dr. C.C. noted that sleep disturbances associated with psychiatric disorders indicate that sleep loss increases the risk of obesity and weight gain because sleep loss results in metabolic and endocrine alterations, including decreased glucose tolerance, decreased insulin sensitivity with loss in beta cell function, elevated sympathovagal balance, increased evening concentrations of cortisol, increased levels of ghrelin (which signal caloric need), decreased levels of leptin causing a reduction in satiety, and increased hunger and appetite related to internal misperception of insufficient energy availability. Dr. C.C. stated that these effects lead to obesity. Concerning the relationship between obesity and sleep apnea, Dr. C.C. stated that obesity is known to predispose patients to sleep apnea, including that obesity can result in changes to the upper airway anatomy. Specifically, that the deposition of fat around the pharyngeal airway is likely to increase the collapsibility of the pharyngeal airway.  Dr. C.C. noted that her opinions were based on review of the Veteran's entire VA claims file, medical literature review, and based on clinical experience and expertise.
+
+In June 2021, a VA records review examination and opinion was obtained. The examiner opined that the Veteran's sleep apnea is less likely than not proximately due to or the result of the Veteran's service-connected PTSD.  The examiner stated that the obstructive sleep apnea is caused by structural and physiological changes occurring at the level of the oropharynx and not caused by the psychological effects of PTSD.  The Board finds this opinion to be inadequate as the examiner did not address the favorable positive nexus opinion from Dr. C.C.
+
+The AOJ obtained an addendum VA opinion in March 2022 from the same examiner.  The examiner acknowledged review of the Veteran's claims file to include lay statements and the private opinion by Dr. C.C.  The examiner opined that the Veteran's sleep apnea is less likely than not proximately due to or the result of the Veteran's service-connected PTSD to include due to weight gain/obesity causing sleep apnea.  The examiner noted that when the Veteran first presented to the VA system, she weighed 205 pounds with a BMI of 30.4 and that therefore, she fell under the category of obese. From 2014 to January 20, 2017, the examiner noted that the Veteran's depression and PTSD screens were negative.  The examiner noted that therefore the Veteran presented with obesity in 2014 with no PTSD symptoms at that time. The examiner noted that after the Veteran's diagnosis of PTSD in 2017, her BMI and weight decreased and therefore the Veteran's PTSD did not cause her weight gain. The Board finds the March 2022 VA examiner's opinion to be of limited probative value as the examiner did not specifically address the favorable private opinion by Dr. C.C., to include the medical literature cited therein, and did not address whether the Veteran's sleep apnea was aggravated by her service-connected PTSD.  
+
+In March 2023, the Veteran submitted a private opinion from Dr. Z.M., Board Certified in Sleep Medicine.  Dr. Z.M. opined that it is at least as likely as not that the Veteran's current sleep apnea is secondary to, related to, and/or aggravated by her service-connected PTSD with subsequent sleep disturbance and weight gain. Dr. Z.M.'s rationale was that medical literature shows the presence of an undeniable causal connection between sleep apnea and PTSD.  Dr. Z.M. explained that the risk of developing sleep apnea as a result of PTSD is related to weight gain and obesity, because PTSD predisposes an individual to weight gain.  Dr. Z.M. noted that the possible mechanism for the link between PTSD and obesity is thought to be a dysfunction of the hypothalamic-pituitary-adrenal axis, which controls hormones responsible for appetite control, which in turn results in changes regarding food consumption behaviors.  Concerning the relationship between obesity and sleep apnea, Dr. Z.M. stated that medical literature confirms a nexus between weight gain and sleep apnea. Dr. Z.M. explained that compared with subjects with a stable weight and those that have a ten percent increase in their weight, the latter group has a sixfold risk of developing sleep apnea.  Dr. Z.M. noted that the Veteran's weight gain occurred after her in-service mental health stressor events.  Dr. Z.M. elaborated that obesity alters the normal upper airway mechanics during sleep by: (1) increasing parapharyngeal fat deposition resulting in a smaller upper airway; (2) alterations in neural compensatory mechanism that maintain airway patency; (3) respiratory control system instability; and (4) reduction in functional residual capacity with a resultant decrease in the stabilizing caudal traction the upper airway.  Dr. Z.M. concluded by stating that the Veteran's PTSD promoted weight gain which led to her current overweight condition, which in turn resulted in her sleep apnea.
+
+In August 2023, the AOJ obtained another VA opinion from the same examiner.  The examiner noted review of the private opinion by Dr. Z.M. but determined that his previous medical opinions still stand.  The examiner opined that obesity may play a role in the Veteran's sleep apnea but that obesity is not due to PTSD.  The Board finds this opinion to be inadequate as the examiner once again did not address the medical literature cited by Drs. C.C. and Z.M., and did not address aggravation.
+
+Based on a careful review of the evidence and resolving all reasonable doubt in favor of the Veteran, the Board finds that the evidence persuasively supports a finding that the Veteran's obstructive sleep apnea is secondary to her service-connected PTSD.
+
+While the Board acknowledges the unfavorable VA opinions, they have limited probative value for the reasons noted above.
+
+In contrast, the Board affords a great weight of probative value to Dr. Z.M. and Dr. C.C.'s positive nexus opinions.  These opinions provide clear rationales linking the Veteran's PTSD to progressive weight gain leading to obesity that resulted in obstructive sleep apnea.  Dr. Z.M. explained that the possible mechanism for the link between PTSD and obesity is thought to be a disruption of hormones responsible for appetite control, which in turns results in changes in food consumption behaviors.  Drs. C.C. and Z.M. also explained how obesity alters the normal upper airway mechanics during sleep resulting in sleep apnea.  These opinions reflect full consideration of all the pertinent evidence of record based on each private provider's expertise and includes an adequate rationale for the opinions rendered with supporting data.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).  As such, the Board assigns great weight of probative value to Drs. C.C. and Z.M.'s positive nexus opinions.
+
+Accordingly, the private medical opinions are the most probative opinions of record; thus, the evidence persuasively favors that the Veteran's service-connected PTSD resulted in her becoming obese, that obesity was a substantial factor in causing sleep apnea, and that sleep apnea would not have occurred but for obesity resulting from the service-connected PTSD.  Thus, the Board finds that service connection for obstructive sleep apnea is warranted.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch, 999 F. 3d at 1391.
+
+ 
+
+ 
+
+LESLEY A. REIN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board                                                                    C. Gates	
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

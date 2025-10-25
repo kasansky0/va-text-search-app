@@ -1,0 +1,89 @@
+Citation Nr: A25033934
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 220107-506911
+DATE: April 11, 2025
+
+REMANDED
+
+The issue of eligibility for benefits under the Program of Comprehensive Assistance for Family Caregivers (PCAFC) is remanded.
+
+REASONS FOR REMAND
+
+The first appellant in this matter is the Veteran who served on active duty with the Army from July 1969 to July 1971, to include service in Vietnam.   
+
+The second appellant in this matter is S.W., the Veteran's adult daughter who is applying to become the Veteran's Primary Family Caregiver.  
+
+The Veterans Health Administration (VHA) decision on appeal was issued in November 2021; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the January 2022 VA Form 10182, Decision Review Request: Board Appeal, the appellants elected the Direct Review docket.  The AMA Direct Review does not allow submission of any additional evidence in support of an appeal.  As this is a Direct Review appeal under the AMA, the record closed as of the November 2021 decision.  Therefore, the Board may only consider the evidence of record at the time of the November 2021 VHA decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the March 2023 AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the VHA in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+The issue of eligibility for benefits under the PCAFC is remanded.
+
+The appellants contend that the Veteran has required around the clock care since March 2021.  See Correspondence, January 2022.  
+
+The Veteran and caregiver contend that the Veteran is unable to perform a significant number of activities for daily living due to mobility issues and requires the support of his caregiver.  See VA Form 10182, June 2023.    
+
+Eligibility under the PCAFC program requires a finding that an eligible Veteran is in need of personal care services for a minimum of six continuous months from an eligible caregiver because of (1) an inability to perform one or more activities of daily living (ADLs); (2) a need for supervision or protection based on symptoms or residuals of neurological or other impairment or injury; or (3), a need for regular or extensive instruction or supervision without which the ability of the Veteran to function in daily life would be seriously impaired.  38 U.S.C. § 1720G(a)(2); 38 C.F.R. § 71.20(a).   
+
+"In need of personal care services" means that the eligible Veteran has moderate to severe needs and requires in-person personal care services from another person, and without such personal care services, alternative in-person caregiving arrangements (including respite care or assistance of an alternative caregiver) would be required to support the eligible Veteran's safety.  38 C.F.R. § 71.15; see also 85 Fed. Reg. 46,226 (July 31, 2020).  The term "an inability to perform an ADL" means the individual requires personal care services each time he or she completes one or more of the following: 
+
+(1) Dressing or undressing oneself; 
+
+(2) Bathing; 
+
+(3) Grooming oneself in order to keep oneself clean and presentable; 
+
+(4) Adjusting any special prosthetic or orthopedic appliance, that by reason of the particular disability, cannot be done without assistance (this does not include the adjustment of appliances that nondisabled persons would be unable to adjust without aid, such as supports, belts, lacing at the back, etc.); 
+
+(5) Toileting or attending to toileting; 
+
+(6) Feeding oneself due to loss of coordination of upper extremities, extreme weakness, inability to swallow, or the need for a non-oral means of nutrition; or 
+
+(7) Mobility (walking, going up stairs, transferring from bed to chair, etc.).  Id.  
+
+A "need for supervision, protection, or instruction" means that an individual has a functional impairment that directly impacts the individual's ability to maintain his or her personal safety on a daily basis.  Id.  However, in Veteran Warriors, Inc. v. Sec'y of Veterans Affairs, 29 F.4th 1320 (Fed. Cir. 2022), the Federal Circuit invalidated the definition of "need for supervision, protection, or instruction" in 38 C.F.R. § 71.15 because the frequency requirement-i.e., that the functional impairment directly impacts the individual's ability to maintain his or her personal safety on a daily basis-was inconsistent with the statute.  
+
+In considering the Legislature's intent when determining the requirements necessary to be found in need of personal cares services due to a "need for supervision, protection, or instruction," the Court stated that the term and its definition serve to implement the statutory phrases "a need for supervision or protection based on symptoms or residuals of neurological or other impairment or injury" and "a need for regular or extensive instruction or supervision without which the ability of the Veteran to function in daily life would be seriously impaired" as described in clauses (ii) and (iii) of 38 U.S.C. § 1720G(a)(2)(C).  85 Fed. Reg. 46,226 (July 31, 2020).  Therefore, the Board will follow the definition of "need for supervision, protection, or instruction" as cited to in 38 U.S.C. § 1720G(a)(2)(C) and as explained in Veteran Warriors, Inc. v. Sec'y of Veterans Affairs.  
+
+Whether the Veteran is in need of personal care services is a medical opinion, and the Board cannot make a medical judgement based on its own opinion.  38 U.S.C. § 1720G(c); Colvin v. Derwinski, 1 Vet. App. 171, 175 (1991).  However, the Board has jurisdictional authority to review all decisions that pertain to eligibility for benefits under the PCAFC pursuant to 38 U.S.C. § 7104(a).  See Beaudette v. McDonough, 93 F.4th 1361 (Fed. Cir. 2024).  This includes the CEAT's medical opinion upon which the instant eligibility decision was based. 
+
+The November 2021 VHA decision on appeal upheld a September 2021 VA Caregiver Support Program (CSP) PCAFC Centralized Eligibility and Appeals Team (CEAT) Review Consult which concluded that the Veteran was ineligible for benefits under the PCAFC.  The Review Consult states that the Veteran or service member did not require personal care services for a minimum of six continuous months based on an inability to perform an ADL and/or a need for supervision, protection, or instruction.  The CEAT explained that while recognizing the important role the caregiver played in supporting the Veteran with lower body dressing, the level of personal care required did not meet the clinical threshold required for enrollment into the program.
+
+Conversely, an August 2021 CEAT Review Consult determined that the Veteran did require personal care services for a minimum of six continuous months based on an inability to perform the ADL of dressing or undressing oneself.  The CEAT explained that the Veteran required partial/moderate assistance from the caregiver to meet Level One of PCAFC eligibility.  See VHA Clarification, April 2022.  
+
+The Board finds that the evidence is in approximate balance as to whether the Veteran required personal care services for a minimum of six continuous months due to an inability to perform the ADL of dressing or undressing oneself.  When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; see also Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).  
+
+Moreover, an August 2021 Home Care Assessment also determined that the Veteran required personal care services for a minimum of six continuous months due to an inability to perform the ADL of dressing or undressing oneself.  The CSP coordinator who completed the assessment opined that the evidence supports that the Veteran needs assistance with ADLs, IADLs, and all activities involved with day to day living.  The CSP coordinator explained that the Veteran is in clear need for caregiver assistance as he is unable to function independently due to complex medical conditions including rheumatoid arthritis, chronic low back pain, weakness in legs, lack of fine motor dexterity in hands, and an inability to care for himself without the caregiver's assistance to meet nutritional and personal hygiene needs and to maintain the environment of care in a clean and functional manner.  The CSP coordinator further opined that the Primary Family Caregiver applicant's support, assistance, and care is instrumental in the Veteran continuing to remain living at home as independently as possible, and the Veteran would not be safe to live independently without the Primary Family Caregiver's applicant's assistance.  See VHA Clarification, April 2022.
+
+Based on the above, the Board finds that the evidence is in approximate balance as to whether the Veteran is in need of personal care services for a minimum of six continuous months because of an inability to complete the ADL of dressing or undressing oneself.  38 U.S.C. § 1720G(a)(2); 38 C.F.R. § 71.20(a).  The Board finds that this is a favorable finding which is binding on all subsequent agencies of original jurisdiction, unless rebutted by evidence that identifies a clear and unmistakable error.  38 C.F.R. § 3.104(c). 
+
+In light of the favorable finding above, the Board finds that CEAT must opine as to whether participation in the PCAFC is in the Veteran's best interest pursuant to 38 C.F.R. §§ 71.15, 71.20.  The Board finds that a remand is warranted to satisfy a regulatory or statutory duty, as correction of the error would have a reasonable possibility of aiding in substantiating the claim.  38 C.F.R. § 20.802(a).
+
+The matters are REMANDED for the following actions:
+
+1. Obtain an opinion from an appropriate examiner concerning whether it is in the best interest of the Veteran to participate in the PCAFC program.  The Board defers to the discretion of the examiner to determine whether an evaluation is required.  The Veteran's claims folder-including this decision-must be reviewed.
+
+The examiner should note that the Board has already determined that the Veteran is in need of personal care services for a minimum of six continuous months because of an inability to complete the ADL of dressing or undressing oneself.  
+
+The examiner must provide any additional opinion(s) necessary to determine whether the Veteran is eligible for participation in the PCAFC based on his best interests.
+
+A complete rationale for all opinions expressed should be set forth by the examiner.
+
+2. Thereafter, conduct any other development deemed necessary to adjudicate the matter at issue.
+
+3. Notice of the decision must be provided to the Veteran, Primary Family Caregiver applicant, and representative, and must conform with 38 U.S.C. § 5104(b).
+
+ 
+
+ 
+
+Frederic P. Gallun
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M.H.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

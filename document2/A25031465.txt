@@ -1,0 +1,115 @@
+Citation Nr: A25031465
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240827-467862
+DATE: April 4, 2025
+
+ORDER
+
+The reduction to 30 percent being improper, restoration of a 50 percent rating for service-connected migraines, effective January 1, 2024, is granted.
+
+The appeal regarding entitlement to basic eligibility to Dependents' Educational Assistance (DEA) based on permanent and total disability status is dismissed.
+
+REMANDED
+
+Entitlement to a disability evaluation in excess of 10 percent for sinusitis is remanded.
+
+Entitlement to a disability evaluation in excess of 50 percent for migraines is remanded.
+
+FINDINGS OF FACT
+
+1. The evidence of record does not demonstrate that the Veteran's migraines have improved under the ordinary conditions of life and work.
+
+2. In February 2025, prior to the promulgation of a decision by the Board of Veterans' Appeals (Board), the Agency of Original Jurisdiction (AOJ) granted basic eligibility to DEA based on permanent and total disability status; as this is a full grant of the benefits sought by the Veteran, the appeal is moot.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for restoration of the Veteran's 50 percent rating for migraines, effective January 1, 2024, have been met.  38 U.S.C. §§ 1155, 5112; 38 C.F.R. §§ 3.102, 4.124a, Diagnostic Code (DC) 8100.
+
+2. The criteria for dismissal of entitlement to basic eligibility to DEA based on permanent and total disability status have been met.  38 U.S.C. § 7105.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from May 2015 to June 2017.
+
+He appeals October 2023 and March 2024 rating decisions by the AOJ.  In an August 2024 notice of disagreement (NOD), the Veteran appealed the decisions directly to the Board and chose the Direct Review docket.  See August 2025 VA Form 10182.  Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal.  38 C.F.R. § 20.301. 
+
+Evidence was added to the claims file during a period of time when new evidence was not allowed.  As the Board is remanding the claims of entitlement to increased disability evaluations for migraines and sinusitis for further development, this additional evidence will be considered by the AOJ in the adjudication of those claims.
+
+Rating Restoration
+
+1. Migraines
+
+In this case, a rating reduction is proper when the evidence shows improvement in the Veteran's migraines under the ordinary conditions of life and work.  The Supreme Court in Brown v. Brown concluded that "in any rating-reduction case not only must it be determined that an improvement in a disability has actually occurred but also that that improvement actually reflects an improvement in the veteran's ability to function under the ordinary conditions of life and work."  5 Vet. App. 413, 421 (1993).
+
+Significantly, in a rating reduction case, VA has the burden of establishing that the disability has improved.  This is in stark contrast to a case involving a claim for an increased (i.e., higher) rating, in which it is the veteran's responsibility to show the disability has worsened.  A rating reduction case focuses on the propriety of the reduction and is not the same as an increased rating issue.  See Peyton v. Derwinski, 1 Vet. App. 282, 286 (1991).  Medical and non-medical indicators of improvement may be considered.  See Faust v. West, 13 Vet. App. 342, 349 (2000).
+
+Having reviewed the evidence of record, the Board finds that restoration of the 50 percent rating for service-connected migraines, effective January 1, 2024, is warranted.
+
+Migraines are rated pursuant to 38 C.F.R. § 4.124a, DC 8100.  Under DC 8100, a 30 percent rating is warranted for migraines with characteristic prostrating attacks occurring on an average once a month over the last several months.  A 50 percent rating is warranted for migraines with very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability.
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under DC 8100 to describe the nature and severity of migraines, but it is not defined in the regulation.  Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness."  Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+The second prong of the rating criteria concerns whether headaches are productive of severe economic inadaptability.  This term has not been clearly defined by regulations or case law.  The Court of Appeals of Veterans Claims (Court) has noted that "productive of" can either have the meaning of "producing" or "capable of producing."  Pierce v. Principi, 18 Vet. App. 440, 445 (2004).  Thus, migraines need not actually "produce" severe economic inadaptability to warrant the 50 percent rating.  Id. at 445-46.  Further, "economic inadaptability" does not mean unemployability, as such would undermine the purpose of regulations pertaining to TDIU.  Id. at 446; see also 38 C.F.R. § 4.16.  The headaches must be, at minimum, capable of producing "severe" economic inadaptability for a 50 percent rating.
+
+Here, it is undisputed that the Veteran had very frequent completely prostrating and prolonged attacks of migraine pain productive of severe economic inadaptability.   See January 2021 VA examination report.  At the subsequent January 2023 VA examination, even though the Veteran endorsed the same persistent symptoms, the VA examiner did not mark the box indicating completely prostrating and prolonged attacks but noted similar symptoms as those discussed in the prior January 2021 VA examination report.  See January 2023 VA examination report.  Notably, upon examination in January 2023, the Veteran stated that "there has been no improvement [in my migraine symptoms] since my diagnosis and my doctor does not believe they will get better."  Id.
+
+At no point did the Veteran indicate that his symptoms had improved.  Critically, both the January 2021 and January 2023 VA examination reports indicate that the Veteran's migraines impact his ability to work.  Specifically, the latter January 2023 VA examiner noted that the Veteran previously worked as a corrections officer until he changed jobs to a case manager.  The Veteran explained that he missed work by being late or calling out one to two times per month.  Now, he has a set up in his office where he can work in a quiet room and turn the lights off, with a manager who understands and adapts his working conditions to accommodate his limitations related to his migraines.  See January 2023 VA examination report.
+
+Ultimately, the Board finds that the Veteran's ability to function under the ordinary conditions of life and work has not improved.  As noted above, in reduction cases, the burden of proof lies with VA to show that the Veteran's disability has undergone an observable improvement.  To be precise, the burden is on VA to establish that the evidence of record persuasively weighs in favor of a rating reduction.  See Brown v. Brown, 5 Vet. App. 413, 421 (1993).
+
+As the record shows the Veteran still experiences very frequent completely prostrating and prolonged attacks of migraine headache pain productive of severe economic inadaptability, the Board finds that VA has not met its burden and that the reduction in the Veteran's disability evaluation for his migraines was improper.  The 50 percent rating is therefore restored from January 1, 2024.
+
+Dismissal
+
+2. DEA
+
+By way of history, the Board notes that an April 2023 rating decision proposed to discontinue entitlement to DEA benefits.  See April 2023 rating decision.  Thereafter, an October 2023 rating decision noted that while the prior April 2023 rating decision proposed to discontinue DEA benefits, this was in error as the Veteran was not entitled to DEA benefits in the first place.  See October 2023 rating decision.  Ultimately, the AOJ found that eligibility for DEA was not established.  Id.
+
+However, in a subsequent February 2025 rating decision, the AOJ granted entitlement to DEA, established from October 28, 2024.  See February 2025 rating decision.  An earlier effective date of August 3, 2022, was awarded in a latter March 2025 rating decision.  See March 2025 rating decision.
+
+The Board may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed.  38 U.S.C. § 7105.  Here, the Veteran has since been awarded DEA benefits rendering the current appeal moot.  As the February 2025 and March 2025 rating decisions granted the benefit sought on appeal, resolving this claim in full, there remain no allegations of error of fact or law for appellate consideration; accordingly, this appeal is dismissed as moot.  See Mokal v. Derwinski, 1 Vet. App. 12, 15 (1990); Bond v. Derwinski, 2 Vet. App. 376 (1992).
+
+REASONS FOR REMAND
+
+1. Sinusitis
+
+2. Migraines
+
+The Veteran seeks increased disability evaluations for his service-connected migraines and sinusitis.  See August 2024 VA Form 10182.  The Board restored the Veteran's 50 percent rating for his service-connected migraines within the instant decision.  Thus, the claim on appeal has been recharacterized to entitlement to a disability evaluation in excess of 50 percent for migraines.
+
+However, the Board finds that remand is required before it can adjudicate the merits of this appeal.  Specifically, the Board finds that the record is incomplete.  The Board notes that there are outstanding relevant VA treatment records and additional private medical records not associated with the claims file.
+
+The Veteran sees a private doctor, Dr. A.M. at Neurology Associates of Charlotte County, for the treatment of his migraines.  See November 2020 Dr. A.M. medical opinion.  The claims file contains treatment notes from Dr. A.M. dated in December 2022 and August 2020.  See Dr. A.M. treatment notes.  The Veteran confirmed his ongoing private treatment during his February 2024 Higher-Level Review (HLR) Informal Conference.  See February 2024 HLR Informal Conference Worksheet.  Additionally, the file contains one isolated nexus statement from Dr. A.B. at Bob Pryor Health Center.  See August 2022 Dr. A.B. medical opinion.  Importantly, the claims file only contains these piecemeal treatment notes from the Veteran's non-VA medical providers, which does not appear to be a full record of treatment given the gap in dates.  Thus, on remand the AOJ must attempt to obtain and associate any outstanding private treatment records from Dr. A.M. and Dr. A.B.
+
+Where the record contains notice that a Veteran has private medical records, VA's duty to assist extends to make reasonable efforts to obtain sufficiently identified relevant private records.  38 C.F.R. § 3.159(c).  As the record prior to the decisions on appeal sufficiently identified the Veteran's relevant private medical records, remand is required to allow VA to obtain authorization and request said records from same.  38 C.F.R. § 20.802(a).
+
+Further, the Board notes that there are outstanding relevant VA treatment records.  Specifically, the Veteran's VA treatment notes contain scanned documents into the VistA Imaging system that are not associated with the claims file, and the Board does not have access to VistA Imaging.  See, e.g., January 4, 2022, October 27, 2022, and June 14, 2023 VA treatment notes.  Ultimately, these scanned documents unavailable to the Board may very well be relevant to the increased rating claims on appeal.
+
+A predecisional duty to assist error was made when these pertinent records were not associated with the claims file.  38 C.F.R. § 20.802(a).  Thus, a remand is necessary to obtain these records and associate them with the claims file.
+
+The matters are REMANDED for the following action:
+
+1. Ask the Veteran to complete a VA Form 21-4142 for the updated and outstanding treatment records from (1) Dr. A.M. at Neurology Associates of Charlotte County, and (2) Dr. A.B. at Bob Pryor Health Center.
+
+Make two requests for the authorized records from the identified providers unless it is clear after the first request that a second request would be futile.
+
+If the records are not obtainable, or none exist, the Veteran and his representative should be notified, and the record clearly documented.
+
+2. Obtain and associate with the claims file any outstanding relevant records viewable in VistA Imaging.
+
+If the records are not obtainable, or none exist, the Veteran and his representative should be notified, and the record clearly documented.
+
+ 
+
+ 
+
+DONNIE R. HACHEY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Poe, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,79 @@
+Citation Nr: A25032341
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240215-417046
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to an increased (compensable) evaluation degenerative disc disease of the lumbar spine is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from July 1971 to July 1974 and from October 1974 to February 1978.  This case comes to the Board from a February 2024 decision of the Agency of Original Jurisdiction (AOJ).  Because the AOJ issued the decision after February 19, 2019, the Appeals Modernization Act (AMA) applies to this case.  See 38 C.F.R. §§ 19.2, 20.4.
+
+In April 2023 the AOJ granted service connection for degenerative disc disease, assigning an initial zero percent (noncompensable) disability rating, effective February 3, 2020.  In October 2023, the Veteran filed a supplemental claim pursuant to 38 C.F.R. § 3.2501, seeking a higher initial rating for this back disability.  The AOJ issued a decision denying an increased rating in December 2023.  The Veteran continued to pursue his increased rating claim by requesting a higher-level review (HLR) of the December 2023 decision pursuant to 38 C.F.R. § 3.2601.  The February 2024 AOJ decision - the decision the Veteran appealed to the Board - was the result of that HLR request.  
+
+In his VA Form 10182 ("Notice of Disagreement" or "NOD"), the Veteran selected the option of direct review without the submission of additional evidence and without a hearing.  When an appellant selects this option, the Board's review is limited to the evidence of record at the time of the decision on appeal.  Because the February 2024 decision was the result of an HLR of the December 2023 decision, the evidentiary record is limited to the information in the claims file at the time of the December 2023 decision.  See 38 C.F.R. § 3.2601(f).
+
+The AOJ assigned the disputed noncompensable rating in this case based on a January 2022 thoracolumbar spine examination questionnaire and a medical opinion prepared by a separate physician in March 2023.  In the physician's opinion, it was at least as likely as not that the Veteran's degenerative disc disease was aggravated beyond its natural progression by his separate service-connected disabilities of the knees.  Based on this finding, the AOJ granted service connection for degenerative disc disease on a secondary basis pursuant to 38 C.F.R. § 3.310.  
+
+In its February 2024 decision, the AOJ reasoned that, based on evidence of pain and limited motion, it is likely that the January 2022 examination finding would support a 10 percent disability rating.  But because the Veteran's back disability benefits were granted based on a theory of secondary aggravation, the "pre-aggravation percentage is . . . deducted before assigning any service-connected evaluation."  
+
+The AOJ's legal reasoning is not necessarily wrong in all cases.  As the United States Court of Appeals for Veterans Claims explained, "when aggravation of a veteran's non-service-connected condition is proximately due to or the result of a service-connected condition, such veteran shall be compensated for the degree of disability (but only that degree) over and above the degree of disability existing prior to the aggravation."  Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc). 
+
+But according to the March 2023 opinion, the examiner was unable to determine the baseline level of severity prior to the onset of aggravation of the Veteran's degenerative disc disease by his service-connected knee disabilities.  Under a strict view of 38 C.F.R. § 3.310(b) a reasonable adjudicator might have denied service connection for a back disability based on the failure to determine the pre-aggravation baseline.  But the AOJ granted service connection for the back disability and the propriety of that ruling is not at issue in this appeal.  Because this is an appeal of the denial of an increased rating claim, the more significant legal principle is that, when it is not possible to differentiate the symptoms of a service-connected disability from the symptoms of a disability unrelated to service, the Board must assume that the symptoms are attributable to the service-connected disability.  See Mittleider v. West, 11 Vet. App. 181, 182 (1992).
+
+If failing to apply Mittleider had been the AOJ's only error in this case, the Board could decide whether the Veteran is entitled to an increased rating without the need to remand the case for further development.  Unfortunately, the January 2022 examination questionnaire is also inadequate for rating purposes.  
+
+VA examination reports for musculoskeletal disabilities must comply with 38 C.F.R. § 4.59 by evaluating range of motion in the affected joint "for pain on both active and passive motion and in weight bearing and nonweight-bearing...." Correia v. McDonald, 28 Vet. App. 158, 170 (2016).  VA examiners also have the duty to elicit information from the Veteran describing the condition of the relevant joints after repeated use over time and during "flare-ups" or episodes when the relevant symptoms are at their worst.  Sharp v. Shulkin, 29 Vet. App. 26, 33 (2017).  
+
+Consistent with Sharp, the standard thoracolumbar spine examination questionnaire only asks the examiner to provide these estimates if the evidence suggests that pain, fatigability, weakness, lack of endurance, or incoordination significantly limits functional ability with repeated use over time or during flare-ups.  The January 2022 examiner gave negative answers to both questions - that is, he indicated that pain, etc. did not significantly limit functional ability in the Veteran's thoracolumbar spine after repeated use or during flare-ups.  But other notes on the same report contradict these findings.  On section II ("Medical History") the examiner wrote that, during flare-ups, the Veteran experienced intense pain - i.e., 10 on a zero to 10 scale - precipitated by bending over and alleviated by "immobilization."  The Veteran told the examiner he experienced three such flare-ups per year, each lasting between one and two weeks.  
+
+If the Veteran experiences intense pain (10 on a scale of zero to 10) during flare-ups and these episodes are only alleviated by "immobilization" it is difficult to understand how the examiner could have concluded that pain did not significantly limit functional ability during flare-ups.  Likewise, the examiner marked a box on the questionnaire next to pre-printed text to indicate that pain, fatigability, weakness, lack of endurance, or incoordination did not significantly limit functional ability with repeated use over time.  But on section XVI of the report ("Functional Impact") the examiner wrote that the Veteran was "unable to walk and sit for long periods."  If the significant functional impact of the Veteran's service-connected back disability was to prevent walking for long periods, it can hardly be true that the relevant factors - such as lack of endurance - did not significantly limit the Veteran's functional ability after repeated use over time.   
+
+The January 2022 report also fails to comply with Ingram v. Collins, No. 23-1798, 2025 U.S. App. LEXIS 327 (March 12, 2025).  In Ingram, the Court rejected the Secretary's argument that, because 38 C.F.R. §§ 4.40 and 4.59 as interpreted in Sharp, Mitchell v. Shinseki, 25 Vet. App. 32 (2011), and DeLuca v. Brown, 8 Vet. App. 202 (1995) already require range of motion estimates under the "worst-case scenario" of a flare-up, the Board need not discount the beneficial effects of medication when assessing the severity of a musculoskeletal disability for rating purposes.  See Id. at *28 ("the Court must reject the Secretary's alternative argument that Jones [v. Shinseki, 26 Vet. App. 56 (2012)] should not apply to the evaluation of musculoskeletal conditions.").  
+
+Like the Veteran, the appellant in Ingram used medication for treatment of a back disability.  Id. at *2.  Because the rating criteria applicable to the appellant's back disability in Ingram did not mention the beneficial effects of medication, the Court explained, "the Board was obliged to discount the beneficial effects of the medications taken for [the appellant's service-connected back and ankle disabilities]... and evaluate the baseline severity of those disabilities."  Id. at *15.  
+
+According to the medical history summary of the January 2022 report, the Veteran used nonsteroidal anti-inflammatory (NSAIDS) medication, tramadol, and gabapentin to control the symptoms of his degenerative disc disease.  An earlier July 2021 report indicated the use of tizanidine as well as tramadol and gabapentin.  Neither the July 2021 report nor the January 2022 report indicates whether these medications helped ameliorate the Veteran's back symptoms or not.  Because they failed to provide this information, the available reports do not provide enough facts and medical information for the Board to make a fully informed decision.  See Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).  
+
+Because the inadequate January 2022 examination report was associated with the claims file before the issuance of the December 2023 decision, the AOJ committed a pre-decisional duty to assist error by denying an increased rating without first arranging a new examination.  Under the AMA procedures, the Board must remand issues when necessary to correct a pre-decisional duty to assist error. See C.F.R. § 20.802(a).  The post-remand examiner should prepare an examination report that complies with 38 C.F.R. § 4.59, Sharp, and Ingram.
+
+The matter is REMANDED for the following action:
+
+1. Schedule a VA examination with a qualified person to ascertain the current severity of the Veteran's degenerative disc disease.  The electronic claims file must be made available to and be reviewed by the examiner.  All indicated testing should be accomplished and all symptomatology associated with the thoracolumbar spine disability should be identified.  The examiner should prepare a written report which includes the following information: 
+
+(a) In addition to all findings identified on the appropriate examination form, the examiner should determine the effective range of motion in the Veteran's thoracolumbar spine and present the results of range of motion tests in a written report which complies with 38 C.F.R. § 4.59 by recording separate sets of range of motion test results for both active and passive motion, AND IN WEIGHT BEARING AND NONWEIGHT-BEARING.  IN ADDITION TO THE ENDPOINT, IN DEGREES, OF RANGE OF MOTION, THE EXAMINER MUST IDENTIFY THE POINT, IN DEGREES, WHEN THE VETERAN BEGINS TO EXPERIENCE PAIN DURING EACH TEST.  It is not sufficient merely to indicate whether pain was present during each of the required tests.  If the examiner believes that testing using one or more of these methods is unsafe or impractical, he or she should clearly explain the medical reasons for that conclusion.
+
+The examiner should indicate whether pain, weakness, fatigue and/or incoordination significantly limits functional ability of the thoracolumbar spine during flares or after repetitive use, and if so, the examiner must estimate range of motion in the thoracolumbar spine after repetitive use and/or during flare-ups.  If the examination does not take place during a flare or if repetitive testing cannot be performed, the examiner should ask the Veteran to describe and/or demonstrate the extent of motion loss during flares or after repetitive use and provide the extent of motion loss in terms of degrees.  If there is no pain and/or no limitation of function, such facts must be noted in the report.  The examiner should comment as to whether there is any medical reason to accept or reject the description of reduced range of motion during flares or after repetitive use.
+
+If the examiner indicates that pain does not cause functional loss with respect to the thoracolumbar spine, he or she should thoroughly explain the medical reasons for that opinion.
+
+(b) After interviewing the Veteran about the effects of his medications (including non-steroidal anti-inflammatories, tramadol, gabapentin and tizanidine) on the symptoms of his service-connected disability of thoracolumbar spine the examiner should respond to these questions:
+
+(i) Did the Veteran use medication on the day of the examination?  If he did, the examiner should ask the Veteran to describe and/or demonstrate the extent of range of motion loss during periods when he does not use his medication, and the examiner should estimate the extent of motion loss when the Veteran is not medicated in terms of degrees.  If the Veteran states that he does not perceive any beneficial effects when using his medication, the examiner should say so.  The examiner should comment as to whether there is any medical reason to accept or reject the Veteran's description of reduced range of motion during periods when he has not used his medication.
+
+(ii) The examiner should ask the Veteran to describe and/or demonstrate the extent of motion loss DURING FLARES WHICH OCCUR WHEN THE VETERAN IS NOT USING HIS MEDICATION AND AFTER REPETITIVE USE OVER TIME DURING PERIODS WHEN HE HAS NOT USED HIS MEDICATION and provide an estimate of the extent of motion loss in terms of degrees.  If there is no pain and/or no limitation of function, such facts must be noted in the report.  The examiner should comment as to whether there is any medical reason to accept or reject the Veteran's description of reduced range of motion during flares or after repetitive use when he is not medicated.
+
+(iii) Does the Veteran's use of medication change the frequency, duration, or severity of the Veteran's flare-ups or increased functional loss after repeated use over time?  If so, how frequently does the Veteran experience flare-ups when he is not using his medication?  How long do flare-ups last when he is not using his medication?  
+
+If the physician determines that it is impossible to prepare the requested estimate of thoracolumbar range of motion during flare-ups or to estimate range of motion when the Veteran is unmedicated without speculating, he or she should so state, and should indicate whether the need to speculate is caused by a deficiency in the state of general medical knowledge (i.e., no one could respond given the state of medical science and the known facts) or by a deficiency in the records (i.e., additional facts are required) or because the examiner does not have the necessary knowledge or training.  The examiner is advised that he or she should not conclude that any of the requested opinions would be speculative without first seeking information from the Veteran in the examination interview about what he remembers about his symptoms during flare-ups, after repeated use over time, and when he is unmediated.  
+
+2. The AOJ should review the requested examination report and opinions and ensure that they comply with 
+
+?
+
+these instructions.  If any report or opinion is deficient in any manner, the AOJ must implement corrective action.
+
+ 
+
+DAVID L. WIGHT
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Nye, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

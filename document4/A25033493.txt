@@ -1,0 +1,83 @@
+Citation Nr: A25033493
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240703-452720
+DATE: April 10, 2025
+
+ORDER
+
+New and relevant evidence having been received, the issue of entitlement to service connection for erectile dysfunction (ED) will be readjudicated.
+
+Entitlement to service connection for ED is granted, subject to the laws and regulations governing the award of monetary benefits.
+
+FINDINGS OF FACT
+
+1. An October 2022 rating decision denied service connection for ED.
+
+2. New evidence added to the record since the October 2022 rating decision tends to prove or disprove the claim for service connection for ED.
+
+3. The competent and probative evidence persuasively supports finding that the Veteran's ED is related to the service-connected right knee and left shoulder disabilities. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for readjudicating the claim of service connection for ED have been met. 38 C.F.R. § 3.156 (d).
+
+2. The criteria for service connection for ED have been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.303, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from May 2001 to December 2003.  
+
+In August 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the service connection claim for ED, most recently addressed in an October 2022 rating decision.  In August 2023, the Agency of Original Jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had not been received.  Therefore, the Board must determine whether new and relevant evidence has been received based only on the evidence of record at the time of the decision on appeal and any evidence submitted during an applicable evidentiary window.
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board of Veterans' Appeals (Board) may only consider the evidence of record at the time of the August 2023 AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+New and Relevant Evidence
+
+VA will readjudicate a claim if new and relevant evidence is presented or secured. 38 C.F.R. § 3.156 (d). "New evidence" is defined as evidence not previously part of the actual record before agency adjudicators. "Relevant evidence" is evidence that tends to prove or disprove a matter in issue. 38 C.F.R. § 3.2501 (a)(1). The standard shall not be construed to impose a higher evidentiary threshold than the standard that was in effect prior to the date of the enactment of the Appeals Modernization Act (AMA). See 38 U.S.C. § 5108.
+
+The October 2022 rating decision denied service connection for ED because there was no nexus between the Veteran's ED and his military service or a service-connected disability.  
+
+The Veteran submitted a Supplemental Claim in August 2023 and submitted a nexus opinion from a medical professional. The Board finds that the Veteran's private nexus opinion is evidence that tends to prove or disprove a link between his ED and service-connected disabilities. Therefore, the Board finds that new and relevant evidence has been received, and the claim will be readjudicated.
+
+Service Connection
+
+Service connection requires competent evidence showing: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service connection may also be established on a secondary basis for a disability which is proximately due to, or the result of, a service-connected disability.  38 C.F.R. § 3.310(a).  Secondary service connection may also be established for a disability which is aggravated by a service-connected disability. In order to prevail on the issue of secondary service connection, the record must show (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) competent evidence establishing that the service-connected disability caused or aggravated the nonservice-connected disability.  See Allen v. Brown, 7 Vet. App. 439 (1995).
+
+The Veteran asserts that service connection is warranted for ED, specifically that his ED is related to chronic pain related to his service-connected right ankle and left shoulder. Review of the record also shows that service-connection is in effect for posttraumatic stress disorder (PTSD).
+
+The Veteran was afforded a VA examination in September 2021.  After an in-person examination and a review of the Veteran's claims file, the examiner noted a diagnosis for ED.  However, the examiner also provided a negative nexus opinion, explaining that despite the Veteran's compelling self-report of ED symptoms and being treated for ED, there was no evidence of complaints, treatment, or diagnosis for ED during service. Thus, no nexus was established.
+
+A second opinion was also provided in October 2022 from another VA examiner. In that opinion document, the examiner recognized that at the December 2020 VA examination, the Veteran reported onset of ED in 2018 at the time he was diagnosed with depression and anxiety. The etiology documented was "'utilization of depression medications bupropion and other psych medication that has since had effect on sexual performance.'" However, the examiner provided a negative nexus opinion regarding secondary service connection.  The examiner noted a review of medical literature related to associations of pain medication and ED, and whether chronic pain is related to ED.  The examiner explained that the medical literature did not support a relationship between over-the-counter non-steroidal anti-inflammatory drug (NSAID) pain medication and ED; and that the Veteran's right ankle pain did not appear to reach a level that would affect his sexual function.
+
+The Veteran submitted a private examination report in August 2023.  The Veteran reported that his ED began after he was diagnosed with a right knee strain and a left shoulder disability, which caused chronic pain.  The examiner noted a review of medical literature regarding musculoskeletal conditions and sexual functioning, which included 10 studies; and a study regarding chronic pain and sexual function.  The first article noted that nine studies found that greater pain levels significantly correlated with greater sexual dysfunction, and eight studies noted an increased prevalence of sexual difficulties in those with co-morbid psychological problems.  The second article noted that a significant number of patients with chronic pain suffered from moderate to severe sexual dysfunction, which correlated with pain intensity.  
+
+Here, there are conflicting medical opinions of record.  The VA examiners of record have provided negative nexus opinions regarding direct and secondary service connection.  On the other hand, the Veteran submitted a positive nexus opinion from a private examiner, regarding secondary service connection.  As to direct service connection, the record also does not show that the Veteran's ED was documented in service, and as noted in the 2020 VA examination report, the Veteran reported that it onset in 2018. Thus, the record does not support a finding of service connection on a direct basis.
+
+However, as to secondary service connection, the Board affords more probative weight to the private examiner's opinion.  The VA examiner who provided the opinion regarding secondary service connection simply concluded that the Veteran's right ankle pain did not rise to a level that would affect his sexual function.  However, the examiner did not take into account the Veteran's other service-connected musculoskeletal conditions to include the left knee, the left shoulder, the lumbar spine, the right knee, and the right foot.  Given such, the Board affords less probative weight to the VA examiner.  
+
+(Continued on the next page)
+
+?
+
+The private examiner cited to two different articles showing a correlation between ED and chronic pain.  The first article noted that nine studies found that greater pain levels significantly correlated with greater sexual dysfunction, and eight studies noted an increased prevalence of sexual difficulties in those with comorbid psychological problems.  Here, the Veteran has pain associated with his service-connected musculoskeletal disabilities, and he also has a co-morbid service-connected psychological condition.  Given such, the Board affords the private examiner's opinion great probative weight.  
+
+Based on the discussion above, the criteria for secondary service connection have been met. Accordingly, service connection for ED on a secondary basis is warranted; to that extent only, the appeal is granted.
+
+ 
+
+ 
+
+J. Kirby
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Fu, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

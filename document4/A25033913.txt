@@ -1,0 +1,79 @@
+Citation Nr: A25033913
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240507-438179
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss (hearing loss) is granted.
+
+FINDING OF FACT
+
+The evidence is at least evenly balanced as to whether the Veteran's hearing loss is related to service.
+
+CONCLUSION OF LAW
+
+With reasonable doubt resolved in favor of the Veteran, the criteria for entitlement to service connection for hearing loss have been met.  38 U.S.C. § 1101, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from November 1968 to November 1971, including combat service in Vietnam.
+
+This case comes before the Board of Veterans' Appeals (Board) from an April 2024 rating decision by the Department of Veterans Affairs (VA) agency of original jurisdiction (AOJ).  In that decision, the AOJ denied service connection for hearing loss. Previously, the Veteran filed an April 2024 VA Form 20-0995 Supplemental Claim Application after the AOJ issued a February 2024 rating decision that denied the Veteran's original claim service connection for hearing loss. Prior to that, the Veteran filed an August 2023 VA 21-526EZ seeking service connection for, in relevant part, hearing loss.
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Hearing docket. A Board hearing was held before the undersigned Veterans Law Judge (VLJ) on April 9, 2025, a transcript is not necessary as the benefit sought is being granted in full on an expedited basis.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. Entitlement to service connection for bilateral hearing loss is granted.
+
+Service connection will be granted if the evidence demonstrates that current disability resulted from an injury or disease incurred in active military, naval, air, or space service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  Generally, to establish service connection on a direct basis, the record must contain competent evidence of: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  Saunders v. Wilkie, 886 F. 3d 1356 (Fed. Cir. 2018).  
+
+Pursuant to 38 C.F.R. § 3.303(b), where a chronic disease is shown in service, subsequent manifestations of the same chronic disease, however remote, are service connected, unless clearly attributable to intercurrent causes.  Entitlement to service connection based on chronicity pursuant to 38 C.F.R. § 3.303(b) applies only when the disability for which the Veteran is claiming compensation is due to a disease enumerated on the list of chronic diseases in 38 U.S.C. § 1101(3) or 38 C.F.R. § 3.309(a). Sensorineural hearing loss, as an organic disease of the nervous system, is a chronic disease.  Fountain v. McDonald, 27 Vet. App. 258, 271-272 (2015).
+
+Hearing loss for the purposes of VA disability compensation is considered a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, and 4000 hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, and 4000 hertz are 26 decibels or greater; or when the speech recognition scores using the Maryland CNC Test are less than 94 percent. 38 C.F.R. § 3.385. 
+
+The Court in Hensley v. Brown, 5 Vet. App. 155, 157 (1993), indicated that 38 C.F.R. § 3.385 does not preclude service connection for a current hearing disability where hearing was within normal limits on audiometric testing at separation from service if there is sufficient evidence to demonstrate a relationship between the Veteran's service and his present disability.  The Court's directives in Hensley are consistent with 38 C.F.R. §3.303(d), which provides that service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+During the February 2024 VA audiological examination, audiometric testing revealed pure tone thresholds, in decibels as follows:
+
+			HERTZ		
+
+	500	1000	2000	3000	4000
+
+RIGHT	20	30	35	55	75
+
+LEFT	20	35	45	75	75
+
+Speech audiometry revealed speech recognition ability of 96 percent in the right ear and 96 percent in the left ear. These audiometric findings meet the current disability requirement for bilateral hearing loss under 38 C.F.R. § 3.385 as there are multiple frequencies at which the thresholds exceed 40 decibels.
+
+The VA has conceded and favorably found acoustic trauma ("high probability" of excessive noise exposure) based upon the Veteran's military occupational specialty (MOS) of radio operator and maintainer. The Veteran is competent to report that he experienced decreased hearing during active duty service and continually thereafter. The Veteran reported during his February 2024 VA examination that during service he served as a radio operator and maintainer and was exposed to artillery, grenades, and diesel engines. The Veteran reported, after service he worked as a machine operator, in a power plant, and in construction. Moreover, in his April 2024 VA Form 21-4138 Statement in Support of Claim, the Veteran reported that after service he was exposed to very little noise as he was a construction worker but only carried bricks and other supplies to construction sites and worked in a factory as a book binder making computer business forms in an area isolated from noisy machinery. However, the Veteran reported he was exposed to an extensive amount of traumatic noise during active duty and in the following twenty-one years of reserve special forces duty. He reported being exposed to extensive noise from aircraft engines and weapons fire from M60 machine gun, rifle, pistol, claymore mines, and rockets. Jandreau v. Nicholson, 492 F. 3d 1372, 1377 (Fed. Cir. 2007) (a veteran is competent to testify regarding observable symptoms).  He did so during the February 2024 VA examination and April 2024 VA Form 21-4131 Statement in Support of Claim and his statements in this regard are competent, credible, and consistent with the places, types, and circumstances of his service. See 38 U.S.C. § 1154(a); 38 C.F.R. § 3.303(a) (each disabling condition for which a veteran seeks service connection must be considered based on factors including the basis of places, types, and circumstances of service as shown by service records).  The in-service injury requirement has thus been met.
+
+The audiologist who conducted the February 2024 VA examination found that it was less likely than not that the Veteran's bilateral hearing loss is the result of his time in service. In coming to her opinion, the audiologist noted the Veteran's MOS as a radio operator and maintainer and that his MOS had a high incidence of military noise exposure. However, the audiologist reported that the Veteran's hearing at entrance and at separation was normal. Further, the audiologist noted that the Veteran had a history of noise exposure after leaving military service. Thus, the audiologist opined the Veteran's hearing loss is less likely than not due to military noise exposure. 
+
+In an April 2024 private medical opinion, the audiologist reported the Veteran's service dates and noted the Veteran's MOS of radio operator and maintainer as well as other work within the artillery unit. The audiologist noted that the Veteran underwent artillery training with cannons where he was exposed to cannon fire without hearing protection. The audiologist reported the Veteran experienced excessive noise exposure from both weapons and aircraft during his time in service. The audiologist performed a hearing examination and reported profound sensorineural loss bilaterally. Further, the examination revealed speech recognition ability of 72 percent in the right ear and 80 percent in the left ear.  Based on this information, the audiologist concluded it was at least as likely as not that the Veteran's hearing loss is related to military noise exposure. Reading the opinion as a whole and in the context of the evidence of record, it supports a relationship to service for hearing loss and is entitled to probative weight. Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) ("most of the probative value of a medical opinion comes from its reasoning").
+
+For the following reasons entitlement to service connection for hearing loss is warranted.
+
+The February 2024 audiologist found that it was less likely than not that the Veteran's bilateral hearing loss was due to his time in service. The audiologist based her negative nexus opinion on a finding that the Veteran had normal hearing sensitivity at entrance and at separation from service and thus attributed the Veteran's hearing loss to noise exposure after leaving service. However, normal hearing upon separation is not necessarily fatal to a claim for service connection for a hearing loss disability. See Hensley v. Brown, 5 Vet. App. 155, 159 (1993). Further, the audiologist did not consider the Veteran's competent and credible lay statements regarding excessive noise exposure during service. During the February 2024 examination the Veteran reported he was a radio operator and maintainer. Further, he reported he was exposed to artillery, grenades, and diesel engines. Thus, the audiologist's opinion is inadequate as it failed to consider the Veteran's lay statements regarding his hearing loss, chiefly his hazardous level of exposure while serving as a radio operator and maintainer which has been conceded as exposing the Veteran to hazardous noise. Instead, the audiologist relied on the lack of medical evidence in the Veteran's STRs to conclude that the Veteran's hearing loss was not a result of his noise exposure in service.  This rendered the opinion inadequate.  Buchanan v. Nicholson, 451 F. 3d 1331, 1337 (a VA's examiner's opinion, which relied on the absence of contemporaneous medical evidence, "failed to consider whether the lay statements presented sufficient evidence of the etiology of [the veteran's] disability such that his claim for service connection could be proven without contemporaneous medical evidence").  The opinion is therefore of no probative value.
+
+In contrast, the April 2024 private audiologist opined that the Veteran's hearing loss was at least as likely as not the result of the excessive noise that he was exposed to during service. There, the clinician considered both the Veteran's medical and lay evidence and reading the opinion as a whole and in the context of the evidence she reasoned that the hearing loss was due to the noise exposure.  Consequently, in contrast to the negative opinion, the positive opinion is entitled to at least some probative weight.
+
+It is also noteworthy that the Veteran was a radio relay and carrier attendant who performed various duties and came under enemy in fire in Vietnam, thus engaging in combat with the enemy.  VAOPGCPREC 12-99 (October 18, 1999) (combat determination should be made on a case by case basis where there is no medal specifically indicating combat service).  The finding that the Veteran engaged in combat is significant because it allows a combat veteran to use "satisfactory lay or other evidence" to establish that he was injured or incurred a disability while on active duty, even in cases where "there is no official record" that such injury or disability occurred.  Reeves v. Shinseki, 682 F.3d 988, 998 (Fed. Cir. 2012) (quoting 38 U.S.C.A. § 1154(b)).  This not only supports the finding that the Veteran's testimony that he suffered acoustic trauma in service is competent and credible, but also warrants applying 38 U.S.C. § 1154(b) to show that the disability itself was incurred in service.  Reeves, 682 F.3d at 999.
+
+For the above reasons, the evidence is at least evenly balanced as to whether the Veteran's hearing loss is related to service.  As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection for hearing loss is warranted.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+Jonathan Hager
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J.D. Strain, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

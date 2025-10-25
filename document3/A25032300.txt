@@ -1,0 +1,75 @@
+Citation Nr: A25032300
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240620-453133
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to service connection for the Veteran's cause of death for purposes of entitlement to dependency and indemnity compensation (DIC) is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran died on August [REDACTED] 2016, and the primary cause of death was brain death, transtentorial herniation, anoxic encephalopathy, hemorrhagic arrest. Squamous cell cancer of right axilla with radiation therapy and subsequent arterial bleeding were listed as contributory causes of death.
+
+2. At the time of death, the Veteran was not service connected for any disabilities. 
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for the Veteran's cause of death for purposes of entitlement to DIC have not been met. 38 U.S.C. §§ 1110, 1310; 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.307, 3.309, 3.310, 3.312.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 1973 to March 1977.  He passed away in August 2016.  The Veteran's surviving spouse successfully substituted as the appellant.
+
+The rating decision on appeal was issued in May 2024 issued by a Department of Veterans Affairs (VA) Regional Office (RO), and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  In his June 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal.  38?C.F.R. § 20.301.
+
+Dependency and Indemnity Compensation
+
+Pursuant to 38 U.S.C. § 1310, DIC benefits are paid to a surviving spouse, child, or parent of a qualifying veteran who died from a service-connected disability. See 38 U.S.C. § 1310; Dyment v. West, 13 Vet. App. 141 (1999), aff'd sub nom. Dyment v. Principi, 287 F.3d 1377 (Fed. Cir. 2002). A veteran's death will be considered service-connected where a service-connected disability was either the principal or a contributory cause of death. 38 C.F.R. § 3.312(a). The disability is the principal cause of death if it was "the immediate or underlying cause of death or was etiologically related thereto." 38 C.F.R. § 3.312(b). It is a contributory cause if it "contributed substantially or materially" to the cause of death, "combined to cause death," or "aided or lent assistance to the production of death." 38 C.F.R. § 3.312(c)(1).
+
+In cases of service connection for the cause of death of a veteran, the first requirement of a current disability is met by the condition that caused the veteran's death. However, the last two requirements for a service connection claim must be supported by the record: (1) an in-service incurrence or aggravation of a disease or injury, and (2) a causal relationship between the present disability and the disease or injury incurred or aggravated during service. See Carbino v. Gober, 10 Vet. App. 507, 509 (1997); see also Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service-connected diseases or injuries involving active processes affecting vital organs should receive careful consideration as a contributory cause of death, the primary cause being unrelated, from the viewpoint of whether there were resulting debilitating effects and general impairment of health to an extent that would render the person materially less capable of resisting the effects of other disease or injury primarily causing death. 38 C.F.R. § 3.312(c)(3). Where the service-connected condition affects vital organs as distinguished from muscular or skeletal functions and is evaluated as 100 percent disabling, debilitation may be assumed. Id.
+
+There are primary causes of death which by their very nature are so overwhelming that eventual death can be anticipated irrespective of coexisting conditions but, even in such cases, there is for consideration whether there may be a reasonable basis for holding that a service-connected condition was of such severity as to have material influence in accelerating death. In this situation, however, it would not generally be reasonable to hold that a service-connected condition accelerated death unless such condition affected a vital organ and was of itself of a debilitating nature. 38 C.F.R. § 3.312(c)(4).
+
+In the alternative, service connection for the cause of death may be warranted where the evidence indicates that the cause of the Veteran's death should have been service-connected. That is to say that, to establish service connection for a particular disability found to have caused his death, the evidence must show that the disability resulted from disease or injury which was incurred in or aggravated by service or, in the alternative, is secondary to another service-connected disability. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.303, 3.304.
+
+Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability. See Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Hickson v. West, 12 Vet. App. 247, 253 (1999).
+
+1. Entitlement to service connection for the Veteran's cause of death for purposes of entitlement to DIC
+
+The appellant asserts that the Veteran's cause of death was due to excessive digestion of penicillin during active-duty service. 
+
+After a review of the evidence of record, the Board finds that the weight of the evidence is persuasively against finding that the Veteran's cause of death was caused by the digestion of the antibiotics during service. 
+
+As an initial matter, the Veteran's service treatment records do not contain treatment for the impairments that caused the Veteran's death.  However, the Board does acknowledge that the VA has found that the Veteran did participate in a toxic exposure risk activity (TERA) as he was present on the ship, but found that his particular military occupation, as a disbursing clerk would have led to minimal asbestos exposure. 
+
+Furthermore, the post-service evidence does not show symptoms related to skin cancer or any of the other causes of death within one year of service, but rather many years later after separating from service. Furthermore, neither the late Veteran nor the appellant alleged that the Veteran had continuous symptoms of his causes of death since service. Therefore, service-connection based upon continuity of symptoms under 38 C.F.R. § 3.309 is not for application.
+
+Next, although the Veteran's causes of death were not shown in service, it may still be service connected if the competent evidence shows a nexus between the condition and active-duty service. However, the evidence fails to support that the Veteran's causes of death were related to active-duty service.
+
+The Board acknowledges the appellant's assertions and concedes that the Veteran was required to take penicillin during service.  However, the objective evidence weights against the establishment of a nexus.  
+
+Specifically, in March 2024 a VA examiner opined that the Veteran's causes of death were not related to active-duty service. The examiner provided the rationale that the Veteran's encephalopathy was caused by lack of oxygen to the brain causes by the arterial bleeding and hemorrhagic arrest, not the use of penicillin decades earlier.  This opinion is given significant probative value as it was provided by a qualified medical professional familiar with the record. 
+
+Then, in April 2024, in acknowledgement of the TERA, the VA obtained an opinion where the examiner stated that his causes of death are not considered by the VA to be presumptive diseases associated with asbestos exposure. He also noted that there is no medical literature that relates his causes of death to asbestos exposure, leading the examiner to conclude that the Veteran's causes of death were less likely than not related to military service. This opinion is given significant probative value as it was provided by a qualified medical professional familiar with the record. 
+
+Thus, no nexus has been found.  In arriving at the conclusion, the Board does acknowledge that medical literature the appellant provided that speaks of a correlation between the Veteran's causes of death and penicillin intake.  However, the provided medical literature without a qualified medical provider's opinion is of little probative value and not sufficient to establish a nexus. 
+
+In making this decision, the Board recognizes the statements from the appellant regarding the relationship between the Veteran's causes of death and active service.  Nevertheless, while she is competent to provide testimony regarding observable symptomatology, she is not competent to provide a nexus opinion in this case. This issue is medically complex, as it requires knowledge of the interaction between multiple systems in the body and interpretation of complicated diagnostic medical testing. Jandreau v. Nicholson, 492 F.3d 1372, 1377 n.4 (Fed. Cir. 2007). Therefore, the unsubstantiated statements regarding the claimed diagnosis and etiology of the Veteran's disorder, as well as the statements regarding his cause of death, are found to lack competency.
+
+As such, the weight of the evidence is persuasively against entitlement to service connection for the Veteran's cause of death for DIC purposes, and the appeal is denied. The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.
+
+ 
+
+ 
+
+B.T. KNOPE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Billinger, Associate Counsel

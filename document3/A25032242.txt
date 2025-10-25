@@ -1,0 +1,121 @@
+Citation Nr: A25032242
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 250220-519255
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) based on toxic exposure risk activity (TERA) is remanded.
+
+Entitlement to service connection for obstructive sleep apnea (OSA) as secondary to service-connected bilateral hearing loss or tinnitus is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served honorably in the United States Navy from September 1965 to September 1969.
+
+These matters come before the Board of Veterans' Appeals (Board) from a May 2024 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO), the agency of original jurisdiction (AOJ).
+
+In February 2025, the Veteran timely filed VA form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) and selected the Direct Review docket.
+
+In selecting the Direct Review docket, the Board may only consider the evidence of record at the time of the May 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to service connection for obstructive sleep apnea (OSA) based on toxic exposure risk activity (TERA) and entitlement to service connection for obstructive sleep apnea (OSA) as secondary to service-connected bilateral hearing loss or tinnitus, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+As an initial matter, the Board may recharacterize a claim based on the Veteran's description of the claim, symptoms described, and the information submitted or developed in support of the claim. See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009). Based on the record, the Veteran initially claimed service connection for obstructive sleep apnea (OSA) as secondary to his service-connected bilateral hearing loss. According to the rating decision on appeal, the AOJ characterized the claim as "service connection for sleep apnea" however, the narrative explaining the decision addressed direct and secondary theories of entitlement. See May 2024 Rating Decision. Additionally, as will be discussed further below, the Board has determined that the issue of whether OSA is secondary to service-connected tinnitus was reasonably raised by the record prior to the decision on appeal and as such has been added to the instant decision. See Bailey v. Wilkie, 33 Vet. App. 188, 203 (2021) (VA must develop and adjudicate related claims for secondary service connection for disabilities that are reasonably raised during adjudication of the primary service-connected disability). Therefore, the Board has recharacterized the issue of "service connection for obstructive sleep apnea" to "entitlement to service connection for obstructive sleep apnea as secondary to service-connected bilateral hearing loss or tinnitus" and "entitlement to service connection for obstructive sleep apnea based on toxic exposure risk activity (TERA)" to better reflect the record.
+
+The Board also notes that less than one year has elapsed since the May 2024 mailing of notice of the rating decision on appeal. Generally, the Board may not decide an appeal prior to the expiration of the one-year period. Williams v. McDonough, 37 Vet. App. 305 (2024). However, in the circumstances of this case, the Board finds that since the case is advanced on the Board's docket (AOD), such status constitutes a waiver of the Veteran's right to request a docket switch. The assignment of AOD status is sufficient for the Board to proceed with an adjudication in this appeal. See Clark v. O'Rourke, 30 Vet. App. 92, 97-98 (2018) (allowing waiver of a right to a particular time period for submission of evidence to be waived if there is "a voluntary, knowing, and intentional waiver of that right").
+
+Lastly, the Board acknowledges the Veteran's contention that he was exposed to red lead toxic paint while aboard his assigned vessels and that such exposure is not indicated on the December 2024 TERA memorandum. See February 2025 VA 10182. As the Board is an appellate body, issues properly before the Board are AOJ decisions with which the Veteran disagrees. See 38 C.F.R §§ 3.155, 20.4 Rule 4, 20.104 Rule 104, 38 U.S.C. § 5104. A TERA memorandum is not a decision but rather evidentiary development of records in custody of the Government wherein VA has a statutory duty to assist. 38 U.S.C. §. As the TERA memorandum does not constitute a rating decision, the issue is not proper before the Board. The Board encourages the Veteran to contact his local Regional Office for assistance with further investigation should he believe the TERA memorandum is incomplete or inaccurate.
+
+Service Connection for OSA as Secondary to Service-Connected Bilateral Hearing Loss or Tinnitus
+
+The Board finds, for the following reasons, that the AOJ committed pre-decisional duty to assist errors due to (1) relying upon an inadequate VA examination for the issue of OSA secondary to bilateral hearing loss and (2) its failure to identify and provide the Veteran with a VA examination/medical opinion for the issue of OSA as secondary to tinnitus, prior to the decision on appeal.
+
+Establishing service connection on a direct basis generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability. See Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Hickson v. West, 12 Vet. App. 247, 253 (1999); 38 C.F.R. § 3.303(a).
+
+Establishing service connection on a secondary basis requires evidence sufficient to show the following three elements: (1) a current disability that is not already service-connected; (2) at least one service-connected disability; and (3) evidence that the nonservice-connected disability is either (a) proximately due to or the result of a service-connected disability (causation) or (b) has an increase in severity that is proximately due to or the result of a service-connected disability (aggravation). 38 C.F.R. § 3.310. "Proximately due to or the result of" reflects "but for" causation that is not limited to a single cause and effect but rather contemplates multi-causal associations including a direct etiological cause or links in a causal chain (one thing flows from another). See Spicer v. McDonough, 61 F.4th 1360, 1365 (Fed. Cir. 2023) (citations omitted).
+
+Under the Appeals Modernization Act (AMA), the Board must remand a claim to correct an error by the AOJ to satisfy its duty to assist the claimant under 38 U.S.C. § 5103A, if the error occurred prior to the AOJ decision on appeal. 38 U.S.C. § 5103A(f)(2)(A); 38 C.F.R. § 20.802(a). 
+
+VA's duty to assist includes providing a medical examination, when necessary, to decide a claim. 38 U.S.C. § 5103A(d); 38 C.F.R. § 3.159(c)(4). Such development is necessary if the information and evidence of record does not contain sufficient competent medical evidence to decide the claim, but (1) contains competent evidence of diagnosed disability or symptoms of a disability, (2) establishes that the veteran suffered an event, injury or disease in service, or has a presumptive disease during the pertinent presumptive period, and (3) indicates that the claimed disability may be associated with the in-service event, injury, or disease, or with another service-connected disability. 38 C.F.R. § 3.159(c)(4); McLendon v. Nicholson, 20 Vet. App. 79, 83-86 (2006) (noting that the third element establishes a low threshold and requires only that the evidence "indicates" that there "may" be a nexus between the current disability or symptoms and active service, including equivocal or non-specific medical evidence or credible lay evidence of continuity of symptomatology).
+
+When VA undertakes the effort to provide a medical examination and obtain a medical opinion for a disability benefits claim, it must ensure that the appropriate inquiries, instructions, and standards are requested and obtained from the VA examiner. For secondary service-connection disability claims, a VA examination must address analyses for both causation and aggravation. See El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013).
+
+The Veteran contends that his current OSA was caused by his service-connected bilateral hearing loss.
+
+Turning to the evidence, in December 2023, the RO requested a (1) TERA opinion as to the relationship between the Veteran's OSA and bilateral hearing loss with respect to in-service asbestos exposure and (2) medical opinion as to whether the Veteran's OSA was at least likely as not proximately due to or the result of the Veteran's service-connected bilateral hearing loss (causation). See December 2023 Exam Request. As is evident, a request as to whether the Veteran's OSA increased in severity proximately due to or the result of his service-connected bilateral hearing loss (aggravation) was not included in the exam request instructions. In May 2024, the Veteran underwent a VA examination to determine the nature and etiology of his OSA in relation to his service-connected bilateral hearing loss. Specific to the non-TERA, secondary service connection claim, the VA examiner opined that the Veteran's OSA was less likely than not proximately due to or the result of his service-connected bilateral hearing loss (causation). See May 2024 C&P exam. However, an evaluation or medical opinion as to the aggravation element was not provided. Therefore, the Board finds the May 2024 medical opinion inadequate as the examiner failed to evaluate or opine as to whether the Veteran's OSA increased in severity that was proximately due to the Veteran's service-connected bilateral hearing loss (aggravation). As such, the AOJ committed pre-decisional error when it relied upon an inadequate examination in rendering the decision on appeal.
+
+Next, the evidence shows that the issue of whether the Veteran's OSA is secondary to his service-connected tinnitus was reasonably raised by the record prior to the decision on appeal. 
+
+In September 2019, the Veteran underwent a VA examination to determine the nature and etiology of his hearing loss and tinnitus. During the examination, the Veteran reported noticeable tinnitus during service that impacted his ability to concentrate and fall asleep. See September 2019 C&P Exam. The examiner diagnosed the Veteran with bilateral tinnitus and opined that due to hazardous noise exposure, the Veteran's first perceived instance of tinnitus in service, and no other relevant sources of noise exposure after service, the tinnitus was caused by service.
+
+In June 2022, the Veteran underwent an updated hearing loss and tinnitus examination due to worsening symptomatology. During the examination, the Veteran similarly reported that his tinnitus made it difficult to stay asleep due to the constant ringing. See June 2022 C&P Exam.
+
+In November 2023, the Veteran requested a sleep study after raising concerns to his medical providers regarding sleep disorder-related symptoms observed by him and his spouse to include snoring, choking while sleeping, and daytime sleepiness. See March 2024 CAPRI. The provider afterward requested a sleep study to evaluate the Veteran's sleep-related concerns.
+
+After filing his claim for OSA in December 2023, the RO requested a VA examination to determine the nature and etiology of his OSA. During a sleep study screening, the Veteran endorsed excessive daytime sleepiness, habitual loud snoring, and witnessed apnea, gasping, or choking. See January 2024 C&P Exam. Following the screening, in April 2024, the Veteran underwent a home sleep study that revealed findings consistent with moderate OSA. See May 2024 C&P Exam. In May 2024, VA administered a VA sleep conditions examination. During the examination, the Veteran reported that approximately 50 to 55 years prior (approximately 1968 to 1973), his spouse began observing the Veteran's apneic symptoms including loud snoring and paused breathing while sleeping. See May 2024 C&P Exam. The examiner confirmed a diagnosis of OSA.
+
+In February 2024, the Veteran underwent an audiological evaluation and, in relation to tinnitus, reported that the symptoms are constant and cause poor sleep. See March 2024 CAPRI.
+
+While the Veteran did not purport a specific relationship between his tinnitus and OSA, the record evidences sleep concerns/symptomatology associated with tinnitus and OSA that reportedly onset within a relatively close time period. Therefore, the theory of OSA as secondary to tinnitus was reasonably raised by the record prior to the decision on appeal. 
+
+Regarding the nature and etiology of the Veteran's OSA as it relates to his service-connected tinnitus, the record does not contain sufficient competent medical evidence to decide the claim. However, prior to the decision on appeal, the record demonstrated sufficient information necessary to afford the Veteran with a VA examination. As noted, the Veteran has a diagnosed disability of OSA and experienced an in-service injury (hazardous noise exposure) that is causally connected to the Veteran's service-connected tinnitus. The Board considers the Veteran's November 2023 OSA symptomatology statement and reported OSA history in the Veteran's May 2024 examination as competent evidence that he experiences a continuity of symptomatology and that said symptoms may be associated with his service-connected tinnitus. Therefore, the Board finds that the low threshold as set forth in McLendon were met prior to the decision on appeal. Accordingly, as the McLendon elements were met prior to the decision on appeal, the AOJ should have afforded the Veteran a VA examination, thereby committing pre-decisional error and failure to meet VA's statutory duty to assist.
+
+Accordingly, since the AOJ (1) relied upon an inadequate medical examination/opinion when rendering the decision on appeal, and (2) failing to identify and develop the issue of OSA as secondary to service-connected tinnitus reasonably raised by the record, the AOJ failed in its statutory duty to assist thereby committing pre-decisional errors.
+
+Entitlement to Service Connection OSA Based on TERA
+
+The Board finds that prior to the decision on appeal, the AOJ failed to provide and secure an adequate VA TERA examination/medical opinion that addresses the Veteran's asbestos exposure thereby, committing a pre-decisional duty to assist error.
+
+Under the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act), effective from August 10, 2022, Section 303 implemented 38 U.S.C. § 1168, requiring a disability examination and medical opinion be requested for certain non-presumptive conditions involving TERA. For such claims, VA is required to provide a disability examination and medical opinion when the Veteran submits a claim for compensation, has evidence of a disability, had evidence of participation in a TERA, and such evidence is not sufficient to establish service connection for the disability.
+
+Here, in December 2023, VA issued a TERA memorandum that confirmed the Veteran's possible exposure to asbestos based on his assigned vessel, the USS Cadmus. See December 2023 Other. In development of the Veteran's claim, the RO requested a TERA examination to determine whether the Veteran's claimed OSA is associated with his service-connected bilateral hearing loss based on exposure to asbestos. See December 2023 Exam Request. In May 2023, the RO obtained a VA medical opinion which found no relationship between the Veteran's OSA and service-connected bilateral hearing loss on the basis of TERA. See May 2024 C&P Exam. However, a specific examination/opinion as to whether the Veteran's OSA is presumptively service-connected due to TERA was not sought nor opined.
+
+Next, the evidence of record is not sufficient to establish service connection for the Veteran's diagnosed OSA as a result of asbestos exposure. Specifically, the record does not contain evidence in which specialized medical knowledge is necessary to evaluate toxic exposures and relation to diseases. Therefore, in accordance with 38 U.S.C. § 1168(a), VA must provide a disability examination and obtain a medical opinion that evaluates whether it is at least as likely as not that there is a nexus between the Veteran's OSA and asbestos exposure.
+
+Overall, the AOJ failed to satisfy VA's duty to assist the Veteran in developing his claim under 38 U.S.C. § 5103A due to pre-decisional errors evidenced prior to the decision on appeal. First, the AOJ relied upon an inadequate VA examination in relation to the Veteran's service connection for OSA as secondary to service-connected bilateral hearing loss. Such reliance in rendering the decision on appeal is pre-decisional error. Additionally, the AOJ failed to identify and develop the Veteran's secondary service-connection claim reasonably raised by the record to include affording the Veteran with a VA examination thereby showing pre-decisional error. Lastly, the AOJ committed a pre-decisional error when it failed to obtain a TERA examination on whether the Veteran's OSA is causally connected to in-service asbestos exposure. Accordingly, a remand is warranted to correct the AOJ's pre-decisional errors and satisfy VA's statutory duty to assist requirements under 38 U.S.C. § 5103A.
+
+The matters are REMANDED for the following actions:
+
+1. Obtain (1) a VA medical opinion or, if necessary, an updated examination for the Veteran's service connection claim for obstructive sleep apnea (OSA) as secondary to service-connected bilateral hearing loss or tinnitus and (2) a new VA TERA medical opinion or, if necessary, examination for the Veteran's asbestos exposure, from an appropriate clinician or clinicians to determine the nature and etiology (origin) of the Veteran's OSA. The entire claims file, to include a copy of this REMAND, should be reviewed by the clinician.
+
+Secondary service-connection (tinnitus): The examiner must provide an opinion as to whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's diagnosed OSA was caused or aggravated by the Veteran's service-connected tinnitus. Note: The examiner must discuss both cause and aggravation in their opinion. The examiner must provide a full detailed rationale for this opinion and findings and any resort to speculation should be explained.
+
+(Continued on next page)
+
+?
+
+Secondary service-connection (bilateral hearing loss): The examiner must provide an opinion as to whether it is at least as likely as not that the Veteran's diagnosed OSA was caused or aggravated by the Veteran's service-connected bilateral hearing loss. The examiner must discuss both cause and aggravation in their opinion. The examiner must provide a full detailed rationale for this opinion and findings and any resort to speculation should be explained.
+
+TERA (asbestos exposure): The examiner must provide an opinion as to whether it is at least likely as not that the Veteran's OSA is related to his exposure to asbestos. In providing this opinion, the examiner is asked to consider and speak to (1) the total potential exposure through all applicable military deployments and (2) the synergistic, combined effect of all toxic exposure risk activities of the Veteran. The examiner must provide a full detailed rationale for this opinion and findings and any resort to speculation should be explained. NOTE: A TERA opinion in relation to the bilateral hearing loss and tinnitus secondary service connection claims is NOT necessary.
+
+(Continued on next page)
+
+?
+
+2. For clarification of secondary service-connection, the Board is assessing whether evidence exists that the Veteran's OSA is either (a) proximately due to or the result of the Veteran's service-connected tinnitus or bilateral hearing loss (causation) or (b) has had an increase in severity that is proximately due to or the result of the service-connected disabilities (aggravation). "Proximately due to or the result of" reflects "but for" causation that is not limited to a single cause and effect but rather contemplates multi-causal associations including a direct etiological cause or links in a causal chain (one thing flows from another). In terms of aggravation, the threshold question is whether the Veteran's OSA would be less severe were it not for a service-connected disability. For example, where the progression of the non-service-connected disability could have been arrested or improved but for the service-connected disability. Of note for aggravation, in conjunction with a showing of an increase in the severity of the Veteran's OSA, the baseline level of severity of the Veteran's OSA must be established to properly assess the interplay between the Veteran's OSA and service-connected disabilities, if any.
+
+For all opinions, the examiner(s) must consider and discuss all relevant medical and lay evidence, to include the Veteran's assertions and reported symptomatology. If lay assertions in any regard are discounted, the examiner should clearly state so and explain why. Note: The Veteran is competent to attest to factual matters of which he has first-hand knowledge.
+
+(Continued on next page)
+
+?
+
+For all opinions, the examiner(s) is/are advised that reliance solely on medical literature or a lack of medical evidence, especially without consideration of contentions/lay statements raised by the Veteran, is considered an inadequate rationale. The examiner should rely on their medical expertise and consider/synthesize all evidence of record in rendering a well-supported and informative opinion/rationale.
+
+For all opinions, should the examiner(s) utilize any relevant medical literature or resources in rendering their findings and opinions, they should provide the specific citation(s) in the examination report.
+
+ 
+
+ 
+
+Ardie A. Bland
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Klemm-Kafel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

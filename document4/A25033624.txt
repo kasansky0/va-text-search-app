@@ -1,0 +1,67 @@
+Citation Nr: A25033624
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240802-460753
+DATE: April 10, 2025
+
+ORDER
+
+An initial compensable rating for service-connected bilateral hearing loss is denied.
+
+FINDING OF FACT
+
+The Veteran's bilateral hearing loss has been manifested by hearing acuity of no worse than Level I in the right and left ears.
+
+CONCLUSION OF LAW
+
+The criteria for an initial compensable rating for service-connected bilateral hearing loss have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.85, 4.86, Diagnostic Code (DC) 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2024 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO). 
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the direct review docket. Therefore, the Board may only consider the evidence of record at the time of the July 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a supplemental claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a supplemental claim are included with this decision. 
+
+1. Entitlement to an initial compensable rating for service-connected bilateral hearing loss
+
+The Veteran is seeking a higher, compensable rating for his service-connected bilateral hearing loss disability. 
+
+Evaluations of defective hearing range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of a controlled Maryland CNC speech discrimination test together with the average hearing threshold level measured by pure tone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz).  38 C.F.R. § 4.85, Diagnostic Code 6100.
+
+To evaluate the degree of disability from bilateral service-connected hearing loss, the schedule establishes 11 auditory hearing acuity levels designated from Level I for essentially normal hearing acuity through Level XI for profound deafness.  38 C.F.R. § 4.85, Tables VI and VII.  
+
+An exceptional pattern of hearing impairment occurs when the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more.  38 C.F.R. § 4.86(a).  In that situation, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral. Further, when the average pure tone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and that numeral will then be elevated to the next higher numeral. 38 C.F.R. § 4.86(b).
+
+The relevant evidence includes a July 2024 VA audiological examination which reveals that the Veteran did not report any impact on his ordinary conditions of life.  38 C.F.R. § 4.10; Martinak v. Nicholson, 21 Vet. App. 447 (2007).  The Veteran's Maryland CNC Word List speech recognition score and pure tone thresholds, in decibels, were as follows:  
+
+July 2024	HERTZ
+
+ 	1000	2000	3000	4000	Avg	CNC
+
+RIGHT	20	25	30	40	28.75	100
+
+LEFT	20	25	35	45	31.25	100
+
+Applying the results to Table VI, the findings yield a numeric designation of Level I in the right ear and Level I in the left ear.  Entering the resulting bilateral numeric designation of Level I for the right ear and Level I for the left ear to 38 C.F.R. § 4.85, Table VII, equates to a noncompensable (zero percent) disability rating under Diagnostic Code 6100. Further, an exceptional pattern of hearing impairment under 38 C.F.R. § 4.86 was not shown.
+
+As noted, the Veteran has not endorsed any particular symptoms or functional impairment caused by his bilateral hearing loss disability in support of this claim. Nevertheless, the Board expressly acknowledges its consideration of any difficulty hearing associated with the Veteran's service-connected disability; however, disability ratings for hearing loss are derived from a mechanical application of the rating schedule to the numeric designations resulting from audiometric testing. See Lendenmann v. Principi, 3 Vet. App. 345 (1992).
+
+The rating criteria contemplate speech reception thresholds and ability to hear spoken words on Maryland CNC testing; thus, any functional impact the Veteran experiences is contemplated by the rating criteria.  Doucette v. Shulkin, 28 Vet. App. 366 (2017). 
+
+Accordingly, the most probative evidence of record persuasively weighs against the claim of entitlement to a compensable rating for service-connected bilateral hearing loss. As such, the benefit-of-the-doubt rule does not apply and the Veteran's claim is denied. 38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+M. Donohue
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Turnipseed, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,65 @@
+Citation Nr: A25033628
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240627-452976
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (sleep apnea) is granted.
+
+FINDING OF FACT
+
+The Veteran's sleep apnea was caused by his service-connected insomnia.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for sleep apnea as secondary to insomnia have been met. 38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.303(a), 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from August 1984 to November 1984. The Board recognizes his service to our country, and the sacrifices it necessarily entailed. 
+
+This matter is on appeal to the?Board of Veterans' Appeals?(Board) from a January 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO), which is also the agency of original jurisdiction (AOJ).? 
+
+In January 2020, the AOJ denied a claim for service connection for sleep apnea. In September 2023, the Veteran submitted a VA Form 20-0995 (Supplemental Claim) along with a lay statement and two medical examinations. In January 2024, the AOJ found that new and relevant evidence had been received and again denied the claim. This is the decision now on appeal before the Board. 
+
+On the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement or NOD), the Veteran elected Direct Review. 
+
+Therefore, the Board may consider only the evidence of record at the time of the January 2024 rating decision. Any evidence submitted after the AOJ decision on appeal was not considered by the Board. 38 C.F.R. §§?20.300, 20.301, 20.801.
+
+Service connection for sleep apnea is granted.
+
+The Veteran contends his sleep apnea disability is caused or aggravated by his weight gain, which is caused by his service-connected insomnia and fatigue mental health disabilities. September 2023 VA Form 21-4138 Statement in Support of Claim. 
+
+In general, service connection may be established on a secondary basis for a disability resulting from a service-connected disease or injury. 38 C.F.R. § 3.310 (a). Establishing service connection on a secondary basis requires evidence sufficient to show (1) a current disability exists and (2) that it was either caused or aggravated by a service-connected disability. See Allen v. Brown, 7?Vet. App.?439, 448 (1995) (en banc). 
+
+Notably, when analyzing a claim for secondary service connection, the legal threshold for establishing the causal nexus between the service-connected primary disability and the claimed secondary disability is simple "but-for" causation, a broad standard that allows for multiple causes. Spicer v. McDonough, 61 F.4th 1360, 1363 (Fed. Cir. 2023). See also, Burrage v. United States, 71 U.S. 204, 211-12 (2014). 
+
+Similarly, but-for causation may involve intermediate steps between the primary and secondary disabilities. Intermediate steps may be medical conditions that do not qualify on their own as VA disabilities, such as obesity (e.g., a service-connected back injury prevents the veteran from exercising, resulting in weight gain that causes or aggravates a foot disability), as well as medications and treatments for the primary disability. Garner v. Tran, 33?Vet. App.?241, 247-48 (2021); Spicer, 61 F.4th at 1365-1366.? 
+
+For purposes of secondary service connection, causation and aggravation are "conceptually synonymous" because "aggravation is just causation of an increase in disability-i.e., a discrete portion of disability-rather than of the whole disability itself." Walsh v. Wilkie, 32?Vet. App.?300, 306 (2020). 
+
+In December 2013, the Veteran underwent a sleep study and was diagnosed with sleep apnea and uses a continuous positive airway pressure (CPAP) at night. See September 2023 VA examination. 
+
+In November 2023, the Veteran underwent a VA examination focused on the possible causal connection between sleep apnea and his service-connected insomnia. The examiner opined that the sleep apnea is less likely than not caused by insomnia. See November 2023 VA examination.
+
+As rationale, the examiner explained that obstructive sleep apnea is characterized by partial or complete upper airway obstruction during sleep, resulting in apnea and hypopneas, and that is not medically related to insomnia, which is the inability to fall asleep. The examiner noted that insomnia is a symptom of obstructive sleep apnea and that medical research does not demonstrate that insomnia causes sleep apnea. See November 2023 VA examination. The examiner addressed each disability independently of the other, indicating risks and treatments for each. The Board finds this opinion inadequate because at issue here is the intersection of these disabilities. In addition, the examiner states only general assumptions and conclusions but does not address the symptoms and circumstances specific to the Veteran. See Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007).
+
+In September 2023, the Veteran underwent a private examination. The examiner noted that insomnia symptoms include intermittent anxiety, a depressive mood, and sleep disturbance, and that chronic partial sleep loss increases the risk of weight gain. Sleep curtailment results in metabolic and endocrine alterations, and medical studies have documented that obesity is known to predispose patients to obstructive sleep apnea. The examiner noted the Veteran's medical history shows that he was diagnosed with insomnia, gained weight over time, and later developed obstructive sleep apnea. The examiner opined that this progression of symptoms further supports the conclusion that the mental health stressors of the Veteran's insomnia are at least as likely as not the cause of his obesity and thereby, the cause of his sleep apnea. See September 2023 private examination, September 2023 Medical Treatment Record - Non-Government Facility.
+
+The Board finds this examination and analysis, which addresses the medical implications of insomnia and sleep apnea and the Veteran's medical history, persuasively establishes a causal nexus between the Veteran's sleep apnea symptoms due to weight gain brought on by his insomnia. The examination was based on a review of the chronology of the Veteran's symptom onset and progression, treatment history and objective test results of his symptoms. Nieves-Rodriguez v. Peake, 22?Vet. App.?295 (2008). 
+
+The Board finds that the evidence of record persuasively demonstrates a but-for relationship between the Veteran's sleep apnea and insomnia due to intermediate weight gain and service connection is warranted for sleep apnea syndromes as secondary to the Veteran's insomnia. The appeal is granted.
+
+ 
+
+Timothy Cothrel
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jaeger, L
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

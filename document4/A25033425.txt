@@ -1,0 +1,83 @@
+Citation Nr: A25033425
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 210608-164607
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disorder, diagnosed as generalized anxiety disorder (GAD) and major depression, is granted.
+
+Entitlement to service connection for fibromyalgia is dismissed.
+
+FINDINGS OF FACT
+
+1.  The Veteran's GAD and major depression are causally related to her active military service.
+
+2.  On November 15, 2024, the Veteran withdrew her claim for entitlement to service connection for fibromyalgia.
+
+CONCLUSIONS OF LAW
+
+1.  The criteria for entitlement to service connection for an acquired psychiatric disorder, to include GAD and major depression, are met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 4.125, 4.130.
+
+2.  The criteria for withdrawal of entitlement to service connection for fibromyalgia by the appellant are met.  38 U.S.C. § 7105; 38 C.F.R. § 20.205.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Navy from April 1999 to April 2006.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a June 2020 higher-level review rating decision.  
+
+In the June 2021 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Hearing docket. A Board hearing was held on November 15, 2024.
+
+Therefore, the Board may only consider the evidence of record at the time of the April 2019 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review, as well as any evidence submitted by the Veteran or her representative at the hearing or within 90 days following the hearing.  38 C.F.R. § 20.302(a).  If evidence was submitted either (1) during the period after the AOJ issued the decision, which was subsequently subject to higher-level review and prior to the Board hearing, or (2) more than 90 days following the hearing, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.302(a), 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+In light of the psychiatric diagnoses of record, the Board has expanded the Veteran's claim to one for any acquired psychiatric disability that may be reasonably encompassed by the evidence of record.  Clemons v. Shinseki, 23 Vet. App. 1 (2009).
+
+1. Entitlement to service connection for an acquired psychiatric disorder, to include GAD and major depression, is granted.
+
+The Veteran contends that she is entitled to service connection for an acquired psychiatric disorder (claimed as posttraumatic stress disorder (PTSD)).  June 2021 VA Form 10182, Notice of Disagreement.  After careful review, the Board finds that service connection for an acquired psychiatric disorder is warranted.
+
+Service connection will be granted if is shown that the Veteran suffers from a disability resulting from personal injury suffered or disease contracted in the line of duty, or for aggravation of a pre-existing injury suffered or disease contracted in the line of duty, during active military service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303.  Establishing service connection generally requires evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the current disability.  See Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004). Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+The AOJ has favorably found that the Veteran has current diagnoses of GAD and major depression. Thus, the first element necessary to establish service connection is met.  The Veteran has a current psychiatric disability, including GAD and major depression.  
+
+As noted, the Veteran has claimed service connection specifically for PTSD.  However, there is no competent medical diagnosis of that condition.  
+
+The VA examiner specifically considered PTSD and found that the Veteran did not meet the criteria for that diagnosis.  December 2018 C&P exam (Initial Post Traumatic Stress Disorder (PTSD) Disability Benefits Questionnaire (DBQ)).  There are several notations within the Veteran's medical records showing that various VA mental health providers have ruled out a PTSD diagnosis at different times.  See, e.g., December 2016 CAPRI (mental health notes for 10/14/2014 and 9/23/2015); January 2017 CAPRI (1/13/2017 pharmacy note); and November 2018 CAPRI (10/3/2013 pain psychological assessment).  
+
+The Veteran's medical records do contain references to a diagnosis of PTSD, but they are in the context of couples therapy undergone by the Veteran and her husband.  The counseling notes do not refer to an individualized assessment or treatment of the Veteran.  See, e.g., April 2019 CAPRI (mental health notes for 1/23/2019, 2/6/2019, and 2/13/2019).  
+
+The conclusions of the VA examiner and various other medical providers who ruled out a PTSD diagnosis are more persuasive than the references to PTSD in the context of the joint therapy.  Accordingly, the Board finds that the Veteran does not have a diagnosis of PTSD.  The acquired psychiatric disorders for which the Veteran has confirmed diagnoses are GAD and major depression.      
+
+The second element necessary to establish service connection is that of an in-service incurrence of a disease or injury.  The Veteran claims that she was sexually assaulted in service, in 1999, at Fort Meade, Maryland.  The Veteran has described the assault consistently over the years with respect to all pertinent details.  December 2016 VA 21-0781a, Statement in Support of Claim for PTSD Secondary to Sexual Personal Assault; September 2018 VA 21-0781a, Statement in Support of Claim for PTSD Secondary to Sexual Personal Assault; March 2019 VA 21-0781a, Statement in Support of Claim for PTSD Secondary to Sexual Personal Assault; and December 2018 C&P exam (Initial Post Traumatic Stress Disorder (PTSD) DBQ).  
+
+The record confirms the Veteran was stationed at Fort Meade during the time period in question, and her statements are highly credible and there is no evidence contradicting them.  Accordingly, the Board finds that she was sexually assaulted in the vicinity of Fort Meade, Maryland, while she was on active duty.  This assault constitutes an in-service injury, thus establishing the second element necessary for establishing service connection.
+
+The final element necessary to establish service connection is that of a nexus between the Veteran's in-service injury and her current disability.  
+
+The VA examiner provided a positive nexus opinion in this case.  The VA examiner stated that the Veteran's "GAD and Major Depression are at least as likely as not caused by the claimed in service event of MST [military sexual trauma] in 1999 per self report."  December 2018 C&P exam (Medical Opinion DBQ).   There are no competent medical opinions to the contrary in the evidence of record.  Accordingly, the Board finds that the Veteran's GAD and major depression are at least as likely as not caused by the in-service assault.  
+
+All elements necessary to establish service connection are met.  Entitlement to service connection for an acquired psychiatric disorder, diagnosed as GAD and major depression, is granted. 
+
+2. Entitlement to service connection for fibromyalgia is dismissed.
+
+The Board may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed.  38 U.S.C. § 7105.  An appeal may be withdrawn as to any or all issues involved in the appeal at any time before the Board promulgates a decision.  38 C.F.R. § 20.205.  Withdrawal may be made by the appellant or an authorized representative.  Id.    
+
+The Veteran withdrew her appeal orally during the hearing on November 15, 2024.  November 2024 hearing transcript.  Her withdrawal was explicit, unambiguous, indicated full understanding of the consequences, and was offered in the presence of her attorney.  See DeLisio v. Shinseki, 25 Vet. App. 45, 47 (2011).  As the Veteran has withdrawn her appeal with respect to the claim for service connection for fibromyalgia, there remain no allegations of errors of fact or law for appellate consideration. Accordingly, the Board does not have jurisdiction to review the appeal as to that issue, and it is dismissed.
+
+ 
+
+ 
+
+L. STEPANICK
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Dunn
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

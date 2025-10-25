@@ -1,0 +1,59 @@
+Citation Nr: A25032127
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 211120-281285
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to payment or reimbursement for non-Department of Veterans Affairs (VA) medical services provided on March 18, 2021 (claim ID 302117400043376000) is dismissed.
+
+Entitlement to payment or reimbursement for non-Department of Veterans Affairs (VA) medical services provided on March 18, 2021 (claim ID 302111100058105000) is dismissed.
+
+FINDING OF FACT
+
+A VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) was received from a billing company that did not furnish the underlying non-VA medical services in question.
+
+CONCLUSIONS OF LAW
+
+1. A complete VA Form 10182 (Notice of Disagreement) requesting Board review of the issue of entitlement to payment or reimbursement for non-VA medical services provided on March 18, 2021 (claim ID 302117400043376000) have not been received; the appeal is dismissed.  38 U.S.C. § 7105; 38 C.F.R. §§ 20.202, 20.204.
+
+2. A complete VA Form 10182 (Notice of Disagreement) requesting Board review of the issue of entitlement to payment or reimbursement for non-VA medical services provided on March 18, 2021 (claim ID 302111100058105000) have not been received; the appeal is dismissed.  38 U.S.C. § 7105; 38 C.F.R. §§ 20.202, 20.204.
+
+REASONS AND BASES FOR FINDING AND CONCLUSIONS
+
+In November 2021, the Board of Veterans' Appeals (Board) received a VA Form 10182 completed by an employee of "Benefit Recovery" electing the Direct Review docket to review a June 2021 decision. 
+
+An April 2021 Explanation of Payment (EOP) directed to Baptist Memorial Hospital Tipton informed the hospital that Claim ID 302111100058105000 could not be processed as there was no authorization number submitted on the claim and this is a billing requirement for pre-approved care.  See November 2023 Medical Expense Reimbursement VHA file, 8.  Likewise, a June 2021 EOP directed to Baptist Memorial Hospital Tipton informed the hospital that Claim ID 302117400043376000 could not be processed for the same reason; no authorization number was submitted on the claim.
+
+In a November 2023 Report of Contact (memorandum for the file) a VHA Payment Operations legal administrative specialist indicated that the veteran (now deceased) was seen at a non-VA facility, Baptist Memorial Hospital Tipton, on March 18, 2021, and both Claim ID 302117400043376000 and Claim ID 302111100058105000 were denied for no authorization found during secondary search for 38 C.F.R. § 1703 claims.  Following research in the VA system ECAMS and OPTUM, no authorization has been located.  Thus, the decision is upheld.  See November 2023 Medical Expense Reimbursement VHA file, 2.
+
+The Board finds that Benefit Recovery is not a proper claimant that may file a VA Form 10182, Notice of Disagreement.  38 C.F.R. § 20.204 (a Notice of Disagreement may be filed by a claimant or by his or her representative if a proper Power of Attorney is on record or accompanies such Notice of Disagreement). 
+
+"Claimant" is generally defined under VA regulations as a person who filed a written communication requesting a determination of entitlement to a specific benefit under the laws administered by VA.  38 C.F.R. § 20.3(f), (g).  Under Part 17 of the regulations, claimants for payment or reimbursement of non-VA medical services for unauthorized treatment may include the veteran who received the services; the hospital, clinic, or community resource which provided the services; or a person other than the veteran who paid for the services.  38 C.F.R. § 17.123. 
+
+When viewed in context of authorized non-VA medical services, health care providers include entities authorized to furnish medical services to covered veterans that enter into bid contracts to establish networks of health care providers.  See generally 38 C.F.R. § 1703(c), (h); 38 C.F.R. §§ 17.4005, 17.4030.  There is no indication under the applicable law and regulations that a non-veteran entity that did not furnish the underlying medical services may be considered a claimant.  Benefit Recovery describes itself as an "industry leader in healthcare technology and revenue cycle management."  https://brsi.ai/about/ (accessed March 2025). 
+
+The record does not reflect that Benefit Recovery is a health care provider as described in the regulations or that Benefit Recovery provided the underlying treatment on March 18, 2021 (the care was provided by Baptist Memorial Hospital Tipton).  Moreover, Benefit Recovery is not a "representative" of the Veteran or of the hospital.  See 38?C.F.R. §§?14.627, 14.629 (related to definitions as used in regulations on representation of VA claimants and the requirements for accreditation of service organization representatives, agents, and attorneys). 
+
+The Board finds the November 2021 VA Form 10182 filed by Benefit Recovery did not initiate appellate review.  38 U.S.C. § 7105(a), (b)(2)(A) (notices of disagreement shall be in writing, shall identify the specific determination with which the claimant disagrees, and may be filed by the claimant, the claimant's legal guardian, or such accredited representative, attorney, or authorized agent as may be selected by the claimant or legal guardian).  38 C.F.R. §§ 20.202(a), 20.204. 
+
+(Continued on the next page)
+
+?
+
+The appeal is accordingly dismissed.
+
+ 
+
+ 
+
+H.M. WALKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Johnson, Krista M. (BVA)
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

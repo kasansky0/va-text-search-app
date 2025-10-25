@@ -1,0 +1,123 @@
+Citation Nr: A25032814
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240219-426736
+DATE: April 9, 2025
+
+ORDER
+
+A rating in excess of 10 percent for left lower extremity radiculopathy is denied.
+
+An effective date earlier than November 6, 2020, for the award of service connection for left lower extremity radiculopathy, is denied. 
+
+?
+
+FINDINGS OF FACT
+
+1. The Veteran's left lower extremity radiculopathy is manifest by no more than mild incomplete paralysis. 
+
+2. Entitlement for service connection for left lower extremity radiculopathy did not arise until November 6, 2020. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a rating in excess of 10 percent for left lower extremity radiculopathy have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.1, 4.3, 4.7, 4.124a, Diagnostic Code (DC) 8520.
+
+2. The criteria for an effective date earlier than November 6, 2020, for the award of service connection for left lower extremity radiculopathy, have not been met.  38 U.S.C. §§ 5107, 5110; 38 C.F.R. §§ 3.102, 3.400, 3.2500.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from August 2007 to January 2012.
+
+This matter is on appeal from a March 2023 rating decision. 
+
+In a March 2024 notice of disagreement (NOD), the Veteran elected the direct review docket.  The Board may only consider the evidence of record at the time of the January 2022 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review with the March 2023 decision.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+Initially, in a December 2020 rating decision, the AOJ granted service connection with a 10 percent rating for the Veteran's left lower extremity radiculopathy.  The Veteran filed a supplemental claim in December 2021 seeking an increased rating and an earlier effective date.  With a supplemental claim, new and relevant evidence (NRE) is required.  See 38 C.F.R. § 3.2501(a).  Within the January 2022 rating decision, the AOJ did not specifically state NRE was received, however, the AOJ did readjudicate the claims on the merits.  Thus, the Board concludes there was an implicit finding of NRE by the AOJ.  The Board is bound by these?prior favorable findings that NRE was received sufficient to readjudicate the claims.  38 C.F.R. § 3.104(c).
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board has limited the discussion below to the relevant evidence required to support its finding of fact and conclusion of law, as well as to the specific contentions regarding the case as raised directly by the Veteran and those reasonably raised by the record.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Peake, 21 Vet. App. 545, 552 (2008).
+
+A rating in excess of 10 percent for left lower extremity radiculopathy.
+
+Legal Criteria 
+
+Ratings are based on a schedule of reductions in earning capacity from specific injuries or combination of injuries.  The ratings shall be based, as far as practicable, upon the average impairments of earning capacity resulting from such injuries in civil occupations.  38 U.S.C. § 1155.  Generally, the degrees of disability specified are considered adequate to compensate for considerable loss of working time from exacerbations or illnesses proportionate to the severity of the several grades of disability.  38 C.F.R. § 4.1.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  When after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding the degree of disability such doubt will be resolved in favor of the claimant.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 4.3.
+
+The Veteran's left lower extremity radiculopathy is rated under DC 8520 of 38 C.F.R. § 4.124a.  DC 8520 (which pertains to the sciatic nerve) provides for a 10 percent rating for mild incomplete paralysis, a 20 percent rating for moderate incomplete paralysis, a 40 percent rating for moderately severe incomplete paralysis, and a 60 percent rating for severe incomplete paralysis with marked muscular atrophy.  Complete paralysis of the sciatic nerve (where the foot dangles and drops, there is no active movement possible of muscles below the knee, and flexion of the knee is weakened or lost), warrants the highest rating of 80 percent.
+
+The term "incomplete paralysis" indicates a degree of lost or impaired function substantially less than the type of picture for complete paralysis given with each nerve, whether due to varied level of the nerve lesion or to partial regeneration. When the involvement is wholly sensory, the rating is for the mild, or at most, the moderate degree.  The disability ratings for the peripheral nerves are for unilateral involvement; when bilateral, the ratings combine with application of the bilateral factor. 38 C.F.R. § 4.124a, Note at "Diseases of the Peripheral Nerves."  The Note to 38 C.F.R. § 4.124a establishes a maximum disability rating for conditions that are wholly sensory, as opposed to a minimum disability rating for conditions that are more than wholly sensory.  See Miller v. Shulkin, 28 Vet. App. 376 (2017).
+
+The Board uses plain-meaning dictionary definitions of these terms for guidance. See Johnson v. Wilkie, 30 Vet. App. 245, 255 (2018) (when a DC contains undefined subjective terms of degree, the Board must disclose the standard under which it is defining those terms).  "Mild" is gentle in nature or behavior, not severe. www.merriam-webster.com/dictionary/mild.  "Moderate" is "tending toward the mean or average amount or dimension." www.merriam-webster.com/dictionary/moderate.  "Severe" is "of a great degree." www.merriam-webster.com/dictionary/severe.
+
+Analysis 
+
+The Veteran is currently in receipt of a 10 percent rating for his left lower extremity radiculopathy under DC 8520.  Service connection for the Veteran's left lower extremity radiculopathy was granted secondary to his lower back condition.  The Veteran contends that his disability is more severe than what is contemplated by the currently assigned rating.  Specifically, the Veteran asserts that he was not afforded a VA peripheral nerve examination, that the November 2020 VA back examination did not fully evaluate nerve impairment, and that an April 2012 VA treatment record shows that the Veteran exhibited moderate symptomatology.  See March 2024 NOD. 
+
+The Board acknowledges the Veteran's contention that he was not afforded a peripheral nerve examination.  However, the Board finds that prior to the rating decision on appeal, the Veteran was afforded a January 2022 Peripheral Nerve Condition VA examination to assess the severity level of the Veteran's left lower extremity radiculopathy.  In fact, the January 2022 VA examination was provided in response to the Veteran's December 2021 supplemental claim seeking an increased rating for his service-connected left lower extremity radiculopathy.  As such, this contention is without merit.
+
+The Veteran also contends that the November 2020 VA back examination did not fully evaluate nerve impairment, for which the Board agrees.  However, the Board asserts that the intended purpose of the November 2020 VA back examination was to assess the severity of the Veteran's service-connected spine condition.  In an April 2019 decision, the Board determined that the Veteran's August 2017 VA examination assessing the severity of his lumbar spine disability was inadequate.  As such, the Board remanded the claim for a new VA examination to adequately assess the severity of the Veteran's lumbar spine disability.  During the November 2020 VA examination, the examiner noted mild left lower extremity numbness.  Rather than prejudice the Veteran, this finding resulted in a grant of service connection for the Veteran's left lower extremity radiculopathy secondary to his lumbar spine disability, and as stated above, the Veteran was subsequently afforded a complete peripheral nerve VA examination.  As such, the Board finds no pre-decisional duty to assist error by the AOJ with regards to the November 2020 VA back examination. 
+
+The Board will now turn to the evidence of record to assess the current severity level of the Veteran's left lower extremity radiculopathy under DC 8520.  
+
+The Veteran was afforded a January 2022 VA Peripheral Nerve examination.  The Veteran reported experiencing tingling and numbness in his left leg and foot.  The examiner recorded the Veteran's left lower extremity symptoms as mild paresthesias or dysesthesias, and mild numbness.  The examiner did not find evidence of lower left extremity pain.  The examiner also found mild incomplete paralysis with decreased sensation in the left leg and foot.  The examiner determined that the Veteran did not have muscle atrophy and noted that the Veteran exhibited normal muscle strength and reflexes.  The examiner reported that the Veteran exhibited a normal gait and did not experience any tropic changes.  
+
+The Veteran was additionally afforded a November 2020 VA back examination.  The examiner recorded symptoms of mild left lower extremity numbness. 
+
+The Board acknowledges the Veteran's contentions that he experienced moderate numbness and tingling during an April 2012 VA traumatic brain injury (TBI) consult.  However, a review of the April 2012 VA TBI consult reveals that the Veteran's numbness and tingling sensations were associated with his fingers, not his left lower extremities.  Rather, during the consult, the clinician only noted limited dorsiflexion of the Veteran's left foot, and the Veteran's only reference to his left lower extremities was reported left foot weakness.  Additionally, the Veteran's May 2012 VA treatment records reflect that the Veteran attributed his left foot pain to running during service, not his radiculopathy.  Thus, the Board finds the April 2012 VA treatment records less relevant to decide the claim.  
+
+Based on the foregoing evidence, the Board finds that the Veteran's symptoms during the period on appeal constitute "mild" incomplete paralysis.  The Veteran has experienced a combination of mild paresthesias or dysesthesias, mild numbness, and mild incomplete paralysis with decreased sensations.  The Board also finds that the most probative evidence of record is against a finding that the disability is manifest by impairment of motor functions, trophic changes, muscle atrophy, or complete paralysis. 
+
+As such, a "moderate" designation is not warranted.  Therefore, the severity of the Veteran's left lower extremity radiculopathy closely approximates the criteria associated with a 10 percent rating.  
+
+Accordingly, the evidence is persuasively against the claim.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and a rating in excess of 10 percent for left lower extremity radiculopathy is not warranted.  See 38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 4.3.
+
+An effective date earlier than November 6, 2020, for the award of service connection for left lower extremity radiculopathy.
+
+Legal Criteria 
+
+The effective date of an award based on an original claim shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor.  38 U.S.C. § 5110(a); 38 C.F.R. § 3.400.  The effective date for service connection is the later of the date of claim or when entitlement arose.  See 38 U.S.C. § 5110; 38 C.F.R. § 3.400.
+
+Under the AMA, an effective date can be based on the date a claim was first submitted if the issue is continuously pursued through one of the review avenues allowed under 38 U.S.C. § 5110(a)(2).  38 C.F.R. § 3.2500(h).
+
+Effective March 24, 2015, VA amended the claims filing process to require the filing of proper standard forms.  The essential elements for any claim, whether formal or informal, are "(1) an intent to apply for benefits, (2) an identification of the benefits sought, and (3) a communication in writing."  Brokowski v. Shinseki, 23 Vet. App. 79, 84 (2009); see also 38 C.F.R. § 3.155.  
+
+VA must look to all communications from a veteran which may be interpreted as applications or claims, formal and informal, for benefits.  VA is required to identify and act on informal claims for benefits.  See 38 U.S.C. § 5110(b)(3); 38 C.F.R. §§ 3.1(p), 3.155(a).  The United States Court of Appeals for the Federal Circuit (Federal Circuit) has emphasized that VA has a duty to fully and sympathetically develop a veteran's claim to its optimum, which includes determining all potential claims raised by the evidence and applying all relevant laws and regulations.  See Harris v. Shinseki, 704 F.3d 946, 948 (Fed. Cir. 2013).
+
+Factual Background 
+
+On January 7, 2012, the Veteran filed a claim of service connection for a back condition.  In a January 2013 rating decision, the RO granted service connection for degenerative disease of the lumbosacral spine (lower back condition) evaluated at 10 percent effective January 7, 2012, the date of the Veteran's claim.  The Veteran then filed a January 2014 NOD, seeking an increased rating for his lower back condition and a separate evaluation for bilateral lower extremity radiculopathy.  In a May 2017 statement of the case (SOC), the RO denied the Veteran's increased rating claim for his lower back condition.  In a June 2017 rating decision, the RO denied the Veteran's increased rating claim for his lower back condition and denied service connection for the Veteran's left lower extremity radiculopathy.  However, the RO did grant service connection for the Veteran's right lower extremity radiculopathy secondary to his lower back condition, effective in May 2017.  
+
+In July 2017, the Veteran filed a Form 9 substantive appeal seeking an increased rating for his lower back condition, including service connection for bilateral lower extremity radiculopathy.  In an April 2019 decision, the Board found the May 2017 VA examination inadequate, and remanded the Veteran's lower back condition increased rating claim for a new VA examination.  In compliance with the remand, the Veteran was afforded a November 2020 VA back examination.  As stated above, the examiner noted mild left lower extremity radiculopathy.  As a result, the RO granted service connection for the Veteran's left lower extremity radiculopathy with a 10 percent evaluation effective November 6, 2020, the date of the VA back examination.  In December 2021, the Veteran filed a supplemental claim seeking an earlier effective date, prior to November 6, 2020, for the award of service connection for his left lower extremity radiculopathy.  In a January 2022 rating decision, the RO denied the claim.  In January 2023, the Veteran submitted a request for higher level review, which was subsequently denied in a March 2023 rating decision.  The Veteran then filed the present appeal for an earlier effective date. 
+
+Analysis
+
+The Veteran contends that the effective date for the award of service connection for his left lower extremity radiculopathy should be earlier than November 6, 2020.  Specifically, the Veteran argues that the effective date should be April 11, 2020, the date of the VA treatment TBI consult when the Veteran reported weakness in his left foot.  See March 2024 NOD. 
+
+In a December 2020 rating decision, the RO granted service connection for the Veteran's left lower extremity radiculopathy effective November 6, 2020, the date of the VA back examination.  
+
+The Board recognizes the Veteran's January 2014 NOD seeking a separate evaluation for bilateral lower extremity radiculopathy as an informal claim for service connection.  However, the effective date for service connection in this case is the later of the date of receipt of the Veteran's original claim, or the date entitlement to service connection arose, whichever is later.  
+
+After reviewing and weighing the evidence of record, the Board finds that entitlement to service connection did not arise until November 6, 2020, the date of the Veteran's VA back examination.  The Board acknowledges the Veteran's contentions that entitlement arose as early as April 2012 with evidence of slight weakness in the left foot.  However, the Veteran's VA treatment shows that the Veteran attributed his left foot to running during service, not his lower back condition.  See May 2012 VA treatment records.  Additionally, the May 2012 VA physician found no neurologically related problems with the Veteran's left foot.  Rather, in a May 2017 rating decision, the RO awarded service-connection for bilateral pes planus, finding that the Veteran's congenital bilateral pes planus was aggravated by service.  Furthermore, the Veteran's April 2012 VA treatment records reveal that he attributed any numbness or tingling to his fingers.  As such, the Board finds that the evidence of record does not support the Veteran's contention. 
+
+The Board also acknowledges the Veteran's contentions that December 2012 complaints of bilateral leg pain necessitates the proper supportive evidence.  However, after a review of the Veteran's VA treatment records, the evidence does not show complaints for left lower extremity radiculopathy symptoms.  Here, during a December 2012 VA pain management consult, the Veteran reported that that the pain originates in his right buttock, down to the leg and heel.  In fact, the Veteran's VA treatment records only show complaints of right lower extremity radiculopathy.  See May 2012 VA treatment records (Veteran stating that the pain primarily stays in his back, right side in nature, with some radiation to his buttocks and into his right posterior thigh); see also January 2013 VA treatment records (Clinician noting that Veteran's lumbar radiculopathy is manifested by lower back pain radiating down the right lower extremity to the ankle); see also January 2013 VA treatment records (Veteran stating that his pain is worse in his right leg, noting that the pain is sharp and radiates to his foot); see also February 2013 VA treatment records (Veteran indicating he is suffering from predominantly right-sided throbbing lower back pain radiating occasionally to the proximal right thigh).  As such, the Board finds that the evidence weighs against the Veteran's contention that the December 2012 VA treatment records support a finding of service connection for left lower extremity radiculopathy.
+
+Additional evidence of record includes a May 2017 VA back examination.  The Veteran was examined for radiculopathy.  Although the Veteran reported mild numbness of his right lower extremity, the Veteran did not report any radiculopathy symptoms of his left lower extremity.  The Veteran was afforded another VA back examination in November 2020.  The Veteran was examined for radiculopathy and reported experiencing mild numbness in his left lower extremity.  Lastly, the Board finds that the Veteran's remaining VA treatment records do not show evidence of left lower extremity radiculopathy.   
+
+In light of the foregoing, the Board is unable to assign an effective date earlier than November 6, 2020, for the award of service connection for left lower extremity radiculopathy.  Although an effective date is not mechanically assigned based on a date of an examination report, in this case that is the date when entitlement was factually ascertainable.  The law requires that the effective date be the date of claim, or the date entitlement arose, whichever is later.  Because the later of the two dates is the date entitlement arose on November 6, 2020, there is no legal basis to assign an effective date earlier than that date.  38 U.S.C. § 5110; 38 C.F.R. § 3.400.  As the evidence is persuasively against the claim, the benefit-of-the-doubt doctrine is not applicable.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.  Thus, an earlier effective date is not warranted.
+
+ 
+
+ 
+
+RYAN T. KESSEL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Fyffe, Michael C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

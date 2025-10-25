@@ -1,0 +1,71 @@
+Citation Nr: A25032104
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240721-456018
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to service connection for sleep apnea to include as secondary to tinnitus with obesity as an intermediate step, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from June 1986 to October 1986.
+
+The Appeals Modernization Act (AMA) creates a new framework for Veterans dissatisfied with VA's decision on their claim to seek review. The AMA became effective on February 19, 2019. The AMA modernized review system applies to all claims for which VA issues a notice of an initial decision on or after the February 19, 2019 effective date of the modernized review system.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2024 higher-level review decision issued by the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), the Veteran elected the direct review option. For the Direct Lane docket, the Board's review is limited to the evidentiary record at the time of the RO decision on appeal. See Andrews v. McDonough, 34 Vet. App. 151, (2021). 
+
+Service Connection
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38?U.S.C. §?1110; 38?C.F.R. §?3.303(a). To establish a right to compensation for a present disability, a Veteran must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service-the so-called "nexus" requirement. Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 38 F.3d 1163, 1167 (Fed. Cir. 2004)). The absence of any one element will result in the denial of service connection.
+
+Additionally, service connection may be granted on a secondary basis when the evidence establishes (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability.? See Wallin v. West, 11?Vet. App.?509, 512 (1998); 38?C.F.R. §?3.310.
+
+Further, the Court has recently held that the proper interpretation of establishing obesity as an intermediate step requires consideration of both proximate causation and aggravation. Walsh v. Wilkie, 32 Vet. App. 300, 306-7 (2020). Thus, for secondary service connection to be granted under this theory, the record must demonstrate (1) whether a service-connected disability (or service-connected disabilities combined) caused or aggravated (i.e., worsened) the Veteran's obesity; (2) if so, whether the obesity or aggravation of obesity as a result of service-connected disability was a substantial factor in causing the claimed current disability; and (3) whether the claimed disability would not have occurred but for obesity caused or aggravated by the service-connected disability. See Walsh v. Wilkie, 32 Vet. App. 300, 307 (2020).
+
+Under the AMA, the Board must remand a claim to correct an error by AOJ to satisfy its duty to assist the Veteran under 38?U.S.C. §?5103A, if the error occurred prior to the AOJ decision on appeal. 38?U.S.C. §?5103A (f)(2)(A); 38?C.F.R. §?20.802 (a). The Board may also remand a claim to correct any other AOJ error "in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating" the claim. 38?C.F.R. §?20.802 (a).
+
+1. Entitlement to service connection for sleep apnea to include as secondary to tinnitus with obesity as an intermediate step is remanded.
+
+The Veteran contends that his sleep apnea is secondary to his service-connected tinnitus with obesity as an intermediate step. The Board initially notes that the Veteran has been diagnosed with sleep apnea and is currently service connected for tinnitus.
+
+The Veteran reports that his service-connected tinnitus caused him to have difficulty sleeping which led to being tired during the day. He stated that because he was tired, he began eating unhealthy foods frequently which led to weight gain, which then led to his diagnosis of sleep apnea.
+
+The Veteran provided a private medical opinion regarding his sleep apnea in February 2023. The private examiner found that the Veteran's weight gain served as an intermediate step related to sleep deprivation as a cause to the Veteran developing sleep apnea, and that the Veteran's sleep apnea was secondary to his tinnitus and obesity. However, the private examiner did not provide the necessary findings and rationale established by Wilke to support obesity as an intermediate step between the Veteran's tinnitus and sleep apnea. Accordingly, the Board finds the private medical opinion is inadequate and affords it low probative weight.
+
+The Veteran was afforded a VA examination in April 2023, at which time the examiner opined the Veteran's sleep apnea was less likely than not due to the Veteran's tinnitus, finding that medical literature did not support a finding between sleep apnea and tinnitus. The examiner did not provide an opinion addressing aggravation, nor did the examiner address the private medical opinion.
+
+An addendum medical opinion was provided in October 2023, at which the examiner indicated they had reviewed the private medical opinion. However, the VA examiner again opined the Veteran's sleep apnea was less likely than not due to the Veteran's tinnitus. The examiner indicated that sleep apnea is physiological and will occur with or without tinnitus, and further noted that although obesity is a risk factor for sleep apnea it is not the only cause of sleep apnea. The examiner did not provide an opinion regarding aggravation of the Veteran's sleep apnea by his service-connected tinnitus.
+
+Neither the VA medical opinions nor the private medical opinion addressed aggravation of the Veteran's sleep apnea by the Veteran's service-connected tinnitus. Entitlement to service connection on a secondary basis requires a medical opinion as to whether the disability was caused by or aggravated by a service-connected disability. See El-Amin v. Shinseki, 26?Vet. App.?136, 140-41 (2013).  While the examiner addressed whether the Veteran's condition was caused by his service-connected disability, they did not address aggravation. Further, neither VA examiner provided an opinion regarding obesity as an intermediate step for the Veteran's sleep apnea. The Board finds these are pre-decisional duty to assist errors and remand is warranted.
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for a VA examination to determine the nature, onset, and etiology of his sleep apnea. Any and all studies, tests, and evaluations deemed necessary by the examiners should be performed.
+
+The Veteran is competent to attest to observable events and symptomatology and such reports must be acknowledged and considered in formulating any opinion. If the Veteran's reports are discounted, the examiner should provide a reason for doing so.
+
+The examiners should address the following:
+
+(a.) Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's sleep apnea was caused by the Veteran's service-connected tinnitus. Explain why or why not.
+
+(b.) Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's sleep apnea was aggravated by the Veteran's service-connected tinnitus. Explain why or why not.
+
+The examiner should note that "any incremental increase in disability-any additional impairment of earning capacity-in non-service-connected disabilities resulting from service-connected conditions...regardless of its permanence" constitutes aggravation.
+
+(c.) Whether the Veteran's service-connected tinnitus caused or aggravated (i.e., worsened) the Veteran's obesity; if so, whether the obesity or aggravation of obesity as a result of his service-connected tinnitus was a substantial factor in causing his sleep apnea; and, whether the Veteran's sleep apnea would not have occurred but for obesity caused or aggravated by the Veteran's service-connected tinnitus.
+
+ 
+
+GAYLE STROMMEN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Risley, H.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

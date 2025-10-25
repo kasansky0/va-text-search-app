@@ -1,0 +1,123 @@
+Citation Nr: A25032404
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240917-477135
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to a disability evaluation in excess of 10 percent for cervical strain to include degenerative arthritis is remanded.
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+Entitlement to service connection for chronic headaches is remanded.
+
+Entitlement to service connection for a low back disability is remanded.
+
+Entitlement to service connection for traumatic brain injury (TBI) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from September 2011 to September 2015.
+
+He appeals March 2024 and April 2024 rating decisions by the VA Agency of Original Jurisdiction (AOJ).  In his September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  See September 2024 VA Form 10182.
+
+Therefore, the Board may only consider the evidence of record at the time of the AOJ decisions on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after an AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+1. Neck Disability
+
+The Veteran contends that his service-connected neck disability should be rated higher than the current 10 percent disability rating assigned.  See September 2024 VA Form 10182.  The Veteran was most recently afforded a VA examination regarding the severity of his neck disability in March 2024.  The examiner diagnosed the Veteran with cervical strain and degenerative arthritis.  See March 2024 VA examination report.  The AOJ requested clarification regarding the degenerative arthritis diagnosis.  As a result, the examiner provided an opinion stating that the Veteran's degenerative arthritis is a progression of his service-connected cervical strain to early arthritis; thus, arthritis is part of the Veteran's service-connected diagnosis.  See March 2024 VA clarification opinion.  
+
+However, the Board finds that the March 2024 VA examination is not adequate for rating purposes.  Specifically, the examination does not comply with the Court's holding in Sharp v. Shulkin, 29 Vet. App. 26 (2017).  In Sharp v. Shulkin, the Court held that a VA examination is inadequate when the VA clinician does not elicit relevant information as to the Veteran's flares or ask him to describe additional functional loss, if any, he suffered during flares and then does not "estimate the [Veteran's] functional loss due to flares based on all the evidence of record (including the [Veteran's] lay information) or explain why [he or she] could not do so."  29 Vet. App. 26, 35 (2017).
+
+Here, the March 2024 VA examiner noted that the Veteran suffered from flare-ups.  The Veteran described daily flare-ups that last forty minutes to one hour.  The Veteran rated the severity a 7-8/10.  During a flare up, the Veteran's functional impairment was described as follows: "Veteran cannot moves [sic] his neck."  See March 2024 VA examination report.  The Veteran's initial range of motion measurements showed forward flexion endpoint to 45 degrees, extension endpoint to 10 degrees, right lateral flexion endpoint to 30 degrees, left lateral flexion endpoint to 45 degrees, right lateral rotation endpoint to 45 degrees, and left lateral rotation endpoint to 80 degrees.  During flares, the examiner estimated only a slight five degree decrease in right lateral flexion, left lateral flexion, and right lateral rotation, plus a ten degree loss in extension endpoint.  Id. 
+
+The Board notes that the Veteran's lay description of flares upon examination appears to be more severe than the estimation provided by the March 2024 VA examiner.  Importantly, the Veteran reported that he "cannot [move] his neck" at all during a flare, labeling the severity a 7-8/10.  See March 2024 VA examination report (emphasis added).  In March 2018, the Veteran stated that his flares limited him due to "sharp pain;" this description also appears to be more severe than the minimal decrease in range of motion documented by the March 2024 VA examiner.  See March 2018 VA examination report.
+
+Ultimately, the Board finds that the March 2024 VA examiner did not elicit relevant information about flare-ups, nor did he decide as to whether pain, weakness, fatigability, or incoordination significantly limited functional ability with flare-ups including a failure to adequately describe functional loss in terms of range of motion in degrees and providing such measurements.  Therefore, the March 2024 VA examination is inadequate for rating purposes as it does not comply with Sharp.
+
+Based on the foregoing, the Board finds that remand is warranted to afford the Veteran with a Sharp compliant neck examination.  See Sharp v. Shulkin, 29 Vet. App. 26, 33 (2017); see also Barr v. Nicholson, 21 Vet. App. 303, 312 (2007) (when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate).  As this is a predecisional duty to assist error, remand is appropriate.  38 C.F.R. § 20.802(a).
+
+2. OSA
+
+The Veteran contends that his OSA is secondary to his service-connected major depressive disorder (MDD).  See December 2023 VA Form 20-0995.  A March 2024 VA clinician provided a negative causation opinion, reasoning that the "conditions of OSA and major depressive disorder are not medically related.  The OSA is a separate entity entirely from the major depressive disorder and unrelated to it.  A thorough review of medical literature failed to demonstrate a causal relationship.  A nexus has not been established."  See March 2024 VA medical opinion.  However, there is no discussion of the facts specific to the Veteran in relation to the medical literature referenced by the clinician.  See Bailey v. O'Rourke, 30 Vet. App. 54, 60 (2018) (reliance on the absence of medical literature supporting nexus without discussing the specific facts of the case renders an opinion inadequate).
+
+Further, the March 2024 VA clinician failed to address the question of aggravation.  See El-Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013) (holding that medical opinions addressing the issue of secondary service connection are inadequate when they fail to adequately encompass the question of aggravation).  The reviewing clinician did not use the check box on the medical opinion form regarding aggravation, nor did her supporting rationale discuss the concept of aggravation.  
+
+Based on the foregoing, the Board finds that remand is necessary to obtain an adequate secondary service connection opinion.  See Barr, supra.  As the above constitute predecisional duty to assist errors, remand is appropriate.  38 C.F.R. § 20.802(a).
+
+3. Chronic Headaches
+
+The Veteran seeks service connection for chronic headaches.  Consistent with VA's duty to assist, VA must provide a medical examination when there is evidence of (1) a current disability; (2) an in-service injury; (3) some indication that the claimed disability may be associated with the established injury; and (4) insufficient competent evidence of record for VA to make a decision.  See McLendon v. Nicholson, 20 Vet. App. 79, 84 (2006).  The third prong, which requires evidence that the claimed disability or symptoms "may be" associated with the established event, has a low evidentiary threshold.  See McLendon, 20 Vet. App. at 83.
+
+Here, the record reflects that the Veteran has headaches, which satisfies the first McLendon element.  See March 2024 VA rating decision favorable findings.  Upon review of the Veteran's VA treatment records, the Board finds that the record reasonably raises a theory of secondary service connection.  An October 2023 VA psychiatry visit note explained that the Veteran started to cross-taper his antidepressants; as a result, he noticed his headaches were better.  See October 25, 2023 VA treatment note.  The psychiatrist's assessment concluded that the Veteran's symptoms are globally improved, including improved headache with duloxetine."  Id.  Thus, it appears the Veteran's service-connected psychiatric disorder, including the medication he takes for same, may cause or aggravate his headaches and an opinion is required to address this theory raised by the record.  See Robinson v. Peake, 21 Vet. App. 545, 552-56 (2008) (holding that the Board is required to address issues raised by either the claimant or the evidence of record).  See also Bailey v. Wilkie, 33 Vet. App. 188 (2021) (holding that when entitlement to secondary service connection is raised, a formal claim for secondary service connection need not be filed; rather, VA must consider those complications in connection with the claim on appeal).
+
+These statements within the Veteran's VA treatment records satisfy the second and third McLendon elements.  To date, the Veteran has not been afforded an examination or medical opinion to determine the nature and etiology of his headaches.  The Board finds insufficient competent medical evidence to adjudicate the Veteran's claim; therefore, as the elements under McLendon are met, the Veteran's claim must be remanded for an examination and opinion.  See 38 U.S.C. § 5103A(d)(2); 38 C.F.R. § 3.159(c)(4)(i); McLendon, 20 Vet. App. 79.  As this is a predecisional duty to assist error, remand is appropriate.  38 C.F.R. § 20.802(a).
+
+4. Low Back Disability
+
+The Veteran seeks service connection for a low back disability.  The Veteran has a diagnosis of lumbosacral strain to include intervertebral disc syndrome (IVDS).  See March 2024 rating decision favorable findings; see also March 2024 VA examination report.  
+
+The March 2024 VA examiner checked the box indicating that the Veteran's low back disability was less likely than not incurred in or caused by the claimed in-service injury, event, or illness.  As rationale, he stated that after review of the Veteran's records there was no notation, x-ray, or visit for chronic back pain while he was in service.  He concluded his brief supporting rationale with the statement that it was "at least as likely as not that his back pain is service related."  See March 2024 VA medical opinion (emphasis added). 
+
+First, the Board notes that the examiner checked the box that correlates with a negative nexus opinion; however, his supporting rationale concluded like that of a positive nexus opinion.  Medical opinions must contain clear conclusions with supporting data and a reasoned medical rationale.  An adequate rationale must be provided for any medical opinion rendered; a conclusory, contradictory or incomplete analysis is not adequate.  Stefl v. Nicholson, 21 Vet. App. 120 (2007); Nieves-Rodriquez v. Peake, 22 Vet. App. 295 (2008); Dalton v. Nicholson, 21 Vet. App. 23 (2007).  Here, the VA examiner's opinion and rationale are contradictory; thus, the opinion is ultimately inadequate.
+
+Nevertheless, even if the concluding statement of the VA examiner's rationale was merely a typographical error, the examiner failed to address the Veteran's contention that his low back pain began in service and has continued to the present.  See March 2024 VA examination report; see also June 2023 VA treatment note.  The Veteran is competent to report that he experienced said back pain during service and that it has continued to the present.  See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).  Thus, the Board finds that the examiner relied primarily on the absence of contemporaneous medical records to render a negative nexus opinion; such an opinion is inadequate for adjudicative purposes.  See Buchanan v. Nicholson, 451 F.3d 1331, 1337 (2006).
+
+Accordingly, the Board finds that the March 2024 examiner's opinion is inadequate for adjudicative purposes and remand is required.  See Barr, supra.  As the above constitute predecisional duty to assist errors, remand is appropriate.  38 C.F.R. § 20.802(a).
+
+5. TBI
+
+The Veteran seeks service connection for TBI.  He contends that he "got hit in the head by [an] artillery projectile while on active duty."  See December 2023 VA Form 20-0995.  During a December 2017 VA medical appointment, the Veteran's history of present illness section noted that during a training exercise in January 2013, the Veteran incurred a head trauma by artillery ammunition while not wearing a helmet.  He was not knocked down but was thrown off balance and grabbed on to the truck.  There was no loss of consciousness, but he was dizzy for a week with a headache for a week and a half.  He did not seek medical attention regarding this incident.  See December 28, 2017 VA treatment note.
+
+As outlined above, VA must provide a medical examination when there is evidence of (1) a current disability; (2) an in-service injury; (3) some indication that the claimed disability may be associated with the established injury; and (4) insufficient competent evidence of record for VA to make a decision.  See McLendon; supra.
+
+Here, the Veteran's VA treatment records show treatment for TBI.  See March 2024 rating decision favorable finding.  The Veteran has consistently maintained that his TBI is the result of a 2013 head injury sustained while on active duty.  The first indication of which is contained in the claims file in a November 2015 VA treatment note-the date of this entry is just two months following the Veteran's discharge from active service.  During this appointment, the Veteran presented with a positive screening for TBI.  See November 2015 VA treatment note.  Thus, the Board finds the first and second McLendon elements have been met.
+
+Satisfying the third McLendon element requires only that the evidence 'indicates' that there 'may' be a nexus between the two and is a low threshold.  Therefore, given the Veteran's general contention that his TBI resulted from a head injury in service, which at the very least a history of same has been documented in his post-service VA treatment records, the Board finds that the information and evidence of record does not contain sufficient competent medical evidence to decide the claim; therefore, the elements of McLendon have been met.  See McLendon, 20 Vet. App. at 83.
+
+As the Veteran has not yet been afforded a VA examination regarding his TBI, the Board finds that remand is warranted for the AOJ to schedule the Veteran for an examination regarding the nature and etiology of same.  Because this is a predecisional duty to assist error, remand is appropriate.  38 C.F.R. § 20.802(a).
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for an appropriate examination to determine the current severity of his service-connected neck disability.  The examiner should provide a full description of the disability and report all signs and symptoms necessary for evaluating the Veteran's disability under the rating criteria.  The examiner must test the Veteran's active motion, passive motion, and pain with weight-bearing and without weight-bearing.
+
+The examiner must also attempt to elicit information regarding the severity, frequency, and duration of any flare-ups, and the degree of functional loss during flare-ups.
+
+In providing actual and estimated measurements, the examiner is to discount the ameliorative effects of medication.
+
+If it is not possible to provide a specific measurement, or an opinion regarding flare-ups, symptoms, or functional impairment without speculation, the examiner must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), a deficiency in the record (additional facts are required), or the examiner (does not have the knowledge or training).
+
+2. Schedule the Veteran for an examination by an appropriately qualified clinician to determine the nature and etiology of his (1) OSA, (2) headaches, (3) low back disability, and (4) TBI.  The evidentiary record, including a copy of this remand, must be made available to and reviewed by the examiner.  The opinion must include a notation that this record review took place.
+
+After the record review and examination, the examiner is asked to respond to the following:
+
+(a.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's OSA was caused OR aggravated by his service-connected acquired psychiatric disorder?
+
+(b.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's headaches were caused OR aggravated by his service-connected acquired psychiatric disorder, to include medication prescribed for same?
+
+(c.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's low back disability was incurred in, or is otherwise related to, his active service?
+
+(d.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's TBI was incurred in, or is otherwise related to, his time on active service?
+
+The examiner is to specifically address the Veteran's contention that his TBI was incurred during a January 2013 training exercise when he was hit in the head with an artillery projectile.
+
+In rendering these opinions, the examiner is advised that the Veteran is competent to report his symptoms and history.  Such reports must be acknowledged and considered in formulating any opinion.  If the examiner rejects the Veteran's reports, he or she must provide an explanation for such rejection.  The examiner is not to improperly discount the Veteran's lay statements or mistakenly rely on an absence of medical evidence in the record to support his or her conclusions.
+
+The complete rationale for all opinions should be set forth and a discussion of the facts and medical principles involved would be of considerable assistance to the Board.
+
+If an opinion cannot be provided without resorting to mere speculation, the examiner must provide a complete explanation for why an opinion cannot be rendered. In so doing, the examiner must explain whether the inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question.
+
+ 
+
+ 
+
+DONNIE R. HACHEY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Poe, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

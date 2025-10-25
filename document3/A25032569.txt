@@ -1,0 +1,69 @@
+Citation Nr: A25032569
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240730-460392
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to Dependency and Indemnity Compensation (DIC) under the provisions of 38 U.S.C. § 1318 is denied.
+
+REMANDED
+
+Entitlement to DIC under the provisions of 38 U.S.C. § 1310 based on a finding of service connection for the cause of the Veteran's death is remanded.
+
+FINDING OF FACT
+
+The Veteran was not rated as totally disabled for service-connected disability for 10 continuous years immediately preceding his death; was not totally disabled from the date of his discharge for a period of not less than 5 years immediately preceding his death; and was not a former prisoner of war (POW).
+
+CONCLUSION OF LAW
+
+The criteria for DIC under 38 U.S.C. § 1318 are not met. 38 U.S.C. § 1318; 38 C.F.R. § 3.22.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from October 1963 to April 1964. He passed away in July 2023. His surviving spouse is the appellant in this matter.
+
+The rating decision on appeal was issued in September 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies. The rating decision denied DIC under 38 U.S.C. § 1318 and denied service connection for the cause of the Veteran's death. 
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Appellant elected the Direct Review docket. The Board notes that the Appellant indicated that she was appealing the denial of the claim for DIC; the Board therefore finds that her disagreement is with the denial of DIC under both the provisions of 38 U.S.C. § 1310 and § 1318 and will address both issues accordingly.
+
+The Appellant seeks VA Dependency and Indemnity Compensation, and such can be awarded either under the provisions of 38 U.S.C. § 1310 or § 1318. Under section 1310, DIC is awarded if it is established that the Veteran's cause of death is related to service, or a service-connected disability. This is the Appellant's contention, and such will be addressed in the Remand section below.
+
+The Appellant is also seeking benefits under the provisions of section 1318.
+
+Under 38 U.S.C. § 1318, VA death benefits may be paid to a deceased veteran's surviving spouse or children in the same manner as if the Veteran's death is service-connected if the veteran's death was not the result of his or her own willful misconduct and at the time of death, the veteran was receiving, or was entitled to receive, compensation for service-connected disability that: (1) was continuously rated as totally disabling for the 10 years immediately preceding death; (2) was continuously rated as totally disabling for a period of not less than 5 years from the date of his discharge or release from active duty; or (3) was continuously rated as totally disabling for a period of not less than one year immediately preceding death, and the veteran was a former POW who died after September 30, 1999. 38 U.S.C. § 1318; 38 C.F.R. § 3.22(a). The total rating may be schedular, or may be a total disability rating based on individual unemployability (TDIU) due to service-connected disability (TDIU). 38 C.F.R. § 3.22(c).
+
+Here, at the time of his death, the Veteran was in receipt of a 100 percent rating from August 14, 2017. Thus, while he was considered totally disabled, he was not in receipt of the 100 percent rating for the 10 years immediately preceding death. He was similarly not continuously rated as totally disabling since his release from active duty and was not a former POW. He was not in receipt of a TDIU.
+
+The Board is sympathetic to the Appellant's assertion that the Veteran was rated as 100 percent disabling for 7 years prior to his death. See July 2024 Correspondence. However, the Board is bound by the law. As such, the appeal must be denied. See Sabonis v. Brown, 6 Vet. App. 426, 430 (1994).
+
+REASONS FOR REMAND
+
+The issue of entitlement to DIC under 38 U.S.C. § 1310 is remanded to correct a duty to assist error that occurred prior to the rating decision on appeal. VA obtained a medical opinion in August 2023 addressing the question of whether the Veteran's principle causes of death-acute hypoxic respiratory failure, Covid-19, or pneumonia-at least as likely as not were related to the Veteran's service-connected disabilities. The examiner opined against a relationship, reasoning that there was no "cause and effect relationship between the service-connected conditions and the cause of death." The examiner further noted that the service-connected conditions did not have any impact, or ability to increase the risk for developing Covid-19 or exacerbating its symptoms. Finally, the examiner explained that Covid-19 was a viral infection that was spread via airborne particles, and that the Veteran's service-connected conditions were due to overuse, injury, and wear and tear. The examiner concluded by noting that there were no findings listed that could increase one's risk of contracting Covid-19.
+
+When VA undertakes to obtain an evaluation, it must ensure that the evaluation is adequate. Barr v. Nicholson, 21 Vet. App. 303, 312 (2007). Given that the August 2023 medical opinion provides an inadequate rationale for the overall conclusion, the Board finds that a new opinion is necessary to correct this pre-decisional duty to assist error. In this regard, the examiner rendered broad conclusions without further explanation. Also, the examiner did not adequately address the relevant inquiry as to whether the service-connected disabilities resulted in a general impairment of health to an extent that would render the Veteran materially less capable of resisting the effects of his fatal respiratory failure.
+
+The matter is REMANDED for the following action:
+
+1. Obtain a supplemental opinion to provide an answer to the question posed below. The selected examiner must review the entire claims file.
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any of the Veteran's service-connected disabilities caused or contributed to the Veteran's death? In this connection, the reviewing clinician should indicate whether any of the Veteran's service-connected disabilities resulted in general impairment of health to an extent that would render the Veteran materially less capable of resisting the effects of his fatal condition, or otherwise had a material influence in accelerating death.
+
+If relying on medical literature, an explanation as to how such literature pertains to the facts of the Veteran's unique case and disability picture is necessary.
+
+A thorough medical rationale must accompany any opinion offered.
+
+ 
+
+ 
+
+Leetra J. Harris
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Polly Johnson, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

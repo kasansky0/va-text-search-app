@@ -1,0 +1,91 @@
+Citation Nr: A25032439
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 221222-311058
+DATE: April 8, 2025
+
+REMANDED
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had honorable active service with the United States Navy from October 1990 to September 1994.
+
+In the December 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the December 2021 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim above, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+Although further delay is regrettable, a remand is necessary to fulfill a pre-decisional duty to assist the Veteran.
+
+The Veteran has requested that his claim be remanded. The Veteran has argued that a November 2020 VA examination, prior to the date of this claim, shows that he has a current hearing loss disability. 
+
+In November 2020, the VA examination shows audiometric findings as follows: 
+
+Nov 2020	HERTZ	 	
+
+ 	500 	1000 	2000 	3000	4000 	Avg 	CNC
+
+RIGHT	20	30	30	35	35	32.50	100%
+
+LEFT	20	30	30	35	50	36.25	96%
+
+For the purposes of applying the laws administered by VA, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of these frequencies are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent. 38 C.F.R. § 3.385.
+
+The November 2020 findings include at least three frequencies above 26 decibels for each ear. As such, the November 2020 testing shows that the Veteran had a hearing loss disability for VA purposes. 
+
+Then the November 2021 VA examination shows that the Veteran does not have a current hearing loss disability.  
+
+The November 2021 VA examination shows audiometric findings as follows: 
+
+Nov 2021	HERTZ	 	
+
+ 	500 	1000 	2000 	3000	4000 	Avg 	CNC
+
+RIGHT	20	15	10	20	20	16	100%
+
+LEFT	15	15	15	20	20	18	100%
+
+If the Board were to find that he has had a hearing loss disability for VA purposes prior to the claim at issue, the next issue is whether the condition could be linked to his service. 
+
+The VA examiner in November 2021 stated that the Veteran had a normal hearing examination. Then the examiner stated that there was no exit examination. The examiner concluded that there was no current hearing loss due to military service for VA purposes. 
+
+However, the November 2021 VA examiner failed to address hearing loss testing during service from 1991, 1992, and 1993. The examiner also failed to address the November 2020 VA audiological testing. 
+
+Since the opinion provided is not fully adequate, the Board finds that the claim should be remanded to obtain an addendum opinion. 
+
+It is also unclear whether the service treatment records or other records from active-duty service are missing, as the Veteran's records do not appear to contain any report of examination at separation. Also, at the time of separation it appears that the Veteran was transferred to the navel reserves. See Certificate of Release or Discharge from Active Duty received July 2021. 
+
+Therefore, the Board remands the claim to obtain an adequate opinion and to obtain potentially missing records from service, and from subsequent service in the United States Navel Reserves. The Board finds that the claim is remanded for pre-decisional duty to assist errors or other errors. 
+
+The matters are REMANDED for the following action:
+
+1. Take all appropriate actions to attempt to obtain potentially missing service treatment records, including missing separation examination with audiometric testing. 
+
+All reasonable attempts should be made to obtain such records. If any records cannot be obtained after reasonable efforts have been made, issue a formal determination that such records do not exist or that further efforts to obtain such records would be futile, which should be documented in the claims file.  The Veteran must be notified of the attempts made and why further attempts would be futile, and allowed the opportunity to provide such records, as provided in 38 U.S.C. § 5103A(b)(2) and 38 C.F.R. § 3.159(e). 
+
+2. Obtain missing navel reserves records, to specifically consider whether he had any audiometric testing during this service that may be relevant to his claim. 
+
+3. After obtaining missing relevant records, obtain an addendum opinion and examination. If the Veteran fails to attend an examination, provide an opinion based on the available records. Please note that records show audiometric testing on entrance, and in 1991, 1992, and 1993. The Veteran may have had additional testing at separation or during service in the Reserves. The Veteran also had testing in November 2020, November 2021, and March 2024. After a thorough review of the medical and lay evidence of record, the examiner should opine as to the following:
+
+(a.) Is it at least approximately as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's hearing loss had its onset during active-duty service, is related to noise exposure during service, or began within one year after discharge from active service? Please consider that the Veteran has been granted service connection for tinnitus and that he has at least one audiogram showing his hearing loss was at levels considered a disability for VA purposes.  
+
+(b.) The examiner should provide a complete rationale for all opinions provided. If an opinion cannot be provided without resorting to mere speculation, the examiner should identify all medical and lay evidence considered in this conclusion, fully explain why this is the case and identify what additional evidence (if any) would allow for a more definitive opinion.
+
+ 
+
+ 
+
+B. MULLINS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Parnell, C. E.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

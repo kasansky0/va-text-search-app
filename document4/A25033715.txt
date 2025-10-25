@@ -1,0 +1,61 @@
+Citation Nr: A25033715
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 250310-524817
+DATE: April 11, 2025
+
+REMANDED
+
+Entitlement to Dependency and Indemnity Compensation (DIC) based on service connection for the Veteran's death is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from July 1966 to July 1969.  Unfortunately, the Veteran died in May 2022, and the appellant is his surviving spouse.
+
+Although the Veteran initially requested Higher-Level Review when submitting the December 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review, the Higher-Level Reviewer determined that there had been a duty to assist error and transferred the claim to the Supplemental Claim decision review option for additional development.  In February 2025, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which denied the claim based on the evidence of record at the time of that decision.  
+
+In the March 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the February 2025 AOJ supplemental claim decision on appeal. 38 C.F.R. § 20.301. If evidence was submitted after the AOJ issued the supplemental claim decision on appeal, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to service connection for the cause of the Veteran's death, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Entitlement to DIC based on service connection for the cause of the Veteran's death is remanded.
+
+Under the Appeals Modernization Act (AMA), the Board must remand to the AOJ to correct pre-decisional duty to assist errors (including when the AOJ failed to make reasonable efforts to obtain VA treatment records or relevant federal or private treatment records, failed to obtain a VA examination, or provided an             inadequate VA examination or opinion).  38 C.F.R. § 20.802 (a).
+
+For the reasons addressed below, the Board finds that VA failed to obtain an adequate medical opinion regarding the appellant's claim of entitlement to DIC based upon service connection for the cause of the Veteran's death.  As this constitutes a pre-decisional duty to assist error, remand is warranted.  
+
+Initially, the Board notes that the Veteran's death certificate documents that he died in May 2022 with the immediate cause of death listed as "natural causes" and in a "natural" manner, with no underlying or contributing conditions included.  At the time of death, the Veteran was service connected for posttraumatic stress disorder (PTSD), a right elbow scar with a retained foreign body, tinnitus, and residuals of a right hand rope burn.  
+
+The Appellant asserts that entitlement to service connection for the cause of the Veteran's death is warranted on a presumptive basis due to ischemic heart disease (IHD) that she believes is related to his presumed exposure to herbicide agents during active service in Vietnam.  In support of this assertion, the appellant's agent points out in a March 2025 appellant's brief that a submitted November 2001 private treatment record documents that the Veteran underwent an exercise stress test,  including an echocardiogram (ECG) that was "positive for ischemia."  Additionally, the appellant's further agent notes that a subsequent May 2022 private treatment record at the time of the Veteran's death documents that he had presented to the emergency room with a history of high cholesterol and complaining of having a heart attack, after which he sat in a chair and passed out.  Thereafter, he was treated via CPR and an electrocardiogram (EKG) showed atrial fibrillation with rapid ventricular response with premature ventricular or aberrantly conducted complexes, with indeterminate axis, pulmonary disease pattern, and ST segment and T-wave (ST&T) abnormality, "consider inferior ischemia." 
+
+Pursuant to the May 2024 HLR decision, VA obtained two medical opinions regarding the Veteran's cause of death in February 2025.  The VA examiner's first opinion found that the Veteran's principle causes of death, natural causes, or the contributing causes of death, to include atrial fibrillation with aberrant conduction complexes, was less likely than not related to the Veteran's service-connected disabilities. The examiner noted the lack of a prescription for a hypertensive medication(s) in the Veteran's, blood pressure readings within normal limits, and no diagnosis of hypertension in the Veteran's medical records.  The examiner further found that the Veteran's PTSD was unrelated and did not contribute to his cause of death because his cause of death was listed as "natural", the Veteran was in a "good mood despite stressors" prior to his death, and he did not have any diagnoses that would cause a natural death.
+
+The Board finds the February 2025 medical opinion inadequate to adjudicate the Appellant's claim for cause of death.  First, the Board notes that the provided medical opinions obtained focused solely on hypertension and PTSD; however, the Veteran was not service connected for hypertension, and the record does not otherwise document that the Veteran suffered from hypertension concurrent to his death.  Moreover, the appellant argues that the Veteran's cause of death was an ischemic heart condition, which potentially qualifies for presumptive service connection given the Veteran's confirmed Vietnam service and presumptive herbicide exposure.  See February 2025 rating decision; see also 38 C.F.R. § 3.309 (including in the list of presumptive diseases associated with herbicide exposure ischemic heart disease, including but not limited to acute, subacute, and old myocardial infarction; atherosclerotic cardiovascular disease including coronary artery disease).  Notably, the November 2001 and May 2022 private treatment records each document references to "ischemia" that was no considered by the VA examiner in rendering the opinion.  Additionally, the Veteran's post-service treatment records show that the Veteran had long-standing prescriptions for a daily asprin and statins, medications used to treat high cholesterol and prevent cardiovascular disease.  See e.g., January 2011 VA psychiatry note; January 2010 VA treatment note; and February 2010 VA treatment note. 
+
+The fact that the provided VA medical opinions did not address this relevant evidence related to potential ischemic heart disease that relates to the appellant's theory of entitlement renders the opinions inadequate for adjudication and warrants remand to correct the pre-decisional duty to assist error and to obtain an adequate medical opinion as to whether the Veteran's cause of death may be the result of ischemic heart disease that should be entitlement to presumptive service connection.
+
+The matters is REMANDED for the following action:
+
+Provide the claims file to a qualified VA examiner for an opinion regarding the appellant's claim of entitlement to DIC based upon service connection for the cause of the Veteran's death.  The entire claims file, including a copy of this Remand, must be made available to, and be reviewed by the examiner in conjunction with the requested opinion. 
+
+Following a review of the claims file, the examiner will address the following:
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's cause of death is the result of ischemic heart disease (including as an immediate cause of death, or other significant condition contributing to death).  Please state upon what facts and medical principles and/or medical literature you base this opinion.
+
+In providing the requested opinion, the examiner must consider all relevant lay and medical evidence, including the November 2001 and May 2022 private treatment records that each document references to "ischemia" and the Veteran's post-service treatment records which document his prescriptions for a daily asprin and statins, medications used to treat high cholesterol and prevent cardiovascular disease.
+
+The examiner must provide a complete rationale for each opinion given. If the examiner is unable to provide an opinion without resorting to mere speculation, he or she should explain why this is so. The examiner shall then explain whether the inability to provide a more definitive opinion is the result of a need for more information and indicate what additional evidence is necessary, or whether he or she has exhausted the limits of current medical knowledge in providing an answer to that question.
+
+ 
+
+ 
+
+D. C. JOHNSON
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Makarenko, Darya A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,117 @@
+Citation Nr: A25033519
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240826-467460
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea, to include as secondary to service-connected disabilities, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Navy from September 1996 to October 1999.
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal of a September 2023 rating decision from a Department of Veterans Affairs (VA) Regional Office (RO).
+
+Given the date of the rating decision on appeal, the Veteran's appeal is governed by the modernized review system, known by the Board as the Appeals Modernization Act (AMA).  38 C.F.R. §§ 3.2400, 19.2. 
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement (NOD)), the Veteran elected the direct review docket.  Therefore, the Board may only consider the evidence of record at the time of the September 2023 rating decision (i.e., agency of original jurisdiction (AOJ) decision) on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim for entitlement to service connection for obstructive sleep apnea, to include as secondary to service-connected disabilities, any evidence the Board could not consider may be considered on readjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+Entitlement to service connection for obstructive sleep apnea, to include as secondary to service-connected disabilities
+
+The Veteran generally contends that he has obstructive sleep apnea, secondary to his service-connected disabilities.  See June 2023 Veteran Statement.  More specifically, the Veteran reports that pain from his service-connected left ankle lateral collateral ligament sprain, and right ankle lateral collateral ligament sprain and instability make it difficult to fall or stay asleep.  He also reports gaining weight during service, and since his separation.  Id.
+
+Direct Service Connection
+
+Although the Veteran argues he is entitled to service connection for obstructive sleep apnea on a secondary basis, the Board observes that entitlement on a direct basis is reasonably raised by the record.  See Robinson v. Shinseki, 557 F.3d 1355 (2008).
+
+Turning to the direct service connection framework, in the September 2023 rating decision, the RO found the Veteran is diagnosed with obstructive sleep apnea.  See also August 2023 Home Sleep Test Report.  As the Board is bound by the RO's favorable findings, the first criteria for direct service connection, a current disability, has been met.  38 U.S.C. § 5104A; 38 C.F.R. § 3.104(c).  
+
+The next issue is whether the Veteran had an in-service incurrence.  The Veteran's military occupational specialty (MOS) listed on his DD Form 214 is submarine nuclear propulsion plant operator-electrical.  His participation in a toxic exposure risk activity (TERA) has been conceded, given his in-service exposure to ionizing radiation as a submarine nuclear propulsion operator.  See generally Military Personnel Records.  Accordingly, the second criteria for direct service connection, an in-service incurrence, has been met. 
+
+Therefore, the remaining question is whether the Veteran's obstructive sleep apnea is related to his active service, to include the conceded toxic exposure from his MOS.  
+
+To that point, in July 2023, the Veteran was afforded a VA examination for sleep apnea.  However, there is no medical opinion of record to address whether there is a link (i.e., nexus) between the Veteran's current diagnosis of obstructive sleep apnea and his active service, to include his conceded participation in a TERA.
+
+Under the AMA, a remand by the Board is proper for correction of (1) duty to assist errors occurring prior to the date of the AOJ decision on appeal (i.e., pre-decisional duty to assist errors) and (2) AOJ errors in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the Veteran's claim.  38 C.F.R. § 20.802(a).  
+
+Pursuant to the Sergeant First Class Heath Robinson Honoring Our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act), where a Veteran submits a service connection claim with evidence of a disability and evidence of participation in a TERA during active military service and such evidence is not sufficient to establish service connection for the disability, the Secretary shall provide the Veteran with a medical examination and secure a nexus opinion unless VA determines that there is no assertion that the claimed disorder is related to the TERA.  See 38 U.S.C. § 1168; see also Pub. L. No. 117-168, 136 Stat. 1759 (2022).  Thus, a remand is necessary in this case to correct an AOJ error in satisfying a statutory duty (i.e., securing a nexus opinion), because the correction of the error would have a reasonable possibility of aiding in substantiating the Veteran's claim.  38 C.F.R. § 20.802(a). 
+
+Secondary Service Connection
+
+Turning to the secondary service connection framework, in the September 2023 rating decision, the RO found the Veteran is diagnosed with obstructive sleep apnea.  The RO also found the Veteran is service connected for left ankle lateral collateral ligament sprain, and right ankle lateral collateral ligament sprain and instability.  As the Board is bound by the RO's favorable findings, the first and second criteria for secondary service connection, a current disability (not already service connected) and a primary service-connected disability, have been met.  38 U.S.C. § 5104A; 38 C.F.R. § 3.104(c).  
+
+Therefore, the remaining question is whether the Veteran's obstructive sleep apnea is caused by, or aggravated by, his service-connected ankle disabilities.  See generally 38 C.F.R. § 3.310.
+
+To that point, in July 2023, the Veteran underwent a VA examination for sleep apnea.  The July 2023 VA examiner determined that the Veteran's obstructive sleep apnea was less likely than not proximately due to, or the result of, his service connected ankle disabilities.  As rationale, the examiner stated that obstructive sleep apnea is due to obstruction in the oral airway and not due to the Veteran's ankle condition.  The examiner also concluded the Veteran's ankle condition is not the sole reason for his weight gain since separation from active duty, as diet, aging, and slowing of the metabolism all contribute to weight gain.  In addition, the examiner remarked that the Veteran's gait is normal, and he is able to participate in low impact exercise.  Thus, the examiner offered a negative nexus.
+
+The July 2023 VA examiner's opinion is inadequate for two reasons.  First, the VA examiner's opinion is inadequate because the incorrect standard for causation is applied.  In March 2023, the United States Court of Appeals for the Federal Circuit (Federal Circuit) invalidated the requirement of "proximate cause."  In Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023), the Federal Circuit held a "but for" causation or aggravation is enough to show entitlement to secondary service connection.  The Federal Circuit explained that "but-for causation" is a broader standard than proximate causation and can include multi-causal links, including action and inaction.  Pursuant to Spicer, secondary service connection is warranted where a non-service-connected disability would have been less severe "but for" a service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability.  
+
+The VA examiner's opinion is also inadequate because the nexus discussion is limited to whether the Veteran's obstructive sleep apnea is caused by the Veteran's service-connected ankle disabilities and aggravation solely based on the theory of obesity as an intermediate step.  See Walsh v. Wilkie, 32 Vet. App. 300 (2020).  The examiner did not address whether the Veteran's obstructive sleep apnea is aggravated by his service-connected ankle disabilities, without taking into consideration obesity.  Therefore, the opinion is inadequate because it does not address both the "caused by" and "aggravation" avenues of secondary service connection associated with the Veteran's obstructive sleep apnea.  See El-Amin v. Shinseki, 26 Vet. App. 136 (2013).
+
+In the September 2023 AMA rating decision, the AOJ denied the claim without obtaining an addendum opinion to address the deficiencies above.  This was a pre-decisional duty to assist error, and a remand is necessary to correct it.  38 C.F.R. § 20.802(a). 
+
+The Board acknowledges that, in June 2023, a positive nexus opinion was provided by K.M., APRN, who concluded the Veteran's weight gain and obesity is due to and/or related to his service connected ankle disabilities.  APRN K.M. also concluded that it is at least as likely as not that without the Veteran's weight gain and obesity, his obstructive sleep apnea would not have occurred.  As rationale, APRN generally indicated the opinion was based on the Veteran's self-reported diagnosis and weight gain after developing musculoskeletal symptomatology related to his service-connected disability condition, his reported obstructive sleep apnea symptomatology, and medical literature.  In her rationale, APRN K.M. mostly cited medical literature, which she discussed in detail.  Nevertheless, the Board notes that APRN K.M.'s opinion is conclusory and not supported with a reasoned medical explanation based on the specific facts of the Veteran's case.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (holding that it is the factually accurate, fully articulated, sound reasoning for the conclusion that contributes to the probative value of a medical opinion); Stefl v. Nicholson, 21 Vet. App. 120, 125 (2007) (holding that a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision as to what weight to assign to the doctor's opinion).  Accordingly, APRN K.M.'s opinion cannot support a grant of service connection.   
+
+The matter is REMANDED for the following action:
+
+Obtain an addendum opinion from an appropriate VA examiner as to the questions below.  If the reviewing examiner determines that it is not possible to offer an opinion without first examining the Veteran, then schedule the Veteran for an appropriate VA examination.  The entire claim file, to include all electronic files, must be reviewed by the examiner.  
+
+Direct Service Connection
+
+(A)	Regardless of whether an examination is performed, the examiner is to state whether it is at least as likely as not that the Veteran's obstructive sleep apnea had its onset during his active service, or is otherwise related to his active service, to include his participation in a TERA.  
+
+In answering this question, the examiner must consider the following: (1) the Veteran's total potential exposure through all applicable deployments, and (2) the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  
+
+Secondary Service Connection
+
+Left Ankle Lateral Collateral Ligament Sprain
+
+(B)	The examiner is to state whether it is at least as likely as not that the Veteran's obstructive sleep apnea is due to, or caused by, his service-connected left ankle lateral collateral ligament sprain.
+
+(C)	The examiner is to also state whether it is at least as likely as not that the Veteran's obstructive sleep apnea is aggravated by his service-connected left ankle lateral collateral ligament sprain.  
+
+Note that aggravation means any incremental increase in disability in non-service-connected disabilities (i.e., any additional impairment in earning capacity, worsening of functionality) resulting from service-connected disabilities.
+
+Right Ankle Lateral Collateral Ligament Sprain and Instability
+
+(D)	The examiner is to state whether it is at least as likely as not that the Veteran's obstructive sleep apnea is due to, or caused by, his service-connected right ankle lateral collateral ligament sprain and instability.
+
+(E)	The examiner is to also state whether it is at least as likely as not that the Veteran's obstructive sleep apnea is aggravated by his service-connected right ankle lateral collateral ligament sprain and instability.  
+
+Note that aggravation means any incremental increase in disability in non-service-connected disabilities (i.e., any additional impairment in earning capacity, worsening of functionality) resulting from service-connected disabilities.
+
+Obesity
+
+(F)	The examiner is to state:
+
+a.	Whether a service-connected disability (or any combination of service-connected disabilities) caused the Veteran to become obese.
+
+b.	Whether a service-connected disability (or any combination of service-connected disabilities) aggravated his obesity.
+
+c.	If the answer to (a) or (b) is yes, is it at least as likely as not that the Veteran's obesity (whether obesity was caused or aggravated by his service-connected disabilities) was a substantial factor in causing or aggravating the Veteran's obstructive sleep apnea?
+
+d.	If the answer to (a) or (b) is yes, is it at least as likely as not that the Veteran's obstructive sleep apnea would not have occurred but for the Veteran's obesity?
+
+The examination report must include a complete rationale for all opinions expressed and conclusions reached.  The examiner is reminded that the term "as likely as not" does not mean "within the realm of medical possibility," but rather that the likelihood is at least approximately balanced or nearly equal, if not higher. 
+
+The examiner is instructed that the lack of documented treatment in service, or a long period after, while probative, cannot serve as the sole basis for a negative 
+
+?
+
+finding.  The Veteran's lay contentions must be considered and weighed in making the determination.
+
+ 
+
+M. C. WILSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. Neal, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

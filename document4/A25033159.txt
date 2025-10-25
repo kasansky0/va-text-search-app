@@ -1,0 +1,135 @@
+Citation Nr: A25033159
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240525-443446
+DATE: April 9, 2025
+
+ORDER
+
+Service connection for hearing loss is denied.
+
+REMANDED
+
+Service connection for a back condition.
+
+Service connection for gastroesophageal disease (GERD).
+
+?
+
+FINDING OF FACT
+
+The Veteran does not have hearing loss for VA purposes. 
+
+CONCLUSION OF LAW
+
+The criteria for service connection for hearing loss have not been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.385. 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 2018 to April 2019. 
+
+This matter is on appeal from March 2024, February 2024, and November 2023 rating decisions. 
+
+In a May 2024 notice of disagreement (NOD), the Veteran elected the direct review docket.  With respect to the back condition claim, the Board may only consider the evidence of record at the time of the March 2024 agency of original jurisdiction (AOJ) decision on appeal.  Regarding the hearing loss claim, the Board can only consider the evidence of record at the time of the February 2024 rating decision, and with respect to the GERD claim, the Board can only consider the evidence of record at the time of the November 2023 decision.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, regarding the remanded claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+In the May 2024 NOD, the Veteran included tinnitus as an issue he sought to appeal.  The Board notes that the AOJ last adjudicated the Veteran's tinnitus claim in an October 2022 rating decision, for which the AOJ granted the claim.  Although it is unclear what the Veteran seeks on appeal with respect to the tinnitus claim, because the Veteran did not appeal the October 2022 rating decision within the one-year period, the Board cannot adjudicate the claim.  
+
+As such, the Board will only adjudicate the hearing loss, back condition, and GERD claims. 
+
+The Board has limited the discussion below to the relevant evidence required to support its finding of fact and conclusion of law, as well as to the specific contentions regarding the case as raised directly by the Veteran and those reasonably raised by the record.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Peake, 21 Vet. App. 545, 552 (2008).
+
+Service connection for hearing loss.
+
+Legal Criteria 
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service.  See 38 U.S.C. § 1110; 38 C.F.R. § 3.303.  A veteran seeking compensation under these provisions must establish three elements: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service."  Saunders v. Wilkie, 886 F.3d 1356, 1361 (Fed. Cir. 2018) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)).
+
+For VA disability purposes, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies of 500, 1000, 2000, 3000, or 4000 Hertz (Hz) is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies of 500, 1000, 2000, 3000, and 4000 Hz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.
+
+Analysis
+
+The Veteran claims service connection for hearing loss related to service.  No specific contentions were made outside of submission of the claim and appeal forms.
+
+Initially, in the February 2024 rating decision, the AOJ established the Veteran's participation in a toxic exposure risk activity based on his exposure to fine particulate matter during service in Kuwait.  Additionally, the AOJ favorably found that the Veteran had a qualifying in-service event or injury based on his MOS of utilities repair, which has a high probability for hazardous noise exposure.  The Board is bound by these?prior favorable findings, which were not clearly and unmistakably erroneous.  38 C.F.R. § 3.104(c).
+
+However, there is insufficient evidence that the Veteran has hearing loss for VA purposes.  The Veteran was afforded a VA audiological examination in January 2024.  The examiner administered a puretone thresholds test and Maryland CNC speech discrimination test with the following results, in decibels (dB):
+
+ 	 	 	HERTZ	 	 	
+
+	500	1000	2000	3000	4000	CNC
+
+RIGHT	10	10	5	10	10	100%
+
+LEFT	10	10	10	15	5	100%
+
+Because auditory thresholds were not 40 decibels or greater in any of the frequencies, or 26 decibels or greater in at least three of the frequencies, and because the speech recognition scores were not less than 94 percent, a current hearing loss disability for VA purposes is not established.  See 38 C.F.R. § 3.385.  There are no other hearing loss evaluations of record.  Accordingly, the evidence does not support a finding of hearing loss under the strict requirements of 38 C.F.R. § 3.385.
+
+In consideration of this evidence, the Board finds that the Veteran does not have a hearing loss disability for VA purposes.  Accordingly, the evidence is persuasively against the claim.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and service connection for hearing loss is not warranted.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+REASONS FOR REMAND
+
+Service connection for a back condition.
+
+The Veteran contends that he has a back condition related to active duty.  Specifically, the Veteran contends that he injured his back during service after falling off a tank.  The Veteran additionally stated that his back pain worsened from ruck marches and carrying heavy objects, and that his back pain has continued since separation from service.  See February 2024 VA examination.  
+
+Initially, in a November 2021 rating decision, the AOJ favorably found that the Veteran has lumbosacral and thoracolumbar strain diagnoses.  During a September 2021 VA examination, the examiner concluded that the Veteran has lumbosacral strain and thoracolumbar strain.  Additionally, the November 2021 rating decision established that the Veteran had a qualifying in-service injury based on October 2019 complaints of back pain and has a continuity of back pain complaints from November 2019 to September 2021.  The Board is bound by these?prior favorable findings, which were not clearly and unmistakably erroneous. 38 C.F.R. § 3.104(c).
+
+In September 2021, the Veteran was afforded a VA back examination.  The diagnoses were lumbosacral strain and thoracolumbar strain.  The Veteran indicated the onset and continuity of his back pain during service after falling and injuring his back.  The examiner concluded that the Veteran's back condition was less likely than not related to service because the Veteran denied back pain during his October 2019 separation exam and there is no record of chronic back pain listed in the Veteran's file.
+
+The Veteran was afforded another VA back examination in February 2024.  The diagnosis was cervical strain.  The examiner concluded that the Veteran's back condition is less likely than not related to service because there is no evidence in the available records for a diagnosis or treatment for a cervical spine condition, and therefore, no nexus has been established. 
+
+The Board finds the September 2021 and February 2024 examinations inadequate to decide the claim.  First, the Board finds that the opinions are based on an inaccurate factual premise, and accordingly, are of diminished probative value.  See Reonal v. Brown, 5 Vet. App. 458, 461 (1993) (A medical opinion based on an inaccurate factual premise has no probative value.); see also Monzingo v. Shinseki, 26 Vet. App. 97, 107 (2012) ("If the opinion is based on an inaccurate factual premise, then it is correct to discount it entirely.").  Here, both examiners asserted an absence of evidence in the Veteran's records for treatment of back pain.  However, the Veteran's VA treatment records reveal that the Veteran was receiving treatment for upper and lower back pain as early as November 2019, only seven months after separation from service.  Additionally, the Veteran's September 2023 VA treatment records show that he was still receiving treatment for his upper and lower back.  In doing so, the examiners also relied on absence of documented evidence after service without explaining why, as a medical matter, the Veteran would have sought treatment of complained of the condition after service, or why an absence of documented treatment or symptoms (as opposed to undocumented symptoms) was otherwise medically significant.  See McKinney v. McDonald, 28 Vet. App. 15, 30 (2016); Fountain v. McDonald, 27 Vet. App. 258, 272-75 (2015); Buczynski v. Shinseki, 24 Vet. App. 221, 223-24 (2011).  
+
+Lastly, the examiners failed to consider the Veteran's lay assertions that he injured his back during service after falling, and that his back pain has continued since separation from service.  See Miller v. Wilkie, 32 Vet. App. 249, 254 (2020); see also Dalton v. Nicholson, 21 Vet. App. 23, 39 (2007) (finding that an examiner impermissibly ignored the appellant's lay assertions).  
+
+As such, remand is required to correct the pre-decisional duty to assist errors and to afford the Veteran an adequate VA examination and opinion.  38 C.F.R. § 20.802(a).
+
+Service connection for GERD. 
+
+The Veteran claims service connection for GERD.  No specific contentions were made outside of submission of the claim and appeal forms.
+
+Initially, in the November 2023 rating decision, the AOJ established the Veteran's participation in a TERA based on his service in Kuwait.  The Board is bound by this?prior favorable finding, which was not clearly and unmistakably erroneous.  38 C.F.R. § 3.104(c).
+
+The Veteran was afforded an October 2023 VA examination in connection with the claim.  The Veteran reported symptoms of acid reflux and regurgitation, and the examiner noted the objective presence of these symptoms.  However, the examiner declined to find a diagnosis of GERD because there was no evidence of persistent or recurrent symptoms for a diagnosis of GERD.  In an October 2023 TERA opinion, the examiner concluded that the Veteran's GERD is less likely than not related to service because there is no pathology to warrant a diagnosis or condition that can be related to the Veteran's established TERA. 
+
+The Board finds both opinions inadequate to decide the claim.  First, the October 2023 direct service connection opinion is internally consistent.  Here, the examiner concluded the Veteran does not have objective GERD symptoms, and thus, no diagnosis.  However, during the October 2023 VA examination, the Veteran subjectively reported, and the examiner objectively noted, the Veteran's symptoms of acid reflux and regurgitation, two symptoms directly contemplated by the examination as signs and symptoms of GERD.  Additionally, the TERA opinion is conclusory without an adequate rationale.
+
+As such, remand is required to correct the pre-decisional duty to assist errors and to afford the Veteran an adequate VA examination and opinion.  38 C.F.R. § 20.802(a).
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for an examination by an orthopedist to determine the nature and etiology of the Veteran's diagnosed back condition.  The examiner should review the entire claims file in conjunction with the examination. 
+
+The examiner should state whether it is at least as likely as not that the Veteran's diagnosed back condition had its onset during service or is etiologically related to service. 
+
+The examiner should address the Veteran's lay assertions that his back condition started in service, was caused by a falling injury, worsened from ruck marches and carrying heavy objects, and continued after separation.
+
+The examiner should address the Veteran's continuity of ongoing treatment for his back following separation from service.
+
+The examiner should not rely on silence in the medical records unless it can be explained: (a) why the silence in the available records can be taken as proof that the symptoms did not occur, including why the fact would have normally been recorded if present, or (b) why the absence of medical records is medically significant.
+
+2. Schedule the Veteran for a VA examination by a gastroenterologist to determine whether the Veteran has GERD.  The examiner should review the entire claims file and this remand in conjunction with the examination.  If a diagnosis cannot be provided, the examiner must explain why.
+
+If the Veteran has GERD, the examiner should provide an opinion assessing the nature and etiology of the disability, including the Veteran's established participation in a TERA.  The examiner should opine as to whether it is at least as likely as not that the Veteran's GERD had its onset during service or is etiologically related to service, to include his TERA. 
+
+The examiner should address all potential GERD symptomatology, including acid reflux and regurgitation.  If the examiner notes objective symptoms of GERD, but does not find a diagnosis, the examiner should explain the nature and etiology of those symptoms. 
+
+A rationale should be provided for opinions expressed.  If an opinion cannot be offered without resorting to speculation, the reason for this should be fully explained in the opinion.
+
+ 
+
+ 
+
+RYAN T. KESSEL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Fyffe, Michael C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

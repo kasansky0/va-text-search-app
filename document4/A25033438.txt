@@ -1,0 +1,73 @@
+Citation Nr: A25033438
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240919-475209
+DATE: April 10, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea (OSA) secondary to service-connected posttraumatic stress disorder (PTSD) with major depressive disorder and alcohol use disorder is granted.
+
+FINDING OF FACT
+
+The Veteran's OSA is proximately due to service-connected PTSD with major depressive disorder and alcohol use disorder.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA as secondary to service-connected PTSD with major depressive disorder and alcohol use disorder are met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310(a).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran had active service in the U.S. Navy from February 1983 to February 1987, and had additional periods of Reserve service.
+
+Although the Veteran initially requested Higher-Level Review when submitting the January 2024 VA Form 20-0996, Decision Review Request: Higher-Level Review, the Higher-Level Reviewer determined that there had been a duty to assist error and transferred the claim to the Supplemental Claim decision review option for additional development. 
+
+This case comes to the Board of Veterans' Appeals (Board) on appeal from an August 2024 decision of the Agency of Original Jurisdiction (AOJ) which found that new and relevant evidence had been received, and denied the claim of service connection for OSA based on the evidence of record at the time of that decision.  
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the August 2024 AOJ supplemental claim decision on appeal. 38 C.F.R. § 20.301. If evidence was submitted after the AOJ issued the supplemental claim decision on appeal, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board acknowledges that it is issuing a decision on this appeal before the deadline for requesting an Appeals Modernization Act (AMA) docket switch has elapsed. See Williams v. McDonough, 37 Vet. App. 305 (2024); 38 C.F.R. § 20.202(c)(2) (allowing a claimant to switch AMA dockets by completing and submitting a new Notice of Disagreement (NOD) within one year from the date AOJ mails notice of the decision on appeal, or 60 days from when the Board receives the NOD, whichever is later; unless a claimant has already submitted evidence or testimony as described in 38 C.F.R. §§ 20.302 and 20.303). However, in the instant case, as the Board is awarding the full relief sought by the Veteran, there is no prejudice to him by adjudicating this claim at this time.
+
+Service Connection
+
+Under 38 C.F.R. § 3.310(a), disability that is proximately due to or the result of a service-connected disease or injury is service connected.
+
+Obesity is not a disease, an in-service event, or a disability for purposes of VA disability compensation. However, obesity may qualify as an intermediate step between a service-connected disability and a current disability. 
+
+A current disability may be service-connected due to obesity where 1) a service-connected disability caused a veteran to become obese, (2) the obesity resulting from the service-connected disability was a substantial factor in causing the current disability, and (3) the current disability would not have occurred but for obesity caused by the service-connected disability. See VAOPGCPREC 1-2017 (January 6, 2017).
+
+Service connection for OSA, including as secondary to service-connected PTSD with major depressive disorder and alcohol use disorder
+
+The Veteran asserts that his OSA began during service and continued afterward until it was finally diagnosed in 2019. Alternatively, he contends that his OSA is secondary to service-connected PTSD, including based on obesity as an intermediate step. See January 2024 representative's brief, and his reported history at the February 2022 and June 2024 VA examinations.  As secondary service connection pursuant to 38 C.F.R. § 3.310(a) is supported, only that theory of entitlement will be addressed, as it is no less favorable to the Veteran than an award of direct service connection.
+
+Here, the Veteran has a current diagnosis of obstructive sleep apnea, and is service-connected for PTSD with major depressive disorder and alcohol use disorder.  See June 2024 VA examination report; August 2024 rating decision favorable findings; 38 C.F.R. § 3.104(c).  Thus, the question for the Board is whether the Veteran's OSA is at least as likely as not proximately due to or aggravated by service-connected PTSD with major depressive disorder and alcohol use disorder.
+
+There is conflicting evidence in this regard.  Against the claim is the opinion of the February 2022 VA examiner, who opined that OSA is less likely than not proximately due to or the result of the Veteran's service-connected PTSD. The examiner's rationale was that PTSD and OSA may be comorbid (exist together), however no causal relationship has been established by peer review medical journals. The examiner noted that well-defined risk factors for OSA include older age, male gender, obesity, craniofacial abnormalities, and upper airway soft tissue abnormalities. Potential risk factors include smoking, nasal congestion, and family history. The examiner also stated that PTSD is a psychiatric disorder, and does not cause the anatomical or physiological changes associated with sleep apnea, namely the recurrent collapse of the pharyngeal airway during sleep. Critically, the examiner did not directly address whether the service-connected PTSD with major depressive disorder and alcohol use disorder aggravated any functional impairment associated with the non-service-connected disability.
+
+In an August 2023 opinion, a private physician, Dr. G., disagreed with the February 2022 VA examiner's opinion, and stated that sleep disturbance is a primary feature of PTSD and does indeed affect the anatomical or physiological changes associated with sleep apnea, namely the recurrent collapse of the pharyngeal airway during sleep.  Dr. G. noted that sleep fragmentation has been found to increase the propensity for upper airway collapse in patients with sleep apnea, and in fact leads to a higher upper airway collapsibility than does sleep deprivation.  He also noted that studies of sleep-deprived patients have shown increased frequency and length of apneic events, and indicated that therefore the VA examiner's statement that "no causal relationship has been established by peer review medical journals" is unfounded. Dr. G. cited medical literature in support of his opinion.
+
+Dr. G. agreed that obesity is certainly a well-documented risk factor for the development and progression of OSA, and noted that the medical record indicates that the Veteran's weight was elevated at the time of his September 2019 diagnosis of OSA, with a BMI of 33.9, and he later reported additional weight gain associated with Mirtazapine during a June 2020 psychiatry session. Dr. G. also noted that the Veteran's service treatment records showed weight gain in service. He stated that there is evidence in the empirical research literature that PTSD is the mental condition most likely to cause weight gain and obesity, and that the Veteran has another significant risk factor for OSA which has been directly correlated with his service-connected PTSD: alcohol use. He indicated that alcohol use is also a well-established cause of weight gain. Dr. G. opined that when considered collectively, the Veteran's long history of poor sleep, awakenings throughout the night, continued alcohol use, and weight gain due to his PTSD all contributed to the development of his sleep apnea. He concluded that based on the extensive medical research, a careful review of the medical record, and his clinical experience, it is more than reasonable and at least as likely as not that the Veteran developed OSA secondary to his service-connected PTSD.
+
+Additional VA medical opinions were obtained in November 2023 and June 2024, and the examiners provided negative opinions as to whether the Veteran's OSA is secondary to service-connected PTSD. However, the supporting rationales of such opinions are inadequate, and therefore the opinions are less probative than the August 2023 private medical opinion. 
+
+The November 2023 VA examiner opined that it is less likely than not that the Veteran's OSA is proximately due to PTSD. The rationale was that OSA is a diagnosis with a clear and specific etiology, and is characterized by recurrent collapse of the velopharyngeal and/or nasopharyngeal airway during sleep. The examiner noted there is no medical or scientific evidence to show that PTSD or anxiety is a causative effect that can or would produce recurrent collapse of the velopharyngeal and/or nasopharyngeal airway during sleep. The examiner also indicate while some research has shown a possible correlation between the two conditions, no causative relationship has been established.  Critically, the examiner did not directly address whether the service-connected PTSD with major depressive disorder and alcohol use disorder aggravated any functional impairment associated with the non-service-connected disability.
+
+The June 2024 VA examiner opined that service-connected PTSD (to include medications prescribed) did not cause the Veteran to become obese, and obesity did not result from the service-connected PTSD. The rationale was that the Veteran's service-connected PTSD does not preclude all forms of exercise, and obesity is most commonly caused by a combination of excessive food intake, and lack of physical activity, which is a choice. Obesity is a medical condition in which excess body fat has accumulated to the extent that it may have a negative effect on health. As per recent 2020 Journal of Obesity article and a large majority opinion in UPTODATE literature search, many conditions are associated with obesity, BMI is a corollary of certain conditions, however, the available data cannot confirm that BMI caused the diseases. Obesity can increase risk, but cannot be shown to have causality. 
+
+The June 2024 VA examiner opined that it is less likely than not that the Veteran's OSA is aggravated by PTSD with major depressive disorder and alcohol use disorder. The examiner did not directly address whether the service-connected PTSD with major depressive disorder and alcohol use disorder aggravated any functional impairment associated with the non-service-connected disability. The examiner also stated that he could not determine a baseline level of severity of OSA, and therefore failed to provide a sufficient rationale for his opinion as to secondary service connection based on aggravation. 
+
+Upon review of the record, the Board finds the evidence to at least be in approximate balance as to whether the Veteran's current OSA is proximately due to service-connected PTSD with major depressive disorder and alcohol use disorder.  Thus, the benefit-of-the-doubt rule is applicable, and the claim for secondary service connection for OSA is granted. See 38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 3.310(a); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021). 
+
+ 
+
+S. BUSH
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C.L. Wasser, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

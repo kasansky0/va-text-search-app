@@ -1,0 +1,97 @@
+Citation Nr: A25033773
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 200806-101363
+DATE: April 11, 2025
+
+REMANDED
+
+Entitlement to service connection for bilateral hearing loss is remanded.  
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Air Force from May 1980 to July 1984.
+
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a November 2019 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO).  In the October 2020 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2019 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to service connection for bilateral hearing loss, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+As an initial matter, the Board notes that the Veteran's October 2019 VA Form 10182 attempted to appeal an August 2019 rating decision.  This appeal, if accepted, would be untimely as it was filed more than one year after the date of the referenced rating decision.  Thus, the Veteran's claim of entitlement to service connection for bilateral hearing loss would require dismissal.  However, the Board notes that the Veteran filed a supplemental application in September 2019, and a subsequent rating decision continuing the denial of service connection was issued in November 2019.  See September 2019 VA Form 20-0995; November 2019 Rating Decision.  As such, the Board has liberally construed the Veteran's 10182 and will assume that he intended to appeal the more recent rating decision.  See 38 C.F.R. § 20.202(a).
+
+Entitlement to service connection for bilateral hearing loss is remanded.  
+
+The Board regrets the delay associated with this remand.  However, upon review, the Board finds that remand is required to correct a pre-decisional duty to assist error.  Specifically, remand is required to obtain an adequate VA medical opinion addressing the nature and etiology of the Veteran's bilateral hearing loss.  See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).
+
+In October 2019, the Veteran was afforded a VA examination for his bilateral hearing loss.  See October 2019 Hearing Loss and Tinnitus Disability Benefits Questionnaire (DBQ).  The examiner opined that it was less likely than not that the Veteran's bilateral hearing loss was incurred in, or was otherwise related to, his active-duty service.  Id.  In support of this opinion, the examiner stated that there was no positive threshold shift noted in service and that there "is no documentation of hearing loss since military separation."  Id.  No additional analysis was proffered.
+
+The Board finds that the October 2019 VA medical opinion is inadequate for adjudication purposes as it improperly relies on the absence of evidence, specifically, the lack of treatment since the Veteran's active-duty service.  See Dalton v. Nicholson, 21 Vet. App. 23 (2007) (an examination was inadequate where the examiner did not comment on a veteran's report of in-service injury and instead relied on the absence of evidence in a veteran's service medical records to provide a negative opinion).  
+
+Further, although the VA examiner indicated that there was no permanent threshold shift during service, she did not provide any additional analysis regarding the Veteran's service treatment records (STRs).  The Board notes that the Veteran underwent numerous audiograms while serving on active duty.  These audiograms are of particular relevance as they document extremely varied results.  For example, in August 1981, the Veteran underwent an audiogram which documented puretone thresholds, in decibels (dB), as follows: 
+
+		HERTZ		
+
+	500	1000	2000	3000	4000
+
+RIGHT	30	45	55	65	55
+
+LEFT	35	25	25	45	55
+
+See August 1981 Reference Audiogram.
+
+However, in September 1983, the Veteran underwent an audiogram which documented puretone thresholds, in decibels (dB), as follows: 
+
+		HERTZ		
+
+	500	1000	2000	3000	4000
+
+RIGHT	5	5	5	10	10
+
+LEFT	5	5	5	5	15
+
+See September 1983 Reference Audiogram.  
+
+The foregoing is illustrative of the varied results recorded throughout the Veteran's STRs.  The VA examiner did not address these results in the October 2019 medical opinion, nor did she explain whether the varied results might be indicative of acoustic trauma which could have caused hearing loss.  As the examiner's opinion was not supported by a thorough and well-reasoned rationale, the Board finds that it is conclusory and, therefore, inadequate for adjudication purposes.  See Stefl v. Nicholson, 21 Vet. App. 120 (2007); Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008).
+
+Upon consideration of the above, the Board finds that remand is required to afford the Veteran an adequate VA medical opinion addressing the nature and etiology of his bilateral hearing loss.  See Barr v. Nicholson, supra.
+
+The matters are REMANDED for the following action:
+
+1. Obtain a VA medical opinion from an appropriate clinician regarding the nature and etiology of the Veteran's bilateral hearing loss.  The entire claims file must be provided to, and reviewed by, the examiner.  If deemed necessary, an examination should be conducted and any indicated tests, studies, or evaluations should be performed.
+
+The examiner is asked to: 
+
+(a.) If an examination is conducted, obtain the Veteran's detailed lay history, including the onset and progression of symptomatology.  
+
+(b.) Opine as to whether the Veteran's bilateral hearing loss was at least as likely as not (i.e. likelihood is at least approximately balanced or nearly equal) incurred in or caused by the Veteran's active-duty service.
+
+(c.) Discuss the Veteran's STRs and provide a detailed analysis as to whether the varied results are indicative of acoustic trauma.  If so, explain whether the acoustic trauma could have resulted in the Veteran's current hearing loss.  If there is an alternate explanation for the Veteran's varied audiogram results, provide a detailed analysis of such.  
+
+"	The term at least as likely as not does not mean within the realm of medical possibility.  Rather, it means that the weight of the medical evidence both for and against a conclusion is at least approximately balanced, or nearly equal, and therefore it is at least as medically sound to find in favor of the conclusion (e.g., etiology) as it is to find against the conclusion.
+
+"	Any opinion expressed by the physician should be accompanied by a complete rationale.  If medical literature is relied upon in rendering a determination, the physician should specifically cite the reference material utilized.  If the physician cannot offer an opinion without resort to speculation, a thorough explanation as to why should be provided.
+
+"	The physician is advised that the Veteran is competent to report symptoms, treatment, and injuries, and that his reports must be taken into account in formulating the requested opinions.
+
+"	The examiner should not rely solely on silence of the medical records without explaining: (a) why silence can be taken as proof that the symptom(s) did not occur, including why it would have normally been recorded if present, or (b) why the absence of medical records is medically significant.
+
+2. The AOJ must review the claims file and ensure that the foregoing development actions have been completed in full.
+
+(a.)  If any development action is incomplete, the appropriate corrective action must be implemented.
+
+(b.)  If any report or opinion does not include adequate responses to the specific opinions requested, it must be returned to the providing examiner for corrective action.
+
+ 
+
+ 
+
+YVETTE R. WHITE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Zachary J. Ellis, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

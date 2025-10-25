@@ -1,0 +1,191 @@
+Citation Nr: A25033926
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240515-440576
+DATE: April 11, 2025
+
+REMANDED
+
+Entitlement to service connection for an acquired psychiatric disorder, to include anxiety and/or depression, is remanded.
+
+Entitlement to service connection for sinusitis is remanded.
+
+Entitlement to service connection for diverticulosis and benign neoplasm rectosigmoid junction is remanded.
+
+Entitlement to service connection for gastroesophageal reflux disease (GERD) and reflux esophagitis is remanded.
+
+Entitlement to service connection for a right knee disability is remanded.
+
+Entitlement to service connection for a left knee disability is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active duty service in the United States Army from August 1994 to January 1996.
+
+The rating decisions on appeal were issued by the agency of original jurisdiction (AOJ) in August 2023 and December 2023.  In a timely VA Form 10182 (Decision Review Request: Board Appeal) received in May 2024, the Veteran elected the Direct Review option for this appeal; therefore, the Board may consider only the evidence in the record at the time of the respective AOJ decisions.  See 38 C.F.R. § 20.301.
+
+If evidence was submitted during the period after the AOJ issued the decision, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the issues on appeal, any evidence the Board could not consider will be considered by the AOJ in the adjudication of these claims.  38 C.F.R. § 3.103(c)(2)(ii).
+
+1. Entitlement to service connection for an acquired psychiatric disorder, to include anxiety and/or depression, is remanded.
+
+The rating decision on appeal for this claim was issued in December 2023.
+
+In February 2023, the Veteran submitted a claim for service connection for posttraumatic stress disorder (PTSD) with depression.  In June 2023, the Veteran submitted a claim for service connection for anxiety and for depression, asserting that both conditions were due to his service-connected tinnitus.  In his May 2025, the Veteran noted that his psychiatric conditions were related to his migraines associated with his tinnitus.  As a lay person, the Veteran lacks the medical knowledge to describe the precise universe of his claim; accordingly, the Board has recharacterized the claims for service connection for anxiety and for depression on appeal here as one claim for service connection for an acquired psychiatric disorder, to include anxiety and/or depression.  See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009).
+
+In June 2023, the Veteran was afforded a VA psychiatric examination at which the examiner identified diagnoses of PTSD, depressive disorder, and anxiety disorder.  The examiner opined that the symptoms of these three disorders have significant overlap and cannot be distinguished as they are co-occurring, and that the anxiety and depression have a greater impact than the PTSD on the Veteran's social and occupational functioning.  The Veteran reported two traumatic events during service, which have not yet been verified by VA, that led to symptoms of depressed mood and anxiety.
+
+In July 2023, the Veteran submitted a written statement in support of his claim for service connection for PTSD, in which he reported that memories and nightmares of the reported stressor events in service have caused him great depression and anxiety since service.  
+
+In September 2023, the Veteran attended another VA examination, at which the examiner identified only a diagnosis of anxiety disorder.  The examiner opined that the Veteran did not meet the criteria for a diagnosis of a depression-based disorder, as the reported depression was a symptom of the anxiety disorder.  The examiner opined that the identified anxiety disorder was less likely as not due to the service-connected tinnitus, noting that the Veteran had not sought any mental health treatment for anxiety directly related to tinnitus.  The examiner also noted reports by the Veteran in his VA treatment records that he starts to panic when his breathing becomes difficult due to sinusitis, which increases his anxiety symptoms.  The examiner also noted a report by the Veteran that intermittent thoughts of the first in-service stressor worsened recently with anxiety, frequent flashbacks, and intrusive thoughts, and opined that this suggests a possible psychological etiology of the anxiety.  However, the examiner did not provide an opinion regarding whether the Veteran's anxiety is at least as likely as not related to service.  
+
+In the December 2023 rating decision, the AOJ relied on this negative secondary service connection opinion to deny the claim, as well as a finding that there was no evidence in the Veteran's service treatment records to indicate an in-service onset of anxiety or depression.  
+
+However, the Board finds a remand is necessary to cure an error in fulfilling VA's duty to assist.  See 38 C.F.R. § 20.802.  The AOJ failed to obtain an opinion regarding whether the Veteran's anxiety is at least as likely as not related to service, including the reported in-service traumatic events, even though the September 2023 examiner indicated that the in-service events were a possible etiology of the anxiety.  Moreover, the secondary opinion is also inadequate, as the examiner limited their opinion to only addressing whether the psychiatric symptoms are secondary to tinnitus, when the Veteran has also claimed they are related to the migraines that are related to his tinnitus.  See McLendon v. Nicholson, 20 Vet. App. 79, 83 (2006) (VA is obliged to provide an examination where there is insufficient information to decide the claim and there is an indication the current disability may be associated with service).
+
+2. Entitlement to service connection for sinusitis is remanded.
+
+The rating decision on appeal for this claim was issued in December 2023.
+
+In September 2018, the Veteran underwent a CT scan of his sinuses in response to complaints of worsening sinus symptoms.  The scan revealed minimal mucosal thickening, no aggressive features, and no significant change from a CT scan performed in March 2015.  No other remarks about this imaging are present in the VA treatment records.  
+
+In August 2022, the Veteran underwent another surgical procedure to address his ongoing sinus symptoms; he was treated in the VA Community Care program.  The notes leading up to the scheduling of this surgery are included in the Veteran's VA treatment records, but no notes regarding the surgery and its outcome are visible in the record.  
+
+In May 2023, the Veteran reported to his VA treating physician that he had undergone the surgery, and that he had been informed it appeared he had chemical burns.  He also reported that he was exposed to diesel fumes while in service.  
+
+In June 2023, the Veteran attended a VA sinusitis examination, at which the examiner noted the August 2022 surgical procedure and the Veteran's reports scarring due to potential chemical issues.  The examiner opined that it is at least as likely as not that the current sinusitis is due to the toxic exposure risk activities (TERAs) in service.  The examiner appears to have conflated the Veteran's conceded TERAs, which include exposure to diesel fuel and heavy equipment such as the Bradley fighting vehicle, with exposure to burn pits, which is not an exposure that is conceded in this case.
+
+The December 2023 rating decision denied service connection for sinusitis based on a finding that the Veteran's service treatment records did not contain complaints or diagnosis of sinusitis.  The AOJ further found the evidence did not demonstrate the Veteran participated in any TERA during service, despite having conceded this in an August 2023 rating decision.  The AOJ did not discuss the June 2023 opinion in any manner.
+
+The Board finds a remand is necessary in this case to cure errors in fulfilling VA's duty to assist the Veteran.  See 38 C.F.R. § 20.802(a).  
+
+In particular, the Board finds it was an error to deny the claim without retrieving the Community Care records, which could corroborate the Veteran's report that it appeared there were chemical burns, presumably in his sinuses.  A lay person is competent to report a contemporaneous medical diagnosis, Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007), and similarly, the Veteran is competent to report comments made to him about his condition by his treating physician.  The VA opinion appears to weigh the presence of chemical burns favorably in reaching the conclusion that fuel exposure during service caused the current sinusitis.  However, the remainder of the Veteran's VA treatment records indicate a mild condition, and do not mention scarring akin to chemical burns.  Therefore, it was an error to decide this claim without obtaining relevant and potentially favorable medical records; a remand is necessary to attempt to add these records to the claims file.  See 38 C.F.R. § 3.159(c). 
+
+Further, the Board finds it was an error to deny the claim without discussing the June 2023 VA opinion, and an error to disallow the previously conceded TERAs.  On remand, the AOJ should readjudicate this claim considering all relevant evidence of record.  
+
+3. Entitlement to service connection for diverticulosis and benign neoplasm rectosigmoid junction is remanded.
+
+The rating decision on appeal for this claim was issued in August 2023.
+
+The Veteran filed this claim for service connection for diverticulitis, and at a March 2023 VA examination, diagnoses of diverticulosis and benign neoplasm rectosigmoid junction were made.  The examiner opined that the Veteran had not been diagnosed with diverticulitis, and that the current diverticulosis was less likely as not related to service.  The examiner reasoned that the Veteran's diagnosis was made 21 years after separation from service, during which there was a single complaint of nausea, vomiting, and diarrhea.  The examiner cited medical literature indicating that the common pattern for diverticulosis is asymptomatic or nonspecific abdominal pain.  
+
+In June 2023, the AOJ obtained an opinion addressing the conceded in-service TERAs, which include exposure to diesel fuel and heavy equipment.  The June 2023 VA examiner opined that the current diverticulosis is less likely as not related to the TERAs.  The examiner stated that diverticulosis is characterized by small pouches forming in the walls of the large intestine, and that risk factors include aging, obesity, genetics, a sedentary lifestyle, and a low fiber diet.  The examiner opined that the Veteran's obesity far outweighed the risk factors identified as TERAs, and that no medical literature currently provides any indication of a relationship between the development of diverticulosis and the identified TERAs.
+
+The Board finds that a remand is necessary to cure two errors in fulfilling VA's duty to assist.  See 38 C.F.R. § 20.802.
+
+First, the direct service connection opinion provided in March 2023 is inadequate.  The Veteran's service treatment records contain three complaints of symptoms related to abdominal pain:  nausea and vomiting in May 1995; gastroenteritis in August 1995; and nausea, vomiting, and diarrhea in December 1995.  Therefore, the examiner's opinion is based on an inaccurate factual premise.  See Kowalski v. Nicholson, 19 Vet. App. 171, 179 (2005) (a VA examination must be based on an accurate factual premise).  Further, the examiner stated that the Veteran's disability manifests in asymptomatic or nonspecific abdominal pain.  The Board notes the Veteran separated from service in January 1996, shortly after the final in-service complaint.  The examiner did not discuss the onset of diverticulosis and whether it is consistent with the symptoms reported three times in the Veteran's final year of service, despite not being formally diagnosed for 21 years.  Moreover, it is logically inconsistent to use the absence of complaints and formal treatment in the record after service as a reason to support a negative etiology opinion while simultaneously rejecting the Veteran's in-service complaints as supportive evidence of diverticulosis because diverticulosis typically manifests asymptomatically.  For these reasons, the March 2023 opinion is inadequate, and it was an error to rely on it to deny this claim.  See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (once VA undertakes to provide an examination, it must provide an adequate one).  Therefore, a remand is necessary to obtain an adequate direct service connection opinion.
+
+Further, the Board finds the June 2023 opinion raised another error in fulfilling the duty to assist.  Specifically, the opinion concluded that the Veteran's obesity was a risk factor for diverticulosis that far outweighed the other risk factors in the record.  A veteran's obesity can be an "intermediate step" between a service-connected disability and a current disability.  See VA Gen. Couns. Prec. Op. 1-2017 (Jan. 6, 2017); Walsh v. Wilkie, 32 Vet. App. 300, 306-07 (2020).  The Veteran is currently service-connected for migraines and bilateral plantar fasciitis, and is seeking service connection for other musculoskeletal disabilities as well.  The Board finds it was an error to deny this claim without seeking another opinion addressing whether the Veteran's obesity, identified by the June 2023 opinion as the likely factor in the development of diverticulosis, served as an intermediate step between one of his service-connected disabilities and the current diverticulosis.
+
+4. Entitlement to service connection for GERD and reflux esophagitis is remanded.
+
+The rating decision on appeal for this claim was issued in August 2023.
+
+In March 2023, the Veteran attended a VA examination, at which he reported first noticing acid reflux during service after basic training.  The examiner opined that the current GERD is less likely than not related to service, because there was only one complaint of nausea, vomiting, and diarrhea in service, and the current diagnosis was made 21 years later.  The examiner did not address the Veteran's report that he noticed acid reflux during service, and, as above, did not address the other two complaints of gastrointestinal symptoms during service.  Therefore, the Board finds this opinion is inadequate, and it was an error in fulfilling VA's duty to assist to rely on it in denying this claim.  See Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006) (that reports of symptomatology are not supported by contemporaneous clinical evidence does not render them inherently not credible); Kowalski, 19 Vet. App. at 179.  A remand is necessary to obtain an adequate direct service connection opinion.
+
+Further, the June 2023 examiner offered the same opinion as related to the claim for service connection for diverticulosis - that the Veteran's obesity is a risk factor that far outweighs the other risk factors found in the record.  The Board finds it was an error not to obtain an opinion regarding whether obesity was an intermediate step between any of the Veteran's service-connected disabilities and his current GERD disability.  See VA Gen. Couns. Prec. Op. 1-2017 (Jan. 6, 2017); Walsh, 32 Vet. App. at 306-07.  Therefore, on remand, the AOJ should obtain an opinion regarding obesity as a potential theory of service connection for GERD.
+
+5. Entitlement to service connection for a right knee disability is remanded.
+
+6. Entitlement to service connection for a left knee disability is remanded.
+
+The rating decision on appeal for these claims was issued in August 2023.
+
+The Board finds it was an error in fulfilling VA's duty to assist to rely on the opinions obtained in March 2023 for the right and left knee disabilities.  See Barr, 21 Vet. App. at 311.  
+
+Regarding the right knee, the March 2023 VA examiner opined that the right knee disability is less likely as not related to service, because the service treatment records indicating the right knee pain treated during service had resolved, with no further complaint, evaluation, diagnosis, or treatment for any right knee condition.  
+
+Regarding the left knee, the examiner opined that the left knee disability is less likely as not related to service because the service treatment records are silent as to any left knee condition.  
+
+The Veteran, however, reported onset of knee pain in service with ruck marches and physical training, and he reported ongoing recurrent pain that interfered with function, such as standing and walking for prolonged periods.
+
+These opinions are both inadequate as they fail to consider the Veteran's lay statements regarding recurrent knee pain.  Further, regarding the left knee, the Veteran's service treatment records contain a problem list indicating the left knee as a temporary problem; the examiner's opinion was therefore based on an inaccurate factual premise.  See Kowalski, 19 Vet. App. at 179.  
+
+As it was an error in fulfilling the duty to assist to rely on these inadequate opinions, a remand is necessary to obtain opinions regarding the right and left knee disabilities that adequately take into account all relevant evidence of record.
+
+The matters are REMANDED for the following action:
+
+1. Obtain any and all VA treatment records from any VA medical center that may have treated the Veteran, including records of sinusitis treatment obtained through the VA Community Care and/or VA Veterans Choice programs, and associate those documents with the claims file in a manner that is reviewable by the Board.  
+
+2. Forward the claims file to an appropriate clinician to determine whether any current anxiety disorder or any other current psychiatric disorder, to include depression and/or PTSD, is related to the Veteran's military service.  If the examiner determines that an additional in-person examination is required, one should be scheduled.  Please note, if the examiner deems it reasonable, an alternate format such as telehealth interview is acceptable.
+
+Following review of the claims file and, if indicated, examination of the Veteran, the examiner should identify all current psychiatric diagnoses present during the course of this appeal, since approximately June 2023.  
+
+For EACH disorder identified, the examiner should opine whether it is at least as likely as not (at least an approximate balance of the positive and negative evidence) that the disorder began in or is otherwise caused by the Veteran's active service.
+
+The examiner should also opine whether it is at least as likely as not (at least an approximate balance of the positive and negative evidence) that any psychiatric disability is (a) caused by; or (b) aggravated (i.e., worsened beyond the normal progression of the disease) by the Veteran's service connected tinnitus or service connected migraines.  Please note, causation and aggravation are separate concepts and must be addressed independently.  If aggravation is found, the examiner must attempt to establish a baseline level of severity of the diverticulosis prior to aggravation by the service-connected disability or disabilities.
+
+For the purposes of the opinion, the examiner should assume the Veteran's statements about his symptoms and their onset are credible, unless they are inconsistent with the medical evidence or with medical principles concerning his condition.  The Board emphasizes that this does not constitute a positive credibility determination, as VA will weigh the evidence upon adjudication.
+
+If there is a medical basis to support or doubt the history provided by the Veteran, the examiner should provide a fully reasoned explanation.  In doing so, the examiner may identify any discrepancies, inconsistencies, or contradictions contained in the evidence of record, and may state whether the Veteran's lay statements are supported by medical or other evidence.  The examiner may not dismiss the Veteran's statements about his symptoms solely because they are not documented in contemporaneous treatment records.
+
+Please note that corroboration of any claimed in-service stressors is not required for any psychiatric disability other than PTSD.  If PTSD is diagnosed, the examiner should identify the stressor or stressors upon which the diagnosis is based.
+
+All findings must be reported in detail and all opinions must be accompanied by a clear rationale.  
+
+3. Forward the claims file to an appropriate clinician to determine whether the current diverticulosis is related to the Veteran's military service.  If the examiner determines that an additional in-person examination is required, one should be scheduled.  Please note, if the examiner deems it reasonable, an alternate format such as telehealth interview is acceptable.
+
+Following review of the claims file and, if indicated, examination of the Veteran, the examiner should opine whether it is at least as likely as not (at least an approximate balance of the positive and negative evidence) that the diverticulosis began in or is otherwise caused by the Veteran's active service.  In providing this opinion, the examiner must address the complaints of gastrointestinal issues in May 1995, August 1995, and December 1995, as well as any other pertinent evidence of record.
+
+The examiner should also opine whether it is at least as likely as not (at least an approximate balance of the positive and negative evidence) that the diverticulosis disability is (a) caused by; or (b) aggravated (i.e., worsened beyond the normal progression of the disease) by any of the Veteran's service-connected disabilities.  Please note, causation and aggravation are separate concepts and must be addressed independently.  If aggravation is found, the examiner must attempt to establish a baseline level of severity of the diverticulosis prior to aggravation by the service-connected disability or disabilities.
+
+The examiner should specifically provide opinions to the following:
+
+(a) Whether the Veteran's service-connected bilateral fasciitis, tinnitus and/or migraines caused the Veteran to become obese or aggravated his obesity, either individually or by the total combined effect of two or more service-connected disabilities (i.e., due to a lack of mobility or inability to exercise);
+
+(b) If so, whether the obesity caused or aggravated by the service-connected disability or disabilities was a substantial factor in causing the diverticulosis; and
+
+(c) Whether the diverticulosis would not have occurred but for the obesity.
+
+For the purposes of the opinions, the examiner should assume the Veteran's statements about his symptoms are credible, unless they are inconsistent with the medical evidence or with medical principles concerning his condition.  The Board emphasizes that this does not constitute a positive credibility determination, as VA will weigh the evidence upon adjudication.
+
+If there is a medical basis to support or doubt the history provided by the Veteran, the examiner should provide a fully reasoned explanation.  In doing so, the examiner may identify any discrepancies, inconsistencies, or contradictions contained in the evidence of record, and may state whether the Veteran's lay statements are supported by medical or other evidence.  The examiner may not dismiss the Veteran's statements about his symptoms solely because they are not documented in contemporaneous treatment records.
+
+All findings must be reported in detail and all opinions must be accompanied by a clear rationale.  
+
+4. Forward the claims file to an appropriate clinician to determine whether the current GERD is related to the Veteran's military service.  If the examiner determines that an additional in-person examination is required, one should be scheduled.  Please note, if the examiner deems it reasonable, an alternate format such as telehealth interview is acceptable.
+
+Following review of the claims file and, if indicated, examination of the Veteran, the examiner should opine whether it is at least as likely as not (at least an approximate balance of the positive and negative evidence) that the GERD began in or is otherwise caused by the Veteran's active service.  In providing this opinion, the examiner must address the complaints of gastrointestinal issues in May 1995, August 1995, and December 1995, as well as any other pertinent evidence of record.
+
+The examiner should also opine whether it is at least as likely as not (at least an approximate balance of the positive and negative evidence) that the GERD is (a) caused by; or (b) aggravated (i.e., worsened beyond the normal progression of the disease) by any of the Veteran's service-connected disabilities.  Please note, causation and aggravation are separate concepts and must be addressed independently.  If aggravation is found, the examiner must attempt to establish a baseline level of severity of the GERD prior to aggravation by the service-connected disability or disabilities.
+
+The examiner should specifically provide opinions to the following:
+
+(a) Whether the Veteran's service-connected disabilities (tinnitus, migraines and bilateral plantar fasciitis) caused the Veteran to become obese or aggravated his obesity, either individually or by the total combined effect of two or more service-connected disabilities (i.e., due to a lack of mobility or inability to exercise);
+
+(b) If so, whether the obesity was a substantial factor in causing the GERD; and
+
+(c) Whether the GERD would not have occurred but for the obesity.
+
+For the purposes of the opinions, the examiner should assume the Veteran's statements about his symptoms are credible, unless they are inconsistent with the medical evidence or with medical principles concerning his condition.  The Board emphasizes that this does not constitute a positive credibility determination, as VA will weigh the evidence upon adjudication.
+
+If there is a medical basis to support or doubt the history provided by the Veteran, the examiner should provide a fully reasoned explanation.  In doing so, the examiner may identify any discrepancies, inconsistencies, or contradictions contained in the evidence of record, and may state whether the Veteran's lay statements are supported by medical or other evidence.  The examiner may not dismiss the Veteran's statements about his symptoms solely because they are not documented in contemporaneous treatment records.
+
+All findings must be reported in detail and all opinions must be accompanied by a clear rationale.  
+
+5. Forward the claims file to an appropriate clinician to determine whether the current right and left knee disabilities are related to the Veteran's military service.  If the examiner determines that an additional in-person examination is required, one should be scheduled.  The examiner should review the claims file, including the entirety of the Veteran's service treatment records, prior to offering the following opinions.
+
+For each the right and left knee disabilities, the examiner should opine whether it is at least as likely as not (at least an approximate balance of the positive and negative evidence) that the knee disability began in or is otherwise caused by the Veteran's active service.
+
+For the purposes of the opinion, the examiner should assume the Veteran's statements about his symptoms are credible, unless they are inconsistent with the medical evidence or with medical principles concerning his condition.  The Board emphasizes that this does not constitute a positive credibility determination, as VA will weigh the evidence upon adjudication.
+
+If there is a medical basis to support or doubt the history provided by the Veteran, the examiner should provide a fully reasoned explanation.  In doing so, the examiner may identify any discrepancies, inconsistencies, or contradictions contained in the evidence of record, and may state whether the Veteran's lay statements are supported by medical or other evidence.  The examiner may not dismiss the Veteran's statements about his symptoms solely because they are not documented in contemporaneous treatment records.
+
+All findings must be reported in detail and all opinions must be accompanied by a clear rationale.  
+
+ 
+
+ 
+
+M. HYLAND
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Josey, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

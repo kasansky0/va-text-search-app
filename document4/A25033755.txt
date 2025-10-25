@@ -1,0 +1,105 @@
+Citation Nr: A25033755
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240628-452586
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to a disability rating in excess of 70 percent for service-connected posttraumatic stress disorder (PTSD) and unspecified depressive disorder (UDD), is denied.
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) due to service-connected disabilities is denied.
+
+FINDINGS OF FACT
+
+1. In February 2023, the appellant requested to cancel a scheduled VA examination in connection with his increased rating claim for his service-connected PTSD and UDD and stated that he did not want to reschedule the examination.
+
+2. The appellant has been assigned a 100 percent schedular rating for the combined effect of his service-connected disabilities since August 26, 2014; he was not rendered unemployable solely due to one disability.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to a disability rating in excess of 70 percent for service-connected PTSD and UDD are not met based on the failure to report for a scheduled VA examination. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.655, 4.130, Diagnostic Code 9411.
+
+2. The criteria for entitlement to a TDIU based on a single disability for the period beginning August 26, 2014, are not met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.340, 3.341, 4.16.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The appellant had active service in the United States Army from September 2004 to January 2009.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from an April 2024 Higher-Level Review (HLR) of an April 2023 rating decision of the Department of Veterans Affairs' (VA) Veterans Benefits Administration (the agency of original jurisdiction (AOJ)), which denied a disability rating in excess of 70 percent for service-connected PTSD and UDD; and entitlement to a TDIU.
+
+In June 2024, the appellant submitted a notice of disagreement (NOD (via VA Form 10182)), appealing that April 2024 HLR rating decision to the Board, and requesting Direct Review by a Veterans Law Judge.  
+
+Evidentiary Window
+
+As the appellant selected the Direct Review Docket, the Board may only consider the evidence of record before the AOJ at the time of its decision on the issue(s) on appeal. See 38 C.F.R. §§ 20.300(a), 301. The Board will not consider evidence received after the AOJ decision unless the claimant files a timely request for a Board hearing or an opportunity to submit additional evidence on the NOD (VA Form 10182). 38 C.F.R. § 20.301. The appellant has not filed such a request. If additional evidence was submitted after the AOJ decision, the Board will not consider it. If the appellant would like VA to consider any evidence that was added to the claims file that the Board could not consider, the appellant may file a supplemental claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim(s), considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a supplemental claim are included with this decision. See also Cook v. McDonough, 36 Vet. App. 175 (2023).
+
+1. Entitlement to a disability rating in excess of 70 percent for service-connected PTSD and UDD is denied.
+
+The appellant contends that a higher disability rating is warranted for his service-connected PTSD and UDD. See Supplemental Claim, February 7, 2023. The appellant's service-connected PTSD and UDD is currently rated at 50 percent from January 24, 2009; and 70 percent from July 23, 2013, under the General Formula for Mental Disorders (General Formula), DC 9411. See Rating Decision-Codesheet, April 19, 2023; 38 C.F.R. § 4.130.
+
+Applicable Law
+
+Disability evaluations are determined by the application of the facts presented to VA's Schedule for Rating Disabilities (Rating Schedule) at 38 C.F.R. Part 4. The percentage ratings contained in the Rating Schedule represent, as far as can be practicably determined, the average impairment in earning capacity resulting from diseases and injuries incurred or aggravated during military service and the residual conditions in civilian occupations. 38 U.S.C. § 1155; 38 C.F.R. §§ 3.321(a), 4.1.
+
+Where entitlement to compensation has been established and an increase in the disability rating is at issue, the present level of disability is of primary concern. Francisco v. Brown, 7 Vet. App. 55, 58 (1994). Where an appeal is based on an initial rating for a disability, however, evidence contemporaneous with the claim and the initial rating decision are most probative of the degree of disability existing when the initial rating was assigned and should be the evidence "used to decide whether an original rating on appeal was erroneous." Fenderson v. West, 12 Vet. App. 119, 126 (1999). In either case, if later evidence indicates that the degree of disability increased or decreased following the assignment of the initial rating, staged ratings may be assigned for separate periods of time. Fenderson, 12 Vet. App. at 126; Hart v. Mansfield, 21 Vet. App. 505 (2007) (noting that staged ratings are appropriate whenever the factual findings show distinct time periods in which a disability exhibits symptoms that warrant different ratings).  
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. §§ 4.7, 4.21. Any reasonable doubt regarding the degree of disability will be resolved in favor of the veteran. 38 C.F.R. § 4.3. By reasonable doubt is meant on which exists because of an approximate balance of positive and negative evidence which does not satisfactorily prove or disprove the claim.  38 C.F.R. § 3.102.  
+
+VA is required to give due consideration to all pertinent medical and lay evidence in evaluating a claim for disability benefits. 38 U.S.C. § 1154(a). Competent lay evidence means any evidence not requiring that the proponent have specialized education, training, or experience. 38 C.F.R. § 3.159(c)(2). Lay evidence is competent if it is provided by a person who has knowledge of facts or circumstances and conveys matters that can be observed and described by a lay person. Id. The Board finds that the appellant is competent to report his symptoms and there is no evidence that his reports are not credible. See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).   
+
+The evaluation of the same disability under several diagnostic codes, known as pyramiding, must be avoided; however, separate ratings may be assigned for distinct disabilities resulting from the same injury so long as the symptomatology for one condition is not duplicative of the symptomatology of the other condition.  38 C.F.R. § 4.14; Esteban v. Brown, 6 Vet. App. 259, 262 (1994).  
+
+Under the General Formula for 38 C.F.R. § 4.130, a 70 percent rating is assigned when symptoms such as suicidal ideation; obsessional rituals which interfere with routine activities; intermittently illogical, obscure, or irrelevant speech; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a worklike setting); or inability to establish and maintain effective relationships cause occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood. 38 C.F.R. § 4.130, DC 9411. 
+
+A 100 percent rating is assigned for total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; or memory loss for names of close relatives, own occupation, or own name. Id. 
+
+Under the General Formula, the Board must conduct a "holistic analysis" that considers all associated symptoms, regardless of whether they are listed as criteria. Bankhead v. Shulkin, 29 Vet. App. 10, 22 (2017); 38 C.F.R. § 4.130. The Board must determine whether unlisted symptoms are similar in severity, frequency, and duration to the listed symptoms associated with specific disability percentages. Then, the Board must determine whether the associated symptoms, both listed and unlisted, caused the level of impairment required for a higher disability rating. Vazquez-Claudio v. Shinseki, 713 F.3d 112, 114-118 (Fed. Cir. 2013). In that regard, the symptoms listed in the General Formula are not intended to constitute an exhaustive list. Rather, the symptoms serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating. Mauerhan v. Principi, 16 Vet. App. 436 (2002).
+
+Analysis
+
+In support of the appellant's claim, he was scheduled VA mental disorders examination in February 2023. See VA Appointment Confirmation, February 17, 2023. A February 2023 Report of General Information reflects that the appellant requested to cancel the scheduled examination and stated that he did not want to reschedule the examination. See VA Form 27-0820, February 21, 2023. While the VA system is non-adversarial and pro-claimant, a veteran still has an obligation to assist in developing his or her claim. See Turk v. Peake, 21 Vet. App. 565, 568 (2008).
+
+When a claimant fails to report for an examination scheduled in conjunction with an original compensation claim, the claim shall be rated based on the evidence of record. 38 C.F.R. § 3.655(b). When the examination was scheduled in conjunction with any other original claim, a supplemental claim for benefit which was previously disallowed, or a claim for increase, the claim shall be denied. Id. 
+
+Therefore, in accordance with the applicable VA regulation, because the appellant did not appear for a scheduled examination in conjunction with his claim for increase rating for service-connected PTSD and UDD, the claim must be denied. See id.
+
+2. Entitlement to a TDIU is denied.
+
+The appellant contends that his service-connected PTSD renders him unable to follow a substantially gainful occupation. See Supplemental Claim, February 7, 2023.  
+
+In review of the relevant procedural background discussed above, VA received the appellant's Application for Increased Compensation Based on Unemployability, VA Form 21-8940 on November 17, 2021. In a May 2022 rating decision, the AOJ denied entitlement to a TDIU. Subsequently, on February 7, 2023, the appellant filed a supplemental claim for increased rating for PTSD and entitlement to a TDIU. Therefore, the period on review is from November 17, 2021, to April 19, 2023. 
+
+Legal Criteria
+
+A total disability rating for compensation purposes may be assigned where the schedular rating is less than total and where it is found that the disabled person is unable to secure or follow a substantially gainful occupation as a result of a service-connected disability ratable at 60 percent or more or as a result of two or more disabilities, provided at least one disability is ratable at 40 percent or more, and there is sufficient additional service-connected disability to bring the combined rating to 70 percent or more. 38 C.F.R. § 4.16(a). Consideration may be given to the veteran's level of education, special training, and previous work experience in arriving at a conclusion, but not to his or her age or to the impairment caused by nonservice-connected disabilities. See 38 C.F.R. §§ 4.16, 4.19; see also Van Hoose v. Brown, 4 Vet. App. 361 (1993).
+
+To meet the requirement of "one 60 percent disability" or "one 40 percent disability," the following will be considered as one disability: (1) disability of one or both lower extremities, including the bilateral factor, if applicable; (2) disabilities resulting from one common etiology; (3) disabilities affecting a single body system; (4) multiple injuries incurred in action; and (5) multiple disabilities incurred as a prisoner of war. Id. 
+
+Substantially gainful employment is defined as work which is more than marginal, and which permits the individual to earn a living wage. Moore v. Derwinski, 1 Vet. App. 356 (1991). Marginal employment may also be held to exist, on a facts-found basis (including, but not limited to, employment in a protected environment such as a family business or sheltered workshop), when earned annual income exceeds the poverty threshold. 38 C.F.R. § 4.16.
+
+The term "substantially gainful occupation" is not defined in the rating schedule. Rather, the Court of Appeals for Veterans Claims (CAVC) in Ray v. Wilkie, found the phrase has two components: an economic one and a noneconomic one. 31 Vet. App. 58 (2019). In assessing the veteran's ability to secure and follow a substantially gainful occupation, the Board is to consider the veteran's history, education, skill, and training as well as physical abilities and mental abilities required by the occupation at issue. Id. Such specific physical ability factors include lifting, bending, sitting, standing, walking, climbing, grasping, typing, reaching, auditory, and visual. Id. Specific mental ability factors include memory, concentration, ability to adapt to change, handle workplace stress, getting along with coworkers, and demonstrating reliability and productivity. Id.  
+
+Analysis
+
+Turning to the evidence of record, the appellant is service-connected for the following disabilities: PTSD (rated 50 percent from January 24, 2009, and 70 percent from July 23, 2013); sleep apnea (rated 50 percent from January 24, 2009); migraine headaches (rated 50 percent from August 26, 2014); Schmorl's Nodes L1 (rated 10 percent from January 24, 2009); right knee disability (rated 10 from January 24, 2009); tinnitus (rated 10 percent from January 24, 2009); right hand carpal tunnel (rated 10 percent from January 24, 2009); traumatic brain injury (rated 10 percent from March 12, 2014); idiopathic tremor (rated 10 percent from February 13, 2020); right shoulder disability (noncompensable from January 24, 2009); left ear hearing loss (noncompensable from January 24, 2009). His combined disability rating is 80 percent from January 24, 2009; 90 percent from January 23, 2013; and 100 percent from August 26, 2014. Therefore, the schedular criteria for a TDIU under 38 C.F.R. § 4.16(a) are met. 
+
+As the appellant's schedular rating is total from April 26, 2014, a TDIU is generally unavailable, except where a TDIU can be awarded for the purpose of special monthly compensation (SMC) under 38 C.F.R. § 3.350(i). The Board is cognizant that the grant of a 100 percent schedular rating does not always render the issue of TDIU moot. VA's duty to maximize a veteran's benefits includes consideration of whether a veteran's disabilities establish entitlement to SMC. See Bradley v. Peake, 22 Vet. App. 280, 294 (2008). Specifically, SMC is payable at a specified rate under 38 U.S.C. § 1114(s) when a veteran has (1) a single service-connected disability rated as 100 percent and (2) "additional service-connected disability or disabilities independently ratable at 60 percent or more, separate and distinct from the 100 percent service-connected disability and involving different anatomical segments or bodily systems." 38 C.F.R. § 3.350(i). However, in this instance, the appellant does not have a single disability rated as 100 percent disabling. 
+
+The Board is sympathetic to appellant's belief that his service-connected PTSD alone results in his inability to secure and maintain substantially gainful employment. Unfortunately, the evidence of record does not support such a finding. A December 2021 request for employment information completed by the appellant's previously employer in December 2021, noted that the appellant's beginning date of employment was May 12, 2020, and he was "currently working, fulltime, [none] restrictions." See VA Form 21-4192, January 11, 2022. 
+
+Moreover, as previously discussed, the appellant refused to cooperate with the VA's attempt to acquire all of the information necessary to assess the current severity of his service-connected PTSD. See VA Form 27-0820, February 21, 2023. As there is no basis to grant a TDIU or SMC, the claim is denied.
+
+ 
+
+ 
+
+K.A. KENNERLY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. Camille NeSmith, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

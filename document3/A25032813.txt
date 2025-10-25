@@ -1,0 +1,85 @@
+Citation Nr: A25032813
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240916-474532
+DATE: April 9, 2025
+
+ORDER
+
+Service connection for an unspecified neurocognitive disorder (claimed as dementia) is granted.
+
+Service connection for low back condition is denied.
+
+FINDINGS OF FACT
+
+1. The evidence of record persuasively favors the conclusion that it is at least as likely as not that the Veteran's neurocognitive disorder (claimed as dementia) was caused by his active service, to include exposure to agent orange.
+
+2. The evidence of record persuasively favors the conclusion that it is less likely than not that the Veteran's low back condition either began during or was otherwise caused by his active service.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for a neurocognitive disorder (claimed as dementia), have been met. 38?U.S.C. §§?1110, 1131, 5107; 38?C.F.R. §§?3.102, 3.303, 3.304. 
+
+2. The criteria for service connection for a low back condition have not been met. 38?U.S.C. §§?1110, 1131, 5107; 38?C.F.R. §§?3.102, 3.303, 3.304. 
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service from May 1954 to November 1975. In connection with this appeal, the Veteran testified at a Board hearing before the undersigned Veterans Law Judge (VLJ), and a transcript of the hearing is of record.
+
+This matter stems from a November 2023 rating decision that denied service connection for a low back condition, and an August 2024 rating decision that denied service connection for an unspecified neurocognitive disorder (claimed as dementia). 
+
+The Veteran initially appealed the November 2023 and August 2024 rating decisions by filing a VA Form 10182 wherein he selected the hearing docket within the Veterans Appeals Modernization Act (AMA) review system. The same day, the Veteran filed another VA Form 10182 in regard to the August 2024 rating decision, changing his docket to the direct docket. Therefore, the Board may only consider the evidence of record at the time of the November 2023 rating decision, at the Board hearing, or within 90 days of the Board hearing. 38?C.F.R. §?20.303. With respect to the Veteran's dementia claim, the Board may only consider the evidence of record at the time of the August 2024 rating decision.
+
+Service Connection
+
+Service connection will be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred in or aggravated by active military service. 38?U.S.C. §§?1110, 1131; 38?C.F.R. §?3.303. Service connection requires competent evidence showing: (1) the existence of a present disability; (2) in-service relationship between the present disability and the disease or injury incurred in or aggravated during service (nexus). Shedden v. Principi, 381 F. 3d 1163, 1167 (Fed. Cir. 2004).
+
+Dementia
+
+The Veteran is seeking service connection for dementia, which he believes was caused by his exposure to agent orange during service. It is of note that in the August 2024 rating decision, the Agency of Original Jurisdiction (AOJ) conceded exposure to agent orange based on service aboard the US Naval Ship Gridley. 
+
+The Veteran's service treatment records (STRs) do not show any complaints of or treatment for dementia or dementia/like symptoms. The Veteran's post-service records show that he was diagnosed with dementia in May 2024.
+
+The Veteran was afforded a VA examination in July 2024 and was diagnosed with unspecified neurocognitive disorder. He was found to have total occupational and social impairment and was not competent to manage his financial affairs. The VA examiner opined that it was at least as likely as not that the Veteran's dementia was caused by his exposure to agent orange.  He cited to a research study from the National Library of Medicine which indicated that veterans exposed to agent orange are twice as likely as those without exposure to receive a dementia diagnosis. 
+
+Here, the evidence shows that the Veteran has been exposed to agent orange, that he has a current diagnosis of dementia, and that a VA examiner has provided a positive opinion that the Veteran's dementia was likely due to his exposure to agent orange. The Board notes that the AOJ previously denied the Veteran's claim that because the Secretary determined that a positive association did not exist between herbicide exposure and mental disorders on a presumptive basis. However, the Board finds that the presumption is not required, as service connection may be granted on a fact found basis. As stated above, the evidence is at the very least in relative equipoise as to whether the Veteran's dementia was caused by his exposure to Agent Orange.
+
+Therefore, giving the Veteran the benefit of the doubt, service connection for dementia is granted.
+
+Low Back
+
+The Veteran is also seeking service connection for a low back condition. 
+
+The Veteran's STRs show that he had a lower lumbar scar after a pilonidal cyst removal in 1958, but do not show complaints of or treatment for low back musculoskeletal conditions. The Veteran's post-service treatment records show that he was diagnosed with chronic back pain. 
+
+At the January 2025 Board hearing, the Veteran testified that he did not have any injuries in service where he hurt his back, but that he had back problems before service. The Veteran's representative noted that a September 19, 1975, in-service treatment note showed the Veteran had lower lumbar issues. 
+
+However, the treatment notes he referenced showed the Veteran had a lower lumbar scar in relation to an abscess removal, but not that he had any musculoskeletal issues related to his low back. In fact, the remainder of the Veteran's treatment records do not show any treatment for or complaints of low back pain while in service.
+
+As such, the evidence does not show that the Veteran had a low back condition while in service, or that there was an incident in service which may have caused the Veteran's chronic low back pain.
+
+The Board acknowledges that a VA examination has not been conducted for the Veteran's low back condition. However, VA is not required to provide an examination merely because a Veteran files a claim for benefits.  See Waters?v. Shinseki, 601 F.3d 1274, 1278 (2010). 
+
+VA is obligated to provide a VA medical examination when there is: (1) competent evidence of a current disability or persistent or recurrent symptoms of a disability; (2) evidence establishing that an event, injury, or disease occurred in service, or establishing that certain diseases manifested during an applicable presumptive period for which the claimant qualifies; and (3) an indication that the disability or persistent/recurrent symptoms of a disability may be associated with the Veteran's service or with another service-connected disability; but (4) insufficient competent evidence on file for the Secretary to make a decision on the claim. See McLendon v. Nicholson, 20?Vet. App.?79, 81 (2006).  Here, the record does not show, or even suggest, low back condition began in service or were caused by a particular event in service. In the absence of such evidence, the Board does not find that VA examinations are warranted. 
+
+Additionally, the Board acknowledges the Veteran's testimony that his back condition may have started prior to service. However, the Board does not find this statement to be credible in light of the additional evidence of record. The Veteran's STRs did not include complaints of, or treatment for, a low back condition while in service, other than his cyst removal in 1958, which a medical officer noted left no residuals. Even assuming the Veteran experienced low back pain prior to service, it was not brought up again in the Veteran's medical records until 2023, 48 years after separation from service. The Board finds it highly unlikely that the Veteran would never report he had low back pain if it had been bothering him over the course of a 20-year military career, because his records show that he sought treatment for other conditions. The Board finds that based on this evidence, it is more likely that the Veteran's low back condition began sometime after he separated from service. 
+
+It is also noted that the Veteran acknowledged at his hearing that he did not recall when his back problems began.
+
+(Continued on next page) 
+
+Therefore, as the weight of the evidence is against a finding that the Veteran's low back condition either began in or was otherwise caused by his active service, service connection for a low back condition is denied.
+
+ 
+
+ 
+
+MATTHEW W. BLACKWELDER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Elizabeth A. Gadson, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

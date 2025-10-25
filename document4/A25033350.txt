@@ -1,0 +1,103 @@
+Citation Nr: A25033350
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240703-456551
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from June 1986 to June 1990.
+
+The rating decision on appeal was issued in August 2023, and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In a July 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the August 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+However, because the Board is remanding the service connection claim for OSA, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+The Board acknowledges the Veteran submitted additional evidence at the same time as the filing of his VA Form 10182 to the Board in the instant appeal.  He also submitted a supplemental claim seeking readjudication of an issue unrelated to the issue on appeal in the instant claim.  This situation does not appear to be affected by the Court's decision in Edwards v. McDonough, 36 Vet. App. 56 (2023).  Although the evidence was submitted contemporaneous to the Veteran filing the VA Form 10182, the evidence in question related to the supplemental claim on an unrelated issue.  There was no indication or suggestion from the Veteran that the evidence had been submitted in support of the instant appeal.
+
+Nevertheless, the Board provided notice to the Veteran and his representative on July 29, 2024, that the evidence in question could not be considered.  He was also advised that if he wanted the Board to consider any additional evidence for the issues listed on his VA Form 10182, he must change his Board appeal request by switching AMA dockets (to Evidence Submission or Hearing), as explained in the correspondence, and that, if his request was approved, he would then have the opportunity to submit any additional evidence he wants the Board to consider. No response to this letter was received, and the Board will, therefore, proceed utilizing the Veteran's original Direct Review docket selection.
+
+Entitlement to service connection for OSA is remanded.
+
+The Veteran contends that he has OSA secondary to his service-connected left ankle.  Specifically, the Veteran asserts that his service-connected left ankle keeps him from exercising.  April 2023 Statement in Support of Claim.
+
+The August 2023 rating decision made a favorable finding that the Veteran is currently diagnosed with OSA.  The Board is bound by this favorable finding.  38 C.F.R. § 3.104.
+
+The Veteran is service connected for a left ankle lateral collateral ligament sprain, tendonitis, and chronic ankle instability syndrome.  August 2021 Rating Decision.
+
+The Veteran submitted a private medical opinion in April 2023 from Dr. Z.M., who opined that it was at least as likely as not that the Veteran's obesity is due to his service-connected left ankle, and that the obesity condition led to, caused, and/or aggravated the current OSA.  Dr. Z.M. stated that the Veteran "has a known service-connected disability condition(s) which can lead to and or cause pain, painful motion, sleep disturbances (related to pain and forced sleep positions related to disabilities), diminished motivation, and/or 'comfort' overeating which can lead to diminished activity with less caloric expenditure, which leads to and/or promotes weight gain and obesity." Dr. Z.M. further stated that medical literature has documented that obesity is known to predispose patients to and directly cause Obstructive Sleep Apnea (OSA).
+
+The general requirements for direct service connection notwithstanding, obesity cannot be recognized as a disability, but it can be recognized as an intermediate step between a service-connected disability and a disability claimed as secondary to that service-connected disability, based on the service-connected disability causing or aggravating the obesity.  See Walsh v. Wilkie, 32 Vet. App. 300, 306-07 (2020).  VA's Office of General Counsel also issued a precedential opinion in January 2017 addressing questions regarding whether obesity may be considered a disease or injury for the purposes of service connection under 38 U.S.C. §§ 1110 and 1131.  See VAOPGCPREC 1-2017.  In general, VAOPGCPREC 1-2017 concluded that obesity, per se, is not a disease or injury for purposes of 38 U.S.C. §§ 1110 and 1131 and, therefore, may not be service connected on a direct basis.  However, the opinion also concluded that obesity may be an "intermediate step" between a service-connected disability and a current disability that may be connected on a secondary basis under certain circumstances.
+
+For the intermediate step connection to be made, three questions must be answered in the affirmative:
+
+1. Did the service-connected disability/disabilities cause the veteran to become obese/aggravate his obesity?
+
+2. If so, was the obesity/aggravation of obesity as a result of the service-connected disability/disabilities a "substantial factor" in causing the current disability? and
+
+3. Would the current disability not have occurred but for the obesity caused/obesity aggravated by the service-connected disability/disabilities?
+
+Here, while the Veteran provided a positive nexus opinion, the Board finds that the opinion did not provide rationale or basis as to how or why the Veteran's left ankle condition may have caused him to become obese, which led to a diagnosis of sleep apnea.  As such, this opinion is inadequate, as a medical opinion must support its conclusion with an analysis that the Board can weigh, and a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision.  Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007).
+
+A May 2023 VA examiner rendered a negative nexus opinion based on direct service connection.  In reasoning, the examiner noted that obesity is one of the primary risk factors for OSA.  The VA examiner noted the Veteran has a body mass index (BMI) of 42.87 and a neck circumference of 21 inches.  However, the May 2023 VA medical opinion does not appear to have considered the April 2023 private medical opinion, and the medical literature considered therein.  In this regard, the opinion does not indicate that the April 2023 opinion was reviewed, and it does not cite to or discuss any of the medical literature considered in that opinion.  Thus, it is unclear to the Board that the opinion was based on a complete review of the relevant evidence and medical literature.
+
+Additionally, the July 2023 Rating Decision deferred the issue of OSA in order to seek medical opinion clarification and to obtain an opinion on secondary service connection.  On July 31, 2023, the AOJ requested a secondary service connection medical opinion to address whether the Veteran's OSA is at least as likely as not proximately due to or the result of his service-connected left ankle lateral collateral ligament sprain, tendonitis, and chronic ankle instability syndrome, and requested the clinician to specifically review the April 2023 private medical opinion regarding OSA secondary to the Veteran's service-connected left ankle due to obesity.  The exam request indicated that the Veteran did not need to report for an examination for the requested OSA medical opinion.  The record reflects that on August 4, 2023, the Veteran requested cancellation of the OSA exam request.  However, the record is unclear regarding why the Veteran was requested to appear for an examination in the first place, when the requesting document indicated that only a clarifying opinion was needed.  Therefore, the Board finds that despite the Veteran's failure to report for the examination, the AOJ should still have obtained the requested opinion, as an examination was not needed for the opinion.  
+
+Additionally, when determining service connection, all theories of entitlement reasonably raised by the evidence of record must be considered.  Robinson v. Shinseki, 557 F.3d 1355, 1361 (Fed. Cir. 2009).  The evidence prior to the decision on appeal raised the question of whether the Veteran's OSA was caused or aggravated by the service-connected left ankle disability and whether obesity may be considered an intermediate step between the Veteran's service-connected left ankle and his diagnosis of OSA.  See El-Amin v. Shinseki, 26 Vet. App. 136 (2013); see also Walsh v. Wilkie, 32 Vet. App. 300, 306-07 (2020).
+
+In the August 2023 Rating Decision, the AOJ denied the claim without obtaining an addendum opinion to address the above-noted deficiencies.  This is a pre-decisional duty to assist error.  A remand is necessary to correct it.
+
+Additionally, after the rating decision on appeal, subsequent rating decisions awarded service connection for a lumbar spine disability, bilateral lower extremity radiculopathy, and left knee disabilities.  A decision by the AOJ or by the Board is not evidence.  See Green v. McDonough, 37 Vet. App. 127, 136 (2024).  The award of service connection for these disabilities in conjunction with the evidence of record at the time of the August 2023 decision on appeal raises a question as to whether these conditions caused or aggravated the Veteran's OSA, including with obesity as an intermediate step.  See id. at 136 ("The Board also has the discretion to 'remand for correction of any other error by the [AOJ] in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the appellant's claim.' 38 C.F.R. § 20.802 (a)").  As consideration of these service-connected disabilities as part of the secondary service connection theory of entitlement may have a reasonable possibility of aiding in substantiating the Veteran's claim, the opinion requested should also consider the impact of them.
+
+?
+
+The matters are REMANDED for the following action:
+
+Obtain an addendum opinion from an appropriate clinician, to address the etiology of the claimed OSA disability.
+
+The reviewing clinician must address the following questions:
+
+(A) The examiner must opine whether the OSA is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) directly due to the Veteran's service.
+
+In doing so, the clinician must specifically consider the following:  1) An April 2023 private medical opinion; 2) A May 2023 sleep study; and 3) a December 1985 report of Medical History indicating a chipped bone in the Veteran's right ankle at the age of 15.
+
+(B) The examiner must opine whether the Veteran's OSA is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) caused or aggravated by the service-connected left ankle, lumbar spine disability; right lower extremity radiculopathy, sciatic nerve; left lower extremity radiculopathy, sciatic nerve; and/or left knee disabilities.  Note that aggravation means any incremental increase in disability in nonservice-connected disabilities (i.e., any additional impairment of earning capacity) resulting from service-connected conditions.  
+
+In doing so, the clinician must specifically consider the following:  1) An April 2023 private medical opinion; and 2) A May 2023 sleep study.
+
+(C) The examiner is also asked to opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that:
+
+(i) The Veteran's service-connected left ankle disability, lumbar spine disability; right lower extremity radiculopathy, sciatic nerve; left lower extremity radiculopathy, sciatic nerve; and/or left knee disabilities caused him to become obese or aggravated obesity;
+
+(ii) Such obesity was a substantial factor in causing his OSA; and
+
+(iii) His current OSA would not have occurred but for obesity caused by or aggravated by the service-connected disability or disabilities.
+
+A complete rationale must be provided for all opinions rendered. 
+
+(Continued on the next page)
+
+?
+
+The clinician is asked to explain the reasons behind any opinions expressed and conclusions reached.  The examiner is reminded that the term "as likely as not" does not mean "within the realm of medical possibility," but rather, that the likelihood is at least approximately balanced or nearly equal, if not higher.  Note that the lack of documented treatment in service, or a long period after, while probative, cannot serve as the sole basis for a negative finding.  The Veteran's lay contentions must be considered and weighed in making the determination.
+
+ 
+
+ 
+
+M. SORISIO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Knerr
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

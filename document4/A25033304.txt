@@ -1,0 +1,69 @@
+Citation Nr: A25033304
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 221121-330261
+DATE: April 10, 2025
+
+ORDER
+
+Service connection for an acquired psychiatric disorder, diagnosed as major depressive disorder, is granted as secondary to service-connected status-post fracture, right scaphoid, and/or right wrist carpal tunnel/nerve injury (right wrist disabilities).
+
+FINDINGS OF FACT
+
+1. The Veteran has a current acquired psychiatric disorder, diagnosed as major depressive disorder; he is also currently service-connected for right wrist disabilities. 
+
+2. The competent and credible evidence demonstrates that it is at least as likely as not that the Veteran's acquired psychiatric disorder is proximately due to his service-connected right wrist disabilities. 
+
+CONCLUSION OF LAW
+
+Resolving reasonable doubt in the Veteran's favor, the criteria for an award service connection for an acquired psychiatric disorder as secondary to service-connected right wrist disabilities have been met. 38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran served on active duty in the U.S. Army from August 1982 to May 1984.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a September 2022 rating decision issued by a Department of Veterans Affairs (VA) Regional Office. The Veteran timely appealed to the Board by filing a VA Form 10182 (Decision Review Request: Board Appeal (Notice of Disagreement)) in November 2022, requesting direct review of the evidence considered by the agency of original jurisdiction (AOJ). 38 C.F.R. §§ 20.201, 20.202(b)(1).
+
+Under the direct review option, the Board may only consider the evidence of record at the time of issuance of the AOJ rating decision on appeal. 38 C.F.R. § 20.301. The Board cannot consider evidence submitted after that decision was promulgated.
+
+The Board notes that service connection for an acquired psychiatric disorder was previously denied in March 2020, May 2020, and May 2021 rating decisions. In the September 2022 rating decision on appeal, the AOJ found that new and relevant evidence had been presented or secured to warrant readjudication of the claim. The Board is bound by that favorable finding. 38 C.F.R. §§ 3.104(c), 20.801(a).
+
+The Veteran's claim for service connection for depression and/or anxiety has been recharacterized to include all psychiatric disorders reasonably raised by the record. Clemons v. Shinseki, 23 Vet. App. 1 (2009).
+
+Entitlement to service connection for an acquired psychiatric disorder, to include major depressive disorder, as secondary to service-connected right wrist disabilities
+
+The Veteran contends that he has an acquired psychiatric disorder that is secondary to his service-connected right wrist disabilities. His primary contention is that pain and interference with activities caused by his service-connected right wrist disabilities have led to the development of his acquired psychiatric disorder, to specifically include depression. 
+
+Service connection is warranted where the evidence of record establishes that a particular injury or disease resulting in disability was incurred in the line of duty in the active military service or, if pre-existing such service, was aggravated thereby. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).
+
+Generally, in order to prove service connection, there must be competent, credible evidence of (1) a current disability, (2) in-service incurrence or aggravation of an injury or disease, and (3) a nexus, or link, between the current disability and the in-service disease or injury. See, e.g., Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Pond v. West, 12 Vet. App. 341 (1999).
+
+Under applicable law, disability which is due to or the result of a service-connected disease or injury shall also be service connected. 38 C.F.R. § 3.310(a). Establishing service connection on a secondary basis requires evidence sufficient to show: (1) that a current disability exists; and (2) that the current disability was either (a) caused or (b) aggravated by a service-connected disability. 38 C.F.R. § 3.310; Allen v. Brown, 7 Vet. App. 439 (1995).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the benefit of the doubt shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102. An approximate balance of the evidence includes, but is not limited to, equipoise. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021). Evidence is not in "approximate balance" or "nearly equal" when the evidence persuasively favors one side or the other. Id.
+
+In its September 2022 rating decision, the AOJ made a favorable finding that the Veteran had been diagnosed with an acquired psychiatric disorder per an August 2022 VA examination, noting that the diagnosis in that report was alcohol use disorder, in remission. The AOJ also made a favorable finding that the Veteran was service connected for right wrist disabilities. Those favorable findings are binding on the Board and are not in dispute.
+
+With respect to current diagnosis, the Board also notes that medical evidence of record shows a current diagnosis of depression. That diagnosis is repeated in VA treatment records, and in a May 2022 statement, an E.C., Ph.D., a non-VA provider, also diagnosed major depressive disorder. In light of this evidence, the Board finds that the first element of service connection, as to the presence of a current disability, has been established. As noted, the Veteran is also service connected for right wrist disabilities. The primary question for the Board is whether there is a nexus, or link, between the Veteran's current acquired psychiatric disorder(s) and his service-connected right wrist disabilities. 
+
+In his May 2022 statement, Dr. C. offered a positive nexus opinion as to secondary service connection. He noted first that he had reviewed all available military and medical records in the claims file. He evaluated the Veteran and, as noted, diagnosed him with major depressive disorder. Dr. C. then stated that the Veteran's service-connected carpal tunnel syndrome had led to his recurrent depressive condition, and that the Veteran isolated from others and withdrew in social settings, if he even attended them. Dr. C. noted further that the Veteran reported daily pain in his hand, and that there were days he had to call out of work because he knew he would not be able to do his job. Dr. C. added that the Veteran reported that the injury also hindered his ability to play sports and that he woke up every morning with automatic negative thoughts. Dr. C. then opined that taking all available data into account, it was more likely than not that the Veteran suffered from primary symptom clusters to warrant a diagnosis of major depressive disorder with anxious features, and that it was due to his service-connected severe carpal tunnel syndrome. 
+
+The Board finds Dr. C.'s May 2022 opinion the most probative evidence of record on the question of whether the Veteran's acquired psychiatric disorder is due to his service-connected right wrist disabilities, and affords the opinion significant weight. The opinion was based on review of the Veteran's records, including his military records, mental health treatment records, the Veteran's lay statements, and his own evaluation, with a thorough rationale provided for the opinion given. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 303-304 (2008).
+
+The Board acknowledges that a VA examiner offered a negative nexus opinion as to secondary service connection in August 2022. However, the examiner did not find that the Veteran had a diagnosis of a depressive disorder, which is inconsistent with other evidence of record. Still further, the examiner does not appear to have considered or addressed the May 2022 opinion from Dr. C. Those deficiencies make the August 2022 VA examination and opinion less than fully adequate. 
+
+Taken as a whole, the Board finds that the competent and credible evidence demonstrates that it is at least as likely as not that the Veteran's acquired psychiatric disorder is proximately due to his service-connected right wrist disabilities. Resolving reasonable doubt in his favor, the Board finds that an award of service connection for an acquired psychiatric disorder is therefore warranted. The appeal is granted. 
+
+ 
+
+ 
+
+DAVID A. BRENNINGMEYER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	R. Oldroyd, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

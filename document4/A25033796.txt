@@ -1,0 +1,171 @@
+Citation Nr: A25033796
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240211-415112
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to a rating in excess of 20 percent for diabetes mellitus, type II, is denied.
+
+Entitlement to a compensable rating for bilateral nonproliferative diabetic retinopathy is denied.
+
+REMANDED
+
+Entitlement to a total disability rating based on individual unemployability due to service-connected disabilities (TDIU) is remanded.
+
+FINDINGS OF FACT
+
+1. Throughout the period of appeal, the Veteran's diabetes mellitus has required insulin and a restricted diet, but not regulation of activities.
+
+2. Throughout the period of appeal, the Veteran's diabetic retinopathy was manifested by a corrected distance visual acuity of 20/20 in the right and left eyes and no loss of a visual field.  There have been no showings of incapacitating episodes.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to a rating higher than 20 percent for diabetes mellitus have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.321, 4.1, 4.10, 4.119, Diagnostic Code 7913. 
+
+2. The criteria for a compensable rating for bilateral diabetic retinopathy have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.321, 4.1, 4.79, Diagnostic Code 6040.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from December 1983 to January 2006.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a November 2023 rating decision by the Department of Veterans Affairs (VA) Veterans Benefits Administration Regional Office (RO), which is the Agency of Original Jurisdiction (AOJ).  The Veteran was notified of the November 2023 rating decision in December 2023.
+
+In February 2024, the Veteran requested direct review of the appeal by the Board on VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement).
+
+As the current appeal stems from the Veteran's selection of the direct review docket by a Veterans Law Judge, in which the Veteran acknowledged that the review will be based upon the evidence submitted to VA at the time of the previous RO decision on the issue on appeal, only evidence of record on the date of the November 2023 rating decision will be considered.  VA will not seek additional evidence on behalf of the Veteran as part of the review.  38 C.F.R. § 20.303.
+
+However, because the Board is remanding the claim for TDIU, any evidence the Board could not consider will be considered by the AOJ in adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+Increased Rating
+
+Disability ratings are based on VA's Schedule for Rating Disabilities.  38 C.F.R. Part 4.  Separate Diagnostic Codes identify various disabilities and the criteria for a specific percentage rating to be assigned for that disability.  The percentage ratings represent as far as practicably can be determined the average impairment in earning capacity due to a service-connected disability.  38 U.S.C. § 1155.  A rating is assigned by comparing the extent to which a veteran's service-connected disability impairs the ability to function under the ordinary conditions of daily life, as demonstrated by the Veteran's symptomatology, with the criteria for the percentage ratings.  38 U.S.C. § 1155; 38 C.F.R. § 4.10; Schafrath v. Derwinski, 1 Vet. App. 589 (1991).
+
+Disabilities must be reviewed in relation to their history. 38 C.F.R. § 4.1.  Examination reports must be interpreted, and if necessary reconciled, into a consistent picture so that the rating may accurately compensate the elements of disability present.  38 C.F.R. § 4.2.  If two ratings are potentially applicable, the higher rating will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran.  38 C.F.R. § 4.3.
+
+The Board must determine the probative weight to be assigned among evidence in a case, and to state reasons or bases for favoring one opinion over another.  Winsett v. West, 11 Vet. App. 420 (1998).  If two ratings are potentially applicable, the higher rating will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran.  38 C.F.R. § 4.3.
+
+1. Entitlement to a rating in excess of 20 percent for diabetes mellitus
+
+The Veteran's service-connected diabetes mellitus is currently rated pursuant to Diagnostic Code 7913.
+
+Diagnostic Code 7913 provides a structured scheme of specific, successive, cumulative criteria.  Each higher rating includes the same criteria as the lower rating plus distinct new criteria.  Middleton v. Shinseki, 727 F.3d 1172 (Fed. Cir. 2013).  A 10 percent rating is warranted when diabetes is manageable by restricted diet only.  A 20 percent rating is warranted when diabetes requires one or more daily injection of insulin and restricted diet, or an oral hypoglycemic agent and restricted diet.  A 40 percent rating is warranted when diabetes requires daily injection of insulin, restricted diet, and regulation of activities.  A 60 percent rating is warranted when diabetes requires one or more daily injections of insulin, restricted diet, and regulation of activities with episodes of ketoacidosis or hypoglycemic reactions requiring one or two hospitalizations per year or twice a month visits to a diabetic care provider, plus complications that would not be compensable if separately evaluated.  A 100 percent rating is warranted when diabetes requires more than one daily injection of insulin, restricted diet, and regulation of activities, with episodes of ketoacidosis or hypoglycemic reactions requiring at least three hospitalizations per year or weekly visits to a diabetic care provider, plus either progressive loss of weight and strength or complications that would be compensable if separately rated.  38 C.F.R. § 4.119, Diagnostic Code 7913.
+
+Compensable complications of diabetes are rated separately unless they are part of the criteria used to support a 100 percent rating.  Noncompensable complications of diabetes are considered part of the diabetic process.  38 C.F.R. § 4.119, Diagnostic Code 7913, Note 1.
+
+Because Diagnostic Code 7913 contains successive criteria, the criteria for the lower rating must be met before a higher rating may be awarded.  A higher rating cannot be granted based on a finding that the Veteran's disability picture more nearly approximates the criteria for the next higher rating.  However, reasonable doubt regarding the presence of a criterion may be resolved in the Veteran' favor.  Johnson v. Wilkie, 30 Vet. App. 245 (2018).
+
+The question in this appeal is whether the Veteran's diabetes mellitus required one or more daily injections of insulin, restricted diet, and regulation of activities.  Regulation of activities is defined as avoidance of strenuous occupational and recreational activities.  That criterion requires medical evidence.  Camacho v. Nicholson, 21 Vet. App. 360 (2007).
+
+Analysis
+
+The Veteran's diabetes mellitus, type II, is currently rated 20 percent, effective February 1, 2006, pursuant to Diagnostic Code 7913.
+
+The claim for an increased rating stems from a July 24, 2023, claim filing.  Therefore, the period currently on appeal is from July 24, 2023, the date of the increased rating claim filing, to November 29, 2023, the date of the rating decision on appeal.
+
+The Veteran contends that a higher rating is warranted for diabetes mellitus as the symptoms were more severe than contemplated by the assigned rating.  Specifically, the Veteran asserts that he is entitled to an increased rating because he takes daily insulin injections, has a restricted diet, and his activities are regulated.
+
+In February 2018, the Veteran was advised to adhere to a diabetic diet, exercise, and take medication at a VA Medical Center (VAMC) in Dallas.  
+
+In January 2019, a VA examiner determined the Veteran's management of diabetes mellitus did not require regulation of activities.  The examiner also stated that the Veteran had no hospitalizations for episodes of ketoacidosis or hypoglycemia reactions over the past 12 months.
+
+During a November 2020 treatment plan coordination meeting with the Clarksburg VAMC, the Veteran stated that he did not require help or supervision when he performed basic daily living activities.  
+
+In August 2021, the Veteran informed a Clarksburg VAMC nurse that there had been no changes in his ability to independently perform daily activities in the past 12 months.
+
+In March 2022, during a physical therapy consultation instructed the Veteran to modify his activity in relation to a knee injury.
+
+In December 2022, the Veteran informed a Clarksburg VAMC nurse that there had been no changes in his ability to independently perform daily activities in the past 12 months.
+
+Based on the foregoing, the Board finds that a rating in excess of 20 percent for diabetes mellitus is not warranted.  The next higher rating requires a showing that diabetes mellitus required regulation of activities.  The Board finds that the probative weight of the evidence is against a finding that the Veteran required regulation of activities due to diabetes mellitus because there has been no such showing.  
+
+The Board acknowledges the Veteran was advised to modify his activity in relation to a knee injury in March 2022.  However, those instructions were given in conjunction with a physical therapy treatment designed to rehabilitate the Veteran's knee.  Additionally, the Veteran's medical records, show that the Veteran consistently denied restriction of activities and informed medical providers that he was able to independently perform daily activities.  There is no evidence of record in which the Veteran's activities are restricted to treat diabetes mellitus.  The more persuasive evidence shows that the Veteran denied restriction of activities, and examiners found that no regulation of activities was required for the medical management of diabetes mellitus.
+
+The Veteran is competent to report the effects that he has felt as a result of diabetes mellitus and his reports are credible.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).  However, the medical evidence of record is against a finding that regulation of activities was required during the period on appeal.
+
+Therefore, the Board finds that the disability does not more closely approximate the rating criteria for 40 percent.  Because the criteria for 60 or 100 percent evaluation also requires a showing that the service-connected diabetes mellitus has required regulation of activities, further analysis as to whether any higher rating under Diagnostic Code 7913 is unnecessary.  
+
+Accordingly, the Board finds that the weight of the evidence is against assigning a rating in excess of 20 percent for diabetes mellitus during the period on appeal.  The Board finds that the evidence is not in approximate balance and there is no reasonable doubt to resolve in favor of the Veteran.  Therefore, the claim must be denied.  38 U.S.C. § 5107; 38 C.F.R. § 3.102. 
+
+2. Entitlement to a compensable rating for bilateral nonproliferative diabetic retinopathy in both eyes.
+
+Compensable complications of diabetes are evaluated separately unless they are part of the criteria used to support a 100-percent evaluation.  Noncompensable complications are considered part of the diabetic process under DC 7913.  38 C.F.R. § 4.79, Diagnostic Code 7913, Note 1.
+
+A November 2023 rating decision found that service connection for moderate non-proliferative diabetic retinopathy in both eyes was established as related to service-connected diabetes mellitus.  However, no Diagnostic Code was assigned.
+
+The Veteran contends that he is entitled to a separate rating for diabetic retinopathy in both eyes.  Specifically, the Veteran asserts that he is entitled to a rating in excess of 0 percent.  Because the Veteran contends that he is entitled to a separate rating, the Board discusses evaluation of the Veteran's diabetic retinopathy separately from his claim for entitlement to a rating in excess of 20 percent for diabetes mellitus. 
+
+Diabetic retinopathy is rated pursuant to Diagnostic Code 6040, which instructs to rate pursuant to the General Rating Formula for Diseases of the Eye.
+
+The General Rating Formal for Diseases of the Eye instructs to rate on the basis of either visual impairment due to a particular condition or on incapacitating episodes, whichever results in a higher rating.  Where there are documented incapacitating episodes requiring at least one but less than three treatment visits for an eye condition during the past 12 months, a 10 percent rating is warranted.  Where there are documented incapacitating episodes requiring at least three but less than five treatment visits for an eye condition during the past 12 months, a 20 percent rating is warranted.  Where there are documented incapacitating episodes requiring at least five but less than seven treatment visits for an eye condition during the past 12 months, a 40 percent rating is warranted.  Where there are documented incapacitating episodes requiring seven or more treatment visits for an eye condition during the past 12 months, a 60 percent rating is warranted.
+
+For the purposes of evaluation under 38 CFR 4.79, an incapacitating episode is an eye condition severe enough to require a clinic visit to a provider specifically for treatment purposes.  38 C.F.R. § 4.79, General Rating Formal for Diseases of the Eye, Note 1.
+
+The criteria also provides for consideration of visual impairment due to a particular disability.
+
+The evaluation of visual impairment is based on impairment of visual acuity (excluding developmental errors of refraction), visual field, and muscle function. 38 C.F.R. § 4.75(a).  To determine the evaluation for visual impairment when both decreased visual acuity and visual field defect are present in one or both eyes and are service-connected, visual acuity and visual field defects are evaluated separately, and then combined under the provisions of § 4.25.  The Board notes there is no evidence that the Veteran has impairment of visual field.
+
+Evaluation of visual acuity is based on corrected distance vision with central fixation.  38 C.F.R. § 4.76(b)(1).  The measurements for each eye are applied to the table for Impairment of Central Visual Acuity.  Generally, the table is divided into steps corresponding to different levels of visual acuity for one eye, and each step is further divided into subsections of visual acuity for the other eye, with corresponding ratings.  Where a reported visual acuity is between two sequentially listed visual acuities, the visual acuity which permits the higher evaluation will be used.  38 C.F.R. § 4.76(c).
+
+Subject to the provisions of 38 C.F.R. § 3.383(a), if visual impairment of only one eye is service-connected, the visual acuity of the other eye will be considered to be 20/40 for purposes of rating the service-connected visual impairment.  38 C.F.R. § 4.75(c).  The rating for visual impairment of one eye must not exceed 30 percent unless there is anatomical loss of the eye.  The rating for visual impairment of one eye should be combined with other disabilities of the same eye that are not based on visual impairment (such as disfigurement under Diagnostic Code 7800).  38 C.F.R. § 4.75(d).
+
+Diagnostic Code 6066 provides ratings where vision in one eye (the poorer eye) is 10/200 or better.  Where the visual acuity in both eyes is 20/40, a 0 percent rating is warranted.  Where the visual acuity in the poorer eye is 20/50, a 10 percent rating is warranted where vision in the other eye is either 20/50 or 20/40.
+
+Analysis
+
+The Veteran contends that he is entitled to a separate compensable for bilateral nonproliferative diabetic retinopathy in both eyes.
+
+In August 2021 at the Clarksburg VAMC, the Veteran informed the VA examiner that his vision was stable, but his near vision was decreased.  The Veteran had no floaters or curtains.
+
+In October 2021, the Veteran's retinopathy screen was positive during a screening at the Clarksburg VAMC.  The Veteran's vision was recorded as stable with no floaters.
+
+A September 2023 VA examination diagnosed the Veteran with moderate bilateral nonproliferative diabetic retinopathy.  During the examination, the Veteran reported that he received focal laser treatments and injections in both eyes in April 2023.  The Veteran reported that his vision stayed the same after treatment.  During that examination, the VA examiner determined the Veteran's corrected visual acuity was 20/20 or better in both eyes.  Additionally, after performing visual field testing, the examiner determined that the Veteran had no documented visual field defects, contraction of a visual field, loss of a visual field, or scotoma.
+
+Based on the foregoing, the Board finds that a compensable rating for diabetic retinopathy is not warranted.  The next higher rating requires a showing that diabetic retinopathy resulted in documented incapacitating episodes requiring at least 1 but less than 3 treatment visits for an eye disability during the past 12 months.  Though the Veteran reported having laser treatments performed during a September 2023 VA examination, there is no evidence of record suggesting those treatments were performed due to incapacitating episodes which required a clinic visit specifically for those treatments.  There is no evidence of record documenting laser treatments of any kind.  Therefore, the Board finds that the probative weight of the evidence is against a finding that the Veteran experienced incapacitating episodes requiring at least 1 but less than 3 treatment visits for an eye disability during the past 12 months because there has been no such showing.  
+
+Additionally, the Veteran's corrected visual acuity was 20/20 or better in both eyes.  The record shows that the Veteran had no documented visual field defects, contraction of a visual field, loss of a visual field, or scotoma.
+
+The Board acknowledges the Veteran asserts that he is entitled to a rating in excess of 0 percent for diabetic retinopathy.  The Veteran is competent to report the effects that he has felt as a result of diabetic retinopathy and his reports are credible.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).  However, the Veteran's medical records show that the Veteran's vision was stable.  The medical evidence of record is against a finding that diabetic retinopathy warrants a rating a in excess of 0 percent.  Therefore, the Board finds that the disability does not more closely approximate the rating criteria for 10 percent.
+
+Accordingly, the Board finds that the weight of the evidence is against assigning a rating in excess of 0 percent for diabetic retinopathy during the period on appeal.  The Board finds that the evidence is not in approximate balance and there is no reasonable doubt to resolve in favor of the Veteran.  As such, diabetic retinopathy is considered part of the diabetic process.  38 C.F.R. § 4.79, Diagnostic Code 7913, Note 1.  Therefore, the claim must be denied.  38 U.S.C. § 5107; 38 C.F.R. § 3.102.  
+
+REASONS FOR REMAND
+
+1. Entitlement to a TDIU
+
+Although the Board regrets the delay, additional development is needed prior to further disposition on the claim of entitlement to a TDIU.
+
+During the course of the appeal of entitlement to an increased rating for diabetes mellitus, type II, and a compensable rating for diabetic retinopathy, the issue of entitlement to a TDIU was raised by the record prior to issuance of the rating decision on appeal.  If the claimant or the record reasonably raises the question of whether the Veteran is unemployable due to the disability for which an increased rating is sought, then part of the claim for an increased rating includes consideration of whether TDIU is warranted.  Rice v. Shinseki, 22 Vet. App. 447 (2009).
+
+In November 2020, the Veteran asserted that he was unemployed because he quit his job and was retired in 2019 due to his disabilities.  VA treatment records indicated that the Veteran was unemployed in September 2020.  At the time, the Veteran stated he was unemployed but had previously worked as a controller engineer since 2008.  VA treatment records indicated the Veteran was a full-time student in July 2017.
+
+In October 2021, a VA examiner determined that the Veteran's service-connected diabetic peripheral neuropathy impacted his ability to work.  Specifically, the examiner stated that the Veteran had risks of falling while working at heights and was a crash risk.
+
+As a result, it is not clear when the Veteran was last employed and in what role or capacity, and what training, experience, or qualifications the Veteran may have.  In light of the changes that have occurred during the course of the appeal, and to avoid any prejudice to the Veteran, the Board finds that information regarding the Veteran's employment history, such as when he was employed and whether it was full time employment, is needed prior to adjudication of the claim for a TDIU.
+
+The evidence raises the issue of entitlement to TDIU.  Not developing and adjudicating the implied issue of TDIU constitutes a pre-decisional duty to assist error.  To correct that pre-decisional error, the Board finds that, after giving the Veteran an opportunity to file a formal claim for a TDIU, and completing the other actions noted below, the AOJ should adjudicate that matter in the first instance, to avoid any prejudice to the Veteran.  Bernard v. Brown, 4 Vet. App. 384 (1993).
+
+The Veteran is reminded that the duty to assist is not a one-way street.  A Veteran is required to cooperate with the examiner's efforts to evaluate the nature and current severity of symptomology.  Wood v. Derwinski,1 Vet. App. 190 (1991).  The Veteran is notified that it is the Veteran's responsibility to report for any scheduled examination and to cooperate in the development of these claims.  The consequences of failure to cooperate with or report for a VA examination without good cause may include denial of the claim.  38 C.F.R. § 3.655.  The Veteran is notified that failure to cooperate during the requested VA examination may result in an adverse determination.  38 C.F.R. § 3.655; Connolly v. Derwinski, 1 Vet. App. 566 (1991).
+
+The matters are REMANDED for the following action:
+
+1. Send the Veteran and representative a letter requesting that the Veteran furnish any additional information or evidence pertinent to the claim for TDIU, to include completion of VA Form 21-8940.  The letter should specifically notify the Veteran of the criteria to establish entitlement to a TDIU and supply the form to apply for a TDIU.  
+
+*The Veteran is encouraged to cooperate with the AOJ's actions in furtherance of the development of his appeal seeking a TDIU, to include providing a full disclosure of all pertinent information and corroborating evidence in a timely manner.
+
+2. Thereafter, take all appropriate action needed to develop employment information related to the TDIU claim, to include the nature, hours, and income relating to any part time work.  Then, after a review of the additional evidence, conduct any other development deemed necessary and adjudicate the claim for TDIU. If the benefit sought is not granted to the fullest extent, the AOJ must provide the Veteran and his representative a 
+
+copy of the adjudication and afford them an appropriate time to respond.  
+
+ 
+
+Scott W. Dale
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Marissa R. Harper, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,227 @@
+Citation Nr: A25032291
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 231130-396072
+DATE: April 8, 2025
+
+ORDER
+
+Service connection for right ear hearing loss is denied.
+
+REMANDED
+
+Entitlement to service connection for a cervical spine disability.
+
+Entitlement to service connection for a left shoulder disability.
+
+Entitlement to service connection for a low back disability.
+
+Entitlement to service connection for a left hip disability.
+
+Entitlement to service connection for a right knee disability.
+
+Entitlement to service connection for a left knee disability.
+
+Entitlement to service connection for a right ankle disability.
+
+Entitlement to service connection for a left ankle disability.
+
+FINDING OF FACT
+
+There is no evidence of current right ear hearing loss at a level qualifying as a disability for VA compensation purposes.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for right ear hearing loss are not met. 38 U.S.C. §§ 1110, 1111, 1131, 1132, 5107(b); 38 C.F.R. §§ 3.102, 3.303(a).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+Introduction
+
+The Veteran served two periods of active duty for training (ACDUTRA) in the Army from June to August 1981 and from June to August 1982, with additional service with the Army Reserves.
+
+This case is before the Board of Veterans' Appeals (Board) on appeal from a May 2023 higher-level review rating decision by the Department of Veterans Affairs (VA) Regional Office (RO).
+
+Because a higher-level review decision only considers the record as of the time of the rating decision on review, in adjudicating this appeal, the Board may consider evidence associated with the record before January 27, 2023, (right ear hearing loss) and February 2, 2023, (all other claims), the dates of the rating decisions reviewed by the May 2023 higher-level review decision.
+
+If the Veteran submitted evidence that was added to the record after these dates, the Board did not consider it. If the Veteran wishes to have VA consider any evidence that was not considered, a supplemental claim should be submitted identifying this evidence. See 38 C.F.R. § 3.2501.
+
+Right Ear Hearing Loss
+
+The Veteran is seeking service connection for right ear hearing loss.
+
+Generally, in order to prove service connection, there must be competent, credible evidence of: 1) a current disability, 2) in-service incurrence or aggravation of an injury or disease, and 3) a nexus, or link, between the current disability and the in-service disease or injury. See, e.g., Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009).
+
+Here, unfortunately, there is no evidence of current right ear hearing loss at a level qualifying as a disability for VA compensation purposes.
+
+To qualify as a disability for VA compensation purposes, hearing loss must meet one of the following criteria:
+
+"	An auditory threshold in any of the frequencies 500, 1000, 2000, 3000, 4000 Hertz of 40 decibels or greater; or
+
+"	Auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz of 26 decibels or greater; or 
+
+"	Speech recognition scores using the Maryland CNC Test of less than 94 percent.
+
+38 C.F.R. § 3.385
+
+The Veteran was afforded two VA examinations with audiograms in February 2021 and January 2023, with the following findings. (Average puretone thresholds for the frequencies 1000-4000 Hz and speech discrimination scores ("CNC") are noted in the final two columns.)
+
+February 2021	HERTZ
+
+ 	500	1000	2000	3000	4000	Avg	CNC
+
+RIGHT	25	25	15	25	30	23.75	64%
+
+January 2023	HERTZ
+
+ 	500	1000	2000	3000	4000	Avg	CNC
+
+RIGHT	20	25	25	25	30	26.25	NA
+
+These results reflect no auditory threshold of 40 decibels or greater, and none of 26 decibels or greater.
+
+Moreover, although the Veteran's speech recognition score at the February 2021 examination was 64 percent, the examiner marked "The use of the speech discrimination score is not appropriate for this Veteran because of language difficulties, cognitive problems, inconsistent speech discrimination scores, etc., that make combined use of puretone average and speech discrimination scores inappropriate." 
+
+Similarly, the January 2023 examiner noted "Pure tone thresholds were obtained within normal limits in the right ear, but speech recognition remains inconsistent with organic hearing loss when compared to normative data. The veteran presented with speech recognition of 54%; however, per Mendel et al's research ... normative data for this veteran's 4 frequency pure tone average indicates speech recognition is expected to be 94% to 100%. Considering the pure tone thresholds are within normal limits and the reduced speech recognition is inconsistent with organic test results, there is no evidence of organic pathology to render a diagnosis."
+
+In other words, both examiners considered the Veteran's low speech recognition scores to be unreliable for diagnostic purposes. However, both indicated that the puretone threshold findings were reliable, and these findings indicate no hearing loss at a level qualifying as a disability for VA compensation purposes.
+
+The findings of the February 2021 and January 2023 are competent and credible, and there is no evidence to the contrary. Therefore, the Board finds the Veteran does not have current right ear hearing loss at a level qualifying as a disability for VA compensation purposes.
+
+Therefore, service connection for right ear hearing loss is not warranted.
+
+REASONS FOR REMAND
+
+Entitlement to Service Connection for Disabilities of the Cervical Spine, Left Shoulder, Low Back, Left Hip, Right and Left Knees, and Right and Left Ankles
+
+VA must provide a VA medical examination when there is evidence of a disability that may be associated with an in-service event, injury, or disease, but the competent medical evidence of record is insufficient to adjudicate the claim. McLendon v. Nicholson, 20 Vet. App. 79 (2006).
+
+Moreover, in this case the RO has made a formal finding that the Veteran's service treatment records (STRs) cannot be located. See February 2021 Final Attempt Letter. When a Veteran's service medical records are missing or destroyed, VA has a heightened duty to "consider applicability of the benefit of the doubt rule, to assist the claimant in developing the claim, and to explain its decision." Cromer v. Nicholson, 19 Vet. App. 215, 217-218 (2005) (quoting Russo v. Brown, 9 Vet. App. 46, 51 (1996)).
+
+In this light, the Board notes that the Veteran submitted detailed statements in August 2022, before the decision on appeal, reporting in-service injury or treatment and current pain, symptoms, or other disability related to each of the above-named claimed disabilities.
+
+Specifically, the Veteran reported that she injured her left shoulder, neck, and left knee during training. She also reported that she injured her left hip and both ankles during service, and was "seen at medical several times for Back and other related pains." She further reported that she continued to experience pain and related symptoms and impairment as the result of each of these disabilities from separation from service to the present.
+
+In addition, for the Veteran's claimed disabilities of the cervical spine, low back, left shoulder, and bilateral knees, the RO made a favorable finding of a current disability in its May 2023 decision. Although there is no objective medical evidence in the file of any current disability or diagnosis of the left hip and bilateral ankles, the Veteran reported in her August 2022 statements that she has "had issues" with her left hip and both ankles "ever since active duty" including "pain, limited movement, swelling, weakness, and muscle fatigue" of the left hip and ankle pain that limits her activities.
+
+Although the Veteran's STRs are unavailable and thus no objective evidence is available regarding any in-service event, injury, or disease related to the Veteran's claimed disabilities, in light VA's heightened duty to assist the Veteran in developing this claim, the Board finds that the evidence meets the low threshold under McLendon to require that VA afford the Veteran a VA examination and medical nexus opinion in support of each of these claims.
+
+Under the AMA, the Board must remand an appeal for correction of an error of the AOJ in satisfying VA's duty to assist if the error occurred before the date of the decision on appeal. 38 C.F.R. § 20.802(a).
+
+The Board finds that the failure to provide the Veteran VA examinations and medical nexus opinions in support of these claims before the decision on appeal was a pre-decisional duty to assist error. Accordingly, remand is necessary to correct the error.
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for a VA examination with an appropriate clinician to determine the nature and etiology of the Veteran's cervical spine disability.
+
+Following review of the claims file, including this remand, and examination of the Veteran, the clinician should respond to the following:
+
+(a.) Is it at least as likely as not (i.e., is the evidence in approximate balance or nearly equal) that the Veteran's cervical spine disability had its onset during or within one year of separation from active-duty service, or is otherwise related to service?
+
+(b.) Please explicitly discuss and account for the Veteran's report that she injured her neck in service during a training exercise, and that she continued to have issues with and sought treatment for her neck after service. See August 2022 Statement. If you find that this is at odds with the medical evidence, explain why. If you find that any contrary medical evidence is more probative than the Veteran's report, explain why.
+
+(c.) In rendering this opinion, please note that because the Veteran's service treatment records cannot be located, VA owes this Veteran a heightened duty to assist in developing facts pertinent to the claim.
+
+(d.) Consequently, if a negative opinion is rendered, it may not be based on a lack of documented treatment or complaints in service. Rather, an adequate opinion rationale may consider evidence that is of record, such as military personnel records, post-service medical records, and lay statements.
+
+(e.) Please provide full and complete medical reasoning for each opinion, citing to lay and medical evidence, as well as any peer-reviewed medical literature referenced in formulating it.
+
+(f.) If you find that an opinion cannot be provided, this conclusion should also be clearly explained (e.g., lack of sufficient information/evidence in this case, or a lack of knowledge among the medical community at large, and not the insufficient knowledge of the individual clinician).
+
+2. Schedule the Veteran for a VA examination with an appropriate clinician to determine the nature and etiology of the Veteran's left shoulder disability.
+
+Following review of the claims file, including this remand, and examination of the Veteran, the clinician should respond to the following:
+
+(a.) Is it at least as likely as not (i.e., is the evidence in approximate balance or nearly equal) that the Veteran's left shoulder disability had its onset during or within one year of separation from active-duty service, or is otherwise related to service?
+
+(b.) Please explicitly discuss and account for the Veteran's report that she injured her left shoulder in service during "physical training exercises and a training accident" and that she has had issues with her left shoulder ever since active-duty service. See August 2022 Statement. If you find that this is at odds with the medical evidence, explain why. If you find that any contrary medical evidence is more probative than the Veteran's report, explain why.
+
+(c.) In rendering this opinion, please note that because the Veteran's service treatment records cannot be located, VA owes this Veteran a heightened duty to assist in developing facts pertinent to the claim.
+
+(d.) Consequently, if a negative opinion is rendered, it may not be based on a lack of documented treatment or complaints in service. Rather, an adequate opinion rationale may consider evidence that is of record, such as military personnel records, post-service medical records, and lay statements.
+
+(e.) Please provide full and complete medical reasoning for each opinion, citing to lay and medical evidence, as well as any peer-reviewed medical literature referenced in formulating it.
+
+(f.) If you find that an opinion cannot be provided, this conclusion should also be clearly explained (e.g., lack of sufficient information/evidence in this case, or a lack of knowledge among the medical community at large, and not the insufficient knowledge of the individual clinician).
+
+3. Schedule the Veteran for a VA examination with an appropriate clinician to determine the nature and etiology of the Veteran's low back disability.
+
+Following review of the claims file, including this remand, and examination of the Veteran, the clinician should respond to the following:
+
+(a.) Is it at least as likely as not (i.e., is the evidence in approximate balance or nearly equal) that the Veteran's low back disability had its onset during or within one year of separation from active-duty service, or is otherwise related to service?
+
+(b.) Please explicitly discuss and account for the Veteran's report that she sought treatment in service "several times for Back and other related pains" and that she has continued to have low back issues since service. See August 2022 Statement. If you find that this is at odds with the medical evidence, explain why. If you find that any contrary medical evidence is more probative than the Veteran's report, explain why.
+
+(c.) In rendering this opinion, please note that because the Veteran's service treatment records cannot be located, VA owes this Veteran a heightened duty to assist in developing facts pertinent to the claim.
+
+(d.) Consequently, if a negative opinion is rendered, it may not be based on a lack of documented treatment or complaints in service. Rather, an adequate opinion rationale may consider evidence that is of record, such as military personnel records, post-service medical records, and lay statements.
+
+(e.) Please provide full and complete medical reasoning for each opinion, citing to lay and medical evidence, as well as any peer-reviewed medical literature referenced in formulating it.
+
+(f.) If you find that an opinion cannot be provided, this conclusion should also be clearly explained (e.g., lack of sufficient information/evidence in this case, or a lack of knowledge among the medical community at large, and not the insufficient knowledge of the individual clinician).
+
+4. Schedule the Veteran for a VA examination with an appropriate clinician to determine the nature and etiology of the Veteran's claimed left hip disability.
+
+Following review of the claims file, including this remand, and examination of the Veteran, the clinician should respond to the following:
+
+(a.) Is it at least as likely as not (i.e., is the evidence in approximate balance or nearly equal) that the Veteran's left hip disability had its onset during or within one year of separation from active-duty service, or is otherwise related to service?
+
+(b.) Please explicitly discuss and account for the Veteran's report that she injured her left hip during active-duty service, and that she has "had issues with my left hip ever since." See August 2022 Statement. If you find that this is at odds with the medical evidence, explain why. If you find that any contrary medical evidence is more probative than the Veteran's report, explain why.
+
+(c.) In rendering this opinion, please note that because the Veteran's service treatment records cannot be located, VA owes this Veteran a heightened duty to assist in developing facts pertinent to the claim.
+
+(d.) Consequently, if a negative opinion is rendered, it may not be based on a lack of documented treatment or complaints in service. Rather, an adequate opinion rationale may consider evidence that is of record, such as military personnel records, post-service medical records, and lay statements.
+
+(e.) Please provide full and complete medical reasoning for each opinion, citing to lay and medical evidence, as well as any peer-reviewed medical literature referenced in formulating it.
+
+(f.) If you find that an opinion cannot be provided, this conclusion should also be clearly explained (e.g., lack of sufficient information/evidence in this case, or a lack of knowledge among the medical community at large, and not the insufficient knowledge of the individual clinician).
+
+5. Schedule the Veteran for a VA examination with an appropriate clinician to determine the nature and etiology of the Veteran's right and left knee disabilities.
+
+Following review of the claims file, including this remand, and examination of the Veteran, the clinician should respond to the following:
+
+(a.) Is it at least as likely as not (i.e., is the evidence in approximate balance or nearly equal) that the Veteran's right knee disability had its onset during or within one year of separation from active-duty service, or is otherwise related to service?
+
+(b.) Is it at least as likely as not (i.e., is the evidence in approximate balance or nearly equal) that the Veteran's left knee disability had its onset during or within one year of separation from active-duty service, or is otherwise related to service?
+
+(c.) Please explicitly discuss and account for the Veteran's report that she injured her left knee in service "in a training accident," that she "was also seen multiple times in medical for pain, limited movement, swelling, looseness, weakness, muscle fatigue, cracking, and popping in [her] right knee," and that she has "had issues with [her] knees ever since active-duty." See August 2022 Statement. If you find that this is at odds with the medical evidence, explain why. If you find that any contrary medical evidence is more probative than the Veteran's report, explain why.
+
+(d.) In rendering this opinion, please note that because the Veteran's service treatment records cannot be located, VA owes this Veteran a heightened duty to assist in developing facts pertinent to the claim.
+
+(e.) Consequently, if a negative opinion is rendered, it may not be based on a lack of documented treatment or complaints in service. Rather, an adequate opinion rationale may consider evidence that is of record, such as military personnel records, post-service medical records, and lay statements.
+
+(f.) Please provide full and complete medical reasoning for each opinion, citing to lay and medical evidence, as well as any peer-reviewed medical literature referenced in formulating it.
+
+(g.) If you find that an opinion cannot be provided, this conclusion should also be clearly explained (e.g., lack of sufficient information/evidence in this case, or a lack of knowledge among the medical community at large, and not the insufficient knowledge of the individual clinician).
+
+6. Schedule the Veteran for a VA examination with an appropriate clinician to determine the nature and etiology of the Veteran's claimed right and left ankle disabilities.
+
+Following review of the claims file, including this remand, and examination of the Veteran, the clinician should respond to the following:
+
+(a.) Is it at least as likely as not (i.e., is the evidence in approximate balance or nearly equal) that the Veteran's right ankle disability had its onset during or within one year of separation from active-duty service, or is otherwise related to service?
+
+(b.) Is it at least as likely as not (i.e., is the evidence in approximate balance or nearly equal) that the Veteran's left ankle disability had its onset during or within one year of separation from active-duty service, or is otherwise related to service?
+
+(c.) Please explicitly discuss and account for the Veteran's report that she injured both ankles during active-duty service and was seen multiple times in service for ankle problems, and that she has "had issues with my ankles ever since active-duty." See August 2022 Statement. If you find that this is at odds with the medical evidence, explain why. If you find that any contrary medical evidence is more probative than the Veteran's report, explain why.
+
+(d.) In rendering this opinion, please note that because the Veteran's service treatment records cannot be located, VA owes this Veteran a heightened duty to assist in developing facts pertinent to the claim.
+
+(e.) Consequently, if a negative opinion is rendered, it may not be based on a lack of documented treatment or complaints in service. Rather, an adequate opinion rationale may consider evidence that is of record, such as military personnel records, post-service medical records, and lay statements.
+
+(f.) Please provide full and complete medical reasoning for each opinion, citing to lay and medical evidence, as well as any peer-reviewed medical literature referenced in formulating it.
+
+(g.) If you find that an opinion cannot be provided, this conclusion should also be clearly explained (e.g., lack of sufficient information/evidence in this case, or a lack of knowledge among the medical community at large, and not the insufficient knowledge of the individual clinician).
+
+ 
+
+ 
+
+S.C. Krembs
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Philip Timmerman
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

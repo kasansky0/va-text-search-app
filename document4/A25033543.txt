@@ -1,0 +1,83 @@
+Citation Nr: A25033543
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240801-460482
+DATE: April 10, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA), to include as secondary to service-connected disabilities with obesity as an intermediate step, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Navy from November 1987 to November 1993.
+
+Although the Veteran initially requested Higher-Level Review when submitting the February 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review, the Higher-Level Reviewer determined that there had been a duty to assist error and transferred the claim to the Supplemental Claim decision review option for additional development.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board of Veterans' Appeals (Board) may only consider the evidence of record at the time of the July 2024 agency of original jurisdiction (AOJ) supplemental claim decision on appeal.  38 C.F.R. § 20.301.  If evidence was submitted after the AOJ issued the supplemental claim decision on appeal, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the claim of entitlement to service connection for OSA, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+As a final preliminary matter, the Board acknowledges the recent precedential decision in Williams regarding 38 C.F.R. § 20.202(c)(2) and deciding AMA appeals before the time to change dockets has ended.  See Williams v. McDonough, 37 Vet. App. 305 (2024).  Generally, the Board may not decide an appeal before the deadline for requesting an AMA docket switch has elapsed.  38 C.F.R. § 20.202 (c)(2) allows claimants to switch AMA dockets by completing and submitting a new Notice of Disagreement within one year from the date the AOJ mails notice of the decision on appeal, or 60 days from when the Board receives the Notice of Disagreement, whichever is later, unless a claimant has already submitted evidence or testimony as described in 38 C.F.R. §§ 20.302 and 20.303.  In this case, less than one year has passed since the AOJ mailed notice of the decision on appeal; however, as the Board is remanding the issue for additional development, there is no prejudice to the Veteran in proceeding with the claim on appeal prior to the expiration of the deadline for requesting an AMA docket switch.
+
+Entitlement to service connection for OSA, to include as secondary to service-connected disabilities with obesity as an intermediate step.
+
+The Veteran contends that his OSA is secondary to his weight gain and obesity caused by his service-connected back and lower extremity radiculopathy disabilities.  See September 2022 Supplemental Claim Brief; see also August 2024 Appellate Brief.
+
+Following a review of the claims file, a remand is warranted to correct a pre-decisional duty to assist error.  Specifically, the Board finds the VA medical opinions inadequate for adjudicative purposes.  The Board notes that when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303 (2007).
+
+Upon VA examination in March 2022, the Veteran's diagnosis of OSA was confirmed.  In a separate medical opinion, the VA examiner opined that the Veteran's OSA is less likely than not approximately due to or the result of the Veteran's service-connected degenerative arthritis of the spine and/or right lower extremity radiculopathy.  The examiner did not find any direct relationship between the Veteran's service-connected degenerative arthritis of the spine and right lower extremity radiculopathy and did not believe that the Veteran's degree of obesity would account for the development of OSA.  Instead, the VA examiner opined that the Veteran's degree of obesity is secondary to his musculoskeletal conditions in his spine.  The examiner did not provide an opinion regarding aggravation.
+
+In an October 2022 VA examination based on a records review, the Veteran's diagnosis of OSA was again confirmed.
+
+In a subsequent January 2023 VA medical opinion, an examiner opined that the Veteran's OSA was less likely than not proximately due to or a result of his service-connected back disability.  The examiner noted that OSA is caused by obstruction in upper airways during sleep.  The VA examiner did not provide an opinion regarding aggravation. 
+
+In a June 2023 VA medical opinion, an examiner opined that the Veteran's OSA was less likely than not caused by the Veteran's in-service toxic exposure risk activities.  The examiner noted that there are risk factors outside of military service, such as the Veteran's obesity which he could have incurred due to his limited mobilization secondary to his service-connected back and lower extremity radiculopathy disabilities, that far outweigh the factors identified in the Veteran's toxic exposure risk activities during service.
+
+In a subsequent July 2024 VA medical opinion, a VA examiner similarly opined that the Veteran's OSA was less likely than not caused by the Veteran's in-service toxic exposure risk activities.  The examiner indicated that the Veteran's OSA is more likely due to his obesity, his smoking, the size of his neck, and age-related contraction of the throat, causing obstruction.  Thus, the examiner provided that, in this case, the most likely causes are anatomic.
+
+In support of his claim, the Veteran submitted in September 2022 a private examination and medical opinion.  The private examiner confirmed the Veteran's OSA diagnosis and ultimately opined that it is more likely than not that the Veteran's OSA was caused or aggravated by his service-connected back and lower extremity radiculopathy disabilities through obesity as an intermediate step.  In his medical opinion, the private examiner noted a high association between back pain and sleep problems and documented the Veteran's reports of limited mobility and hampered flexibility due to his chronic back pain.  The private examiner further provided that there is research to support an association between sleep apnea and the degree of the Veteran's obesity.
+
+Upon consideration of the above medical opinions, the Board finds the March 2022 and January 2023 VA medical opinions inadequate.  In providing a negative opinion for service connection on a secondary basis for the Veteran's OSA, the VA examiners did not address the required prong of aggravation.  See El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013).
+
+The Board further finds the March 2022, June 2023, and July 2024 VA medical opinions and the private medical opinion, received September 2022, regarding obesity as an intermediate step inadequate as they do not address all necessary elements.  See Garner v. Tran, 33 Vet. App. 241 (2021); see also Walsh v. Wilkie, 32 Vet. App. 300 (2020).  Specifically, the examiners did not specify whether the Veteran's service-connected back disability and/or bilateral lower extremity radiculopathy disabilities caused the Veteran to become obese or aggravated the Veteran's obesity, and whether his obesity, or aggravation of obesity, as a result of his service-connected back and/or bilateral lower extremity radiculopathy disabilities was a substantial factor in causing his OSA.
+
+Accordingly, a remand is necessary to obtain an addendum VA medical opinion and cure the pre-decisional duty to assist error.
+
+The matter is REMANDED for the following action:
+
+1. Obtain an addendum medical opinion from an appropriate clinician to determine the nature and etiology of the Veteran's OSA.  The need for an in-person examination is left to the discretion of the examiner.
+
+The entire claims file, including a copy of this Remand, must be made available to the examiner.  After reviewing the entire claims file, the examiner should:
+
+(a.) Opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's OSA was incurred in, caused by, or is etiologically related to his active service, to include as due to exposure to environmental toxins or other toxic risk exposure during service.
+
+With respect to the TERA opinion, the examiner must consider the Veteran's total potential exposure through all applicable military deployments and the synergistic and combined effect of all toxic exposure risk activities.
+
+(b.) Opine whether the Veteran's OSA was at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) caused by his service-connected disabilities, to include his degenerative arthritis, degenerative disc disease, and spinal stenosis and bilateral lower extremity radiculopathy.
+
+(c.) Opine whether the Veteran's OSA was at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) aggravated by his service-connected disabilities, to include his degenerative arthritis, degenerative disc disease, and spinal stenosis and bilateral lower extremity radiculopathy.
+
+The examiner is reminded that causation and aggravation are separate and distinct concepts and require separate rationales.  The examiner should provide specific evidence of record to support any conclusions, such as references from this Veteran's relevant medical history and/or medical literature.
+
+(d.) Address obesity as an intermediate step between the Veteran's service-connected disabilities and his OSA.  Specifically:
+
+i.	Opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any of the Veteran's service-connected disabilities caused him to become obese or aggravated his obesity.
+
+The examiner must render an opinion on both causation and aggravation.
+
+ii.	If yes (his obesity/weight gain was caused or aggravated by his service-connected disability), opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's obesity was a substantial factor in causing his OSA; and 
+
+iii.	If yes (his obesity/weight gain was caused or aggravated by his service-connected disability), opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's OSA would not have occurred but for the obesity/weight gain caused or aggravated by the Veteran's service-connected disabilities.
+
+The examiner is advised that the Veteran is competent to report his symptoms and history and that such reports must be acknowledged and considered in formulating any opinions.  The examiner must provide a complete rationale for any opinion offered, citing to the examiner's own expertise, medical principals, and/or evidence in the Veteran's claims file, when necessary, to support the conclusion reached.  If an opinion cannot be reached without resorting to speculation, the examiner must fully explain why. 
+
+ 
+
+H.M. WALKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Caitlin B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

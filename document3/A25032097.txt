@@ -1,0 +1,99 @@
+Citation Nr: A25032097
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 250318-521078
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to an initial 10 percent evaluation for hypertension is granted.
+
+REMANDED
+
+Entitlement to service connection for hypertension prior to August 10, 2022 is remanded.
+
+FINDING OF FACT
+
+The competent and probative evidence demonstrates that the Veteran's hypertension has been historically manifested by diastolic pressure predominantly measured as 100 or more and required continuous medication for control.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial 10 percent evaluation for hypertension are met.  38 U.S.C. §§ 1155, 5107(b); 38 C.F.R. §§ 3.102, 4.1, 4.3, 4.7, 4.101, Diagnostic Code 7101.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 1968 to April 1970.
+
+These matters come to the Board of Veterans' Appeals (Board) on appeal from March 2024 Higher-Level Review (HLR) rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In November 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of an October 2023 rating decision.  In March 2024, the AOJ issued the HLR decision on appeal, which considered the evidence of record at the time of the October 2023 rating decision.
+
+In the March 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), the Veteran elected the Direct Review option; therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301
+
+This case has been advanced on the docket pursuant to 38 C.F.R. § 20.902(c).
+
+1. Entitlement to an initial compensable evaluation for hypertension
+
+The Veteran asserts that his service-connected hypertension warrants a compensable rating.  As further explained below, the Board disagrees and finds that a compensable rating for his hypertension is not warranted in this case.
+
+Diagnostic Code 7101 governs evaluations of hypertension and provides as follows: (1) a 60 percent evaluation is warranted where diastolic pressure predominantly measures 130 or more; (2) a 40 percent evaluation is warranted where diastolic pressure predominantly measures 120 or more; (3) a 20 percent evaluation is warranted where diastolic pressure predominantly measures 110 or more or systolic pressure predominantly measures 200 or more; and (4) a 10 percent evaluation is warranted where diastolic pressure predominantly measures 100 or more, or systolic pressure predominantly measures 160 or more; or an individual with a history of diastolic pressure predominantly measured as 100 or more also requires continuous medication for control.  See 38 C.F.R. § 4.104, Diagnostic Code 7101.
+
+Hypertension or isolated systolic hypertension must be confirmed by readings taken two or more times on at least three different days.  See Diagnostic Code 7101, Note (1).  For purposes of this section, the term hypertension means that the diastolic blood pressure is predominantly 90mm. or greater, and isolated systolic hypertension means that the systolic blood pressure is predominantly 160mm. or greater with a diastolic blood pressure of less than 90mm.  See id. 
+
+Diagnostic Code 7101 directs VA to consider historical, as well as current, blood pressure readings.  A current evaluation of hypertension can be based on the relevant "historical blood pressure readings," defined as readings taken before the hypertension was controlled with medication.  See Wilson v. McDonough, 35 Vet. App. 75, 76 (2021).
+
+The term "predominant" is not defined in the rating criteria.  Merriam-Webster defines predominant to mean "being most frequent or common."  See, e.g., "predominant," Merriam-Webster.com Online Dictionary, https://www.merriam-webster.com/dictionary/predominant (last visited April 1, 2025).
+
+The Veteran was afforded a VA examination in July 2023.  The Veteran's treatment plan included taking continuous medication.  The blood pressure readings were 132/80, 130/82, and 140/82.
+
+Historically, the Veteran underwent a VA examination in March 2022.  The blood pressure readings were 185/107, 170/100, and 177/101.  The examiner noted that the Veteran's treatment plan included taking continuous medication.    
+
+In light of the foregoing, the Board finds that an initial 10 percent evaluation is warranted for hypertension.  The competent and probative evidence demonstrates that the Veteran's hypertension has been historically manifested by diastolic pressure predominantly measured as 100 or more and required continuous medication for control.  The Board further finds that an initial evaluation higher than 10 percent is not warranted as the Veteran's hypertension has not been manifested by diastolic pressure predominately measuring 110 or more or systolic pressure predominantly measuring 200 or more during the period on appeal.  
+
+Accordingly, an initial 10 percent evaluation for hypertension is granted.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7.
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for hypertension prior to August 10, 2022 is remanded.
+
+The Board is not able to make a fully informed decision regarding the issue of service connection for hypertension prior to August 10, 2022.
+
+The Veteran contends that hypertension is due to exposure to Agent Orange and secondary to service-connected mental health condition.  March 21, 2022, VA 21-526EZ.
+
+The Veteran was examined in March 2022.  The examiner found that the diagnosis of hypertension was made in 2017.  He opined that hypertension is more likely related to the diagnosis of stage III kidney failure rather than Agent Orange exposure.  The examiner provided no rationale for his opinion.  As such, the opinion is inadequate as it is not supported by a clear rationale.  A mere conclusion without an underlying rationale is of no probative value.  Miller v. West, 11 Vet. App. 345 (1998).  
+
+In addition, the examiner did not consider whether hypertension was directly related to service or secondary to service connected other specified trauma and stressor related disorder with unspecified depressive disorder with anxiety distress.  Despite failing to meet the presumptive service connection requirements for herbicide exposure prior to August 10, 2022, service connection can still be granted if actual direct causation of hypertension due to herbicide exposure is found.  See Combee v. Brown, 34 F.3d 1039, 1043-44 (Fed. Cir. 1994).  
+
+Accordingly, remand is warranted to correct pre-decisional duty to assist errors as it relates to service connection for hypertension prior to August 10, 2022. 
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion regarding the nature and etiology of hypertension prior to August 10, 2022 (the effective date of the PACT Act).  The examiner should review the claims file and address the following:
+
+(a.) Whether it is at least as likely as not (an approximate balance of positive and negative evidence, i.e., nearly equal probability) that the Veteran's hypertension is related to his active service, to include presumed exposure to herbicides.
+
+(b.) Whether it is at least as likely as not (an approximate balance of positive and negative evidence, i.e., nearly equal probability) that hypertension is due to service-connected other specified trauma and stressor related disorder with unspecified depressive disorder with anxiety distress (i.e., but for the service-connected other specified trauma and stressor related disorder with unspecified depressive disorder with anxiety distress, the Veteran would not have hypertension).  
+
+(c.) Whether it is at least as likely as not (an approximate balance of positive and negative evidence, i.e., nearly equal probability) that hypertension is aggravated by service-connected other specified trauma and stressor related disorder with unspecified depressive disorder with anxiety distress (i.e., would be less severe and result in less functional impairment but for the Veteran's service-connected other specified trauma and stressor related disorder with unspecified depressive disorder with anxiety distress) either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected other specified trauma and stressor related disorder with unspecified depressive disorder with anxiety distress resulted in the inability to treat the non-service-connected hypertension.
+
+The examiner is advised that the Veteran is competent to report in-service events, his symptoms and history.  Such reports must be specifically acknowledged and considered in formulating any opinions.  Lay statements of record cannot be disregarded solely due to lack of contemporaneous medical evidence.
+
+(Continued on the next page)
+
+?
+
+A thorough rationale, to include reference to relevant evidence of record as appropriate, should be provided for all opinions expressed.  If the examiner is unable to provide a requested opinion, a supporting rationale must be given concerning why the opinion cannot be provided.
+
+ 
+
+ 
+
+K. Parakkal
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B Jackson, M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

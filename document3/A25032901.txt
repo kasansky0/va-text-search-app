@@ -1,0 +1,99 @@
+Citation Nr: A25032901
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 220706-258810
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD) is granted.
+
+Entitlement to service connection for peripheral neuropathy affecting the right lower extremity is denied.
+
+Entitlement to service connection for peripheral neuropathy affecting the left lower extremity is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's PTSD is related to his service in the Republic of Vietnam, to include a bombing incident in which an airman died.
+
+2. Peripheral neuropathy affecting the right lower extremity was not manifest within one year after September 23, 1971, the last date on which the Veteran is presumed to have been exposed to an herbicide agent during active service, and the evidence of record persuasively weighs against finding that peripheral neuropathy affecting the right lower extremity began during active service or is otherwise related to an in-service injury or disease.
+
+3. Peripheral neuropathy affecting the left lower extremity was not manifest within one year after September 23, 1971, the last date on which the Veteran is presumed to have been exposed to an herbicide agent during active service, and the evidence of record persuasively weighs against finding that peripheral neuropathy affecting the left lower extremity began during active service or is otherwise related to an in-service injury or disease.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for PTSD are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304(f).
+
+2. The criteria for service connection for peripheral neuropathy affecting the right lower extremity are not met.  38 U.S.C. §§ 1110, 1113, 1116, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.308(e).
+
+3. The criteria for service connection for peripheral neuropathy affecting the left lower extremity are not met.  38 U.S.C. §§ 1110, 1113, 1116, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.308(e).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service from May 1970 to February 1974.
+
+The instant matter comes to the Board of Veterans' Appeals (Board) from a June 2022 rating decision by a Department of Veterans Affairs (VA) Regional Office.  In the July 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement (NOD)), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the June 2022 Agency of Original Jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+VA regulations require that the Board contact an appellant and request clarification if the Board cannot identify which review option an appellant intends to select.  See 38 C.F.R. § 20.202(f).  An NOD may be unclear if an appellant attaches evidence to a NOD indicating that the appellant is seeking Direct Review, as evidence submitted along with a NOD may not be considered by the Board under that review option.  See Edwards v. McDonough, 36 Vet. App. 56 (2023).
+
+The Veteran submitted a statement with his July 2022 NOD.  He also submitted a VA Form 9, Appeal to the Board of Veterans' Appeals on August 9, 2022, shortly after submitting his July 2022 NOD.  On the VA Form 9, the Veteran indicated that he did not wish to participate in a Board hearing.  In the statement attached to his NOD and a statement attached to the VA Form 9, the Veteran submitted argument regarding the issues on appeal to the Board.  Because the Veteran did not request a hearing and his statements include argument addressing purported errors by the AOJ in adjudicating his claims, the Board concludes that the August 9, 2022, submission does not constitute new evidence.  Thus, the present appeal is therefore factually distinguishable from Edwards, and the Board can proceed with a decision without clarifying the Veteran's intent pursuant to 38 C.F.R. § 20.202(f).
+
+Service Connection
+
+1. Entitlement to service connection for posttraumatic stress disorder
+
+Service connection for PTSD requires (1) medical evidence diagnosing PTSD, (2) credible supporting evidence that the claimed in-service stressor actually occurred, and (3) medical evidence of a link between the Veteran's current symptomatology and the claimed in-service stressor.  38 C.F.R. § 3.304(f).
+
+Diagnoses of mental disorders, including PTSD, must conform to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5).  38 C.F.R. § 4.125 (incorporating by reference VA's adoption of the DSM-5 for rating purposes).
+
+The AOJ has already determined that the first two criteria for service connection are met here.  The record includes a diagnosis for PTSD pursuant to the DSM-5, and the AOJ has accepted the Veteran's reported stressors based on his service in the Republic of Vietnam.  The Board notes that the Veteran submitted various forms of documentary proof to show that an airman died in a bombing that occurred at a bar.  The Veteran has consistently reported that he and his team, including the airman, went to a bar following a mission.  A young shoeshine boy entered the bar, left a shoeshine box under a table, and left.  The shoeshine box exploded, claiming the life of the Veteran's teammate, i.e., the airman.  Neither finding is clearly erroneous, and they are, therefore, binding on the Board.  See 38 C.F.R. § 3.104.
+
+Thus, the question for the Board is whether the Veteran's PTSD is due to his active service.  The Board notes that the AOJ scheduled the Veteran for an examination related to his claim for service connection for PTSD in February 2022.  The record indicates that the Veteran did not attend the examination.  Under 38 C.F.R. § 3.655, the Board is to adjudicate the claim based on the evidence of record.  
+
+The persuasive balance of the evidence weighs in favor of the claim.  The record includes documentation of a clinical interview by S.S., Ph.D., a licensed clinical psychologist, performed as part of the Veteran's receipt of mental health treatment.  During the interview, the Veteran provided details regarding his service in the Republic of Vietnam.  These reports included an account of the fatal bombing as well as the Veteran's loss of friends, and duties associated with transporting the remains of war casualties.  S.S. concluded that the Veteran's experiences in the Republic of Vietnam satisfied Criteria A for a PTSD diagnosis, exposure to a traumatic event.  According to S.S., The Veteran "reported many various traumatic experiences ranging from accidents, to being at war, to seeing other people seriously injured and killed."  The most bothersome of these many events was the death of the airman.  Thus, as the events that the Veteran experienced in Vietnam are causally associated with his current diagnosis for PTSD, the third element of service connection is met.
+
+In light of the foregoing, the Board concludes that the criteria for service connection for PTSD are met, and service connection for PTSD is granted.
+
+2. Entitlement to service connection for left lower peripheral neuropathy.
+
+3. Entitlement to service connection for right lower peripheral neuropathy.
+
+In February 2022 correspondence, the Veteran contends that he is entitled to service connection for peripheral neuropathy on a presumptive basis due to his service in the Republic of Vietnam.  
+
+To establish presumptive service connection under 38 C.F.R. § 3.309(e), early-onset peripheral neuropathy must become manifest to a degree of 10 percent or more within one year of the last date of the Veteran's exposure to an herbicide agent.  38 C.F.R. § 3.307(a)(6)(ii).
+
+The Veteran's service records show that he served in Vietnam until September 23, 1971.  An Air Force form, AF-7, Airman Military Record, shows service in the Republic of Vietnam from September 23, 1970, to September 23, 1971.  This accords with the Veteran's DD 214, which shows 366 days of service in the Republic of Vietnam.  The Veteran is presumed to have been exposed to herbicide agents during his Vietnam service, and his presumed exposure ended on September 23, 1971.  Thus, to be entitled to service connection on a presumptive basis due to herbicide-agent exposure, the evidence of record would need to show that peripheral neuropathy onset within one year, or by September 24, 1972.  
+
+Neither the Veteran's service treatment records nor his February 1974 separation examination document complaints of peripheral neuropathy.  In his separation examination, the Veteran reported cramps and swelling in his knees; however, there is no indication that he had any neurological abnormalities upon separation.  Moreover, August 4, 2021, private treatment records note the Veteran's complaints of numbness in his feet.  The records note that the Veteran reported that he was largely healthy prior to these complaints aside from hypertension, hyperlipidemia, and medication to control his cholesterol levels.  The Veteran underwent an EMG study in August 2021 that showed mild underlying sensory motor peripheral neuropathy.  The report for the EMG indicated that the neuropathy could be the result of a vitamin b-12 deficiency.  In short, the record does not show that peripheral neuropathy affecting either lower extremity onset by September 1972.  The Veteran's peripheral neuropathy was not diagnosed until many years later and attributed to a vitamin deficiency.  Service connection on a presumptive basis is denied.  See 38 C.F.R. §§ 3.307(a)(6), 3.309(e).
+
+The Veteran can also show entitlement to service connection on a direct basis by showing that the disease was incurred during or aggravated by service without regard to the statutory presumptions.  See Combee v. Brown, 34 F.3d 1039 (Fed. Cir. 1994).  Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+The first two requirements are already met.  The Veteran has a current diagnosis for peripheral neuropathy affecting both lower extremities, and he served in the Republic of Vietnam and is presumed to have been exposed to herbicide agents.  
+
+The AOJ scheduled the Veteran for a VA examination for peripheral nerve disorders affecting both lower extremities in February 2022.  The Veteran received notice of the examination on February 9, 2022, and was informed of the place and time for the examination on February 10, 2022.  The record shows that the Veteran did not attend the examination.  The Veteran contends in February 2022 correspondence that he was entitled to service connection on a presumptive basis.  A February 2022 submission from the Veteran regarding then-proposed changes to the regulations regarding presumptive service connection for peripheral neuropathy again raise the contention that service connection is warranted on a presumptive basis.  The Board construes the Veteran's submissions as essentially contending that examinations are not necessary here.  Good cause to excuse the Veteran from failing to report from the examination has not been shown. Thus, the Board will adjudicate the claim on the basis of the evidence of record.  See 38 C.F.R. § 3.655.
+
+The weight of the evidence is against the claim.  There is simply no competent evidence of record showing a nexus between the Veteran's current diagnosis for peripheral neuropathy affecting both lower extremities and his active service to include his presumed exposure to herbicide agents.  To the extent that the neurologist responsible for interpreting the August 2022 EMG opined on the cause of the Veteran's neuropathy, he attributed it to a vitamin b-12 deficiency.  While the opinion is stated in equivocal language, using "could" to describe the causal connection, Dr. D.B. prescribed monthly vitamin b-12 injections and noted that it should remedy the numbness.  Insofar as it addresses the etiology of the Veteran's peripheral neuropathy, it weighs against the claim.  
+
+In reaching this conclusion, the Board notes that the Veteran argues that he was denied due process on two grounds in his July 2022 statement.  The first is that the AOJ did not respond to a privacy request from the Veteran requesting his service personnel records in order to substantiate his service in the Republic of Vietnam.  The AOJ favorably found service in the Republic of Vietnam in the June 2022 rating decision, and the Veteran's privacy request has since been fulfilled.  Thus, no privacy request remains outstanding, and the reason that the Veteran was requesting those records-to show service in the Republic of Vietnam-has been resolved in his favor.  
+
+The Veteran also argues that he has been denied due process because he was not provided with a statement of the case (SOC) or notice regarding VA's receipt of his NOD.  The Veteran received notice of the June 2022 rating decision after February 19, 2019, the effective date for the modernized review system created by the Appeals Modernization Act.  The modernized review system does not include providing claimants with SOCs in response to NODs; SOCs are only part of the process within the so-called legacy appeals system that govern appeals initiated for rating decisions for which notice was received prior to February 19, 2019.  Because the modernized review system does not include SOCs, the Veteran has not been deprived of any due process.  As to notice regarding VA's receipt of his July 2022 NOD, the record includes a July 2022 Board docketing letter informing the Veteran that his appeal had been placed on the Board's Direct Review docket.
+
+Finally, the Veteran argues that the AOJ should have obtained documents in possession of the U.S. Social Security Administration (SSA).  The pre-decisional record does not include any information from the Veteran regarding SSA records, the benefits that he receives from SSA, or a release from the Veteran authorizing VA to obtain those records.  The Board concludes that the relevance of the SSA records has not been established as to the Veteran's claims for service connection for peripheral neuropathy, and VA has complied with its duty to assist the Veteran in substantiating his claims. See Golz v. Shinseki, 590 F.3d 1317 (Fed. Cir. 2009).
+
+In light of the foregoing, the weight of the evidence is against the claims, and they must be denied.  Because the probative evidence weighs against the claims, the benefit-of-the-doubt doctrine is not applicable here.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+MICHAEL A. HERMAN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Douglas M. Humphrey, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

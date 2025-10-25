@@ -1,0 +1,137 @@
+Citation Nr: A25031318
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240426-444278
+DATE: April 4, 2025
+
+ORDER
+
+Entitlement to a rating in excess of 10 percent for right knee plica syndrome (hereinafter, right knee disability) is denied.
+
+Entitlement to a rating in excess of 10 percent for right hand posttraumatic arthritis (hereinafter, right hand disability) is denied.
+
+FINDINGS OF FACT
+
+1.   The Veteran's right knee disability has been manifested primarily by pain and decreased flexion to no less than 115 degrees.
+
+2.   The Veteran's right-hand disability has resulted in painful motion of the thumb, index, and long fingers, without compensable limitations of motion.
+
+CONCLUSIONS OF LAW
+
+1.   The criteria for a rating in excess of 10 percent for right knee disability have not been met.  38 U.S.C. § 1155; 38 C.F.R. §§ 3.321, 4.7, 4.40, 4.45, 4.71a, Diagnostic Code (DC) 5260.
+
+2.   The criteria for a rating in excess of 10 percent for right hand disability have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. § 4.71a, DC 5229.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from September 2016 to February 2021.  
+
+The rating decision on appeal was issued in October 2023.  In April 2024, the Veteran filed VA Form 10182, Notice of Disagreement, choosing to continue his appeal via Direct Review by a Veterans Law Judge under the Appeals Modernization Act (AMA).  Direct review is the appeal option to the Board in which a Board decision is issued based on evidence of record at the time of the prior decision.  The Board cannot hold a hearing or accept into the record additional evidence in its direct review.
+
+Increased rating
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities (Rating Schedule) and are intended to represent the average impairment of earning capacity resulting from disability.  Disabilities must be reviewed in relation to their history.  Where there is a question as to which of two evaluations apply, the Board assigns the higher of the two where the disability picture more nearly approximates the criteria for the next higher rating.  See 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.7, 4.10; Schafrath v. Derwinski, 1 Vet. App. 589 (1991).
+
+A Veteran may experience multiple distinct degrees of disability that might result in different levels of compensation from the time the increased rating claim was filed until a final decision is made.  Accordingly, separate ratings may be assigned for separate periods of time based on the facts found, which is a practice known as "staged" ratings.  Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  It is the defined and consistently applied policy of the Department of Veterans Affairs to administer the law under a broad interpretation, consistent, however, with the facts shown in every case.  When after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding the degree of disability such doubt will be resolved in favor of the claimant.  38 C.F.R. § 4.3.
+
+When a claimant seeks benefits and the evidence is in relative equipoise, the claimant prevails.  See Gilbert v. Derwinski, 1 Vet. App. 49 (1990). 
+
+1.   Entitlement to an initial rating in excess of 10 percent for right knee disability
+
+The Veteran's right knee disability is rated under DC 5260.
+
+Under DC 5260, limitation of flexion, flexion limited to 45 degrees warrants a 10 percent rating, 30 degrees warrants a 20 percent rating, and flexion limited to 15 degrees warrants a 30 percent rating.  See 38 C.F.R. § 4.71a, DC 5260.
+
+Under DC 5261, limitation of extension, extension limited to 5 degrees warrants a noncompensable rating, extension limited to 10 degrees warrants a 10 percent, extension limited to 15 degrees warrants a 20 percent rating; extension limited to 20 degrees warrants a 30 percent rating; extension limited to 30 degrees warrants a 40 percent rating; and extension limited to 45 degrees warrants a 50 percent rating.  See 38 C.F.R. § 4.71a, DC 5261.
+
+Under DC 5258, a 20 percent rating is assigned for a knee with dislocated semilunar cartilage with frequent episodes of locking, pain, and effusion into the joint.  38 C.F.R. § 4.71a.  DC 5259 provides a 10 percent evaluation for symptomatic removal of semilunar cartilage.  Id. 
+
+The normal range of motion (ROM) of the knee is 0 degrees of extension and 140 degrees of flexion.  See 38 C.F.R. § 4.7, Plate II.
+
+Under DC 5257, a 20 percent is warranted for recurrent subluxation or instability for unrepaired or failed repair of complete ligament tear causing persistent instability, and a medical provider prescribes both an assistive device (e.g., cane(s), crutch(es), walker) and bracing for ambulation along with one of the following:
+
+(a)  Sprain, incomplete ligament tear, or repaired complete ligament tear causing persistent instability, and a medical provider prescribes a brace and/or assistive device (e.g., cane(s), crutch(es), walker) for ambulation.
+
+(b)  Unrepaired or failed repair of complete ligament tear causing persistent instability, and a medical provider prescribes either an assistive device (e.g., cane(s), crutch(es), walker) or bracing for ambulation warrants a 20 percent rating.
+
+Sprain, incomplete ligament tear, or complete ligament tear (repaired, unrepaired, or failed repair) causing persistent instability, without a prescription from a medical provider for an assistive device (e.g., cane(s), crutch(es), walker) or bracing for ambulation warrants a 10 percent rating.
+
+Regarding patellar instability, a 20 percent is warranted for a diagnosed condition involving the patellofemoral complex with recurrent instability after surgical repair that requires a prescription by a medical provider for a brace, cane, or walker.
+
+A 30 percent is warranted for a diagnosed condition involving the patellofemoral complex with recurrent instability after surgical repair that requires a prescription by a medical provider for a brace and either a cane or a walker.
+
+Note (1): For patellar instability, the patellofemoral complex consists of the quadriceps tendon, the patella, and the patellar tendon.
+
+Note (2): A surgical procedure that does not involve repair of one or more patellofemoral components that contribute to the underlying instability shall not qualify as surgical repair for patellar instability (including, but not limited to, arthroscopy to remove loose bodies and joint aspiration).
+
+Separate ratings may be assigned for instability under DC 5257 or for meniscal pathology under DC 5258 or 5259.  Lyles v. Shulkin, 29 Vet. App. 107 (2017).
+
+In evaluating disabilities of the musculoskeletal system, it is necessary to consider, along with the schedular criteria, functional loss due to flare-ups of pain, fatigability, incoordination, pain on movement, and weakness.  DeLuca v. Brown, 8 Vet. App. 202 (1995).  Although pain may cause functional loss, pain itself does not constitute functional loss.  Rather, pain must affect some aspect of "the normal working movements of the body," such as "excursion, strength, speed, coordination, and endurance," to constitute functional loss.  Mitchell v. Shinseki, 25 Vet. App. 32, 38-43 (2011) (quoting 38 C.F.R. § 4.40).  38 C.F.R. § 4.59 requires that VA examinations include joint testing for pain on both active and passive motion, in weight-bearing and non-weight-bearing and, if possible, with ROM measurements of the opposite undamaged joint.  Correia v. McDonald, 28 Vet. App. 158 (2016).
+
+Analysis 
+
+The Veteran contends that his disability is more severe than the rating depicts.
+
+In June 2023, the Veteran was seen at the VA Westside: Clinical Triage complaining of right knee swelling and pain that was moderate to severe in severity.  The Veteran's swelling had improved since the initial pain.  He reported mild swelling after exercising.  He stated that he noticed the pain after driving long distances.  To relieve the pain, he used an ice pack and took ibuprofen.  He stated that with walking for long periods of time, running, and/or jumping, the pain radiated to the back of his thigh, and, sometimes, he experienced a sharp pain to his toes.  The examiner noted limited ROM.  The Veteran used a knee brace as a normal mode of locomotion.
+
+In October 2023, the Veteran was afforded a VA examination to determine the severity of his disability.  At the time of the evaluation, the Veteran experienced severe pain, tightness, throbbing, and spasms, and he was unable to walk or be in a vehicle for too long.  To relieve the pain, he took Naproxen and underwent PT.  
+
+The examiner confirmed the Veteran's right knee plica syndrome diagnosis.  The Veteran reported flare-ups of the knee.  Flare-ups of the right knee occurred very often, were severe, and lasted one to two weeks.  They were precipitated by bending and putting pressure on the knee and alleviated by straightening the leg out and naproxen.  The extent of functional impairment due to flare-ups of the right knee is discussed below.  There were no flare-ups of the left knee.  The Veteran reported functional loss or functional impairment of the right knee, to include difficulty walking and staying in a vehicle for a long time.  He did not report or had a history of instability or recurrent subluxation or frequent effusion of the knee.  Right knee initial ROM was abnormal.  The ROM itself contributed to a functional loss, i.e., he experienced decreased ROM and interference with lifting.  Active ROM revealed flexion to 120 degrees and extension to zero degrees.  Pain was noted on flexion but did not cause additional limitation of motion.  Passive flexion was to 130 degrees, and extension was to zero degrees.  Pain was noted on flexion and resulted in additional limitation of motion, i.e., flexion was to 120 degrees.  There was evidence of pain on weight bearing, active motion, and passive motion, but it did not cause functional loss.  The pain caused difficulty walking.  The left leg was undamaged.  Active and passive flexion ended at 140 degrees and extension to zero degrees.  There was objective evidence of crepitus and objective evidence of localized tenderness or pain on palpation of the joint or associated soft tissue of the right knee and was moderate in severity.  The Veteran was able to perform repetitive-use testing with at least three repetitions, and there was no additional loss of function or ROM after three repetitions of the right knee.  He was not examined immediately after repeated use over time or during a flare up.  Procured evidence (statements from the Veteran) suggested that pain and weakness significantly limited functional ability with repeated use over time, and pain significantly limited functional ability during flare-ups.  Estimated ROM for the right knee immediately after repeated use overtime and during flare-ups based on information procured from relevant sources including the Veteran's lay statements revealed forward flexion to 115 degrees and extension to zero degrees.  There were additional contributing factors of the disability, to include interference with standing and sitting.  The Veteran did not have muscle atrophy, ankylosis, recurrent subluxation or persistent instability, or a ligament tear (sprain).  He did not require a prescription for a cane, walker, crutches, or braces for ambulation.  There was no recurrent patellar instability.  He did not have or had been diagnosed with a recurrent patellar dislocation, shin splints (medial tibial stress syndrome), stress fractures, or any other tibial or fibular impairment.  Additionally, he did not have or had been diagnosed with a meniscus (semilunar cartilage) condition.  The Veteran has not had a surgical procedure.  There were no other pertinent physical findings, complications, conditions, signs, scars, or symptoms related to his right knee condition.  He did not use any assistive devices as a normal mode of locomotion.  There was no functional impairment of an extremity such that no effective function remained other than that which would be equally well served by an amputation with prosthesis.  The right knee disability had an impact on his ability to perform any type of occupational task, i.e., pain limited the amount of time the Veteran could sit and walk.  He also had difficulty staying in a vehicle for a long time.
+
+The Board finds the VA examination adequate for rating purposes, as the examiner interviewed the Veteran, performed all required testing, and reported all signs and symptoms necessary for evaluating the Veteran's knee disability under the rating criteria.  The VA examiner adequately addressed the extent of the Veteran's functional impairment due to pain and other factors after repeated use and during flare ups.  
+
+Based on the evidence of record, the Board finds that a rating in excess of 10 percent for the Veteran's right knee disability is not warranted.  There is no evidence that he has had limitation of flexion to 30 degrees or less.  The record shows that, at worse, his right knee flexion was to 115 degrees.  As such, the criteria for a disability rating in excess of 10 percent under DC 5260 are not met.
+
+The Veteran's extension has not been limited to five degrees or less.  Therefore, a separate rating under 5261 is not warranted.    
+
+The Board recognizes that, under DeLuca v. Brown, 8 Vet. App. 202 (1995), VA must consider "functional loss" of a musculoskeletal disability separately from consideration under the DCs.  "Functional loss" may occur because of weakness or pain on motion.  Here, the evidence shows that pain has been a constant and predominant symptom, and the pain caused difficulty walking and staying in a vehicle for a long time.  However, given the extent of knee motion, there is no evidence of a disability picture that is commensurate to a limitation of flexion to the extent necessary to establish entitlement to a higher disability rating, even after taking his reported pain into full consideration.  See DeLuca, 8 Vet. App. at 204-07; 38 C.F.R. §§ 4.40, 4.45, 4.71a, DC 5260 and 5261.  The Board emphasizes that a 10 percent disability rating under DC 5260 already contemplates an otherwise non-compensable degree of limitation of motion verified by objective evidence of symptoms such as painful motion.
+
+Further, the Board has considered the potential application of the other provisions of 38 C.F.R., Parts 3 and 4.  Schafrath v. Derwinski, 1 Vet. App. 589, 593 (1991).  The other criteria for rating knee disabilities are provided under DCs 5256 (ankylosis), 5257 (instability), 5258 (dislocated semilunar cartilage), 5262 (impairment of the tibia and fibula), and 5263 (genu recurvatum or traumatic genu recurvatum).  The evidence does not show that the Veteran's disability manifestations have included ankylosis, instability, a meniscus (semilunar cartilage) condition, a tibia and fibula impairment, or genu recurvatum or traumatic genu recurvatum.  Therefore, the Board finds that separate or higher ratings under DCs 5256, 5257, 5258, 5262, and 5263 are not warranted.
+
+Additionally, the Veteran does not have any scars related to his right knee disability.  Therefore, separate ratings under 7800 to 7806 are not warranted.
+
+The Board has considered the Veteran and his representative's statements regarding the severity of the Veteran's right knee disability.  However, as lay persons, they do not have the training or expertise to render a competent opinion which is more probative than the VA examiner's opinion on this issue, as this is a medical determination that is complex.  See Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007); Barr v. Nicholson, 21 Vet. App. 303, 309 (2007); Layno v. Brown, 6 Vet. App. 465, 469-71 (1994)).  Thus, the lay opinions by themselves are outweighed by the VA examiner's findings and the other evidence of record.  See id.; see also King v. Shinseki, 700 F.3d 1339, 1345 (Fed. Cir. 2012) (affirming the Court's conclusion that the Board did not improperly discount the weight of a lay opinion in finding a medical expert's opinion more probative on the issue of medical causation).
+
+In sum, the evidence is persuasively against a rating in excess of 10 percent for the Veteran's right knee disability.
+
+2.   Entitlement to an initial rating in excess of 10 percent for right hand disability 
+
+The Veteran's right-hand disability is rated under DC 5229.  Under DC 5229, for limitation of motion of the index or long finger, a 0 percent rating is warranted when there is a gap of less than one inch between the fingertip and the proximal transverse crease of the palm, with the finger flexed to the extent possible, and extension limited by no more than 30 degrees.  A 10 percent rating is warranted when there is a gap of one inch or more between the fingertip and the proximal transverse crease of the palm, with the finger flexed to the extent possible, or with extension limited by more than 30 degrees.  38 C.F.R. § 4.71a DC 5229.
+
+Analysis 
+
+The Veteran contends that his disability is more severe than the rating depicts.  
+
+In October 2023, the Veteran was afforded a VA examination to determine the nature and etiology of his disability.  At the time of the exam, and due to pain, the Veteran was unable to bend or move his finger as before.  He added that pushing on the right hand bothered him.  There was no current treatment; however, he tried not to use his hand as much.  
+
+The examiner confirmed the Veteran's post-traumatic arthritis diagnosis.  The Veteran reported flare-ups of the right hand.  Flare-ups occurred often whenever he used his right hand.  The flare-ups were moderate in severity and lasted 30 to 45 minutes.  They were precipitated by working, driving, typing, lifting, and pulling.  They were alleviated by restricting use of the right hand.  There was no functional impairment of the right hand due to flare-ups.  The left hand was the unclaimed joint, so flare-up was inapplicable.  The Veteran also reported having functional loss or functional impairment of the right hand, i.e., he was unable to grasp objects like before.  ROM was abnormal, and the ROM itself contributed to a functional loss, i.e., he had a slight decrease in his ability to grasp with the right hand.  Active and passive ROM for the right index, long, ring, and little finger extension for MCP, PIP, and DIP were to zero degrees.  Index finger flexion for MCP was 90 out of 90 degrees, PIP was 90 out of 100 degrees, and DIP was 70 out of 70 degrees.  Long, ring, and little finger flexion for MCP ended at 90 degrees, PIP ended at 100 degrees, and DIP ended at 70 degrees.  His thumb extension for MCP and IP ended at zero degrees, flexion MCP ended at 100 degrees, and IP ended at 90 degrees.  Left index, long, ring, and little finger extension for MCP, PIP, and DIP ended at zero degrees, and flexion for MCP ended at 90 degrees, PIP ended at 100 degrees, and DIP ended at 70 degrees.  His thumb extension for MCP and IP ended at zero degrees, and flexion for MCP ended at 100 degrees, and IP ended at 90 degrees.  Regarding the right hand, there was no gap between the pad of the thumb and fingers or between the finger and proximal transverse crease of the hand on maximal finger flexion.  There was no objective evidence of localized tenderness or pain on palpation of the joint or associated soft tissue.  There was evidence of pain on weight-bearing, and it caused functional loss, i.e., slight decrease in the Veteran's ability to grip.  The Veteran was able to perform repetitive-use testing with at least three repetitions, and, bilaterally, there was no additional loss of function or ROM after three repetitions.  The Veteran was not examined immediately after repeated use over time or during a flare-up.  Procured evidence did not suggest pain, fatigability, weakness, lack of endurance, or incoordination significantly limited functional ability with repeated use over time or during a flare-up.  After repeated use over time or during a flare-up, bilaterally, the Veteran's index, long, ring, and little finger extension for MCP, PIP, and DIP ended at zero degrees, and flexion for MCP ended at 90 degrees, PIP ended at 100 degrees, and DIP ended at 70 degrees.  His thumb extension for MCP and IP ended at zero degrees, and flexion for MCP and IP ended at 90 degrees.  There were additional contributing factors of the disability, to include swelling that occurred to the right 2nd finger if he moved the finger too much, but, he was still able to use the hand with swelling.  Right hand muscle strength testing revealed active movement against some resistance or 4/5.  There was no muscle atrophy.  The Veteran did not have ankylosis of any digit.  There were no other pertinent physical findings, complications, conditions, signs, or symptoms related to his right-hand disability.  The Veteran had scars or other disfigurement related to his right-hand disability.  Occasionally, he wore a brace as an assistive device.  There was no functional impairment of an extremity such that no effective functions remained other than that which would be equally well served by an amputation with prosthesis.  The Veteran's disability had an impact on his ability to perform any type of occupational task, i.e., the right second finger impacted the Veteran's grip slightly.
+
+The Board finds the VA examination adequate for rating purposes, as the examiner interviewed the Veteran, performed all required testing, and reported all signs and symptoms necessary for evaluating the Veteran's right-hand disability under the rating criteria.  The VA examiner adequately addressed the extent of the Veteran's functional impairment due to pain and other factors after repeated use and during flare ups.
+
+Based on the evidence of record, the Board finds that a rating in excess of 10 percent is not warranted for the Veteran's right-hand disability.  As noted above, the Veteran is currently assigned the maximum rating under DC 5229.  
+
+The Board has considered the potential application of the other provisions of 38 C.F.R., Parts 3 and 4.  Schafrath v. Derwinski, 1 Vet. App. 589, 593 (1991).  The other criteria for rating hand disabilities are provided under DCs 5152-5156 (amputation) and 5220-5223 (ankylosis).  However, the evidence of record does not document ankylosis and/or amputation of multiple fingers of the Veteran's right hand sufficient to warrant higher ratings under DCs 5152-5156, 5220-5223.  
+
+The Board has also considered the effect of pain and weakness in evaluating the Veteran's disability.  38 C.F.R. §§ 4.40, 4.45, 4.59, DeLuca, 8 Vet. App. 202 (1995).  The Board notes that the Veteran had some functional loss/impairment, to include a slight decrease in his ability to grasp.  However, although the Veteran experienced additional functional limitation, the loss in ROM is not commensurate with that for the next higher rating.  Based on the evidence, the Board finds that the current 10 percent evaluation adequately portray any functional impairment and pain the Veteran experienced due to his right-hand disability.  See DeLuca, 8 Vet. App. 202; 38 C.F.R. §§ 4.40, 4.45, 4.59.
+
+During the VA examination, the examiner noted that the Veteran had a scar related to his right-hand disability.  Here, the Veteran is already service connected for the right-hand scar.
+
+The Board has considered the Veteran and his representative's statements regarding the severity of the Veteran's right-hand disability.  However, as lay persons, they do not have the training or expertise to render a competent opinion which is more probative than the VA examiner's opinions as this is a medical determination that is complex.  See Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007); Barr v. Nicholson, 21 Vet. App. 303, 309 (2007); Layno v. Brown, 6 Vet. App. 465, 469-71 (1994)).  Thus, the lay opinions by themselves are outweighed by the VA examiner's findings.  See id.; see also King v. Shinseki, 700 F.3d 1339, 1345 (Fed. Cir. 2012) (affirming the Court's conclusion that the Board did not improperly discount the weight of a lay opinion in finding a medical expert's opinion more probative on the issue of medical causation).  
+
+In sum, the Board finds that a rating in excess of 10 percent is not warranted for the Veteran's right-hand disability.  The Board has considered the applicability of the benefit-of-the-doubt doctrine.  However, as the evidence is persuasively against the claim, that doctrine is not applicable.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49, 53-56 (1990).
+
+ 
+
+ 
+
+MICHAEL LANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Moore, T.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

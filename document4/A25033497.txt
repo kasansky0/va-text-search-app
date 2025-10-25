@@ -1,0 +1,87 @@
+Citation Nr: A25033497
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240415-430841
+DATE:  April 10, 2025
+
+ORDER
+
+Entitlement to service connection for a bilateral hearing loss disability is denied. 
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD) is denied. 
+
+FINDINGS OF FACT
+
+1. The evidence does not indicate that the Veteran had a right or left ear hearing loss disability as defined in VA law and regulations proximate to or during the pendency of his claim.
+
+2. The evidence does not indicate that the Veteran had PTSD proximate to or during the pendency of his claim. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for a bilateral hearing loss disability are not met. 38 U.S.C. §§ 1110, 5107 (2018); 38 C.F.R. §§ 3.303, 3.385 (2024).
+
+2. The criteria for service connection for PTSD are not met. 38 U.S.C. §§ 1110, 5107 (2018); 38 C.F.R. §§ 3.102, 3.303, 3.304(f) (2024). 
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active military service in the United States Marine Corps (USMC) from June 2002 to February 2005, and in the United States Army from August 2011 to September 2012. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 decision issued by the Department of Veterans Affairs (VA) agency of original jurisdiction (AOJ). 
+
+In April 2024, the Veteran appealed to the Board by filing a VA Form 10182 and selecting the Direct Review option. Therefore, the Board may only consider the evidence before the AOJ at the time of the March 2024 decision. 38 C.F.R. §?20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection - Hearing Loss
+
+The Veteran maintains that his hearing loss disability is related to in-service noise exposure, to include working on heavy equipment/wheeled vehicles and weapons fire. 
+
+There are specific requirements regarding what constitutes a hearing loss disability under VA law. The threshold for normal hearing is from 0 to 20 decibels. Hensley v. Brown, 5 Vet. App. 155, 157 (1993). For the purposes of applying the laws administered by VA, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent. 38 C.F.R. § 3.385.
+
+During a September 2023 VA examination, audiometric testing results were as follows:
+
+500	1000	2000	3000	4000
+
+Right	10	15	0	5	5
+
+Left	10	10	0	10	10
+
+Speech recognition ability was measured at 100 percent in both ears. 
+
+The above-cited testing results do not establish a current right or left ear hearing loss disability as defined by 38 C.F.R. § 3.385. The Board has reviewed the claims file; however, the Veteran has not presented or identified existing audiometric testing results that meet the requirements of that regulation for hearing loss. Hence, the Veteran does not have a bilateral hearing loss disability for VA purposes. The test results are controlling and more probative than the lay evidence.
+
+In order for a disability to be service connected, it must be present at the time a claim for VA disability compensation is filed or during the pendency of the claim. McClain v. Nicholson, 21 Vet. App. 319 (2007); Romanowsky v. Shinseki, 26 Vet. App. 289 (2013). As noted above, hearing loss for VA compensation purposes is specifically defined in the regulations, and there is no indication from the record that the Veteran has decreased hearing acuity that meets those requirements. In the absence of proof of a present disability, there can be no valid claim. Brammer v. Derwinski, 3 Vet. App. 223 (1992). 
+
+Accordingly, the Board finds that the benefit-of-the-doubt rule is not applicable as the evidence weighs persuasively against the claim and is not in approximate balance. Therefore, entitlement to service connection for a bilateral hearing loss disability is not warranted. 38 U.S.C. § 5107(b) (2018); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+Service Connection - PTSD
+
+The Veteran maintains that he has PTSD related to an in-service stressor. 
+
+The Veteran's service treatment records are unremarkable for any complaints, treatment, or diagnoses related to PTSD.
+
+In May 2023, the Veteran filed a claim for service connection for PTSD. Regarding the in-service stressor, he stated that being separated from his family caused him to believe that they were moving on without him and that he was no longer needed in their lives. He stated that he had been diagnosed with PTSD by a civilian doctor in July 2020 and was taking medication daily. 
+
+In May 2023, the Veteran also submitted authorization for VA to obtain private treatment records from Geisinger Health System. The AOJ made at least two attempts to obtain those records but received no response. Later, in May 2023, the AOJ notified the Veteran that VA was unable to obtain his records from Geisinger, and that it was ultimately his responsibility to see that VA received them. Therefore, the Board finds that VA satisfied its duty to assist the Veteran in obtaining those records. 38 C.F.R. §3.159. 
+
+In this case, the Board finds the weight of the evidence is against the claim. The Veteran's service treatment records are unremarkable for PTSD. At the time of the March 2024 decision on appeal, there were no post service treatment records indicating a diagnosis of PTSD. In the absence of proof of a present disability (and, if so, of a nexus between that disability and the active military service or service-connected disability), there can be no valid claim for service connection. Gilpin v. West, 155 F.3d 1353 (Fed. Cir. 1998); Brammer, 3 Vet. App. at 225.
+
+The Board notes that the Veteran was not provided with a VA examination or medical opinion in conjunction with the claim for service connection for PTSD. In this case, however, at the time of the March 2024 decision, there was no competent evidence showing that the Veteran had PTSD proximate to or during the pendency of the claim. See McLendon v. Nicholson, 20 Vet. App. 79 (2006); see also Waters v. Shinseki, 601 F.3d 1274, 1278 (Fed. Cir. 2010). Accordingly, the Board finds that a VA examination or medical opinion was not warranted, and the evidence of record was sufficient to decide the claim.
+
+The Board has also considered the lay evidence of record. The Veteran is competent to describe what he has personally observed or experienced. However, the ultimate questions of diagnosis and etiology in this case extend beyond an immediately observable cause-and-effect relationship and are beyond the competence of lay witnesses.
+
+Accordingly, the Board finds that the benefit-of-the-doubt rule is not applicable as the evidence weighs persuasively against the claim and is not in approximate balance. Therefore, entitlement to service connection for PTSD is not warranted. 38 U.S.C. § 5107(b) (2018); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+ 
+
+ 
+
+Kristin Haddock
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Mishalanie, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,83 @@
+Citation Nr: A25032983
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240402-430496
+DATE: April 9, 2025
+
+ORDER
+
+Entitlement to service connection for congestive heart failure as secondary to posttraumatic stress disorder is granted.
+
+REMANDED
+
+Entitlement to service connection for urinary frequency as secondary to posttraumatic stress disorder is remanded.
+
+FINDING OF FACT
+
+The Veteran developed congestive heart failure that was aggravated by service-connected posttraumatic stress disorder.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for congestive heart failure as secondary to posttraumatic stress disorder have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from May 1990 to August 1990 and from December 1990 to April 1991. 
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the March 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim for urinary frequency, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Entitlement to service connection for congestive heart failure as secondary to posttraumatic stress disorder
+
+The Veteran contends that he developed congestive heart failure that is aggravated by service-connected posttraumatic stress disorder (PTSD). After a thorough review of the evidence, the Board finds that entitlement to service connection for congestive heart failure as secondary to service-connected PTSD is warranted. 
+
+Service connection may be established, on a secondary basis, for disability that is proximately due to or the result of a service-connected disease or injury. See 38 C.F.R. § 3.310. Secondary service connection requires evidence demonstrating that the disability is either (1) proximately due to or the result of a service-connected disease or injury or (2) aggravated by an already service-connected disease or injury. See Allen v. Brown, 7 Vet. App. 439, 448 (1995); 38 C.F.R. § 3.310. 
+
+In a March 2015 VA examination report, the examiner diagnosed congestive heart failure and stated the etiology was due to obesity, genetics, and hypertension.
+
+In May 2022, the Veteran submitted a medical article regarding the relationship between PTSD and heart conditions. 
+
+At a private medical examination in May 2022, the medical provider confirmed the congestive heart failure diagnosis, stating that the etiology was unknown. However, in an accompanying medical opinion, the medical provider opined that it was at least as likely as not that the Veteran's PTSD aggravated the congestive heart failure. The AOJ did not obtain a medical opinion at that time but found a duty to assist error in its September 2022 rating decision for that reason. The AOJ obtained a medical opinion in May 2023. The examiner opined that the Veteran's heart failure was not related to PTSD, writing, "Clinically it is known that the causes of CHF include CAD, hypertension, heart attack, sleep apnea, heart valve disease, myocarditis, arrhythmia and congenital heart disease. It is not medically linked to PTSD. Therefore, it is my opinion that the claimants current complaint of CHF is less likely than not related to the claimants PTSD." 
+
+The Board finds that the VA May 2023 opinion is conclusory, in that it draws the conclusion that the appellant's CHF is not related to PTSD without referencing the Veteran's medical treatises, the private medical opinion finding the opposite, and the Veteran's lay statements on his symptoms. A conclusory opinion is an inadequate opinion. See Stefl v. Nicholson, 21 Vet. App. 120 (Vet. App. 2007); D'Aries v. Peake, 22 Vet. App. 97, 104 (Vet. App. 2008). While the examiner may choose not to believe an appellant's self-reported history, an examiner is not free to disregard the appellant's reports of symptoms. See Layno v. Brown, 6 Vet. App. 465, 469-70 (Vet. App. 1994); Dalton v. Nicholson, 21 Vet. App. 23 (2007). 
+
+The AOJ obtained another opinion in February 2024 that was similar to that from May 2023. The examiner wrote, "It is less likely than not (less than 50 percent probability) that the Veteran's CHF was aggravated beyond its natural progression by the Veteran's service connected condition of PTSD. Known causes of CHF include CAD, HTN, MI, OSA, myocarditis, heart valve disease, arrhythmia and CHD. A nexus has not been established linking CHF to PTSD or its treatment." Again, the Board finds this opinion conclusory, and it did not reference the private medical opinions, medical articles, or lay statements. Accordingly, this opinion is also inadequate. 
+
+The Board notes that in finding that the Veteran's CHF was aggravated by his service-connected PTSD, the May 2022 private medical opinion provided adequate rationale and cited to medical literature, VA research, and the Veteran's medical records in the opinion, making the opinion highly probative. Therefore, the Board finds the evidence is at least in approximate balance that the Veteran's congestive heart failure is aggravated by his service-connected PTSD. 
+
+Based on the foregoing, the Board finds that the criteria for service connection for congestive heart failure as secondary (38 C.F.R. § 3.310) to the service-connected PTSD, on an aggravation basis, have been met. As secondary service connection is being granted, there is no need for the Veteran to also prove entitlement to service connection on a direct basis, as other theories of service connection have been rendered moot, leaving no question of law or fact for the Board to decide. See 38 U.S.C. § 7104.
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for urinary frequency as secondary to posttraumatic stress disorder is remanded.
+
+The Veteran contends that he developed urinary frequency as a result of medication prescribed for service-connected PTSD. At the most recent VA examination in February 2024, the examiner stated that the Veteran did not have objective signs of urinary frequency and declined to provide a medical opinion based on a lack of diagnosis. The Veteran reported that he had urinary frequency which had developed, in his opinion, as a result of PTSD medication. 
+
+The April 2023 rating decision stated the favorable findings included diagnosis of urinary frequency supported by the 2018 VA examination. The May 2022 DBQ submitted by the Veteran noted that the Veteran's urinary frequency may be due to medication for PTSD, under the etiology report. The February 2024 VA opinion did not reference this when finding that the Veteran did not have a diagnosis. The Board finds that the VA opinion is inadequate because it does not consider the relevant evidence and states that the Veteran has no diagnosed condition when the AOJ has already found that a diagnosis exists based on other VA examinations and medical evidence. Accordingly, the AOJ should order a new opinion that considers all the relevant evidence, including the fact that the Veteran has been diagnosed with a condition. 
+
+While further delay is regrettable, a remand is necessary to correct pre-decisional duty to assist errors in order to obtain an adequate medical opinion of the claimed condition. See Barr v. Nicholson, 21 Vet. App. 303 (Vet. App. 2007).
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion from an appropriate clinician regarding whether the Veteran's urinary frequency condition is at least as likely as not due to service-connected PTSD or aggravated by service-connected PTSD. The examiner should reference the following in the opinion:
+
+(a.) The May 2022 male reproductive DBQ includes reference in the etiology that the Veteran's urinary frequency is possibly due to medication for PTSD. 
+
+(b.) The Veteran has previous diagnoses for urinary frequency condition and has made lay statements regarding his symptoms and history.  
+
+ 
+
+JENNIFER HWA
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Miller, Erin (BVA)
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

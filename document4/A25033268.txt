@@ -1,0 +1,97 @@
+Citation Nr: A25033268
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240511-438660
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to a compensable disability rating for the Veteran's service-connected bilateral hearing loss disability is denied.
+
+Entitlement to a disability rating greater than 10 percent for the Veteran's service-connected tinnitus is denied. 
+
+FINDINGS OF FACT
+
+1. Throughout the appeal period, the Veteran's hearing loss has manifested in no worse than Level I hearing acuity in the left ear and Level I hearing acuity in the right ear.
+
+2.  The 10 percent rating currently in effect is the maximum schedular rating for the Veteran's service-connected tinnitus.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a compensable evaluation (in excess of 0 percent) for the Veteran's bilateral hearing loss disability are not met. 38 U.S.C. § 1155; 38 C.F.R. § 4.85, Diagnostic Code 6100.
+
+2. The criteria for the assignment of a disability rating in excess of 10 percent for tinnitus are not met.  38 U.S.C. § 1155; 38 C.F.R. § 4.87, Diagnostic Code 6260.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the U.S. Army from October 1985 to March 1989.
+
+The rating decision on appeal was issued in March 2024 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the March 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. Entitlement to a compensable disability rating for the Veteran's service-connected bilateral hearing loss disability is denied.
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities, found in 38 C.F.R.  The rating schedule is primarily a guide in the evaluation of disability resulting from all types of diseases and injuries encountered as a result of, or incident to, military service. The ratings are intended to compensate, as far as can practicably be determined, the average impairment of earning capacity resulting from such diseases and injuries and their residual conditions in civilian occupations. 38 C.F.R. § 4.1.
+
+Where entitlement to compensation has already been established, and an increase in the disability rating is at issue, the present level of disability is of primary concern.  Although a rating specialist is directed to review the recorded history of a disability in order to make a more accurate evaluation, the regulations do not give past medical reports precedence over current findings.  See Francisco v. Brown, 7 Vet. App. 55 (1994); 38 C.F.R. § 4.2.  Staged ratings are appropriate for when the factual findings show distinct time periods where the service-connected disability exhibits symptoms that would warrant different ratings. See generally Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+The Veteran's service-connected hearing loss disability is currently rated noncompensable under Diagnostic Code 6100.  He filed a claim for a higher, compensable rating in February 2024.  See the Veteran's February 2024 VA Form 21-526EZ.
+
+Evaluations of defective hearing range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of a controlled Maryland CNC speech discrimination test together with the average hearing threshold level measured by pure tone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz).  38 C.F.R. § 4.85, Diagnostic Code 6100.
+
+To evaluate the degree of disability from bilateral service-connected hearing loss, the schedule establishes 11 auditory hearing acuity levels designated from Level I for essentially normal hearing acuity through Level XI for profound deafness.  38 C.F.R. § 4.85, Tables VI and VII.  
+
+An exceptional pattern of hearing impairment occurs when the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more.  38 C.F.R. § 4.86(a).  In that situation, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral.  Further, when the average pure tone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and that numeral will then be elevated to the next higher numeral.  38 C.F.R. § 4.86(b).
+
+With his February 2024 claim for increase, the Veteran submitted the results of a February 2024 private audiometric test from Kaiser Permanente for consideration.  Although audiometric testing showed threshold levels of 15, 25, 30 and 35 decibels at 1000, 2000, 3000 and 4000 Hertz respectively for both the right and left ear, the evaluation noted that the NU-6 speech discrimination test was utilized, and not the Maryland CNC test, as is required under 38 C.F.R. § 4.85.  The Board has considered whether the audiometric test results alone can be used to rate the Veteran's disability utilizing Table VIA; however, such is only warranted when the Veteran's hearing loss manifests in an exceptional pattern of hearing loss as defined under 38 C.F.R. § 4.86(a) and (b).  The Veteran's audiometric test results from the February 2024 private examination do not demonstrate an exceptional pattern of hearing loss.  Thus, the February 2024 private audiological evaluation cannot be considered for VA rating purposes.  
+
+The Veteran subsequently appeared for an examination scheduled by VA in March 2024.  At the examination, the Veteran reported having to keep the television up loud, and use closed captioning.  He indicated he is always asking his kids to repeat themselves, and at work, he must turn up the volume on conference calls. 38 C.F.R. § 4.10; Martinak v. Nicholson, 21 Vet. App. 447 (2007).  The Veteran's Maryland CNC Word List speech recognition score and pure tone thresholds, in decibels, were as follows:  
+
+March 2024	HERTZ
+
+ 	1000	2000	3000	4000	Avg	CNC
+
+RIGHT	20	30	30	40	30	96%
+
+LEFT	20	30	35	45	33	100%
+
+Applying these results to Table VI, the findings yield a numeric designation of Level I in the right ear and Level I in the left ear.  Entering the resulting bilateral numeric designation of Level I for the right ear and Level I for the left ear to 38 C.F.R. § 4.85, Table VII, equates to a noncompensable percent disability rating under Diagnostic Code 6100.  An exceptional pattern of hearing impairment under 38 C.F.R. § 4.86 was not shown.
+
+The Veteran did not undergo another audiological assessment during the period under review.
+
+Based on the evidence above, a compensable disability rating for the Veteran's bilateral hearing loss disability is not warranted.  
+
+The Board acknowledges the Veteran's reports of diminished hearing acuity, and the impact his hearing loss has on his daily life and work.  While the Board in no way minimizes these observations and impacts, it reiterates that disability ratings for hearing loss are derived from a mechanical application of the rating schedule to the numeric designations resulting from audiometric testing.  See Lendenmann v. Principi, 3 Vet. App. 345 (1992).
+
+In addition, the rating criteria contemplate speech reception thresholds and ability to hear spoken words on Maryland CNC testing.  Accordingly, the functional impact that the Veteran describes (i.e., trouble hearing the television, his children and others on conference calls) is contemplated by the rating criteria.  Doucette v. Shulkin, 28 Vet. App. 366 (2017).  Indeed, the Veteran's main complaint is reduced hearing acuity and clarity, which is what is contemplated in the rating assigned.  See Rossy v. Shulkin, 29 Vet. App. 142, 145 (2017).  In the future, should the Veteran notice his hearing acuity worsen, he is invited to file another increased rating claim with VA.  
+
+In sum, the Board finds that the most probative evidence of record persuasively weighs against the claim of entitlement to a compensable rating for the Veteran's hearing loss disability.  As such, the benefit-of-the-doubt rule does not apply, and the claim must be denied.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+2. Entitlement to a disability rating greater than 10 percent for the Veteran's service-connected tinnitus is denied. 
+
+The Veteran filed his claim for a rating higher than 10 percent for his service-connected tinnitus in February 2024.  See the Veteran's February 2024 VA Form 21-526EZ.
+
+Upon review of record, the Board finds that the most probative evidence does not support entitlement to a rating in excess of 10 percent for tinnitus at any time during the rating period. Tinnitus is rated under 38 C.F.R. § 4.87, DC 6260, which provides a 10 percent rating for recurrent tinnitus. This is the maximum rating allowed for tinnitus under the rating schedule. See Smith v. Nicholson, 451 F.3d 1344, 1351 (Fed. Cir. 2006). The Veteran has been in receipt of a 10 percent rating for the entirety of the rating period. Thus, a higher rating is not appropriate under the rating schedule.
+
+The Board acknowledges that on December 22, 2023, the Veteran reported worsening symptoms of tinnitus in the prior months, where he notices it "right in the middle of the head, with a high pitch tone in either ear occasionally."  See a December 22, 2023, VA Primary Care Attending Note.  At his March 2024 examination, the Veteran similarly reported an annoying ringing in his head, requiring him to turn up the volume on conference calls at work.  On his May 2024 VA Form 10182, the Veteran reported an "unbearable ringing in both ears."  
+
+By definition, tinnitus is a "a noise in the ears, such as ringing, buzzing, roaring or clicking."  See Dorland's Illustrated Medical Dictionary, 31st Ed. (2007) at 1956.  Thus, it follows that Diagnostic Code 6260 (tinnitus) contemplates these symptoms, authorizing the assignment of a maximum 10 percent rating.  The evidence of record prior to the March 2024 rating decision that pertains specifically to the period under review (see Francisco v. Brown, 7 Vet. App. 55 (1994)) does not include complaints of symptoms apart from ringing in his head and ears, other than a possible negative impact on hearing acuity.  Insofar as the Veteran's tinnitus may be affecting his hearing, the Veteran's hearing loss is already recognized as a service-connected disability, and his hearing acuity has been assessed as noncompensable based on audiometric testing under the rating schedule.  
+
+Accordingly, for the reasons discussed above, the evidence weighs against a finding that an increased rating for tinnitus is warranted, and the benefit sought on appeal must be denied.  See Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021). 
+
+ 
+
+ 
+
+ANTHONY C. SCIRÉ, JR
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	V. Chiappetta, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

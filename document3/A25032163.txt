@@ -1,0 +1,79 @@
+Citation Nr: A25032163
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 220605-247366
+DATE: April 8, 2025
+
+ORDER
+
+The appeal seeking revision of the April 2018 rating decision that assigned entitlement to an evaluation of 10 percent for service-connected left foot sprain, based on clear and unmistakable error (CUE), is denied.
+
+FINDING OF FACT
+
+1. The April 2018 rating decision that found CUE in the January 2018 rating decision's evaluation of a left foot sprain became final because the Veteran did not submit a notice of disagreement or new and material evidence within the appeal period. 
+
+2. The correct facts, as known at the time, were before the VA adjudicators in April 2018 and the statutory and regulatory provisions extant at the time were correctly applied.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to revision of the April 2018 rating decision that assigned entitlement to an evaluation of 10 percent for service-connected left foot sprain based on CUE pursuant to 38 C.F.R. § 3.105 have not been satisfied. 38 U.S.C. § 5109A; 38 C.F.R. §§ 3.104, 3.105(a).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty with the United States Army from May 2016 to May 2017 and from October 2021 to August 2021.
+
+The rating decision on appeal was issued in June 2022 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In May 2022, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of an April 2022 decision. In June 2022, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior April 2022 decision. Therefore, the Board may only consider the evidence of record at the time of the April 2022 decision and any evidence submitted during an applicable evidentiary window. 
+
+In the June 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. While this would generally mean that the Board may only consider the evidence of record at the time of the April 2022 AOJ decision, which was subsequently subject to higher-level review, new evidence cannot be considered in this decision because CUE must be based upon the facts and law that existed at the time of the prior decision. See 38 C.F.R. § 20.301; but see 38 C.F.R. § 3.105 (a)(1)(iii).
+
+1. Entitlement to revision of the April 2018 rating decision that assigned entitlement to an evaluation of 10 percent for service-connected left foot sprain on the basis of CUE.
+
+The Veteran asserts that there is CUE in the April 2018 rating decision that assigned an evaluation of 10 percent for left foot disability, pursuant to Diagnostic Code 5284. 
+
+A previous RO determination that is final and binding will be accepted as correct in the absence of CUE. Where evidence establishes such error, the prior decision will be reversed or amended. 38 C.F.R. § 3.105(a). Here, an April 2018 rating action granted entitlement to an evaluation of 10 percent for left foot disability pursuant to Diagnostic Code 5284, and the Veteran did not file a timely Notice of Disagreement challenging this determination, nor did he submit new evidence and material evidence within one year of its promulgation. Thus, the April 2018 rating decision regarding the Diagnostic Code assigned became final. 38 U.S.C. § 7105; 38 C.F.R. §§ 3.104(a), 3.160(d), 3.156(b), 20.302, 20.1103.   
+
+Once a decision becomes final, it may only be revised by a showing of CUE. 38 C.F.R. §§ 3.104, 3.105. CUE is a very specific and rare kind of "error." It is the kind of error, of fact or of law, that when called to the attention of later reviewers compels the conclusion, to which reasonable minds could not differ, that the result would have been manifestly different but for the error. Simply to claim CUE on the basis that previous adjudications had improperly weighed and evaluated the evidence can never rise to the stringent definition of CUE. Similarly, neither can broad-brush allegations of "failure to follow the regulations" or "failure to give due process," or any other general, nonspecific claim of "error." Fugo v. Brown, 6 Vet. App. 40, 43-44 (1993). In addition, failure to address a specific regulatory provision involves harmless error unless the outcome would have been manifestly different. Id. at 44. 
+
+Where evidence establishes CUE, the prior decision will be reversed or amended. 38 C.F.R. § 3.105(a). For the purpose of authorizing benefits, the rating or other adjudicatory decision which constitutes a reversal of a prior decision on the grounds of CUE has the same effect as if the corrected decision had been made on the date of the reversed decision. Id. 
+
+CUE is established when the following conditions are met: (1) either (a) the correct facts in the record were not before the adjudicator, or (b) the statutory or regulatory provisions in existence at the time were incorrectly applied; (2) the alleged error must be "undebatable," not merely "a disagreement as to how the facts were weighed or evaluated"; and (3) the commission of the alleged error must have "manifestly changed the outcome" of the decision being attacked on the basis of CUE at the time that decision was rendered. Evans v. McDonald, 27 Vet. App. 180, 185 (2014), aff'd, 642 F. App'x 982 (Fed. Cir. 2016); Damrel v. Brown, 6 Vet. App. 242, 245 (1994); Russell v. Principi, 3 Vet. App. 310, 313-14 (1992). 
+
+The error must be of a type that is outcome-determinative, and subsequently developed evidence may not be considered in determining whether an error existed in the prior decision. See Porter v. Brown, 5 Vet. App. 233, 235-36 (1993); Glover v. West, 185 F.3d 1328 (Fed. Cir. 1999).  A manifest change in the outcome of an adjudication means that, absent the alleged CUE, the benefit sought would have been granted at the outset. King v. Shinseki, 26 Vet. App. 433, 441 (2014).  The standard is not whether it is reasonable to conclude that the outcome would have been different. Id. at 442. 
+
+The benefit-of-the-doubt doctrine is not for application in claims of CUE. Andrews v. Principi, 18 Vet. App. 177, 186 (2004) (citing Russell, 3 Vet. App. at 313) (it is well established that the benefit-of-the-doubt doctrine can never be applicable in assessing a CUE motion because the nature of such a motion is that it involves more than a disagreement as to how the facts were weighed or evaluated). 
+
+As a threshold matter, the Board finds that the arguments advanced by the Veteran allege CUE with the requisite specificity. See Simmons v. Principi, 17 Vet. App. 104 (2003).  The Board will therefore adjudicate the merits of his claims. 
+
+The Veteran submitted a claim for left flat foot pain in November 2017. In a January 2018 rating decision the Veteran was granted entitlement to service connection for left foot sprain, claimed as left foot pain and as flat foot, and assigned a noncompensable evaluation, effective July 11, 2017. The AOJ assigned the Veteran the noncompensable evaluation pursuant to Diagnostic Code 5276 for flatfoot. See 38 C.F.R. § 4.71.
+
+It is noted that a VA examination addendum report dated in January 2018, and relied upon in the January 2018 rating decision, found that the Veteran did not have a diagnosis of flatfoot or plantar fasciitis. The only diagnosis was left foot sprain. 
+
+Thereafter, in April 2018 the AOJ found that the January 2018 rating decision was clearly and unmistakably erroneous in the evaluation assigned. The AOJ reevaluated the Veteran's disability under Diagnostic Code 5284 and assigned an initial evaluation of 10 percent. See 38 C.F.R. § 4.71. In so doing, the AOJ found that the Veteran had left foot sprain that manifested pain and was moderate in nature. The AOJ stated that the VA examination relied upon did not show flat feet, but showed a diagnosis of left foot sprain that was moderate in severity. As such, the AOJ found that the disability should have been rated under Diagnostic Code 5284 for foot injuries, other, and awarded a 10 percent evaluation for moderate.
+
+Finally, in a July 2018 rating decision, the AOJ again found that there had been clear and unmistakable error and found that the effective date for the Veteran's disability was improper. The AOJ assigned an effective date of May 30, 2017, the date immediately after the Veteran's separation from active duty. This rating decision contemplated another VA examination report for the feet dated in July 2018. 
+
+The Veteran's argument is essentially a disagreement as to how the facts were weighed or evaluated by the adjudicator. He asserts that the AOJ assigned the disability evaluation pursuant to the wrong Diagnostic Code. Specifically, the Veteran argues that the proper code is Diagnostic Code 5276 for flatfoot rather than 5284 for other injury. The Veteran further argues that under Diagnostic Code 5276 the Veteran is entitled to an evaluation of 20 percent for unilateral pain on manipulation and use accentuated. 
+
+The Board acknowledges that the United States Court of Appeals for Veterans Claims (Court) has held that when a condition is specifically listed in the Rating Schedule, it may not be rated by analogy under 38 C.F.R. § 4.71a. Copeland v. McDonald, 27 Vet. App. 333, 337 (2015). It is further acknowledged that Diagnostic Code 5276 specifically contemplates flatfoot.
+
+However, the "selection of a [Diagnostic Code] is a question of the application of the law to the facts and not a question of law." Butts v. Brown, 5 Vet. App. 532, 539 (1993). In addition, the Court has held that it may only set aside the Board's selection of a Diagnostic Code in a particular case if the selection is arbitrary, capricious, an abuse of discretion, or otherwise no in accordance with the law. See id. Therefore, the determination of the proper Diagnostic Code is one that requires the exercise of judgment of the adjudicator after weighing of the evidence. At the time of the April 2018 rating decision that assigned Diagnostic Code 5284, the Veteran's disability had been identified as left foot sprain and not flatfoot. Thus, the assignment of an evaluation pursuant to Diagnostic Code 5284 was not clearly and unmistakably erroneous. 
+
+Furthermore, the disability was reevaluated in July 2018 following the receipt of another VA medical examination, resulting in the assignment of an earlier effective date. Here the AOJ reconsidered the medical evidence of the claim and continued the evaluation as moderate pursuant to Diagnostic Code 5284. The Board acknowledges that the July 2018 examination report identifies a diagnosis of left flat foot and there is a notation of pain on manipulation of the feet and accentuated on manipulation of the left foot. Under Diagnostic Code 5276, a 20 percent rating is assigned for severe unilateral acquired flat foot, and identifies evidence of a severe impairment including pain on manipulation and use accentuated. However, again, the determination of whether the Veteran's disability was severe in nature requires weighing of the evidence at the time of the decision. 
+
+"It is the prerogative of the factfinder . . . to interpret the evidence and draw reasonable inferences from it." Evans v. McDonald, 27 Vet. App. 180, 187 (2014), aff'd, 642 F. App'x 982 (Fed. Cir. 2016) (citing Kahana v. Shinseki, 24 Vet. App. 428, 435 (2011); Gilbert v. Derwinski, 1 Vet. App. 49, 52 (1990)). Thus, the disagreements as to how the facts were weight does not support a finding of CUE. Fugo, 6 Vet. App. at 43-44. Therefore, the Board finds that entitlement to revision of the April 2018 rating decision that assigned entitlement to an evaluation of 10 percent for service-connected left foot sprain based on CUE, is not warranted, and the claim is denied.
+
+ 
+
+ 
+
+T. RAYMOND
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Robert J. Burriesci, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

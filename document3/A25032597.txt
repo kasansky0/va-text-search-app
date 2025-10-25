@@ -1,0 +1,81 @@
+Citation Nr: A25032597
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 250206-513331
+DATE: April 9, 2025
+
+ISSUE
+
+Entitlement to serviced connection for cause of death.
+
+REMAND ORDER
+
+Entitlement to serviced connection for cause of death is REMANDED.
+
+FACTUAL AND PROCEDURAL HISTORY
+
+The Veteran served on active duty from November 1942 to December 1945. The Veteran passed away in December 2016 and the Appellant is his surviving spouse.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a December 2024 rating decision issued by a Regional Office (RO) of the Department of Veterans Affairs (VA).
+
+In a February 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Appellant elected the Direct Review docket . Therefore, the Board may only consider the evidence of record at the time of the decision on appeal. 
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the RO in the readjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+REASONS FOR REMAND 
+
+As discussed below, the Board finds that there is pre-decisional error in this case, and a VA examination is required on remand to cure the error. 38?C.F.R. §?20.802(a). 
+
+Legal Criteria
+
+Service connection for the cause of a veteran's death is warranted if a service-connected disability either caused or contributed substantially or materially to the cause of the veteran's death. 38 C.F.R. § 3.312 (a). To establish service connection for the cause of a veteran's death, competent evidence must link the fatal disease to a period of military service or an already service-connected disability. 38 U.S.C. § 1310; 38 C.F.R. §§ 3.303, 3.312; Ruiz v. Gober, 10 Vet. App. 352 (1997).
+
+The evidence must show that a disability incurred in or aggravated by active service was the principal or contributory cause of death. 38 C.F.R. § 3.312(a). A service-connected disability will be considered as the principal, or primary, cause of death when such disability, singly or jointly with some other condition, was the immediate or underlying cause of death or was etiologically related thereto. 38 C.F.R. § 3.312 (b).
+
+A contributory cause of death is inherently one not related to the principal cause. To constitute the contributory cause of death it must be shown that the service-connected disability contributed substantially or materially; that it combined to cause death; or that it aided or lent assistance to the production of death. 38 C.F.R. § 3.312(c)(1). It is not sufficient to show that it casually shared in producing death, but rather it must be shown that there was a causal connection. Id.; Lathan v. Brown, 7 Vet. App. 359 (1995). Medical evidence is required to establish a causal connection between service or a disability of service origin and a veteran's death. Van Slack v. Brown, 5 Vet. App. 499, 502 (1993).
+
+Under sections 3.312(c)(3) and (4) of Title 38 of the Code of Federal Regulations, special consideration must be given to a service-connected disease process affecting a vital organ to determine if that disease process was a contributory cause of death or had a material influence in accelerating death.
+
+Analysis
+
+The Appellant asserts that entitlement to service connection for cause of death is warranted because although the service-connected tortuous varicose veins were not the primary cause of death, the Veteran's asbestos exposure contributed to death. A May 2024 VA Memo confirmed the Veteran's in-service asbestos exposure.
+
+Prior to the Veteran's death the Veteran was service connected for left lower extremity tortuous varicose veins with residual chronic pain and weakness, impaired ambulation, and calf enlargement. The Death Certificate recorded the Veteran's primary cause of death as acute respiratory failure, congestive heart failure, coronary artery disease. Bacteremia, dementia, and urinary tract infection were listed as significant contributory conditions.
+
+As such, the question for the Board is whether service connection is warranted for the listed primary cause of death, acute respiratory failure, congestive heart failure, coronary artery disease, or for the contributory causes of death, atrial fibrillation or chronic obstructive pulmonary disease. 
+
+The issue of entitlement to service connection for cause of death is remanded to correct a duty to assist error that occurred prior to the December 2025 rating decision on appeal. The RO obtained an August 2024 medical opinion prior to the December 2024 rating decision on appeal. 
+
+In a March 2018 VA medical opinion the examiner opined that the Veteran's service-connected disability did not contribute to his cause of death. The physician explained that varicose veins are not a known cause of the medical conditions that caused the Veteran's death and therefore varicose veins could not be a contributory factor.
+
+Following the March 2018 VA medical opinion the RO confirmed the Veteran's in-service asbestos exposure. As such, a new medical opinion was requested to address if the Veteran's asbestos exposure was a contributing factor in his death. 
+
+In an August 2024 VA medical opinion, the examiner provided a detailed explanation about development for each disability listed on the Veteran's death certificate. The examiner then opined that the Veteran's asbestos exposure via inhalation or dermal routes are not his risk factors in his conditions leading to his death. The examiner ultimately concluded "causation is not established and cannot be proven. No medical evidence to support association with TERA."  While the examiner provided a detailed description of the each of the listed disabilities on the death certificate, she did not provide a thorough rationale as to how the confirmed asbestos exposure did not contribute substantially or materially to the listed disabilities, even if asbestos is not known to cause the development of those listed disabilities.
+
+Once VA undertakes to provide an examination, it must provide an adequate one. Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). A medical opinion is adequate if it is based upon consideration of the veteran's prior medical history and describes the veteran's condition in sufficient detail so as to allow the Board to make a fully informed evaluation. Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007); see also Ardison v. Brown, 6 Vet. App. 405, 407 (1994). This requires the opinion to "contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two." Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008). 
+
+The Board is required to ensure that medical opinions are made on the basis of sufficient facts or data and the application of reliable medical principles. Nieves-Rodriguez, 22 Vet. App. at 302. The August 2024 medical opinion that provided that the listed causes of death  are not related to confirmed asbestos exposure, simply by listing the known development of the diseases, is not sufficient for adjudication and an addendum opinion is necessary.
+
+The matter is REMANDED for the following actions:
+
+Obtain an addendum medical opinion from a suitable examiner concerning the cause of the Veteran's death. The Veteran's electronic claims file, including a copy of this Remand Decision, must be made available to the examiner for review in connection with the opinion. The examiner is directed to offer opinions as to the following:
+
+(a.) Was the Veteran's acute respiratory failure, congestive heart failure, coronary artery disease, bacteremia, dementia, or urinary tract infection incurred in, and causally related to, the Veteran's service, including conceded exposure to asbestos? Even if the examiner finds that the asbestos exposure is not a known risk factor, the examiner should provide medical evidence to support a finding that it did not contribute to the development of these disabilities.
+
+(b.) Was the Veteran's acute respiratory failure, congestive heart failure, coronary artery disease, bacteremia, dementia, or urinary tract infection due to the combined synergistic effect of the Veteran's total potential toxic exposure in service?
+
+(c.) A complete rationale, including citation to appropriate medical principles, for all opinions reached must be provided. 
+
+(d.) If the examiner is unable to offer the requested opinion, it is essential that the examiner offer a rationale for the conclusion that an opinion cannot be provided without resort to speculation, together with a statement as to whether there is additional evidence that might enable an opinion to be provided, or whether the inability to provide the opinion is based on the limits of medical knowledge. Jones v. Shinseki,?23?Vet. App.?328?(2010). 
+
+ 
+
+STEVEN V. ADLER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Cross, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

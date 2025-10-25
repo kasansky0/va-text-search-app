@@ -1,0 +1,75 @@
+Citation Nr: A25032614
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 221219-307421
+DATE: April 9, 2025
+
+ORDER
+
+An effective date of February 18, 2021 for an increased evaluation from 0 percent to 30 percent for headaches is granted.
+
+FINDING OF FACT
+
+Within one year of an April 2021 rating decision denying an increased rating, the Veteran submitted a supplemental claim including a medical opinion that was essentially based on a statement accompanying his February 18, 2021 claim.
+
+CONCLUSION OF LAW
+
+The criteria for an effective date of February 18, 2021 for an increased evaluation from 0 percent to 30 percent for headaches are met.  38 U.S.C. §§ 5107, 5110 (2018); 38 C.F.R. §§ 3.102, 3.400, 3.2500, 4.124a, Diagnostic Code 8100 (2024).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from June 1996 to January 2007, including service in Southwest Asia.
+
+This appeal is before the Board of Veterans' Appeals (Board) from an August 2022 higher-level review (HLR) decision of a Department of Veterans Affairs (VA) Regional Office (RO).
+
+On February 18, 2021, the Veteran submitted a claim for an increased rating for his headaches, which were at the time rated as noncompensable.  His claim was denied in an April 2021 rating decision.  On February 24, 2022, the Veteran submitted a supplemental claim requesting readjudication of his noncompensable rating.  In May 2022, the agency of original jurisdiction (AOJ) issued a supplemental claim rating decision which granted a 30 percent rating effective February 24, 2022.  In June 2022, the Veteran requested HLR of the assigned effective date, arguing that the appropriate effective date was February 18, 2021.  In August 2022, the AOJ issued the HLR decision on appeal, which partially granted an earlier effective date of October 7, 2021, considering the evidence of record at the time of the prior May 2022 decision.  
+
+In his December 2022 notice of disagreement, the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the May 2022 AOJ decision, which was subsequently subject to higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the May 2022 decision, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, he may file a supplemental claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a supplemental claim are included with this decision. 
+
+The Board notes that the Veteran's December 2022 notice of disagreement does not specifically state that he disagrees with the assigned effective date.  Rather, it simply identifies the issue as "headaches."  However, the Veteran requested an earlier effective date on the June 2022 HLR request and identified the August 2022 HLR decision as the decision on appeal. Thus, the Board finds that the effective date is the issue on appeal.
+
+Entitlement to an effective date earlier than October 7, 2021 for an increased evaluation from 0 percent to 30 percent for headaches
+
+The Veteran claims an earlier effective date for his increased rating.
+
+Generally, the effective date of an award of an increased rating is the date of receipt of a claim or the date entitlement arose, whichever is later.  38 U.S.C. § 5110(a); 38 C.F.R. § 3.400.  If the earliest date that the claimed increase in disability had occurred was factually ascertainable based on all evidence of record within one year prior to the receipt of claim, the effective date is the date such increase occurred.  38 C.F.R. § 3.400(o)(2).
+
+A claim date may be maintained by?continuously pursuing?a claim or issue via supplemental claim, request for HLR, appeal to the Board, or appeal to the United States Court of Appeals for Veterans Claims (CAVC), provided such options are timely exercised within one year of the issuance of the decision.? 38 C.F.R. § 3.2500.  For supplemental claims received more than one year after the date on which the AOJ issues notice of a decision, the effective date will not be earlier than the date of receipt of the supplemental claim.? 38 C.F.R. §?3.2500(h)(2).
+
+As discussed in detail above, the Veteran has continuously pursued his claim for an increased rating since VA received a claim on February 18, 2021.  The argument accompanying his June 2022 request for HLR indicates that this is the effective date he seeks, and there is nothing in the record to support a claim date prior to this date.  The question before the Board is therefore whether entitlement to a 30 percent rating arose prior to his current effective date, October 7, 2021.
+
+The Veteran's headaches are rated as migraine headaches under 38 C.F.R. § 4.124a, Diagnostic Code 8100.  Under this code, headaches are rated at 0 percent with less frequent attacks.  A 10 percent rating is warranted for headaches with characteristic prostrating attacks averaging one in two months over a period of several months.  A 30 percent rating is warranted for headaches with characteristic prostrating attacks occurring on an average once a month over a period of several months.  The maximum rating of 50 percent is warranted for headaches with very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability.
+
+The criteria of Diagnostic Code 8100 are successive.  Johnson v. Wilkie, 30 Vet. App. 245 (2018).  Successive criteria exist where the evaluation for each higher disability rating includes the criteria of each lower disability rating, such that if a component is not met at any one level, the claimant can only be rated at the level that does not require the missing component.  Tatum v. Shinseki, 23 Vet. App. 152, 156 (2008).
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under Diagnostic Code 8100 to describe the nature and severity of migraines, but it is not defined in the regulation.  Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness."  Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.  The descriptive phrase "very frequent" connotes a frequency at least greater than once a month, as is required by the rating criteria corresponding to a lesser 30 percent rating.  Johnson, 30 Vet. App. at 253.  The phrase "completely prostrating" generally means that the migraines attack must render the veteran entirely powerless.  Id.  The completely prostrating attacks must also be "prolonged," which is defined as "to lengthen in time: extend duration: draw out: continue, protract."  Id. (internal citation omitted).  Lastly, the 50 percent rating criteria requires that the very frequent completely prostrating and prolonged attacks be "productive of severe economic inadaptability."  Productive can be read as having either the meaning of "producing" or "capable of producing," and, regarding severe economic inadaptability, nothing in Diagnostic Code 8100 requires that the claimant be completely unable to work in order to qualify for a 50 percent rating.  Pierce v. Principi, 18 Vet. App. 440, 445-46 (2004).
+
+The rating criteria for migraines contemplate all migraine symptoms.  As such, Diagnostic Code 8100 contemplates more than just headache symptoms and requires that VA consider all the symptoms a claimant experiences as a result of migraine attacks, rating those symptoms based on the frequency, duration, severity, and economic impact.  Holmes v. Wilkie, 33 Vet. App. 67, 73 (2020).  Accordingly, the rating criteria for headaches contemplate the various manifestations of such disability by focusing on the resulting overall functional impairment, rather than particular symptoms.  Id.
+
+In a statement accompanying the Veteran's February 2021 claim, the Veteran stated that his headaches occurred weekly at various times during the day.  He stated they lasted for varying amounts of time.  At least a couple times per month they knocked him out of commission to the point that he was totally incapacitated and bedridden for five hours.  He described noise sensitivity, light sensitivity, flashing or shimmering lights, vertigo, and throbbing and pulsating pain.  He stated that his headaches caused him to miss at least a week of work over the prior year.
+
+The Veteran underwent a VA examination in March 2021.  He reported more frequent headaches, which included sensitivity to light and sound.  He stated the headaches "really can take me out."  Headaches were treated with over-the-counter medication.  The examiner noted characteristic prostrating attacks that occurred less frequently than every other month.
+
+The Veteran's February 2022 supplemental claim was accompanied by an evaluation report by a private nurse practitioner dated October 7, 2021.  The nurse practitioner argued that the Veteran met the criteria for a 50 percent rating.  In support of this argument, the nurse practitioner quoted the entirety of the Veteran's February 2021 statement.  The evaluation report did not indicate that the nurse practitioner examined or interviewed the Veteran.
+
+In argument accompanying his February 2022 supplemental claim, the Veteran's former representative argued that a 50 percent rating was warranted effective February 18, 2021.  This argument was based on the private nurse practitioner's opinion and the Veteran's February 2021 statement.
+
+The Veteran underwent another VA examination in May 2022.  He reported headaches triggered by weather or loud noises and with sensitivity to sound and light.  He stated that he had to call out of work.  He treated his headaches with Tylenol or Motrin.  He described missing work two to three times per month due to his headaches.  The examiner noted characteristic prostrating attacks that occurred monthly. 
+
+The Board finds that an effective date of February 18, 2021 is warranted for the Veteran's increased rating from 0 percent to 30 percent for headaches.  Given his relatively consistent description of his symptoms, it is unclear how the March 2021 VA examiner and May 2022 VA examiners reached different conclusions for the frequency of characteristic prostrating attacks.  Moreover, the Veteran's current effective date suggests that the earliest evidence of a 30 percent rating or worsening was the October 2021 private evaluation.  But there's nothing to indicate that the private evaluation was based on a contemporaneous evaluation of the Veteran.  Rather, the nurse practitioner based the evaluation entirely on the statement submitted with the Veteran's February 2021 claim.  Thus, if the October 2021 private evaluation reflects anything, it is the condition of the Veteran on February 18, 2021.  For these reasons, the Board finds that an effective date of February 18, 2021 is warranted for the Veteran's increased rating from 0 percent to 30 percent for headaches.  As the Veteran has consistently identified this date the effective date sought, this constitutes a full grant of his appeal.
+
+ 
+
+ 
+
+Rebecca N. Poulson
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Gallagher, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

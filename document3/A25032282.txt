@@ -1,0 +1,97 @@
+Citation Nr: A25032282
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240301-442443
+DATE: April 8, 2025
+
+REMANDED
+
+The matter of whether an overpayment of Department of Veterans Affairs (VA) compensation benefits in the amount of $5,614.81 was properly created is remanded.
+
+A waiver of the recovery of an overpayment of VA) benefits in the cumulative amount of $5,614.81 is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served in the Army from August 2004 to January 2005, and from March 2005 to December 2007.
+
+This appeal comes to the Board of Veterans' Appeals (Board) from a September 2023 decision of a Department of Veterans Affairs (VA) Regional Office (RO), the Agency of Original Jurisdiction (AOJ), which, in pertinent part, terminated payment of additional compensation for J., the Veteran's former spouse, effective August 1, 2021.  In October 2023, the Veteran was notified that she was indebted to VA in the amount of $5614.81 and she requested a waiver.   This appeal also comes to the Board from a December 2023 decision of the Committee on Waivers and Compromises (Committee) which denied the Veteran's request for a waiver of recovery of the $5,614.81, overpayment.  
+
+In March 2024, the Veteran submitted a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) and elected the Direct Review Docket.  
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2023 decision for the issue of whether the debt at issue was properly created and the December 2023 decision for the issue of waiver of that debt.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decisions on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the issues, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claims.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Overpayment Debt
+
+As noted, in September 2023 decision on appeal the RO, in pertinent part, terminated payment of additional compensation for J. effective August 1, 2021.  In October 2023, the Debt Management Center (DMC) advised the Veteran that he owed a debt totaling $5,614.81.  This appeared to be from the retroactive termination of the dependency allowance for J. 
+
+In the December 2023 Committee decision, however, the AOJ indicated that there were two debts and $5,614.81 is apparently the cumulative debt.  The debt of $5,614.81 was created September 25, 2023 for the period of January 1, 2008 through August 31, 2008 and August 1, 2021 through June 30, 2023.  
+
+The first debt, a debt for the period of January 1, 2008 through August 31, 2008 was reportedly due to adjustments in the withholding amount in the Veteran's compensation award for the period of January 1, 2008 to October 31, 2008, which was supposed to create a net effect of $0.00, but instead released a retroactive payment in the amount of $993.95 instead of being offset.  The second debt, a debt for the period of August 1, 2021 through June 30, 2023 was reportedly due to the removal of the former spouse from the Veteran's compensation award.  There is no notice to the Veteran of how or why the first debt was created and it is unclear why it was added to the dependency debt at this juncture.   
+
+In that regard, the VA Beneficiary Debt Collection Improvement Act of 2022, 136 Stat. 5462, Pub. Law 117-328 inserted a new statute 38 U.S.C. § 5302B, Prohibition of debt arising from overpayment due to delay in processing.  Under this statute, the following is provided:
+
+(a) Limitation.
+
+(1) Except as provided in paragraph (2), no individual may incur a debt to the United States that-
+
+(A) arises from the participation of the individual in a program or benefit administered by the Under Secretary for Benefits; and
+
+(B) is attributable to the failure of an employee or official of the Department to process information provided by or on behalf of that individual within applicable timeliness standards established by the Secretary.
+
+(2) Nothing in this section shall be construed to affect the penal and forfeiture provisions for fiduciaries set forth in chapter 61 of this title [38 U.S.C. § 6101 et seq.].
+
+(b) Notice.
+
+(1) If the Secretary determines that the Secretary has made an overpayment to an individual, the Secretary shall provide notice to the individual of the overpayment.
+
+(2) Notice under paragraph (1) shall include a detailed explanation of the right of the individual-
+
+(A) to dispute the overpayment, including a detailed explanation of the process by which to dispute the overpayment; or
+
+(B) to request a waiver of indebtedness.
+
+(c) Delay on collection.
+
+(1) Subject to paragraph (2), the Secretary may not take any action under section 3711 of title 31 [31 U.S.C.S. § 3711] regarding an overpayment described in a notice under subsection (b) of this section until the date that is 90 days after the date the Secretary issues such notice.
+
+(2) The Secretary may take action under section 3711 of title 31 [31 U.S.C.S § 3711] regarding an overpayment described in a notice under subsection (b) of this section before the date that is 90 days after the date the Secretary issues such notice if the Secretary determines that delaying such action is-
+
+(A) likely to make repayment of such overpayment more difficult for an individual;
+
+(B) likely to cause an unpaid debt to be referred to the Treasury Offset Program; or
+
+(C) not in the best interest of the individual."
+
+In sum, 38 U.S.C. § 5302B(a) bans the collection/creation of debts against veterans that result from the failure to process information within applicable timeliness standards established by the Secretary.  In other words, it basically bans the creation or collection of debts created due to administrative delay or processing errors.  
+
+In December 2023, VA's Assistant Deputy Under Secretary, Office of Policy and Oversight (VBA) issued a Memorandum entitled "Temporary Timeliness Instruction, providing guidelines for implementing the statute pending formal rulemaking.  The memorandum provides that absent delays directly attributable to a beneficiary's actions, VA must issue a Decision Notification Letter based on information provided by or on behalf of a beneficiary within one year from the date of claim.  When VA fails to do so, VA will not create additional debt for overpayments made more than 1 year from the date of claim.  The memorandum provides that its instructions apply to all debt collection activities pending and nonfinal on June 27, 2023.  See also Veterans Benefits Administration Prevention of Debt Due to Processing Delays Under 38 U.S.C. 5302B, Standard Operating Procedure (SOP), February 2025  ("This SOP applies to all cases in which a decision that results in an overpayment is pending and nonfinal on or after June 27, 2023, due to VA's failure to process information within applicable timeliness standards.").    
+
+This new law and guidance were not in effect at what appears to be the time of the first creation period of the debt on appeal.  Nonetheless, the Board must remand under 38 C.F.R. § 20.802(a) to satisfy the statutory duty that now exists under this legislation as it may aid in substantiating the Veteran's claim.   
+
+2. Waiver
+
+The matter of a waiver is deferred pending the resolution of the issue of the propriety of the debt.
+
+The matters are REMANDED for the following action:
+
+(Continued on the next page)
+
+?
+
+1. Address the propriety of the debt identified as a debt for the period of January 1, 2008 through August 31, 2008 due to adjustments in the withholding amount in the Veteran's compensation award for the period of January 1, 2008 to October 31, 2008, which was supposed to create a net effect of $0.00, but instead released a retroactive payment in the amount of $993.95 instead of being offset.  Consider the matter of sole administrative error due as well as the VA Beneficiary Debt Collection Improvement Act of 2022, 136 Stat. 5462, Pub. Law 117-328, which inserted a new statute 38 U.S.C. § 5302B: Prohibition of debt arising from overpayment due to delay in processing.  If there is any impact on the debt amount/calculation of the debt due to the removal of former spouse J., that issue should be readdressed.
+
+2. If a debt remains, and is in a different amount than was considered by the Committee in December 2023, the Committee should then reconsider the request for a waiver.
+
+ 
+
+ 
+
+K. Conner
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Connolly
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,65 @@
+Citation Nr: A25032998
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240624-457268
+DATE: April 9, 2025
+
+ORDER
+
+Eligibility for the direct payment of attorney fees to the appellant based on past due Department of Veterans Affairs (VA) benefits awarded in a June 2024 rating decision is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran's March 2023 appointment of the appellant as his representative and the associated direct pay fee agreement are valid.
+
+2. A June 2023 agency of original jurisdiction (AOJ) rating decision bifurcated the Veteran's April 2023 supplemental claim of entitlement to service connection for "diabetes mellitus type II with diabetic neuropathy in all extremities" by solely adjudicating the issue of entitlement to service connection for diabetes. 
+
+3. Prior to the Veteran filing an additional claim or seeking review of the June 2023 decision, a June 2024 AOJ rating decision granted entitlement to service connection for bilateral lower extremity diabetic neuropathy, assigning a 20 percent rating for each leg from the date of the April 2023 supplemental claim.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to attorney fees based on the past due benefits awarded in the June 2024 rating decision have been met.  38 U.S.C. § 5904; 38 C.F.R. § 14.636.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran served on active duty in the Army from September 1967 to June 1969 and from May 1982 to April 2000.  The appellant is his appointed representative for other matters before VA, but not the present case.  This appeal stems from a June 2024 Fee Decision issued by the AOJ with respect to a June 2024 rating decision that awarded past due VA benefits to the Veteran.  Therefore, this is a contested claim under the modernized review system (Appeals Modernization Act or AMA).  This case has been advanced on the docket pursuant to 38 U.S.C. § 7107(b)(3).  38 C.F.R. § 20.900(c).
+
+In his June 2024 VA Form 10182: Board Appeal, the appellant elected the Direct Review docket.  Pursuant to contested claims procedures, a redacted copy of the appellant's substantive appeal was sent to the Veteran's address on file.  Contested claims docketing letters were sent to each contested claimant in August and October 2024, informing them of their rights to appeal the Fee Decision at issue and the claim's docketing at the Board.  38 C.F.R. §§ 20.400-20.404.  Therefore, under the AMA, the Board may only consider the evidence of record at the time of the June 2024 Fee Decision on appeal.  38 C.F.R. § 20.301.
+
+1. Eligibility for the direct payment of attorney fees to the appellant based on past due VA benefits awarded in a June 2024 rating decision
+
+A claimant may have attorney or agent representation for the prosecution of claims for VA benefits.  38 U.S.C. § 5904.  A power of attorney, executed on either VA Form 21-22 or VA Form 21-22a, is required to represent a claimant before VA.  The power of attorney shall contain the signature of the claimant and the signature of the agent or attorney and shall be presented to the appropriate VA office for filing in the Veteran's claims folder.  38 C.F.R. § 14.631(a).  A power of attorney may be revoked at any time, and an agent or attorney may be discharged at any time.  Unless a claimant specifically indicates otherwise, the receipt of a new power of attorney executed by the claimant and the organization or individual providing representation shall constitute a revocation of an existing power of attorney.  38 C.F.R. § 14.631(f)(1).  
+
+All agreements for the payment of fees for services of agents and attorneys must be in writing and signed by both the claimant or appellant and the agent or attorney.  To be valid, a fee agreement must include the following: the name of the Veteran; the name of the claimant or appellant if other than the Veteran; the name of any disinterested third-party payer and the relationship between the third-party payer and the Veteran, claimant, or appellant; the applicable VA file number; and the specific terms under which the amount to be paid for the services of the attorney or agent will be determined.  Fee agreements must also clearly specify if VA is to pay the agent or attorney directly out of past-due benefits.  A copy of a direct-pay fee agreement must be filed with the AOJ within 30 days of its execution.  38 C.F.R. § 14.636(g).
+
+Fee agreements must be reasonable, and those which do not exceed 20 percent of past-due benefits are presumed reasonable.  See 38 C.F.R. § 14.636(f).  When a claimant or appellant and an attorney or agent have entered into a fee agreement under which the total amount of the fee payable to the agent or attorney (i) is to be paid to the attorney by the Secretary directly from any past-due benefits awarded on the basis of the claim, and (ii) is contingent on whether the matter is resolved in a manner favorable to the claimant or appellant, the total fee payable to the attorney or agent may not exceed 20 percent of the total amount of any past due benefits awarded on the basis of the claim.  A claim shall be considered to have been resolved in a manner favorable to the claimant or appellant if all or any part of the relief sought is granted.  38 U.S.C. § 5904(d); 38 C.F.R. §§ 14.636(h)(1), 14.636(h)(2).
+
+The term "past-due benefits" means a nonrecurring payment resulting from a benefit, or benefits, granted on appeal or awarded on the basis of a readjudicated claim after a denial by an AOJ or the Board or the lump sum payment that represents the total amount of recurring cash payments that accrued between the effective date of the award and the date of the grant of the benefit by the AOJ, the Board, or an appellate court.  38 C.F.R. § 14.636(h)(3).  The fees are payable to the attorney based on the amount of past-due benefits awarded regardless of the amount payable to the Veteran.  See Rosinski v. Wilkie, 32 Vet. App. 264 (2020).
+
+When the benefit granted on appeal, or as the result of the readjudicated claim, is service connection for a disability, the "past-due benefits" will be based on the initial disability rating assigned by the AOJ following the award of service connection.  The sum will equal the payments accruing from the effective date of the award to the date of the initial disability rating decision.  If an increased rating is subsequently granted as the result of an appeal of the disability rating initially assigned by the AOJ, and if the agent or attorney represents the claimant or appellant in that phase of the claim, the agent or attorney will be paid a supplemental payment based upon the increase granted on appeal, to the extent that the increased amount of disability is found to have existed between the initial effective date of the award following the grant of service connection and the date of the rating action implementing the appellate decision granting the increase.  38 C.F.R. § 14.636(h)(3)(i).
+
+Finally, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a claimant is provided notice of the AOJ initial decision with respect to the case.  See 38 U.S.C. § 5904(c)(1); see also Held v. McDonough, 37 Vet. App. 28 (2023).  In the case of Jackson v. McDonough, 37 Vet. App. 277 (2024), the Court of Appeals for Veterans Claims (Court) addressed what is considered the "initial decision" pursuant to 38 U.S.C. § 5904(c)(1).  Particularly, the Court found a new request for an increased rating is a new claim that results in a subsequent initial decision on that claim, even if filed on a supplemental claim form under the AMA system.  Id. at 25.  This is distinguished from the filing of a supplemental claim with new evidence in pursuit of a previously denied claim.  Id. at 32.
+
+In this case, the Veteran's claim of entitlement to service connection for diabetes mellitus type II was initially denied by the AOJ in an August 2010 rating decision on the basis that he did not have a current disability.  The Veteran did not appeal this decision or submit new and material evidence within one year, and it became final.  See 38 U.S.C. § 7105(c); 38 C.F.R. §§ 3.156(b), 20.1103.  In March 2023, the appellant filed a timely VA Form 21-22a signed by both parties and appointing him as the Veteran's representative before VA.  An accompanying duly signed Fee Agreement established eligibility to the direct payment of 20 percent of past due benefits granted.  These agreements are valid.  38 C.F.R. § 14.636(g).
+
+The appellant then filed a February 2023 Intent to File and April 2023 supplemental claim on behalf of the Veteran, the latter of which requested entitlement to service connection for "diabetes mellitus type II with diabetic neuropathy in all extremities" and included private treatment records.  The AOJ issued a June 2023 rating decision granting entitlement to service connection for diabetes mellitus type II, assigning an initial 60 percent rating based on hospitalizations occurring once or twice per year.  The Veteran did not dispute this decision or file a supplemental claim with additional evidence.  However, after further development, the AOJ issued a June 2024 rating decision granting entitlement to service connection for bilateral lower extremity diabetic neuropathy, assigning ratings of 20 percent for each leg from the date of the February 2023 Intent to File.  
+
+The present dispute arises out of the Fee Decision issued in relation to the June 2024 grant of service connection for bilateral lower extremity diabetic neuropathy.  Specifically, the issue is whether the AOJ previously issued notice of an initial decision on the claim.  When the benefit granted as the result of the readjudicated claim is service connection for a disability, the "past-due benefits" will be based on the initial disability rating assigned by the AOJ following the award of service connection.  38 C.F.R. § 14.636(h)(3)(i).  Here, the AOJ granted entitlement to service connection for diabetes mellitus type II and diabetic neuropathy in two separate rating decisions, but, notably, the second grant of service connection for neuropathy assigned an initial rating from the date of receipt of the Intent to File that led to the first grant of service connection for the underlying diabetes.  
+
+Significantly, the Veteran never filed a separate claim of entitlement to service connection for diabetic neuropathy, nor did he dispute the initial rating assigned based solely on his underlying diabetes mellitus.  Thus, the Board concludes that the second rating decision was issued as part of determining the initial disability rating for the Veteran's diabetes mellitus.  See 38 C.F.R. § 4.119, Diagnostic Code 7913 Note (1) (instructing that compensable complications of diabetes are to be separately evaluated when assigning an evaluation for diabetes).  Although the AOJ bifurcated the determination of the initial rating for the Veteran's diabetes mellitus and accompanying neuropathy, the Board considers both of the rating decisions to be part of the adjudication of his April 2023 supplemental claim for "diabetes mellitus type II with diabetic neuropathy in all extremities."
+
+This case is distinguishable from that in Jackson, in that no separate claim for increased rating was filed after the decision granting service connection and assigning an initial rating.  The Board acknowledges that the final August 2010 AOJ rating decision solely denied entitlement to service connection for diabetes mellitus type II and did not discuss the issue of diabetic neuropathy.  However, as discussed above, the Board has found that the past due benefits granted in the April 2024 rating decision were part and parcel of the assignment of the initial rating for diabetes mellitus.  As entitlement to service connection for this disability was previously denied by the AOJ, the appellant is eligible for fees based on past due benefits granted as part of the initial rating assigned, which in this case includes bilateral lower extremity radiculopathy.  The claim is granted.
+
+ 
+
+ 
+
+T. MAINELLI
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Schumacher, Kyle C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

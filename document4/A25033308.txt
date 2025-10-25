@@ -1,0 +1,99 @@
+Citation Nr: A25033308
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240813-467867
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for traumatic brain injury (TBI) is denied.  
+
+FINDING OF FACT
+
+The evidence of record does not reflect the Veteran's TBI was manifested by any facet equating to higher than a level "0" in any of the facets of cognitive impairment under the table titled "Evaluation of Cognitive Impairment and Other Residuals of TBI Not Otherwise Classified."  
+
+CONCLUSION OF LAW
+
+The criteria for an initial compensable rating for TBI have not been met.  38 U.S.C. § 1155; 38 C.F.R. §§ 3.102, 3.159, 4.1, 4.3, 4.7, 4.124a, Diagnostic Code 8045.
+
+?
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from December 2009 to June 2023.  
+
+The decision on appeal was issued in October 2023; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+The Veteran timely appealed the October 2023 rating decision in August 2024.  The Veteran requested direct review of the evidence considered by the Agency of Original Jurisdiction (AOJ).  If evidence was added to the record during an ineligible period identified above, the Board has not considered that evidence.  If the Veteran wishes to have VA consider any evidence that was not considered, a supplemental claim should be submitted identifying such evidence.
+
+In the October 2023 notice of disagreement, the Veteran indicated that he disagreed with the October 2023 rating action to defer a decision on entitlement to compensation for a neck disorder and the "zero percent rating" assigned.  However, the issue of service connection for a neck disorder was not appealable from the October 2023 rating decision as it was not a final determination and was deferred pending a VA examination.  Furthermore, in the May 2024 rating decision, the AOJ granted service connection for cervical strain (claimed as neck disorder) and assigned a 10 percent rating.  
+
+Entitlement to a compensable rating for TBI.  
+
+A disability rating is determined by the application of VA's Schedule for Rating Disabilities (Rating Schedule), 38 C.F.R. Part 4.  
+
+The percentage ratings contained in the Rating Schedule represent, as far as can be practicably determined, the average impairment in earning capacity resulting from diseases and injuries incurred or aggravated during military service and their residual conditions in civil occupations.  Separate diagnostic codes identify the various disabilities.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.  
+
+VA has a duty to acknowledge and consider all regulations that are potentially applicable through the assertions and issues raised in the record, and to explain the reasons and bases for its conclusions.  Schafrath v. Derwinski, 1 Vet. App. 589 (1991).
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7. 
+
+The Board will consider whether separate ratings may be assigned for separate periods of time based on facts found, a practice known as "staged ratings," whether it is an initial rating case or not.  Fenderson v. West, 12 Vet. App. 119, 126-27 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+By way of history, in the October 2023 rating decision the AOJ granted service connection for TBI and assigned a zero percent rating effective July 1, 2023, under Diagnostic Code 8045.  
+
+The rating criteria for TBI is set forth in Diagnostic Code 8045.  A Veteran is evaluated based on three main areas of functioning: cognitive (which is common in varying degrees after a TBI), emotional/behavioral, and physical.  Each of these areas of dysfunction may require evaluation.  38 C.F.R. § 4.124a, Diagnostic Code 8045.  Each of these main areas has up to 10 subsets of criteria.
+
+Cognitive impairment is defined as decreased memory, concentration, attention, and executive functions of the brain.  Executive functions are goal setting, speed of information processing, planning, organizing, prioritizing, self-monitoring, problem solving, judgment, decision making, spontaneity, and flexibility in changing actions when they are not productive.  Not all of those brain functions may be affected in a given individual with cognitive impairment, and some functions may be affected more severely than others.  In a given individual, symptoms may fluctuate in severity from day to day.  Cognitive functions are evaluated under the table titled "Evaluation of Cognitive Impairment and Other Residuals of TBI Not Otherwise Classified."  38 C.F.R. § 4.124a, Diagnostic Code 8045. 
+
+Subjective symptoms may be the only residual of TBI or may be associated with cognitive impairment or other areas of dysfunction.  Subjective symptoms that are residuals of TBI, whether or not they are part of cognitive impairment, are rated under the subjective symptoms facet in the table titled "Evaluation of Cognitive Impairment and Other Residuals of TBI Not Otherwise Classified."  However, any residual with a distinct diagnosis that may be rated under another diagnostic code, such as migraine headache or Meniere's disease, is separately rated, even if that diagnosis is based on subjective symptoms, rather than under the "Evaluation of Cognitive Impairment and Other Residuals of TBI Not Otherwise Classified" table.  38 C.F.R. § 4.124a, Diagnostic Code 8045.
+
+Emotional/behavioral dysfunction is rated under 38 C.F.R. § 4.130, the schedule of ratings for mental disorders when there is a diagnosis of a mental disorder.  When there is no diagnosis of a mental disorder, emotional/behavioral symptoms are rated under the criteria in the table titled "Evaluation of Cognitive Impairment and Other Residuals of TBI Not Otherwise Classified."  38 C.F.R. § 4.124a, Diagnostic Code 8045.
+
+Physical, including neurological, dysfunction is rated based on the following list, under an appropriate diagnostic code: Motor and sensory dysfunction, including pain, of the extremities and face; visual impairment; hearing loss and tinnitus; loss of sense of smell and taste; seizures; gait, coordination, and balance problems; speech and other communication difficulties, including aphasia and related disorders, and dysarthria; neurogenic bladder; neurogenic bowel; cranial nerve dysfunctions; autonomic nerve dysfunctions; and endocrine dysfunctions.  38 C.F.R. § 4.124a, Diagnostic Code 8045. 
+
+The preceding list of types of physical dysfunction does not encompass all possible residuals of TBI.  For residuals not listed that are reported on an examination, they are rated under the most appropriate diagnostic code.  Each condition should be rated separately, as long as the same signs and symptoms are not used to support more than one rating, and the ratings are combined.  The rating assigned based on the "Evaluation of Cognitive Impairment and Other Residuals of TBI Not Otherwise Classified" table will be considered the rating for a single condition for purposes of combining with other disability evaluations.  38 C.F.R. § 4.124a, Diagnostic Code 8045.
+
+The rater should consider the need for special monthly compensation for such problems as loss of use of an extremity, certain sensory impairments, erectile dysfunction, the need for aid and attendance (including for protection from hazards or dangers incident to the daily environment due to cognitive impairment), or being housebound.  38 C.F.R. § 4.124a, Diagnostic Code 8045. 
+
+The table titled "Evaluation of Cognitive Impairment and Other Residuals of TBI Not Otherwise Classified" contains 10 important facets of TBI related to cognitive impairment and subjective symptoms.  It provides criteria for levels of impairment for each facet, as appropriate, ranging from 0 to 3, and a 5th level, the highest level of impairment, labeled "total."  However, not every facet has every level of severity.  The Consciousness facet, for example, does not provide for an impairment level other than "total," since any level of impaired consciousness would be totally disabling.  A 100-percent rating is assigned if "total" is the level of evaluation for one or more facets.  If no facet is evaluated as "total," assign the overall percentage rating based on the level of the highest facet as follows: 0 warrants a 0 percent rating; 1 warrants a 10 percent rating; 2 warrants a 40 percent rating; and 3 warrants a 70 percent rating.  For example, a 70 percent rating is assigned if 3 is the highest level of evaluation for any facet.  38 C.F.R. § 4.124a, Diagnostic Code 8045.
+
+There may be an overlap of manifestations of conditions evaluated under the table titled "Evaluation of Cognitive Impairment and Other Residuals of TBI Not Otherwise Classified" with manifestations of a comorbid mental or neurologic or other physical disorder that can be separately rated under another diagnostic code.  In such cases, more than one rating based on the same manifestations is not to be assigned.  If the manifestations of two or more conditions cannot be clearly separated, a single rating is assigned under whichever set of diagnostic criteria allows the better assessment of overall impaired functioning due to both conditions.  However, if the manifestations are clearly separable, a separate rating is assigned for each condition.  38 C.F.R. § 4.124a, Diagnostic Code 8045, Note (1). 
+
+Symptoms listed as examples at certain evaluation levels in the table are only examples and are not symptoms that must be present in order to assign a particular evaluation.  38 C.F.R. § 4.124a, Diagnostic Code 8045, Note (2).
+
+Instrumental activities of daily living refer to activities other than self-care that are needed for independent living, such as meal preparation, doing housework and other chores, shopping, traveling, doing laundry, being responsible for one's own medications, and using a telephone.  Those activities are distinguished from activities of daily living, which refers to basic self-care and includes bathing or showering, dressing, eating, getting in or out of bed or a chair, and using the toilet.  38 C.F.R. § 4.124a, Diagnostic Code 8045, Note (3).  The terms mild, moderate, and severe TBI, which may appear in medical records, refer to a classification of TBI made at, or close to, the time of injury rather than to the current level of functioning.  That classification does not affect the rating assigned under diagnostic code 8045.  38 C.F.R. § 4.124a, Diagnostic Code 8045.  
+
+The 10 important facets of cognitive impairment and other residuals of TBI not otherwise classified are as follows: (1) Memory, attention, concentration, executive functions; (2) Judgment; (3) Social interaction; (4) Orientation; (5) Motor activity; (6) Visual spatial orientation; (7) Subjective symptoms; (8) Neurobehavioral effects; (9) Communication; and (10) Consciousness.  38 C.F.R. § 4.124a, Diagnostic Code 8045.
+
+Applying the criteria set forth above to the facts in this case, the Board finds that the evidence is persuasively against a finding of a compensable rating for TBI at any time during the period on appeal.
+
+In this regard, the Board has considered the 10 facets discussed above.  The Veteran's disability has been manifested by no greater than level 0 impairment for any of the facets under the Cognitive Table.
+
+On the July 2023 VA examination for TBI, signed in August 2023, the examiner determined that there were no complaints of impairment of memory, attention, concentration, or executive functions, which is indicative of level 0 impairment; judgment was normal, indicative of level 0 impairment; social interaction was routinely appropriate, indicative of level 0 impairment; the Veteran always was oriented to person, time, place, and situation indicative of level 0 impairment; motor activity was normal, indicative of level 0 impairment; visual spatial orientation was normal, indicative of level 0 impairment; there were no subjective symptoms, which is indicative of level 0 impairment; there were no neurobehavioral effects, which is indicative of level 0 impairment; the Veteran was able to communicate by spoken and written language and to comprehend spoken and written language, indicative of level 0 impairment; and consciousness was normal, which is indicative of level 0 impairment.  The examiner determined that the Veteran did not have any subjective or any mental, physical, or neurological disorders or residuals attributable to TBI.  The examiner found that the Veteran did not have any other pertinent physical findings, complications, disorders, conditions, signs and/or symptoms.  The examiner indicated that there were no other significant diagnostic test findings and/or results.  The examiner noted that there was an alteration in mental state at the time of injury as the Veteran felt groggy and dazed for 15 seconds.  After the injury during service, whereby the Veteran hit his head on another player's chest during a football game, he had two to three bouts of vertigo but those resolved.  The examiner stated that there was no headache nor other focal neurological deficits.  The main residual was neck pain/ stiffness (as discussed above, the Veteran is service-connected for cervical strain).  The examiner noted that neurology exam was grossly intact.  The examiner stated that based on a review of the records and examination of the Veteran, he did not have any residuals from his TBI.  It was less likely than not that any emotional/behavioral signs and symptoms were residuals of TBI.  (Subsequently in the May 2024 rating decision the Veteran was granted service connection for adjustment disorder and assigned a 50 percent rating).  
+
+The above findings are uncontroverted by the other competent evidence of record.  
+
+The Board has considered Diagnostic Code 8045's instruction to consider the Veteran's entitlement to special monthly compensation (SMC).  The medical evidence of record does not show that the Veteran is in need of regular aid and attendance of another person or is housebound. 
+
+The Board also has considered whether any other potentially relevant Diagnostic Codes would yield higher ratings for the Veteran's TBI residuals.  However, when a disorder is specifically listed in the Rating Schedule, it may not be rated by analogy.  See Copeland v. McDonald, 27 Vet. App. 333, 338 (2015).  Therefore, the 
+
+?
+
+Board finds that no other diagnostic code or rating would be appropriate in the evaluation of the Veteran's TBI.  
+
+As the evidence is persuasively against the award of a compensable rating for TBI, the benefit of the doubt doctrine is not applicable.  See 38 U.S.C. § 5107 (b); Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+ 
+
+ 
+
+Thomas H. O'Shay
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Mac, M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

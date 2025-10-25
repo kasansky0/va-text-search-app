@@ -1,0 +1,117 @@
+Citation Nr: A25031958
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240619-448954
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to a rating of total disability based on individual unemployability (TDIU), to include on an extraschedular basis, is denied.
+
+FINDING OF FACT
+
+The evidence of record does not reasonably substantiate a possibility that the Veteran's service connected disabilities result in unemployability.
+
+CONCLUSION OF LAW
+
+The criteria for Entitlement to a rating of total disability based on individual unemployability (TDIU), to include on an extraschedular basis, have not been met. 38 U.S.C. § 1155; 38 C.F.R. § 4.16; Snider v. McDonough, 35 Vet. App. 1 (2021).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Air Force from January 1987 to February 1990, and from December 1992 to July 1993, with additional service in the National Guard.  
+
+This case comes on appeal of a June 2023 rating decision by the agency of original jurisdiction (AOJ).  In June 2024, the Veteran submitted a VA Form 10182 to appeal that decision to the Board.  In doing so, the Veteran elected to have his appeal adjudicated under the Direct Review docket.  Accordingly, the Board may only consider the evidence that was of record at the time of the June 2023 rating decision.  The Board may consider argument that was raised at any time.  
+
+The Board may not consider any evidence that was submitted outside of this evidentiary window, to include VA-generated evidence such as VA treatment records and VA examinations.  With this in mind, the Board notes that evidence was added to the claims file during a period of time when new evidence was not allowed.  As the Board is deciding the claim of entitlement to a TDIU, it may not consider this evidence in its decision.  38 C.F.R. § 20.300.  The Veteran may file a Supplemental Claim and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+1. Entitlement to a rating of total disability based on individual unemployability (TDIU)
+
+It is the established policy of VA that all Veterans who are unable to secure and follow a substantially gainful occupation by reason of service-connected disabilities shall be rated totally disabled.  See 38 C.F.R. § 4.16.  In determining whether unemployability exists, consideration may be given to the Veteran's level of education, special training and previous work experience, but not to his or her age or to any impairment caused by nonservice-connected disabilities.  See 38 C.F.R. §§ 3.341, 4.16, 4.19.
+
+A total disability rating for compensation may be assigned where the schedular rating is less than total when the disabled person is, in the judgment of the rating agency, unable to secure or follow a substantially gainful occupation as a result of service-connected disabilities, provided that, if there is only one such disability, this disability shall be ratable at 60 percent or more.  If there are two or more disabilities, there shall be at least one disability ratable at 40 percent or more and the combined rating must be 70 percent or more.  See 38 C.F.R. § 4.16(a). For consideration under these provisions, disabilities resulting from common etiology or a single accident will be evaluated as one disability.  Id. 
+
+Pursuant to 38 C.F.R. § 4.16(b), when a claimant is unable to secure and follow a substantially gainful occupation by reason of service-connected disabilities, but fails to meet the percentage requirements for eligibility for a total rating set forth in 38 C.F.R. § 4.16(a), such case shall be submitted for extraschedular consideration. 
+
+The ultimate question of whether a Veteran is capable of substantial gainful employment is not a medical one; that determination is for the adjudicator.  Geib v. Shinseki, 733 F.3d 1350, 1354 (Fed. Cir. 2013); Floore v. Shinseki, 26 Vet. App. 376, 381 (2013).  As such, the focus of the examiner is not on whether the Veteran is unemployable due to his or her service-connected disabilities, but the functional impairment caused solely by his or her service-connected disabilities.
+
+The Veteran filed the claim for a TDIU in January 2023.  As of January 2023, the Veteran was service connected for: an acquired psychiatric disorder, at a rate of 50 percent; and tinnitus, at a rate of 10 percent. The combined rating for these disabilities has been 60 percent throughout the period on appeal.  
+
+During the appeal period, the Veteran has not been service-connected for a single disability with a rating of at least 60 percent.  The Board notes that the Veteran's psychiatric disorder is considered secondary to tinnitus.  However, the two disabilities do not result from a common etiology.  Thus, for the purposes of 38 C.F.R. § 4.16, they are considered distinct disabilities.  
+
+Likewise, although the Veteran does have one disability that is rated at 40 percent or greater, his combined disabilities are not rated at 70 percent or greater.  
+
+Therefore, the Veteran is not schedularly eligible for a TDIU.  
+
+As the Board discussed above, the lack of schedular eligibility does not preclude a Veteran from receiving a TDIU.  38 C.F.R. § 4.16(b).  He may still receive a TDIU on an extraschedular basis.  Id.  However, the Board may not award a TDIU on an extraschedular basis in the first instance.  Rather, the Board must first determine whether there is sufficient evidence to substantiate a reasonable possibility that the Veteran is unemployable due solely to his service-connected disabilities.  Snider v. McDonough, 35 Vet. App. 1 (2021).  If so, the Board then refers the matter to the Director of Compensation service (Director) for a determination on whether an extraschedular TDIU is warranted.    
+
+The phrase "unable to secure and follow a substantially gainful occupation" contains both economic and noneconomic components.  The economic component requires a determination as to whether a Veteran's income exceeds the poverty threshold.  The noneconomic component requires a determination as to a Veteran's ability to secure and follow such employment.  With regard to the latter component, attention should be given to the Veteran's history, education, skill, and training.  Consideration should also be given to both the Veteran's physical and mental abilities.  From a physical standpoint, possible relevant factors include the Veteran's limitations as to lifting, bending, sitting, standing, walking, climbing, grasping, typing, and reaching, as well as audio and visual limitations.  Regarding the Veteran's mental ability, possible relevant factors include limitations as to memory, concentration, ability to adapt to change, handle workplace stress, get along with coworkers, and demonstrate reliability and productivity.  See Ray v. Wilkie, 31 Vet. App. 58 (2019).  In determining whether unemployability exists, consideration should not be given to the Veteran's age or to any impairment caused by nonservice-connected disabilities.  See 38 C.F.R. §§ 3.341, 4.16, 4.19.
+
+In this case, the Board finds that there is not a reasonable possibility that the Veteran's service-connected disabilities render him unemployable.  Therefore, referral to the Director for extraschedular consideration is not warranted.  
+
+As was discussed above, the Veteran is service connected for an acquired psychiatric disorder and tinnitus.  
+
+In an August 2022 VA mental disorders examination, the examiner diagnosed mood disorder due to a known physiological condition with depressive features, as well as insomnia.  At that time, the Veteran reported his medical conditions contributed to anxiety, depression, social isolation, irritability, sleep disturbance, and concentration difficulty.  The examiner recorded symptoms including depressed mood, anxiety, suspiciousness, chronic sleep impairment, mild memory loss, disturbances of motivation and mood, difficulty in establishing and maintaining effective work and social relationships, and difficulty adapting to stressful circumstances.  The examiner opined that the Veteran's symptoms resulted in occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks, although generally functioning satisfactorily, with normal routine behavior, self-care and conversation.  
+
+During the interview portion of the examination, the Veteran reported that he had worked as a civilian for a copier company for one and a half years, then with the state for three years.  He had retired from working for the Federal Aviation Administration (FAA) for seven years before retiring one year prior.  He noted that he was having problems with back pain and mobility, making it difficult to travel for work.  He also reported fatigue, stress, low motivation, and conflict with a manager.  He noted avoiding situations to avoid anger and specifically identified that he had taken a downgrade at his job before retiring to avoid conflict.  
+
+The Veteran had no hospitalizations for mental health purposes and had not received any mental health treatment, other than being prescribed Cymbalta by his primary care physician to help with "anger issues."  He reported taking the medication for five years and that it had been helpful.
+
+In a February 2023 VA mental disorders examination, the examiner diagnosed depressive disorder due to another medical condition, as well as insomnia disorder.  The examiner noted that the updated diagnoses of depressive disorder was in conformance with updated diagnoses in the DSM-5, which no longer recognized mood disorder due to a known physiological condition as a diagnosed condition.  
+
+The examiner observed symptoms including depressed mood, anxiety, chronic sleep impairment, mild memory loss, disturbances of mood and motivation, and difficulty adapting to stressful circumstances including work or a worklike setting.  
+
+The Veteran reported that he completed household chores and personal activities of daily living independently.  His back condition prohibited yard work and other strenuous activities.  The Veteran explained that he had recently retired from the FAA as an installer. However, he had retired five years before he was ready to do so because it was hard to do his job given his mental and physical exhaustion.  He also stated that memory problems impaired his performance.  
+
+The examiner opined that the Veteran's symptoms resulted in occupational and social impairment with reduced reliability and productivity.  The examiner further noted that the Veteran's sleep impairment, anxiety, and irritability would impact the ability to tolerate stress, especially in novel situations.  His depressed mood and fatigue would adversely affect motivation.  Thus, in the examiner's opinion, the Veteran appeared better suited to solitary, repetitive job duties.  
+
+In a January 2023 VA tinnitus examination, the examiner opined that the functional impact of the Veteran's tinnitus would include its being distracting and annoying, leading to anxiety.  The examiner also noted that the Veteran had difficulty with hearing and verbal communication due to the ringing in his ears.  According to the examiner, tinnitus would impact fatigue as it impaired the Veteran's ability to fall or stay asleep.  
+
+In support of his claim, the Veteran submitted a January 2023 private assessment from C.M.B., a certified physician assistant.  C.M.B. noted that the Veteran exhibited daytime tiredness or sleepiness, irritability, depression, and anxiety.  The Veteran reported difficulty paying attention, focusing on tasks, or remembering.  C.M.B. opined that because of these symptoms, the Veteran was at an increased risk for errors or accidents in the workplace.  
+
+C.M.B. continued, explaining that the Veteran had documentation of cognitive dysfunction and pain with functional loss related to his service-connected disability conditions, despite medication.  According to C.M.B., the Veteran experienced "daily pain with limited physical ability due to his service-connected musculoskeletal conditions" which caused difficulty finding comfortable positions, especially with sleep, and daily chronic fatigue contributing to decreased focus, decreased concentration, and the inability to complete daily tasks in the workplace.  
+
+C.M.B. noted that the Veteran was on medication for his psychiatric conditions.  C.M.B. reported that side effects of these medications included confusion, headaches, nervousness, blurred vision, dizziness, faintness, decreased concentration, fatigue, tremors, fever, chills, body aches, difficulty breathing with exertion, abdominal pain, nausea and vomiting, diarrhea, slow or fast heartbeat, chest pain, sleep disturbances, increased bleeding time, and unusual bleeding or bruising.  
+
+C.M.B. further noted that the Veteran had not been able to work since January 2020 and had not worked nor sought out employment since that time in his usual and customary vocation as an Electronic Installation Technician because he was unable to adequately and safely perform his job duties.  C.M.B. stated that the Veteran was unable to safely perform those job duties due to "debilitating symptoms of mood disorder and insomnia and tinnitus with functional impairment related to pain, physical deficits, cognitive limitations, and associated symptomatology (i.e. fatigue)." 
+
+In a statement accompanying his claim, the Veteran reported that there was no flexibility nor accommodation in the workplace policies at his most recent job.  He had difficulty with customer interaction and relationships and his job duties caused his pain to be overwhelming at times.  He explained that his physical disabilities resulted in discomfort and pain, which made it difficult to perform basic activities and get adequate rest.  Additionally, according to the Veteran, his mental health disability played a key role in his inability to maintain long-term employment as a result of his mood instability, anger issues, inability to connect to people, and lack of motivation to accomplish things.  
+
+In June 2023, VA received a response from the Veteran's employer at the FAA, A.G.G., regarding the conditions leading to the Veteran's retirement.  A.G.G. reported that the Veteran retired due to many health issues and because he was no longer able to perform installations at FAA towers.  A.G.G. noted that the Veteran's health conditions included low, middle, and upper back and neck issues; migraine headaches; surgeries in both knees; memory loss; joint pain leading to difficulty sleeping; sleep apnea; diabetes; and congestive heart failure with four stents in the heart.  
+
+The foregoing evidence presents a complicated picture regarding the relationship between the Veteran's disabilities and his ability to secure and maintain substantially gainful employment.  Undoubtedly, the Veteran is impaired.  However, the overwhelming evidence suggests that this impairment is caused by a combination of service-connected and non-service-connected disabilities.  
+
+The Board's present task is to determine whether the evidence supports a reasonable possibility that the Veteran is unemployable based solely on the functional impact of his service-connected disabilities.  The functional impacts of those disabilities are medical judgments.  However, how those functional impacts impair the Veteran's employability is not a medical evaluation.  Instead, it is a determination that the Board, as the adjudicator, is competent to make based on the evidence of record.  
+
+Given the information discussed above, the Board finds that the evidence does not support a reasonable possibility that the Veteran is unemployable based solely on the functional impact of his service-connected disabilities.  
+
+Based on the evidence of record, the functional impact of the Veteran's service-connected disabilities has been fairly well documented, particularly so by the February 2023 VA mental disorders examiner.  That examiner noted that the Veteran's sleep impairment, anxiety, and irritability would impact the ability to tolerate stress, especially in novel situations, and his depressed mood and fatigue would adversely affect motivation.  Thus, the Veteran would be better in solitary, repetitive job duties.  The Veteran's tinnitus would impact his ability to converse with others.  The sleep impairment caused by tinnitus is already contemplated in the functional impairment of the Veteran's psychiatric disabilities.  
+
+The assessment from C.M.B. is helpful in confirming that the Veteran's mental health disabilities do, in fact, affect the Veteran's functioning with regard to focus and memory.  However, C.M.B.'s assessment generally conflates the Veteran's service-connected disabilities with the functional impact of his non-service-connected musculoskeletal disabilities.  As the Board's evaluation is based solely on the functional impact of the Veteran's service-connected disabilities, C.M.B.'s assessment lacks significant probative value beyond the discussion of focus and memory. 
+
+The Board further notes that C.M.B.'s discussion of the side effects of the Veteran's medications appears to be a general discussion of those medications' side effects with no analysis of how those medications actually impact the Veteran.  Indeed, there is no documentation in the Veteran's medical records that he experiences any of the described side effects.  Further, given the way in which C.M.B. appears to have been under the impression that the Veteran's musculoskeletal disabilities are service connected, it is unclear whether C.M.B. was describing side effects of the medications the Veteran takes for those non-service-connected disabilities as well.  Therefore, that discussion is not persuasive in the Board's findings. 
+
+Thus, the question is whether there is a reasonable possibility that the functional impacts described above preclude the Veteran's employment in any substantially gainful occupation.  The Board wishes to emphasize that this assessment is not simply whether the Veteran's disabilities caused his retirement.  
+
+The Board finds that a solitary, repetitive job that did not involve significant customer interaction remains obtainable when considering the Veteran's high school education and employment history.  As just one example, these limitations would still allow the Veteran to perform a job in a warehouse fulfillment role.  
+
+The Board acknowledges that, in all likelihood, the Veteran's non-service-connected disabilities would prevent him from engaging in any substantially gainful employment.  Indeed, based on the information provided by A.G.G., the Veteran's myriad musculoskeletal disability, diabetes, and heart conditions would seriously preclude most manual labor.  In combination with the Veteran's mental health disabilities and tinnitus, the Veteran may very well be wholly unemployable.  However, those non-service-connected disabilities are not part of the Board's consideration for an award of a TDIU.  
+
+(continued on next page)
+
+?
+
+Instead, the evidence persuasively favors a finding that there is not a reasonable possibility that the Veteran's service-connected disabilities, on their own, result in unemployability.  As a result, referral to the Director for consideration of an extraschedular TDIU is not warranted.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and entitlement to a TDIU is denied.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (2021).   
+
+ 
+
+ 
+
+B. D. WATSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Giaquinto
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

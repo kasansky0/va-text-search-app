@@ -1,0 +1,101 @@
+Citation Nr: A25032906
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 241003-479597
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for headaches is remanded.
+
+Entitlement to a disability evaluation in excess of 10 percent for non-allergic rhinitis is remanded.
+
+Entitlement to service connection for a sinus condition is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from August 2004 to April 2014.
+
+He appeals December 2023 and January 2024 rating decision by the VA Agency of Original Jurisdiction (AOJ).  In his October 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  See October 2024 VA Form 10182.
+
+Therefore, the Board may only consider the evidence of record at the time of the AOJ decisions on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after an AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+1. Headaches
+
+The Veteran seeks service connection for headaches.  He was afforded a VA examination in October 2023.  The VA examiner diagnosed him with tension headaches.  See October 2023 VA examination report.  
+
+VA has acknowledged the Veteran's toxic exposure risk activity (TERA).  See August 2023 VA TERA Memorandum.  As such, the October 2023 VA examiner provided an opinion regarding the relationship between the Veteran's TERA and his headaches.  The VA examiner ultimately opined that the Veteran's headaches were less likely than not caused by the indicated TERA.  See October 2023 VA TERA opinion.  As rationale, she stated that the Veteran's "enlistment exam was normal and silent for headaches.  He has verified service in the Persian Gulf with exposure to burn pits, particulate matter and fumes.  He has a diagnosis of tension headaches.  His separation exam 2/19/14 and Separation Health Assessment were silent for a complaint of headaches.  The medical literature does not support a relationship between tension headaches and toxic exposure.  This condition is related to fatigue, stress, muscular strain, sleep disturbance, dehydration and postural imbalance."  Id. 
+
+However, there is no discussion of the facts specific to the Veteran in relation to the general medical literature referenced by the clinician.  See Bailey v. O'Rourke, 30 Vet. App. 54, 60 (2018) (reliance on the absence of medical literature supporting nexus without discussing the specific facts of the case renders an opinion inadequate).  The remainder of her rationale relied primarily on the absence of contemporaneous medical records ("lack of medical evidence to show the condition was present during service") to render a negative nexus opinion; such an opinion is inadequate for adjudicative purposes.  See Buchanan v. Nicholson, 451 F.3d 1331, 1337 (2006).  Thus, a remand is required to provide the Veteran with adequate medical opinion.  See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007) (when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate).
+
+Thereafter, the AOJ requested a direct service connection opinion.  See December 2023 Exam Scheduling Request.  As a result, a December 2024 VA medical opinion was produced.  The December 2024 VA clinician provided a negative nexus opinion with the following supporting rationale: "This [Veteran's] [headaches] are not caused by service, due to lack of records during service or within one year of service discharge in 2014."  See December 2024 VA medical opinion.  Similar to above, the reviewing clinician relied primarily on the absence of contemporaneous medical records ("lack of medical evidence to show the condition was present during service") to render a negative nexus opinion; such an opinion is inadequate for adjudicative purposes.  See Buchanan, supra.
+
+Further, as referenced above, the record confirms that the Veteran performed service in the Southwest Asia theater of operations during the Gulf War.  See January 2023 VA Persian Gulf Veteran Memorandum.  Thus, he is subject to the presumptions of 38 C.F.R. § 3.317(a).  Specifically, in considering 38 C.F.R. § 3.317, the Board is mindful of the holding in Stewart v. Wilkie.  In that case, the Court of Appeals for Veterans Claims (Court) held an illness is a medically unexplained chronic multisymptom illness (MUCMI) where either the etiology or pathophysiology of the illness is inconclusive as to the individual Veteran.  See Stewart v. Wilkie, 30 Vet. App. 383, 390-92 (2018).  However, the record does not contain an opinion that complies with the Court's holding in Stewart.  Thus, remand is required to obtain same.  See Barr, supra.
+
+As the above outlined deficiencies constitute predecisional duty to assist errors, remand is appropriate.  38 C.F.R. § 20.802(a).
+
+2. Non-Allergic Rhinitis
+
+3. Sinus Condition
+
+The Veteran seeks a disability evaluation in excess of 10 percent for his service-connected non-allergic rhinitis and service connection for a sinus condition.  See October 2024 VA Form 10182.
+
+However, prior to reaching a decision on the merits of this appeal, the Board notes that there are likely outstanding relevant VA treatment records.  Specifically, the Veteran's VA treatment records contain scanned documents into the Computerized Patient Record System (CPRS), and the Board does not have access to CPRS.
+
+For example, a May 2014 VA treatment note directs the reader the view the Veteran's audiogram in CPRS.  See May 2014 VA treatment note.  Additionally, both the December 2018 and May 2014 VA examiners noted a review of CPRS within their examination reports.  See December 2018 and May 2014 VA examination reports.
+
+VA's duty to assist requires VA to make reasonable efforts to assist a claimant in securing evidence necessary to substantiate their claim for VA benefits.  38 U.S.C. § 5103A; 38 C.F.R. § 3.159(c).  The Court has held that VA medical records are in constructive possession of the agency and must be obtained if pertinent.  38 C.F.R. § 3.159(c)(2); see Bell v. Derwinski, 2 Vet. App. 611 (1992).  Finally, if VA's efforts to obtain any relevant records are unsuccessful, VA is required to provide the claimant with oral or written notice of this.  38 U.S.C. § 5103A(b); 38 C.F.R. § 3.159(e)(1).  Accordingly, a remand is necessary to obtain these outstanding treatment records and associate the same with the claims file.
+
+Further, the Board notes that the claims file currently contains a very limited set of post-service VA medical treatment records, specifically only for the months of April and May 2014.  These post-service VA treatment records are solely from the Battle Creek VA Medical Center (VAMC) in Michigan.  However, the claims file shows that the Veteran relocated to Indiana and has continued to live there through the present.  The first piece of mail sent to an address in Indiana is dated in November 2017.  See November 2017 VA correspondence.  Thus, it is likely the Veteran has outstanding VA treatment records from his local VAMC in Indiana where he currently resides.
+
+Here, the record does not contain any notice of unavailability regarding any VA treatment records for the period from May 2014 to the present.  As such, the Board has no discretion and must remand these claims to attempt to obtain all outstanding VA treatment records.
+
+A predecisional duty to assist error was made when these pertinent records were not associated with the claims file.  38 C.F.R. § 20.802(a).  Accordingly, a remand is necessary to obtain these records and associate them with the claims file.
+
+The matters are REMANDED for the following action:
+
+1. Obtain copies of records pertaining to any relevant VA treatment the Veteran has received from May 2014 through the present.  If any of the records requested are unavailable, clearly document the claims file to that effect and notify the Veteran of any inability to obtain these records in accordance with 38 C.F.R. § 3.159(e).
+
+2. Associate with the claims file any outstanding relevant records viewable in CPRS.
+
+All obtained records should be associated with the evidentiary record.  If any identified records are not obtainable (or none exist), the Veteran should be notified, and the record clearly documented.
+
+3. Obtain an opinion by an appropriately qualified clinician to determine the nature, etiology, and pathophysiology of the Veteran's headaches.  The evidentiary record, including a copy of this remand, must be made available to and reviewed by the reviewing clinician.  It is up to the discretion of the reviewing clinician as to whether a new examination is necessary to provide an adequate opinion.
+
+Following review of the record and examination of the Veteran, if deemed necessary, the reviewing clinician should answer the following:
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's headaches were incurred in, or are otherwise related to, his time on active service?
+
+AND
+
+Is the etiology OR pathophysiology of these headaches not understood AT ALL as to this particular Veteran?
+
+AND
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that there is a nexus between the Veteran's headaches and his TERA during service?
+
+The reviewing clinician should note the Veteran served in the Southwest Asia theater of operations.
+
+In providing the above opinion regarding the relationship of the Veteran's headaches to his toxic exposure during service, the reviewing clinician is asked to consider (1) the total potential exposure through the Veteran's military deployments; and (2) the synergistic, combined effect of all toxic exposure risk activities as indicated in the August 2023 VA TERA Memorandum.
+
+The reviewing clinician should also note that the Veteran is competent to report his symptoms and history, and such reports must be specifically acknowledged and considered in formulating any opinions.  If the reviewing clinician rejects the Veteran's reports of symptomatology, a reason for doing so should also be provided.  The reviewing clinician should not mistakenly rely on an absence of medical evidence in the record to support his or her conclusions.
+
+(Continued on the next page)
+
+?
+
+A full and complete rationale for all opinions must be provided, and a discussion of the facts and medical principles involved would be of considerable assistance to the Board.
+
+ 
+
+ 
+
+DONNIE R. HACHEY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Poe, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

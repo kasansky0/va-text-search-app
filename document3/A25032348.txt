@@ -1,0 +1,117 @@
+Citation Nr: A25032348
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240703-454403
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for headaches is denied.
+
+Entitlement to service connection for concussion is denied.
+
+REMANDED
+
+Entitlement to service connection for lumbosacral strain is remanded.
+
+FINDINGS OF FACT
+
+1. The Veteran's headache disability is not manifest by characteristic prostrating attacks averaging one in two months over the last several months or once a month over the last several months or with very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability. 
+
+2. The evidence of record persuasively weighs against finding the Veteran has had a concussion disability at any time during or approximate to the pendency of the claim. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for an initial compensable rating for headaches have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.3, 4.7, 4.124a, Diagnostic Code 8100.
+
+2. The criteria for service connection for concussion have not been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from September 2014 to November 2022. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from rating decisions issued in March 2024 by a Department of Veterans Affairs (VA) Regional Office. In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the March 2024 agency of original jurisdiction (AOJ) decisions on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim of entitlement to service connection for lumbosacral strain, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Entitlement to an initial compensable rating for headaches.
+
+The Veteran contends entitlement to an initial compensable rating for headaches. The period on appeal starts on November 28, 2022, the date service connection was awarded. 
+
+Disability ratings are determined by applying a schedule of ratings that is based on the average impairment of earning capacity. Separate diagnostic codes identify the various disabilities. 38 U.S.C. § 1155; 38 C.F.R. Part 4. Each disability must be viewed in relation to its history, and the limitation of activity imposed by the disabling condition should be emphasized. 38 C.F.R. § 4.1. Examination reports are to be interpreted in the light of the whole recorded history, and each disability must be considered from the point of view of the Veteran working or seeking work. 38 C.F.R. § 4.2. The basis of a disability evaluation is the ability of the body as a whole, or of the psyche, or of a system or organ of the body to function under the ordinary conditions of daily life including employment. 38 C.F.R. § 4.10. 
+
+Where there is a question as to which of two disability evaluations shall be applied, the higher evaluation is to be assigned if the disability more nearly approximates the criteria required for that rating. Otherwise, the lower rating is to be assigned. 38 C.F.R. § 4.7. When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 4.3. The benefit-of-the-doubt rule applies when the evidence is in approximate balance or nearly equal. Lynch v. McDonough, 21 F.4th 776 (2021). 
+
+Separate ratings can be assigned for separate periods based on the facts found - a practice known as "staged" ratings. Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007). Staged ratings are appropriate whenever the factual findings show distinct periods where the service-connected disability exhibits symptoms that would warrant different ratings. Id.
+
+For the entire period on appeal, the Veteran's headaches are rated as noncompensable or at zero percent disabling under Diagnostic Code (DC) 8100 for migraines. 38 C.F.R. § 4.124a. A 50 percent rating is warranted for migraines or headaches with very frequent completely prostrating and prolonged attacks productive of severe economic adaptability. A 30 percent rating is warranted for migraines or headaches with characteristic prostrating attacks occurring on average one a month over the last several months. A 10 percent rating is warranted for migraines or headaches with characteristic prostrating attacks averaging one in two months over the last several months. A noncompensable rating is warranted for migraines or headaches with less frequent attacks. Id. at DC 8100. The rating criteria of DC 8100 are considered successive, meaning that a claimant cannot fulfill the criteria of the higher rating without fulfilling those of the next lower rating. Johnson v. Wilkie, 30 Vet. App. 245, 252 (2018).
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under DC 8100 to describe the nature and severity of migraines, but it is not defined in the regulation. Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness." Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+The rating criteria for a 50 percent rating contain several undefined phrases. The descriptive phrase "very frequent" connotes a frequency at least greater than once a month, as is required by the rating criteria corresponding to a lesser 30 percent rating. Johnson, 30 Vet. App. at 253. The phrase "completely prostrating" generally means that the migraines attack must render the Veteran entirely powerless. Id. The completely prostrating attacks must also be "prolonged," which is defined as "to lengthen in time: extend duration: draw out: continue, protract." Id. (internal citation omitted) Lastly, the 50 percent rating criteria requires that the very frequent completely prostrating and prolonged attacks be "productive of severe economic inadaptability." "Productive" can be read as having either the meaning of "producing" or "capable of producing," and, with regard to severe economic inadaptability, nothing in DC 8100 requires that the claimant be completely unable to work in order to qualify for a 50 percent rating. Pierce v. Principi, 18 Vet. App. 440, 445-46 (2004).
+
+Service treatment records are silent for any discussion of the Veteran's headaches pertinent to the period on appeal. The Veteran underwent a VA examination in February 2024. He reported experiencing headaches at a severity of zero to nine on a pain scale to ten with pulsating or throbbing head pain localized to the right side of the head with sensitivity to light and sound which worsened with physical activity and lasted less than one day. He said his headaches onset in 2015 after having his first concussion and they had progressively worsened since then. He denied taking any medication for headaches. 
+
+The VA examiner diagnosed migraine and stated that the Veteran had characteristic prostrating attacks of migraine/non-migraine headache pain which occurred less frequently than once in two months over the last several months. The VA examiner also stated the Veteran did not have completely prostrating and prolonged attacks of migraines/non-migraine pain. The Veteran's headache condition did not impact his ability to work. 
+
+Upon review, the Board finds the Veteran's headache disability is not manifest by characteristic prostrating attacks averaging one in two months over the last several months or once a month over the last several months or with very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability. The evidence does not show that the Veteran's headaches occur at the frequency required for a compensable rating. Consequently, an initial compensable rating for headaches is not warranted. 
+
+In making its determinations in this case, the Board has carefully considered the Veteran's contentions with respect to the nature of his service-connected disability at issue and notes that his lay testimony is competent to describe certain symptoms associated with his headache disability. The Veteran's history and reported symptoms have been considered, including as presented in the medical evidence discussed above, and have been contemplated by the disability rating that has been assigned. Moreover, the competent medical evidence offering detailed specific findings pertinent to the rating criteria is the most probative evidence when evaluating the pertinent symptoms of the service-connected disability at issue. As such, while the Board accepts the Veteran's testimony concerning matters that he is competent to address, the Board relies upon the competent medical evidence with regard to the specialized evaluations of functional impairment, symptom severity, and details of clinical features of the service-connected disability at issue. 
+
+The Board has also considered whether staged ratings under Fenderson, supra, are appropriate for the Veteran's service-connected headaches; however, the Board finds that his symptomatology has been stable throughout the period on appeal. Further, the Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record, with regard to the rating claim adjudicated herein. Doucette v. Shulkin, 28 Vet. App. 366 (2017).
+
+The competent, probative evidence persuasively weighs against an initial compensable rating for the Veteran's headaches. Therefore, the benefit-of-the-doubt doctrine is not applicable, and his initial increased rating claim must be denied. 38 U.S.C. § 5107; 38 C.F.R. §§ 4.3, 4.7; Lynch, 21 F.4th 776.
+
+2. Entitlement to service connection for concussion.
+
+The Veteran contends entitlement to service connection for concussion. In his October 2023 claim for headaches, the Veteran reported that they were caused by multiple concussions, two documented, while on active duty. This reasonably raised a claim for entitlement to service connection for concussion which the AOJ adjudicated in the rating decision on appeal, the denial of which the Veteran included in the July 2024 Notice of Disagreement. 
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303(a). Service connection may also be granted for any disease diagnosed after discharge, when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d). Direct service connection may not be granted without evidence of a current disability; in-service incurrence or aggravation of a disease or injury; and a nexus between the claimed in-service disease or injury and the present disease or injury. Id.; see also Caluza v. Brown, 7 Vet. App. 498, 506 (1995) aff'd, 78 F.3d 604 (Fed. Cir. 1996).
+
+An award of service connection requires a finding of a current disability that is related to an injury or disease in service. Watson v. Brown, 4 Vet. App. 309 (1993); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992); Rabideau v. Derwinski, 2 Vet. App. 141, 143 (1992). Under applicable regulation, the term "disability" means impairment in earning capacity resulting from diseases and injuries and their residual conditions. 38 C.F.R. § 4.1; Hunt v. Derwinski, 1 Vet. App. 292, 296 (1991); Allen, 7 Vet. App. 439; Saunders v. Wilkie, 886 F.3d 1356 (Fed. Cir. 2018) (the term "disability" as used in 38 U.S.C. § 1110 "refers to the functional impairment of earning capacity, not the underlying cause of said disability," and held that "pain alone can serve as a functional impairment and therefore qualify as a disability"). The requirement of the existence of a current disability is satisfied when a claimant has a disability at the time that he files his claim for service connection or during the pendency of that claim, even if the disability resolves prior to adjudication of the claim. McClain v. Nicholson, 21 Vet. App. 319, 321 (2007).
+
+The Veteran is generally competent to report his own lay symptomatology but not to provide a medical diagnosis. 38 C.F.R. § 3.159(a)(2). Barr v. Nicholson, 21 Vet. App. 303 (2007); Layno v. Brown, 6 Vet. App. 465, 471 (1994); Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007). When a condition may be diagnosed by its unique and readily identifiable features, the presence of the disorder is not a determination "medical in nature," and is capable of lay observation. Barr, supra. While the Veteran is competent in certain situations to provide a diagnosis of a simple condition such as a broken leg or varicose veins, he is not competent to provide evidence as to more complex medical questions. Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007).
+
+The Veteran underwent a VA examination in February 2024. He stated that he did not understand why the examination was occurring because he did not claim a concussion. He denied any current symptoms or residuals related to a concussion or a traumatic brain injury. The Veteran said he did not consider himself to have had a concussion during his service. The VA examiner did not offer a diagnosis of a concussion or a traumatic brain injury. The Veteran's service treatment records are also silent for any discussion of symptoms or residuals related to concussion or a traumatic brain injury pertinent to the date of the claim. 
+
+Upon review, the Board finds the evidence of record persuasively weighs against finding the Veteran has had a concussion disability at any time during or approximate to the pendency of the claim. While the Veteran's service-connected headaches may be considered a residual symptom of a concussion or traumatic brain injury, the Veteran is separately rated for this and there is no evidence of any additional disability or symptoms of a disability related to a concussion or a traumatic brain injury for which the Veteran is not already in receipt of service connection for. Consequently, service connection for concussion is not warranted. 
+
+The Board has considered the Veteran's inherent assertion in the application and appeals of the claim that he has a current concussion disability, however, as a lay person, he does not possess the requisite training and experience necessary to address such a complex medical matter or provide such a medical diagnosis. Jandreau, supra. Overall, the competent, persuasive evidence does not show any current symptomatology that the Veteran is not already in receipt of service connection for which could be attributed to a concussion disability.
+
+The evidence of record persuasively weighs against awarding service connection for concussion, the benefit-of-the-doubt doctrine is not applicable, and the claim must be denied. 38 C.F.R. § 5107; 38 C.F.R. § 3.102; Lynch, 21 F.4th 776.
+
+REASONS FOR REMAND
+
+Entitlement to service connection for lumbosacral strain.
+
+The Veteran contends entitlement to service connection for a back disability caused by heavy lifting and sedentary desk work in service. 
+
+As favorably found by the AOJ, the Veteran has a current lumbosacral strain disability, confirmed by a VA examiner. Consequently, the Board finds it appropriate to recharacterize the claim as one for service connection for lumbosacral strain. Clemons v. Shinseki, 23 Vet. App. 1 (2009). 
+
+At the February 2024 VA examination, the Veteran reported that his back problem onset in 2018 while deployed on an aircraft carrier having to do a lot of physical activity and he suddenly had back pain. He said it had progressively worsened since. 
+
+There is competent evidence of a current disability, an in-service event, an indication that the current disability may be associated with the in-service event, but a lack of sufficient evidence to decide the claim. Under these circumstances, VA's duty to assist included obtaining a medical opinion as to whether there is a nexus between the Veteran's lumbosacral strain and his service. McLendon v. Nicholson, 20 Vet. App. 79, 81 (2006). The record is devoid of such medical opinion. The failure to obtain a medical opinion is a pre-decisional duty to assist error and remand is warranted to correct it. 38 C.F.R. § 20.802(a). 
+
+The matter is REMANDED for the following action:
+
+Forward the record, to include a copy of this Remand, to an appropriate medical professional for an opinion as to the nature and etiology of the Veteran's lumbosacral strain. Following a review of the relevant record, the medical professional is asked to address the following:
+
+Is it as approximately likely as not that the Veteran's lumbosacral strain onset during or is otherwise related to his service? 
+
+A rationale for any opinion offered should be provided. 
+
+ 
+
+ 
+
+Nathaniel Doan
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Sasha Larie Boersma
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

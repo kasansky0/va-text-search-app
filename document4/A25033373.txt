@@ -1,0 +1,131 @@
+Citation Nr: A25033373
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240322-426294
+DATE: April 10, 2025
+
+ORDER
+
+Service connection for a bilateral hearing loss disability is denied.
+
+FINDING OF FACT
+
+The evidence of record persuasively weighs against finding that the Veteran's current hearing loss disability began during active service or that it is otherwise etiologically related to an in-service injury or disease, and the Veteran's hearing loss disability did not manifest to a compensable degree within one year of separation from active duty.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for bilateral hearing loss have not been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Marine Corps from June 1982 to November 1982 and the United States Air Force from September 1983 to November 1990.  
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 higher-level review of an October 2023 supplemental claim rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO), which is an agency of original jurisdiction (AOJ).  The October 2023 rating decision denied service connection for a bilateral hearing loss disability.  The March 2024 higher-level review rating decision confirmed and continued the prior denial.
+
+In a March 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran appealed the denial of service connection for a bilateral hearing loss disability and elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the October 2023 AOJ decision, which was subsequently subject to higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).  
+
+In determining whether service connection may be granted, a review of the entire evidence of record is warranted.  38 C.F.R. § 3.303(a).  When adjudicating claims for service connection, "due consideration" will be given to all relevant medical and lay evidence.  38 U.S.C. § 1154(a).  Lay testimony is competent to prove that a claimant exhibited certain features or symptoms of an injury or illness during service," so long as it is within the "knowledge and personal observations of the witness."  Layno v. Brown, 6 Vet. App. 465, 470 (1994).  Additionally, lay evidence cannot be found to lack credibility merely because it is not accompanied by contemporaneous medical evidence.  Buchanan v. Nicholson, 451 F.3d 1331, 1336-37 (Fed. Cir. 2006).
+
+Service connection for certain chronic diseases, including organic diseases of the nervous system, which may include hearing loss, may also be established based upon a legal "presumption" by showing that the disease manifested to a degree of 10 percent or more within one year from the date of separation from service.  38 U.S.C. § 1112; 38 C.F.R. §§ 3.307, 3.309(a).  The option of establishing service connection through a demonstration of continuity of symptomatology rather than through a finding of nexus is specifically limited to the chronic disabilities listed in 38 C.F.R. § 3.309(a).  See Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+Where there is an "approximate balance" of positive and negative evidence to support a claim, the claimant will receive the "benefit of the doubt".  Lynch v. McDonough, 21 F.4th 776, 781 (Fed. Cir. 2021).
+
+Entitlement to service connection for a bilateral hearing loss disability
+
+The Veteran seeks service connection for a bilateral hearing loss disability due to in-service military acoustic trauma.  The Veteran contends that he was exposed to hazardous noise levels in service and that "it was not always possible to wear hearing protection routinely or correctly due to having to communicate with others, safety concerns, and poor fitting of the hearing protection devices."  See December 2019 VA Form 21-4138, Statement in Support of Claim.  The Veteran also asserts that he was never provided hearing protection in service.  See February 2021 VA Form 21-4138; see also July 2020 Higher-Level Review (HLR) Informal Conference Worksheet (wherein the Veteran contends his hearing loss began during his active service in the Marine Corps because he fired weapons without using hearing protection).
+
+As explained in further detail below, the competent and probative evidence of record weighs against finding that the Veteran's bilateral hearing loss disability began during active service, manifested to a compensable degree within one year of separation, or was caused by or related to in-service acoustic trauma.
+
+As an initial matter, the AOJ made favorable findings in the March 2024 decision on appeal that (1) the Veteran has a current bilateral hearing loss disability based on an October 2023 VA audiological examination; (2) a qualifying event, injury, or disease had its onset during the Veteran's active service because his military occupational specialties (MOSs) have a high probability for military noise exposure; and (3) the Veteran meets the minimum requirements for consideration of service connection on a presumptive basis as hearing loss is a chronic disease which may be presumptively linked to active service.  Indeed, the audiometric testing results found in the October 2023 VA audiological examination report show the Veteran exhibited impaired hearing that is considered a disability under 38 C.F.R. § 3.385, and as a result, he was diagnosed with bilateral sensorineural hearing loss in the frequency range of 500 to 4000 cycles per second (Hertz).  Furthermore, the Veteran's personnel records confirm the Veteran had the MOSs of air traffic control operator and combat engineer as well as sufficient active service for consideration of service connection on a presumptive basis.  See Department of Defense (DD) Forms 214; see also 38 C.F.R. § 3.307(a)(1).  As such, the Board is bound by the AOJ's favorable findings.  38 C.F.R. § 3.104.  
+
+In a February 2021 VA Form 21-4138, the Veteran competently reported that he was exposed to loud noises in service from "tanks or track vehicles, armored fighting vehicles, 2.5-ton trucks, 5-ton trucks, helicopters, mortars, grenades, artillery, machine guns, rifles, pistols, and loud headset noises," as well as from "rifles, pistols, grenades, machine guns, artillery, and mortars."  See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007); see also December 2018 VA Form 21-4138.  Given the Veteran's MOSs have a high probability of noise exposure, his reports regarding a history of exposure to loud noise during active duty are credible.  
+
+Thus, as it has been established that the Veteran has a current bilateral hearing loss disability and that he had a high probability of in-service noise exposure, the remaining questions are whether his hearing loss disability manifested to a compensable degree within one year of discharge from active duty or whether his hearing loss disability is otherwise etiologically related to in-service noise exposure.
+
+A review of the Veteran's service treatment records shows that the Veteran had normal hearing bilaterally prior to entering active duty in the Marine Corps.  While the Veteran did appear to have a slight decrease in hearing acuity in his right ear following his initial period of active duty, service treatment records do not demonstrate that the Veteran had a hearing loss disability at any point during his active service in the Marine Corps as none of the audiometric testing revealed an auditory threshold of 26 decibels or greater in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz.  See 38 C.F.R. § 3.385.  
+
+Specifically, October 1981 audiometric testing yielded the following results:
+
+	HERTZ
+
+	500	1000	2000	3000	4000	6000
+
+RIGHT	0	0	0	0	0	20
+
+LEFT	5	0	0	0	0	10
+
+The Veteran's December 1982 audiometric results were as follows:  
+
+	HERTZ
+
+	500	1000	2000	3000	4000	6000
+
+RIGHT	10	0	0	5	0	30
+
+LEFT	0	0	0	0	0	10
+
+Similarly, during the Veteran's active duty in the Air Force, he was shown to have normal hearing bilaterally.  See September 1983 audiogram; see also June 1986, December 1987, and October 1988 audiometric testing results.  Audiometric testing conducted prior to the Veteran's separation from active duty in July 1990 also revealed normal hearing bilaterally.  
+
+	HERTZ
+
+	500	1000	2000	3000	4000	6000
+
+RIGHT	0	0	0	5	0	10
+
+LEFT	0	5	0	0	0	5
+
+Following his active-duty service, the Veteran served in Air Force Reserve, during which time he continued to undergo periodic audiometric testing.  February 1992 audiometric testing yielding the following results:
+
+	HERTZ
+
+	500	1000	2000	3000	4000	6000
+
+RIGHT	0	5	5	10	5	10
+
+LEFT	0	0	0	0	0	10
+
+Therefore, on the basis of the service treatment records alone, service connection for a bilateral hearing loss disability pursuant to 38 U.S.C. §§ 1110, 1131 and 38 C.F.R. § 3.303(a), based on inception in service, is not warranted.  Moreover, based on the Veteran's service treatment records, the evidence of record persuasively weighs against finding that the Veteran's current bilateral hearing loss disability manifested to a compensable degree within one year of his separation from active duty as the objective testing showed the Veteran did not exhibit a hearing loss disability pursuant to 38 U.S.C § 3.385 at any point from October 1981 to February 1992.  See 38 C.F.R. §§ 3.307, 3.309.  
+
+Notwithstanding the foregoing, service connection may still be granted on a direct basis if the evidence shows that the claimed disability, which was first diagnosed more than a year after active service, was etiologically related to a disease or injury in service.  A January 2019 VA opinion addresses this question, wherein the VA audiologist opined that, based on a review of the Veteran's records, his bilateral hearing loss was less likely than not related to military service, to include military noise exposure.  As a rationale, the January 2019 VA audiologist explained that the Veteran did not experience a threshold shift in his hearing from 1986 to 1998 because June 1986 and December 1998 audiograms show the Veteran's hearing was within normal limits.  The January 2019 VA audiologist also explained that the evidence was void of any supporting lay statements regarding hearing loss and that the Veteran was presumed sound at entrance despite the fact that his 1982 lack of entrance examination was not of record.  Curiously, the January 2019 VA audiologist indicated that the earliest audiological evaluation of record was a June 1986 evaluation, even though the evidence of record contains audiological evaluations prior to 1986, as shown above.  
+
+The Veteran underwent private audiometric testing in August 2022, which yielded the following results:
+
+	HERTZ
+
+	500	1000	2000	3000	4000	6000	8000
+
+RIGHT	20	40	40	45	60	70	65
+
+LEFT	15	35	45	50	60	65	70
+
+In September 2022, the Veteran obtained a private medical opinion by Dr. RD, which the Veteran submitted in July 2023, to address the question of whether his current hearing loss disability is etiologically related to his active service.  Specifically, Dr. RD opined that the Veteran's current bilateral hearing loss disability is at least as likely as not proximately due to in-service repetitive acoustic trauma.  In support of his medical opinion, Dr. RD conducted a thorough review of the Veteran's August 2022 hearing test results, which were included with his medical opinion report, as well as a telephone interview and evaluation of the Veteran.  Dr. RD noted that his medical opinion is also based on the Veteran's lay statements in addition to his "most recent hearing test."  As a rationale for his opinion, Dr. RD explained that the Veteran's work as an air traffic controller in the Air Force, resulted in "acoustic trauma from loud jet engines," as well as additional trauma and damage from the communication devices he was required to wear as an air traffic controller.  Dr. RD also noted that following the Veteran's active duty, the Veteran served in the Air National Guard (for the District of Colombia), where he worked on the flightline as an aircraft loader.  Dr. RD further noted that the Veteran lacked adequate ear protection in service "to ameliorate the damage caused by the constant acoustic trauma" to which he was exposed.  In addition, Dr. RD explained that the Veteran began experiencing tinnitus symptoms (a constant hissing noise) shortly after retirement, and the Veteran had difficulty hearing the television beginning in 2010, which progressed to the Veteran's inability to hear "softer-toned voices."  According to Dr. RD, the Veteran's hearing loss continued to worsen over time, culminating in a bilateral dull earache, tinnitus, and his current hearing loss disability, in 2022.  Dr. RD explained that the August 2022 private audiological records demonstrate the Veteran had "significant" hearing loss at that time, for which he was prescribed hearing aids.  Dr. RD also explained that the Veteran was not "exposed to any significant acoustic trauma in his life other than that to which he was exposed during his military service."  Based on the Veteran's lack of post-service noise exposure, Dr. RD opined that the most-likely cause of the Veteran's current bilateral hearing loss disability "is the acoustic trauma that he suffered during his military service that also caused his service-connected tinnitus."
+
+As noted above, the Veteran underwent an additional VA audiological examination in connection with his claim in October 2023, following which he was diagnosed with bilateral sensorineural hearing loss.  During the October 2023 VA audiological examination, the Veteran reported that his hearing impairment had a gradual onset in April 2022, without any specific event precipitating his hearing issues.  The Veteran denied having occupational noise exposure prior to and following active duty; he also denied any recreational or social noise exposure before, during, or after service.  The VA audiologist noted that the Veteran's hearing was within normal limits at all tested frequencies at entrance to the Air Force (December 1982), with the exception of a mild 30 decibel threshold at 6000 Hertz.  While the VA audiologist did not review the Veteran's July 1990 separation audiogram, he reviewed a December 1998 audiogram from the Veteran's service in the Washington D.C. Air National Guard, which demonstrated the Veteran's hearing was within normal limits at all tested frequencies at that time.  Based on the Veteran's service records, the VA audiologist determined that the Veteran did not experience a permanent positive threshold shift greater than normal measurement variability at any frequency (between 500 and 6000 Hertz) for either ear.
+
+The October 2023 VA audiologist also opined that the Veteran's current bilateral hearing loss disability was less likely than not caused by or a result of his active-duty service.  As a rationale, the VA audiologist explained that the Veteran's service treatment records and post-separation audiological examinations are "silent for hearing loss."  The VA audiologist further explained that the Veteran reported his hearing loss began more than 32 years following active duty and approximately 17 years after separation from his guard/reserve service.  According to the October 2023 VA audiologist, the objective evidence, namely the December 1998 audiogram, does not support or establish that the Veteran's current hearing loss disability is related to in-service noise exposure as opposed to another etiology because there is no evidence of permanent auditory damage due to disabling hearing impairment during the Veteran's active duty.  The VA audiologist also explained that current medical literature does not "definitively support" late-onset noise-induce hearing loss or that noise causes "hearing loss to significantly progress long after" exposure to the source has stopped.
+
+Based on the foregoing, the competent and probative evidence of record weighs against finding that the Veteran's current hearing loss disability is etiologically related to his active duty.  When assessing the probative value of a medical opinion, the access to claims files and the thoroughness and detail of the opinion must be considered.  An opinion is considered probative if it is definitive and supported by detailed rationale.  See Prejean v. West, 13 Vet. App. 444, 448-49 (2000).  To this end, the January 2019 and October 2023 VA audiological opinions reflect such a conclusion.  While the September 2022 private medical opinion contains a detailed rationale, Dr. RD's conclusion are not based on a complete review of the evidence of record; instead, Dr. RD solely relies on his interview with the Veteran and the Veteran's August 2022 private audiological records to reach his conclusion that a positive nexus exists between the Veteran's current hearing loss disability and his in-service noise exposure.  In contrast, the October 2023 VA medical opinion is based on the Veteran's audiometric testing during and following active duty; the Veteran's lay statements regarding the onset of his hearing impairment; and relevant medical literature.  Furthermore, the October 2023 VA audiologist provided adequate rationale for the negative nexus opinion.  See Monzingo v. Shinseki, 26 Vet. App. 97, 105 (2012) (the fact that the rationale provided by an examiner "did not explicitly lay out the examiner's journey from the facts to a conclusion," did not render the examination inadequate); Acevedo, 25 Vet. App. at 293 (noting that VA examiners do not have a reasons or bases requirement).  As such, the October 2023 VA medical opinion, especially when read in the context of the prior nexus evidence of record, is the most probative medical opinion of record surrounding the likely etiology of the Veteran's current hearing loss disability, and it is entitled to significant probative weight.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008) (the probative value of a medical opinion comes from when it is the factually accurate, fully articulated, and sound reasoning for the conclusion); see also Bloom v. West, 12 Vet. App. 185, 187 (1999) (the probative value of a physician's statement is dependent, in part, upon the extent to which it reflects "clinical data or other rationale to support his opinion").  
+
+Therefore, the evidence of record persuasively weighs against finding that the Veteran's current hearing loss disability began during active service or that it is otherwise etiologically related to an in-service injury or disease, and the Veteran's hearing loss disability did not manifest to a compensable degree within one year of separation from active duty.  Accordingly, service connection for a bilateral hearing loss disability is not warranted, and the benefit of the doubt doctrine is inapplicable.  Lynch, 21 F.4th at 781; 38 U.S.C § 5107.
+
+ 
+
+ 
+
+L. B. CRYAN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jenkins Moody, Morgan B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

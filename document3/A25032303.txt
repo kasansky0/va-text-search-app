@@ -1,0 +1,95 @@
+Citation Nr: A25032303
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240625-450733
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to an increased rating in excess of 60 percent for asthma with obstructive sleep apnea (OSA) is denied.
+
+FINDING OF FACT
+
+Throughout the period on appeal, the evidence shows that the Veteran's asthma with OSA did not manifest with a Forced Expiratory Volume in the first second (FEV-1) less than 40 percent predicted; a FEV-1/Forced Vital Capacity (FVC) less than 40 percent; more than one attack per week with episodes of respiratory failure; daily use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medications; chronic respiratory failure with carbon dioxide retention; cor pulmonale; or requirement for a tracheostomy.
+
+CONCLUSION OF LAW
+
+The criteria for a disability rating in excess of 60 percent for asthma with OSA have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.2, 4.3, 4.7, 4.96, 4.97, Diagnostic Codes 6847-6602.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the United States Army from April 2002 to April 2006.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a February 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the April 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the April 2023 rating decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Increased Ratings
+
+Disability ratings are determined by applying the criteria set forth in VA's Schedule for Rating Disabilities. The percentage ratings are based on the average impairment of earning capacity and individual disabilities are assigned separate diagnostic codes. 38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+The Veteran's entire history is to be considered when making disability evaluations. See generally 38 C.F.R. § 4.1; Schafrath v. Derwinski, 1 Vet. App. 589 (1995). 
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. Any reasonable doubt regarding a degree of disability will be resolved in favor of the Veteran. 38 C.F.R. § 4.3.
+
+When considering whether lay evidence is to be given weight, the Board must determine, on a case-by-case basis, whether a Veteran's particular disability is the type of disability for which lay evidence may be appropriate. Kahana v. Shinseki, 24 Vet. App. 428 (2011); see also Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).
+
+When all the evidence is assembled, VA is responsible for determining whether the evidence supports the claim or is in approximate balance, with the Veteran prevailing in either event, or whether the weight of the evidence is against a claim, in which case, the claim is denied. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+Entitlement to a disability rating in excess of 60 percent for asthma with obstructive sleep apnea (OSA) is denied.
+
+The Veteran asserts that his asthma with OSA is more severe than contemplated by the current 60 percent disability rating.
+
+The appeal period before the Boards stems from the Veteran's original claim for service connection for asthma. Accordingly, the appeal period begins on February 16, 2023, the date VA received the Veteran's initial claim for service connection for asthma. See February 2023 VA Form 21-526EZ. 
+
+The Veteran's asthma with OSA is rated under 38 C.F.R. § 4.97, Diagnostic Codes 6847-6602.
+
+Hyphenated diagnostic codes are used when a rating under one code requires use of an additional diagnostic code to identify the basis for the evaluation assigned. 38 C.F.R. § 4.27. 
+
+When multiple co-existing respiratory conditions are present (including those rated under Diagnostic Codes 6600 through 6817 and 6822 through 6847), a single rating will be assigned under the diagnostic code that reflects the predominant disability, with elevation to the next higher evaluation where the severity of the overall disability warrants such a rating. 38 C.F.R. § 4.96(a). This regulation has been interpreted to mean that VA is to evaluate coexisting service-connected respiratory conditions covered under the criteria enumerated in the diagnostic code for the predominant disability. See Urban v. Shulkin, 29 Vet. App. 82, 95 (2017).
+
+Under Diagnostic Code 6602, a 30 percent disability rating is warranted when Forced Expiratory Volume in one second (FEV-1) is between 56 to 70 percent predicted; when there is daily inhalational or oral bronchodilator therapy; or inhalational of anti-inflammatory medication.
+
+A 60 percent disability rating is warranted when FEV-1 is between 40 to 55 percent predicted; FEV-1/FVC is between 40 to 55 percent; at least monthly visits to a physician for required care of exacerbations; or intermittent (at least three per year) courses of systemic (oral or parenteral) corticosteroids. 
+
+A 100 percent disability rating is warranted when FEV-1 is less than 40-percent predicted; FEV-1/FVC is less than 40 percent; more than one attack per week with episodes of respiratory failure; or daily use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medications. 
+
+Under Diagnostic Code 6847, a 50 percent disability rating is warranted for sleep apnea that requires the use of a breathing assistance device such as a continuous airway pressure (CPAP) machine. 
+
+A 100 percent rating is warranted for sleep apnea that manifests in chronic respiratory failure with carbon dioxide retention or cor pulmonale; or when a tracheostomy is required. 38 C.F.R. § 4.97.
+
+As noted, a single rating will be assigned under the diagnostic code that reflects the predominant disability. Here, the Board finds that the Veteran's asthma is the predominant disability based on the overall evidence of record. Although a lower rated disability can theoretically be the predominant disability, the Board does not find that this is the case here. See Urban, 29 Vet. App. at 90.
+
+In April 2023, the Veteran underwent a VA examination for asthma. The examiner noted that the Veteran does not require the use of oral or parenteral corticosteroid medications but does require a daily use of inhalational anti-inflammatory medication. Notably, the examiner indicated that there had been no asthma attacks with episodes of respiratory failure in the past 12 months, no physician visits for required care of exacerbations, and no evidence of cor pulmonale (right heart failure). A pulmonary function test showed FEV1/FVC of 66 and FEV-1 of 51 pre-bronchodilator. The examiner indicated that these results were normal. See April 2023 VA examination for asthma.
+
+A review of the Veteran's VA outpatient treatment records does not show significant treatment for asthma or respiratory conditions.
+
+Accordingly, the Board finds that the persuasive evidence of record does not show that the Veteran's asthma is manifested by FEV-1 of less than 40 percent predicted, FEV-1/FVC less than 40 percent, or more than one attack per week with episodes of respiratory failure or requiring daily use of systemic (oral or parenteral) high dose corticosteroids or immunosuppressive medications. Therefore, the Board finds that the criteria for a higher 100 percent disability rating for asthma has not been met. See 38 C.F.R. § 4.96, 4.97.
+
+The Board has also considered whether a higher rating is warranted under Diagnostic Code 6847 for the Veteran's OSA. To that end, the Veteran underwent a VA examination for sleep apnea in November 2020, during which the examiner confirmed the Veteran's diagnosis of OSA. The examiner noted persistent daytime hypersomnolence and the use of a breathing assistance device such as a CPAP machine. However, the examiner did not indicate that the Veteran suffered from chronic respiratory failure; carbon dioxide retention; cor pulmonale; or the need for a tracheostomy. See November 2020 VA examination for sleep apnea.
+
+Accordingly, the Board finds the Veteran's sleep apnea symptoms more nearly approximate a 50 percent rating, based on the Veteran's use of a breathing assistance device. The Board finds no lay or medical evidence indicating that the Veteran experiences chronic respiratory failure with carbon dioxide retention, cor pulmonale, or requires a tracheostomy. For these reasons, the criteria for a disability rating higher than 50 percent for sleep apnea have not been met. See 38 C.F.R. § 4.7.
+
+The Board acknowledges that the evidence of record supports a finding that asthma and sleep apnea present distinct manifestations, and the rating schedule provides different criteria for evaluating each. Nevertheless, the Board is bound by 38 C.F.R. § 4.96(a), which specifically prohibits the assignment of separate evaluations for asthma and sleep apnea when they are coexisting respiratory conditions.
+
+Given the binding nature of the applicable regulatory provisions cited above, the Board must conclude that separate disability ratings for the Veteran's asthma and sleep apnea may not be assigned. 38 U.S.C. § 7104(c); 38 C.F.R. § 20.105 (the Board is bound by the laws and regulations that apply to veterans' claims).
+
+The evidence persuasively weighs against a rating in excess of 60 percent. As such, the evidence is not in approximate balance, and the benefit-of-the-doubt doctrine does not apply. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021); see 38 C.F.R. § 3.303, 3.310.
+
+ 
+
+ 
+
+KRISTI L. GUNN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Hatcher, Valerie
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

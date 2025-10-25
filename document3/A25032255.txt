@@ -1,0 +1,63 @@
+Citation Nr: A25032255
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240304-421449
+DATE: April 8, 2025
+
+ORDER
+
+Entitlement to the payment of nonservice-connected (NSC) pension benefits is denied.
+
+FINDING OF FACT
+
+The Veteran's countable income exceeds the applicable maximum annual pension rate (MAPR) for entitlement to the payment of NSC pension benefits.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to the payment of NSC pension benefits have not been met.  38 U.S.C. §§ 1503, 1521 38 C.F.R. §§ 3.3, 3.23, 3.271, 3.272, 3.273.  
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active-duty service from November 1986 June 1991.  This current appeal before the Board of Veterans' Appeals (Board) arose from an October 2023 decision by a Department of Veterans Affairs (VA) agency of original jurisdiction (AOJ) which denied the Veteran entitlement to the payment of NSC pension benefits based on his countable income exceeding the applicable MAPR.  
+
+In his March 2024 Board Appeal (Notice of Disagreement [NOD]), the Veteran elected the option to have his appeal directly reviewed by a Veterans Law Judge.  In light of the Veteran's selection, the Board may only consider evidence dated through the date of the October 2023 AOJ decision.  Notably, the Veteran did not submit additional evidence after the October 2023 decision on appeal. 
+
+NSC pension benefits
+
+The Veteran seeks entitlement to the payment of NSC pension benefits.  He contended in his March 2024 NOD that his award of Social Security Administration (SSA) benefits should not be included with his countable income such as to affect his entitlement to the payment of NSC pension benefits.
+
+VA's pension program is set up to assist certain veterans and their survivors who are in need.  The program is income-based and only intended to give beneficiaries a minimum level of financial security.  It is not intended to protect substantial gains in income or assets.  By law, VA must reduce pension benefits by the gross amount of countable household income received.  38 C.F.R. § 3.271 and 3.273.
+
+Basic entitlement to the payment of pension benefits exists if, among other things, a claimant's income is not in excess of the MAPR specified in 38 C.F.R. § 3.23.  38 U.S.C. § 1521; 38 C.F.R. § 3.3(a)(3).  The MAPR is revised every December 1st and is applicable for the following 12-month period.  The MAPR shall be reduced by the amount of the countable annual income of the claimant.  38 U.S.C. §§ 1503, 1521; 38 C.F.R. §§ 3.3, 3.23(b).  
+
+VA laws and regulations specifically provide that in determining annual income, all payments of any kind or from any source (including salary, retirement or annuity payments, SSA benefits, or similar income, which has been waived) shall be included during the 12-month annualization period in which received, except for listed exclusions which are not applicable here.  38 U.S.C. § 1503(a); 38 C.F.R. § 3.271(a).
+
+For purposes of calculating pension benefits, total income may be reduced by amounts equal to amounts paid by a claimant for unreimbursed medical expenses that were "in excess of 5 percent of the applicable maximum annual pension rate or rates... as in effect during the 12-month annualization period in which the medical expenses were paid."  38 C.F.R. § 3.272(g)(1)(iii).  In order to be excluded from income, these medical expenses must be paid during the time period at issue, regardless of when they were incurred.  In addition, they must be out-of-pocket expenses, for which the claimant received no reimbursement, such as from an insurance company.  Medical insurance premiums themselves, including Medicare Part B premiums deducted from Social Security benefits, however, may be applied to reduce countable income.
+
+The provisions of 38 C.F.R. § 3.278(c)(1)-(7) identify in detail what medical expenses may be deductible from countable income for pension purposes.  Generally, medical expenses for VA pension purposes are defined as payments for items or services that are medically necessary; that improve a disabled individual's functioning; or that prevent, slow, or ease an individual's functional decline.  VA provided the following list of seven categories of medical expenses of which unreimbursed payments will be deducted from countable income: (1) care by a health care provider; (2) medications, medical supplies, medical equipment, and medical food, vitamins, and supplements; (3) adaptive equipment; (4) transportation expenses; (5) health insurance premiums; (6) smoking cessation products; and (7) institutional forms of care and in-home care.  VA also specified what does not constitute a medical expense payment, these include payments for maintenance of general health, cosmetic procedures, meals and lodgings and assistance for instrumental activities of daily living.
+
+Once countable income has been determined, the monthly rate of pension is computed by reducing the applicable MAPR by the beneficiary's countable income on the effective date of entitlement and dividing the remainder by twelve.  38 C.F.R. § 3.273(a), (b).  In essence, VA subtracts the total amount of countable income in one year from the MAPR for that year; if a positive amount remains, the rest is divided by 12 to determine the monthly pension benefit.  When a change in the MAPR occurs, VA repeats the calculation with the new MAPR as the starting amount on the effective date of the change, typically December 1st.  38 C.F.R. § 3.273(b)(1).  Whenever there is a change in a beneficiary's countable income, VA will repeat the calculation using the beneficiary's new countable income effective the date of the change in the amount of income.  38 C.F.R. § 3.273(b)(2).
+
+In the instant appeal, in his June 2023 Application for Pension, on VA Form 21P-527EZ, the Veteran reported receiving SSA benefits of $1,823 per month, which presumably included the deduction of a Medicare Part B premium, and he reported having an employment retirement benefit of $691 per month.  He also confirmed that he was married but did not have dependent children.  He did not report having any unreimbursed medical expenses.  
+
+The AOJ obtained verification of the Veteran's SSA benefits, with a September 2023 inquiry report confirming that effective February 2023, the Veteran was in receipt of monthly SSA benefits amounting to $1,987.90, with a monthly Medicare Part B premium of $164.90.  No SSA benefits or income were reported for the Veteran's spouse.  Based on this evidence, the Veteran's total countable monthly income, including his SSA benefits and retirement income amounts to $2,678.90, which results in an annualized countable income of $32,146.80.  
+
+The applicable MAPR for a veteran with a dependent spouse for 2023 is $21,001; and thus, medical expenses in excess of $1,050 (5 percent of the MAPR) will be used reduce the Veteran's countable income for the first annualization period.  See 38 C.F.R. § 3.272(g)(1)(iii).  The Veteran's Medicare Part B premiums for the pertinent annualization period amounts to $1,978.80.  Thus, the amount that can be used to reduce his countable income is $928.80 ($1,978.90 minus $1,050).  Accordingly, the Board calculates the Veteran's annualized countable income as $31,218.  This amount clearly exceeds the applicable MAPR of $21,001.  
+
+Based on this evidence, the Board cannot make a finding that the Veteran is entitled to the payment of NSC pension.  As noted above, the nature of VA's pension benefits system is such that the entitlement to and the amount of payment is dependent on the recipient's applicable MAPR less countable income.  Thus, while the Veteran is found to not be entitled to the payment of NSC pension benefits based on his June 2023 application, he may possibly establish entitlement to pension benefits payments at a later date by showing a decrease in income and/or an increase in unreimbursed medical expenses, as detailed above.  
+
+The Board is grateful to the Veteran for his honorable service on behalf of his country and is sympathetic to his contentions regarding entitlement to payment, including his belief that SSA benefits should not be included with his countable income for pension benefits purposes.  Nonetheless, the Board is bound by the relevant laws and regulations governing the payment of pension benefits, which, as described above, provides for the inclusion of SSA benefits payment in a claimant's countable income.  The Board has no authority to grant the payment of any benefit on merely an equitable basis.  See 38 U.S.C. §§ 503, 7104; Harvey v. Brown, 6 Vet. App. 416, 425 (1994); see also Smith (Edward F.) v. Derwinski, 2 Vet. App. 429, 433 (1992) ("no equities, no matter how compelling, can create a right to payment out of the United States Treasury which has not been provided for by Congress").  Based on the foregoing, the Board finds that the evidence does not establish that the Veteran is entitled to the payment of NSC pension benefits.  Therefore, the Veteran's appeal as to this matter must be denied.
+
+ 
+
+ 
+
+Christopher Seppanen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Michael Wilson, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

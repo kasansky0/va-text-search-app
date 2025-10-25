@@ -1,0 +1,85 @@
+Citation Nr: A25033356
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240917-476585
+DATE: April 10, 2025
+
+ORDER
+
+Entitlement to an effective date earlier than May 10, 2022 for the award of service connection for posttraumatic stress disorder (PTSD) is denied.
+
+REMANDED
+
+Entitlement to service connection for major depressive disorder is remanded.
+
+Entitlement to service connection for anxiety disorder, unspecified, is remanded.
+
+FINDING OF FACT
+
+May 10, 2022, the date the Department of Veterans Affairs (VA) received the Veteran's original claim for service connection for an acquired psychiatric disorder, is the date entitlement to service connection for PTSD arose; nothing in the electronic record could be construed as an earlier claim seeking service connection for an acquired psychiatric disorder.
+
+CONCLUSION OF LAW
+
+The criteria for an effective date earlier than May 10, 2022 for service connection for PTSD are not met.  38 U.S.C. §§ 5107, 5110; 38 C.F.R. §§ 3.102, 3.156, 3.157 3.159, 3.400.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 2008 to January 2017.  He appeals a December 2023 rating decision by the VA Agency of Original Jurisdiction (AOJ) denying entitlement to an effective date earlier than May 10, 2022 for the award of service connection for PTSD and denying entitlement to service connection for an anxiety disorder and depressive disorder.  See September 2024 VA Form 10182.
+
+In August 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a September 2022 rating decision.  In December 2023, the AOJ issued the HLR decision on appeal, which considered the evidence of record at the time of the prior September 2022 rating decision.
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board of Veterans' Appeals (Board) may only consider the evidence of record at the time of the AOJ decision on appeal.  38 U.S.C. § 7113(a).  If evidence was submitted after the AOJ issued the decision, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+However, because the Board is remanding the claims of entitlement to service connection for depressive disorder and anxiety disorder, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii).
+
+Effective Date for Service Connection
+
+Generally, the effective date of an award for service connection will be on the date of receipt of the claim or the date entitlement arose, whichever date is later.  38 U.S.C. § 5110(a); 38 C.F.R. § 3.400.  The date of receipt for any claim is the date the claim was received by VA.  38 C.F.R. § 3.1(r).  Additionally, a claim must be filed for any type of benefit to accrue or be paid.  38 U.S.C. § 5101(a); Jones v. West, 136 F.3d 1296, 1299 (1998).
+
+Prior to filing a claim, however, a Veteran may indicate the "desire to file a claim for benefits by submitting an intent to file a claim to VA."  See 38 C.F.R. § 3.155.  After submission of an intent to file (ITF), if VA receives a complete claim for benefits within one year of receipt of the ITF, VA will consider the complete claim filed as of the date the ITF was received by VA.  Id.
+
+Here, the Veteran filed an ITF on May 4, 2021.  More than one year later, he filed a claim for service connection for PTSD, which was received by VA on May 10, 2022.  See May 2022 VA Form 21-526EZ.  The May 2022 claim cannot correspond to the May 2021 ITF as it was filed more than one year later.  The Board finds nothing in the record prior to the Veteran's May 2022 claim that can be construed as a formal or informal claim for service connection for an acquired psychiatric disorder.  The Veteran may have had PTSD prior to the filing of the May 2022 claim; however, as noted above, the date of award of service connection will be the date the claim was received by VA or the date entitlement arose, whichever is later.  Here, the later date is the date the claim was received by VA, May 10, 2022.
+
+At a December 2023 higher-level review informal conference, the Veteran's representative argued that VA received an intent to file notification by the Veteran on May 4, 2021 and "indicated that due to COVD-19, he was not able to file his claim timely."  The Board notes that an extension of a time limit may be granted for good cause, such as the COVID-19 pandemic, when an extension is requested after expiration of a time limit, and when the action is taken concurrent with or prior to the filing of a request for extension of the time limit and if good cause was shown why the required action could not have been taken during the original time period.  See 38?C.F.R. §?3.109(b); April 2020 VBA Policy Letter 20-02.  Here, the Veteran did not request or even mention the need for an extension until the December 2023 informal conference.  As such, the Board finds the Veteran did not timely request a good-cause extension for filing the May 2022 claim more than one year after filing the May 2021 ITF.
+
+In summation, the AOJ assigned the earliest possible effective date provided by law and an effective date earlier than May 10, 2022 for the award of service connection for PTSD is denied.
+
+REASONS FOR REMAND
+
+Remand is permitted only to correct a pre-decisional error or for any other error the correction of which raises a reasonable possibility of aiding in substantiating the claim.  38 C.F.R. § 20.802.
+
+The Veteran's May 2022 claim requested service connection for anxiety, PTSD, and depression.  The Veteran was service connected for PTSD, but the AOJ denied service connection for an anxiety disorder and a depressive disorder.  See December 2023 rating decision.
+
+As an aside, the Board notes that all acquired psychiatric disorders are rated under the same criteria in the General Rating Formula for Mental Disorders found under 38 C.F.R. § 4.130 and the August 2022 VA examiner noted that all of the Veteran's claimed psychiatric symptoms were accounted for by his PTSD.  Thus, the Veteran's rating for PTSD encompasses all symptoms, including depression and anxiety, in addition to any potential symptoms from separate diagnoses of depressive and/or anxiety disorders.  Despite this, the Board will consider entitlement to service connection for an anxiety disorder and a depressive disorder.
+
+The Veteran has a diagnosis of anxiety disorder, unspecified.  See October 2023 VA treatment records.  He also has a diagnosis of major depressive disorder (MDD).  See April 2021 VA treatment records.
+
+Although the Veteran received an August 2022 examination, the examiner opined that the Veteran only had a diagnosis of PTSD.  The examiner did not consider the Veteran's acquired psychiatric disorder diagnoses within VA treatment records.  As such, the medical opinion is inadequate and a remand is required to afford the Veteran with an adequate medical opinion regarding his current diagnoses and corresponding etiology.
+
+The matters are REMANDED for the following action:
+
+Obtain an opinion from an appropriately qualified clinician to determine the nature and etiology of the Veteran's MDD and anxiety disorder, unspecified.  The evidentiary record, including a copy of this remand, must be made available to and reviewed by the clinician.  It is up to the discretion of the reviewing clinician as to whether a new examination is necessary to provide an adequate opinion.
+
+After a thorough review of the record to include all in-service and post-service treatment records, the examiner should answer the following for each MDD and anxiety disorder:
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) the acquired psychiatric disorder was incurred in or is otherwise related to his time on active duty?
+
+The reviewing clinician should consider the Veteran's mental health treatment records from Long Beach VAMC, including October 2023 records reflecting a diagnosis of anxiety disorder, unspecified and April 2021 records reflecting a diagnosis of MDD.
+
+In rendering this opinion, the reviewing clinician is advised that the Veteran is competent to report his symptoms and history.  Such reports must be acknowledged and considered in formulating any opinion.  If the reviewing clinician rejects the Veteran's reports, he or she must provide an explanation for such rejection.  The complete rationale for all opinions and a discussion of the facts and medical principles involved should be provided.
+
+ 
+
+ 
+
+DONNIE R. HACHEY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Bona, J.F.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

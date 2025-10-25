@@ -1,0 +1,73 @@
+Citation Nr: A25032204
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 240925-478223
+DATE:  April 8, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea is granted.
+
+FINDING OF FACT
+
+The Veteran's obstructive sleep apnea was caused or aggravated by his service-connected depressive disorder.
+
+CONCLUSION OF LAW
+
+With reasonable doubt resolved in the Veteran's favor, the criteria for service connection for sleep apnea, secondary to service-connected depressive disorder, are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from August 1998 to August 2002 and from January 2003 to June 2003.
+
+This case is before the Board of Veterans' Appeals (Board) on appeal from a September 2024 Department of Veterans Affairs (VA) Regional Office (RO) rating decision.  In that decision, the RO reconsidered the claim but confirmed and continued the previous denial of service connection for obstructive sleep apnea. 
+
+In September 2024, VA received the Veteran's 10182 Notice of Disagreement (NOD).  The Veteran elected the Direct Review docket. 
+
+The Direct Review docket does not allow submission of any additional evidence in support of an appeal.  Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Thus, the record closed as of the September 2024 rating decision.
+
+Evidence added during an ineligible period will not be considered.  Should the Veteran want VA to consider evidence submitted outside the eligible period, the Veteran should submit a VA Form 20-0995, Supplemental Claim, identifying such evidence.
+
+Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service.  See 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).  "To establish a right to compensation for a present disability, a Veteran must show: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service"- the so-called "nexus" requirement."  Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2010) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service connection for certain chronic diseases may also be established based upon a legal "presumption" by showing that the disease manifested itself to a degree of 10 percent or more within one year from the date of separation from service.  38 U.S.C. §§ 1112, 1137; 38 C.F.R. §§ 3.307, 3.309.  In addition, service connection may be granted for any disease diagnosed after service when all the evidence establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Secondary service connection may be granted for a disability that is proximately due to, or aggravated by, a service-connected condition.  38 C.F.R. § 3.310.
+
+Although obesity is not a disability for VA compensation purposes, obesity may act as an "intermediate step" between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R. § 3.310(a).  VAOPGCPREC 1-2017.  See also Marcelino v. Shulkin, 29 Vet. App. 155 (2018) (affirming the Board's decision that service connection is not warranted for obesity as it is not in and of itself a disability for VA purposes, but not addressing VAOPGCPREC 1-2017).
+
+1. Entitlement to service connection for obstructive sleep apnea
+
+The Veteran contends that his obstructive sleep apnea is related to his active service, to include as secondary to his service-connected depressive disorder.  He asserts that there is ample evidence of multiple risk factors associated with sleep apnea, including the presence of mental health difficulties.  See May 10, 2024, VA 21-526EZ Fully Developed Claim. 
+
+Favorable findings made by the AOJ are binding on the Board unless rebutted by evidence of clear and unmistakable error (CUE).  38 C.F.R. § 3.104(c).  In the June 2024, August 2024, and September 2024 rating decisions, the RO provided favorable findings that the Veteran has been diagnosed with sleep apnea, per an October 2018 sleep study and a May 2024 VA examination.  The claimed primary disability (depressive disorder) is service connected.  The Veteran's participation in a toxic exposure risk activity (TERA) was conceded; deployment records showed the Veteran was exposed to burn pits and particulate matter due to his service in Iraq and Kuwait in 2003. 
+
+In May 2024, the Veteran submitted a private examination for sleep apnea completed by private psychologist.  The examiner reviewed the record and remarked that there is a link between the Veteran's sleep apnea and his military service.  See May 10, 2024, Disability Benefits Questionnaire - Veteran Provided.  The examiner determined there is a link between the Veteran's sleep apnea and his service-connected mental health concerns.  The examiner opined that it is at least as likely as not that the Veteran's sleep apnea is due to psychiatric difficulties from his military service.  The Veteran's mental health concerns have created hyperarousal and other physiological issues, including weight gain, which, in turn, directly and proximately cause his sleep apnea, while also substantially aggravating and worsening the course and severity of the disease itself.  Thus, the examiner opined that the Veteran's sleep apnea is at least as likely as not substantially aggravated by his service-connected depressive disorder.  His psychiatric difficulties create chronic sleep impairments, substantially impacting the progression and treatment of his sleep apnea.  
+
+The examiner explained that the issue is medically complex, as it requires knowledge of the interaction between multiple systems in the body; he noted that he is a psychologist with extensive training related to posttraumatic stress disorder and other psychiatric conditions, is trained in Behavioral Sleep Medicine, and is a member of the American Academy of Sleep Medicine and the Society of Behavioral Sleep Medicine.  The research supports the presence of a significant connection between psychiatric difficulties and sleep apnea, including an arousal-based mechanism initiated by psychiatric difficulties that promote the development of sleep apnea.  He asserted that weight gain is not simply a comorbidity but that it is a direct, physical, and anatomical effect of mental health difficulties.  Thus, the examiner determined the Veteran's mental health difficulties at least as likely as not caused the direct effect on his anatomy of weight gain and obesity.  Obesity is a significant risk factor and it, along with his mental health issues, are the most likely explanation for the presence of his sleep apnea.  The examiner asserted that there is no support for the idea that the Veteran would have sleep apnea in the absence of his mental health difficulties and obesity.  Thus, it is at least as likely as not that his mental health issues caused his weight gain and obesity which then caused his sleep apnea.  See May 10, 2024, Medical Opinion.
+
+The Veteran underwent a VA examination for sleep apnea in May 2024.  The examiner noted a diagnosis of obstructive sleep apnea.  See May 31, 2024, C&P Examination.  The examiner opined that the Veteran's sleep apnea is less likely than not proximately due to or the result of the Veteran's service connected depressive disorder.  The examiner's rationale was that the conditions of sleep apnea and depressive disorder (due to another medical condition with depressive features, insomnia) are not medically related.  The sleep apnea is a separate entity entirely from the depressive disorder.  The examiner asserted that a thorough review of medical literature failed to demonstrate a causal relationship, and thus, a nexus had not been established.  The examiner stated that sleep apnea is a physical oral - tissue collapse and not related to depressive disorder.  The conditions may coexist but that sleep apnea is an obstructive process of the oropharyngeal airway.  Sleep apnea is a separate and unrelated entity to the depressive disorder/mental health condition that does not cause the physical airway obstruction.  There is no established causal relationship between depressive disorder and sleep apnea.  See June 3, 2024, C&P Examination.
+
+The VA examiner opined that the Veteran's sleep apnea was less likely than not caused by the indicated TERA, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all TERAs of the Veteran.  The examiner's rationale was that the condition is not related, and that the Veteran's TERA Memo does not show exposure to Agent Orange.  While the Veteran may be exposed to TERA, little is known about the long-term effects from a brief exposure to TERA, and the current medical evidence shows that long-term health problems are unlikely.  The VA continues to monitor Veterans' health issues and conduct research and noted that past research on chemical and biological weapons provides on its website that "health effects depend on a number of factors, including the amount of exposure.  Those with mild-to-moderate exposure usually recover completely."  There is no medical or scientific evidence available that provides any indication of a relationship between the development of sleep apnea and TERA.  Therefore, there is no causal relationship between exposure during service and the claimed condition of sleep apnea.  See June 18, 2024, C&P Examination.
+
+An additional VA opinion was obtained in July 2024.  The VA examiner opined that the Veteran's sleep apnea was less likely than not incurred in or caused by the claimed in-service injury, event, or illness.  The examiner's rationale was that the Veteran has a diagnoses of obstructive sleep apnea and PTSD, treated by a private psychologist.  The examiner stated that medical literature does support a correlation between PTSD and sleep apnea.  While PTSD does not cause sleep apnea directly, PTSD patients are more likely to have sleep apnea risk factors such as high blood pressure, smoking, alcohol use, and obesity.  These risk factors tend to cause sleep apnea to become an additional sleep-related problem impacting their PTSD.  Sleep apnea develops due to structural changes of the soft tissue of the neck and throat which causes airway resistance and leads to obstruction.  The examiner explained that, while medical literature supports a correlation, it does not definitively state that PTSD alone leads to the development of these structural changes in the absence of other comorbidities.  The Veteran has a well-documented history of smoking and a BMI of 42, placing him in the morbidly obese range.  In adults, the most common cause of obstructive sleep apnea is excess weight and obesity, which is associated with the soft tissue of the mouth and throat.  He explained that, during sleep, when throat and tongue muscles are more relaxed, this soft tissue can cause the airway to become blocked leading to an obstruction.  The examiner noted that smokers are three times more likely to have obstructive sleep apnea than people who have never smoked.  Smoking can increase the amount of inflammation and fluid retention in the upper airway.  Thus, the Veteran's obstructive sleep apnea is less likely than not proximately due to or the result of his mental health condition.  See July 29, 2024, C&P Examination.
+
+The Board affords higher probative value to the May 2024 private medical opinion than the May 2024, June 2024, and July 2024 VA medical opinions.  The VA examiners did not fully address the evidence of record, including the May 2024 private medical opinion.  The July 2024 VA examiner asserted that the Veteran has a history of smoking and obesity, conceding that the most common cause of sleep apnea is excess weight and obesity.  Despite noting obesity as a risk factor, none of the VA examiners discussed obesity as an intermediate step between the Veteran's service-connected depressive disorder and his claimed sleep apnea.  Moreover, the VA examiners did not discuss whether the Veteran's sleep apnea has been aggravated by any of his service-connected disabilities.  The VA examiners did not provide competent evidence that sufficiently refutes the private examiner's assertion that the Veteran's PTSD and related obesity lead to, and continue to aggravate, the Veteran's sleep apnea.  Meanwhile, the May 2024 private examiner reviewed the record, cited to medical research, and sufficient addressed the Veteran's lay assertions in forming the provided opinion that the Veteran's sleep apnea was caused or aggravated by his service connected depressive disorder, with resulting obesity as an intermediate step.  Thus, the private medical opinion is afforded high probative value.
+
+Upon review of the record, the Board finds the evidence to at least be in equipoise as to whether the Veteran's current obstructive sleep apnea is proximately due to or aggravated by his service-connected depressive disorder.  Accordingly, after resolving all doubt in favor of the Veteran, the Board finds that service connection for obstructive sleep apnea is warranted.  38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+Frederic P. Gallun
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Labi, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided.  This decision is not precedential and does not establish VA policies or interpretations of general applicability.  38 C.F.R. § 20.1303.

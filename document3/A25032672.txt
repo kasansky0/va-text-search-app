@@ -1,0 +1,85 @@
+Citation Nr: A25032672
+Decision Date: 04/09/25	Archive Date: 04/09/25
+
+DOCKET NO. 240220-419751
+DATE: April 9, 2025
+
+REMANDED
+
+Entitlement to service connection for headaches, to include as secondary to service-connected obstructive sleep apnea, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from August 1979 to August 1983.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a November 2023 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO). The November 2023 rating decision was issued in response to the Veteran's November 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review, which he submitted as to an October 2023 rating decision. In February 2024, the Veteran submitted VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), appealing the November 2023 rating decision to the Board. He elected the Direct review option; therefore, the Board may only consider the evidence of record at the time of the October 2023 rating decision. 38 C.F.R. § 20.301.
+
+Initially, the Board notes that the Veteran contemporaneously submitted a medical treatment record on the same date as his February 2024 VA Form 10182. New evidence submitted with a VA Form 10182 on which the Direct review option was selected may create uncertainty as to which Board review option was selected by the claimant, triggering the need for further clarification. Edwards v. McDonough, 36 Vet. App. 56 (2023). The Board finds, however, that clarification as to the Veteran's desired review option is unnecessary, as remand is required to correct a pre-decisional duty to assist error, and so any evidence that the Board is unable to consider due to the Veteran's election of the Direct review option (to include both the contemporaneously submitted medical treatment record and VA-generated evidence associated with the claims file since the rating decision on appeal) will be considered by the RO in its readjudication of the claim.
+
+The Board notes that the Veteran has a separate pending appeal as to service connection for hypertension (docket 240806-462487), and a decision in that appeal will be issued in the ordinary course of business.
+
+Under the AMA, the Board must remand appeals to the RO to correct pre-decisional duty to assist errors. See 38 C.F.R. § 20.802(a). Here, the Board's review of the record reveals a duty to assist error, as discussed in more detail below.
+
+Prior to initiation of this appeal, on August 10, 2022, President Biden signed the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act), which addresses the circumstances of military service that qualify for a presumption of exposure based on a toxic exposure risk activity (TERA). The TERA could result from service in a location associated with toxic exposure or from occupational exposure from a veteran's military occupational specialty. Here, the Veteran served in a location presumptively associated with toxic exposure (i.e., Camp Lejeune), and VA has acknowledged that exposure to dust particles and gas fumes is consistent with his service in Lebanon in 1982. Under the PACT Act, VA is required to provide a disability examination and medical nexus opinion when a Veteran submits a compensation claim and has evidence of a disability and participation in a TERA, but the evidence is not sufficient to establish service connection for the disability. See 38 U.S.C. § 1168(a) (see PACT Act, Sec. 303). The Veteran was afforded VA TERA medical opinions in October 2023; however, as discussed below, these opinions are inadequate. 
+
+The Veteran was afforded VA opinions to assess the nature and etiology of his headaches in May 2023 and October 2023. Each of the etiology opinions conclude that his headaches are less likely than not related to his service (to include presumed and acknowledged in-service participation in TERAs) or less likely than not secondary to his service-connected obstructive sleep apnea; however, due to various deficiencies, the Board finds that each of the etiology opinions are inadequate.
+
+The May 2023 VA opinion, in which an examiner opined that the Veteran's tension headaches are less likely than not caused by an in-service injury, event, or illness, relies on an inaccurate factual premise that "there are no service treatment records found to indicate Veteran sought medical attention for headache condition during service." Reonal v. Brown, 5 Vet. App. 458, 461 (1993) (holding that a medical opinion based upon an inaccurate or incomplete factual premise is not probative). The Veteran's service treatment records document multiple complaints of headaches and/or head-related pain during service. See, e.g., February 1982 Chronological Record of Medical Care (complaining of dizziness, nausea, and dull ache to head after suffering head trauma); July 1982 Chronological Record of Medical Care (complaining of severe headache at sinuses). 
+
+The October 11, 2023 VA opinion, in which an examiner opined that the Veteran's tension headaches are less likely than not proximately due to or the result of his service-connected obstructive sleep apnea, fails to include discussion of the possibility of aggravation. See El Amin v. Shinseki, 26 Vet. App. 136, 140 (2013); see also Allen v. Brown, 7 Vet. App. 429, 448-449 (1995) (holding that an opinion obtained regarding secondary service connection must address both causation and aggravation of the nonservice-connected condition).
+
+The October 16, 2023 VA opinion, in which an examiner opined that the Veteran's tension headaches were less likely than not caused by the indicated TERAs, relies on an inaccurate factual premise that the "[f]irst mention of headaches was over 40 years after exposure" to dust particles, noise, and gas fumes while serving in Lebanon in 1982. Post-service treatment records contemporaneously document, however, complaints of headaches as early as February 2018-approximately 35 years after he returned from Lebanon in 1983. See February 2018 CSC Sleep Study Report; see also May 1984 Combat History - Expeditions - Awards Record (documenting deployment to Lebanon from October 1982 to February 1983). Further, the opinion fails to acknowledge or opine as to the impact of the Veteran's presumed exposure to contaminated water at Camp Lejeune during service-despite the fact that his qualifying service at Camp Lejeune was demonstrated by the record at the time the opinion was rendered. 
+
+The October 2023 VA opinion, in which an examiner opined that the Veteran's tension headaches are less likely than not incurred in or caused by an in-service injury, event or illness; proximately due to or the result of his service-connected obstructive sleep apnea; or permanently aggravated beyond natural progression by his obstructive sleep apnea, (1) relies on an inaccurate factual premise that "there is    no objective evidence of a treatment, complaint or diagnosis in the current and available records for a headache condition," (2) relies on an inaccurate factual premise that "tension headache is a separate entity entirely from the obstructive sleep apnea and unrelated to it," (3) relies on an inaccurate factual premise that "there is no evidence of a chronic headache condition," (4) mischaracterizes the requirements for service connection under 38 U.S.C. § 1110 and § 1131, and (5) is under the incorrect standard as to the possibility of aggravation for secondary service connection. 
+
+As to the first deficiency, the Board notes that both the May 2023 VA examiner and first October 2023 VA examiner documented a diagnosis of tension headaches, which represents objective evidence of diagnosis of a headache condition. 
+
+As to the second deficiency, the Board notes that approximately one month prior to issuance of the opinion, a private examiner cited medical literature stating that "not enough or poor-quality sleep increases the odds for headache," and less than five days prior to issuance of this opinion, a different VA examiner stated that "[i]t is widely known and well established that sleep apnea can cause morning headaches," and the examiner specifically noted review of the private opinion in rendering her own opinion. 
+
+As to the third deficiency, the Board notes that the record documents recurring headache complaints, to include as contained in treatment records and at VA examinations, since 2018, and while the examiner may disagree as to whether this evidence indicates that the Veteran's headaches are chronic in nature, this evidence demonstrates that her statement that "there is no evidence of a chronic headache condition" (emphasis added) is wholly inaccurate. 
+
+As to the fourth deficiency, the Board notes that, while chronicity may be a basis for establishing service connection pursuant to 38 C.F.R. §§ 3.303 and 3.309(a), including for "[o]ther organic diseases of the nervous system," it is not a requirement to establish service connection on a direct or secondary basis. While the VA examiner included language as to a negative nexus opinion for service connection, the examiner focused on a lack of objective evidence of chronicity of his headaches rather than providing supporting rationale as to her direct and secondary service connection conclusions. 
+
+As to the fifth deficiency, the Board notes that, pursuant to 38 C.F.R. § 3.310(b), "[a]ny increase in severity of a nonservice-connected disease or injury that is proximately due to or the result of a service-connected disease or injury, and not due to the natural progress of the nonservice-connected disease, will be service connected," and the regulation is not caveated by "permanently aggravated" as represented by the examiner. 
+
+The October 23, 2023 VA opinion, in which an examiner opined that the Veteran's tension headaches were less likely than not caused by the indicated TERAs, fails to acknowledge or opine as to the impact of the Veteran's presumed exposure to contaminated water at Camp Lejeune during service-despite the fact that his qualifying service at Camp Lejeune was demonstrated by the record at the time the opinion was rendered. 
+
+Because of the above-detailed deficiencies, the RO failed to obtain adequate medical opinions as to both direct (to include as due to participation in TERAs during service) and secondary service connection for the Veteran's claimed headaches, which constitutes a pre-decisional duty to assist error requiring remand. 
+
+The Board recognizes that the Veteran submitted a positive private nexus opinion, prepared by APRN D.L., in September 2023; however, the Board finds that remand is still required to correct the above-detailed pre-decisional duty to assist errors, as the Board does not find the private opinion entirely persuasive. Significantly, in rendering her opinion, D.L. did not indicate whether she reviewed the claims file, and, (seemingly consequently) relied on an inaccurate factual premise as to the history of the Veteran's claimed headaches-that his headaches "chronologically developed after the service-related condition to include Obstructive Sleep Apnea condition." Significantly, at May 2023 and October 2023 VA headache examinations, the Veteran reported an onset of headaches in the mid- to late 1980s, and review of post-service treatment records demonstrates that the he was not diagnosed with obstructive sleep apnea until February 2018-at least 20 years after his reported onset of headaches. Further, D.L. did not support her opinion with discussion of the Veteran's specific circumstances; instead, she merely copied-and-pasted a previously submitted statement and excerpted various medical literature without applying such to the Veteran's situation. As the claim cannot be granted based on the current evidence of record, remand is required to correct the above-identified pre-decisional duty to assist errors and afford the Veteran an adequate VA medical opinion as to the etiology of his claimed headaches. The full probative value to be assigned D.L.'s opinion will be determined when the claim is readjudicated on the merits.
+
+The matter is REMANDED for the following action:
+
+Obtain an addendum medical opinion as to the etiology of the Veteran's headaches. 
+
+After review of the claims file, the examiner should answer the following:
+
+(a.) Are the Veteran's headaches at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) related to his active service, to include his documented in-service head trauma?
+
+The Board notes that, in February 1982, the Veteran sought treatment for head trauma, dizziness, nausea, and a dull ache to his head after a 15-pound wire fell from a shelf. See February 1982 Chronological Record of Medical Care. 
+
+(b.) Are the Veteran's headaches at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) due to his presumed in-service exposure to contaminated water at Camp Lejeune, in-service exposure to dust particle and gas fumes in the course of his service in Lebanon, and/or the synergistic, combined effect of all of his toxic exposure risk activities?
+
+The examiner is advised that simply stating the condition is not on the list of conditions presumptively related to contaminated water exposure Camp Lejeune is NOT a sufficient rationale for a negative opinion, standing alone.
+
+(c.) Are the Veteran's headaches at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) proximately due to or aggravated by his service-connected obstructive sleep apnea?
+
+The Board notes that, in February 2018, at his initial sleep study diagnosing obstructive sleep apnea, the Veteran reported experiencing headaches. In September 2023, the Veteran submitted a private medical opinion summarizing, in part, various medical literature indicative of a relationship between obstructive sleep apnea and/or poor sleep and headaches. In October 2023, a VA examiner stated that "[i]t is widely known and well established that sleep apnea can cause morning headaches."
+
+The examiner must address the possibility of aggravation and the above-detailed evidence indicative of a relationship between headaches and obstructive sleep apnea and/or poor sleep quality, generally.
+
+The opinions must be accompanied by a rationale consistent with the evidence of record. A discussion of the pertinent evidence, relevant medical treatises, and generally accepted medical principles is requested.
+
+ 
+
+ 
+
+MICHELLE L. KANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Tierno
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

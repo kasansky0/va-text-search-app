@@ -1,0 +1,77 @@
+Citation Nr: A25033952
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 231211-399400
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for migraines is denied.
+
+FINDING OF FACT
+
+The Veteran's migraines are not related to service, to include as secondary to service-connected bilateral hearing loss. 
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for migraines have not been met. 38 U.S.C. §§ 1110, 1112, 1113, 1131, 5107; 38 C.F.R. §§ 3.102, 3.307, 3.309, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 1975 to July 1977. 
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal of a September 2023 rating decision of the Department of Veterans Affairs (VA) agency of original jurisdiction (AOJ). 
+
+In the December 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2023 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+As an initial matter, in a prior April 2023 decision, the AOJ denied the service connection claim for service connection of migraines. The Veteran filed a May 2023 supplemental claim seeking to readjudicate the issue, including a letter from a medical provider stating that the Veteran was "having some headaches related to medical issues." As this was new evidence, and it related to the issue of whether the Veteran had migraines, the Board finds that the Veteran submitted new and relevant evidence. Accordingly, the Board will proceed to address the claim on the merits. See 38?U.S.C. § 5104A; 38?C.F.R. § 3.104(c).
+
+Service Connection
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131. Generally, the evidence must show (1) the existence of a present disability, (2) in-service incurrence or aggravation of a disease or injury, and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service ("nexus"). Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004). A showing of continuity of symptoms from separation to the present is a factor to be considered in assessing service connection claims.
+
+Certain chronic diseases, including organic diseases of the nervous system such as migraines, may be presumed to have been incurred during service if they become manifested to a compensable degree within one year from separation from active service. 38 U.S.C. §§ 1112, 1113; 38 C.F.R. §§ 3.307(a)(3), 3.309(a). This presumption is rebuttable by affirmative evidence to the contrary. Id. 
+
+Additionally, a disability may also be service connected on a secondary basis by demonstrating that the disability is either due to or the result of an already service-connected disease or injury or aggravated by an already service-connected disease or injury. See Allen v. Brown, 7 Vet. App. 439, 448 (1995); 38 C.F.R. § 3.310.
+
+1. Service connection for migraines
+
+The Veteran seeks service connection for migraines. The Board finds service connection is not warranted. 
+
+As an initial matter, the Veteran was diagnosed with migraines during a March 2023 VA examination. This establishes the service connection element of a current disability. 
+
+Next, turning to the medical evidence, the Veteran's service treatment records are unavailable. A note in the file states that they were in the service member's possession in the 1990s, and VA was unsuccessful in retrieving them. 
+
+The Veteran's VA treatment records show that, in December 2022, the Veteran self-entered his medications as including aspirin as needed for headaches. During a March 2023 sleep medicine consultation, the Veteran said that he had morning headaches during service. In May 2023, at the Veteran's request, his primary care doctor provided a letter stating that the Veteran had "some headaches related to medical issues." He requested it be changed to say he had headaches or migraines due to anxiety, PTSD, or tinnitus, but no changes were made. He has not otherwise complained of headaches or received treatment for migraines.
+
+The Veteran's private treatment records did not include any headache- or migraine-related complaints, treatment, or diagnosis. 
+
+Therefore, there is no clinical evidence to show that the Veteran's migraines had either an onset during service, continuous symptoms, or an onset to a compensable degree within one year of separation from active duty. 
+
+Service connection can also be established via a Veteran's statements of continuity of symptoms. In this case however, his statements alone do not establish service connection. At his March 2023 VA examination, the Veteran reported that his headaches began "over 20 years ago," which would not relate back to service 50 years earlier. During a sleep medicine consultation a few weeks later, he reported having morning headaches during service, but there was no suggestion that these were migraines or continued to the present. Moreover, the Board cannot ignore the considerable amount of time that has elapsed from the time the Veteran left service and when he first reported symptoms. Therefore, continuity of symptoms is not established by the medical evidence of record or his statements.
+
+Next, despite the lack of continuous symptoms, service connection may be warranted if the evidence otherwise indicates a relationship between the Veteran's current disorder and his active-duty service. However, the competent evidence fails to establish a nexus between active duty and the Veteran's current migraines. 
+
+Here, the evidence does not show any in-service event or occurrence. The Veteran alleged that his migraines were related to hearing loss. He does have a non-compensable, service-connected disability of bilateral sensorineural hearing loss due to military noise exposure. 
+
+The Veteran was afforded a March 2023 VA examination which diagnosed his migraines. The examiner said that the migraines were less likely than not proximately due to or the result of bilateral hearing loss. They noted that there is no medical literature supporting any link between these conditions. While the examiner did not complete the "aggravation" portion of the disability benefits questionnaire, their reasoning equally applies to both causation and aggravation. The Board finds that this opinion is adequate, and the rationale is persuasive. 
+
+In arriving at its conclusions, the Board has considered the Veteran's statements and belief that his migraines are related to service. The Board acknowledges the Veteran is competent to report symptoms as he observed them through his senses, but he is not competent to determine the etiology of his migraines. See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007). He is a layperson without medical training and expertise, and thus, is not able to make an etiological conclusion regarding the cause of his condition, especially in light of the VA examiner's conclusions to the contrary.
+
+Therefore, the Board finds that the evidence weighs persuasively against service connection of migraines, to include as secondary to service-connected hearing loss, and service connection is denied.  The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.
+
+ 
+
+ 
+
+B.T. KNOPE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Heger

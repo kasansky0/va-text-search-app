@@ -1,0 +1,83 @@
+Citation Nr: A25033523
+Decision Date: 04/10/25	Archive Date: 04/10/25
+
+DOCKET NO. 240415-433064
+DATE: April 10, 2025
+
+ORDER
+
+An initial rating of 10 percent for migraines with aura (previously rated as cephalgia) from May 20, 2022, to February 20, 2023, is granted.
+
+REMANDED
+
+The issue of entitlement to a rating in excess of 10 percent for migraines with aura (previously rated as cephalgia) prior to February 21, 2023, and in excess of 30 percent thereafter, is remanded.
+
+FINDING OF FACT
+
+The Veteran had migraines with characteristic prostrating attacks averaging one in 2 months from May 20, 2022, to February 20, 2023.
+
+CONCLUSION OF LAW
+
+The criteria for a rating of 10 percent for migraine headaches are met from May 20, 2022, to February 20, 2023. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.124a, DC 8100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from December 1973 to January 1976. This matter is before the Board following his appeal of a February 2024 rating decision.
+
+A supplemental claim decision was issued in the modernized review system, also known as the Appeals Modernization Act (AMA) system, by the agency of original jurisdiction (AOJ) in October 2023. The Veteran requested higher-level review (HLR) of that decision in November 2023. In February 2024, the AOJ issued an HLR decision, which is the decision on appeal. 
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the October 2023 supplemental claim decision. 38 C.F.R. § 20.301.
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision. 38 C.F.R. § 20.300. Regarding the issue the Board is remanding, any such evidence will be considered by the AOJ on remand. 
+
+Entitlement to an initial rating of 10 percent for migraines with aura (previously rated as cephalgia) from May 20, 2022, to February 20, 2023, is granted. 
+
+Disability ratings are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects their ability to function under the ordinary conditions of daily life, including employment, by comparing their symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule). See 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.10. If two ratings are potentially applicable, the higher rating will be assigned if the disability more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran. See 38 C.F.R. § 4.3.
+
+In evaluating the severity of a particular disability, it is essential to consider its history. 38 C.F.R. §§ 4.1, 4.2, 4.41. However, where an increase in the disability rating, rather than the propriety of the initial rating, is at issue, the present level of disability is of primary importance, and past medical reports should not take precedence over current findings. Francisco v. Brown, 7 Vet. App. 55, 58 (1994). Regardless of whether an appeal stems from disagreement with the initial rating assigned following an award of service connection or from disagreement with the rating assigned following a claim for increase, separate ratings can be assigned for separate periods of time based on the facts found. Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007) (citing Fenderson v. West, 12 Vet. App. 119, 126 (1999)).
+
+Migraine headaches are rated pursuant to 38?C.F.R. §?4.124a, Diagnostic Code (DC) 8100, for migraine. Under DC 8100, a 10 percent rating is warranted for migraines with characteristic prostrating attacks averaging one in 2 months over the last several months. A noncompensable rating is warranted for migraines "with less frequent attacks." 
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to the 10 percent and 30 percent ratings under DC 8100 to describe the nature and severity of migraines, but it is not defined in the regulation. Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness." Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+In this case, the Veteran stated that his headaches occur 1 to 2 times per week, and that "at least once every couple of months, they knock me out of commission to the point that I am totally incapacitated and unable to do any normal daily activities for 6 hours. During my headaches, I have vertigo, dizziness, and throbbing pain." VA 21-4138 Statement in Support of Claim, May 2022. 
+
+The Veteran is competent to report readily observable symptoms. Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007). There is no reason to doubt the Veteran's credibility. Moreover, the symptoms described in the Veteran's statement are consistent with those described in his recent treatment notes. See Neurology Consultation, February 2022. Accordingly, the Board concludes that, at the least, the Veteran's migraine headaches occurred with characteristic prostrating attacks averaging one in 2 months over the last several months throughout the appeal period, which corresponds to the criteria for a 10 percent rating under DC 8100. To that extent, the claim for increase is granted. The issue of entitlement to even higher staged ratings throughout the claim period is addressed in the remand portion of this decision, below.
+
+REASONS FOR REMAND
+
+The issue of entitlement to a rating in excess of 10 percent for migraines with aura (previously rated as cephalgia) prior to February 21, 2023, and in excess of 30 percent thereafter, is remanded.
+
+The Board must remand an appeal to the AOJ for correction of an error on the part of the AOJ to satisfy its duties under 38 U.S.C. 5103A if the error occurred prior to the date of the AOJ decision on appeal. 38 C.F.R. § 20.802. This claim must be remanded for correction of the following pre-decisional duty to assist error.
+
+The AOJ failed to obtain an adequate examination. When VA undertakes to provide a VA examination or medical opinion, it must ensure that the examination or opinion is adequate. Barr v. Nicholson, 21 Vet. App. 303, 312 (2007). 
+
+In this case, neither the initial examination in October 2022, nor the second VA examination in October 2023 discussed the effect of medication on the Veteran's headache symptoms. The Board notes that the Veteran has been taking medication for his migraines since approximately January 2022, and that "since starting these medications, 'the headaches have calmed down.'" Neurology Consult, February 2022. 
+
+The Board may not deny entitlement to a higher rating on the basis of relief provided by medication when those effects are not specifically contemplated by the rating criteria. Jones v. Shinseki, 26 Vet. App. 56, 61 (U.S. 2012). In this case, the VA examinations do not discuss the effects of pain medication on the Veteran's migraines. Consequently, a remand is necessary for an opinion that considers the severity of the Veteran's headache symptoms in the absence of medication. 
+
+The matter is REMANDED for the following action:
+
+Send the claims file to an appropriate clinician for review and to obtain an opinion on the severity of the Veteran's migraines. If an examination is deemed necessary to respond to the questions posed, one should be scheduled. After reviewing the claims file, the clinician is asked to respond to the following:
+
+(a) For the period prior to February 21, 2023, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that without the use of medication for his headaches, the Veteran would have had characteristic prostrating attacks occurring on average once a month over the last several months, and/or very frequent, completely prostrating and prolonged attacks, productive of severe economic inadaptability?
+
+(b) For the period beginning February 21, 2023, is it at least as likely as not that without the use of medication for his headaches, the Veteran would have had very frequent, completely prostrating and prolonged attacks, productive of severe economic inadaptability?
+
+(Continued on the next page)
+
+?
+
+Please include a complete rationale for the opinions provided. If it is not possible to provide a specific opinion regarding the above questions without speculation, please state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts); a deficiency in the record (additional facts are required); or is because you do not have the requisite knowledge or training.
+
+ 
+
+L. STEPANICK
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Musgrave, Stan M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

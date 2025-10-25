@@ -1,0 +1,79 @@
+Citation Nr: A25032277
+Decision Date: 04/08/25	Archive Date: 04/08/25
+
+DOCKET NO. 241015-480828
+DATE: April 8, 2025
+
+ORDER
+
+An initial compensable disability rating for the service-connected transient cerebral ischemic attack (hereafter stroke) is denied.
+
+FINDING OF FACT
+
+The Veteran's stroke residuals are currently asymptomatic and has not manifest in any symptoms at any point during the appeal.
+
+CONCLUSION OF LAW
+
+The criteria for a compensable rating for residuals of a transient cerebral ischemic attack (stroke) have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.1, 4.3, 4.124a, Diagnostic Code 8046.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 1968 to April 1972.
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).  In that rating decision, the RO granted service connection for transient cerebral ischemic attack (stroke) with a noncompensable disability rating effective September 30, 2022. 
+
+In October 2024, the Veteran appealed to the Board by submitting a VA Form 10182 Decision Review Request: Board Appeal (notice of disagreement or NOD), indicating disagreement with the noncompensable disability rating assigned.  The Veteran selected the Direct Review docket.  See 38 C.F.R. § 20.202.  As the Veteran selected the Direct Review docket, the Board is limited to review of the evidence in the record up to and until the March 11, 2024, rating decision.  See 38 C.F.R. § 20.202(b).
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision on the claim on appeal.  38 C.F.R. § 20.300.  If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider in this decision, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+This appeal has been advanced on the docket automatically due to the Veteran's age.  38 C.F.R. § 20.800(c)(1).
+
+Entitlement to an initial compensable disability rating for the service-connected transient cerebral ischemic attack (hereafter stroke)
+
+The Veteran contends that he is entitled to a higher rating for his service-connected stroke.  In a November correspondence, the Veteran, through his representative, argues that the March 2024 rating decision did not provide adequate reasons and basis for assigning a non-compensable disability rating, and that the Veteran takes medications to control his symptoms.  The Veteran has not asserted any additional symptoms related to his service-connected stroke.
+
+Disability ratings are determined by applying a schedule of ratings that is based on average impairment of earning capacity.  Separate diagnostic codes identify the various disabilities.  38 U.S.C. § 1155; 38 C.F.R. Part 4.  Each disability must be viewed in relation to its history, and the limitation of activity imposed by the disabling condition should be emphasized.  38 C.F.R. § 4.1. Examination reports are to be interpreted in light of the whole recorded history, and each disability must be considered from the point of view of the veteran working or seeking work.  38 C.F.R. § 4.2.  
+
+Separate ratings can be assigned for separate periods based on the facts found - a practice known as "staged" ratings.  See Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007).  Staged ratings are appropriate whenever the factual findings show distinct periods where the service-connected disability exhibits symptoms that warrant different ratings.  Id.
+
+When, after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding service origin, the degree of disability, or any other point, such doubt will be resolved in favor of the claimant.  By reasonable doubt is meant one which exists because of an approximate balance of positive and negative evidence which does not satisfactorily prove or disprove the claim.  38 C.F.R. § 3.102.
+
+When there is an approximate balance of positive and negative evidence as to any issue material to the determination of a matter, VA will resolve reasonable doubt in favor of the claimant.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+The Veteran's stroke is rated under 38 C.F.R. § 4.124a, Diagnostic Code 8046 for cerebral arteriosclerosis.  This condition, which is not specified in the Rating Schedule is rated by analogy under Code 8046.  Id.
+
+Under Diagnostic Code 8046, purely neurological disabilities, such as hemiplegia, cranial nerve paralysis, etc., due to cerebral arteriosclerosis will be rated under the diagnostic codes dealing with such specific disabilities, with citation of a hyphenated diagnostic code (e.g., 8046-8207).  Id.
+
+Purely subjective complaints such as headaches, dizziness, tinnitus, insomnia, and irritability, recognized as symptomatic of a properly diagnosed cerebral arteriosclerosis, will be rated 10 percent and no more under Diagnostic Code 9305.  See 38 C.F.R. § 4.124a, Code 8046.  This 10 percent rating will not be combined with any other rating for a disability due to cerebral or generalized arteriosclerosis.  Ratings in excess of 10 percent for cerebral arteriosclerosis under diagnostic code 9305 are not assignable in the absence of a diagnosis of multi-infarct dementia with cerebral arteriosclerosis.  Id.  The ratings under code 8046 apply only when the diagnosis of cerebral arteriosclerosis is substantiated by the entire clinical picture and not solely on findings of retinal arteriosclerosis.  See 38 C.F.R. § 4.124a, Code 8046, Note.
+
+VA treatment records show in June 2019, the Veteran was seen in the emergency department and diagnosed with an acute/subacute ischemic CVA (cerebrovascular accident).  He was discharged after two days.  In August 2019, in a primary care note, the Veteran was noted as having a recent stroke and is on aspirin and statins with no residuals.  In a September 2019 primary care note, the Veteran was noted as having a recent stroke and being on aspirin and statins.  The Veteran denied symptoms of headaches, change in vision, or dizziness.  In a September 2020 cardiology consult note, the Veteran was noted as having a stroke in June 2019 and that he reported he is still fairly active and does not develop any symptoms.  In a November 2023 Agent Orange program note, the Veteran reported no headaches and his neurological testing resulted in cranial nerves II-XII intact grossly, strength and sensation symmetric and intact, and cerebellar testing was normal.
+
+During a January 2024 VA examination, the examiner noted the Veteran had a diagnosis of transient cerebral ischemic attack.  The examiner noted the diagnosis was made by the Veteran's primacy care provider based on his clinical presentation and the Veteran remains under medical care with CVA risk mitigation.  The examiner indicated that there were no cranial nerves affected, normal muscle strength, and no impact on the Veteran's ability to work.
+
+The Board acknowledges the Veteran's assertion that his cerebrovascular disease is more severe than evaluated.  The Veteran is competent to report his symptoms.  Layno v. Brown, 6 Vet. App. 465, 469 (1994).  However, to date, the Veteran has not submitted any statements as to the residual symptoms or severity of same.
+
+There is no evidence in the record of headaches, dizziness, insomnia, or irritability, and the Veteran's tinnitus is unrelated and has been service connected since 2014.  Additionally, there is no evidence in the record of any neurological disabilities, such as hemiplegia or cranial nerve paralysis.
+
+The Board finds the medical evidence demonstrates that the criteria for a compensable disability rating has not been met.  In determining the actual degree of disability, the January 2024 examination findings are probative of the degree of impairment, and the Veteran's VA treatment records do not contradict the examiner's findings.  Consequently, the Board affords more probative weight to the competent medical evidence of record.  
+
+(Continued on the next page)
+
+?
+
+The Board also acknowledges the representative's contention that the CAPRI records in the file show that the Veteran is taking medication for control of the symptoms of his residuals of TIA/stroke. See November 2024 Informal Presentation on Appealed Case. The Board does not agree. CAPRI records show the Veteran is taking medications such as asprin, Atorvastatin Calcium, and Lisinopril for blood pressure and cholesterol. These are not to control any symptoms or residuals of the prior stroke; rather, they are preventative in nature. There are no ameliorative effects of his medication on the residuals/symptoms of his stroke; in fact, there are no current symptoms related to the stroke. See Jones v. Shinseki, 26 Vet. App. 56 (2012).
+
+In summation, there is no persuasive evidence of record to show entitlement to an initial compensable rating for the Veteran's residuals of a stroke, as they are found to be asymptomatic.  There is no reasonable doubt to be resolved as to this issue.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+Mike Sobiecki
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Robinson, C. B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.
