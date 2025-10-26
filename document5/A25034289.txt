@@ -1,0 +1,71 @@
+Citation Nr: A25034289
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240910-472300
+DATE: April 14, 2025
+
+ORDER
+
+An initial rating of 50 percent, but no higher, for obstructive sleep apnea, for accrued benefits purposes, is granted.
+
+FINDING OF FACT
+
+1. In a December 2022 decision, the AOJ granted service connection for sleep apnea on a secondary basis to service-connected other specified trauma and stressor related disorder and major depressive disorder, based on aggravation.
+
+2. For the period on appeal, the Veteran's sleep apnea required the use of a breathing assistance device.
+
+CONCLUSION OF LAW
+
+The criteria for an initial rating of 50 percent, but no higher, for obstructive sleep apnea, for accrued benefits purposes, are met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.3, 4.7, 4.97, Diagnostic Code (DC) 6847.  
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty with the U.S. Army from March 1975 to August 1975 and from February 1978 to January 1979.
+
+The Veteran died in July 2017 and the appellant is his surviving spouse, who was properly substituted in the appeal. 
+
+Although the Veteran initially requested Higher-Level Review when submitting the January 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review, the Higher-Level Reviewer determined that there had been a duty to assist error and transferred the claim to the Supplemental Claim decision review option for additional development. 
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the February 2024 agency of original jurisdiction (AOJ) supplemental claim decision on appeal.  38 C.F.R. § 20.301.  If evidence was submitted after the AOJ issued the supplemental claim decision on appeal, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Increased Rating
+
+Ratings are based on a schedule of reductions in earning capacity from specific injuries or combination of injuries.  The ratings shall be based, as far as practicable, upon the average impairments of earning capacity resulting from such injuries in civil occupations.  38 U.S.C. § 1155.  Generally, the degrees of disability specified are considered adequate to compensate for considerable loss of working time from exacerbations or illnesses proportionate to the severity of the several grades of disability.  38 C.F.R. § 4.1.
+
+Sleep apnea is rated pursuant to DC 6847, which provides a zero percent rating for being asymptomatic but with documented sleep disorder breathing, a 30 percent rating for persistent daytime hypersomnolence, a 50 percent rating for sleep apnea that requires use of a breathing assistance device such as a continuous positive airway pressure (CPAP) machine; and a maximum 100 percent for chronic respiratory failure with carbon dioxide retention or cor pulmonale, or where a tracheostomy (tracheotomy) is required.  38 C.F.R. § 4.97, DC 6847.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  When after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding the degree of disability such doubt will be resolved in favor of the claimant.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 4.3.
+
+1. Entitlement to a compensable rating for service-connected obstructive sleep apnea (OSA) for accrued purposes.
+
+The appellant contends that the Veteran should have been assigned a 50 percent rating for his service-connected OSA. 
+
+The Veteran was granted service connection for his OSA on a secondary basis in a December 2022 Rating Decision.  The AOJ held that his OSA was aggravated by his service-connected psychiatric disorders.  The decision was based on a July 2022 VA medical opinion which stated that the Veteran's OSA was permanently aggravated by his service-connected other specified trauma and stressor related disorder and major depressive disorder, with a supporting rationale noting that the Veteran had difficulty using his CPAP due to anxiety and medical research showing prescription treatment for psychiatric diagnoses caused muscle relaxation, increased apnea duration, and decreased ventilatory response to hypoxia. 
+
+Service connection for OSA was made effective March 29, 2010, and assigned a noncompensable rating based on 38 C.F.R. §§ 3.322 and 4.22.  In the December 2022 and February 2024 Rating Decisions, it was stated that, although the criteria for a 50 percent rating was met based on required use of a breathing assistance device, as well as persistent daytime hypersomnolence, that percentage was estimated pre-aggravation, and there was no change or increase in severity based on aggravation from his service-connected other specified trauma and stressor related disorder and major depressive disorder.
+
+38 C.F.R. §§ 3.322 and 4.22 provide the basis for rating disabilities aggravated by active service.  Specifically, in cases involving aggravation by active service, the rating will reflect only the degree of disability over and above the degree existing at the time of entrance into the active service, whether the particular condition was noted at the time of entrance into the active service, or it is determined upon the evidence of record to have existed at that time.
+
+First, the Board finds that the Veteran's OSA did not exist at the time of entrance into active service, and therefore could not have been aggravated by service.  The record shows the Veteran was diagnosed with OSA in 1999, well after he was discharged from service.  Moreover, the Veteran's OSA is considered service connected as secondary to an already service-connected disability.  Again, the December 2022 Rating Decision found the Veteran's OSA was aggravated by his service-connected psychiatric disorder.  Accordingly, the December 2022 and February 2024 Rating Decisions improperly applied the provisions under 38 C.F.R. § 4.22.
+
+Second, and as the RO noted, the Board determines that the evidence in the Veteran's claims file reflects that his obstructive sleep apnea symptoms most closely approximate those warranting a 50 percent rating, for the entire appeal period.  38 C.F.R. §§ 4.7, 4.97.  The Veteran was diagnosed with OSA in approximately July 1999 and was immediately prescribed a CPAP machine.  Moreover, the August 2023 VA examiner confirmed the Veteran required continuous medication and use of a CPAP machine for the condition.  VA treatment records throughout the appeal period note the Veteran was not using the CPAP regularly, as it was intolerable.  However, it is also noted that the Board is bound by the favorable findings in the February 2024 Rating Decision that the Veteran's obstructive sleep apnea met the criteria for a 50 percent evaluation rating.  38 C.F.R. § 3.104(c).
+
+The Board also finds that the Veteran's service-connected sleep apnea does not warrant a rating in excess of 50 percent at any point in the appeal period.  The Board determines the Veteran has not exhibited chronic respiratory failure or the need for a tracheostomy; nor does the Veteran contend he has experienced such symptoms.  38 C.F.R. § 4.97, DC 6847.
+
+In sum, after resolving reasonable doubt in the appellant's favor, the Board finds the Veteran's OSA was proximately due to his service-connected other specified trauma and stressor related disorder and major depressive disorder, and warranted an initial 50 percent rating, but not higher, since March 29, 2010, the date service connection went into effect.  See 38 U.S.C. § 5017(b); 38 C.F.R. §§ 3.102, 4.3.
+
+ 
+
+ 
+
+David Robertson
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Price Umaru, Esq.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

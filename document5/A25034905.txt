@@ -1,0 +1,99 @@
+Citation Nr: A25034905
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 240720-458096
+DATE: April 16, 2025
+
+ORDER
+
+Entitlement to an initial compensable evaluation higher than 20 percent for service-connected diabetes mellitus type II is denied.
+
+REMANDED
+
+Entitlement to service connection for hypertension associated with herbicide exposure is remanded.
+
+FINDING OF FACT
+
+The Veteran's diabetes mellitus type II is treated with restricted diet and prescribed oral hypoglycemic agents, without insulin injections and regulation of his activities.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to a compensable evaluation higher than 20 percent for service-connected diabetes mellitus type II are not met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.1, 4.3, 4.119, Diagnostic Code (DC) 7913.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from June 1961 to November 1964 and April 1966 to December 1969.
+
+These matters are before the Board of Veterans' Appeals (Board) on appeal from a May 2024 Appeals Modernization Act (AMA) rating decision by a Department of Veterans Affairs (VA) Regional Office (RO) of the Veterans Benefits Administration (VBA), which is the Agency of Original Jurisdiction (AOJ).  The Veteran timely appealed the May 2024 rating decision to the Board by requesting the AMA direct review docket.  See July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement).  Accordingly, based on the Veteran's selection of the direct review docket, the Board is limited to review of the evidence in the record through and until the date of the May 2024 rating decision.  See 38 U.S.C. §§ 5104C, 7105; 38 C.F.R. §§ 20.202(b), 20.301, 3.2500.
+
+Entitlement to an initial compensable evaluation higher than 20 percent for service-connected diabetes mellitus type II is denied.
+
+The Veteran claims entitlement to an initial compensable evaluation higher than 20 percent for his service-connected diabetes mellitus type II.
+
+Service connection for diabetes mellitus type II was granted on a presumptive basis due to herbicide exposure, with an initial compensable evaluation of 20 percent from February 8, 2024, that is, from the date of filing of the Veteran's claim.  See May 2024 rating decision.
+
+Higher initial evaluation
+
+A disability rating is determined by the application of VA's Schedule for Rating Disabilities (Rating Schedule), 38 C.F.R. Part 4.  The percentage ratings contained in the Rating Schedule represent, as far as can be practicably determined, the average impairment in earning capacity resulting from diseases and injuries incurred or aggravated during military service and their residual conditions in civil occupations.  Separate diagnostic codes identify the various disabilities.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+VA has a duty to acknowledge and consider all regulations that are potentially applicable through the assertions and issues raised in the record and to explain the reasons and bases for its conclusions.  Schafrath v. Derwinski, 1 Vet. App. 589, 592-593 (1991).
+
+The evaluation of the same disability under various diagnoses, known as pyramiding, is generally to be avoided.  38 C.F.R. § 4.14.  The critical element in permitting the assignment of several ratings under various diagnostic codes is that none of the symptomatology for any one of the disabilities is duplicative or overlapping with the symptomatology of the other disability.  See Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994).
+
+The Board will consider whether separate ratings may be assigned for separate periods of time based on facts found, a practice known as "staged ratings."  Fenderson v. West, 12 Vet. App. 119, 126-27 (1999); Hart v. Mansfield, 21 Vet. App. 505, 509 (2007).
+
+Diagnostic Code 7913 provides compensation for diabetes mellitus.  38 C.F.R. § 4.119.  Under that code, a 10 percent rating is provided for diabetes mellitus requiring a restricted diet only.  Id.  A 20 percent rating is provided for diabetes mellitus requiring insulin and restricted diet, or use of oral hypoglycemic agent and restricted diet.  Id.  A 40 percent rating is provided for diabetes mellitus requiring insulin, restricted diet, and regulation of activities.  Id.  A 60 percent rating is provided for diabetes mellitus requiring insulin, restricted diet, and regulation of activities with episodes of ketoacidosis or hypoglycemic reactions requiring one or two hospitalizations per year or twice a month visits to a diabetic care provider, plus complications that would not be compensable if separately evaluated.  Id.  A 100 percent rating is provided for diabetes mellitus requiring more than one daily injection of insulin, restricted diet, and regulations of activities (avoidance of strenuous occupational and recreational activities) with episodes of ketoacidosis or hypoglycemic reactions requiring at least three hospitalizations per year or weekly visits to a diabetic care provider, plus either progressive loss of weight and strength or complications that would be compensable if separately evaluated.  Id.
+
+Note (1) to Diagnostic Code 7913 provides that compensable complications of diabetes are to be rated separately unless they are part of the criteria used to support a 100 percent rating (under Diagnostic Code 7913).  38 C.F.R.§ 4.119.  Noncompensable complications are considered part of the diabetic process under Diagnostic Code 7913.  Id.
+
+Note (2) to Diagnostic Code 7913 provides that, when diabetes mellitus has been conclusively diagnosed, the adjudicator is not to request a glucose tolerance test solely for rating purposes.  38 C.F.R. § 4.119.
+
+"Regulation of activities" is defined as being required to "avoid[ ] strenuous occupational and recreational activities."  38 C.F.R. § 4.119, Diagnostic Code 7913.  Medical evidence is required to support the "regulation of activities" criterion of a 40 percent disability rating.  Camacho v. Nicholson, 21 Vet. App. 360, 364 (2007).
+
+DC 7913 provides a structured scheme of specific, successive, cumulative criteria.  Each higher rating includes the same criteria as the lower rating plus distinct new criteria.  Middleton v. Shinseki, 727 F.3d 1172, 1178 (Fed. Cir. 2013).  Because DC 7913 contains successive criteria, the criteria for the lower rating must be met before a higher disability rating may be awarded.  A higher rating cannot be granted based on a finding that the Veteran's disability picture more nearly approximates the criteria for the next higher rating.  However, reasonable doubt regarding the presence of a criterion may be resolved in the Veteran's favor.  Johnson v. Wilkie, 30 Vet. App. 245, 252 (2018).
+
+Pursuant to a May 2024 diabetes mellitus DBQ, the Veteran reported that his diabetes symptoms are treated by restricted diet and prescribed oral hypoglycemic agents.  Regulation of activities is not required.  He visits his diabetic care provider less than two times per month for episodes of ketoacidosis and hypoglycemia.  No hospitalizations were reported.  No complications of diabetes mellitus were noted. 
+
+Here, the Board finds that a higher compensable evaluation for diabetes mellitus type II is not warranted as the Veteran's diabetes disability most closely approximates a 20 percent evaluation, as requiring restricted diet and prescribed oral hypoglycemic agents, but not requiring regulation of his activities and the use of insulin.
+
+Thus, the most persuasive and probative evidence is against a finding of the existence of any of the additional criteria required for higher ratings under Diagnostic Code 7913.  Entitlement to an initial evaluation higher than 20 percent for service-connected diabetes mellitus type II is therefore not warranted.
+
+REASONS FOR REMAND
+
+Entitlement to service connection for hypertension associated with herbicide exposure is remanded.
+
+The Veteran claims entitlement to service connection for hypertension as due to in-service herbicide exposure.
+
+The Board notes that the AOJ favorably found that herbicide exposure had been verified based on the Veteran's confirmed service in Guam during the Vietnam War era.  See May 2024 rating decision.  Nevertheless, despite such finding and the Veterans assertions, the AOJ did not afford the Veteran a VA examination regarding his hypertension service connection claim.
+
+Under the AMA, the Board must remand to the AOJ to correct pre-decisional duty to assist errors (including when the AOJ failed to make reasonable efforts to obtain VA treatment records or relevant federal or private treatment records, failed to obtain a VA examination, or provided an inadequate VA examination or opinion).  38 C.F.R. § 20.802.
+
+In light of the above, the Board concludes that the low threshold to provide the Veteran a VA examination to determine the nature and etiology of his claimed disability has been met.  38 U.S.C. § 5103A(d)(2); 38 C.F.R. § 3.159(c)(4); McLendon v. Nicholson, 20 Vet. App.79 (2006).
+
+The matters are REMANDED for the following action:
+
+The Veteran must be afforded a VA examination by an examiner with appropriate expertise to determine the nature and etiology of the Veteran's claimed hypertension.  The examination report should note review of the claims folder, including this remand.
+
+Based on a review of the record and examination, the examiner must address: 
+
+a. Confirm the whether the Veteran suffers from hypertension.
+
+o In addressing this diagnosis, the VA examiner must discuss all studies, tests, and evaluations related to the Veteran's hypertension condition.  Any and all studies, tests, and evaluations that are deemed necessary by the VA examiner should be performed.
+
+o The VA examiner is advised that the Veteran is considered competent to be able to report injuries and symptoms, and that his reports must be considered in formulating the requested opinions.  If the Veteran's reports are discounted, the examiner should provide a reason for doing so.
+
+o A complete rationale should be given for all opinions and conclusions expressed.  If any opinion cannot be given without resorting to speculation, the examiner should explain why and state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), the record (additional facts are required), or the examiner does not have the knowledge or training that is necessary to provide the requested opinion.
+
+ 
+
+ 
+
+Michael J. Skaltsounis
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Aquino Ramos, Carlos M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

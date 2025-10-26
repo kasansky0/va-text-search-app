@@ -1,0 +1,61 @@
+Citation Nr: A25034403
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 241021-484489
+DATE: April 15, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from January 1997 to February 1997. 
+
+In the October 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the October 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+The Veteran submitted an argument with the VA Form 10182 that cited evidence that was not part of the claims file prior to the October 2023 decision. The Veteran and his attorney were notified in the November 2024 docketing letter that the Board could not consider the new evidence because he selected the direct review option. The Veteran was afforded the opportunity to switch AMA dockets within one year after the rating decision on appeal or 60 days after the Board received VA Form 10182, whichever is later, but he did not file a docket switch request. See Edwards v. McDonough, 36 Vet. App. 56 (2023).  Accordingly, the Board did not consider this evidence.
+
+As the Board is remanding the claim, however, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+Because the Veteran filed two VA Forms 10182 for his sleep apnea claim, both received on October 21, 2024, VA docketed two different appeal streams for the same issue. The docket numbers are 241021-484489 (the present appeal stream) and 241021-484089 (the duplicate appeal stream). Because both appeal streams are for the same claim and are based on the same rating decision, the Board has canceled the duplicate appeal stream.
+
+Turning to the claim, the Veteran seeks service connection for sleep apnea. He contends that his service-connected depression caused him to gain weight, which in turn caused his sleep apnea. 
+
+The general requirements for direct and secondary service connection notwithstanding, obesity is not considered a disease or disability for VA purposes and is not subject to service connection. See Marcelino v. Shulkin, 29 Vet. App. 155 (2018). VA's Office of General Counsel (OGC) issued a precedential opinion addressing questions regarding whether obesity may be considered a disability for purposes of secondary service connection. See VAOPGCPREC 1-2017 (Jan. 6, 2017). In general, OGC concluded that obesity may be an "intermediate step" between a service-connected disability and a current disability that may be connected on a secondary basis. Id. To meet the criteria, the Veteran must demonstrate the following: that the service-connected disability caused him to become obese; that obesity was a substantial factor in causing the secondary disability; and the secondary disability would not have occurred but for the obesity. See Walsh v. Wilkie, 32 Vet. App. 300, 306 (2020).
+
+Here, the Veteran submitted a positive private medical opinion in June 2023. The provider opined that it was at least as likely as not that the Veteran's weight gain was due to the depressive disorder and caused or aggravated his obstructive sleep apnea. This medical opinion does not address the specific criteria necessary to show that obesity acted as an intermediate step between the Veteran's service-connected depression and nonservice-connected sleep apnea. Moreover, the provider did not rely on facts specific to the case to support the opinion. Instead, the provider opined that he had service-connected disabilities "which can lead to and or cause pain, painful motion, sleep disturbances [], diminished motivation, and/or 'comfort' overeating." This is speculative language and does not show that the Veteran's service-connected depression caused him to gain weight.
+
+VA obtained an examination and medical opinion in October 2023, but the examiner did not address the Veteran's theory of secondary service connection despite noting that sleep apnea risk factors include being overweight. Accordingly, this opinion is not adequate. For these reasons, the Board finds that the AOJ committed a pre-decisional error by relying on this medical opinion and a remand is warranted for an addendum medical opinion. 
+
+The Board highlights that VA treatment records show the Veteran's body max index (BMI) was, at worst, 28.6 during the appeal period, which does not qualify as obese per the National Institute of Health standards. See NIH, Body Mass Calculator, https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm. Based on the private and VA medical opinions, however, the Board will seek an addendum opinion to assess whether his "overweight" status acted as an intermediate step similar to obesity. 
+
+The matter is REMANDED for the following action:
+
+Forward the claims file to a VA examiner for a medical opinion regarding the relationship between the Veteran's sleep apnea and service-connected depression. After a review of the claims file, the examiner should respond to the following:
+
+(a.) Is it at least as likely as not that the Veteran's service-connected depression caused or aggravated any weight gain?
+
+If yes, the examiner should opine whether it is at least as likely as not:
+
+(b.) That the weight gain was a substantial factor in causing his sleep apnea; and
+
+(c.) That his sleep apnea would NOT have occurred but for the weight gain caused by the service-connected depression?
+
+The examiner should consider the following evidence: 10/2022, 05/2023, 08/2023, 10/2023, and 11/2023 VA medical records in which the Veteran reports regular exercise; 10/13/2023 VA medical record in which the Veteran reports drinking on weekends and the writer explained that may be a reason he is gaining weight; 11/21/2023 VA medical record in which the Veteran reported his depression is improved and he is more motivated to exercise; the private medical opinion received 06/30/2023; and argument received on 10/21/2024.   
+
+ 
+
+ 
+
+MICHELLE L. KANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Lavan
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

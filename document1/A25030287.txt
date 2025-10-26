@@ -1,0 +1,93 @@
+Citation Nr: A25030287
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240327-427614
+DATE: April 2, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for bilateral hearing loss is denied. 
+
+FINDING OF FACT
+
+The Veteran's bilateral hearing loss disability has been manifested by hearing acuity of no worse than Level I in both ears. 
+
+CONCLUSION OF LAW
+
+The criteria for an initial compensable rating for a bilateral hearing loss disability have not been met. 38 U.S.C. §§ 1155, 5107(b); 38 C.F.R. §§ 4.1, 4.3, 4.2, 4.6, 4.7, 4.85, 4.86, Diagnostic Code (DC) 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 2003 to April 2004, from January 9, 2006, to January 13, 2006, from June 8, 2006, to June 23, 2006, from August 2006 to November 2006 and from December 2006 to February 2007.
+
+This appeal is being processed under the modernized review system, commonly referred to as the "AMA," as established by the Veterans Appeals Improvement and Modernization Act of 2017. 115 Pub. L. No. 55, 131 Stat. 1105.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a March 2024 rating decision issued by a Department of Veterans Affairs (VA) regional office, an agency of original jurisdiction (AOJ). 
+
+The Veteran timely initiated this appeal to the Board by submitting a March 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) and elected the Direct Review docket. The Board observes the Veteran submitted a VA Form 20-0996 Request for Higher-Level Review (HLR) the day before submitting the VA Form 10182. However, the Veteran was advised by VA that his HLR request was not appropriate. See July 2024 Correspondence. Because the AOJ rejected the higher-level review claim in July 2024, the Board finds there is not a concurrent election issue pursuant to 38 C.F.R. § 3.2500(b) and that this appeal is properly before the Board.  
+
+Based on the foregoing, the Board may only consider the evidence of record at the time of the AOJ's issuance of the decision on appeal (i.e., the March 2024 rating decision). 38 C.F.R. § 20.302.
+
+Evidence, to include VA and private treatment records, were associated with the claims file during a period of time when new evidence was not allowed. If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Increased Ratings
+
+Disability evaluations are determined by comparing a Veteran's present symptoms with criteria set forth in VA's Schedule for Rating Disabilities (Rating Schedule), which is based on average impairment in earning capacity. 38 U.S.C. § 1155; 38 C.F.R. Part 4. In order to evaluate the level of disability and any changes in condition, it is necessary to consider the complete medical history of the veteran's condition. Schafrath v. Derwinski, 1 Vet. App. 589, 594 (1991). If the disability more closely approximates the criteria for the higher of two ratings, the higher rating will be assigned; otherwise, the lower rating is assigned. 38 C.F.R. § 4.7. In general, it is not expected that all cases will show all the findings specified; however, findings sufficiently characteristic to identify the disease and the disability therefrom and coordination of rating with impairment of function will be expected in all instances. 38 C.F.R. § 4.21.
+
+"Staged" ratings are appropriate for an increased-rating claim when the factual findings show distinct time periods when the service-connected disability exhibits symptoms warranting different ratings irrespective of whether an initial or established rating. Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505, (2007). The effective date of an award of increased compensation should not be assigned mechanically based on the date of an examination. Rather, all facts should be examined to determine the earliest date that it is ascertainable that an increase in disability first manifested. Swain v. McDonald, 27 Vet. App. 219, 224 (2015). 
+
+Hearing loss is evaluated through the mechanical application of a veteran's audiometric test results to the rating tables set forth in the Rating Schedule under DC 6100. 38 C.F.R. § 4.85; Doucette v. Shulkin, 28 Vet. App. 366, 367 (2017).
+
+For VA compensation purposes, an examination for hearing impairment must be conducted by a state-licensed audiologist and must include a puretone audiometry test as well as a controlled speech discrimination test (Maryland CNC), without the use of hearing aids. 38 C.F.R. § 4.85(a).
+
+The Rating Schedule utilizes three tables to evaluate hearing impairment: Tables VI, VIA, and VII. Table VII is used to determine the percentage evaluation by combining Roman numeral designations for the level of hearing impairment in each ear. These Roman numeral designations are obtained from Tables VI or VIA. Table VI is based on a combination of puretone threshold average and speech discrimination percentage. The Roman numerals range from I to XI. A higher Roman numeral is assigned based on a combination of a higher puretone threshold average and a lower speech discrimination percentage score. If the use of speech discrimination score is not appropriate, then Table VIA is the appropriate source of the Roman numeral designation, which is based solely on puretone threshold average. 38 C.F.R. § 4.85(c). Puretone threshold average is the average of the puretone thresholds at the 1000, 2000, 3000, and 4000 Hertz (Hz) frequencies. 38 C.F.R. § 4.85(d). 
+
+Table VIA may be used for "exceptional patterns of hearing impairment," where the puretone thresholds at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hz) are 55 decibels (dB) or more, or where the puretone thresholds are 30 dB or less at 1000 Hz and 70 dB or more at 2000 Hz. 38 C.F.R. § 4.86. Where the puretone thresholds are 30 dB or less at 1000 Hz and 70 dB or more at 2000 Hz, the Roman numeral derived from Table VIA will be elevated to the next higher Roman numeral. 
+
+Entitlement to an initial compensable rating for bilateral hearing loss.
+
+The Veteran asserts he is entitled to a higher or compensable rating for his bilateral hearing loss. He reports difficulty hearing low voices, both in meetings and personal conversations. See March 2024 VA Form 10182 Notice of Disagreement. 
+
+By way of background, service connection for bilateral hearing loss was granted with a zero, or noncompensable, disability rating in a March 2024 rating decision effective March 2, 2024. As this appeal is one for a higher initial rating beginning March 2, 2024, the evidence to be considered is that covering the entirety of the period on review and is not limited to the present level of the Veteran's disability. See Fenderson, 12 Vet. App. at 126.
+
+During the period on review, the Veteran was afforded one VA audiological examination in March 2024.  At that time, as to functional impairment, the Veteran reported difficulty hearing at work meetings and difficulty hearing his family. Audiometric testing at the time resulted in the following:
+
+ 	 	 	HERTZ	 	 
+
+ 	1000	2000	3000	4000	Average
+
+RIGHT	30 dB 	45 dB 	55 dB	50 dB	45 dB
+
+LEFT	35 dB 	35 dB 	45 dB 	45 dB 	40 dB
+
+The examiner reported speech discrimination tests were appropriate for both ears, with a score of 98 percent in the right ear and 96 percent in the left ear. 
+
+The Board notes that, prior to being awarded service connection for bilateral hearing loss, the Veteran underwent a private hearing evaluation in February 2018. See private treatment record. The Veteran was assessed with mild-to-moderate notched sensorineural hearing loss from 1500 to 8000 Hz on the right and mild notched sensorineural hearing loss from 2000 to 6000 Hz on the left. Specific audiometric testing results were not provided. A word recognition score of 92 percent was reported bilaterally; however, the provider did not specify use of the Maryland CNC Test for word recognition that is required by VA regulation. See 38 C.F.R. § 3.385. The February 2018 audiological findings are thus inadequate for rating purposes and cannot be utilized by the Board to evaluate the Veteran's entitlement to an increased rating. 38 C.F.R. § 4.85(a). Therefore, the Board will not discuss the results of the examination further.
+
+The Board has considered the evidence of record in conjunction with the applicable laws and regulations and finds an initial compensable rating for bilateral hearing loss is not warranted. 
+
+As explained above, hearing loss is evaluated through the mechanical application of a veteran's audiometric test results to the rating tables set forth in the Rating Schedule under DC 6100. 38 C.F.R. § 4.85; Doucette, 28 Vet. App. at 367. Turning back to the results of the March 2024 VA audiological testing, applying the combination of the 45 dB puretone threshold average to a speech discrimination score of 98 percent to Table VI results in a designation of Roman numeral I for the right ear. Applying the combination of 40 dB puretone threshold average to speech discrimination score of 96 percent to Table VI results in designation of Roman numeral I for the left ear. Applying the results of Roman numeral I for the right and left ear to Table VII, the resulting rating percentage is zero under Diagnostic Code 6100.  38 C.F.R. § 4.85. 
+
+The Veteran asserts he is entitled to a higher disability rating because of his difficulty hearing in both his personal and professional life. See March 2024 VA Form 10182; March 2024 VA examination.  However, in Doucette, the Court recognized that the diagnostic criteria for hearing loss sufficiently contemplate the functional effects of decreased hearing and difficulty understanding speech in an everyday work environment because the audiometric tests are designed to measure precisely these effects. Doucette, 28 Vet. App. at 369. Thus, the Veteran has not demonstrated the March 2024 VA audiological examination is inadequate for rating purposes.
+
+In assessing the evidence of record, the Board recognizes the Veteran is competent to provide evidence regarding the lay observable symptoms of his hearing impairment. See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007); Layno v. Brown, 6 Vet. App. 465, 470 (1994). However, as audiometric testing conducted by a state-licensed audiologist is required to evaluate the severity of his hearing impairment for VA compensation purposes, the Veteran is not competent to provide evidence regarding the severity of his hearing loss in terms of puretone thresholds and speech discrimination percentage. Therefore, in that regard, the Board must rely on the medical evidence of record.
+
+A review of the claims file is negative for any other audiometric testing results other than the March 2024 VA examination during the period on review. Thus, the Board finds that the March 2024 VA examination is the most probative, competent evidence of record bearing on the severity of the Veteran's hearing impairment. See Madden v. Gober, 125 F.3d 1477, 1481 (Fed. Cir. 1997). 
+
+In sum, the Veteran has had no more than Level I hearing loss in the right ear and the left ear throughout the period on review.  The Veteran has described the functional impact of his hearing loss as difficulty understanding others in both personal and work environments, which is contemplated by the rating assigned. Doucette, 28 Vet. App. at 367. Finally, the exceptional patterns of hearing impairment set forth in 38 C.F.R. § 4.86 are not present.
+
+Consequently, the Board finds that the evidence of record persuasively weighs against an initial compensable rating for the Veteran's bilateral hearing loss disability. See Lynch v. McDonough, 21 F.4th 776, 781-82 (2021) (en banc). Accordingly, an initial compensable rating for the Veteran's bilateral hearing loss disability is denied.
+
+ 
+
+ 
+
+JONATHAN B. KRAMER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Long, Kindra F.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

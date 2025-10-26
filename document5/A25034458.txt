@@ -1,0 +1,83 @@
+Citation Nr: A25034458
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240525-443432
+DATE: April 15, 2025
+
+ORDER
+
+An initial rating in excess of 10 percent for lumbosacral strain is denied. 
+
+ 
+
+FINDINGS OF FACT
+
+The Veteran's lumbosacral strain is manifested by painful motion, and muscle spasms not resulting in abnormal gait or spinal contour. 
+
+CONCLUSIONS OF LAW
+
+The criteria for an initial rating in excess of 10 percent for lumbosacral strain have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.3, 4.7, 4.71a, Diagnostic Code (DC) 5237.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from April 2016 to April 2020. 
+
+This matter is on appeal from an October 2023 rating decision.
+
+In a May 2024 notice of disagreement (NOD), the Veteran elected the direct review docket.  The Board may only consider the evidence of record at the time of the May 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review with the October 2023 decision.  38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board has limited the discussion below to the relevant evidence required to support its finding of fact and conclusion of law, as well as to the specific contentions regarding the case as raised directly by the Veteran and those reasonably raised by the record.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Peake, 21 Vet. App. 545, 552 (2008).
+
+An initial rating in excess of 10 percent for lumbosacral strain. 
+
+Legal Criteria 
+
+Ratings are based on a schedule of reductions in earning capacity from specific injuries or combination of injuries.  The ratings shall be based, as far as practicable, upon the average impairments of earning capacity resulting from such injuries in civil occupations.  38 U.S.C. § 1155.  Generally, the degrees of disability specified are considered adequate to compensate for considerable loss of working time from exacerbations or illnesses proportionate to the severity of the several grades of disability.  38 C.F.R. § 4.1.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  When after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding the degree of disability such doubt will be resolved in favor of the claimant.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 4.3.
+
+The General Rating Formula for evaluating the spine provides for a 10 percent disability rating for forward flexion of the thoracolumbar spine greater than 60 degrees but not greater than 85 degrees; combined range of motion of the thoracolumbar spine greater than 120 degrees but not greater than 235 degrees; muscle spasm, guarding, or localized tenderness not resulting in abnormal gait or abnormal spinal contour; or vertebral body fracture with loss of 50 percent or more of the height.  A 20 percent disability rating is assigned for forward flexion of the thoracolumbar spine greater than 30 degrees but not greater than 60 degrees; the combined range of motion of the thoracolumbar spine not greater than 120 degrees; or muscle spasm or guarding severe enough to result in an abnormal gait or abnormal spinal contour such as scoliosis, reversed lordosis, or abnormal kyphosis.  A 40 percent disability rating is assigned for forward flexion of the thoracolumbar spine to 30 degrees or less or favorable ankylosis of the entire thoracolumbar spine.  A 50 percent disability rating is assigned for unfavorable ankylosis of the entire thoracolumbar spine.  A 100 percent rating is warranted for unfavorable ankylosis of the entire spine.  38 C.F.R. § 4.71a.
+
+Following the rating criteria, Note 1 states: evaluate any associated objective neurologic abnormalities, including, but not limited to, bowel or bladder impairment, separately, under an appropriate DC.  Note 2 explains that the "combined range of motion" refers to the sum of the range of forward flexion, extension, left and right lateral flexion, and left and right rotation. 
+
+Under the Formula for Rating intervertebral disc syndrome (IVDS) Based on Incapacitating Episodes, a 10 percent rating is warranted with incapacitating episodes having a total duration of at least 1 week but less than 2 weeks during the past 12 months; a 20 percent rating is warranted for incapacitating episodes having a total duration of at least two weeks but less than four weeks during the past 12 months; a 40 percent rating is warranted for incapacitating episodes having a total duration of at least four weeks but less than six weeks during the past 12 months; and a 60 percent rating is warranted for incapacitating episodes having a total duration of at least 6 weeks during the past 12 months.  38 C.F.R. § 4.71a, DC 5243.
+
+When evaluating musculoskeletal disabilities based on limitation of motion, 38 C.F.R. § 4.40 requires consideration of functional loss caused by pain or other factors listed in that section that could occur during flare-ups or after repeated use and, therefore, not be reflected on range-of-motion testing.  38 C.F.R. § 4.45 requires consideration also be given to less movement than normal, more movement than normal, weakened movement, excess fatigability, incoordination, and pain on movement.  See DeLuca v. Brown, 8 Vet. App. 202 (1995).  Nonetheless, even when the background factors listed in § 4.40 or 4.45 are relevant when evaluating a disability, the rating is assigned based on the extent to which motion is limited, pursuant to 38 C.F.R. § 4.71a; a separate or higher rating under § 4.40 or 4.45 itself is not appropriate.  See Thompson v. McDonald, 815 F.3d 781, 785 (Fed. Cir. 2016) ("[I]t is clear that the guidance of § 4.40 is intended to be used in understanding the nature of the veteran's disability, after which a rating is determined based on the § 4.71a criteria.").
+
+Analysis 
+
+The Veteran is currently rated at 10 percent under DC 5237 for his lumbosacral strain. 
+
+The Veteran did not make any specific contentions outside the filing of his May 2024 NOD. 
+
+In April 2023, the Veteran was afforded a VA examination to assess the severity of his lumbosacral strain.  The Veteran reported increased lower back discomfort and pain after his eight-hour work shifts that require him to stand on his feet all day.  He also indicated that his work causes an increase in lower back muscle spasms.  
+
+Range of motion (ROM) testing measured forward flexion endpoint to 90 degrees and extension endpoint to 30 degrees.  The Veteran's right and left lateral flexion and rotation endpoint measured to 30 degrees.  Pain was noted on forward flexion and extension.  Passive motion ROM measured the same as active motion ROM with pain on forward flexion and extension.  The Veteran also exhibited pain on weight-bearing.  The Veteran was able to perform repetitive use testing with at least three repetitions without loss of function or ROM.  The Veteran was not able to perform repeated use over time ROM testing, however, the examiner estimated the Veteran's ROM after repeated use over time as forward flexion endpoint 80 degrees and extension 25 degrees.  The examiner also estimated the Veteran's bilateral flexion endpoint and rotation as 30 degrees.  The examiner noted that repeated use over time causes increased pain and results in decreased ROM.  
+
+The examiner did not find evidence of crepitus and the Veteran did not report experiencing flare-ups.  The Veteran reported muscle spasms, and the examiner noted thoracolumbar muscle spasms that cause pain with palpation of the Veteran's lower back.  However, the examiner noted that the muscle spasms do not result in abnormal gait or abnormal spinal contour.  The Veteran did not report guarding.  
+
+Muscle strength testing yielded normal results, and the examiner did not find evidence of muscle atrophy.  The Veteran's reflexes were normal, and the Veteran did not report any neurological abnormalities.  The Veteran did not have any signs of radiculopathy, nor were there any signs of ankylosis.  The examiner did not find any evidence of IVDS) 
+
+Based on the foregoing evidence, the Board finds that the Veteran's impairment during the period of review most closely approximates the criteria associated with the 10 percent rating.  Here, the evidence within the period of review is generally associated with pain and muscle spasms, which are accounted for with the 10 percent rating.  Additionally, the Veteran's muscle spasms are not severe enough to result in an abnormal gait or spinal contour, which is required for a 20 percent rating.  The evidence does not show forward flexion of the thoracolumbar spine limited to 60 degrees or less, or a combined ROM not greater than 120 degrees.  The evidence of record also does not show favorable ankylosis of the entire cervical or thoracolumbar spine.  
+
+The Board acknowledges the Veteran's lay reports that his work shifts result in lower back pain and muscle spasms.  Even when considering the functional limitations, the Board finds that the Veteran's disability picture or any additional limitation does not more nearly approximate the entire thoracolumbar spine fixed in flexion or extension, and one of the additional symptoms set forth in the General Formula Note 5 or the functional equivalent of ankylosis.  See Chavis v. McDonough, 34 Vet. App. 1, 20 (2021).  Furthermore, the Board has not considered any ameliorative effects of medication in assessing the severity of the condition.  Therefore, a rating in excess of 10 percent under DC 5237 is not warranted.
+
+Additionally, all potentially applicable DCs have been considered.  As the evidence does not show IVDS, DC 5243 does not apply.  The evidence also does not show associated objective neurologic abnormalities for which a separate rating may be assigned.
+
+Accordingly, the evidence is persuasively against the claim.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and an initial rating in excess of 10 percent for the Veteran's lumbosacral strain is not warranted.  See 38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 4.3.
+
+ 
+
+ 
+
+RYAN T. KESSEL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Fyffe, Michael C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

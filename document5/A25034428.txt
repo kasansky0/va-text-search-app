@@ -1,0 +1,85 @@
+Citation Nr: A25034428
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240508-450330
+DATE: April 15, 2025
+
+ORDER
+
+The overpayment of VA compensation benefits in the amount of $1,751.27 is not valid; the appeal is granted.
+
+Waiver of recovery of an overpayment of VA compensation benefits in the amount of $1,751.27 is dismissed.
+
+?
+
+FINDINGS OF FACT
+
+1. The overpayment of VA compensation benefits in the amount of $1,751.27 was the result of sole VA error.
+
+2. The claim for a waiver of recovery of the overpayment of VA compensation benefits in the amount of $1,751.27 is moot.
+
+CONCLUSIONS OF LAW
+
+1. The debt due to an overpayment of VA compensation benefits in the amount of $1,751.27 is not valid.  38 U.S.C. § 5112; 38 C.F.R. § 3.500.
+
+2. The criteria for dismissal of waiver of recovery of an overpayment of VA compensation benefits in the amount of $1,751.27 are met.  38 U.S.C. § 7105; 38 C.F.R. § 20.104.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from November 1989 to April 1993.
+
+The case is on appeal from a February 2024 Regional Office (RO) decision and a March 2024 decision of the Committee on Waivers and Compromises (COWC).
+
+In the May 2024 Notice of Disagreement (NOD), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the February and March 2024 decisions on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the decisions on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The May 2024 NOD as to the denial of a waiver asserting administrative error in the creation of the debt was also timely as to the validity of the overpayment.  Thus, both issues are on appeal.
+
+1. Validity of an overpayment of VA compensation benefits in the amount of $1,751.27.
+
+Legal Criteria
+
+An overpayment is created when VA determines that a beneficiary or payee has received monetary benefits to which he or she is not entitled.  See 38 U.S.C. § 5302; 38C.F.R. § 1.962.  An overpayment may arise from virtually any benefits program administered pursuant to VA law, including pension, compensation, dependency and indemnity compensation, educational assistance benefits and subsistence allowance, insurance benefits, burial and plot allowances, clothing allowance, and automobile or other conveyance and adaptive equipment allowances.  See 38 C.F.R. § 1.956(a).
+
+For the Board to determine whether the overpayment was created properly, it must be established that the Veteran was not entitled legally to the benefits in question, and if there was no legal entitlement, it must then be shown that VA was not solely responsible for the Veteran being paid benefits erroneously.  If the debt was the result solely of administrative error, the effective date of the reduction of benefits would be the date of the last payment based on this error, and consequently there would be no overpayment charged to the veteran for the portion of the overpayment attributable to administrative error.  38 U.S.C. § 5112(b)(10); 38 C.F.R. § 3.500(b)(2).
+
+Administrative errors include all administrative decisions of entitlement, whether based upon mistake of fact, misunderstanding of controlling regulations or instructions, or misapplication of law.  VAOPGPREC 2-90 (July 17, 1989).  Sole administrative error connotes that the appellant neither had knowledge of nor should have been aware of the erroneous award.  Further, neither the appellant's actions nor the appellant's failure to act must have contributed to payment pursuant to the erroneous award.  Jordan v. Brown, 10 Vet. App. 171 (1997) (sole administrative error is not present if the payee knew, or should have known, that the payments were erroneous).  Thus, a finding of sole administrative error requires not only error on the part of VA, but that the beneficiary is unaware that the payments are erroneous.
+
+Analysis
+
+The overpayment in this case is the result of retroactive removal of dependent benefits for a child who attained the age of 18.  As noted above, the Veteran maintains he was not at fault in the creation of the debt.  See May 2024 NOD.
+
+In an April 2021 letter, the RO notified the Veteran that additional information was needed to determine whether additional dependent benefits were warranted and provided a Form 21-674 (Request for Approval of School Attendance).  
+
+In a May 2021 VA 21-4138 (Statement in Support of Claim), the Veteran stated that his daughter, K., had her 18th birthday earlier that month.  He added that her birth year was incorrectly listed as 2008 in the system and requested that it be corrected to 2003 to avoid an overpayment.  See also May 2021 Birth Certificate.  The RO did not adjust the Veteran's award at that time.
+
+An August 2023 VA 27-0820 (Report of General Information) reflects the Veteran's request for removal of additional dependent benefits for K. because she was over the age of 18 and not enrolled in school.
+
+In February 2024, the RO notified the Veteran that additional benefits for K. had been removed, effective May 5, 2021, which resulted in an overpayment.
+
+As noted above, the record reflects that the Veteran promptly notified the RO of the K.'s 18th birthday.  It is unclear as to why the RO failed to take action after the receipt of this information.  Nonetheless, the RO failed to adjust his compensation award until February 2024, approximately three years later, which resulted in the overpayment.  
+
+The Board notes that there has been a recent change in this area of the law.  The VA Beneficiary Debt Collection Improvement Act of 2022, 136 Stat. 5462, Pub. Law 117-328, states that a debt arising from an overpayment due to delay in processing shall not arise when it is attributable to the failure of an employee or official of the Department to process information provided by or on behalf of that individual within applicable timeliness standards established by the Secretary (codified at § 5302B).  Although VA has not yet implemented regulations for this statute, the law is now on the side of beneficiaries such as the Veteran in this case who have experienced the efforts of a federal agency seeking to recoup benefits paid many years earlier (in the absence of any fraud, deceit, misrepresentation, or other malfeasance by the claimant).
+
+Here, the Board finds that the creation of the overpayment was due to administrative error on the part of VA, without any fault of the Veteran.  Despite the Veteran's timely notice of K.'s 18th birthday and request for removal of additional dependent benefits for K., the RO delayed in adjusting the Veteran's award for several years.  The record supports that the Veteran's actions or failure to act did not contribute to the overpayment, particularly when resolving doubt in the Veteran's favor.
+
+In this case, the Board concludes that there was sole VA error.  Therefore, the debt was not validly created and VA should return the recouped amount of the $1,751.27 to the Veteran.  The Veteran was overpaid compensation benefits in the amount of $1,751.27.  The Veteran did not play any role in this overpayment.  Rather, as noted above, he not only promptly notified the RO of K.'s 18th birthday and that she was not attending school, but also requested that she be removed as his dependent from his award.  Thus, the Board finds it entirely reasonable that he had no knowledge of the RO's error in failing to remove K. from his award, but rather believed his benefits had been adjusted and/or were being paid accordingly in a correct manner, particularly when resolving doubt in the Veteran's favor.
+
+In sum, the Board finds that the Veteran neither had knowledge of nor should have been aware of the erroneous award of benefits for K. after her 18th birthday and the error in K. not being removed was not due to the Veteran's actions or failure to act.  Rather, it was solely due to the RO's failure to act which in this case constitutes sole VA administrative error.  Therefore, the Board finds that under the circumstances of this case, the debt due to an overpayment of VA compensation benefits in the amount of $1,751.27 is not valid.
+
+2. Waiver of recovery of an overpayment of VA compensation benefits in the amount of $1,751.27.
+
+The claim for a waiver of recovery of the overpayment has been rendered moot by virtue of the Board's invalidation of the debt herein and the current appeal with respect to waiver of recovery of the overpayment is dismissed as moot.  38 U.S.C. § 7105(d)(5); 38 C.F.R. § 20.104(c).
+
+ 
+
+ 
+
+RYAN T. KESSEL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Taylor
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

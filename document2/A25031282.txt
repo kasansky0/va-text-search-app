@@ -1,0 +1,75 @@
+Citation Nr: A25031282
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 250327-522473
+DATE: April 4, 2025
+
+REMANDED
+
+Entitlement to an initial increased rating in excess of 10 percent for gastroesophageal reflux disease (GERD) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from November 1951 to July 1974.
+
+This claim comes before the Board of Veterans' Appeals (Board) from a September 2024 Department of Veterans Affairs (VA) Higher Level Review rating decision, which reviewed a June 2024 rating decision.
+
+In the March 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the June 2024 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+However, because the Board is remanding the claim of entitlement to an initial increased rating in excess of 10 percent for GERD, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim. 38 C.F.R. § 3.103 (c)(2)(ii).
+
+Although the period to change dockets per 38 C.F.R. § 20.202(c)(2) has not elapsed, a docket switch waiver letter (see Williams v. McDonough, No. 21-7363, U.S. Vet. App. June 21, 2024) is not necessary because the Veteran, through his representative, explicitly waived the Williams period and requested that a decision be expedited on his claim. See March 2025 VA Form 10182. As such, there is no prejudice to the Veteran in proceeding to adjudicate the issue on appeal. 
+
+1. Entitlement to an initial increased rating in excess of 10 percent for gastroesophageal reflux disease (GERD) is remanded.
+
+The Veteran contends that his GERD warrants a higher initial rating than is currently assigned.
+
+Under the AMA, only pre-decisional duty to assist errors, including those relating to examinations, are eligible for remand. 
+
+In a September 2024 Informal Conference and on the March 2025 10182, the Veteran's representative argued that there was a pre-decisional duty to assist error because the VA examiner did not discount the ameliorative effects of medication on the Veteran's GERD. The Veteran's representative cited to Jones v. Shinseki, 26 Vet. App. 56 (2012), which holds that when a diagnostic code is silent as to the effects of medication, VA may not deny entitlement to a higher disability rating based on the relief provided by the medication.
+
+Additionally, in a recent decision, Ingram v. Collins, 2025 U.S. App. Vet. Claims LEXIS 327, the United States Court of Appeals for Veterans Claims (Court) found that when diagnostic codes and special regulations do not explicitly contemplate medication use when rating a disability, the Board must discount the beneficial effects of medication when assigning an evaluation for that disability. 
+
+The Veteran's GERD is rated under Diagnostic Code (DC) 7346, which provides that a 10 percent rating is warranted for disability manifested by two or more of the symptoms for the 30 percent evaluation of less severity. A 30 percent rating is warranted for persistently recurrent epigastric distress with dysphagia (difficulty swallowing), pyrosis (heartburn), and regurgitation, accompanied by substernal or arm or shoulder pain, causing considerable impairment of health. A 60 percent rating, the maximum available, is warranted for symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health. 38 C.F.R. § 4.114, DC 7346.
+
+The Board is aware VA revised the schedule of ratings for the digestive system (38 C.F.R. § 4.114), effective May 19, 2024. See 89 Fed. Reg. 19,735 (Mar. 20, 2024). One revision was the creation of a specific DC for GERD, DC 7206. DC 7346 was also amended. In the context of this decision, the Board may not apply a current regulation prior to its effective date unless the regulation explicitly provides otherwise. See Kuzma v. Principi, 341 F.3d 1327 (Fed. Cir. 2003). While DC 7206 explicitly contemplates medication usage, it does not apply to the claim at issue. DC 7346, as detailed above, does not contemplate medication usage and therefore Jones and Ingram apply.  
+
+The Veteran underwent VA examinations for his GERD in March 2024 and April 2024. Both examiners noted that the Veteran takes 20mg of Prilosec per day to treat his GERD. Neither examiner addressed the severity of the Veteran's GERD without the ameliorative effects of medication. 
+
+The Board is not permitted to substitute its own medical judgment for that of medical professionals. Colvin v. Derwinski, 1 Vet. App. 171 (1991) (stating that the Board may consider only independent medical evidence to support their findings and that if the Board finds that the medical evidence of record is insufficiency, then it may supplement the record by seeking an advisory opinion or ordering a medical examination). Therefore, a remand is required to obtain an addendum opinion on the severity of the Veteran's GERD without the ameliorative effects of medication, as the pre-decisional medical record of evidence is insufficient to determine what the severity of the Veteran's GERD would be without medication. 
+
+The matter is REMANDED for the following action:
+
+1. Obtain an addendum VA medical opinion from an appropriately qualified examiner addressing what the severity of the Veteran's tension headaches would be when discounting any beneficial effects of medication. Provide the claims file, including a copy of this REMAND, to the examiner for review. Only if deemed necessary to provide the opinion, should the Veteran be afforded a new VA examination. 
+
+After discounting the beneficial effects of medication, the examiner must opine on the severity of the Veteran's GERD, including whether the Veteran's GERD would have been productive of: 
+
+(a) Persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal arm or shoulder pain, productive of considerable impairment of health; or,
+
+(b) Symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia, or other symptoms productive of severe impairment of health. 
+
+In providing an opinion, the examiner must consider the March 2024 and April 2024 examiners' findings that the Veteran takes 20mg of Prilosec daily to treat his GERD. 
+
+(Continued on the next page)
+
+?
+
+The examiner must set forth a complete rationale for any conclusion reached, citing to medical literature and/or evidence in the Veteran's claims file as necessary.
+
+If an opinion cannot be reached without resorting to speculation, the examiner must fully explain why that is so.
+
+ 
+
+ 
+
+LESLEY A. REIN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	R. Eisenberg
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

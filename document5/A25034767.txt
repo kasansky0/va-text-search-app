@@ -1,0 +1,67 @@
+Citation Nr: A25034767
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 210604-353666
+DATE: April 15, 2025
+
+ORDER
+
+The appeal concerning entitlement to payment of the cost of non-Department of Veterans Affairs (VA) medical services provided on January 26, 2021, is denied.
+
+FINDING OF FACT
+
+The non-emergency, non-VA medical services performed on January 26, 2021, were not authorized by VA.
+
+CONCLUSION OF LAW
+
+There is no legal basis for payment or reimbursement of medical expenses incurred on January 26, 2021.  38 U.S.C. §§ 1703, 1725, 1728; 38 C.F.R. §§ 17.120, 17.1002, 17.4000-17.4040.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The appellant, Aegis Sciences Corporation, is a non-VA healthcare provider who rendered services to the Veteran on January 26, 2021.  See generally 38 U.S.C. § 1703(c), (h).
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a determination made by a VA Veterans Health Administration (VHA) Agency of Original Jurisdiction (AOJ) that denied payment of the expenses of non-VA medical services provided by the appellant on January 26, 2021. 
+
+In a June 2021 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the appellant elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.?  38 C.F.R. §§?20.300, 20.301, 20.801.? 
+
+If the appellant would like VA to consider any evidence that was submitted that the Board could not consider, the appellant may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.?  38 C.F.R. §?3.2501.?  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.? Id.?  Specific instructions for filing a Supplemental Claim are included with this decision.? 
+
+However, as discussed below, the Board is not denying any matter on appeal based on any disputed factual matter, but rather on the basis that the appellant is not entitled to payment as a matter of law.? 
+
+Entitlement to payment of the cost of non-VA medical services provided on January 26, 2021.
+
+The AOJ denied payment for the non-emergency medical services of diagnostic COVID-19 testing furnished by?the appellant?on January 26, 2021, pursuant to?38 U.S.C. § 1703, on the basis that such services had not been authorized by VA as was required for payment.  In a February 2021 Explanation of Payment, the appellant was notified that no authorization number was submitted on the claim, which was a billing requirement for pre-approved care.  The appellant was instructed to resubmit the claim with the authorization number if approved. "If authorized through a VA third party administrator, please submit claim to them for adjudication."
+
+The appellant appealed in June 2021 asserting that the services for COVID-19 testing were medically necessary and generally referencing the Families First Coronavirus Response Act (FFCRA) and the Coronavirus, Aid, Relief and Economic Security Act (CARES Act) and guidance issued by the Department of Labor, Department of Health and Human Services, and the Department of the Treasury.  The provider asserted that, in essence, the laws mandated that VA pay the full amount requested by Aegis Sciences Corporation of expenses of a COVID-19 test. 
+
+In a Report of Contact dated in October 2022 the AOJ noted that the claim is being denied because, in substance, there was no pre-authorization for the services.  Additionally, the Board finds that the record is negative for the Veteran having received the treatment because of an emergent event.  
+
+In general, non-VA care and medical services that will be paid for by VA through the Veterans Community Care Program must be authorized in advance.  See?38 C.F.R. § 17.4020.  In the absence of such VA authorization, in order to be entitled to payment or reimbursement of medical expenses incurred at a non-VA facility, certain conditions including that the treatment was for a medical emergency must be met.  See?38 U.S.C. §§ 1725, 1728. 
+
+Here, the COVID-19 testing services provided by Aegis Sciences Corporation were not emergency treatment and not authorized by VA, and the appellant has not argued otherwise. 
+
+The Board takes notice that the Office of Community Care announced a policy by VA to temporarily reimburse all COVID-19 testing claims for eligible veterans.  On Community Care's "Provider News" webpage and in a January 2021 bulletin, VA specifically stated that "COVID-19 testing and service with dates of service prior to January 1, 2021, that were not authorized (do not have a VA referral) can be submitted to VA for payment," but claims for dates of service after January 1, 2021, must be approved via VA referral or otherwise meet urgent or emergent care eligibility requirements to warrant payment.  See Message from the Veterans Health Administration Office of Community Care, Update: COVID-19 Testing and Treatment Reimbursement, U.S. DEPT. OF VETERANS AFFAIRS (https://content.govdelivery.com/accounts/USVHA/bulletins/2ba897e (last accessed March 13, 2025)). 
+
+As the COVID-19 diagnostic testing in question was provided after January 1, 2021, the announced Community Care Program policy is inapplicable.  Therefore, relevant VHA policy was that prior approval of the COVID-19 related services was needed for testing on January 26, 2021.
+
+To the extent that the appellant argues that VA should retroactively authorize payment, or should have authorized payment previously, the appellant is contesting a VA decision regarding whether to furnish services to a Veteran through a non-VA provider under?38 U.S.C. § 1703(d) and/or (e).  However, such decisions are statutorily barred from being appealed to the Board.  38 U.S.C. § 1703(f) ("The review of any decision under subsection (d) or (e) shall be subject to the Department's clinical appeals process, and such decisions may not be appealed to the?Board of Veterans' Appeals").  As the Board has no authority to review these contentions, they provide no legal basis for reimbursement. 
+
+(Continued on the next page)
+
+?
+
+As discussed above,?38 C.F.R. §§ 17.4010?and 17.4020(a) explicitly require VA authorization of non-VA medical services for VA payment of such services.?  As there was no VA authorization of the January 26, 2021, non-emergency?COVID-19 testing services performed by?the appellant, which the appellant does not dispute, there is no legal basis for VA payment of such expenses.?  Accordingly, the appellant's claim for payment of the expenses of such services must be denied.?  See Sabonis v. Brown,?6?Vet. App.?426, 430?(1994).
+
+ 
+
+ 
+
+John J. Crowley
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Werner, Neil T.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

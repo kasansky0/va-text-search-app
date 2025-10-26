@@ -1,0 +1,77 @@
+Citation Nr: A25034740
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240821-466533
+DATE: April 15, 2025
+
+ORDER
+
+The claim for pension benefits in excess of those already awarded is denied.  
+
+FINDING OF FACT
+
+VA correctly calculated the Veteran's income and medical expenses.
+
+CONCLUSION OF LAW
+
+The criteria for payment of pension benefits in excess of those already awarded have not been met.  38 U.S.C. §§ 101, 1503, 1521, 1543, 5312; 38 C.F.R. §§ 3.3, 3.21, 3.23, 3.271, 3.272, 3.273, 3.274.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from June 1971 to June 1975. 
+
+In April 2024, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a February 2024 decision.  In July 2024, VA issued the HLR decision on appeal, which considered the evidence of record at the time of the prior February 2024 decision.  
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the February 2024 decision, which was subsequently subject to higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after VA issued the February 2024 decision, which was subsequently subject to higher-level review, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Entitlement to pension benefits in excess of those already awarded. 
+
+The Veteran seeks pension benefits in excess of those already awarded.  Specifically, he contends that since his income is below the maximum annual pension rate (MAPR), he is entitled to the full pension amount. 
+
+The Veteran is in receipt of pension benefits in the amount of $121 per month from November 1, 2023, and in the amount of $122 per month from February 1, 2024. 
+
+Basic entitlement to pension exists if, among other things, the claimant's income is not in excess of the MAPR specified in 38 C.F.R. § 3.23.  38 U.S.C. § 1521; 38 C.F.R. § 3.3(a)(3).
+
+Countable income and excludable expenses are based on 12-month annualization periods.  38 C.F.R. §§ 3.271, 3.272.  Annualization periods have two types, the initial annualization period and calendar years.  After the initial year, countable income is generally based on the calendar year.  When the initial annualization period and the first calendar year beginning after the initial award overlap, the greater benefit is awarded.
+
+In determining annual income, all payments of any kind or from any source (including salary, retirement or annuity payments, or similar income, which has been waived) shall be included during the 12-month annualization period in which received, except for listed exclusions.  38 U.S.C. § 1503(a); 38 C.F.R. § 3.271(a).  Income from the Social Security Administration (SSA) is not specifically excluded under 38 C.F.R. § 3.272.  Such income is therefore included as countable income.
+
+For purposes of calculating pension benefits, total income may be reduced by amounts equal to amounts paid by a claimant for unreimbursed medical expenses that were "in excess of 5 percent of the applicable maximum annual pension rate or rates... as in effect during the 12-month annualization period in which the medical expenses were paid."  38 C.F.R. § 3.272(g)(1)(iii).
+
+For the purpose of determining initial entitlement or resuming payments on an award that was previously discontinued, the monthly rate of pension shall be computed by reducing the applicable maximum pension rate by the countable income on the effective date of entitlement and dividing the remainder by twelve.  38 C.F.R. § 3.273 (a).
+
+Turning to the evidence of record, on his October 10, 2023, VA Form 21P-527EZ, Application for Veterans Pension, the Veteran reported receiving $1,156 per month in SSA benefits.  However, a SSA letter for 2023 submitted with his claim reflects the Veteran received $1,320.90 per month ($15,850.80 yearly) in benefits and paid $164.90 per month ($1,978.80 yearly) in Medicare premiums.  
+
+A January 2024 SSA Inquiry report reflects that effective December 1, 2023, the Veteran's benefit increased to $1,362.70 per month ($16,352.40 yearly), and that his Medicare premium increased to $174.70 per month ($2,096.40 yearly). 
+
+As is pertinent for this case, for the initial annualization period, income will be counted from the date of the claim through the end of the month that is twelve months after that day, or October 31, 2024.
+
+The MAPR effective December 1, 2022, for a veteran without dependents is $16,037, and five percent of the applicable MAPR is $801.  See Veterans Benefits Administration, Past rates: 2023 VA pension rates for Veterans at https://www.va.gov/pension/veterans-pension-rates/past-rates-2023/.  Therefore, in calculating the Veteran's countable income, only unreimbursed medical expenses in excess of $801 can be considered. 
+
+For the initial annualization year beginning October 10, 2023, the evidence of record reflects the Veteran had unreimbursed medical expenses of $1,978.80.  Deducting $801 from $1,978.80 results in $1,177.80 in countable unreimbursed medical expenses.  Deducting countable unreimbursed medical expenses of $1,177.80 from the Veteran's income of $15,850.80 results in a countable income of $14,673.  Deducting the Veteran's countable income of $14,673 from the applicable MAPR of $16,037 results in a yearly pension benefit of $1,364, or $113 per month. 
+
+Here, VA calculated a pension benefit of $121 per month payable from November 1, 2023, and the Board will not disturb this favorable finding. 
+
+Even if the Board were to consider the increase in income and medical expenses during the initial annualization period, it would not result in a greater payable benefit to the Veteran.  Here, the Veteran would have $2,086.60 in unreimbursed medical expenses (one month of Medicare premiums at $164.90 for November 2023 and eleven months at $174.70 per month for December 2023 through October 2024).  Deducting $801 from $2,086.60 results in $1,285.60 in countable unreimbursed medical expenses.  Deducting countable unreimbursed medical expenses of $1,285.60 from the Veteran's income of $16,310.60 (one month of SSA benefits at $1,320.90 and eleven months at $1,362.70 per month for December 2023 through October 2024) results in a countable income of $15,025.  Deducting the Veteran's countable income of $15,025 from the applicable MAPR of $16,037 results in a yearly pension benefit of $1,012, or $84 per month.
+
+For the first calendar year after the initial annualization period, the MAPR effective December 1, 2023, for a veteran without dependents is $16,551, and five percent of the applicable MAPR is $827.  See Veterans Benefits Administration, Past rates: 2024 VA pension rates for Veterans at https://www.va.gov/pension/veterans-pension-rates/past-rates-2024/.  Therefore, in calculating the Veteran's countable income, only unreimbursed medical expenses in excess of $827 can be considered. 
+
+From December 1, 2023, the evidence of record reflects the Veteran had unreimbursed medical expenses of $2,096.40.  Deducting $827 from $2,096.40 results in $1,269.40 in countable unreimbursed medical expenses.  Deducting countable unreimbursed medical expenses of $1,269.40 from the Veteran's income of $16,352.40 results in a countable income of $15,083.  Deducting the Veteran's countable income of $15,083 from the applicable MAPR of $16,551 results in a yearly pension benefit of $1,468, or $122 per month. 
+
+The Board acknowledges the Veteran's contention that he should be awarded the full pension amount as his income is below the MAPR.  However, the maximum rate for a veteran's pension is reduced dollar for dollar by the amount of the countable annual income of the veteran.  38 U.S.C. § 1521; 38 C.F.R. § 3.23(d).  The Board is sympathetic to the Veteran's argument but is bound by the law and is without authority to grant an appeal on an equitable basis.  See 38 U.S.C. §§ 503, 7104.
+
+Accordingly, the evidence is persuasively against the claim for pension benefits in excess of those already awarded.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable, and the Veteran's claim is denied.
+
+ 
+
+ 
+
+K. Parakkal
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Owen, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,89 @@
+Citation Nr: A25031614
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240123-410940
+DATE: April 7, 2025
+
+ORDER
+
+Service connection for migraine and tension headaches is granted.
+
+Service connection for obstructive sleep apnea is granted. 
+
+FINDINGS OF FACT
+
+1. It is at least as likely as not that the Veteran's migraine and tension headaches were caused by his service-connected posttraumatic stress disorder (PTSD).
+
+2. It is at least as likely as not that the Veteran's obstructive sleep apnea was caused by his service-connected PTSD.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for migraine and tension headaches have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+2. The criteria for service connection for obstructive sleep apnea have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from January 2006 to August 2006 and from December 2007 to October 2008. This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2023 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO), also known as the Agency of Original Jurisdiction (AOJ). 
+
+In a January 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran appealed the October 2023 rating decision to the Board and selected direct review. Accordingly, the Board may only consider the evidence of record at the time of the October 2023 rating decision. The Board cannot consider evidence submitted during the period after the agency of original jurisdiction (AOJ) issued the decision on appeal. See 38 C.F.R. § 20.301. 
+
+The Board notes that the Veteran's claims for service connection for headaches and sleep apnea were previously denied in prior rating decisions. In the October 2023 rating decision on appeal, the AOJ determined that new and relevant evidence had been received to warrant readjudication of those claims. The Board is bound by this favorable finding and therefore, will proceed with adjudication of the claims on the merits. See 38 U.S.C. § 5104A; 38 C.F.R. § 3.104(c).
+
+Service Connection
+
+Service connection may be established for a disability resulting from disease or injury incurred in or aggravated by service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303. Generally, in order to prove service connection, there must be competent, credible evidence of (1) a current disability, (2) in-service incurrence or aggravation of an injury or disease, and (3) a nexus, or link, between the current disability and the in-service disease or injury. See, e.g., Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Pond v. West, 12 Vet. App. 341 (1999).
+
+Service connection may also be established for a disability which is due to or the result of a service-connected disability. 38 C.F.R. § 3.310(a). A disability which is aggravated by a service-connected disability may be service-connected to the degree that the aggravation is shown. 38 C.F.R. § 3.310(b); Allen v. Brown, 7 Vet. App. 439, 448-49 (1995); see also Spicer v. McDonough, 61 F.4th 1360, 1364 (Fed. Cir. 2023) (invalidating the requirement of "proximate cause" in favor of a broader "but-for" causation standard for secondary service connection).
+
+Additionally, service connection may not be granted for obesity, as it does not constitute a disease or injury for purposes of 38 U.S.C. §§ 1110 and 1131 or a disability for purposes of 38 C.F.R. § 3.310. See Marcelino v. Shulkin, 29 Vet. App. 155 (2018). However, obesity can be an intermediate step between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R. § 3.310. Walsh v. Wilkie, 32 Vet. App. 300, 305-06 (2020). In other words, service connection may be established on a secondary basis for a disability which would not have occurred but for obesity that was caused or aggravated by a service-connected disability. Id. 
+
+1. Entitlement to service connection for headaches
+
+The Veteran seeks service connection for headaches, which he asserts began during service and were caused by his service-connected PTSD. Upon review of the record, the Board finds that it is at least as likely as not that the Veteran's migraine and tension headaches was caused by his service-connected PTSD.
+
+With respect to a current disability, the record shows current diagnoses of migraine and tension headaches. Thus, the question before the Board is whether the Veteran's headaches were caused or aggravated by his service-connected PTSD.
+
+With respect to a nexus between the Veteran's headaches and his PTSD, the record contains several medical opinions. 
+
+In February 2021, a VA examiner opined that it is less likely than not that the Veteran's chronic headaches were caused by a specific exposure event during the Veteran's service in the Southwest Asia theater of operations. However, the examiner noted that factors potentially contributing to the Veteran's headaches were his service-connected PTSD and uncontrolled hypertension.  
+
+In July 2021, the Veteran submitted an opinion from a private nurse practitioner who reviewed the evidence of record and opined that it is at least as likely as not that the Veteran's current headaches are secondary to his service-connected PTSD. In support of this, the nurse practitioner cited to several studies which found an association between stress, anxiety, and PTSD and the development of chronic headaches. 
+
+In August 2021, another VA examiner opined that it is less likely than not that the Veteran's headaches were proximately caused by his service-connected PTSD. The examiner explained that PTSD can contribute to headaches due to the stress connected with PTSD, but the Veteran stated that his headaches began during service, and he was not diagnosed with PTSD until after service. 
+
+In March 2023, another VA examiner opined that it is at least as likely as not that the Veteran's migraine headaches were caused by his service-connected PTSD. In support of this, the examiner cited to a study which found a high prevalence of predisposition for the development of migraines due to PTSD. The examiner explained that while the exact mechanism is still unknown, a correlation between PTSD and headaches has been shown in the medical literature. 
+
+In sum, the record contains three competent medical opinions that support a link between the Veteran's current headaches and his PTSD. Although the August 2021 VA examiner provided a negative nexus opinion, that examiner acknowledged that PTSD can contribute to headaches. The examiner provided a negative nexus opinion because the Veteran's headaches reportedly began during service, which was before he was diagnosed with PTSD. However, VA treatment records show that the Veteran's mental health symptoms also reportedly began during service. Moreover, the August 2021 VA examiner's opinion supports a grant of service connection of a direct basis. Based on the foregoing, the Board finds that it is at least as likely as not that the Veteran's headaches were caused by his service-connected PTSD. Accordingly, service connection for migraine and tension headaches is granted. 
+
+2. Entitlement to service connection for obstructive sleep apnea
+
+The Veteran seeks service connection for obstructive sleep apnea, which he asserts was caused by his service-connected PTSD, to include as due to weight gain attributable to PTSD. In a July 2021 written statement, the Veteran indicated that due to his mental health condition, he feels fatigued, lacks motivation to exercise, and eats unhealthy foods for comfort, all of which have contributed to his weight gain. Upon review of the record, the Board finds that it is at least as likely as not that the Veteran's obstructive sleep apnea was caused by his service-connected PTSD.
+
+With respect to a current disability, the record shows a current diagnosis of obstructive sleep apnea. Thus, the question before the Board is whether the Veteran's sleep apnea was caused or aggravated by his service-connected PTSD.
+
+With respect to a nexus between the Veteran's sleep apnea and PTSD, the record contains conflicting medical opinions. 
+
+In June 2021, the Veteran submitted an opinion from a private nurse practitioner who reviewed the evidence of record and opined that it is at least as likely as not that: (1) the Veteran's weight gain and obesity are due to his PTSD, (2) the Veteran's obstructive sleep apnea is secondary to the weight gain and obesity from PTSD, and (3) but for the Veteran's weight gain and obesity, his sleep apnea would not have occurred. In support of this, the nurse practitioner explained that the Veteran reported weighing about 145 pounds upon his separation from service and currently weighing 213 pounds with a body mass index (BMI) of 33.4, which meets the national standard for obesity. The nurse practitioner noted that the Veteran's weight gain occurred after his in-service stressors and resulting mental health condition and cited to medical literature showing that depression and sleep disturbance have been linked to weight gain and obesity. The nurse practitioner also cited to studies showing a link between PTSD and changes in consumptive behaviors and studies showing that veterans with PTSD have a greater likelihood of being overweight and obese than the general population, and she explained the pathophysiology of obesity related to PTSD. Additionally, the nurse practitioner cited to studies indicating that weight gain and obesity are major risk factors associated with the development of obstructive apnea, and she explained the pathophysiology of obesity related to the development of obstructive sleep apnea. 
+
+In July 2021, a VA examiner opined that it is less likely than not that the Veteran's obstructive sleep apnea was proximately caused by his service-connected PTSD. In support of this, the examiner explained that sleep Apnea and PTSD are separate entities and not medically related, as there is no proven causal relationship noted in the available medical literature to objectively say that PTSD causes sleep apnea. 
+
+In August 2021, another VA examiner opined that it is less likely than not that the Veteran's obstructive sleep apnea was proximately caused by his service-connected PTSD. In support of this, the examiner explained that the medical literature does not support PTSD as a cause of obstructive sleep apnea, nor does it support PTSD as a cause of obesity that leads to the obstructive sleep apnea. The examiner explained that obesity is caused by the intake of too many calories and not enough movement/exercise, and while certain medical conditions can limit activities, none of the Veteran's conditions, including PTSD, eliminate watching his diet and engaging in light exercise. The examiner acknowledged that research has established an association between the two conditions due to the effects of disrupted sleep on the outcome measures of health and well-being in veterans; however, there is no established etiological basis for obstructive sleep apnea to be caused by PTSD based on the pathophysiology of obstructive sleep apnea. 
+
+The Board finds the June 2021 private medical opinion to be probative and persuasive, as it appears to be consistent with the medical evidence of record and is supported by a reasoned medical explanation, including many citations to medical literature. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302-04 (2008) (it is the factually accurate, fully articulated, sound reasoning for the conclusion that contributes to the probative value of a medical opinion). Notably, service treatment records show that the Veteran weighed 148 pounds upon his enlistment. VA treatment records show that about a year-and-a-half after the Veteran's discharge from active duty, he reported feeling depressed since his service in Iraq and lacking motivation to engage in any activities. At that time, the Veteran weighed 202 pounds. In February 2020, about a year before he was diagnosed with sleep apnea, the Veteran weighed 220 pounds, and his BMI was 35 percent. After the Veteran was diagnosed with obstructive sleep apnea in March 2021, he was counseled about weight loss. 
+
+Additionally, the July 2021 opinion did not address the Veteran's assertion that his sleep apnea was caused by weight gain attributable to PTSD. Although the August 2021 opinion addressed that argument, the VA examiner did not address the medical evidence showing that the Veteran's mental health symptoms caused a lack of motivation to engage in any activities. Moreover, both VA examiners used the "proximate cause" standard, which is no longer required for secondary service connection. See Spicer, 61 F.4th at 1364. Based on the foregoing, the Board finds that it is at least as likely as not that the Veteran's obstructive apnea was caused by his service-connected PTSD. Accordingly, service connection for obstructive sleep apnea is granted. 
+
+ 
+
+ 
+
+Marissa Caylor
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. Banister, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

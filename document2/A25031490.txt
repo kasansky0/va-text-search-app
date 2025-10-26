@@ -1,0 +1,121 @@
+Citation Nr: A25031490
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240328-428941
+DATE: April 4, 2025
+
+ORDER
+
+Entitlement to an increased rating above 40 percent for back condition namely lumbar spondylosis, degenerative disc disease, intervertebral disc syndrome, spinal stenosis and scoliosis, is denied.  
+
+FINDING OF FACT
+
+The Veteran's back condition resulted in functional impairment that manifested in forward of the thoracolumbar spine to 30 degrees or less; or favorable ankylosis of the entire thoracolumbar spine effective January 13, 2023.
+
+CONCLUSION OF LAW
+
+The criteria for an increased rating for back condition have not been met. 38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 4.3, 4.7, 4.71a, Diagnostic Code 5237, 5242.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the United States Marine Corps from January 1968 to September 1977. 
+
+This matter comes before the Board of Veterans' Appeals (Board) from a February 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO). See February 2024 rating decision.
+
+In the March 2024 VA Form 10182 Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the February 2024 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+The Board notes that the Veteran has listed three other conditions on the March 2024 NOD, namely entitlement to an earlier effective date for left lower extremity sciatic neuropathy, back condition, and foot condition status post ganglion cyst excision. However, the conditions listed are outside of the window of appeal. The conditions listed are from a June 26, 2017, rating decision. The Veteran must file a Notice of Disagreement (NOD) within one year from the date of the VA decision to properly appeal a VA AOJ rating decision. If one year has passed, the Veteran may file a Supplemental Claim. 
+
+Increased rating for Degenerative Disc Disease and 
+
+Intervertebral Disc Syndrome (IVDS)
+
+The Veteran Degenerative Disc Disease is rated under 38 C.F.R. § 4.71a, Diagnostic Code 5242. The Veteran's intervertebral disc syndrome (IVDS) is rated under Diagnostic Code 5237. 
+
+Diagnostic Code 5242 is rated under the General Rating Formula for Diseases and Injuries of the Spine (herein General Formula).
+
+Intervertebral disc syndrome (IVDS) is evaluated either under the Formula for Rating IVDS based on Incapacitating Episodes or under the General Rating Formula for Disease and Injuries of the Spine, whichever method results in the higher evaluation when all disabilities are combined under 38 C.F.R. § 4.25. 38 C.F.R. § 4.71a, Diagnostic Code 5243.
+
+In this case, IVDS will be evaluated under the General Rating Formula because all VA examiners have found that the Veteran did not have any episodes of acute signs and symptoms due to IVDS that required bed rest prescribed by a physician and treatment by a physician in the past 12 months. A rating under Formula for Rating IVDS is not provided. 
+
+Under the General Rating Formula, a 10 percent rating is warranted for forward flexion of the thoracolumbar spine greater than 60 degrees but not greater than 85 degrees; or, combined range of motion of the thoracolumbar spine greater than 120 degrees but not greater than 235 degrees; or, muscle spasm, guarding, or localized tenderness not resulting in abnormal gait or abnormal spinal contour; or, vertebral body fracture with loss of 50 percent or more of the height. 
+
+A 20 percent rating is warranted for forward flexion of the thoracolumbar spine greater than 30 degrees but not greater than 60 degrees; or the combined range of motion of the thoracolumbar spine not greater than 120 degrees; or muscle spasm or guarding severe enough to result in an abnormal gait or abnormal spinal contour such as scoliosis, reversed lordosis, or abnormal kyphosis. 
+
+A 40 percent rating is warranted for forward of the thoracolumbar spine to 30 degrees or less; or favorable ankylosis of the entire thoracolumbar spine. 
+
+A 50 percent rating is warranted for unfavorable ankylosis of the entire thoracolumbar spine. 
+
+A 100 percent evaluation is warranted for unfavorable ankylosis of the entire spine. 38 C.F.R. § 4.71a General Rating Formula for Diseases and Injuries of the Spine.
+
+Ankylosis is defined as "immobility and consolidation of a joint due to disease, injury, or surgical procedure." See Dorland's Illustrated Medical Dictionary, 94 (32nd ed. 2012). Fixation of a spinal segment in neutral position (zero degrees) always represents favorable ankylosis. Id. at Note 5.
+
+During the period on appeal, the rating criteria for evaluating musculoskeletal disabilities under 38 C.F.R. § 4.71a were amended effective February 7, 2021. 85 Fed. Reg. 230 (Nov. 30, 2020). 
+
+If a law or regulation changes during the course of a claim or an appeal, the version more favorable to the Veteran will apply, to the extent permitted by any stated effective date in the amendment in question. 38 U.S.C. § 5110 (g); see also Kuzma v. Principi, 341 F.3d 1327 (Fed. Cir. 2003). The Board will consider the Veteran's claim under the old criteria prior to February 7, 2021, and both the old and new rating criteria from February 7, 2021. The criteria that is more favorable to the Veteran will be applied.
+
+Prior to the regulatory change, Diagnostic Code 5242 was assigned for degenerative arthritis of the spine (see also Diagnostic Code 5003) and Diagnostic Code 5243 for IVDS. As of February 7, 2021, under the amended criteria, Diagnostic Code 5242 is assigned for degenerative arthritis and degenerative disc disease (DDD) other than IVDS (see also either Diagnostic Code 5003 or 5010). It also amends Diagnostic Code 5243 for IVDS allowing the Diagnostic Code to be assigned only when there is disc herniation with compression and/or irritation of the adjacent nerve root; otherwise, Diagnostic Code 5242 must be used for all other disc diagnoses. Although the amended criteria for 5242 and 5243 separated DDD from IVDS, the rating formula under each Diagnostic Code was unchanged.
+
+Under 38 C.F.R. § 4.59, painful motion is a factor to be considered with any form of arthritis; however, 38 C.F.R. § 4.59 is not limited to disabilities involving arthritis. See Burton v. Shinseki, 25 Vet. App. 1 (2011).
+
+In Correia v. McDonald, 28 Vet. App. 158 (2016), the Court held that the final sentence of 38 C.F.R. § 4.59 requires that the examiner record the results of range of motion testing "for pain on both active and passive motion [and] in weight-bearing and non-weight-bearing and, if possible, with range of motion measurements of the opposite undamaged joint." The spine has no opposite joint.
+
+In Sharp v. Shulkin, 29 Vet. App. 26 (2017), the Court held that VA examiners must obtain information about the severity, frequency, duration, precipitating and alleviating factors, and extent of functional impairment of flares from the veterans themselves, when a flare-up is not observable at the time of examination.
+
+When evaluating musculoskeletal disabilities based on limitation of motion, 38 C.F.R. § 4.40 requires consideration of functional loss caused by pain or other factors listed in that section that could occur during flare-ups or after repeated use and, therefore, not be reflected on range-of-motion testing. 38 C.F.R. § 4.45 requires consideration also be given to less movement than normal, more movement than normal, weakened movement, excess fatigability, incoordination, and pain on movement. See DeLuca v. Brown, 8 Vet. App. 202 (1995); see also Mitchell v. Shinseki, 25 Vet. App. 32, 44 (2011). Nonetheless, even when the background factors listed in § 4.40 or 4.45 are relevant when evaluating a disability, the rating is assigned based on the extent to which motion is limited, pursuant to 38 C.F.R. § 4.71a; a separate or higher rating under § 4.40 or 4.45 directly is not appropriate. See Thompson v. McDonald, 815 F.3d 781, 785 (Fed. Cir. 2016) ("[I]t is clear that the guidance of § 4.40 is intended to be used in understanding the nature of the veteran's disability, after which a rating is determined based on the § 4.71a criteria."). The Court has held that diagnostic codes predicated on limitation of motion do not prohibit consideration of a higher rating based on functional loss due to pain on use or due to flare-ups under 38 C.F.R. §§ 4.40, 4.45, and 4.59. See Johnson v. Brown, 9 Vet. App. 7 (1996); DeLuca v. Brown, 8 Vet. App. 202, 206 (1995). 
+
+Entitlement to an increased rating for back condition to include lumbar spondylosis, degenerative disc disease, intervertebral disc syndrome, spinal stenosis and scoliosis is denied.
+
+The Veteran has been offered six VA medical examinations. Each examination is discussed below. 
+
+First, the Veteran was offered a VA examination in July 2017. See July 2017 C&P Exam. The examiner performed Range of Motion (ROM) testing on the Veteran. The Veteran's forward flexion ranged from 0 to 65 degrees; extension end point ranged from 0 to 20 degrees; right lateral flexion endpoint ranged from 0 to 25 degrees; left lateral flexion endpoint ranged from 0 to 30 degrees; right lateral rotation endpoint ranged from 0 to 20 degrees; left lateral rotation ranged from 0 to 25 degrees. The examiner noted that the Veteran has localized tenderness, guarding or muscle spasm, guarding, or localized tenderness resulting in abnormal gait or abnormal spinal contour. Id. 
+
+The RO correctly assigned a 20 percent rating for degenerative arthritis of the lumbar spine. See July 2017 rating decision. As the rating formula under the Diagnostic Codes were unchanged, the Veteran will be evaluated under Diagnostic Code 5242 prior to and from February 7, 2021, onward. Pursuant to 38 C.F.R. § 4.71a, Diagnostic Code 5242, a 20 percent rating is warranted for forward flexion of the thoracolumbar spine greater than 30 degrees but not greater than 60 degrees; or the combined range of motion of the thoracolumbar spine not greater than 120 degrees; or muscle spasm or guarding severe enough to result in an abnormal gait or abnormal spinal contour such as scoliosis, reversed lordosis, or abnormal kyphosis.
+
+The Veteran filed a fully developed claim in August 2018. See August 2018 fully developed claim. 
+
+The Veteran was offered a second VA examination in July 2020. See September 2018 C&P Exam. The examiner performed Range of Motion (ROM) testing. The Veteran's condition had notably worsened. The Veteran's forward flexion ranged from 0 to 30 degrees; extension end point ranged from 0 to 12 degrees; right lateral flexion endpoint ranged from 0 to 15 degrees; left lateral flexion endpoint ranged from 0 to 12 degrees; right lateral rotation endpoint ranged from 0 to 15 degrees; left lateral rotation ranged from 0 to 15 degrees. The examiner noted that the Veteran has localized tenderness, guarding or muscle spasm, guarding, or localized tenderness resulting in abnormal gait or abnormal spinal contour. Id.
+
+The Veteran's condition had notably worsened, and the RO correctly increased the evaluation of degenerative arthritis lumbar spine (back condition), from 20 percent to 40 percent. See November 2018 rating decision. 
+
+The Veteran was offered a third VA examination in June 2019. See June 2019 C&P Exam. The examiner performed Range of Motion (ROM) testing on the Veteran. The Veteran's forward flexion ranged from 0 to 60 degrees; extension end point ranged from 0 to 20 degrees; right lateral flexion endpoint ranged from 0 to 20 degrees; left lateral flexion endpoint ranged from 0 to 20 degrees; right lateral rotation endpoint ranged from 0 to 20 degrees; left lateral rotation ranged from 0 to 20 degrees. The examiner noted that the Veteran does not have guarding or muscle spasm, guarding, or localized tenderness resulting in abnormal gait or abnormal spinal contour. Id.
+
+The Veteran's condition had notably improved, and the RO proposed to decrease 40 percent to 20 percent in July 2019. See July 2019 rating decision. In April 2020 the RO decreased the evaluation of degenerative arthritis lumbar spine (back condition) from 40 percent to 20 percent. See April 2020 rating decision. 
+
+The Veteran filed a fully developed claim in July 2021. See July 2021 Fully Developed Claim. The Veteran was offered a VA examination in August 2021. See August 2021 C&P Exam. The examiner performed Range of Motion (ROM) testing on the Veteran. The Veteran's forward flexion ranged from 0 to 30 degrees; extension end point ranged from 0 to 10 degrees; right lateral flexion endpoint ranged from 0 to 15 degrees; left lateral flexion endpoint ranged from 0 to 15 degrees; right lateral rotation endpoint ranged from 0 to 15 degrees; left lateral rotation ranged from 0 to 15 degrees. The examiner noted that the Veteran has localized tenderness, guarding or muscle spasm, guarding, or localized tenderness resulting in abnormal gait or abnormal spinal contour. Id.
+
+The Veteran filed a fully developed claim in September 2021. See September 2021 Fully Developed Claim. The Veteran was offered a VA examination in September 2022. See September 2022 C&P Exam The examiner performed Range of Motion (ROM) testing on the Veteran. The Veteran's forward flexion ranged from 0 to 25 degrees; extension end point ranged from 0 to 10 degrees; right lateral flexion endpoint ranged from 0 to 10 degrees; left lateral flexion endpoint ranged from 0 to 10 degrees; right lateral rotation endpoint ranged from 0 to 10 degrees; left lateral rotation ranged from 0 to 10 degrees. The examiner noted that the Veteran has localized tenderness, guarding or muscle spasm, guarding. Id.
+
+The RO confirmed and continued a 40 percent evaluation of lumbar spondylosis, degenerative disc disease, including spinal stenosis, scoliosis with Intervertebral disc syndrome. See November 2022 rating decision 
+
+The Veteran was offered a last VA examination in March 202. See March 2023 C&P Exam. The examiner performed Range of Motion (ROM) testing on the Veteran. The Veteran's forward flexion ranged from 0 to 65 degrees; extension end point ranged from 0 to 20 degrees; right lateral flexion endpoint ranged from 0 to 15 degrees; left lateral flexion endpoint ranged from 0 to 15 degrees; right lateral rotation endpoint ranged from 0 to 15 degrees; left lateral rotation ranged from 0 to 15 degrees. The examiner noted that the Veteran has localized tenderness, guarding or muscle spasm, guarding, or localized tenderness resulting in abnormal gait or abnormal spinal contour. Id
+
+The RO continued a 40 percent evaluation of lumbar spondylosis, degenerative disc disease, including spinal stenosis, scoliosis with Intervertebral disc syndrome. See February 2024 rating decision.
+
+The Veteran was assigned a 40 percent evaluation for his back condition based on forward flexion of the thoracolumbar spine 30 degrees or less in the September 2021 and March 2023 VA examinations. 
+
+A higher evaluation of 50 percent is not warranted for diseases and injuries of the thoracolumbar spine unless the evidence shows unfavorable ankylosis of the entire thoracolumbar spine. 38 CFR 4.71a.
+
+Additionally, a higher evaluation of 60 percent is not warranted for intervertebral disc syndrome unless the evidence shows incapacitating episodes having a total duration of at least six weeks during the past 12 months. 38 CFR 4.71a. no examination has denoted that such a finding is warranted. 
+
+It follows that a 100 percent rating is not warranted as the rating criteria are successive, and thus a claimant cannot fulfill the criteria of the higher rating without fulfilling those of the next lower rating. See Johnson v. Wilkie, 2019-1376 (Fed. Cir. May. 14, 2019).
+
+(Continued on next page.)
+
+?
+
+Accordingly, the Board finds that the evidence of record persuasively weighs against a rating more than 40 percent for the Veteran's back condition to include degenerative disc disease, intervertebral disc syndrome and spinal stenosis.
+
+ 
+
+ 
+
+Paulette Vance Burton
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Gaminchi, Yasmin
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,81 @@
+Citation Nr: A25034798
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 250224-519897
+DATE: April 15, 2025
+
+ORDER
+
+Service connection for asthma (claimed as unspecified lung disorder with or without malignancy) associated with TERA participation is recharacterized as service connection for benign lung neoplasms associated with TERA participation.  
+
+The 30 percent disability rating assigned for asthma, effective November 20, 2024, is reduced as duplicative.  
+
+FINDINGS OF FACT
+
+1. The Veteran claimed service connection for an unspecified lung disorder with or without malignancy; medical evidence establishes the presence of lung masses or nodules or undetermined malignancy.
+
+2. The 30 percent disability rating for asthma, (claimed as unspecified lung disorder with or without malignancy) associated with TERA participation, implemented effective November 20, 2024, is reduced; the AOJ is now responsible for accurately rating any non-asthma, non-COPD, and non-apnea impairment associated with the Veteran's benign lung neoplasms.
+
+CONCLUSIONS OF LAW
+
+1. The Veteran's lung or respiratory disability is more accurately characterized as involving benign lung neoplasms associated with TERA participation.  38 U.S.C. §§ 1110, 1151, 5107; 38 C.F.R. §§ 3.303, 4.1, 4.2, 4.3, 4.6, 4.10, 4.13.  
+
+2. The separate disability rating assigned to asthma effective November 20, 2024, was duplicative of the preserved disability rating of 60 percent effective January 1, 1996, that was already in place.  38 U.S.C. §§ 1115, 5107; 38 C.F.R. §§ 3.105, 4.14.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from July 1963 to June 1966, and from April 1977 to December 1995.
+
+This matter comes before the Board from a February 2025 decision by the Agency of Original Jurisdiction (AOJ), which granted service connection for asthma as due to toxic exposure in service and awarded a 30 percent disability rating effective November 20, 2024.  The Veteran filed a VA Form 10182 on which he requested direct review by a Veterans Law Judge the same month.  He expressly waived the time to switch dockets, as he did not wish to switch dockets, and he wished to have his appeal reviewed expeditiously.  
+
+Therefore, the Board may only consider the evidence of record at the time of the February 2025 AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+Historically, following his discharge from service, the Veteran applied for and was granted service connection for bronchial asthma and chronic obstructive pulmonary disease.  A 30 percent disability rating was assigned, effective as of January 1, 1996.  In an October 1997 decision, the AOJ increased this rating to 60 percent effective as of the same date.  
+
+Thus, together bronchial asthma and chronic obstructive pulmonary disease have been rated as 60 percent disabling since January 1996.  A disability which has been continuously rated at any evaluation for twenty or more years for compensation purposes will not be reduced to less than such evaluation except upon a showing that such rating was based on fraud.  38 C.F.R. § 3.951(b).  There is no indication of fraud in this case; therefore, the 60 percent rating for bronchial asthma and chronic obstructive pulmonary disease (COPD) is preserved from reduction.  Similarly, any action having the effect of reduction will not be tolerated.
+
+In September 2023, the AOJ granted the Veteran's claim for entitlement to service connection for obstructive sleep apnea.  An effective date of February 6, 2018, was assigned.  The AOJ then proceeded to wrap the disability rating for apnea into the disability rating already assigned for asthma and COPD.  As justification for this decision, the AOJ cited to a regulatory provision regarding the rating of coexisting respiratory conditions which states that ratings under Diagnostic Codes 6600 through 6817 and 6822 through 6847 will not be combined with each other.  38 C.F.R. § 4.96.
+
+Instead of rating the asthma/COPD, which has been rated under Diagnostic Code 6602, separately from the apnea, which is rated under the provisions of Diagnostic Code 6847, the AOJ wrapped the two disability ratings together.  Because Diagnostic Code 6602 is in the first group of respiratory conditions set forth in 38 C.F.R. § 4.96, (6600 through 6817), while Diagnostic Code 6847 is in the second group (6822 through 6847), rating them separately is permissible.  
+
+The Veteran did not challenge this rating at the time, so revising the rating for apnea is not part of the Board's purview in the instant case.  We set out this rating history to fully understand the posture of the Veteran's current challenge, involving the appropriate rating of his lung mass.  What is important for our purposes today is that a protected 60 percent rating for asthma and COPD was combined with a nonprotected rating for apnea.  
+
+The instant appeal arises from a November 2024 claim filed by the Veteran in which he explained that he was seeking service connection for "an unspecified lung disorder with or without malignancy," which he believed to be related to toxic exposures during service.  He attached recent medical records showing that he had several spots on his lung and that the diagnostic tests had been inconclusive as to malignancy.  
+
+The AOJ addressed this claim in a February 2025 decision.  The AOJ conceded that the Veteran had been exposed to toxic exposures in the form of diesel fumes, granted service connection for an "unspecified lung disorder with or without malignancy," and rated the disorder under the criteria for rating asthma.  A separate 30 percent disability rating was assigned.  No discussion or acknowledgement of the already-service connected asthma was provided.
+
+In his VA Form 10182, the Veteran raised several points:  1) He expressed concern that the nodules or mass in his lung may be malignant, as diagnosis was ongoing, and his medical records show that the nodules will be carefully monitored.  He feels that characterizing the disability as "asthma" rather than lung nodules or another unspecified lung disorder failed to cover the potential for malignancy related to toxic exposures during service.  2) He was concerned that having separate ratings for asthma was inappropriate pyramiding.  3) Lastly, he was very concerned that his wife would not receive VA death benefits, if his lung nodules turned malignant and he died from it.   
+
+Taking the Veteran's concerns one by one, the Board first recognizes that this is a difficult case, from a rating perspective, as the Veteran has multiple, overlapping pulmonary disabilities.  His most recent claim, however, was for lung nodules, or masses which he believes were caused by toxic exposures during service.  In reviewing the claim, the AOJ focused instead upon the Veteran's already-diagnosed asthma, finding that the asthma was caused by toxic exposure.  The AOJ then improperly assigned a second disability rating predicated upon the criteria for rating asthma.  This action did indeed constitute prohibited pyramiding.  
+
+The evaluation of the same disability under various diagnoses is to be avoided.  Both the use of manifestations not resulting from service-connected disease or injury in establishing the service-connected evaluation, and the evaluation of the same manifestation under different diagnoses are to be avoided.  38 C.F.R. § 4.14.
+
+Thus, in assigning two disability ratings under Diagnostic Code 6602, the AOJ pyramided these ratings.  It appears that the intention was to acknowledge the different etiologies of the Veteran's symptoms; nevertheless, the Veteran impermissibly now has two duplicative disability ratings under Diagnostic Code 6602.  
+
+Because the Veteran's claim actually involved nodules or masses in his lungs, the Board holds that Diagnostic Code 6820, which is designed for the rating of benign neoplasms is a better choice, and more appropriate for the situation.  If medical evidence showing a definitive diagnosis of malignancy is presented, the Diagnostic Code can be easily revised at that point to Diagnostic Code 6819, for malignant neoplasm.  
+
+The provisions of Diagnostic Code 6820 require evaluating the impairment resulting from benign neoplasms under an appropriate respiratory analogy.  Given that the Veteran is already being rated for his reduced pulmonary functioning under the provisions of Diagnostic Code 6602 for asthma, and that assigning a second rating for asthma constituted prohibited pyramiding, the correct disability rating to be assigned under Diagnostic Code 6820 may well be 0 percent, unless the Veteran's lung neoplasms/nodules/masses are shown to cause any additional respiratory disability, which is not otherwise being compensated.  The Veteran's contention in this matter is not that he should be receiving a higher rating for his lung and respiratory disabilities, but rather that he wants the neoplasms/nodules, masses that he has now to be clearly service connected.  He also wishes that the possibility of a future malignancy related to his lung nodules be clearly on record, so that such can be rated if necessary.   
+
+Therefore, the Board holds that the 30 percent disability rating assigned for asthma under Diagnostic Code 6602, effective November 20, 2024, be removed, as prohibited pyramiding.  The protected 60 percent disability rating for the combination of asthma and COPD is preserved from reduction and must remain undisturbed.  If the AOJ wishes to separately rate the Veteran's apnea, this may be accomplished, although as noted above, this issue is not on appeal.  
+
+Because removing the duplicative 30 percent rating for asthma will not change the Veteran's overall combined disability rating of 100 percent, which has been in effect for many years, no further due process is necessary to implement this reduction.  38 C.F.R. § 3.105(e).
+
+The basis of disability evaluations is the ability of the body as a whole, or of the psyche, or of a system or organ of the body to function under the ordinary conditions of daily life.  Over a period of many years, a Veteran's disability claim may require re-ratings in accordance with changes in laws, medical knowledge, and his physical condition.  It is essential both in the examination and in the evaluation of disability, that each disability be viewed in relation to its history.  The repercussion upon a current rating of service connection when a change is made in a previously assigned diagnosis or etiology must be kept in mind.  The aim should be the reconciliation and continuance of the diagnosis or etiology upon which service connection for the disability had been granted.  38 C.F.R. §§ 4.1, 4.2, 4.3, 4.6, 4.10, 4.13.  
+
+The Veteran's benign lung neoplasms, for which service connection has been granted, should be assigned a disability rating under the provisions of Diagnostic Code 6820.  The AOJ must now assign an initial rating for the Veteran's benign lung neoplasms which is not duplicative of the already-rated asthma, COPD, and obstructive sleep apnea impairment. 
+
+Turning to the Veteran's last concern, that his wife should be entitled to death benefits or dependency and indemnity compensation upon his death, the Board observes that because he has been rated as 100 percent disabling since March 2005, she will automatically be entitled to dependency and indemnity compensation upon his death.  Governing law and regulation are clear that VA will pay death benefits to the surviving spouse if the Veteran's death was not the result of his own willful misconduct and at the time of death, the Veteran was receiving compensation for service-connected disability that was rated by VA as totally disabling for a continuous period of at least ten years immediately preceding death.  38 U.S.C. § 1318; 38 C.F.R. § 3.22.  We trust that this explanation will relieve and reassure the Veteran regarding this concern for his wife.  
+
+ 
+
+ 
+
+S.C. Krembs
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Harter, Heather J.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

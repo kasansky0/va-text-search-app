@@ -1,0 +1,81 @@
+Citation Nr: A25034191
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240904-469959
+DATE: April 14, 2025
+
+REMANDED
+
+Entitlement to service connection for diverticulitis is remanded.
+
+Entitlement to service connection for obstructive sleep apnea is remanded.
+
+PROCEDURAL FACTS AND HISTORY
+
+The Veteran served on active duty from April 1997 to December 2002.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal of rating decisions issued in March 2024, April 2024, and September 2024 by a Regional Office (RO) of the Department of Veterans Affairs (VA), and agency of original jurisdiction (AOJ).
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Under the Appeals Modernization Act (AMA), the Board may only consider the evidence of record at the time of each rating decision on appeal, respectively.  38 C.F.R. § 20.301.  However, because the Board is remanding the claim of service connection for diverticulitis and for obstructive sleep apnea, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii).
+
+The Board notes that in the September 2024 Notice of Disagreement, the Veteran also sought to appeal a March 2024 rating decision (notification, 3/22/2024) and an April 2024 rating decision (notification, 4/16/2024) also with regard to service connection for diverticulitis and obstructive sleep apnea.  However, because the referenced March 2024 rating decision deferred adjudication for additional exam information, and the April 2024 rating decision returned the claims for additional development after identifying a duty-to-assist error had occurred, they were not final AOJ decisions for which Board review is available.  See 38 C.F.R. §§ 3.2500(a), 20.202.  Regardless, the matter of service connection for diverticulitis and obstructive sleep apnea is presently before the Board in this appeal.
+
+The denial of due process may include issuing a Board decision prior to the expiration of the one-year period for a claimant to request a docket change.  See Williams v. McDonough, 37 Vet. App. 305 (2024).  In this case, the Board is not rendering a decision on the merits but remanding the case.  Accordingly, the Veteran's due process rights are not adversely affected by not waiting until the end of the period in which to request a docket change, i.e., one-year from notification of the September 2024 rating decision.
+
+REASONS FOR REMAND
+
+Remand by the Board in the AMA is proper for correction of (1) duty to assist errors occurring prior to the date of the AOJ decision on appeal (i.e., pre-decisional duty to assist errors) and (2) AOJ errors in satisfying a regulatory or statutory duty, if correction of such error would have a reasonable possibility of aiding in substantiating the appellant's claim.  See 38?C.F.R. §?20.802(a).
+
+Although the Board regrets the delay, the Board finds that remand is necessary to correct duty-to-assist errors that occurred prior an AOJ decision on appeal, as discussed below.
+
+1. Entitlement to service connection for diverticulitis
+
+2. Entitlement to service connection for obstructive sleep apnea
+
+The Veteran seeks service connection for diverticulitis and obstructive sleep apnea, to include as secondary to his service-connected kidney condition.  Specifically, he contends that his claimed conditions are "caused by the pain of chronic kidney stone passage."  See Higher-Level Review (HLR) Informal Conference Worksheet, 04/05/2024.
+
+The law provides that VA shall make reasonable efforts to notify a claimant of the evidence necessary to substantiate a claim and requires the VA to assist a claimant in obtaining that evidence.  38 U.S.C. §§ 5103, 5103A; 38 C.F.R. § 3.159.  Such assistance includes providing the claimant a medical examination or obtaining a medical opinion when such an examination or opinion is necessary to make a decision on a claim.  38 U.S.C. §§ 5103, 5103A; 38 C.F.R. § 3.159.  Moreover, when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).
+
+The Veteran was afforded a VA intestinal conditions examination in April 2024.  The VA examiner diagnosed diverticulitis.  The examiner opined the Veteran's diverticulitis is less likely than not proximately due to or the result of his service connected kidney condition.  As to rationale, the examiner described the Veteran's history of diverticulitis, listed various causes/increased risk factors of diverticulitis with referenced-to cites, opined the Veteran carries risk factors for diverticulitis (i.e., middle aged male with history of diverticular disease), and concluded his "[k]idney stones and obstructive sleep apnea are condition [sic] of separate anatomical regions and would not cause diverticulitis."  However, this medical opinion does not provide an adequate rationale regarding whether the Veteran's diverticulitis is caused or aggravated by his service connected kidney condition, to include the presence of chronic pain symptoms related thereto, as the examiner did not address aggravation in the opinion.  38 C.F.R. § 3.310 (b); Spicer v. McDonough, 61 F.4th 1360, 1364 (Fed. Cir. 2023); El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013). 
+
+The Veteran also was afforded a VA sleep apnea examination in April 2024.  The VA examiner diagnosed obstructive sleep apnea (OSA), confirmed by March 2021 sleep study.  The examiner opined the Veteran's sleep apnea is less likely than not proximately due to or the result of his service connected kidney condition.  As to rationale, the examiner noted the Veteran's history of OSA diagnosed in 2021, described characteristics/significant risk factors of the sleep disorder OSA with referenced-to cites, opined the Veteran carries risk factor for OSA (i.e., overweight, middle aged male, former smoker), and concluded his "[k]idney stones and diverticulitis are condition [sic] of separate anatomical regions and would not cause obstruction of upper airway seen in OSA."  However, this medical opinion does not provide an adequate rationale regarding whether the Veteran's OSA is caused or aggravated by his service connected kidney condition, to include chronic pain therein, as the examiner did not address aggravation.  38 C.F.R. § 3.310 (b); Spicer, supra.; El-Amin, supra. 
+
+As a wholly separate matter, this same language from the examiner creates an additional reason for remand.  Regarding the Veteran's claimed diverticulitis condition, the VA examiner included the following language in the report:  "Kidney stones and obstructive sleep apnea are condition [sic] of separate anatomical regions and would not cause diverticulitis."  Regarding the Veteran's claimed obstructive sleep apnea condition, the VA examiner included the following language in the report:  "Kidney stones and diverticulitis are condition [sic] of separate anatomical regions and would not cause obstruction of upper airway seen in OSA."  Importantly, the Veteran is not presently service connected for either diverticulitis or obstructive sleep apnea.  Therefore, discussing these conditions in the foregoing manner creates significant confusion over the precise nature of the examiner's assessments of potential secondary service connection.
+
+Accordingly, on remand, addendum opinions must be obtained.
+
+The Board further notes that, in the September 2024 rating decision denying service connection for the claimed conditions on the basis of evidence submitted was not new and relevant, the AOJ failed to list timely submitted evidence.  On August 25, 2024, the Veteran submitted a claim for service connection for, in relevant part, diverticulitis and sleep apnea.  See August 2024 VA Form 21-526EZ, Fully Developed Claim (Compensation).  In correspondence sent days later, VA notified the Veteran that VA received his claim for compensation on August 25, 2024, but a review of his file revealed VA was already processing a pending appeal or request for administrative review for diverticulitis and sleep apnea received on August 20, 2024, and as such, would "forward this new evidence to the appropriate processing team for consideration."  See Subsequent Development Letter, 08/29/2024.  The AOJ failed to indicate whether that submission was considered, as it was not listed in the evidence section or referenced in the narrative portion of the decision.  This too constitutes error.  However, as noted above, on remand, any evidence not previously considered will be considered by the AOJ in the adjudication of these claims.  38 C.F.R. § 3.103(c)(2)(ii).
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion from an appropriate clinician regarding whether the Veteran's diverticulitis is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) related to and/or aggravated by his service connected nephrolithiasis (kidney stones).
+
+The examiner is reminded that "aggravation" does not require a permanent worsening of the condition; rather, it is any incremental increase in a disability attributable to the service-connected disability.
+
+The examiner must provide a complete rationale for all proffered opinions. If the requested opinions cannot be provided without resorting to speculation, the examiner should provide an explanation as to why speculation is required.
+
+In formation of the opinion, the examiner should consider and specifically address the Veteran's contentions that his claimed condition is "caused by the pain of chronic kidney stone passage," which results from his service-connected nephrolithiasis. See, e.g., HLR-Informal Conference, 04/05/2024.  Relatedly, the Board notes the following verbiage from the April 2024 VA examiner's report concerning diverticulitis:  "Kidney stones and obstructive sleep apnea are condition [sic] of separate anatomical regions and would not cause diverticulitis."  Despite the examiner's inclusion of this language, the Board notes that the Veteran is not presently service connected for obstructive sleep apnea.
+
+2. Obtain an addendum opinion from an appropriate clinician regarding whether the Veteran's obstructive sleep apnea is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) related to and/or aggravated by his service connected nephrolithiasis (kidney stones).
+
+The examiner is reminded that "aggravation" does not require a permanent worsening of the condition; rather, it is any incremental increase in a disability attributable to the service-connected disability.
+
+The examiner must provide a complete rationale for all proffered opinions. If the requested opinions cannot be provided without resorting to speculation, the examiner should provide an explanation as to why speculation is required.
+
+In formation of the opinion, the examiner should consider and specifically address the Veteran's contentions that his claimed condition is "caused by the pain of chronic kidney stone passage," which results from his service-connected nephrolithiasis. See, e.g., HLR-Informal Conference, 04/05/2024.  To that end, the Board notes the following verbiage from the April 2024 VA examiner's report concerning obstructive sleep apnea:  "Kidney stones and diverticulitis are condition [sic] of separate anatomical regions and would not cause obstruction of upper airway seen in OSA."  Despite the examiner's inclusion of this language, the Board notes that the Veteran is not presently service connected for diverticulitis.
+
+3. Re-adjudicate the Veteran's service connection claims, considering all relevant evidence of record.
+
+ 
+
+ 
+
+B. D. WATSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Picard
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

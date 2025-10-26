@@ -1,0 +1,63 @@
+Citation Nr: A25034340
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 210804-176378
+DATE: April 14, 2025
+
+ORDER
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD) is granted.  
+
+FINDING OF FACT
+
+It is at least as likely as not the Veteran has been diagnosed with PTSD and the PTSD resulted from his active service.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for PTSD have been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 4.125(a).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from June 1972 to June 1976.
+
+In April 2020, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of entitlement to service connection for an acquired psychiatric disorder which was most recently addressed in an August 2019 rating decision.  In March 2021, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal.  The March 2021 rating decision indicated the claim was denied because new and relevant evidence had not been received to warrant readjudication of the claim.  However, review of that decision shows the claim was denied based on the evidence of record at the time of the decision and it included review of a November 2020 VA PTSD examination.  The November 2020 VA PTSD examination was not of record at the time of the prior denial.  Thus, the March 2021 rating decision denied the claim based on review of the evidence and it included an implicit finding that new and relevant evidence had been received.  Accordingly, the Board may only consider the evidence of record at the time of the decision on appeal and any evidence submitted during an applicable evidentiary window.
+
+In the August 2021 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Evidence Submission docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the March 2021 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran with, or within 90 days from receipt of, the VA Form 10182.  38 C.F.R. § 20.303.  If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the date the Board received the VA Form 10182, or (2) more than 90 days following the date the Board received the VA Form 10182, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.303, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD)
+
+The scope of a psychiatric disability claim includes any psychiatric condition that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record.  See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009).  Thus, the Veteran's claim is reviewed as a claim for service connection for an acquired psychiatric disorder, however diagnosed and including PTSD.  
+
+Service connection for PTSD generally requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  See Cohen v. Brown, 10 Vet. App. 128, 139-43 (1997); 38 C.F.R. § 3.304(f).
+
+If a claimed stressor is related to the fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a PTSD diagnosis and that the claimant's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of the claimant's service, the claimant's lay testimony alone may establish the occurrence of the claimed in-service stressor.  38 C.F.R. § 3.304(f)(3).
+
+For purposes of 38 C.F.R. § 3.304(f)(3), "fear of hostile military or terrorist activity" means the claimant experienced, witnessed, or was confronted with an event or circumstances that involved actual or threatened death or serious injury, or a threat to the physical integrity of the claimant or others, such as from an actual or potential improvised explosive device, vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the claimant's response to the event or circumstances involved a psychological or psycho-physiological state of fear, helplessness, or horror.  Id.
+
+When there is an approximate balance of positive and negative evidence regarding any material issue, reasonable doubt will be resolved in favor of the claimant.  38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+The Veteran seeks service connection for an acquired psychiatric disorder.  In April 2020, he submitted a statement describing his experience aboard the USS Peoria as the American Embassy in Saigon was evacuated.  Therein, he recounted witnessing Vietnamese civilians fleeing the Saigon harbor on small boats and attempting to board the USS Peoria.  As the USS Peoria was filled to maximum capacity, he and his unit were tasked with using the spray from a firehose to prevent the Vietnamese civilians from boarding their ship.  Military personnel records confirm The Veteran's participation in support of Operation Frequent Wind in Saigon in April 1975.  VA treatment records confirm the Veteran's lengthy history of mental health treatment, however they do not include a diagnosis of PTSD.  An August 2019 VA mental disorders examination did not diagnose PTSD.  
+
+In November 2020. A VA PTSD examination was provided to evaluate the Veteran's claim.  The VA examiner (N. B., Ph.D. Psychology) confirmed the Veteran's April 2020 statement reported a stressor related to the fear of hostile military or terrorist activity and the stressor was sufficient to support a diagnosis of PTSD under the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) diagnostic criteria.  However, he concluded the Veteran did not fully meet the DSM-5 criteria for a PTSD diagnosis because his psychiatric disturbance did not cause significant distress or impairment in social, occupational, or other important areas of functioning (Criterion G).  The VA examiner found the Veteran met the diagnostic criterion for other mental disorders (generalized anxiety disorder, cannabis use disorder, alcohol use disorder-in remission, amphetamine use disorder-in remission).  He opined these disorders were less likely than not caused by or related to the Veteran's active service.  In support, he noted the Veteran's treatment records did not mention the stressor described in the Veteran's 2020 statement.  The VA examiner did not provide any etiology opinion for PTSD.
+
+In August 2021, the Veteran submitted a July 2021 VA PTSD Disability Benefits Questionnaire (DBQ) completed by K. D.-R., PsyD., a private psychologist.  Dr. K. D.-R. found the Veteran did meet the DSM-5 diagnostic criteria for PTSD, including Criterion G.  In a separate statement, the private psychologist noted she had discussed the reported stressor with the Veteran.  During these discussions, the Veteran described a 38-year history of "significant substance use with treatment."  He revealed that he began to remember the details of the in-service trauma during a recent period of residential rehabilitation.  She concluded the Veteran met the criteria for a diagnosis of PTSD with delayed onset.  She opined the PTSD was at least as likely as not related to the Veteran's military service.  The private psychologist is competent and qualified to provide a diagnosis of PTSD.  Her etiology opinion is supported by a sufficient rationale.  
+
+Here, a VA psychologist confirmed an in-service stressor, related to the Veteran's fear of hostile military or terrorist activity, is adequate to support a PTSD diagnosis.  The reported stressor is consistent with the circumstances of the Veteran's active service.  Although the VA psychologist found the DSM-5 criteria for a PTSD diagnosis were not met, a private psychologist found the criteria were met.  Resolving reasonable doubt in favor of the Veteran, a current diagnosis of PTSD under the DSM-5 criteria is shown.  The July 2021 private etiology opinion is the only evidence of record addressing the etiology of the Veteran's PTSD.  It is adequate to evaluate the claim.  Thus, the weight of the evidence supports a finding that the Veteran's PTSD is at least as likely as not caused by an in-service stressor.  The Board finds service connection for PTSD is warranted.  38 C.F.R. § 3.304(f), 4.125(a); see also Wise v. Shinseki, 26 Vet. App. 517, 531 (2014) ("By requiring only an 'approximate balance of positive and negative evidence' the Nation, 'in recognition of our debt to our veterans,' has 'taken upon itself the risk of error' in awarding . . . benefits.").
+
+ 
+
+ 
+
+M. HYLAND
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jeanne Celtnieks
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

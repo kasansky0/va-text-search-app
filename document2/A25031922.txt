@@ -1,0 +1,67 @@
+Citation Nr: A25031922
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240403-430543
+DATE: April 7, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA), to include as secondary to his service-connected post-traumatic stress disorder (PTSD), is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from July 1988 to November 1995.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an August 2023 rating decision by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In April 2024, the Veteran filed a Decision Review Request: Board Appeal (Notice of Disagreement), VA Form 10182. In the April 2024 VA Form 10182, the Veteran elected the Direct Review docket. See VA Form 10182 Notice of Disagreement. Therefore, the Board may only consider the evidence of record at the time of the August 2023 rating decision.
+
+If evidence was submitted during the period after the RO issued the August 2023 decision, the Board did not consider it in its decision. 38 C.F.R. §§20.300, 20.301, 20.801. If the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider, he may file a Supplemental Claim (VA Form 20-0995) and submit or identify that evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Entitlement to service connection for OSA is remanded.
+
+The Veteran seeks to establish service connection for OSA. Specifically, the Veteran contends that his OSA is secondary to his service-connected PTSD. See July 2023 VA Form 21-4138 Statement in Support of Claim and March 2024 Attachment to the August 2024 VA Form 10182. The Veteran contends that due to his mental health condition, he has experienced symptoms related to sleep apnea and weight gain.
+
+Turning to the instant case, the Veteran is currently service connected for PTSD.
+
+Concerning the first element of service connection-evidence of a disability during the appeal period-the RO made a favorable finding that the claims file documents a current diagnosis, as a VA examination dated August 2023 documents that the Veteran has been diagnosed with OSA. See August 2023 Rating Decision. The Board is bound by that favorable finding, and it is therefore not in dispute. 38 C.F.R. § 3.104(c). Therefore, the first element of service connection has been met.
+
+Concerning the second element of service connection-evidence of an in-service event-here, the Veteran's service treatment records are silent as to complaints of, or treatment for OSA symptoms. The Veteran's lay statements continuously noted that the Veteran believes that his OSA is specifically due to his PTSD. See July 2023 VA Form 21-4138 Statement in Support of Claim and March 2024 Attachment to the August 2024 VA Form 10182.
+
+The Veteran submitted a private assessment and medical opinion by Nurse K. M in July 2023. Nurse K. M. diagnosed the Veteran with OSA. The Nurse also determined that it was at least as likely as not that the Veteran's weight gain and obesity was due to his PTSD, and it was as least as likely as not that the Veteran's OSA was secondary to his weight gain from obesity due to his PTSD. In rationale, the Nurse cited the Veteran's lay statements and multiple studies supporting her conclusion.
+
+The Board finds the opinion of Nurse K. M. is not adequate for service connection. First, upon military separation in 1995, the Veteran was 158 pounds and 72 inches tall, which is not classified as medically obese. The opinion relies on a conclusory argument that the Veteran had progressive weight gain during and following service, which developed into obesity in 2023, which caused his current disability of OSA due to his mental health stressors from his service-connected PTSD. The author does not provide further analysis of the cause of the Veteran's OSA. Further, the Nurse K. M. did not explain how the Veteran's OSA was aggravated by his service-connected psychiatric disability.
+
+The Veteran was afforded a VA examination in August 2023. See Sleep Apnea Disability Benefits Questionnaire (DBQ). The examiner determined that the Veteran was diagnosed with sleep apnea in 2018. The Veteran reported his sleeping disorder began in 1992, and he currently uses a CPAP for treatment. After the examination, the examiner determined that the Veteran's OSA was less likely than not caused by the Veteran's toxic risk exposure activity in the Gulf War. In rationale, the examiner noted there is no medical evidence that OSA is caused by exposure to toxins. Further, the examiner noted that the most common cause of OSA is excess weight and obesity.
+
+The Board finds the opinions of the August 2023 VA medical examiner inadequate for the following reasons. First, the examiner does not address the lay evidence pertaining to the purported aggravation of sleep symptoms due to his mental health condition, specifically the statements by the Veteran that his PTSD causes his sleep apnea symptoms. Second, the Board finds that the August 2023 VA opinion contains insufficient rationale regarding the causation prong of secondary service-connection and include no opinion regarding the aggravation prong. El-Amin?v. Shinseki,?26?Vet. App.?136, 140?(2013). Additionally, while the August 2023 examiner specifically notes that obesity is the most common cause of OSA, it did not attempt to elicit relevant information regarding the circumstances of the Veteran's obesity and OSA symptoms. 
+
+The Board finds that, due to the deficiencies of the July 2023 private opinion and the August 2023 VA opinion described above, remand is warranted to obtain an addendum opinion to address the etiology of the Veteran's OSA. Barr v. Nicholson, 21 Vet. App. 303, 312 (2007); Stegall v. West, 11 Vet. App. 268 (1998).
+
+The matter is REMANDED for the following action:
+
+1. Send the claims file to an appropriate clinician in order to obtain an addendum opinion regarding whether the Veteran's obstructive sleep apnea (OSA) is related to service or his PTSD, including as a consequence of obesity.  The examiner must review the claims file, including a copy of this remand, in conjunction with providing this medical opinion.  The examination is left to the discretion of the examiner, although if such is scheduled but an examination does not take place, the examiner should still address the below requested medical opinions to the best of their ability.
+
+2. After review of the claims file (and examination, if deemed necessary), the examiner must opine whether the Veteran's OSA at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) began in service, or is otherwise the result of military service.
+
+3. The examiner should additionally opine whether the Veteran's OSA is at least as likely as not (a) caused by, or (b) aggravated (i.e., worsened) by the Veteran's PTSD.  
+
+In providing the opinions requested above, the examiner should consider and address the opinion of Nurse K. M. in July 2023, that alleges a connection between the Veteran's OSA, his weight gain and current obesity and his service-connected PTSD. 
+
+4. The examiner must then address whether the Veteran's OSA is at least as likely as not caused or aggravated by his obesity.  If such a connection between the claimed disorder and obesity is found, the examiner should then opine whether the Veteran's service-connected PTSD either caused or contributed substantially to the Veteran's obesity, and if so, whether the Veteran's obesity would have not occurred if but for the service-connected PTSD.
+
+A supporting rationale for all opinions expressed must be provided.  The examiner is reminded that separate and distinct opinions with supporting rationales must be provided for all theories of entitlement requested, particularly secondary causation and secondary aggravation.  
+
+ 
+
+ 
+
+KELLI A. KORDICH
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Brown, B. D.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

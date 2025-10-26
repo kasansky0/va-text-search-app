@@ -1,0 +1,101 @@
+Citation Nr: A25034200
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240822-466279
+DATE: April 14, 2025
+
+ORDER
+
+Entitlement to service connection for diabetes mellitus type II as secondary to hypertension is granted.
+
+Entitlement to a rating of 30 percent but no higher for gastroesophageal reflux disease (GERD) is granted.
+
+FINDINGS OF FACTS
+
+1. The evidence is in relative equipoise as to whether the diabetes mellitus type II is causally related to the service-connected hypertension.
+
+2. The Veteran's GERD is manifested by symptoms of persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, nausea and sleep impairment, productive of considerable impairment of health.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for diabetes mellitus type II, as secondary to service-connected hypertension, have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+2. The criteria for entitlement to a 30 percent rating, but no higher, for GERD have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.114, Diagnostic Codes (DCs) 7399-7346.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Army from April 2009 to January 2013. 
+
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a September 2023 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO). By way of history, a July 2013 rating decision granted service connection for GERD, awarding a noncompensable rating effective January 5, 2013. Subsequently, pursuant to an increased rating claim, the RO increased the GERD disability rating to 10 percent effective December 8, 2022 pursuant to an April 2023 rating decision. A May 2023 rating decision denied service connection for diabetes mellitus, type 2. 
+
+In July 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the grant of a 10 percent rating for GERD effective December 8, 2022 and the claim of service connection for diabetes mellitus, type 2 most recently addressed in April and May 2023 rating decisions respectively. 
+
+In September 2023, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision. In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran filed a timely appeal to the Board of Veterans Appeals (The Board) and elected the Direct Review docket. Therefore, the appeal is now properly before the Board, and the Board may only consider the evidence of record at the time of the September 2023 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decisions on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+SERVICE CONNECTION
+
+Service connection may be established for disability resulting from personal injury suffered or disease contracted in the line of duty from active military, naval, or air service. 38 U.S.C. §§ 1110, 1131. "To establish a right to compensation for a present disability, a Veteran must show: '(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service' the so-called 'nexus' requirement." Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2010) (citing Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)). Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that which is pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+Service connection may be granted for a disability which is proximately due to or the result of a service-connected disability. 38 C.F.R. § 3.310 (a). Additional disability resulting from the aggravation of a nonservice-connected disability by a service-connected disability is also compensable under 38 C.F.R. § 3.310 (a). Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+Entitlement to service connection for diabetes mellitus type II as secondary to hypertension
+
+The Veteran seeks service connection for diabetes mellitus type II, as he contends that such is secondary to his service-connected hypertension. See December 2022 VA Form 21-4128.
+
+Turning to the evidence of record, a February 2023 VA examination report confirms the Veteran's diagnosis of diabetes mellitus type II. Further, the Veteran's hypertension is service-connected. Thus, the question becomes whether the current disability is related to his service or to this service-connected disability.
+
+In the February 2023 VA examination report, the VA clinician found that the Veteran's diabetes mellitus, type II, was not caused by his service-connected hypertension. The rationale provided was that diabetes and hypertension are not medically related, and that hypertension is not a risk factor for diabetes, nor does it cause the condition to develop. In addition, the clinician noted that a review of medical literature failed to demonstrate a causal relationship. The clinician failed to address the Veteran's lay statements of record, and further failed to address whether the Veteran's diabetes mellitus, type II, was directly related to service or aggravated by the Veteran's service-connected hypertension.  
+
+Thereafter, another opinion was obtained in August 2023 pursuant to the Veteran's July 2023 supplemental claim application and submission of a private positive nexus opinion. However, the August 2023 VA opinion provided was negative. The clinician reasoned that the Veteran's service records are silent for diabetes. The clinician acknowledged that hypertension and type 2 diabetes are common comorbidities. The clinician further acknowledged that patients with hypertension often exhibit insulin resistance and are at greater risk of diabetes developing than are normotensive individuals. The clinician also noted that there are other varying risk factors that play a larger role in the development of diabetes mellitus type II, which include obesity, family history, insulin deficiency, insulin resistance, and age. The clinician concluded the rationale by stating that the Veteran's risk factors are contributing factors to his diagnosis of diabetes mellitus, type II.  Again, the clinician failed to address aggravation, and did not identify which risk factors, if any, contributed to the Veteran's development of diabetes more so than his service-connected hypertension. 
+
+In contrast, the Veteran submitted a private medical opinion in July 2023, which includes adequate analysis and describes the exact reasons why the Veteran's service-connected hypertension was more likely than not either a causative or aggravating factor in the development of his diabetes mellitus, type II. In this regard, the private clinician conducted an overview of the Veteran's disability picture and explained the pathophysiology of diabetes mellitus type II as it relates to hypertension. The private clinician explained that hypertension is a clinical entity in which insulin resistance is common, is strongly associated with higher risk of developing metabolic complications, including new onset diabetes, as compared to normotension, and it may precede the development of diabetes by several years per medical treatise. The private clinician also cited another study in the United States which reported that type 2 diabetes mellitus was almost 2.5 times as likely to develop in subjects with hypertension as in subjects with normal blood pressure, and that hypertension and diabetes share multiple pathophysiologic mechanisms including inappropriate activation of the renin angiotensin aldosterone system (RAAS), oxidative stress secondary to excessive production of reactive oxygen species (ROS), inflammation, impaired insulin-mediated vasodilatation, increased sympathetic nervous system (SNS) activation, dysfunctional innate and adaptive immune responses and abnormal renal handling of sodium. The clinician concluded that based on the known effects of hypertension on the mechanisms affecting the development of type II diabetes, including inappropriate activation of RAAS, oxidative stress secondary to excessive production of ROS, inflammation, impaired insulin-mediated vasodilatation, and increased sympathetic nervous system (SNS) activation, the Veteran's hypertension led to or  at the very least, contributed as an aggravating factor in the development of the veteran's Diabetes Mellitus Type II condition.
+
+Upon review of the record, the Board finds the evidence is at least in equipoise as to whether the Veteran's current diabetes mellitus type II is secondary to his service-connected hypertension. Although VA examiners offered negative nexus opinions, such opinions were conclusory and either did not address the Veteran's personal history or failed to apply the correct standard to their analysis. Moreover, the private July 2023 rationale lends support of a nexus on a secondary basis, as it found that hypertension can contribute to the development of, or at least worsen, diabetic conditions. Accordingly, after resolving all doubt in favor of the Veteran, the Board finds that service connection for diabetes mellitus type II is warranted as secondary to service-connected hypertension. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+INCREASED RATING
+
+Disability evaluations are determined by the application of VA's Schedule for Rating Disabilities, which is based on average impairment of earning capacity resulting from a service-connected disability. 38 U.S.C. § 1155; 38 C.F.R. Part 4.
+
+The Board will consider whether separate ratings may be assigned for separate periods of time based on facts found, a practice known as "staged ratings." Fenderson v. West, 12 Vet. App. 119, 126-27 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007). Where there is a question as to which of two ratings shall be applied, the higher rating will be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. After careful consideration of the evidence, any reasonable doubt remaining is resolved in favor of the Veteran. 38 C.F.R. § 4.3.
+
+The Veteran's service-connected GERD is rated under DC 7399-7346. Hyphenated Diagnostic Codes are used when a rating under one Diagnostic Code requires use of an additional Diagnostic Codes to identify the basis for the rating assigned. 38 C.F.R. § 4.27. Here, the Veteran's specific disability is not listed in the Rating Schedule. When VA's Rating Schedule does not list the specific disability being rated, the disability is rated under a closely related disease or injury in which the functions affected, the anatomical localization, and the symptomatology are analogous. 38 C.F.R. § 4.20. Disabilities requiring rating by analogy will be coded by the numbers of the most closely related body part and "99." 38 C.F.R. § 4.27.
+
+Under DC 7346, a 10 rating is warranted if two or more of the symptoms for the 30 percent evaluation of less severity is shown. A 30 percent rating is warranted for persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health. A 60 percent rating is warranted for symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health.
+
+The rating code applied does not define the terms "considerable," "severe," or "persistently."  However, the term "considerable" is defined by the dictionary as "large in extent or degree," and "severe" is defined as "very painful or harmful."  Merriam-Webster's Collegiate Dictionary 267, 1140 (11th ed. 2012).  The term "persistently" is defined as "existing for a long or longer than usual time or continuously."  Id. 
+
+In evaluating the Veteran's GERD, the Board may not deny entitlement to a higher rating due to relief provided by medication when those effects are not specifically contemplated by the rating criteria. See Jones v. Shinseki, 26 Vet. App. 56, 62 (2012); see also 38 C.F.R. § 4.114, DC 7346 (containing no reference to the effects of medication).
+
+The Board is cognizant that effective May 19, 2024, VA amended the criteria for rating digestive system disabilities as DC 7346 instructs to rate as stricture of the esophagus under DC 7203; and the rating schedule now specifically lists GERD under DC 7206. However, the appeal period ends prior to these rating schedule changes. 
+
+Entitlement to a rating in excess of 10 percent for gastroesophageal reflux disease (GERD)
+
+The Veteran is currently assigned a 10 percent rating for GERD, effective December 8, 2022, pursuant to DC 7399-7346.
+
+The Veteran was afforded a VA examination in February 2023. The clinician confirmed the Veteran's diagnosis of GERD, and the Veteran noted progressively worsening and increasingly frequent symptoms, including ear pain, substernal chest pain, regurgitation, nausea and heartburn. The Veteran's treatment plan included taking continuous medication, as well as diet restrictions. Signs and symptoms included reflux, regurgitation, substernal pain, sleep disturbances four or more times per year that lasted less than one day, and nausea four or more times per year that lasted less than one day. The Veteran had no esophageal stricture, spasm of the esophagus, or an acquired diverticulum of the esophagus. He had no other pertinent physical findings, complications, conditions, signs, or symptoms related to the GERD.
+
+The Veteran was afforded another VA esophageal conditions examination in August 2023. The clinician confirmed the Veteran's diagnosis of GERD, and the Veteran reported symptoms including burning in chest, headache, heartburn and acid reflux. The Veteran's treatment plan included taking continuous medication, including Omeprazole and OTC Tums. Signs and symptoms included persistently recurrent epigastric distress, pyrosis, reflux, regurgitation, substernal pain, and nausea four or more times per year that lasted between one and nine days. The Veteran had no esophageal stricture, spasm of the esophagus, or an acquired diverticulum of the esophagus. He had no other pertinent physical findings, complications, conditions, signs, or symptoms related to the GERD.
+
+In support of his claim, the Veteran submitted a July 2023 private GERD opinion letter. The private clinician reviewed the record and first pointed to the April 2023 rating decision which conceded the Veteran's symptoms of pyrosis, regurgitation and substernal pain. The clinician also cited the Veteran's lay statement, wherein he reported GERD symptoms including heartburn with acid reflux, a sore throat with painful swallowing, ear pain at least once a day and chest pain during flare ups. The clinician also noted the Veteran's statement that he has to use daily antacids to control his symptoms, and has been prescribed Omeprazole to use on an "as-needed" basis. Finally, the Veteran reported having vitamin deficiencies due to the limited foods he can eat. On the basis of the aforenoted, the private clinician opined that the combination of the Veteran's GERD symptoms is productive of considerable impairment of the Veteran's health, and therefore support the assignment of a 30 percent disability rating per the rating criteria. In addition, the clinician noted that the Veteran's symptoms would drastically increase in severity without the use of his prescribed medication and over the counter Tums. 
+
+Despite continuous prescribed medication, the Veteran's GERD manifested in daily symptoms. The Board finds that the overall evidence shows symptoms of dysphagia, pyrosis, reflux, regurgitation, substernal pain, nausea and sleep impairment.  There is no evidence of weight loss, hematemesis, or melena with anemia during the period on appeal.  The Veteran, who is competent to report the nature, onset and progression of his symptoms, has described significant symptoms that are controlled by prescription medications.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).  While no VA examiner has opined that the Veteran's symptoms cause a considerable impairment of health, given the character and number of symptoms, persistent recurrence is found. In addition, the Board finds the private opinion letter of July 2023 persuasive, in that it addresses the Veteran's overall disability picture as related to his GERD symptomatology. The overall disability picture for the Veteran's GERD most closely approximates the criteria for 30 percent rating.
+
+The Board finds that a rating of 30 percent, but no higher, under DC 7346 is warranted. The Veteran's lay statements in combination with the March 2023 and October 2023 VA examinations reflect symptoms of dysphagia, pyrosis, regurgitation, substernal pain, shoulder pain, and sleep disturbances. Although the examiner indicated that the Veteran's symptoms are not productive of considerable impairment of health, given the nature, frequency, and severity of the Veteran's GERD as described by the Veteran and VA examiners, the Board finds that the Veteran's GERD more closely approximates the criteria for a 30 percent rating.
+
+The Board finds that a rating in excess of 30 percent is not warranted under the prior version of DC 7346. The evidence of record does not demonstrate that the Veteran's GERD manifested in material weight loss and hematemesis or melena with moderate anemia. Further, the evidence does not indicate, nor does the Veteran contend his symptoms were productive of severe impairment of health.
+
+As such, for the period on appeal, a rating of 30 percent, but no higher for the Veteran's GERD is warranted, and the appeal is granted. 
+
+ 
+
+Danette Mincey
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Comninos, Georgio
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

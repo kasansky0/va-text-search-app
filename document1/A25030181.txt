@@ -1,0 +1,85 @@
+Citation Nr: A25030181
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240229-420173
+DATE:       April 1, 2025
+
+ORDER
+
+Entitlement to an evaluation in excess of 10 percent disabling for bilateral hearing loss (BHL) is denied. 
+
+FINDING OF FACT
+
+The Veteran's hearing acuity in both ears is no worse than Level IV throughout the appeal period. 
+
+CONCLUSION OF LAW
+
+The criteria for a disability rating in excess of 10 percent for BHL are not met. 38 U.S.C. §§ 1155 5107; 38 C.F.R. §§ 4.1-4.14, 4.31, 4.85, 4.86; Diagnostic Code (DC) 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service with the United States Army from June 1988 through February 1989, November 1990 through May 1991, April 1994 through April 1997, and May 1997 through May 2000.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a November 2023 Higher Level Review (HLR) decision by the Department of Veterans Affairs (VA) Regional Office (RO), hereinafter the Agency of Original Jurisdiction (AOJ), which denied an evaluation in excess of 10 percent for the Veteran's BHL. The HLR decision stems from a July 2023 HLR Request of a November 2022 rating decision that initially granted service connection for BHL and awarded a 10 percent evaluation effective July 19, 2022. 
+
+The Veteran filed a February 2024 Board Appeal: Notice of Disagreement, VA Form 10182, with that rating decision, electing the Direct Review docket. As such, the Board's review is limited to the evidence of record at the time of the issuance of the decision on appeal, which in a HLR decision is the prior decision issued by the Agency of Original Jurisdiction (AOJ) (November 25, 2022). The Board cannot consider evidence submitted during the period after the issuance of the decision on appeal (on or after November 26, 2022). 38 C.F.R. § 20.301.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+In this case, the Veteran asserts he is entitled to a higher disability rating than was awarded in the November 2022 rating decision granting service connection for his BHL. The Veteran was awarded a 10 percent disability rating in that rating decision, effective July 19, 2022. Therefore, the Board has considered evidence since that date in conjunction with this appeal. See Fenderson v. West, 12 Vet. App, 119 (1999).
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities, found in 38 C.F.R., Part 4. The rating schedule is primarily a guide in the evaluation of disability resulting from all types of diseases and injuries encountered as a result of, or incident to, military service. The ratings are intended to compensate, as far as can practicably be determined, the average impairment of earning capacity resulting from such diseases and injuries and their residual conditions in civilian occupations. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. The basis of disability evaluations is the ability of the body as a whole, or of the psyche, or of a system or organ of the body to function under the ordinary conditions of daily life, including employment. 38 C.F.R. § 4.10.
+
+In determining the severity of a disability, the Board is required to consider the potential application of various other provisions of the regulations governing VA benefits, whether or not they were raised by the Veteran, as well as the entire history of the Veteran's disability. 38 C.F.R. §§ 4.1, 4.2; Schafrath v. Derwinski, 1 Vet. App. 589, 595 (1991). If the disability more closely approximates the criteria for the higher of two ratings, the higher rating will be assigned; otherwise, the lower rating is assigned. 38 C.F.R. § 4.7. It is not expected that all cases will show all the findings specified; however, findings sufficiently characteristic to identify the disease and the disability therefrom and coordination of rating with impairment of function will be expected in all instances. 38 C.F.R. § 4.21. After consideration of the evidence, any reasonable doubt remaining is resolved in favor of the Veteran. 38 C.F.R. § 4.3. The evaluation of the same disability under various diagnoses, and the evaluation of the same manifestation under different diagnoses, are to be avoided. 38 C.F.R. § 4.14.
+
+Where the question for consideration is the propriety of the initial evaluation assigned, evaluation of the medical evidence since the grant of service connection and consideration of the appropriateness of a "staged rating" (assignment of different ratings for distinct periods of time, based on the facts found) is required. See Fenderson v. West, 12 Vet. App. 119 (1999). Where an increase in the level of a service-connected disability is at issue, the primary concern is the present level of disability. Francisco v. Brown, 7 Vet. App. 55, 58 (1994). Nevertheless, the Board acknowledges that a claimant may experience multiple distinct degrees of disability that might result in different levels of compensation from the time the increased rating claim was filed until a final decision is made. Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007).
+
+When evaluating service-connected hearing impairment, disability ratings are derived by a mechanical application of the rating schedule to the numeric designations assigned in audiometric evaluations. Lendenmann v. Principi, 3 Vet. App. 345, 349 (1992). The Rating Schedule provides rating tables for the evaluation of hearing impairment. Evaluations of defective hearing range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of a controlled Maryland CNC speech discrimination test together with the average hearing threshold level measured by pure tone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz or Hz) under Tables VI or VIA. 38 C.F.R. § 4.85, Diagnostic Code 6100. 
+
+Table VI assigns a Roman numeral designation (I through XI) for hearing impairment based on a combination of percent speech discrimination and the puretone threshold average (the sum of the puretone thresholds at 1000, 2000, 3000 and 4000 Hertz, divided by four). See Id. Table VIA will be used when the examiner certifies that use of the speech discrimination test is not appropriate because of language difficulties, inconsistent speech discrimination scores, etc., or when indicated under the provisions of 38 C.F.R. § 4.86, which provides for exceptional patterns of hearing impairment. An exceptional pattern of hearing impairment occurs when the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hz) is 55 decibels or more, see 38 C.F.R. § 4.86(a), or when the average pure tone threshold is 30 decibels or less at 1000 Hz, and 70 decibels or more at 2000 Hz, see 38 C.F.R. § 4.86(b). When utilizing Table VIA, the rating specialist will determine the Roman numeral designation for hearing impairment from both Table VI or Table VIA, and then use whichever results in the higher numeral. Table VII is then used to determine the percentage evaluation by combining the Table VI or Table VIA Roman numeral designations for hearing impairment in each ear. See 38 C.F.R. § 4.85, DC 6100.
+
+Turning to the evidence of record within the appliable appeal period, the Veteran, in August 2022, submitted an August 2019 private medical record containing a provider note regarding his hearing. The provider noted that the Veteran suffers from BHL that began in 2015. The provider found the Veteran's hearing loss to be moderate and that it was worsening. The record did not contain any audiometric testing. 
+
+The Veteran also submitted, in August 2022, an October 2019 nexus statement provided by a private medical provider. The provider opined that it was at least as likely as not that the Veteran's hearing loss was due to the Veteran's significant history of noise exposure associated with the onset of the Veteran's tinnitus. The provider did not perform any audiometric testing. 
+
+The Veteran also submitted an August 21, 2022, Statement in Support of Claim. The Veteran stated he is unable to hear clearly due to the ringing in his ears and that sometimes things sound muffled. The Veteran will have to ask people to repeat what they said after this ringing ends. He also stated his symptoms are getting more severe. 
+
+The Veteran was afforded a September 2022 VA medical examination to evaluate his BHL. The Veteran reported exposure to loud noise including exposure ot diesel engines, Bradley vehicles, generators, big guns, and heavy equipment. He also stated feeling embarrassed from having to ask people to repeat what they say. 
+
+Maryland CNC Word List speech recognition score and audiometric puretone thresholds, in decibels, were obtained during that examination as follows:
+
+	HERTZ
+
+ 	1000	2000	3000	4000	Avg	MDCNC
+
+RIGHT	50	60	65	60	58.75	76%
+
+LEFT	55	55	65	55	57.50	78%
+
+The examination demonstrates an exceptional pattern of hearing impairment under 38 C.F.R. § 4.86 for the Veteran's left ear. Therefore, the Board will determine the Roman numeral designation for hearing impairment of the left ear from either Table VI or Table V1a, whichever results in the higher numeral. 
+
+Applying the results of the September 2022 examination to Table VI, the findings yield a numeric designation of Level IV for the Veteran's left ear. Applying the results of the September 2022 examination to Table VIa, the findings likewise yield a numeric designation of Level IV for the Veteran's left ear. Therefore, the numerical designation for the Veteran's left is IV.
+
+Applying the results of the September 2022 examination to Table VI for the Veteran's right ear, the findings yield a numeric designation of Level IV. 
+
+Entering the resulting bilateral numeric designation of both the left ear and the right ear to 38 C.F.R. § 4.85, Table VII, equates to a 10 percent disability rating under Diagnostic Code 6100. 
+
+The Board expressly acknowledges its consideration of the lay evidence of record, including the impact that the Veteran's hearing loss has on his daily life. See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007). The Board is cognizant of the Veteran's contentions concerning his difficulty in hearing, as noted in his Statement in Support of Claim and VA medical examination which include muffled noises and asking people to repeat themselves during conversation. See Martinak v. Nicholson, 21 Vet. App. 447, 455-56 (2007). While the Veteran is competent to report difficulty with his hearing, including not being able to understand what people are saying; disability ratings for hearing loss are derived from a mechanical application of the rating schedule to the numeric designations resulting from audiometric testing. See Lendenmann v. Principi, 3 Vet. App. 345 (1992).
+
+The rating criteria contemplate speech reception thresholds and ability to hear spoken words on Maryland CNC testing. The functional impact that the Veteran describes is contemplated by the rating criteria. Doucette v. Shulkin, 28 Vet. App. 366 (2017). The Veteran's main complaint is reduced hearing acuity and clarity, which is what is contemplated in the rating assigned. See Rossy v. Shulkin, 29 Vet. App. 142, 145 (2017). 
+
+(continued on next page)
+
+Accordingly, the Veteran's claim for an increased evaluation in excess of the currently assigned 10 percent rating is denied.  See 38 C.F.R. §§ 4.85, 4.86, DC 6100. In reaching the above conclusions, the Board has considered the applicability of the benefit of the doubt doctrine. However, as the evidence is against the Veteran's claims, that doctrine is not applicable in the instant appeal. See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102. 
+
+ 
+
+Neely M. Peden
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. Colt Roan
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

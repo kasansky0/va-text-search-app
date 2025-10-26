@@ -1,0 +1,89 @@
+Citation Nr: A25034701
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240924-476384
+DATE: April 15, 2025
+
+REMANDED
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from August 1970 to June 1972 and April 1975 to April 1977.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a September 2024 Department of Veterans Affairs (VA) Regional Office rating decision. 
+
+In May 2024, the Veteran submitted VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a rating decision issued earlier that month. In August 2024, the Higher-Level Reviewer determined that there had been a duty to assist error and transferred the claim to the Supplemental Claim decision review option for additional development. In September 2024, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal.
+
+In September 2024, the Veteran submitted VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), and selected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the September 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the Veteran's bilateral hearing loss service connection claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+The Veteran seeks service connection for bilateral (both ears) hearing loss.
+
+Generally, to establish a right to compensation for a present disability, a veteran must show: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service, the so-called "nexus" requirement. Shedden?v. Principi,?381 F.3d 1163, 1167?(Fed. Cir. 2004).
+
+Service connection may be established on a secondary basis for a disability that is caused or aggravated by a service-connected disease or injury. 38 C.F.R. § 3.310(a).
+
+The "present disability" and "in-service incurrence" service connection requirements have been met, as VA has conceded both that the Veteran has a bilateral hearing loss disability for VA purposes and that he experienced hazardous noise exposure during service. Therefore, the question before the Board is whether the "nexus" requirement is satisfied, i.e., whether the Veteran's in-service noise exposure caused his current hearing loss disability.
+
+After review of the record, the Board finds that the Veteran's claim must be remanded to correct a duty to assist error that occurred prior to the September 2024 rating decision on appeal. 38 C.F.R. § 20.802(a). Specifically, remand is required to obtain a medical nexus opinion that is adequate for adjudication.
+
+The Board notes that remand is only required pursuant to VA's duty to assist. Remand is not required under the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act). Although the Veteran has presumptive in-service herbicide exposure due to his service in the offshore waters of Vietnam, VA has determined based on cumulative scientific data reported by the National Academies of Sciences that there is no positive association between herbicide exposure and hearing loss. See 38 U.S.C. § 1168(b) (stating that VA is not required to obtain a medical examination or nexus opinion to determine whether a disability was caused by in-service toxic exposure "if the Secretary determines there is no indication of an association between the disability claimed by the veteran and the toxic exposure risk activity for which the veteran submitted evidence"); VBA Letter 20-22-10, December 2022 (asserting that the Secretary has determined that hearing loss has no positive association with herbicide exposure). As such, the Board need not consider whether the VA medical nexus opinion of record that addresses the Veteran's presumptive herbicide exposure is adequate for adjudication.
+
+There are three VA medical nexus opinions of record that address whether the Veteran's current hearing loss disability was caused by in-service noise exposure.
+
+The examiner who conducted the Veteran's VA examination in October 2023 opined that the Veteran's current hearing loss disability was less likely than not caused by service because the Veteran's in-service hearing test results did not show a significant threshold shift. The examiner also noted that the Veteran reported significant post-service noise exposure to firearms, power tools, chain saws, woodworking equipment, and tractors without the use of hearing protection.
+
+In March 2024, the examination contractor found the examiner's rationale to be insufficient and requested an addendum opinion from another clinician. The second clinician also opined that the Veteran's current hearing loss disability was less likely than not caused by service. The clinician explained that the "gold standard for determination of auditory damage is [a] positive, permanent shift in auditory thresholds." The examiner detailed that the National Institute for Occupational Safety and Health (NIOSH) "recommends that [a] significant threshold shift defined as a 15dBHL shift or more at any one frequency of 500 Hz to 4000 Hz." As the Veteran's in-service hearing tests did not demonstrate such a threshold shift, the clinician opined that the Veteran's current hearing loss disability was more likely related to post-military noise and/or aging.
+
+In August 2024, the Higher-Level Reviewer determined that the opinions of record were inadequate for adjudication because the Veteran's lay statements were not adequately addressed. The Veteran emphasized at his August 2024 Higher-Level Review informal conference that he was exposed to numerous noises during service, did not having hearing protection available at that time, and fired every weapon in the inventory during service to get qualified. The Board notes that the Veteran's service treatment records document the issuance of hearing protection in May 1975, but that no such documentation exists for his first period of active service from August 1970 to June 1972. 
+
+A new VA nexus opinion was rendered in September 2024. The opinion noted the NIOSH and VA standard for a significant threshold shift, namely a decrease of 15 decibels or more at any one frequency. The opinion then stated that the "gold standard for determination of auditory damage is a positive, permanent shift in auditory thresholds." The opinion offered that no significant, permanent threshold shifts are demonstrated by the three in-service hearing test reports available (audiometry results are provided on the Veteran's 1970 and 1975 enlistment examination reports and 1977 separation examination report; however, the Veteran's 1972 separation examination report does not include audiometry results). The opinion cited to relevant medical literature that supports the proposition that noise exposure only leads to permanent hearing loss when there is a permanent, significant threshold shift proximate in time to the noise exposure. The opinion then discussed the Veteran's other risk factors for hearing loss, which include diabetes, hypertension, post-service occupational noise exposure as a deputy sheriff, and post-service recreational noise exposure. The opinion concluded by explaining that the Veteran's current pattern of hearing loss is "a fairly flat configuration in both ears that is not consistent with noise exposures."
+
+The September 2024 opinion is generally quite thorough, with an analysis of relevant medical literature and logical application of medical principles to the specific facts of the Veteran's case; however, the opinion falls short in two ways that make it inadequate for adjudication. The first shortcoming is that no hearing test results were documented at the 3000 Hertz frequency in 1970 or 1975. Therefore, the examiner cannot draw a definitive conclusion that there was no significant, permanent threshold shift at any frequency during service. The second shortcoming is that the examiner described the Veteran's diabetes and hypertension as "high-risk medical factors for hearing loss." As the Veteran is service-connected for both diabetes and hypertension, the examiner's statement raises a theory of secondary service connection. Therefore, remand is required to obtain an opinion that considers the absence of documented in-service hearing test results at 3000 Hertz and addresses whether service connection secondary to hypertension, diabetes, or both is warranted. See Doucette v. Shulkin, 28 Vet. App. 366, 370 (2017) (explaining that VA must consider all theories of service connection raised by the claimant or reasonably raised by the evidence of record). 
+
+The matter is REMANDED for the following action:
+
+Obtain an addendum opinion from an appropriate clinician, preferably the clinician who rendered the September 2024 nexus opinion. If deemed necessary by the examiner, afford the Veteran a VA examination.
+
+The examiner must review the claims file, to include this Remand, and attest to having fully reviewed it.
+
+The examiner is asked to provide a response to the following inquires:
+
+(a)	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's current hearing loss disability had its onset in service, or is otherwise related to his active duty service?
+
+In responding to this inquiry, the examiner must address the absence of in-service audiometry results at 3000 Hertz in 1970, 1972, and 1975.
+
+(b)	Is it at least as likely as not (likelihood is approximately balanced or nearly equal, if not higher) that the Veteran's current hearing loss disability was caused by his service-connected hypertension, diabetes, or both?
+
+(c)	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's current hearing loss disability was aggravated (worsened beyond its natural progression, even if only temporarily or incrementally) by his service-connected hypertension, diabetes, or both?
+
+The term "at least as likely as not" means that the weight of the medical evidence both for and against a conclusion is at least approximately balanced, or nearly equal, and therefore it is at least as medically sound to find in favor of the conclusion as it is to find against the conclusion.
+
+The examiner is advised that, while the extent to which a scientific theory is accepted in the scientific community is a relevant consideration, a positive nexus opinion for service connection requires only an approximate balance of positive and negative evidence. Scientific consensus or certainty is not required
+
+Any opinions expressed must include a thorough rationale specific to the circumstances of the Veteran's case. If medical literature is relied upon, the examiner should identify and specifically cite each reference material and discuss how it relates to the Veteran's particular medical history. If the examiner is unable to offer an opinion without resort to speculation, a thorough explanation should be provided as to why an opinion cannot be rendered.
+
+In providing the requested opinion, the examiner must address the Veteran's assertions on examination and any additional lay statements of record. The Veteran is competent to attest to factual matters of which he has first-hand knowledge, and if there is a medical basis to support or doubt the history provided by the Veteran, the examiner should provide a fully reasoned explanation.
+
+The examiner is reminded that an absence of documented treatment in or after service is an insufficient basis, by itself, for a negative opinion. 
+
+The examiner is reminded that if positive and negative evidence is in approximate balance as to any issue, the Veteran should receive the benefit of the doubt.
+
+ 
+
+ 
+
+KRISTI L. GUNN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Karp, B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

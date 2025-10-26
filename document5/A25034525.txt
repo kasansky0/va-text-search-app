@@ -1,0 +1,145 @@
+Citation Nr: A25034525
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 231204-397474
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to an initial rating in excess of 10 percent for right lower extremity sciatic radiculopathy is denied.
+
+Entitlement to a separate rating for neuralgia of the right sciatic nerve is granted, subject to the laws and regulations governing the award of monetary benefits.
+
+Entitlement to an initial compensable rating for chronic nasal congestion is denied.
+
+REMANDED
+
+Entitlement to service connection for a right hip condition is remanded.
+
+FINDINGS OF FACT
+
+1. The competent and probative evidence of record reflects that the Veteran's right lower extremity radiculopathy is manifest by mild incomplete paralysis of the sciatic nerve, but not worse.  
+
+2. The competent and probative evidence of record reflects that the Veteran has moderate neuralgia of the sciatic nerve.  
+
+3. The competent and probative evidence of record is persuasively against finding that the Veteran's chronic nasal congestion results in one or two incapacitating episodes per year requiring prolonged (lasting four to six weeks) antibiotic treatment, or; three to six non-incapacitating episodes per year of sinusitis characterized by headaches, pain, and purulent discharge or crusting.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for an initial rating in excess of 10 percent for right lower extremity radiculopathy have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.7, 4.124a, Diagnostic Code 8520.
+
+2. The criteria for a separate rating for neuralgia of the right sciatic nerve have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.7, 4.124a, Diagnostic Code 8620.
+
+3. The criteria for a compensable rating for chronic nasal congestion have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.2, 4.3, 4.7, 4.97, Diagnostic Code 6511.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active military service from August 2001 to December 2001 and from January 2004 to March 2005, with additional periods of service in the National Guard.
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from an April 2023 rating decision regarding nasal congestion, a September 2023 rating decision regarding right lower extremity radiculopathy, and an October 2023 rating decision regarding a right hip condition, issued by a Department of Veterans Affairs (VA) regional office, the Agency of Original Jurisdiction (AOJ).
+
+In May 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the service connection claim for a right hip condition and an increased rating claim for the service-connected right lower extremity radiculopathy most recently addressed in a November 2022 rating decision.  In September 2023, the AOJ issued the supplemental claim decision regarding right lower extremity radiculopathy.  In October 2023, the AOJ issued the supplemental claim decision regarding service connection for the right hip condition.  Both rating decisions found that new and relevant evidence had been received and denied the claims based on the evidence of record at the time of that decision.  Therefore, the Board may only consider the evidence of record at the time of the respective decisions on appeal and any evidence submitted during an applicable evidentiary window.
+
+In the December 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the April 2023 rating decision regarding nasal congestion, the September 2023 rating decision regarding right lower extremity radiculopathy, and the October 2023 rating decision regarding a right hip condition.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the service connection claim for the right hip condition, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+Increased Ratings
+
+Disability evaluations are determined by the application of the facts presented to VA's Schedule for Rating Disabilities (Rating Schedule) at 38 C.F.R. Part 4. The percentage ratings contained in the Rating Schedule represent, as far as can be practicably determined, the average impairment in earning capacity resulting from diseases and injuries incurred or aggravated during military service and the residual conditions in civilian occupations. 38 U.S.C. § 1155; 38 C.F.R. §§ 3.321(a), 4.1.
+
+Where the question for consideration is the propriety of the initial evaluation assigned, consideration of the medical evidence since the effective date of the award of service connection and consideration of the appropriateness of a "staged" rating is required. See Fenderson v. West, 12 Vet. App. 119, 125-26 (1999). VA adjudicators must consider whether to assign different ratings at different times during the rating period to compensate the Veteran for times when the disability may have been more severe than at others. The Court of Appeals for Veterans Claims has since extended this practice even to established ratings, not just initial ratings. See Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007).
+
+Increased Rating - Right Lower Extremity Sciatic Radiculopathy
+
+The Veteran asserts that an initial rating in excess of 10 percent for the service-connected right lower extremity sciatic radiculopathy is warranted.
+
+VA received the Veteran's supplemental claim for right lower extremity radiculopathy on May 17, 2023. Because this was within 1 year of the November 2022 rating decision, continuous pursuit has been established, and the Board will consider whether the Veteran is entitled to an initial rating in excess of 10 percent for right lower extremity sciatic neuropathy from August 8, 2022, the date service connection was awarded in the November 2022 rating decision.  
+
+The criteria for evaluating the severity or impairment of the sciatic nerve are set forth under Diagnostic Code 8520. Diagnostic Code 8520 provides for 10, 20, and 40 percent disability ratings when incomplete paralysis of the sciatic nerve is mild, moderate, or moderately severe, respectively. A 60 percent rating requires severe incomplete paralysis of the sciatic nerve, with marked muscular atrophy. 
+
+A note in the Rating Schedule pertaining to "Diseases of the Peripheral Nerves" provides that the term "incomplete paralysis" indicates a degree of lost or impaired function which is substantially less than that which results from complete paralysis of these nerve groups, whether the loss is due to the varied level of the nerve lesion or to partial nerve regeneration.  When the involvement is wholly sensory, the rating should be for the mild, or at most, the moderate degree. 38 C.F.R. § 4.124a, Diagnostic Codes 8510 through 8540. The ratings for the peripheral nerves are for unilateral involvement; when bilateral, combine with application of the bilateral factor.  38 C.F.R. § 4.124.
+
+The words "slight," "moderate" and "severe" as used in the various diagnostic codes are not defined in the VA Schedule for Rating Disabilities.  Rather than applying a mechanical formula, the Board must evaluate all of the evidence, to the end that its decisions are "equitable and just."  38 C.F.R. § 4.6.  It should also be noted that use of terminology such as "severe" by VA examiners and others, although an element of evidence to be considered by the Board, is not dispositive of an issue.  All evidence must be evaluated in arriving at a decision regarding an increased rating.  38 C.F.R. §§ 4.2, 4.6.  For reference and illustrative purposes, the Merriam-Webster dictionary defines "mild" as not being or involving what is extreme; "moderate" as tending toward the mean or average amount or dimension; and "severe" as "of a great degree." See https://www. merriam-webster.com/dictionary/mild; www.merriam-webster.com/dictionary/ moderate; www.merriam-webster.com/dictionary/severe.
+
+Neuritis, cranial or peripheral, characterized by loss of reflexes, muscle atrophy, sensory disturbances, and constant pain, at times excruciating, is to be rated on the scale provided for injury of the nerve involved, with a maximum equal to severe, incomplete, paralysis. The maximum rating which may be assigned for neuritis not characterized by organic changes referred to in this section will be that for moderate, or with nerve involvement, for moderately severe, incomplete paralysis.  38 C.F.R. § 4.123. Neuralgia, cranial or peripheral, characterized usually by a dull and intermittent pain, of typical distribution so as to identify the nerve, is to be rated on the same scale, with a maximum equal to moderate incomplete paralysis. Tic douloureux, or trifacial neuralgia, may be rated up to complete paralysis of the affected nerve.  38 C.F.R. § 4.124.
+
+The Veteran was afforded a VA examination for the thoracolumbar spine in September 2022. The examiner reported that the Veteran had no constant pain in his right lower extremity, but had moderate intermittent pain, and mild numbness and paresthesias. The examiner indicated that there were no other signs or symptoms of neuropathy. The examiner did not identify the overall degree of severity of the right lower extremity sciatic neuropathy, but did indicate that the sciatic nerve was the only nerve affected.  Sensory, muscle strength, and reflex examinations showed normal results for all areas tested.  
+
+The Veteran was afforded a VA examination for the thoracolumbar spine in August 2023. The examiner noted that the Veteran had associated constant bilateral paresthesia with standing. The examiner noted that the Veteran had constant mild pain, intermittent moderate pain, and mild paresthesias and numbness in his right lower extremity. The examiner indicated that there were no other signs or symptoms of neuropathy. The examiner did not identify the overall degree of severity of the right lower extremity sciatic neuropathy, but did indicate that the sciatic nerve was the only nerve affected.  Sensory, muscle strength, and reflex examinations showed normal results for all areas tested.  
+
+A review of the Veteran's post-service VA treatment records shows complaints for radicular pain in his legs.  However, there is no indication of the severity of the pain, or any other description of symptoms. A review of the post-service private treatment records shows that he reported his right lower extremity was tight, but does not otherwise discuss other symptoms, or their severity.  
+
+The Board finds that the Veteran's right lower extremity sciatic nerve radiculopathy is manifest by no more than mild incomplete paralysis, such that an evaluation in excess of 10 percent is not warranted under Diagnostic Code 8520. The Board acknowledges that the Veteran was found to moderate intermittent pain, by both VA examiners of record.  However, he was also found to have mild numbness, paresthesias, and constant pain by the same examiners. Further, while the Veteran's VA treatment records show that he endorsed tightness in his right lower extremity and radicular pain in his legs, there was no indication on the severity of those symptoms.  Here, the majority of the Veteran's reported right lower extremity radiculopathy symptoms were found to be mild.  As such, the Board finds that the Veteran's incomplete paralysis of the right sciatic nerve is best characterized as mild.  
+
+The Board has also considered other potentially applicable Diagnostic Codes. Esteban v. Brown, 6 Vet. App. 259, 262 (1994).  However, there is no evidence showing the Veteran has neurological impairment associated with any other peripheral nerves during the period on appeal besides the sciatic nerve.  As such, a separate or higher rating under a different Diagnostic Code for another peripheral nerve is not warranted for the Veteran's right lower extremity.
+
+However, the Board recognizes the holding in Banschbach v. McDonough, 37 Vet. App. 422 (2024), where the Court found that 38 C.F.R. § 4.124a does not necessarily prohibit the assignment of separate compensable ratings for paralysis, neuritis, and neuralgia. Here, the Board finds that a separate initial 20 percent rating for moderate neuritis is warranted.  In this regard, the Veteran was found to have moderate intermittent pain by both VA examiners of record.  38 C.F.R. § 4.124 notes that neuralgia is characterized usually by a dull and intermittent pain.  Based on such, the Board is satisfied that the Veteran has met the criteria for a separate rating for neuralgia of the right sciatic nerve.  Regarding pyramiding, the 10 percent rating for mild incomplete paralysis of the right lower extremity is based on mild numbness and mild paresthesias.  Here, the Veteran's intermittent pain, of a greater severity, warrants a separate rating from the other enumerated symptoms, as the other rating is based on symptoms other than pain. As such, the Board finds that the separately awarded rating does not constitute prohibited pyramiding.  38 CFR § 4.14. 
+
+Accordingly, the criteria for an initial rating in excess of 10 percent for right lower extremity mild incomplete paralysis have not been met; but a separate rating for neuralgia of the right sciatic nerve have been met.  
+
+The Board has considered the doctrine of reasonable doubt but has determined that it is inapplicable, because otherwise the evidence is persuasively against the assignment of higher ratings. 38 U.S.C. § 5107 (b); 38 C.F.R. §§ 4.3, 4.7.
+
+Increased Rating - Chronic Nasal Congestion
+
+The Veteran asserts that an initial rating in excess of 10 percent for the service-connected chronic nasal congestion is warranted. An April 2023 rating decision granted service connection for chronic nasal congestion and assigned an initial noncompensable percent rating, effective February 9, 2023, the date of claim.  The Veteran disagreed with the assigned initial noncompensable percent rating, and this appeal ensued.  As such, the Board will adjudicate whether the Veteran is entitled to an initial compensable rating.  
+
+The Veteran's chronic nasal congestion with epistaxis (nosebleed) is rated noncompensable disabling (0 percent) under Diagnostic Code 8865-6513. See Rating Decision dated April 18, 2023. This hyphenated diagnostic code indicates that the condition is rated by analogy to chronic maxillary sinusitis, which is turn is rated using the General Rating Formula for Sinusitis. 
+
+Under the General Rating Formula for Sinusitis, a noncompensable rating is warranted when sinusitis is detected by x-ray only. A 10 percent rating is warranted for one or two incapacitating episodes per year of sinusitis requiring prolonged (lasting four to six weeks) antibiotic treatment, or; three to six non-incapacitating episodes per year of sinusitis characterized by headaches, pain, and purulent discharge or crusting. A 30 percent rating is warranted for three or more incapacitating episodes per year of sinusitis requiring prolonged (lasting four to six weeks) antibiotic treatment, or; more than six non-incapacitating episodes per year of sinusitis characterized by headaches, pain, and purulent discharge or crusting. A 50 percent rating is warranted following radical surgery with chronic osteomyelitis, or; near constant sinusitis characterized by headaches, pain and tenderness of affected sinus, and purulent discharge or crusting after repeated surgeries. Id. 
+
+An incapacitating episode is one that requires bed rest and treatment by a physician. 38 C.F.R. § 4.97, General Rating Formula for Sinusitis, at Note.
+
+The Veteran was afforded a VA examination in March 2023.  The Veteran reported chronic right-sided nasal congestion that occurred year-round.  The examiner noted that the Veteran had epistaxis and chronic nasal congestion.  The examiner reported that there was not a greater than 50 percent obstruction of the nasal passage on both sides; that there was no complete obstruction on the left or right side. There was no evidence of hypertrophy of the nasal turbinates or nasal polyps.  
+
+A review of the Veteran's post-service treatment records shows that he had an otolaryngology ("ear nose throat") consultation in July 2021.  The physician noted that he saw no evidence of polyps, purulent discharge, or masses.  
+
+The Board finds that the Veteran's service-connected disability is manifest by nosebleeds and chronic nasal congestion, such that an initial compensable rating is not warranted under Diagnostic Codes 8865-6513. Regarding rhinitis symptoms, the Veteran was not found to have greater than 50 percent obstruction of nasal passages on both sides or complete obstruction on one side, or polyps.  Regarding sinusitis symptoms, he has not been shown to have non-incapacitating or incapacitating episodes of sinusitis in the previous 12 months; had not undergone any surgery for sinusitis; and no other pertinent findings were indicated. Further, there was no indication that the Veteran had headaches, pain, or purulent discharge or crusting related to this service-connected disability.  The Board acknowledges that the Veteran had reported headaches; however, he has been diagnosed with migraine headaches and there was no indication that any headache pain was related to his nasal congestion.  
+
+The Board acknowledges the Veteran's assertion that he is entitled to an initial compensable rating.  However, the most probative clinical evidence of record has indicated that he does not meet the criteria for a compensable rating under Diagnostic Codes 8865-6513.  The Board recognizes the symptomatology experienced by the Veteran and does not wish to minimize it.  However, the Board finds that the objective medical evidence of record regarding his chronic nasal congestion and nosebleeds is afforded more probative weight than the assertions made by the Veteran.  
+
+Accordingly, the criteria for an initial compensable rating for chronic nasal congestion have not been met. The appeal for a higher rating must be denied. The Board has considered the doctrine of reasonable doubt but has determined that it is inapplicable, because otherwise the evidence is persuasively against the assignment of higher ratings. 38 U.S.C. § 5107 (b); 38 C.F.R. §§ 4.3, 4.7.
+
+REASONS FOR REMAND
+
+Service Connection - Right Hip Condition
+
+The Veteran asserts that service connection is warranted for a right hip condition.  Specifically, he asserts that his hip issue is directly related to the service-connected lumbar spine disability and bilateral foot disability because he continually shifts and alters his positions throughout the day.  
+
+A review of the Veteran's service treatment records (STRs) does not appear to show any complaints, treatment, or diagnosis for any right hip conditions.
+
+The Veteran was afforded a VA examination in September 2022.  The Veteran reported that he had never used any assistive devices for ambulation and that he has never walked with a chronically altered gait or weightbearing mechanics.  After an in-person examination and a review of the Veteran's claims file, the examiner found that the Veteran did not have a current diagnosis for any hip conditions.  The examiner also provided a negative nexus opinion. The examiner explained that because the Veteran reported that he had never used any assistive devices for ambulation and that he has never walked with a chronically altered gait or weightbearing mechanics, it was less likely than not that any hip condition was caused or aggravated by the service-connected bilateral foot condition or the lumbar spine disability.  
+
+The Veteran was afforded a VA examination in August 2023.  After an in-person examination and a review of the Veteran's claims file, the examiner diagnosed femoral acetabular impingement syndrome in the right hip.  However, the examiner provided a negative nexus opinion.  The examiner explained that there was no indication of a diagnosis, with regard to the pain.  The examiner noted that the post-service treatment records showed complaints for hip pain, but not sufficient to have an alternate diagnosis.  Given such, it was less likely than not that the claimed condition was caused by his active-duty service.  
+
+Here, the Board finds that the medical opinions provided by the VA examiners of record are inadequate for adjudication purposes.  In this regard, the September 2022 VA examiner did not take into account the Veteran's report that the service-connected lumbar spine disability and bilateral foot disability caused him to continually shift and alter his positions throughout the day.  The examiner noted that the Veteran reported that he did not walk with an altered gait, but the examiner did not discuss whether the service-connected lumbar and foot disabilities actually caused an altered gait.  The Board finds that the examiner should have undertaken the necessary testing to ascertain whether the Veteran indeed had an altered gait due to the lumbar and/or feet and whether the Veteran's reports of constantly shifting and altering his position, in a non-ambulatory way, could cause any hip conditions.  
+
+Regarding the August 2023 VA examiner, he noted a diagnosis for femoral acetabular impingement syndrome in the right hip, but also reported that there was no indication of a diagnosis with regard to the pain.  Further, the examiner provided an opinion regarding direct service connection, when the Veteran specifically reported that his hip condition was due to service-connected disabilities. Finally, pain can constitute a disability if it results in functional impairment of earning capacity. See Saunders v. Wilkie, 886 F.3d 1356, 1368 (Fed. Cir. 2018). Based on the foregoing, the Board finds that the nexus opinions of record are inadequate, and that the AOJ's reliance on such opinions are a pre-decisional duty to assist error, such that remand is warranted.
+
+The matter is REMANDED for the following action:
+
+1. Schedule the Veteran for a VA examination for the Veteran's right hip condition.  Any necessary testing to ascertain whether the Veteran has an altered gait should be undertaken.  The examiner should provide the following opinions:
+
+a) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's right hip condition was caused by the service-connected spine and/or bilateral foot conditions?  Why or why not?
+
+2. b) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's right hip condition was aggravated (made worse) by the service-connected spine and/or bilateral foot conditions?  Why or why not?
+
+If aggravation is found, the examiner should identify the baseline level of severity of the right hip condition by medical evidence created before the onset of aggravation or by the earliest medical evidence created at any time between the onset of aggravation and the receipt of medical evidence establishing the current level of severity of the right hip condition.
+
+The examiner should consider and discuss the Veteran's assertion that his hip issue is directly related to the service-connected lumbar spine disability and bilateral foot disability because he continually shifts and alters his positions throughout the day.  
+
+ 
+
+ 
+
+J. Kirby
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Fu, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

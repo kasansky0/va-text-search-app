@@ -1,0 +1,85 @@
+Citation Nr: A25031253
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 211223-207226
+DATE: April 4, 2025
+
+ORDER
+
+Readjudication of the claim for entitlement to service connection for an acquired psychiatric disorder is not warranted.
+
+FINDING OF FACT
+
+New evidence was not received after the August 2018 denial that is relevant to the issue of entitlement to service connection for an acquired psychiatric disorder.
+
+CONCLUSION OF LAW
+
+The criteria for readjudicating the claim for entitlement to service connection for an acquired psychiatric disorder are not met.  38 C.F.R. § 3.156.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 2003 to April 2007.
+
+In December 2020, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the issue of entitlement to service connection for schizophrenia and bipolar disorder most recently addressed in an August 2018 rating decision. In January 2021, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had not been received. In the December 2021 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the direct review docket.  Therefore, the Board must determine whether new and relevant evidence has been received based only on the evidence of record at the time of the January 2021 decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+The Board notes that although the Veteran elected the direct review docket, he submitted evidence with his December 2021 Notice of Disagreement.  As such, the Board of Veterans' Appeals (Board) sent the Veteran correspondence in February 2025 requesting for him to respond and indicate whether he intends his appeal to be processed under the direct review docket or the evidence submission docket.  The Veteran was advised that if he did not respond, his appeal would be dismissed.  38 C.F.R. § 20.202(f)-(g).  In March 2025, the Veteran responded that he wants his appeal to be processed under the direct review docket and that he understands that any additional evidence submitted with his December 2021 Notice of Disagreement would not be considered. 
+
+Analysis
+
+The Veteran's claim for entitlement to service connection for an acquired psychiatric disorder was initially denied in an August 2012 rating decision.  The Veteran was notified of this decision and his appeal rights but did not perfect a timely appeal.  Moreover, no evidence pertaining to the Veteran's claim was associated with the claims file within one year of the AOJ's decision.  As a result, the August 2012 decision became final.
+
+The Veteran's claim for entitlement to service connection for an acquired psychiatric disorder was most recently denied in an August 2018 rating decision.  The Veteran was notified of this decision and his appeal rights but did not perfect a timely appeal.  Moreover, no evidence pertaining to the Veteran's claim was associated with the claims file within one year of the AOJ's decision.  As a result, the August 2018 decision became final.
+
+The initial question before the Board is whether VA received evidence after the August 2018 final denial regarding the Veteran's claim for service connection, and if so, whether that evidence is new and relevant to his claim.
+
+In the August 2018 rating decision, the AOJ found that there was no nexus linking the Veteran's acquired psychiatric disorder to his service.  The AOJ noted that the Veteran's military deployment to Iraq would qualify as a stressful event, but that there was no evidence showing symptoms of an acquired psychiatric disorder in service.
+
+When the Veteran's claim was denied in August 2018, the record contained the Veteran's service treatment records, post-service medical records, VA examinations, and lay statements.
+
+Evidence associated with the claims file after the August 2018 final denial includes the Veteran's outpatient treatment records, a July 2018 VA examination, and lay statements.
+
+With respect to the medical treatment records, these records are not new and relevant for purposes of reopening the claim as they do not address the question of whether the Veteran's acquired psychiatric disorder is related to his service.  The fact that the Veteran had an acquired psychiatric disorder was known at the time of the August 2018 decision.
+
+In determining that the Veteran's ongoing treatment records are not new and relevant evidence, the Board is aware of the guidance provided in the VA Adjudication Manual, M21-1, Part X, Subpart ii, Chapter 2, Section A.2.d - Definition: New and Relevant (Last accessed April 3, 2025). 
+
+In relevant part, the adjudication manual states that new evidence that affirms findings previously deemed favorable to the claimant is still relevant. To illustrate this guidance, the M21-1 provides an example of a hypothetical veteran whose service connection claim for a back disability is denied based on a medical opinion finding that the current back disability is not related to an in-service injury. Following the denial, if VA medical center records show ongoing complaints of back pain, the adjudication manual instructs to readjudicate the claim because these treatment records are both new and relevant, despite relating only to a previously established fact. 
+
+Although the VA adjudication manual may be binding on those within VBA, the Board does not conclude that it is, or should be, binding on the Board. See DAV v. Sec'y of Veterans Affairs, 859 F.3d 1072, 1077 (Fed. Cir. 2017); see also Overton v. Wilkie, 30?Vet. App.?257 (2018). 
+
+First, the manual's provision is contrary to the regulation which defines relevant evidence as information that tends to prove or disprove a matter at issue in a claim. Returning to the manual's example, evidence which merely documents continued diagnosis and treatment of disease, without addressing the crucial matter of a nexus, does not tend to prove or disprove a matter at issue. In fact, the prior decision noted that the Veteran had a diagnosed psychiatric disorder. Thus, the existence of a disability is no longer "a matter at issue" and ongoing treatment records which further document this element are not relevant. 
+
+In Kisor v. McDonough, 995?F.3d 1316 (Fed. Cir. 2020) (Kisor IV), in applying the definition in the context of a different regulation, the Federal Circuit agreed with the Board that "in order to be 'relevant,' a record must speak to the issue that was dispositive against the veteran." Conversely, evidence that does not tend to prove a fact of consequence to the claim is not relevant.  In so holding, the Federal Circuit stated that this definition of relevant is consistent with the definition for that term in connection with 'supplemental claims' under the modernized system. Id., Fn. 4. While the Federal Circuit in Kisor IV was addressing the definition of "relevant" as it pertains to § 3.156, the case provides guidance on how the word is used for supplemental claims. 
+
+Second, application of the manual's guidance renders the regulation's definition meaningless because some disabilities, by their very nature, require regular and reoccurring treatment. See, e.g., 38?C.F.R. §?4.119, Diagnostic Code 7913 (requiring twice a month visits to a diabetic care provider.) For these disabilities, medical treatment records would always serve as a basis for readjudication, regardless of the content of the records, and the requirement that the records tend to prove or disprove a matter at issue would be superfluous. When the existence of a current disability has been already been established, it is clear that the regulations require more than duplicative evidence of this disability. 
+
+Requiring more than duplicative medical records to readjudicate a claim is not a higher evidentiary threshold than the previous new and material evidence standard. Under the legacy system, the United States Court of Appeals for the Federal Circuit held that evidence that is merely cumulative of other evidence in the record cannot be new and material. See Anglin v. West, 203 F. 3d 1343, 1347 (Fed. Cir. 2000). The Court of Appeals for Veterans Claims similarly held that medical evidence which merely documents continued diagnosis and treatment of disease, without addressing the crucial matter of a nexus, does not constitute new and material evidence. See Cornele v. Brown, 6 Vet. App. 59, 62 (1993). 
+
+The new and relevant evidence test is a lesser burden than the legacy system's new and material evidence requirement. Significantly, evidence that disproves a matter at issue will result in readjudication. C.f. Villalobos v. Principi, 3 Vet. App. 450 (1992) (evidence that is unfavorable to the appellant is not new and material). New theories of entitlement will also require that the claim be addressed on the merits. C.f. Boggs v. Peake, 520 F.3d 1330, 1336 (Fed. Cir. 2008) (new theory of causation for same disease or injury that was subject of previously denied claim cannot be basis of new claim). However, these lesser standards do not apply to this case. A new theory of entitlement has not been presented. Nor has new unfavorable evidence been associated with the claims file. 
+
+Returning to the case before the Board, the existence of a current disability is not at issue. As discussed above, the Veteran's claim was previously denied because the evidence did not show that the Veteran's acquired psychiatric disability was linked to his service. The newly received evidence documents the Veteran's ongoing treatment for an acquired psychiatric disorder. There has been added to the record no evidence which relates his acquired psychiatric disorder to service.  
+
+Additionally, the Board notes that in December 2020, the Veteran submitted a June 2018 letter from a VA provider and a July 2018 VA examination.  However, as these records were already a part of the claims file prior to the August 2018 rating decision, they are duplicative and not considered "new."
+
+In December 2020, the Veteran submitted a lay statement indicating that he served a combat tour in Iraq and feared for his life as a result of such.  He also noted that his DD-214 showed a "MND" separation code, indicating that he was unable to re-enlist, showing that his service was not positive.  Although the Veteran's lay statement is new, it is not relevant to his claim for an acquired psychiatric disorder.  The Veteran had previously indicated that he felt like his life was in danger while serving in Iraq in a December 2011 statement.  Additionally, the Veteran's DD-214 was a part of the claims file prior to the August 2018 final decision.  As such, the Veteran's DD-214, to include the separation code, was already considered by the AOJ in adjudicating his claim in August 2018.  
+
+The Veteran also submitted a March 2024 lay statement indicating that he has been treated for mental illness for the past 12 years and recently had a one week stay at a hospital in March 2022.  As evidence, this is outside of the evidence window and the Board cannot consider the statements as evidence. As argument, the statement is not relevant because it does not prove or disprove whether the Veteran's acquired psychiatric disorder is due to his service.  The fact that the Veteran has had a mental illness that he is continuously being treated for was considered by the AOJ in the prior final denial in August 2018.  Additionally, the Board notes that the Veteran resubmitted a March 2018 lay statement written by himself indicating his long days in service and a feeling of disconnect when he got home.  However, as this statement was a part of the claims file prior to the August 2018 rating decision, it is duplicative and not considered "new."
+
+(Continued on the next page.)
+
+?
+
+Under these circumstances, the Board concludes that new and relevant evidence to reopen the claim for service connection for an acquired psychiatric disorder has not been received.  As such, readjudication of the August 2018 decision is not appropriate.  The benefit sought on appeal is denied. However, the Board notes that this decision does not preclude the Veteran from filing another claim and submitting evidence showing how his acquired psychiatric disorder is related to service. 
+
+ 
+
+ 
+
+M. Donohue
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Morrad, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

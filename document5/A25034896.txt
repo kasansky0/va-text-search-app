@@ -1,0 +1,163 @@
+Citation Nr: A25034896
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 241205-491415
+ DATE: April 16, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (sleep apnea) is granted. 
+
+Entitlement to service connection for atrial fibrillation is granted.
+
+Entitlement to a rating in excess of 50 percent for service-connected posttraumatic stress disorder and unspecified neurocognitive disorder (PTSD) is denied. 
+
+REMANDED
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) due to service-connected disabilities is remanded.
+
+FINDINGS OF FACT
+
+1. The Veteran's sleep apnea is at least as likely as not related to his service-connected PTSD. 
+
+2. The Veteran's atrial fibrillation is at least as likely as not related to his service-connected PTSD.
+
+3. The Veteran's PTSD is productive of social and occupational impairment with reduced reliability and productivity.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for sleep apnea as secondary to service-connected PTSD are met.  38 U.S.C. §§ 1110, 5103, 5103A, 5107 (West 2012); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 3.310.
+
+2. The criteria for entitlement to service connection for atrial fibrillation as secondary to service-connected PTSD are met.  38 U.S.C. §§ 1110, 5103, 5103A, 5107 (West 2012); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 3.310.
+
+3. The criteria for a rating in excess of 50 percent for service-connected PTSD are not met. 38 U.S.C. § 1155; 38 C.F.R. § 4.130, Diagnostic Code (DC) 9411
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from July 1967 to November 1970.
+
+The Department of Veterans Affairs (VA) rating decision on appeal was issued in July 2024 under The Veterans Appeals Improvement Modernization Act of 2017 (AMA) review system.  
+
+In December 2024, the Veteran timely appealed this rating decision to the Board and selected the evidence submission lane for this claim.  Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the appellant or his or her representative with the VA Form 10182 or within 90 days of receipt of the VA Form 10182.  38 C.F.R. § 20.303.
+
+In the July 2024 VA rating decision, the AOJ found that new and relevant evidence was submitted to warrant readjudicating the claims of entitlement to service connection for atrial fibrillation and for sleep apnea.  The Board is bound by these favorable findings.  38 C.F.R. § 3.104(c).  As such the Board will address these claims on the merits. 
+
+Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303 (a).  Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a link between the claimed in-service disease or injury and the present disability.  Romanowsky v. Shinseki, 26 Vet. App. 289, 293 (2013).  Service connection may be granted for any disease initially diagnosed after service when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303 (d).
+
+Additionally, service connection may be established on a secondary basis for a disability which is proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310 (a).  Establishing service connection on a secondary basis requires evidence sufficient to show: (1) that a current disability exists and (2) that the current disability was either (a) proximately due to or the result of; or (b) aggravated by a service-connected disability.  38 C.F.R. § 3.310 (b); Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).  
+
+Sleep Apnea and Atrial Fibrillation
+
+With respect to the Veteran's claims for service connection for sleep apnea and atrial fibrillation, the Board finds that the evidence reflects that the Veteran's obstructive sleep apnea and atrial fibrillation are at least as likely as not secondary to his service-connected PTSD. 
+
+As stated above, the first element of secondary service connection requires evidence of a current disorder.  In a June 2024 VA Heart Conditions Disability Benefits Questionnaire (DBQ), the VA examiner confirmed a diagnosis of atrial fibrillation.  In a June 2024 VA Sleep Apnea DBQ, the VA examiner confirmed a diagnosis of obstructive sleep apnea.  Thus, the Veteran has satisfied the first element of secondary service connection. 
+
+The second element of secondary service connection requires evidence of a service-connected disability.  The evidence of record reflects that the Veteran has been service connected for PTSD.  Thus, the Veteran has satisfied the second element of secondary service connection.
+
+Lastly, the third element of secondary service connection requires medical nexus evidence establishing a connection between the service-connected disability and the current disorder.
+
+Here, in a June 2024 VA Medical Opinion DBQ, the VA examiner opined that the Veteran's sleep apnea is less likely than not related to his service, to include his  toxic exposure risk activities (TERA).  In a June 2024 VA Medical DBQ, the VA examiner opined that het Veteran's atrial fibrillation is less likely than not related to his service, to include his TERA.  Notably, the VA examiner did not provide an opinion as to whether the Veteran's sleep apnea and/or his atrial fibrillation was secondary to his service-connected PTSD. 
+
+Significantly, in November 2024 private medical opinion, Dr. J.K. opined that the Veteran's sleep apnea at least as likely as not secondary to his service-connected PTSD.  Dr. J.K. explained that the sleep apnea is linked to comorbidities such hypertension, cardiovascular disease, insulin resistance, and PTSD.  The examiner noted that psychiatric conditions, including mood disorders and PTSD, are highly prevalent among individuals with sleep apnea.  PTSD is well-established as a risk factor for sleep apnea due to its impact on sleep regulation and airway stability.  Dr. J.K. opined that in the Veteran's case, the combined effects of autonomic hyperactive and inflammation due to PTSD likely created a physiological environment conducive to the development of sleep apnea.  See November 2024 Independent Medical Evaluation (IME) in Filed of Cardiology.  
+
+Also, Dr. J.K. opined that the Veteran's atrial fibrillation is at least as likely as not secondary to his service-connected PTSD, hypertension, and sleep apnea.  Dr. J.K. opined the that the Veteran's atrial fibrillation is linked to the Veteran's PTSD by involvement of systemic inflammation and oxidative stress.  PTSD is known to elevate inflammatory markers, such as C-reactive protein (CRP) and interleukin-6.  These pro-inflammatory states are strongly correlated with the structural and electrical remodeling of atrial tissues, leading to the development and persistence of atrial fibrillation.  The hypothalamic-pituitary-adrenal axis dysfunction in PTSD also contributes to AF development.  Dr. J.K. opined that the Veteran's chronic PTSD was a central factor in development and progression of his atrial fibrillation.  The direct effects of PTSD, such as autonomic dysregulation, chronic inflammation, and behavioral sequelae. 
+
+Therefore, the Board finds that based on November 2024 private medical opinions, there is a nexus between the Veteran's sleep apnea and atrial fibrillation and his service-connected PTSD.  As such, the third element of secondary service connection is satisfied. 
+
+Accordingly, service connection for sleep apnea and atrial fibrillation as secondary to PTSD is warranted. 
+
+Increased Rating
+
+Disability evaluations are determined by application of the criteria set forth in the VA's Schedule for Rating Disabilities, which is based on average impairment in earning capacity.  38 U.S.C. § 1155; 38 C.F.R. Part 4.  When a question arises as to which of two ratings apply under a particular diagnostic code, the higher rating is assigned if the disability more closely approximates the criteria for the higher rating.  38 C.F.R. § 4.7.  After careful consideration of the evidence, any reasonable doubt remaining is resolved in favor of the Veteran.  38 C.F.R. § 4.3. 
+
+Where entitlement to compensation already has been established and an increase in the disability rating is at issue, it is the present level of disability that is of primary concern.  See Francisco v. Brown, 7 Vet. App. 55, 58 (1994).  However, in Fenderson, the Court noted an important distinction between an appeal involving a Veteran's disagreement with the initial rating assigned at the time a disability is service connected.  Where the question for consideration is the propriety of the initial rating assigned, evaluation of the medical evidence since the effective date of the grant of service connection to consider the appropriateness of "staged rating" (i.e., assignment of different ratings for distinct periods of time, based on the facts found) is required.  See Fenderson, 12 Vet. App. at 126; see also Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+PTSD
+
+Procedural History
+
+In the present case, in a July 2010 VA rating decision, service connection for PTSD was granted at a 50 percent rating under DC 9411.  The Veteran did not file a notice of disagreement contesting the initial rating.  However, on December 27, 2023, the Veteran filed an intent to file with respect to a claim of increase with respect to his service-connected PTSD.  Given that compensation already has been established, and an increase in the disability rating is at issue, it is the present level of disability that is of primary concern.  Therefore, the relevant temporal focus for this disability is one year prior to the date of receipt of the claim; thus, the appeal period begins on December 27, 2022.   38 C.F.R. § 3.400.
+
+Diagnostic Code 9411
+
+A 50 percent rating is assigned when there is occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short and long-term memory (e.g., retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; difficulty in establishing and maintaining effective work and social relationships. Id.
+
+A 70 percent rating is in order when there is occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work like setting); and inability to establish and maintain effective relationships. Id.
+
+A 100 percent rating is in order when there is total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; and memory loss for names of close relatives, own occupation, or own name. Id.
+
+A veteran need not exhibit "all, most, or even some" of the symptoms enumerated in the General Rating Formula for Mental Disorders to warrant the assignment of a higher rating. Mauerhan v. Principi, 16 Vet. App. 436, 442 (2002).  Rather, the use of the phrase "such symptoms as," followed by a list of examples, provides guidance as to the severity of symptomatology contemplated for each rating.  Id.  In particular, use of such terminology permits consideration of items listed as well as other symptoms and contemplates the effect of those symptoms on the claimant's social and work situation.  Mauerhan, 16 Vet. App. at 442.
+
+With respect to mental health disorders, assessing whether a particular rating  is  warranted  "requires a two-part analysis."  Emerson  v.  McDonald, 28 Vet. App. 200, 212 (2016).  It requires an "initial assessment of the symptoms displayed by the veteran, and if they are of the kind enumerated in the regulation, an assessment of whether those symptoms result in occupational and  social  impairment  with deficiencies in most areas." Id. 
+
+More generally, the rating analysis for psychiatric disorders is symptom driven.  Golden v. Shulkin, 29 Vet. App. 221, 225 (2018); Vazquez-Claudio, 713 F.3d at 116 ("The regulation's plain language highlights its symptom-driven nature.").  The symptoms listed do not form an exhaustive list but rather serve as examples of the type and degree of symptoms that would justify the associated rating.  See Bankhead v. Shulkin, 29 Vet. App. 10, 18-19 (2017).  And the "'frequency, severity, and duration' of a veteran's symptoms must play an important role in determining his disability level."  Vazquez-Claudio, 713 F.3d at 117.
+
+Factual Background
+
+In a December 2023 private medical report, the examiner noted that the Veteran experiences flashbacks, nightmares, an exaggerated startle response, and being leery of being in dark and quiet places.  
+
+In a February 2024 VA record, the Veteran reported nightmares and intrusive thoughts.  
+
+In a July 2024 VA examination report, the VA examiner noted PTSD and unspecified neurocognitive disorder.  The VA examiner noted that the Veteran's cognitive concerns are attributed to his unspecified neurocognitive disorder.  See July 2024 VA Review Post Traumatic Stress Disorder (PTSD).  
+
+With respect to social history, the Veteran reported being married to his wife of 50 years.  He reported that they get along well.  He reported two children from a prior marriage and one child from his current marriage.  He reported he is close with all his children.  He has four grandchildren.  The Veteran has a few friends and considers a couple of them to be close.  The Veteran gets together with a group of friends from high school.  With respect to occupational history, the Veteran reported that he is retired.  
+
+The Veteran reported that he does not engage in psychotherapy for PTSD or any other mental health disorder.  The VA examiner noted that symptoms of his mental health disorder are depressed mood, anxiety, suspiciousness, mild memory loss, and impairment of short- and long-term memory.  
+
+With respect to behavioral observations, the examiner noted that the Veteran was adequately groomed and casually dressed, he was cooperative, and his eye contact was good.  He was oriented and alert.  His speech was normal in rate and volume.  There was no evidence of delusions or obsessions.  His thought process was linear.  His judgment and insight appeared intact.  His intellectual ability appeared average.  His mood was euthymic, and affect was congruent and appropriate. 
+
+Therefore, the VA examiner opined that the Veteran's mental health condition is productive of occupational and social impairment with reduced reliability and productivity.  The VA examiner further explained that the Veteran's PTSD symptoms occasionally limit his ability to be around groups of other/unknown people.  As such, his ability to effectively perform work tasks which require regular interaction with other people, or which take place in environments which include groups of other people is occasionally and mildly limited.  The Veteran's symptoms (specifically the symptoms of the Unspecified Neurocognitive Disorder) impair his ability to concentrate and recall information.  As such, his ability to perform complex work tasks involving multiple steps or which require prolonged attention and concentration, is moderately-to-severely limited.  The Veteran's ability to tolerate stress such as that which might arise if performing tasks under pressure, under time constraints, in the context of a large workload, or in the context of unexpected or rapidly changing work duties, is moderately limited by his symptoms.  
+
+In the December 2024 Appellate Brief, the representative contends that a 70 percent rating is warranted noting that the Veteran's symptoms are consistent with concentration problems, inability to adapt to stressful circumstances and establishing and maintaining effective relationships. 
+
+Analysis
+
+The Veteran is in receipt of a 50 percent rating for his mental health disorder under DC 9411 for the entire period on appeal.  Based on the evidence of record, the Board finds that a rating higher than 50 percent is not warranted.
+
+In assessing the first step in Emerson, initial assessment of the symptoms displayed by the Veteran, the Veteran's psychiatric disability has been manifested by symptoms such as depressed mood, anxiety, suspiciousness, mild memory loss, and impairment of short- and long-term memory.  The VA examiner noted that the Veteran's ability to effectively perform work tasks which require regular interaction with other people, or which take place in environments which include groups of other people is occasionally and mildly limited.  The Veteran's ability to perform complex work tasks involving multiple steps or which require prolonged attention and concentration, is moderately-to-severely limited.  The Veteran's ability to tolerate stress such as that which might arise if performing tasks under pressure, under time constraints, in the context of a large workload, or in the context of unexpected or rapidly changing work duties, is moderately limited by his symptoms.
+
+When assessing whether they are the kind enumerated in the regulation, the Board notes that these types most closely approximately the symptoms of a 50 percent rating, which include difficulty in understanding complex commands impairment of short- and long-term memory, and difficulty in establishing and maintaining effective work and social relationships.  
+
+The second part of Emerson is assessment of whether those symptoms result in occupational and social impairment with deficiencies in most areas.  Here, the Board finds that the Veteran's symptoms result in occupational and social impairment with reduced reliability and productivity.  As such, a 50 percent rating is appropriate.  However, the Board finds that the evidence does not support symptoms that result in occupational and social impairment with deficiencies in most areas to support a 70 percent rating.  
+
+Specifically, a 70 percent rating is not warranted as the Veteran did not exhibit symptoms such as suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately, and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a worklike setting); inability to establish and maintain effective relationships.  Importantly, the U.S. Court of Appeals for the Federal Circuit has explained that evaluation under § 4.130 is "symptom driven," meaning that "symptom[s] should be the fact finder's primary focus when deciding entitlement to a given disability rating" under that regulation. Vazquez-Claudio v. Shinseki, 713 F.3d 112, 116-17 (Fed. Cir. 2013). "[A] veteran may only qualify for a given disability rating under § 4.130 by demonstrating the particular symptoms associated with that percentage, or others of similar severity, frequency, and duration." Id. at 117.  Here, the Veteran's just does not have the symptoms that equate to the 70 percent rating.
+
+In reaching this determination, the Board notes that there is no evidence of obsessional rituals which interfere with routine activities or spatial disorientation.  In fact, the July 2024 VA examiner noted that the Veteran was alert and oriented, with no evidence of delusion or obsession with a thought process that was linear, and his judgment and his insight appeared intact.  
+
+Furthermore, there is no evidence of neglect of personal appearance or hygiene.  As the July 2024 VA examiner noted that the Veteran was adequately groomed and casually dressed.  Also, there is no evidence of the inability to establish and maintain effective relationships.  The VA examiner noted that the Veteran has maintained a good relationship with his wife of nearly 50 years as well as all his children.  There is no evidence of speech intermittently illogical, obscure, or irrelevant.  Here, the July 2024 VA examiner noted that the Veteran's speech was clear, and his intellectual ability appeared average.  Lastly, there is simply no evidence of near-continuous panic or depression affecting the ability to function independently, appropriately, and effectively or impaired impulse control (such as unprovoked irritability with periods of violence).  As such, the evidence does not reflect that the Veteran's PTSD is productive of social and occupational impairment with deficiencies in most areas, that would be consistent or near consistent with a 70-percent rating.
+
+The Board acknowledges that in the December 2024 Appellate Brief, the representative contends that a 70 percent rating is warranted noting that the Veteran's symptoms are consistent with concentration problem and the inability to adapt to stressful circumstances and establishing and maintaining effective relationships.  While the Board notes that the inability to adapt to stressful circumstances and the inability to maintain effective relationships are symptoms noted in the 70 percent rating, the Board finds that the Veteran's symptoms do not nearly approximately these symptoms.  As noted above, the Veteran has maintained a good relationship with his wife for nearly 50 years, his children, and he even noted he has a few close friends.  As such, the Board find that this evidence clearly contradicts and inability to maintain effective relationships.  
+
+Te Board also notes that the VA examiner reported that the Veteran's PTSD symptoms occasionally limit his ability to be around groups of other/unknown people.  As such, his ability to effectively perform work tasks which require regular interaction with other people, or which take place in environments which include groups of other people is occasionally and mildly limited.  The Veteran's ability to tolerate stress such as that which might arise if performing tasks under pressure, under time constraints, in the context of a large workload, or in the context of unexpected or rapidly changing work duties, is moderately limited by his symptoms.  Given such, the Board finds that while there is impairment in the Veteran's ability to adapt to stressful circumstances, there is not the inability to adapted to stressful circumstances. 
+
+A maximum 100 percent rating is not warranted at any time during the period on appeal as the evidence does not reflect, nor does the Veteran contend, that he exhibited symptoms such as grossly inappropriate behavior, persistent delusions, persistent danger of hurting himself or others, intermittent inability to perform daily living, disorientation to time living or place, memory loss of close relatives, own occupation or own name.  Thus, a 100 percent rating is not warranted.
+
+Therefore, for the reasons explained above, a rating in excess of 50 percent is not warranted.  As the evidence is not in approximate balance, the benefit-of-the-doubt doctrine is not applicable, and his claim must be denied.  See 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102.
+
+The Board is grateful to the Veteran for his service, and regrets that it cannot render a favorable decision in this matter.
+
+REASONS FOR REMAND
+
+The Board regrets the delay associated with this remand.  However, the Board finds that this matter is inextricably intertwined with the AOJ's implementation of the Board's recent grant above of the issues of entitlement to service connection for sleep apnea and atrial fibrillation.  
+
+Essentially, a decision regarding the Veteran's TDIU claim cannot be made until the Veteran receives a rating for his newly service-connected sleep apnea and heart disability claims, as the issues are inextricably intertwined.  Therefore, a remand is required.  See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991).
+
+The matters are REMANDED for the following action:
+
+1. Once the newly granted service connection claims have been effectuated (ratings assigned), adjudicate the Veteran's claim for entitlement to TDIU.
+
+ 
+
+ 
+
+YVETTE R. WHITE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Dalia Abdelbary, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

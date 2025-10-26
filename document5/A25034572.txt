@@ -1,0 +1,127 @@
+Citation Nr: A25034572
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240618-449171
+DATE: April 15, 2025
+
+REMANDED
+
+Entitlement to service connection for meningioma status post (s/p) craniotomy is remanded.
+
+Entitlement to service connection for a seizure disorder is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the U.S. Marine Corps from January 1971 to January 1975. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of an April 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO), which is the agency of original jurisdiction (AOJ). 
+
+A claimant may file more than one administrative review request within one year of an AOJ decision on a claim, provided that such administrative review request is not pending concurrently with another request.  See Terry v. McDonough, 37 Vet. App. 1 (2023).  The Board notes that the Veteran filed a VA Form 20-0996 Decision Review Request: Higher-Level Review (HLR) in response to the April 2024 decision.  HLR was completed and the AOJ issued another decision in May 2024.  However, as HLR was complete, the Veteran properly appealed the April 2024 decision.  Id. 
+
+As such, the Veteran timely submitted his VA Form 10182 in June 2024, and now appeals the April 18, 2024 rating decision.  In the June 2024 VA Form 10182, the Veteran elected the direct review docket.  See June 2024 VA Form 10182.
+
+Therefore, the Board may only consider the evidence of record at the time of the April 2024 decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Finally, the United States Court of Appeals for Veterans Claims (Court) recently held in Williams v. McDonough, 37 Vet. App. 305 (2024) that the Board must refrain from deciding a case until the case proceeds to the point where a docket switch is no longer permitted under the terms of 38 C.F.R. § 20.202(c)(2).  Because the present appeal is remanded in full, the Board is satisfied that the Veteran is not prejudiced by the Board issuing this decision without such a delay.  See 38 C.F.R. § 20.800(c).
+
+1. Entitlement to service connection for meningioma s/p craniotomy is remanded.
+
+2. Entitlement to service connection for a seizure disorder is remanded.
+
+The Veteran asserts that his meningioma s/p craniotomy and seizure disorder were caused by in-service exposure to contaminants in the water supply at Camp Lejeune.  See June 2024 VA Form 10182; see also July 2024 Appellate Brief.
+
+The Board finds that remand is warranted to correct a duty to assist error that occurred prior to the rating decision on appeal.
+
+Under the Appeals Modernization Act (AMA), remands are limited to correction of (1) duty to assist errors occurring prior to the date of the AOJ decision on appeal and (2) AOJ errors in satisfying a regulatory or statutory duty if correction of such error would have a reasonable possibility of aiding in substantiating the appellant's claim.  38 C.F.R. § 20.802(a).  In the present appeal, a pre-decisional duty to assist error has occurred because the VA-obtained examinations and medical opinions are inadequate. 
+
+Legal Principles
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+The Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act) added new examination requirements where toxic exposure risk activities (TERA) are implicated.  38 U.S.C. § 1168.  VA is now required to provide a disability examination and/or obtain a medical opinion when a Veteran submits a claim for compensation and has: (1) evidence of a disability, and (2) participation in a TERA, but the evidence is not sufficient to establish service connection for the disability.  38 U.S.C. § 1168(a). 
+
+Service at Camp Lejeune qualifies as a TERA, meaning that veterans who served at Camp Lejeune for more than 30 days between August 1, 1953 and December 31, 1987 are presumed to have been exposed to contaminants in the water supply.  See 38 C.F.R. § 3.307(a)(7)(iii).  In the present appeal, the Veteran served at Camp Lejeune, North Carolina for more than 30 days in the applicable timeframe.  See Military Personnel Record.  However, neither meningiomas nor seizure disorders are presumptive disease associated with contaminants in the water supply at Camp Lejeune.  See 38 C.F.R. § 3.309(f).  In other words, the Veteran's claims may not be granted on this presumptive basis.
+
+Meningioma s/p Craniotomy
+
+Under the AMA, the Board is bound by earlier in time findings of fact that are favorable to the appellant.  See 38 U.S.C. § 5104A; 38 C.F.R. § 3.104(c).  Regarding the Veteran's claim for service connection for meningioma s/p craniotomy, favorable findings include that (1) the Veteran has a diagnosis of meningioma s/p craniotomy; and (2) the Veteran had in-service exposure to contaminated water at Camp Lejeune during the applicable period.  See April 2024 Rating Decision. 
+
+The question for the Board is therefore whether the Veteran's meningioma s/p craniotomy is at least as likely as not related to an in-service TERA, to include the Veteran's conceded exposure to contaminated water at Camp Lejeune.
+
+Turning to the evidence of record, the Veteran's service treatment records (STRs) do not contain complaints of right-sided headaches, seizures, or altered mental status, which were his symptoms upon the discovery of his meningioma in December 2021.  See STRs.  
+
+After he reported to the emergency department with those symptoms, the Veteran underwent an MRI, which revealed his meningioma.  The Veteran then had a right frontal craniotomy to remove his meningioma in December 2021.  Upon his discharge from the hospital, the Veteran was prescribed Keppra, a seizure medication.  See Private Treatment Records.
+
+In January 2022, the Veteran again presented to the emergency department following a seizure, altered mental state, and stroke-like symptoms.  Treatment notes stated that the Veteran's presentation "was likely the result of missing a dose of Keppra."  The physician emphasized the importance of strict compliance with the Veteran's seizure medication.  See Private Treatment Records.
+
+In an August 2023 VA Form 21-526EZ, the Veteran stated that the cause of his meningioma was toxic exposure while stationed at Camp Lejeune.  See August 2023 VA Form 21-526EZ.
+
+In January 2024, the Veteran was afforded a VA examination wherein his diagnosis of meningioma s/p craniotomy was confirmed.  The VA examiner reported that the Veteran had no additional pertinent physical findings, complications, conditions, signs or symptoms related to his meningioma s/p craniotomy.  See January 2024 VA Examination. 
+
+In the accompanying medical opinion, the VA examiner opined that the Veteran's meningioma s/p craniotomy was less likely than not caused by his in-service exposure to contaminants in the water supply at Camp Lejeune.  In forming their opinion, the VA examiner noted that they considered the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all TERA of the Veteran.  As rationale, the VA examiner stated that the Veteran's meningioma tumor is the most common type of tumor for people between the ages of 40-70, with its etiology mostly unknown except for exposure to radiation in childhood.  The VA examiner concluded that they could not state that meningioma was due to toxic exposure.  See January 2024 VA Medical Opinion.
+
+Seizure Disorder
+
+Next, the only favorable finding regarding the Veteran's seizure disorder is that the Veteran was exposed to contaminated water during his service at Camp Lejeune.  See April 2024 Rating Decision.  The question for the Board is therefore whether the Veteran has a current disability that is at least as likely as not related to the Veteran's in-service TERA.
+
+In December 2021, the Veteran had a seizure that was witnessed by a physician who characterized it as a "tonic seizure."  The Veteran also reported that he experienced "loss of consciousness followed by jerking movements" during his first seizure.  See December 2021 Private Treatment Records. 
+
+While the Veteran's private treatment records attributed his seizures to his meningioma and related complications, his VA treatment records, in part, attribute his history of seizures "to electrolyte imbalance."  See Private Treatment Records; see also August 2022 VA Treatment Records.  Moreover, the Veteran experienced another seizure on approximately February 16, 2022, for which he was admitted to the hospital.  See February 2022 VA Treatment Records.
+
+In an August 2023 VA Form 21-526EZ, the Veteran stated that the cause of his seizure disorder was toxic exposure.  See August 2023 VA Form 21-526EZ.
+
+The Veteran was afforded a VA examination in January 2024.  The VA examiner concluded that the Veteran did not have a current diagnosis of a seizure disorder.  The only sign or symptom of the Veteran's seizure disorder that the VA examiner recorded was "other: [the Veteran] reports that when he had his seizure January 2022 his grandson just stated he wouldn't wake up."  The VA examiner also noted that the date of the Veteran's most recent seizure activity was in January 2022.  Further, the VA examiner found that the Veteran's seizures impacted his ability to work because he could no longer obtain a CDL license due to his seizure disorder.  In the last section of the examination, the VA examiner wrote that the Veteran "had a seizure as a result of a brain bleed (which is very common) and [meningioma] [;] he is on prophylactic Keppra to prevent seizures but doesn't have a diagnosed primary seizure disorder."  See January 2024 VA Examination. 
+
+In the accompanying medical opinion, the VA examiner opined that the Veteran's "seizure disorder" was less likely than not caused by the indicated TERA, after considering all TERA through all applicable military deployments and the synergistic, combined effect of all TERA of the Veteran.  As rationale, the VA examiner again stated that the Veteran did not have a primary seizure disorder, but that his seizure was the result of a brain bleed and meningioma.  See January 2024 VA Medical Opinion.
+
+Analysis
+
+Where VA obtains an opinion, it must be adequate.  Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (stating that as part of the duty to assist claimants, VA must provide a medical examination or obtain a medical opinion when such an examination or opinion is necessary to decide the claim).  Here, the VA-obtained examinations and medical opinions are inadequate, meaning that a pre-decisional duty to assist error has occurred. 
+
+For a medical opinion to be adequate, it must be: (1) based upon sufficient facts or data; (2) the product of reliable principles and methods; and (3) the result of principles and methods reliably applied to the facts.  See Nieves-Rodriquez v. Peake, 22 Vet. App. 295, 302 (2008) (holding that a medical opinion must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two).
+
+First, while the Veteran contends that his meningioma and seizure disorder are related to exposure to the contaminated water at Camp Lejeune, the Veteran is not competent to provide a nexus opinion regarding that medically complex issue.  Therefore, it is outside the competency of the Veteran because the record does not show that he has the medical training or credentials to make such a determination.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 n.4 (Fed. Cir. 2007); see also Kahana v. Shinseki, 24. Vet. App. 428 (2011).
+
+Next, both VA examinations and VA medical opinions are inadequate. 
+
+In the seizure disorder examination, the VA examiner concluded that the Veteran did not have a primary seizure disorder diagnosis, but they recognized that his seizures caused functional impairment of earning capacity.  See Saunders v. Wilkie, 886 F.3d 1356, 1367-69 (Fed. Cir. 2018) (holding that "pain alone, without an accompanying diagnosis of a present disease, can qualify as a disability" if it "reaches the level of a functional impairment of earning capacity"); see also Martinez-Boden v. Wilkie, 32 Vet. App. 393, 398 (2020) (holding that Saunders is not only limited to pain and that the definition of "disability" includes any condition that results in "functional impairment of earning capacity").  As the Veteran's seizure disorder causes functional impairment of earning capacity, the Board finds that the Veteran does, in fact, have a current disability relating to his seizure disorder.  Id.
+
+In the alternative, the question of whether the Veteran's seizures are related to his meningioma is a separate issue from whether the Veteran has a current seizure disorder diagnosis in the present service connection enquiry.  The Veteran was, in fact, diagnosed with a "seizure disorder" in his private treatment records and VA treatment records.  Moreover, the January 2024 VA examination inaccurately asserted that the Veteran's most recent seizure was in January 2022 even though his VA treatment records show that he had a seizure in February 2022.  Finally, the January 2024 VA examination did not affirmatively note the Veteran's "tonic seizures" when prompted by the examination even though the Veteran's seizures were characterized as "tonic" in his private treatment records.  See January 2024 VA Examination (Seizure Disorder); see also Private Treatment Records.  Therefore, the Board finds that the January 2024 VA examination (seizure disorder) is inadequate.
+
+Turning to the meningioma examination, the VA examiner reported that the Veteran had no pertinent physical findings, complications, conditions, signs or symptoms related to his meningioma s/p craniotomy.  See January 2024 VA Examination (Meningioma).  That finding is directly contradicted by the VA examiner's assertion that the Veteran's seizures were due to his meningioma and brain bleed in the January 2024 seizure disorder VA examination and medical opinion.  See January 2024 VA Examination (Seizure Disorder); see also January 2024 VA Medical Opinion.
+
+Therefore, both VA examinations are inadequate.  As the January 2024 VA medical opinions are based upon inadequate VA examinations, and therefore based on insufficient facts or data, they are afforded no probative value.  Reonal v. Brown, 5 Vet. App. 458, 461 (holding that an opinion based upon an inaccurate factual premise has no probative value).  The inadequate VA examinations and inadequate VA medical opinions constitute a duty to assist error, meaning that remand is necessary to obtain adequate VA examinations and medical opinions.
+
+The Board notes that remand to obtain a direct service connection opinion is not required.  There is no evidence that the Veteran's meningioma s/p craniotomy or seizure disorder occurred in service or manifested during an applicable presumptive period, nor is there indication that those disabilities are associated with the Veteran's service or with another service-connected disability, beyond the Veteran's assertions that his disabilites are due to his in-service TERA.  McLendon v. Nicholson, 20 Vet. App. 79, 81 (2006).  As such, remand for a direct service connection opinion is not warranted.  In the present appeal, remand is only necessary to obtain adequate VA examinations and TERA opinions. 
+
+As the Veteran participated in a TERA through his service at Camp Lejeune, an adequate VA examination and medical opinion are required for each issue on appeal.  The lack of adequate VA examinations and medical opinions thus far is a pre-decisional duty to assist error.  Upon remand, the AOJ must take all appropriate steps to correct the foregoing duty to assist error.  38 U.S.C. § 1168.
+
+The matters are REMANDED for the following action:
+
+1. Arrange for the Veteran to undergo VA examinations in connection with his claims for service connection for meningioma s/p craniotomy and service connection for a seizure disorder. 
+
+2. After the VA examinations are completed, the examiner is asked to opine as to the following:
+
+(a.) Whether it is at least as likely as not (likelihood at least approximately balanced or nearly equal, if not higher) that the Veteran's meningioma s/p craniotomy is due to his total potential toxic exposure in service, to include his exposure to contaminated water at Camp Lejeune?
+
+(b.) Whether it is at least as likely as not (likelihood at least approximately balanced or nearly equal, if not higher) that the Veteran's seizure disorder is due to his total potential toxic exposure in service, to include his exposure to contaminated water at Camp Lejeune?
+
+(c.) The examiner should specifically consider and discuss:
+
+1.	The total potential exposure through all applicable military deployments; and
+
+2.	The synergistic, combined effect of all toxic exposure risk activities of the Veteran.
+
+ 
+
+J.P. Norman
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M.G. Canary, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

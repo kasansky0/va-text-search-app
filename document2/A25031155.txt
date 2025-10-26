@@ -1,0 +1,91 @@
+Citation Nr: A25031155
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 231019-385808
+DATE: April 3, 2025
+
+REMANDED
+
+Whether the reduction in rating of right hip degenerative arthritis with thigh impairment from 20 percent to 10 percent effective January 1, 2024, was proper.
+
+Whether the reduction in rating of right hip degenerative arthritis with limitation of flexion from 30 percent to 10 percent effective January 1, 2024, was proper.
+
+A compensable rating for right hip degenerative arthritis with limitation of extension.
+
+Service connection for a left hip condition.
+
+?
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from March 1998 to December 2002.
+
+The case is on appeal from a March 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office, which denied a claim of service connection for a left hip condition and denied a compensable rating for right hip degenerative arthritis with limitation of extension and an October 2023 rating decision, which reduced a 30 percent rating to 10 percent for right hip degenerative arthritis limitation of flexion and reduced a 20 percent rating to 10 percent for right hip degenerative arthritis with thigh impairment.  
+
+In the October 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the March 2023 agency of original jurisdiction (AOJ) decision on appeal as it concerns the claim of service connection for a left hip condition and a compensable rating for right hip degenerative arthritis limitation of extension and the October 2023 AOJ decision on appeal as it concerns the reduction of a 30 percent rating to 10 percent for right hip degenerative arthritis limitation of flexion and the reduction of a 20 percent rating to 10 percent for right hip degenerative arthritis with thigh impairment.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Whether the reduction in rating of right hip degenerative arthritis with thigh impairment from 20 percent to 10 percent effective January 1, 2024, was proper.
+
+2. Whether the reduction in rating of right hip degenerative arthritis with limitation of flexion from 30 percent to 10 percent effective January 1, 2024, was proper.
+
+3. A compensable rating for right hip degenerative arthritis with limitation of extension.
+
+The Veteran contends that the rating assigned to his right hip degenerative arthritis with impairment of thigh rating should remain at 20 percent from January 1, 2024, and the rating assigned to his right hip degenerative arthritis with limitation of flexion should remain at 30 percent from January 1, 2024.  He also contends a compensable rating is warranted for his right hip degenerative arthritis with limitation of extension.  Concerning these claims, he contends that the examiner who provided a VA examination in March 2023 did not use a goniometer to measure his right hip limitation of motion.  See October 2023 NOD. 
+
+In this case, the Veteran asserts VA did not fulfill its duty to assist by providing him with an adequate VA examination.  The Veteran underwent a VA examination in March 2023.  The RO issued a rating decision in March 2023 proposing to reduce the Veteran's right hip degenerative arthritis with impairment of thigh from a 20 percent rating to a noncompensable rating and his right hip degenerative arthritis limitation of flexion from a 30 percent rating to a 10 percent rating.  In the proposed rating notice, the RO advised the Veteran that he had 60 days to present additional evidence to show that compensation payments should be continued at the current percent levels and that he had 30 days to request a predetermination hearing.  In May 2023, the Veteran requested a predetermination hearing, which was scheduled for July 2023.  In July 2023, the Veteran rescheduled the hearing.  Another hearing was scheduled for August 2023, but the Veteran opted to undergo an additional VA examination in lieu of attending a hearing.  See August 2023 Report of General Information.  The Veteran underwent the additional VA examination in September 2023.  However, there is no indication in the September 2023 VA examination report that a goniometer was used to determine range of motion findings.  
+
+The Board notes range of motion findings must be obtained using a goniometer.  The purpose of a goniometer is to assist in more precise measurements of motion.  A goniometer is defined as "indispensable" by VA regulations.  See 38 C.F.R. § 4.46.  The use of a goniometer is required for measurement of initial range of motion and observed repetitive use.  Without confirmation of the use of a goniometer, the September 2023 examination report is of little probative value.  Accordingly, to ensure VA has met its duty to assist, remand is necessary for new examination to cure this pre-decisional duty to assist error.  38 C.F.R. § 3.159(c).
+
+The Board notes the Veteran underwent an additional VA examination in August 2024 and that VA examination report reflects that a goniometer was used.  Although the Board has identified a pre-decisional duty to assist error that occurred prior to the rating decision on appeal, this was remedied outside of the evidentiary window and thus a remand is necessary.
+
+4. Service connection for a left hip condition.
+
+The Veteran is seeking service connection for a left hip condition.  He asserts he has a left hip condition that is secondary to his service connected right hip condition.  See February 2023 Claim Form.  
+
+Initially, the Board notes that the March 2023 rating decision identified as a favorable finding that the Veteran is diagnosed with a disability, as a March 2023 VA examination report reflects a diagnosis of left hip strain.  The Board is bound by this favorable finding.  38 C.F.R. § 3.104(c).
+
+The claim is remanded to correct a pre-decisional, duty to assist error that occurred prior to the March 2023 rating decision on appeal.  The Veteran underwent a VA examination in March 2023.  At that time, the examiner diagnosed the Veteran with left hip strain.  The examination report reflects further that the examiner noted the Veteran has a diagnosis of left hip strain that is separate and unrelated to his service-connected diagnosis.  
+
+The Board finds this opinion is not adequate to decide the claim.  In this regard, the examiner did not provide any rationale for the conclusion that the Veteran's left hip strain is unrelated to his service connected right hip degenerative arthritis.  It is also unclear whether the examiner applied the applicable legal standard in making this determination, as she did not state whether she considered whether it is at least as likely as not that the Veteran's left hip condition is unrelated to his right hip degenerative arthritis.  In addition, although the opinion addressed secondary causation, it did not address secondary aggravation.  A medical opinion addressing secondary service connection must address both causation and aggravation.  See El-Amin v. Shinseki, 26 Vet. App. 136 (2012).  The failure to obtain an adequate opinion constitutes a pre-decisional duty to assist error, and therefore a remand is warranted so that a new examination and opinion may be provided.  38 C.F.R. §§ 3.159(c), 20.802(a).  
+
+The matters are REMANDED for the following actions:
+
+1. Schedule the Veteran for a VA examination to determine the severity of his service-connected right hip condition.  The relevant information in the claims file must be made available to the examiner for review.
+
+This should include testing for pain on both active and passive motion, in weight-bearing and nonweight-bearing and, if possible, with the range of the opposite undamaged joint.
+
+The examiner should also note any additional loss of function with repetition due to factors such as pain, weakness, fatigability, and pain on movement. The extent of additional limitation should be expressed in degrees. Flare-ups have been reported throughout the rating period on appeal and the examiner must express an opinion on whether the flare-ups are associated with additional functional loss. He or she should estimate the degree of lost motion during such flare-ups. The examiner must attempt to elicit information from the record and the Veteran regarding the severity, frequency, duration, or functional loss manifestations during flare-ups before determining that an estimate of motion loss in terms of degrees cannot be given. Any inability to furnish such an estimate must be predicated on a lack of medical knowledge among the medical community at large and not the insufficient knowledge of the examiner. If the examiner provides an estimate, he or she may indicate their level of confidence in such estimate on a scale of 1 to 5, with 1 being least confident and 5 being the most confident.
+
+If the examiner is unable to conduct any of the required testing or concludes that the required testing is not necessary in this case, he or she should clearly explain why that is so. 
+
+The examiner should confirm the use of a goniometer during this testing.  
+
+2. Schedule the Veteran for an examination by an appropriate examiner to determine the nature and etiology of the Veteran's left hip condition. The entire claims file must be reviewed by the examiner.  Any indicated studies should be performed.
+
+The examiner must identify any current left hip condition(s).
+
+For any identified condition(s), the examiner is to provide an opinion as to whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any left hip condition was caused by, or aggravated by, the Veteran's service-connected right hip disability.  
+
+If aggravation is found, is there evidence created prior to the aggravation or between the aggravation and left hip disability that shows a baseline of this disability prior to aggravation? If so, please identify. 
+
+The examiner must provide a comprehensive rationale for each opinion provided. The examiner is advised that the Veteran is competent to report his symptoms and history, and such reports are to be considered in formulating any opinion.
+
+If any opinion cannot be given without resorting to speculation, the examiner should explain why and state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), the record (additional facts are required), or the examiner does not have the knowledge or training. As appropriate, the AOJ should conduct additional development or supplement the record.
+
+ 
+
+ 
+
+S. Merrick
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Gray, Elissa A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,79 @@
+Citation Nr: A25034849
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 241010-484254
+DATE: April 15, 2025
+
+ORDER
+
+Service connection for sleep apnea as secondary to adjustment disorder with depressed mood and mixed anxiety (previously rated as primary insomnia; herein adjustment disorder) is granted.
+
+FINDING OF FACT
+
+The sleep apnea is related to the service-connected adjustment disorder.
+
+CONCLUSION OF LAW
+
+Resolving reasonable doubt in the Veteran's favor, the criteria for service connection for sleep apnea as secondary to the service-connected adjustment disorder have been met.  38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran, who is the appellant, served on active duty from September 2004 to September 2009. 
+
+By way of procedural history, the Veteran filed a supplemental claim for service connection for sleep apnea in March 2023.  An October 2023 rating decision found new and relevant evidence and denied service connection on the merits.  The Veteran filed a notice of disagreement in October 2024.  
+
+In the October 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket; therefore, the Board may only consider the evidence of record at the time of the October 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+Service Connection Legal Authority
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).  Service connection may be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).  Service connection generally requires competent (1) evidence of a current disability; (2) evidence of an in-service incurrence or aggravation of a disease or injury; and (3) evidence of a nexus between the claimed in-service disease or injury and the current disability.
+
+Service connection may also be granted for a disability that is proximately due to or the result of a service-connected disability.  See 38 C.F.R. § 3.310(a).  When service connection is thus established for a secondary condition, the secondary condition shall be considered a part of the original condition.  See 38 C.F.R. § 3.310(a); Harder v. Brown, 5 Vet. App. 183, 187 (1993).  The controlling regulation has been interpreted to permit grant of service connection not only for disability caused by a service-connected disability, but for the degree of disability resulting from aggravation of a non-service-connected disability by a service-connected disability.  See Allen v. Brown, 7 Vet. App. 439, 448 (1995).
+
+To prevail under a theory of secondary service connection, the record must show (1) evidence of a current disability, (2) evidence of a service-connected disability, and (3) medical nexus evidence establishing a connection between the current disability and the service-connected disability.  Wallin v. West, 11 Vet. App. 509, 512 (1998); Reiber v. Brown, 7 Vet. App. 513, 516-17 (1995).  Any increase in the severity of a nonservice-connected disability that is proximately due to or the result of a service-connected disease or injury, and not due to the natural progress of the nonservice-connected disability, will be itself service connected.  38 C.F.R. § 3.310(b). 
+
+Generally, the degree of probative value which may be attributed to a medical opinion issued by a VA or private treatment provider takes into account such factors as its thoroughness and degree of detail, and whether there was review of the claims file.  See Prejean v. West, 13 Vet. App. 444, 448-9 (2000).  Also significant is whether the examining medical provider had a sufficiently clear and well-reasoned rationale, as well as a basis in objective supporting clinical data.  See Bloom v. West, 12 Vet. App. 185, 187 (1999); Hernandez-Toyens v. West, 11 Vet. App. 379, 382(1998); see also Claiborne v. Nicholson, 19 Vet. App. 181, 186 (2005) (rejecting medical opinions that did not indicate whether the physicians actually examined the veteran, did not provide the extent of any examination, and did not provide any supporting clinical data).  
+
+After careful consideration of the evidence, any reasonable doubt remaining, is to be resolved in favor of the veteran.  38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3.  If the evidence is not in approximate balance or nearly equal, the claim is to be denied.  The United States Court of Appeals for the Federal Circuit clarified in Lynch v. McDonough that the proper standard of review is whether the factors are in an "approximate balance."  Lynch v. McDonough, 999 F.3d 1391 (2021).  Lynch held that the veteran is entitled to the benefit of the doubt when the evidence is in an approximate balance or "nearly equal" and does not require the evidence to be in exact equipoise.  Id.
+
+Service connection for sleep apnea as secondary to adjustment disorder with depressed mood and mixed anxiety is granted.
+
+The Veteran contends that the adjustment disorder has caused him to exercise less and make poor food choices, which have contributed to weight gain, which in turn caused the current sleep apnea.  See February 2022 statement of Veteran.  
+
+The October 2023 rating decision identified the favorable findings of current diagnosis of sleep apnea (VA examination), that there was a service-connected primary disability of adjustment disorder with depressed mood and mixed anxiety (effective September 2009), the Veteran participation in a toxic exposure risk activity during service, and was deployed to Iraq from January 16, 2008 through January 17, 2008 and from March 2008 through August 2008.
+
+At the outset, the Board finds that the evidence shows a current disability of mixed type sleep apnea and that there is a service-connected adjustment disorder.  The next question before the Board is whether the current sleep apnea is proximately due to or the result of (secondary to) the service-connected adjustment disorder.  
+
+After a review of all the evidence of record, lay and medical, the Board finds that the evidence is in at least approximate balance as to whether the current sleep apnea is secondary to (38 C.F.R. § 3.310) the service-connected adjustment disorder.  The evidence includes multiple examinations, both private and VA, for adjustment disorder and sleep apnea.  A private opinion in February 2022 opined that it was at least as likely as not that the Veteran's weight gain and obesity were due to and/or related to the service-connected adjustment disorder.  
+
+The rationale for the February 2022 opinion included an extensive review of medical literature, which indicated inter-related pathopsychophysio-logical mechanisms and processes that occurred directly from mental health conditions and resulted in weight gain and/or obesity and were associated with neuro-endocrine dysfunctional processes.  The examiner noted the Veteran reported that he weighed 210 pounds upon service entrance, 230 pounds upon service separation, and had a current weight of 290 pounds with a body mass index (BMI) of 35.3, meeting the national standard by the U.S. Centers for Disease Control and Prevention for obesity.  The examiner indicated that this was evidence of overall progressive weight gain and a current obesity condition which chronologically developed after the mental health stressors and psychiatric medications with known pharmacology to promote weight gain prescribed for the service-connected adjustment disorder.  The Veteran was prescribed Desyrel (trazodone), Zoloft (sertraline), Oxcarbazepine, and Prazosin and previously took Quetiapine Fumarate, which studies showed contributed to weight gain. 
+
+The examiner further opined in the February 2022 private medical opinion that it was at least as likely as not that the obstructive sleep apnea (OSA) was secondary to, related to, and/or aggravated by the weight gain and obesity from the service-connected adjustment disorder, and provided the rationale that medical literature established that obesity was known to predispose individuals to OSA; the Veteran had a total weight gain of approximately 80 pounds from active duty to present.  The examiner opined that it was at least as likely as not that without the Veteran's weight gain and obesity his OSA would not have occurred.  The rationale was that medical literature supported that obesity was the number one risk factor of developing OSA.  The examiner relied upon an accurate history and medical expertise and training, reviewed relevant medical literature, and provided a sound rationale for the medical opinion; therefore, the February 2022 private medical opinion is of probative value.
+
+Following a VA examination in July 2022, the examiner opined that the current sleep apnea was less likely than not proximately due to or the result of the service-connected adjustment disorder with depressed mood and mixed anxiety.  The examiner provided the rationale that obesity was the strongest predictor of OSA, and the Veteran's BMI in 2010 was noted to be 31.7, which would be considered in the obesity range and more likely the cause of the OSA.  The examiner had an accurate history, had medical expertise and training, reviewed relevant medical literature, and provided a sound rationale for the medical opinion; therefore, the July 2022 medical opinion is of probative value.
+
+The Veteran provided a second private opinion in March 2023 wherein the examiner opined that it was at least as likely as not that the current OSA was secondary to, related to, and/or aggravated by the service-connected adjustment disorder with depressed mood and mixed anxiety with subsequent sleep disturbance and weight gain/obesity.  The examiner provided numerous summaries of medical literature in support of the opinion, which echoed the medical literature and medical history cited by the February 2022 private examiner.  The examiner had an accurate history, had medical expertise and training, reviewed relevant medical literature, and provided a sound rationale for the medical opinion; therefore, the March 2023 private medical opinion is of probative value.
+
+To establish that a service-connected disability proximately caused a current disability through obesity, the adjudicator must determine: (1) whether the service-connected disability caused the veteran to become obese; (2) if so, whether the obesity as a result of the service-connected disability was a substantial factor in causing the current disability; and (3) whether the current disability would not have occurred but for obesity caused by the service-connected disability.  See VAOPGCPREC 1-2017 at 9-10.  If all the above questions are answered in the affirmative, then the current disability may be service connected on a secondary basis.  
+
+In this case, the evidence was consistent with the adjustment disorder causing the Veteran to become obese, including the chronology of symptoms in service and post service.  Service treatment records indicated that the Veteran entered service in July 2004 weighing approximately 221 pounds.  It was noted on the separation examination in August 2009 that the Veteran had a recent 15-pound weight gain over two months, with frequent trouble sleeping since a 2008 deployment to Iraq, and he was prescribed medication for the sleep disturbances.  Post-service VA treatment records from February 2010, approximately six months after service separation, indicated the Veteran was on trazadone for sleep issues and weighed 260 pounds.  The Veteran was diagnosed with mild sleep apnea, combined type, in September 2011.  VA treatment records indicated the Veteran continued trazadone, sertraline, and other psychotropic medications for the mental health diagnosis, which progressed from insomnia to the adjustment disorder.  The service treatment records did not indicate sleep apnea symptoms prior to the 2008 deployment and treatment for insomnia.  
+
+The evidence of record, including the February 2022 and March 2023 private examiners, indicated obesity was a substantial factor in causing the current OSA and the current OSA disability would not have occurred but for obesity caused by the service-connected adjustment disorder.  For these reasons, the Board finds that the service-connected adjustment disorder proximately caused the current sleep apnea disability through obesity. 
+
+The Board finds that the evidence is at least in approximate balance as to whether the sleep apnea is attributed to the service-connected adjustment disorder.  Resolving reasonable doubt in the Veteran's favor, service connection for sleep apnea is warranted.
+
+The Board acknowledges there is a negative direct nexus opinion in an October 2023 VA examination for sleep apnea; however, as secondary service connection is being granted, there is no need to discuss service connection on a direct or any other basis, as other theories of service connection have been rendered moot, so the need for a direct service connection nexus opinion has been rendered moot, leaving no further question of law or fact for the Board to decide.  See 38 U.S.C. § 7104.
+
+ 
+
+ 
+
+J. PARKER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Beilsmith, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,67 @@
+Citation Nr: A25031630
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240627-452969
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA), as secondary to service-connected bilateral foot disabilities, is granted.
+
+FINDING OF FACT
+
+The Veteran's OSA developed as a result of pain from her service-connected bilateral foot disabilities, with obesity as an intermediate step. 
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA as secondary to service-connected bilateral foot disabilities are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the U.S. Air Force from December 1991 to March 1992. 
+
+The rating decision on appeal was issued in February 2024 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the February agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service connection for OSA, as secondary to bilateral foot disabilities.
+
+The Veteran contends she experiences OSA due to her service-connected bilateral foot disabilities. Specifically, she asserts that the pain in her feet disrupts her sleep and prevents her from exercising, which has caused weight gain, leading to the development of OSA. The Veteran also claimed she regularly used over-the-counter medications to manage her musculoskeletal pain. See May 2023 VA Form 4138. 
+
+As an initial matter, in the February 2024 rating decision, the AOJ favorably established the following: 1) the Veteran has a current diagnosis of OSA and 2) she is service-connected for bilateral foot disabilities. Absent clear and unmistakable evidence to the contrary, the Board is bound by these favorable findings. 38 C.F.R. § 3.104 (c).
+
+Entitlement to service connection requires evidence of three elements: (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus or link between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service connection may also be granted on a secondary basis for a disability that is due to or aggravated by a service-connected disease or injury. Establishing service connection on a secondary basis requires evidence sufficient to show that (1) a current disability exists and (2) the current disability was either (a) caused by or  (b) aggravated by a service-connected disability. Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+While obesity is not a condition for which service connection may be granted, obesity may qualify as an "intermediate step" between a service-connected disability and another current disability. Walsh v. Wilkie, 32 Vet. App. 300, 307 (2020). Specifically, a grant is warranted if (1) the service-connected disability caused the Veteran to become obese, (2) obesity was a substantial factor in causing a subsequent disability, and (3) the subsequent disability would not have occurred but for obesity. Id.
+
+Here, the Board notes that there is conflicting evidence in the record as to whether the Veteran's OSA is related to her service-connected bilateral foot disabilities. Evidence in favor of the Veteran's contention include a May 2023 private medical opinion by K.M., N.P. In the opinion, K.M. determined that the Veteran gained significant weight since she left active service due to lack activity consequent to "persistent pain" from her service-connected bilateral foot disabilities. As a result, the Veteran became clinically obese, with a body mass index (BMI) of 40.1. K.M. further asserted that Veteran's obesity was the primary risk factor in her developing OSA. In addition, K.M. stated that the Veteran's use of non-steroidal anti-inflammatory drugs (NSAIDs) to manage the pain also predisposed her to the disease as they cause fluid retention resulting in "postural fluid shifts at night" that increase tissue pressure and lead to narrowing of the airways. In conclusion, K.M. opined that it is more likely than not that the Veteran's obesity was caused by weight gain due to her service-connected bilateral foot disabilities. As such, she determined it was more likely than not that the Veteran's OSA is "related to, and/or aggravated by," the obesity and, finally, were it not for her obesity, the Veteran would not have developed OSA. See May 2023 private medical opinion by K.M., APRN, FNP-BC.
+
+Service treatment records generally support K.M.'s findings, noting that the Veteran entered active duty in 1991 measuring 63 inches and weighing 124 pounds, with a "medium" build. See October 1991 Report of Medical Examination. Also, the Veteran experienced significant pain from stress fractures in her bilateral heels, which affected her physical activities and eventually led to her separation from active duty in March 1992. See, January 1992; March 1992 STRs.
+
+Since her discharge from service, VA treatment records document the Veteran's reports of chronic pain and functional limitations related to her service-connected foot disabilities. In November 2020, the Veteran reported she has difficulty with dancing and prolonged walking due to pain. A December 2020 record reported the Veteran losing weight using an exercise bike; however, she admitted that her sleep patterns and pain affected her moods and behaviors. Her weight stayed fairly constant for several years, at 238 pounds in February 2018 and 233 pounds in November 2022. In February 2023, she reported her foot pain was worsening. In The Veteran was also advised several times to lose weight as obesity can "worsen" sleep apnea. See e.g., March 2023; July 2023 VA treatment records. 
+
+In addition to evidence in support of the Veteran's claim, the Board notes a conflicting January 2024 VA opinion. The January 2024 examiner opined that it is less likely than not that the Veteran's OSA is related to residuals from her service-connected bilateral foot disabilities. He asserted that the two disabilities were not medically related and a "thorough review of medical literature failed to demonstrate a causal relationship." He concluded by stating the pathophysiologic mechanisms of OSA and residuals of a stress fracture are distinct.
+
+It is within the purview of the Board to evaluate the medical evidence and favor one medical opinion over another. See D'Aries v. Peake, 22 Vet. App. 97, 107 (2008). To that end, the Board notes that K.M.'s May 2023 opinions, although not exactly precise with respect to the issues of causation and aggravation, provide sufficient rationale as to how the Veteran developed OSA consequent to weight gain acquired as a result of limited activity due to pain from her service-connected foot disabilities. Thus, the Board concludes that K.M.'s opinion is probative as to how the Veteran's service connected foot disabilities led to obesity, which K.M. found to be a significant factor in the development of her diagnosed OSA. See Dyment v. West, 13 Vet. App. 141 (1999) (holding medical examiner's word choice is not error where opinion is unambiguous). In addition, VA treatment records generally support K.M.'s opinion that, but for pain due to the Veteran's service-connected bilateral foot disabilities, she would not have gained weight to the point of obesity, and that her obesity was a significant factor in her development of OSA; as they clearly show her providers have worked with her for several years to manage pain, lose weight, and improve her overall health, including symptoms of her OSA.
+
+Conversely, although the January 2024 VA examiner's conclusions were supported by medical evidence, he failed to address the Veteran's May 2023 contentions regarding foot pain leading to a lack of activity resulting in weight gain and, instead, appeared to consider direct secondary service connection as the claimed theory of entitlement in this matter. As such, his opinion was incomplete and insufficient to use in adjudication of the claim. See Reonal v. Brown, 5 Vet. App. 458, 460-61 (1993); see also Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).
+
+Therefore, in construing the evidence in the light most favorable to the Veteran, the Board finds that the most probative evidence of record persuasively weighs in favor of the Veteran's claim. Accordingly, the Board finds the criteria to establish service connection for OSA as secondary to obesity associated with service-connected bilateral foot disabilities has been met. The appeal is granted. 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102.
+
+ 
+
+Tiffany Dawson
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	O'Neil, A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

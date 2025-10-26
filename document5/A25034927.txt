@@ -1,0 +1,85 @@
+Citation Nr: A25034927
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 241004-480034
+DATE: April 16, 2025
+
+REMANDED
+
+Entitlement to service connection for gastroesophageal reflux disease (GERD) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active service with the Army from September 1987 to May 1993. 
+
+In February 2024, the Agency of Original Jurisdiction (AOJ) issued a rating decision denying entitlement to service connection for GERD.  This constituted an initial decision, therefore, the modernized review system, also known as the Appeal Modernization Act (AMA), applies.  In October 2024, the VA received the Veteran's VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), electing Direct Review of the February 2024 rating decision.
+
+The Board regrets the delay but finds additional development is necessary prior to final adjudication of the claims.  
+
+The Veteran contends his claimed GERD condition is due to his active service to include as secondary to his service-connected left knee disability.  In a December 2022 statement in support of the claim, the Veteran reported his service-connected left knee condition prevented him from being active due to pain.  He weighed 187 pounds when he entered service and 205 pounds at separation.  He took Ibuprofen and Aleve for his service-connected left knee symptoms and developed GERD symptoms after taking them on a routine basis.  He reported his symptoms continued to the present.  He must use Omeprazole daily to help control his heartburn.    
+
+The February 2024 rating decision made the following favorable findings: the Veteran was exposed to fuels, fumes, solvents, and degreasers during military service based on his military occupational specialty (MOS) of Light Wheel Vehicle Mechanic; participation in a toxic exposure risk activity (TERA) was conceded; and the Veteran has a diagnosed disability of GERD.  Under the AMA, the Board is bound by favorable findings made by AOJ in the absence of evidence of clear and unmistakable error.  38 C.F.R. § 3.104(c).  
+
+Under the AMA, the Board has the jurisdiction to remand an appeal to the Agency of Original Jurisdiction (AOJ) for correction of a pre-decisional regulatory or statutory duty to assist error if correction of such an error would have a reasonable possibility of helping to substantiate a claim.  38 C.F.R. § 20.802(a).  
+
+In December 2022, the VA examiner diagnosed the Veteran with GERD.  The Veteran reported his GERD began in the 1990s.  He started to experience heart burn in his chest and throat.  His symptoms continued since onset.  The December 2022 VA examiner opined the Veteran's claimed GERD was less likely than not proximately due to or the result of the Veteran's service-connected left knee disability.  The conditions of GERD and left knee replacement were not medically related.  GERD is a separate entity entirely from the left knee replacement and unrelated to it.  A thorough review of medical literature failed to demonstrate a causal relationship.  Therefore, a nexus was not established.  
+
+Where the VA undertakes to provide the Veteran with an examination, it must be adequate.  Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).  The Board finds the December 2022 VA examiner's rationale was conclusory.  The examiner stated the Veteran's GERD condition was a separate entity from the left knee disability and unrelated to it.  The examiner found no causal connection but failed to adequately explain why or address the Veteran's contentions either that the medications taken for the left knee pain caused his GERD or that the left knee pain caused him to become obese and develop GERD.  Additionally, the December 2022 VA examiner failed to opine as to the aggravation prong of secondary service connection.    
+
+In February 2024, the VA examiner opined the claimed GERD condition was less likely than not proximately due to or the result of the Veteran's service-connected left knee disability.  The Veteran served with the Army from September 1987 to May 1993.  Review of the available medical records showed the Veteran was diagnosed with GERD.  He was service connected for a left knee total arthroplasty and prescribed Percocet and Ibuprofen in the past to treat his pain.  The use of Ibuprofen or Percocet did not result in the development of GERD.  Ibuprofen use could exacerbate GERD symptoms.  It was less likely than not that the Veteran's current diagnosis of GERD was due to the medications used to treat his service-connected left knee disability.  Therefore, a nexus was not established.
+
+The Veteran contended his GERD was a result of his service-connected left knee disability which led to his obesity.  Obesity is a lifestyle choice that presents when more calories are consumed than the body can burn.  The left knee disability did not the cause of the Veteran's obesity and was thus not the cause of the Veteran's GERD.  Therefore, a nexus was not established.  
+
+Finally, the February 2024 VA examiner opined the conditions of GERD and left knee total arthroplasty were not medically related.  GERD was a separate entity entirely from the left knee disability and unrelated to it.  GERD presented due to weakening of the lower esophageal sphincter resulting in gastric fluid leaking into the esophagus.  The left knee disability did not cause GERD.  Therefore, a nexus was not established.   
+
+Where the VA undertakes to provide the Veteran with an examination, it must be adequate.  Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).  The Board finds the February 2024 VA examiner's rationale was conclusory.  The examiner stated the Veteran's GERD condition was a separate entity from the left knee disability and unrelated to it.  The examiner found no causal connection but failed to adequately explain why the Veteran's use of medications such as Ibuprofen or Percocet taken for the left knee pain did not cause his GERD.  In fact, the VA examiner raised that Ibuprofen use could exacerbate GERD symptoms but failed to opine on the aggravation prong of secondary service connection.  
+
+The February 2024 VA examiner dismissed obesity as an intermediate cause or aggravating factor in the development of his GERD by referring to it as a lifestyle choice.  Obesity may be an intermediate step between a service-connected disability and a current disability that may be service connected on a secondary basis.  VAOPGCPREC 1-2017 (January 6, 2017).  The VA General Counsel opinion stated that obesity was not a disease for service connection purposes and weight gain itself is not a disability within the meaning of 38 C.F.R. § 3.310 or an in-service event.  Nonetheless, obesity may be an intermittent step between a service-connected disability and a current disability that may be service connected on a secondary basis.  
+
+To grant service connection, the adjudicator would have to resolve the following issues: whether a service-connected disability caused the Veteran to become obese; if so, whether the obesity as a result of the service connected disability was a substantial factor in causing the current disability for which the Veteran seeks service connection; and whether the current disability for which the Veteran seeks service connection would not have occurred but for the obesity caused by the service connected disability.  In Walsh v. Wilkie, 32 Vet. App. 300 (2020), the Court held that the General Counsel Precedent Opinion 1-2017 not only applies when a service-connected disability causes obesity, but also when a service-connected disability aggravates obesity.  When raised by the record, the Board must consider whether obesity was caused or aggravated by a service-connected disability consistent with 38 C.F.R. § 3.310.  
+
+Furthermore, the February 2024 VA examiner opined the claimed condition was less likely than not caused by the indicated TERA, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effective of all TERA of the Veteran.  A review of the available medical records showed the Veteran was diagnosed with GERD.  GERD presents due to weakening of the lower esophageal sphincter resulting in gastric fluid leaking into the esophagus.  Toxic military exposures have not been identified as causes to the development of GERD.  After considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic combined effect of all TERA of the Veteran, it was less likely than not that his current diagnosis of GERD was due to toxic exposures from his time in service.  A nexus was not established.  
+
+Where the VA undertakes to provide the Veteran with an examination, it must be adequate.  Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).  The Board finds the February 2024 VA examiner's rationale was conclusory.  The examiner found no causal connection between the conceded TERA and current GERD condition but failed to adequately explain why the Veteran's exposure to contaminated water at Camp Lejeune, asbestos, and/or fuels, fumes, solvents, degreases were not causally related to the development of his GERD.  See June 2023 and January 2024 TERA Memoranda.  Therefore, an addendum opinion regarding the nature and etiology of the Veteran's GERD condition is necessary prior to final adjudication of the claim.  
+
+In requesting additional development, the Board notes that the basis for this remand arises from deficiencies in the record existing prior to the appealed?AMA?decision.  Based on the evidence associated with the claims file prior to the decision on appeal, a remand is necessary to ensure due process is followed and so that there is a complete record upon which to decide the Veteran's claim. ??Pub. L. No. 115-55, § 2(d)(2); 38?U.S.C. §?5103A;?38?C.F.R. §?3.159.   
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion from the February 2024 VA examiner regarding entitlement to service connection for GERD.  If the February 2024 examiner is unavailable, the opinion with rationale should be rendered by another qualified clinician.  If, and only if, the examiner feels that a physical examination is needed, one should be scheduled.
+
+The examiner is asked to opine on the following:
+
+If it is at least as likely as not that his claimed GERD had its onset in service or was otherwise etiologically related to any event or circumstance to include exposure to a toxic risk exposure activity during service.  When providing this opinion, the examiner must consider: 1) the total potential exposure through all applicable deployments; and 2) the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  
+
+The examiner is advised the Veteran is competent to report his symptoms and history.  Such reports must be acknowledged and considered in formulating any opinion.  If the examiner rejects the Veteran's reports, the examiner must provide an explanation for such a rejection.
+
+If it is at least as likely as not that the Veteran's current GERD condition was due to or aggravated by service-connected left knee disability to include the use of pain medications.  If aggravation is found, the examiner should state, to the extent possible, the baseline level of disability prior to aggravation.  This may be ascertained by the medical evidence of record as well as the Veteran's statements as to the nature, severity, and frequency of his observable symptoms over time. 
+
+If it is at least as likely as not that the Veteran's service-connected disabilities caused him to become obese.  
+
+If the examiner finds that his service-connected disability or disabilities caused him to become obese, the clinician should opine whether it is at least as likely as not that obesity was a substantial factor in causing his GERD condition.  
+
+If the examiner finds that obesity was a substantial factor in causing his GERD condition, the examiner should opine whether it is at least as likely as not that the Veteran would not have the GERD condition if he were not obese.
+
+The examiner should opine whether it is at least as likely as not that his obesity was aggravated by his service-connected condition(s).  
+
+If the examiner finds that obesity was aggravated by his service-connected disability or disabilities, the examiner should opine whether it is at least as likely as not that the aggravation of the obesity by the service-connected condition(s) was a substantial factor in causing his GERD condition.
+
+If the examiner finds that aggravation of his obesity by his service-connected disability or disabilities was a substantial factor in causing his GERD condition, the examiner should opine whether it is at least as likely as not that the Veteran would not have GERD condition but for the obesity aggravated by his service-connected condition(s). 
+
+The complete record, to include a copy of this remand and the claims folder, must be made available to and reviewed by the examiner in conjunction with the examination.  The examination report must include a notation that this record review took place.  
+
+ 
+
+ 
+
+MICHAEL LANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K.L. Byers
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

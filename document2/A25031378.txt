@@ -1,0 +1,81 @@
+Citation Nr: A25031378
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240903-470675
+DATE: April 4, 2025
+
+REMANDED
+
+Entitlement to service connection for a headache disorder is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active military service in the Army from November 1967 to November 1970.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from a July 2024 rating decision issued by a VA Regional Office (RO).
+
+On September 3, 2024, the VA received a VA Form 10182 Decision Review Request: Board Appeal (Notice of Disagreement) to the July 2024 rating decision in which the Veteran selected to have a hearing by a Veterans Law Judge.  The Veteran appeared for a hearing before a Veterans Law Judge on December 10, 2024.  Consequently, the Board may consider evidence submitted through the July 12, 2024, notification of the July 2024 rating decision in this case, and any evidence submitted at the hearing and within 90 days of the hearing.  The Board will not consider evidence added to the record in between the date of the July 2024 rating decision notification and the date of the hearing or added to the record more than 90 days after the date of the hearing.  If evidence was added to the record during an ineligible period identified above, the Board has not considered that evidence.  If the Veteran wishes to have VA consider any evidence that was not considered, a supplemental claim should be submitted identifying such evidence.  Specific instructions for filing a supplemental claim are included with this decision.
+
+Under the AMA framework, when there are pre-decisional duty-to-assist errors, it is permissible for the Board to have them corrected before deciding the claims on appeal.  The Veteran's appeal as to the issue of entitlement to service connection for a headache disorder is remanded to correct a duty-to-assist error that occurred prior to the July 2024 rating decision on appeal.
+
+Entitlement to service connection for a headache disorder is remanded.
+
+The Veteran contends that he has a headaches disorder that is related to an in-service injury, event, or disease.
+
+A March 2014 rating decision denied service connection for headaches.
+
+A July 2024 rating decision again denied service connection for headaches.  As favorable findings, the decision notes that service treatment records document a complaint of headaches on August 14, 1969, and herbicide exposure is conceded.  The RO found that new and relevant evidence had been received to reconsider the service connection claim.  The Board is bound by this favorable finding.  38 C.F.R. § 3.104(c).  
+
+A service treatment record dated August 20, 1969, reports that, after an auto accident on August 14, 1969, the Veteran was taken to a hospital where he complained of a throbbing frontal headache and neck pain.  He was treated with observation and monitoring of his vital signs after the auto accident.  After approximately 24 hours, it was reported that the Veteran was essentially symptom-free with no complaints of headache.  His case was reviewed by staff neurologists, and it was determined that no further investigation was necessary.  The Veteran was diagnosed with a cerebral concussion with no neurological residue.  The Veteran was discharged from treatment to full duty on August 20, 1969.
+
+A September 1970 separation military report of medical history documents the Veteran's report that he had not ever experienced frequent or severe headaches.  The examining doctor reported the Veteran had a cerebral concussion in 1969 and had no residuals.
+
+A September 1970 separation military medical examination reports the Veteran's neurologic system was normal and no headache complaints were reported.  
+
+The Veteran was provided a VA TBI residuals examination in January 2014.  The Veteran reported that he experienced headaches with a moderate intensity of pain once a week since his auto accident in 1969.  His headaches were not prostrating and are relieved by ibuprofen.  The examiner found that the Veteran had headaches, including migraine headaches.  The examiner opined that it is at least as likely as not that the Veteran's current migraine headache was incurred in or caused by involvement in the in-service 1969 auto accident.  The examiner did not provide any rationale for the opinion.
+
+The Veteran was provided an addendum opinion in March 2014 by the examiner who examined him in January 2014.  The examiner opined that it was less likely as not that the Veteran's current migraine headaches are related to or caused by the Veteran's military service.  The examiner explained that the initial neurological report after the Veteran's in-service auto accident in August 1969 mentioned throbbing headaches.  In subsequent service treatment notes, there is no mention of headaches or neurological residuals.  As there was no further follow up or mention about headaches, after reviewing the Veterans Benefits Management System reports and notes, the examiner concluded it is less likely as not that the Veteran's current migraine headaches are related to or caused by the Veteran's military service.
+
+In July 2014, the Veteran's representative submitted records from a Veteran's Center, which included an October 2013 intake assessment.  The intake assessment documented the Veteran's report that he had not sustained an in-service injury to the head and had not experienced headaches, dizziness, or visual difficulties.
+
+A February 2016 VA TBI residuals examination reports the Veteran did not have any subjective symptoms or any neurological conditions or residuals attributable to a TBI, such as migraine headaches.
+
+A November 2023 VA Toxic Exposure Risk Activity (TERA) memorandum reports the Veteran was exposed to an herbicide agent, 2,3,7,8- Tetrachlorodibenzodioxin, during his military service in the Republic of Vietnam.
+
+The Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act) was enacted during this appeal and requires VA to provide an examination and obtain a medical opinion in connection with a veteran's claim for service connection when there is evidence of a disability and evidence of participation in a TERA during active service, and such evidence is not sufficient to establish service connection for the disability.  38 U.S.C. § 1168(a).  
+
+The sub-regulatory guidance defines four exceptions to the requirement to obtain a TERA examination and medical opinion: physical trauma, mental disorders, conditions that have not been shown to have any positive association with herbicide agent exposure, and conditions that manifested during service or with a clear etiology that is not associated with toxic exposure (to include due to post-service events).  VBA Letter 20-22-10, 10-13, Processing Claims Involving the PACT Act, 87 Fed. Reg. 78,543 (Dec. 22, 2022). 
+
+A TERA examination is required with regard to the Veteran's claim for entitlement to service connection for a headache disorder because there is currently insufficient information to grant service connection, and the headache disorder does not fall within any of the exceptions.  38 U.S.C. § 1168(a).
+
+Therefore, a remand for a TERA examination under the PACT Act is warranted to correct a pre-decisional duty to assist error that occurred prior to the July 2024 rating decision on appeal.  By this remand, the Board makes no determination, express or implied, concerning the credibility of any lay statements on file.
+
+The matter is REMANDED for the following action:
+
+1. Schedule the Veteran for a TERA examination of his claimed headache disorder with an appropriate clinician pursuant to the PACT Act.  A copy of this remand must be provided to the examiner.
+
+2. The examiner is requested to provide an opinion as to whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's claimed headache disorder is related to the Veteran's service, to include any confirmed TERA exposure (specifically his exposure to herbicide agents).
+
+3. In providing this opinion, the VA examiner is requested to determine and consider the total potential exposure through all applicable military deployments and service, as well as the synergistic and combined effect of all toxic exposure risk activities.
+
+4. In rendering the opinion, the examiner must consider medical records and lay evidence of record.  A complete and clearly stated rationale for any opinion is requested.
+
+5. If an opinion cannot be given without resorting to speculation, the examiner should explain why and state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and known facts), the record (additional facts are required), or the examiner (does not have the knowledge or training).
+
+(Continued on the next page)
+
+?
+
+6. After the development described above, and any additionally indicated development, has been completed, readjudicate the issue on appeal.
+
+ 
+
+KELLI A. KORDICH
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T. Moore, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

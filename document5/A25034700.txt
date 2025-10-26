@@ -1,0 +1,69 @@
+Citation Nr: A25034700
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240723-457528
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to a disability rating greater than 10 percent for tinnitus is denied. 
+
+Service-connection for insomnia as secondary to tinnitus is granted. 
+
+FINDING OF FACT
+
+1. The 10 percent disability rating currently in effect is the maximum schedular rating for service-connected tinnitus.
+
+2. The Veteran's insomnia was caused by his service-connected tinnitus.
+
+CONCLUSION OF LAW
+
+1. A rating in excess of 10 percent for tinnitus is not warranted. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.7, 4.87, Diagnostic Code 6260
+
+2. The criteria to establish service connection for insomnia secondary to tinnitus have been met. 38 U.S.C. §§ 1101, 1131, 5107(b); 38 C.F.R. §§ 3.303, 3.304, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from October 1986 until his honorable discharge in October 1989.
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal of a January 2024 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+Given the date of the rating decision on appeal, the Veteran's appeal is governed by the modernized review system, known by the Board as the AMA.  38 C.F.R. §§ 3.2400, 19.2. 
+
+On his Notice of Disagreement to the Board, the Veteran selected the direct docket.  Accordingly, the Board may only review evidence of record at the time of the rating decision on appeal.  38 C.F.R. § 20.301.
+
+Evidence was added to the claims file during a period of time when new evidence was not allowed.  As the Board is deciding the claims of entitlement to a disability rating greater than 10 percent for tinnitus and service-connection for insomnia secondary to service-connected tinnitus, it may not consider this evidence in its decision.  38 C.F.R. § 20.300.  The Veteran may file a Supplemental Claim and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+1. Entitlement to a disability rating greater than 10 percent for tinnitus.
+
+The Veteran claims error with the January 2024 rating decision. See July 2024 VA 10182 and March 2025 Appellate Brief. Specifically, he contends he is seeking a higher disability rating for his service-connected tinnitus and a separate rating for his insomnia as secondary to his service-connected tinnitus. The Board first considers whether the Veteran's service-connected tinnitus warrants a higher disability rating. 
+
+Tinnitus is evaluated under 38 C.F.R. § 4.87, Diagnostic Code 6260, which was revised effective June 13, 2003, to clarify the existing VA practice that only a single 10 percent rating is assigned for tinnitus, whether the sound is perceived as being in one ear, both ears, and in the head. Under Diagnostic Code 6260, there is no provision for assignment of a separate 10 percent evaluation for tinnitus of each ear. Diagnostic Code 6260 limits a Veteran to a single disability rating for tinnitus, regardless of whether the tinnitus is unilateral or bilateral. See Smith v. Nicholson, 451 F.3d 1344 (Fed. Cir. 2006).
+
+The Veteran has already been assigned the maximum rating of 10 percent under Diagnostic Code 6260, and there is no legal basis upon which to award a higher or separate schedular evaluation for tinnitus. Moreover, there is no competent lay or medical evidence of manifestations of tinnitus that are not contemplated in the rating criteria and neither the Veteran nor his representative have pointed to any such evidence. No other issues have been raised by the Veteran or reasonably raised by the record as to the rating for tinnitus. Doucette v. Shulkin, 28 Vet. App. 366 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).
+
+For the above reasons, the evidence is neither evenly balanced nor approximately so with regard to whether an increased rating for tinnitus is warranted. Rather, the evidence persuasively weighs against such a rating. The benefit of the doubt doctrine, see 38 U.S.C. § 5107(b), is therefore not for application as to this claim. Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+2. Entitlement to insomnia as secondary to service-connected tinnitus. 
+
+The Veteran contends that his insomnia is secondary to his service-connected tinnitus. See May 2022 VA Form 20-0995.
+
+Under section 3.310(a) of VA regulations, service connection may be established on a secondary basis for a disability which is proximately due to or the result of service-connected disease or injury. 38 C.F.R. § 3.310(a). Establishing service connection on a secondary basis requires evidence sufficient to show: (1) a current disability; (2) a service-connected disability; and (3) a nexus between the current disability and the service-connected disability. See Wallin v. West, 11 Vet. App. 509, 512 (1988). As to the third Wallin element, the current disability may be either (a) proximately caused by or (b) proximately aggravated by a service-connected disability. Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+The Veteran submitted statements in support of his claim. See August 2023 VA 21-4138, "Insomnia to Tinnitus," and August 2023 Medical Treatment Record-Non-Government Facility. In his statement, the Veteran attributed his trouble falling asleep to his tinnitus. In order to fall asleep, he drowns out the noise with television, music, and the fan. He also uses over-the-counter medications to help him sleep. The submitted medical record was an "Insomnia Severity Index" in which the Veteran indicated he had very severe difficulty falling asleep, moderate difficulty staying asleep, and moderate problem waking up too early. The Veteran perceived his sleep problem to interfere much with his daily functioning. 
+
+The Veteran was afforded an examination in connection with his claim. See September 2023 VA Examination. The September 2023 VA examiner identified the Veteran's diagnosis as insomnia disorder and opined that the Veteran's insomnia was at least as likely as not proximately due to or the result of the Veteran's service-connected tinnitus. The rationale was that sleep disturbance is a common and frequent complaint reported by tinnitus sufferers. The examiner further stated that complaints of insomnia was among the hallmarks of the condition of having tinnitus and that the more severe the tinnitus, the more likely it is that the patient experiences insomnia or a sleep problem. 
+
+Upon review of the record, the Board finds the evidence to at least be in approximate balance as to whether the Veteran's current insomnia is proximately due to or the result of his service-connected tinnitus. Accordingly, resolving all doubt in favor of the Veteran, the Board finds that service-connection for insomnia as secondary to service-connected tinnitus is warranted. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+ 
+
+G. William Riggs
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	N.H.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

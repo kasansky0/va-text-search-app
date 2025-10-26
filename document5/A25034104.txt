@@ -1,0 +1,101 @@
+Citation Nr: A25034104
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240212-416664
+DATE:       April 14, 2025
+
+ORDER
+
+Entitlement to service connection for cervical spine disability is denied. 
+
+REMANDED
+
+Entitlement to service connection for mental health disability is remanded. 
+
+Entitlement to service connection for low back disability is remanded.
+
+Entitlement to service connection for right lower extremity nerve disability as secondary to low back disability is remanded. 
+
+FINDING OF FACT
+
+The Veteran failed, without good cause, to report for a scheduled Department of Veterans Affairs (VA) examination in conjunction with a claim for service connection for cervical spine disability.
+
+CONCLUSION OF LAW
+
+ The criteria for service connection for cervical spine disability have not been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.310, 3.655(b).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from December 1992 to January 1995.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from October 2023 and November 2023 rating decisions by the VA Regional Office (RO).
+
+In the February 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the respective agency of original jurisdiction (AOJ) decisions on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decisions on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claims of entitlement to service connection for mental health disability, back disability, and right lower extremity nerve disability, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Entitlement to service connection for a cervical spine disability is denied.
+
+The Veteran contends that he is entitled to service connection for cervical spine disability. 
+
+The Veteran missed his November 2023 VA examination. Accordingly, the AOJ denied the Veteran's claim in the subsequent November 2023 rating decision on the basis of the missed examination pursuant to 38 C.F.R. § 3.655.
+
+In such a situation, 38 C.F.R. § 3.655(a) provides that, when entitlement to a benefit cannot be established without a current VA examination or reexamination and a claimant, without good cause, fails to report for such examination or reexamination, action shall be taken in accordance with 38 C.F.R. § 3.655(b) or (c) as appropriate. Under 38 C.F.R. § 3.655(b), when a claimant fails to report for an examination scheduled in conjunction with an original compensation claim, the claim shall be rated based on the evidence of record. 
+
+Consequently, as the Veteran did not attend a scheduled VA examination in connection with this original compensation claim, the Board will adjudicate the pending service connection claim based on the evidence of record. 
+
+Service connection may be established for disability resulting from disease or injury incurred in or aggravated by active military service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303. To establish service connection for a disability, the Veteran must show: (1) the existence of a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred in or aggravated by service. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004). 
+
+Here, service treatment records dated April 1993 note treatment for neck pain. The evidence of record notes that the Veteran experienced neck pain after leaving service. The Veteran submitted a written statement which indicates that he experiences both neck pain and functional loss due to the neck pain. However, there is no evidence of record to establish a nexus between the Veteran's neck pain in service and any current neck disability.
+
+The Board has considered the Veteran's statements, to include his assertions that his cervical spine disability is related to service. However, the Veteran is not competent to independently render a medical diagnosis or opine as to the specific etiology of a condition as these are medically complex issues. Although lay persons are competent to provide opinions on some medical issues, the specific disability in this case, a cervical spine disability, falls outside the realm of common knowledge of a lay person. Kahana v. Shinseki, 24 Vet. App. 428 (2011); Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007). Disorders of the cervical spine require specialized training and medical diagnostic testing for a determination as to diagnosis, and they are not susceptible of lay opinions on etiology. Therefore, the Board finds that the Veteran's statements of record cannot be accepted as competent evidence sufficient to establish service connection for a cervical spine disability. While the Veteran contends that his cervical spine disability is related to service, as a layperson, his statements are not competent evidence of a nexus. Thus, his lay assertions do not constitute evidence upon which service connection can be granted. 
+
+Consequently, service connection for such disorder is not warranted. In reaching such decision, the Board has considered the applicability of the benefit of the doubt doctrine. However, as the evidence is persuasively against the Veteran's claim, that doctrine does not apply. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application). 
+
+REASONS FOR REMAND
+
+2. Entitlement to service connection for mental health disability is remanded. 
+
+After a review of the record, the Board finds that the claim must be remanded to correct duty to assist errors that occurred prior to the October 2023 AOJ decision on appeal. 38 C.F.R. § 20.802(a).
+
+Initially, the AOJ obtained a VA examination in August 2023; however, this medical examination is inadequate. The examiner diagnosed the Veteran with alcohol use disorder in remission (34 years of sobriety), opiate dependence in remission, and depressive disorder. However, in the nexus opinion, the examiner determined that there was no nexus because there was no pathology to warrant a diagnosis. The examiner also stated that she reviewed the entire e-folder and found "no history of mental health issues[,]" but service treatment records include in-service diagnosis of adjustment disorder with mixed disturbance of emotion and conduct; and personality disorder, NOS. Service treatment records also include hospitalization for a suicidal attempt. 
+
+VA has a duty to ensure that any medical examination or opinion it provides is adequate. Barr v. Nicholson, 21 Vet. App. 303, 312 (2007). A medical opinion is adequate where it is based upon consideration of the full medical history and describes a disability in sufficient detail so that the Board's evaluation will be fully informed. Stefl v. Nicholson, 21 Vet. App. 120, 123 (2007).
+
+Here, the examiner did not consider the Veteran's full medical history, including relevant service treatment records, and thus the opinion is inadequate.
+
+3. Entitlement to service connection for low back disability is remanded. 
+
+Remand is required to provide the Veteran with a VA examination. VA has a duty to assist claimants to obtain evidence needed to substantiate a claim. 38 U.S.C. § 5103A; 38 C.F.R. § 3.159. VA's duty to assist includes providing a medical examination when it is necessary to make a decision on a claim. 38 U.S.C. § 5103(d); 38 C.F.R. § 3.159. 
+
+Such development is necessary if the information and evidence of record does not contain sufficient competent medical evidence to decide the claim, but (1) contains competent evidence of diagnosed disability or symptoms of disability, (2) establishes that the Veteran suffered an event, injury or disease in service, or has a presumptive disease during the pertinent presumptive period, and (3) indicates that the claimed disability may be associated with the in-service event, injury, or disease, or with another service-connected disability. 38 C.F.R. § 3.159 (c)(4); McLendon v. Nicholson, 20 Vet. App. 79, 83-86 (2006) (noting that the third prong may be satisfied by lay evidence of continuity or equivocal or non-specific medical evidence).
+
+Here, service treatment records indicate that the Veteran experienced low back pain in March 1994 and November 1994. VA treatment records indicate that the Veteran experiences low back pain. The Veteran submitted a written statement which indicates that he experiences both low back pain and functional loss due to the low back pain. As such, VA has duty to provide a medical examination because it is necessary to make a decision on a claim.
+
+4. Entitlement to service connection for right lower extremity nerve disability as secondary to low back disability is remanded. 
+
+The Veteran's claim of entitlement to service connection for right lower extremity nerve disability is inextricably intertwined with the remanded low back disability claim, thus the Board will defer consideration of the appeal with regard to entitlement to service connection for right lower extremity nerve disability. Harris v. Derwinski, 1 Vet. App. 180, 183 (1991) (two issues are "inextricably intertwined" when they are so closely tied together that a final Board decision on one issue cannot be rendered until the other issue has been considered). Thus, the claims must be remanded for the appropriate development, as well as contemporaneous adjudication. Id.
+
+The matters are REMANDED for the following action:
+
+Forward the claims file to an examiner[s] for opinions regarding the nature and etiology of the Veteran's mental health disability, low back disability, and right lower extremity nerve disability.
+
+?
+
+The examiner is to assume as true, for the purpose of providing the opinions, that the Veteran's description of what occurred in service and symptoms since then. If the examiner determines that a new examination would be beneficial, one is to be provided. 
+
+ 
+
+R. FEINBERG
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Gruber, L.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

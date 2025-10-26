@@ -1,0 +1,81 @@
+Citation Nr: A25031767
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240126-412767
+DATE: April 7, 2025
+
+REMANDED
+
+Entitlement to an initial disability rating in excess of 10 percent for left wrist carpal tunnel syndrome (CTS) (median nerve) prior to June 28, 2023, and in excess of 20 percent thereafter is remanded.
+
+Entitlement to an initial disability rating in excess of 10 percent for left wrist CTS (ulnar nerve) prior to June 28, 2023, and in excess of 20 percent thereafter is remanded. 
+
+Entitlement to an initial disability rating in excess of 10 percent for right wrist CTS (median nerve) prior to June 28, 2023, and in excess of 30 percent thereafter is remanded.
+
+INTRODUCTION
+
+The Veteran served on active duty in the U.S. Air Force from June 1970 to June 1994.
+
+In December 2023, the Regional Office (RO) issued a rating decision and supplemental statement of the case (SSOC), which addressed the above-noted issues.  Thereafter, in January 2024, the Veteran submitted a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), wherein he sought to appeal the claims in the Appeals Modernization Act (AMA) System.  He selected the Direct Review option; therefore, the Board may only consider the evidence of record at the time the RO issued the December 2023 rating decision.  38 C.F.R. § 20.301.
+
+However, because the Board is remanding the above-referenced claims, any evidence the Board could not consider will be considered by the RO in the readjudication of those claims.  38 C.F.R. § 3.103 (c)(2)(ii).
+
+REASONS FOR REMAND
+
+Pursuant to 38 C.F.R. § 20.802, unless an issue on appeal can be granted in full, the Board shall remand the appeal to the agency of original jurisdiction for correction of an error on the part of the agency of original jurisdiction to satisfy its duties under 38 U.S.C. § 5103A, if the error occurred prior to the date of the agency of original jurisdiction decision on appeal.  The Board may remand for correction of any other error by the agency of original jurisdiction in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the appellant's claim.
+
+Under certain circumstances, 38 C.F.R. § 3.159 requires VA to obtain a VA examination or medical opinion.  When VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).  Further, a remand by the Board confers upon the claimant, as a matter of law, the right to compliance with the remand instructions, and imposes upon VA a concomitant duty to ensure compliance with the terms of the remand.  See Stegall v. West, 11 Vet. App. 268, 271 (1998).  The failure to provide the above-noted assistance constitutes a due process violation.
+
+In a May 2023 remand, the Board acknowledged the RO had not yet obtained a VA examination assessing the Veteran's bilateral CTS, which considered the severity of the disability in the absence of the ameliorating effects of his presently prescribed medications.  See Jones v. Shinseki, 26 Vet. App. 56 (2012) (holding that the ameliorative effects of medication may not be considered in assigning a disability rating where such effects are not explicitly contemplated by the rating criteria).  The RO was instructed to obtain an examination and medical opinion which did so.  The RO did obtain a new VA peripheral nerves examination in June 2023.  Following that examination, the examiner stated if the Veteran were to stop taking medication he would experience the same symptoms.  The RO then requested and obtained an addendum medical opinion in July 2023.  
+
+In that opinion, which was provided by a physician who did not conduct the June 2023 examination, the physician merely chronicled the Veteran's medical history, and concluded his disabilities were of mild to moderate severity.  The RO then obtained a third medical opinion in December 2023.  In that opinion, again provided by a clinician who did not conduct the June 2023 examination, the clinician determined that "without the use of medication, Tylenol, to treat the condition, the functional loss would likely be unchanged."  Each of these opinions wholly failed to squarely address the question presented.  Again, the RO was instructed to obtain an opinion which addressed the severity (i.e. the gravity, seriousness, or significance) of the Veteran's CTS in the absence of medications.  Here, the RO obtained opinions addressing the Veteran's symptoms (i.e. manifestations of a disability) and functional impairments (i.e. limitations in the ability to perform certain acts), as well as a simple recounting of the Veteran's medical history.  Based on the foregoing pre-decisional duty to assist errors and non-compliance with the prior remand directives, the Board finds a remand is necessary.
+
+Accordingly, this matter is REMANDED for the following actions:
+
+Obtain a VA examination and medical opinions from a Neurologist with sufficient knowledge and experience to provide opinions in this matter.  Following an examination of the Veteran, the examiner is asked to review the Veteran's complete file, and provide answers to the following:
+
+a)	Please provide an opinion regarding the severity of the Veteran's disability which discounts the ameliorative effects of medication such as gabapentin, aspirin, and Motrin.  Put another way, the examiner is asked to state whether the Veteran's CTS would be worse or of greater significance without medications.  
+
+In evaluating the severity of the Veteran's disabilities if he were to not take his medications, the examiner should consider the arguments submitted by the Veteran's representative in April 2023 and the following treatment records and examination reports:
+
+(i) January 2019 VA primary care note (indicating gabapentin at current dose (300mg cap take two capsules by mouth at bedtime) and night splint for intermittent carpal tunnel syndrome symptoms);
+
+(ii) July 2018 VA examination report (noting Veteran prescribed bilateral wrist splints and gabapentin for chronic symptoms);
+
+(iii) June 2018 private hospital EMG report (finding tingling bilateral hands and mild right median compression neuropathy at the wrist (CTS));
+
+(iv) June 2018 VA primary care note (indicating increase in gabapentin (to 600mg) due to hand numbness and cramping);
+
+(v) March 2018 VA orthopedic surgery consult (indicating Veteran diagnosed with upper extremity neuropathy and on gabapentin for it);
+
+(vi) July 2017 VA medication mgt note (indicating gabapentin 300mg cap take one capsule by mouth at bedtime);
+
+(vii) November 2015 VA primary care physician outpatient note (indicating Veteran getting gabapentin for diabetic neuropathy);
+
+(viii) April 2015 VA nursing outpatient note (listing gabapentin (300mg cap take one capsule by mouth at bedtime) among active outpatient medications);
+
+(ix) July 2014 VA nursing outpatient note (listing gabapentin (300mg cap take one capsule by mouth at bedtime) among active outpatient medications);
+
+(x) February 2014 VA examination report;
+
+(xi) January 2014 VA addendum treatment note (indicating gabapentin prescribed for pain and noting history of neuropathy in arms, now having similar pains in toes, feet);
+
+(xii) July 2013 VA EMG (finding mild CTS and moderate ulnar neuropathy in left arm, moderate CTS in right arm, and no evidence of radiculopathy, other neuropathy or myopathy involving either arm, and noting active VA medicines include diclofenac NA 75mg EC tab take one tablet by mouth two times a day as needed for knee pain and active non-VA medicines include aspirin 81mg ED tab once a day);
+
+(xiii) May 2012 VA examination report. 
+
+The examiner is asked to provide a complete rationale for any opinions expressed.  If the examiner is unable to provide any required opinion, he or she should explain why.  If the examiner cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation as to why this is so.
+
+ 
+
+ 
+
+T. REYNOLDS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Fraser, Gordon
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

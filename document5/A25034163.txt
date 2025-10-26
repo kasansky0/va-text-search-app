@@ -1,0 +1,65 @@
+Citation Nr: A25034163
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240508-437557
+DATE: April 14, 2025
+
+REMANDED
+
+Entitlement to service connection for actinic and solar keratosis is remanded.
+
+Entitlement to service connection for bilateral hearing loss is remanded.
+
+Entitlement to service connection for headaches is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active service from December 1964 to November 1966. His service included a tour in the Republic of Viet Nam (RVN) from April 1965 to November 1966.
+
+The Veteran appealed a May 2024 rating decision on Higher-Level Review (HLR) via the Hearing Lane, and the appeal was duly docketed on the Board's Hearing Docket. See May 2024 Rating Decision Narrative; May 2024 VA Form 10182; May 2024 BVA Docketing Letter. His requested hearing before a Veterans Law Judge was held in September 2024, and a transcript of the proceeding is of record. See September 2024 Hearing Transcript.
+
+Evidentiary Record
+
+The Board decision below is based on the evidence of record as of the date the August 2023 rating decision was issued, the Veteran's hearing testimony, and any additional evidence submitted at the hearing or within 90 days of the date of the hearing. 38 C.F.R. § 20.302(a). The Board has not considered any evidence other than that noted.
+
+If evidence was associated with the claims file during a period when additional evidence was not allowed, the Board has not considered it in its decision below. 38 C.F.R. § 20.300. If the Veteran would like VA to consider any evidence that was added to the claim file that the Board could not consider, he may file a supplemental claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim(s), considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a supplemental claim are included with this decision.
+
+As discussed below, the Board finds pre-decision duty to assist error.
+
+1. Entitlement to service connection for actinic and solar keratosis is remanded.
+
+First, the Board notes that VA examiners did not accurately note the entries in the Veteran's service treatment records (STRs). A January 2012 VA examination report reflects that the examiner incorrectly noted that in-service skin symptomatology that was diagnosed as insect bites was later diagnosed as ichthyosis. See January 2012 VA Examination, P. 4. In fact, ichthyosis, mild, was noted in the Veteran's December 1964 Report of Examination for Induction prior to his entry into active service. See April 2011 STR-Medical, P. 9. This pathology was not noted at the March 1964 PREIND examination, and both examinations were performed by the same Army physician at the AFES Station. Id. P. 36. A May 1965 entry in the STRs notes the Veteran's complaint of itchy pustules that had broken out on his forearms 3 days earlier. He requested to see a doctor after his initial screening at an aid station. It is not apparent from the last entry that the person who diagnosed insect bites was a physician. Id. P. 30. Since the VA examiners misread the STRs, the issue of whether an existing, intermittently symptomatic, skin disorder was worsened by active service was never addressed by the Agency of Original Jurisdiction (AOJ).
+
+The examination reports also note excision of a cancerous growth as well as other growth by liquid nitrogen, no record of which the Board has found in its review. It is unclear as to whether the examiner recorded the Veteran's lay reported history of the procedure or cited to a medical record not in the claim file. Further, the Veteran's outpatient records do not note a history of skin cancer. The most pertinent deficiency, however, is that the examiners diagnosed the Veteran's current disorder as solar and actinic keratosis, but the AOJ never requested an opinion on whether the Veteran's sun exposure while in RVN, where the troops frequently worked without shirts, contributed to a tendency to develop the disorder, or perhaps activated the dormant ichthyosis. Thus, the existing medical opinions are inadequate, which constitute pre-decision error which mandate another opinion. Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).
+
+2. Entitlement to service connection for bilateral hearing loss is remanded.
+
+A VA audiologist opined that it is not at least as likely as not that the Veteran's currently diagnosed bilateral hearing loss is causally connected to his conceded in-service noise exposure, which included duty as an artilleryman in RVN. The sole rationale noted by the audiologist is that the Veteran's hearing was normal at separation. See April 2023 C&P Exam, 5th Entry, P. 4. Hensley v. Brown, 5 Vet. App. 155 (1993) is often misread to have held that an examiner may not rely on normal hearing at separation as the basis for a negative nexus opinion. Although it is not error per se for an audiologist to rely on evidence of normal hearing at separation from active service, the evidence of normal hearing at separation must be sufficiently reliable to support the opinion. The Board notes that the audiologist did not note or discuss apparent anomalies on the audiometer of the November 1966 separation examination report. First, the puretone thresholds listed do not appear to reflect the results of an audiometer. As asserted by the representative at the hearing, there is no record of the raw audiogram results in the STRs. Further, the 1966 audiometer is patently inconsistent, if not contradictory, with the 1964 audiometer. The Board notes that the December 1964 audiogram notes thresholds for all frequencies between 500 Hertz (Hz) and 6000 Hz, and it reflects a high frequency hearing loss in the left ear at 6000 Hz. See April 2011 STR-Medical, P. 9. The November 1966 audiogram does not record any thresholds at any frequency. Id. P. 4. Hence, the Board questions the reliability of the putative 1966 audiometer to support an opinion of normal hearing. The Board finds that an audiologist must address the reliability of the November 1966 audiogram and whether it is sufficiently reliable to allow an audiologist to opine on whether there was a threshold shift between enlistment and separation, which is required for a fully informed opinion. 
+
+3. Entitlement to service connection for headaches is remanded.
+
+The Veteran's diagnosis of record is tension headaches. The Board finds that this issue is intertwined with the hearing loss claims.  The Veteran has raised the issue that his hearing loss aggravates his tension headaches. 
+
+The matters are REMANDED for the following action:
+
+1. As concerns the skin claim, send the claim file to an appropriate clinician. Ask the clinician to review the claim file and then address and opine as follows: Is it likely that the May 1965 entry in the STRs that notes a diagnosis of insect bites for the symptoms noted was a misdiagnosis [the Board acknowledges the poor penmanship of the scribe]? If so, please opine on the likely diagnosis. If the likely etiology was other than insect bites, was the noted symptomatology was a flare of the ichthyosis noted in December 1964? Please explain all opinions.
+
+In addition to the above, please opine on whether it is the Veteran's in-service sun exposure, including while in RVN where he frequently worked without his shirt, either caused his diagnosed solar and actinic keratosis or rendered him more likely to develop the disorder? Please provide a full explanation for the opinions. Inform the clinician that the lay evidence of record must be considered. Inform the clinician further, that the absence of contemporaneous medical documentation, alone, is not an adequate basis for a negative opinion, unless the materiality of the absence is explained. The Board asks that mere conclusory statements be avoided.
+
+2. Send the claim file to an audiologist. Ask the audiologist to compare the 1966 audiogram to those of 1964 and then specifically opine whether the November 1966 audiogram appears sufficiently reliable to determine if the Veteran had normal hearing at separation from active service. Please fully explain the reasons for the opinion, to include whether the Veteran's currently diagnosed bilateral hearing loss is causally connected to his conceded in-service noise exposure. Please avoid mere conclusory statements without a stated basis for the conclusion.
+
+3. After the above is complete, readjudicate the claims as appropriate.
+
+ 
+
+ 
+
+Martin T. Mitchell
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Snyder, William T.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

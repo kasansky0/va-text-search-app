@@ -1,0 +1,105 @@
+Citation Nr: A25034650
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 250110-507006
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for malignant neoplasms of the thyroid is granted.
+
+Entitlement to service connection for hypothyroidism is granted.
+
+Entitlement to service connection for dysphagia is granted.
+
+Entitlement to service connection for dysarthria is granted.
+
+FINDINGS OF FACT
+
+1. Resolving all reasonable doubt in the Veteran's favor, his malignant neoplasms of the thyroid are related to his military service.
+
+2. The evidence establishes that the Veteran's hypothyroidism was caused by his malignant neoplasms of the thyroid.
+
+3. The evidence establishes that the Veteran's dysphagia was caused by his malignant neoplasms of the thyroid.
+
+4. The evidence establishes that the Veteran's dysarthria was caused by his malignant neoplasms of the thyroid.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for a malignant neoplasms of the thyroid have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+2. The criteria for entitlement to service connection for hypothyroidism have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+3. The criteria for entitlement to service connection for dysphagia have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+4. The criteria for entitlement to service connection for dysarthria have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from February 1969 to November 1975.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from a January 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the January 2025 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement (NOD)), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the June 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review (HLR).  38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to HLR the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+The Board acknowledges that the Veteran, private examiners, and VA examiners submitted materials that contained hyperlinks to content that is not otherwise part of the record on appeal.  While the Board could review evidence submitted via hyperlink, because hyperlinked information may not be static, the Board would be unable to determine whether what the Board saw when it accessed the hyperlinked information was what the submitting persons intended to submit as evidence, or rely on.  As the Board cannot create evidence, what was found at the hyperlinked address would not be part of the record.  In turn, the United States Court of Appeals for Veterans Claims (Court) would be unable to perform meaningful appellate review of evidence that is not in the record.  Given the foregoing, the Board advises that hyperlinked references were not reviewed.
+
+Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+Alternatively, service connection may be presumed for diseases listed under 38 C.F.R. § 3.309 (e), which manifest in claimants having actual or presumptive exposure to herbicides.  The Veteran's claimed disorders are not contemplated by that provision. 38 C.F.R. § 3.309 (e).  In this regard, while the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act) added hypothyroidism as a disease presumptively related to herbicide agent exposure, the Veteran's hypothyroidism has been shown to be secondary and non-primary; thus, such is not entitled to presumptive service connection.  Further, even if the Veteran's hypothyroidism was primary, entitlement to service connection on a non-presumptive basis is a greater benefit to him given that the effective date of any grant under the PACT Act would be after his claim for service connection in this case.  
+
+Importantly, the non-presumptive nature of the claims does not preclude the Veteran from establishing service connection due to such exposure under a theory of direct causation.  See Combee v. Brown, 34 F.3d 1039, 1042 (Fed. Cir. 1994); Polovick v. Shinseki, 23 Vet. App. 48, 55 (2009).
+
+Service connection shall be granted on a secondary basis under the provisions of 38 C.F.R. § 3.310 where it is demonstrated that a service-connected disorder has caused or aggravated a nonservice connected disability.  See Allen v. Brown, 7 Vet. App. 439 (1995).
+
+1. Entitlement to service connection for malignant neoplasms of the thyroid.
+
+The Veteran seeks service connection for malignant neoplasms of the thyroid that he asserts were caused by his exposure to herbicide agents during his service in the Republic of Vietnam during the Vietnam war era.  
+
+The record in this case clearly establishes the Veteran has a malignant neoplasms of the thyroid and historically had thyroid cancer (see May 2023 VA examination report) and confirmed service in Vietnam.  The Board therefore finds that the first and second elements of the service connection analysis are satisfied.  Thus, the remaining question is whether there is a nexus with service.  On this question there are opinions in favor of and against the claim. 
+
+The evidence against the claim includes a February 2022 VA examiner's opinion that it would be resorting to speculation to link the Veteran's malignant neoplasms of the thyroid with his military service.  In support thereof, the examiner stated that standardized literature does not mention herbicide exposure as a risk factor for developing thyroid cancer.  Thus, without discussing any specifics as to the Veteran's thyroid cancer, the examiner concluded the Veteran's malignant neoplasms of the thyroid were unrelated to service.  Similarly, a June 2023  VA examiner made a conclusory statement that agent orange has not been shown to cause thyroid cancers.  
+
+Turning to the favorable evidence, the record contains a September 2021 private opinion from Dr. S.C. who noted personally reviewing numerous medical research articles addressing the association between herbicide agent exposure and that such established a higher rate of thyroid cancer in exposed veterans compared to non-exposed people in the general population.  Thus, he opined it was more likely than not that the Veteran's thyroid cancer was associated with his in-service exposure to herbicide agents.
+
+The record also contains a May 2023 VA examiner's opinion that the Veteran's malignant neoplasms of the thyroid were caused by his herbicide agent exposure.  Inextricably, the RO did not in any way discuss this opinion in either the June 2023 or January 2024 rating decisions.  Returning to the content of the opinion, the VA examiner noted the Veteran's acknowledged in service exposure and observed that risk factors for developing thyroid cancer included environmental exposures, Dr. S.C.'s opinion, and studies demonstrating an increased incidence of thyroid cancer in individuals with a history of herbicide agent exposure.  In the absence of other risk factors for developing thyroid cancer, the examiner opined the Veteran's history of exposures presented as the strongest etiological source of his diagnosed disorder.
+
+Yet another positive private opinion was submitted by the Veteran in June 2023, from Dr. V.C., the former Acting Chief Consultant for Environmental Health and Senior Medical Advisor to the Office of Disability and Medical Assessment at VA.  In the April 2023 opinion Dr. V.C. opined it was at least as likely as not that the Veteran's malignant neoplasms of the thyroid were caused by his herbicide agent exposure.  Initially, the physician discussed the failings in certain studies used to preclude presumptive service connection for thyroid cancer - the same studies cited by the February 2022 VA examiner.  She explained that these studies actually show an increased risk for developing thyroid cancer in exposed veterans.  Indeed, she stated that the entire body of medical literature demonstrates an association between herbicide agent exposure and thyroid cancer.  Finally, like the May 2023 VA examiner she observed that the Veteran did not have other risk factors for developing thyroid cancer.  Thus, she opined that it is at least as likely as not that the Veteran's thyroid cancer was caused by his exposure to herbicide agents while serving in Vietnam.
+
+The Board affords the February 2022 and June 2023 VA opinions that the Veteran's malignant neoplasms of the thyroid were not caused by his acknowledged exposure to herbicide agents no probative weight as the examiners' opinions were conclusory.  Further, the Board affords such opinions less probative weight as they were obtained in error.  In this regard, as a matter of course, VA should not?develop for negative evidence?solely to deny a claim as the RO seems to have done here. ?38C.F.R. § 3.304?(c) ("The development of evidence in connection with claims for service connection will be accomplished when deemed necessary but it should not be undertaken when evidence present is sufficient for this determination"). 
+
+Turning to the positive opinions from September 2021, April 2023, and May 2023, the Board affords the opinions great probative weight as they were supported by rationales specific to the Veteran's health history with interwoven citations and analysis based on treatise evidence.  
+
+Given the foregoing, the Board finds that the most probative evidence of record establishes that the Veteran's malignant neoplasms of the thyroid were caused by his exposure to herbicide agents.  As such, all elements of service connection have been met and service connection is granted.  See?38?U.S.C. §?5107?(b). 
+
+2. Entitlement to service connection for hypothyroidism.
+
+3. Entitlement to service connection for dysphagia.
+
+4. Entitlement to service connection for dysarthria.
+
+The Veteran seeks service connection for hypothyroidism, dysphagia, and dysarthria as secondary to his now service-connected malignant neoplasms of the thyroid.  
+
+Initially, May 2023 VA examinations confirm the Veteran's diagnoses of hypothyroidism, dysphagia, and dysarthria.  Additionally, the decision above has awarded service connection for malignant neoplasms of the thyroid.  Thus, the first two elements for service connection have been established as to these claims.
+
+Turning to the nexus element, the February 2022 VA examiner opined that the Veteran's hypothyroidism was caused by his malignant neoplasms of the thyroid as the Veteran's hypothyroidism is not "primary" and is instead caused by his previous thyroid cancer.  Next, the May 2023 examiner opined that it was at least as likely as not that the Veteran's hypothyroidism, dysphagia, and dysarthria were caused by his malignant neoplasms of the thyroid.  In support, the clinician noted that complete removal of the thyroid gland, such as the Veteran underwent, caused his hypothyroidism.  With respect to dysphagia, the examiner noted that such is a frequent complaint both before and after thyroid surgery, which (again) the Veteran underwent for his thyroid cancer.  The clinician went on to state that the etiology of post-thyroidectomy dysphagia can be associated with postoperative adhesion, decreased laryngeal elevation, cricothyroid trauma or inflammation, or perithyroidal nerve damage.  In the Veteran's case, there were no other likely causes.  Finally, with respect to dysarthria, the examiner noted that it too was common following thyroid surgery.  Specifically, persistent hoarseness is rare and can be caused by arytenoid dislocation or vocal cord dysfunction from a nerve injury, such as the Veteran's surgery.
+
+Given the foregoing, the Board finds the competent and probative evidence weighs in favor of an award for service connection for hypothyroidism, dysphagia, and dysarthria as caused by the service connected malignant neoplasms of the thyroid.  Thus, the claims are granted.
+
+ 
+
+ 
+
+Nathaniel Doan
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Sosna, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

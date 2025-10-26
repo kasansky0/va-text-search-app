@@ -1,0 +1,79 @@
+Citation Nr: A25031647
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240723-458762
+DATE: April 7, 2025
+
+ORDER
+
+For the entire period on appeal, entitlement to an initial disability rating of 30 percent for gastroesophageal reflux disease (GERD) is granted.
+
+FINDING OF FACT
+
+The evidence is in relative equipoise as to whether the manifestations of the Veteran's GERD more nearly approximated persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health for the entire period on appeal.
+
+CONCLUSION OF LAW
+
+Resolving all reasonable doubt in the Veteran's favor, the criteria for an initial disability rating of 30 percent for GERD are met for the entire period on appeal.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.1, 4.3, 4.7, 4.114, Diagnostic Codes (DCs) 7399-7436.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran, who is the appellant in this case, served on active duty from June 2008 to June 2015.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an August 2023 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO) in which the RO granted service connection for GERD and assigned an initial disability rating of 10 percent, effective April 13, 2023.
+
+In July 2024, the Veteran filed a VA Form 10182 (Decision Review Request: Board Appeal) and requested direct review by the Board.  Therefore, the Board may only consider the evidence of record at the time of the August 2023 rating decision.  38 C.F.R. §?20.301.  Any evidence submitted after the August 2023 rating decision cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  
+
+If the appellant would like VA to consider any evidence that was submitted that the Board could not consider, the appellant may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.  
+
+The Board has limited the discussion below to the relevant evidence required to support its finding of fact and conclusion of law, as well as to the specific contentions regarding the case as raised directly by the appellant and those reasonably raised by the record.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015).
+
+1. Entitlement to an initial disability rating in excess of 10 percent for GERD
+
+Disability evaluations are determined by comparing a veteran's present symptoms with the criteria set forth in the VA Schedule for Rating Disabilities, which is based upon average impairment in earning capacity.  38 U.S.C. § 1155; 38 C.F.R. Part 4.  When a question arises as to which of two ratings applies under a particular diagnostic code, the higher evaluation is assigned if the disability more closely approximates the criteria for the higher rating; otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  After careful consideration of the evidence, any reasonable doubt is resolved in favor of the veteran.  38 C.F.R. § 4.3.
+
+The veteran's entire history is to be considered when making disability evaluations.  See generally 38 C.F.R. § 4.1; Schafrath v. Derwinski, 1 Vet. App. 589 (1995).  Staged ratings are appropriate for any initial rating claim when the factual findings show distinct time periods during the appeal period where the service-connected disability exhibits symptoms that would warrant different ratings.  Fenderson v. West, 12 Vet. App. 119, 126 (1999).
+
+VA regulations provide that there are diseases of the digestive system, particularly with the abdomen, which, while differing in the site of pathology, produce a common disability picture characterized in the main by varying degrees of abdominal distress or pain, anemia, and disturbances in nutrition.  Consequently, certain coexisting diseases in this area, as indicated in the instruction under the title "Diseases of the Digestive System," do not lend themselves to distinct and separate disability evaluations without violating the fundamental principle relating to pyramiding.  38 C.F.R. §§ 4.14, 4.113.
+
+Ratings under DCs 7301 to 7329, inclusive, 7331, 7342, and 7345 to 7348, inclusive, will not be combined with each other.  A single evaluation will be assigned under the DC that reflects the predominant disability picture, with elevation to the next higher evaluation where the severity of the overall disability warrants such elevation.  38 C.F.R. § 4.114.
+
+In this matter, the Veteran's GERD is rated under DCs 7399-7346.  Hyphenated DCs are used when a rating under one DC requires use of an additional DC to identify the specific basis for the evaluation assigned.  The additional code is shown after a hyphen.  38 C.F.R. § 4.27.  Furthermore, codes ending in "99" are for all unlisted conditions.  As there is no DC for GERD during the period on appeal, the RO rated the Veteran's GERD analogous to hiatal hernia under DC 7346.  When an unlisted condition is encountered, it is permissible to rate under a closely related disease which not only the functions affected, but the anatomical localization and symptomatology are closely analogous.  38 C.F.R. § 4.20.  Here, the Board finds that GERD is most closely analogous to a hiatal hernia in terms of symptomatology, resulting disability pictures, and anatomical localization in the upper gastrointestinal tract.  Thus, DCs 7399-7346 are the most appropriate DCs for rating the Veteran's GERD.
+
+Under DC 7346, a 10 percent rating is warranted where hiatal hernia manifests with two or more of the symptoms for the 30 percent evaluation of less severity.  A 30 percent rating is warranted for hiatal hernia that manifests as persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health.  The highest schedular rating of 60 percent is warranted for symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health.  38 C.F.R. § 4.114, DC 7346.
+
+The terms "considerable" and "severe" are not defined in the rating criteria.  Rather than applying a mechanical formula, the Board must evaluate all the evidence to the end that its decisions are equitable and just.  38 C.F.R. § 4.6.  For reference, "considerable" is defined as "large in extent or degree."  See Merriam-Webster's Collegiate Dictionary 267 (11th ed. 2012).  "Severe" is defined as "very painful or harmful."  Id. at 1140.  All evidence must be evaluated in arriving at a decision regarding an increased rating. 38 C.F.R. §§ 4.2, 4.6.
+
+In assigning a rating under DC 7346, the Board may not consider the ameliorative effects of medication.  See Jones v. Shinseki, 26 Vet. App. 56, 63 (2012).  Additionally, the rating criteria are not successive or cumulative with that of the lower rating.  See Tatum v. Shinseki, 23 Vet. App. 152, 155 (2009); see also Stankevich v. Nicholson, 19 Vet. App. 470, 472 (2006) (The Court recognized that disabilities rated by analogy will not show all objective criteria of the analogous rating).
+
+VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with a claimant prevailing in either event.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.  The claimant is entitled to the benefit of the doubt when there is an "approximate" (meaning nearly equal) balance of positive and negative evidence regarding any material determination.  See Lynch v. McDonough, 999 F.3d 1391 (2021); Ortiz v. Principi, 274 F.3d 1361 (Fed. Cir. 2001).  If the evidence persuasively weighs against the claim, the claim is denied.
+
+Here, the Veteran is currently in receipt of an initial disability rating of 10 percent for GERD for the entire period on appeal.  In argument attached to her July 2024 VA Form 10182, the Veteran, through her representative, requested an initial disability rating of 30 percent for GERD.  Although a claimant will generally be presumed to be seeking the maximum benefit allowed by law and regulation, such a claimant may "limit a claim or appeal to the issue of entitlement to a particular disability rating which is less than the maximum disability rating allowed by law" via "clearly expressed intent to limit the appeal to entitlement to a specific disability rating for the service-connected condition."  AB v. Brown, 6 Vet. App. 35, 39 (1993).  Based on the Veteran's clear limitation of the issue on appeal, the Board finds that the Veteran is only seeking an initial disability rating of 30 percent for GERD.  Accordingly, the Board will not address entitlement to an initial disability rating in excess of 30 percent for GERD.
+
+On review, the Board finds that an initial disability rating of 30 percent is warranted for the Veteran's GERD under DCs 7399-7346 for the entire period on appeal.  This is because the evidence is in relative equipoise as to whether the manifestations of the Veteran's GERD more nearly approximated persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health.  In an April 2023 Statement in Support of Claim, the Veteran endorsed "multiple symptoms of GERD including heartburn with acid reflux, regurgitation of stomach contents into my throat, frequent coughing, nighttime choking due to regurgitation, burning in my chest, burning in my throat, and dark colored stool regularly.  These symptoms are worse when I am feeling anxious or stressed.  I must use Tums to help control the heartburn.  I must avoid certain foods, like fried foods, coffee, pizza, fast foods, soda, fatty foods, and eat large meals otherwise my regurgitation is worse.  Additionally, I have chest pain when my GERD is flaring up.  Due to my GERD symptoms, I require sleeping with multiple pillows propping my head up to fall asleep.  I find that I am not able to sleep more than 5 straight hours due to being awakened from my GERD symptoms.  Due to my lack of sleep, I have noted that I have daytime fatigue, mood changes, weight gain, low libido and sex drive, irritability, paranoia, depressed mood, difficulty enjoying social events and interactions, memory trouble, self-neglect in personal care, and difficulty handling stressful situations."  In the May 2023 VA "Esophageal Conditions" examination, which was documented in a July 2023 VA examination report, the VA examiner determined that the Veteran had GERD symptoms of pyrosis, reflux, regurgitation, and sleep disturbance and nausea occurring 4 or more times per year with an average duration of less than 1 day per episode.  The VA examiner also found that the Veteran's GERD impacts her ability to work, since she may occasionally need to take breaks when she gets her symptoms.
+
+Based on the foregoing evidence, and with resolution of all reasonable doubt in the Veteran's favor, the Board finds that her GERD symptoms were productive of considerable impairment of health, and therefore more nearly approximated the criteria for an initial disability rating of 30 percent under DCs 7399-7346 for the entire period on appeal.  The appeal is therefore granted.
+
+As noted above, in the April 2023 Statement in Support of Claim, the Veteran reported symptoms including difficulty sleeping, daytime fatigue, and mental health symptoms because of her GERD.  Based on the foregoing, the Board finds that the issues of entitlement to separate compensable ratings for a sleep disability and an acquired psychiatric disability have been reasonably raised by the record and are potentially within the scope of the increased rating claim for the Veteran's GERD.  See Bailey v. Wilkie, 33 Vet. App. 188, 203 (2021) (finding that 38 C.F.R. § 3.155(d)(2) requires that, when entitlement to secondary service connection is raised, a formal claim for secondary service connection need not be filed, rather, VA must consider those "complications" in connection with the claim on appeal).  
+
+However, the Veteran is service connected for obstructive sleep apnea (OSA) (assigned a 50 percent rating, effective April 13, 2023), and her OSA symptoms include persistent daytime hypersomnolence.  See May 2023 VA "Sleep Apnea" examination, documented in a July 2023 VA examination report.  Additionally, the Veteran is service connected for other specified depressive disorder with anxious distress and insomnia (assigned a 30 percent rating, effective June 6, 2015), and her symptoms include depressed mood, anxiety, suspiciousness, chronic sleep impairment, and mild memory loss, such as forgetting names, directions, or recent events.  See May 2023 VA "Mental Disorders" examination report.
+
+On review, the Board finds that separate compensable ratings for a sleep disability and/or an acquired psychiatric disability, as secondary to the Veteran's GERD, would constitute pyramiding, which is prohibited.  See 38 C.F.R. § 4.14 ("[t]he evaluation of the same disability under various diagnoses," a practice called "pyramiding," "is to be avoided").  The rationale for the prohibition on pyramiding is that "the rating schedule may not be employed as a vehicle for compensating a claimant twice (or more) for the same symptomatology; such a result would overcompensate the claimant for the actual impairment" suffered.  See Brady v. Brown, 4 Vet. App. 203, 206 (1993).  That is what would occur if VA compensated the Veteran for a sleep disability and/or an acquired psychiatric disability, as secondary to her GERD, because she is already being compensated for the same symptoms as part of the ratings assigned for her service-connected OSA and other specified depressive disorder with anxious distress and insomnia.  For these reasons, the Board finds that the evidence persuasively weighs against the assignment of separate compensable ratings for a sleep disability and/or an acquired psychiatric disability, as secondary to the Veteran's GERD.  Accordingly, the benefit-of-the-doubt rule is not for application, and separate compensable ratings for a sleep disability and/or an acquired psychiatric disability, as secondary to the Veteran's GERD, must be denied.
+
+(Continued on the next page)
+
+Neither the Veteran nor her representative has raised any other issues, nor have any other issues been reasonably raised by the record.  See Doucette v. Shulkin, 28 Vet. App. 366, 369-70 (2017) (confirming that the Board is not required to address issues unless they are specifically raised by the claimant or reasonably raised by the evidence of record).  Although there is evidence that the Veteran's GERD impacts her ability to work, an impact on the ability to work does not equate to unemployability, and the record does not otherwise raise the issue of entitlement to a total disability rating based upon individual unemployability (TDIU).
+
+ 
+
+ 
+
+S. B. MAYS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. M. Gill, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

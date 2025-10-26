@@ -1,0 +1,159 @@
+Citation Nr: A25034016
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240522-443199
+DATE: April 11, 2025
+
+ORDER
+
+Service connection for hearing loss is denied.
+
+REMANDED
+
+The issue of entitlement to service connection for an acquired psychological disorder (originally claimed as anxiety condition and PTSD) is remanded.
+
+The issue of entitlement to service connection for athlete's foot onychomycosis, tinea pedis, is remanded.
+
+The issue of entitlement to service connection for left knee strain, claimed as joint pain, is remanded.
+
+The issue of entitlement to service connection for right knee pain, claimed as joint pain, is remanded.
+
+FINDING OF FACT
+
+The evidence of record persuasively weighs against a finding that the Veteran has had left-sided or right-sided hearing loss at any time during or approximate to the pendency of the claim.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for hearing loss are not met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Navy from September 2008 to August 2016. 
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from a December 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO). 
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301.
+
+If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision. 38 C.F.R. § 20.300. Regarding the issues the Board is remanding, any such evidence will be considered by the agency of original jurisdiction (AOJ) on remand. Regarding the issue the Board is deciding, if the Veteran would like VA to consider any evidence that was added to the claims file that the Board could not consider, the Veteran may file a supplemental claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a supplemental claim are included with this decision.
+
+The Board notes that it has expanded the Veteran's claims of entitlement to service connection for adjustment disorder and PTSD to one of entitlement to service connection for any acquired psychological disorder, including adjustment disorder and PTSD. See Clemons v. Shinseki, 23 Vet. App. 1 (2009) (indicating that the scope of a disability claim includes any disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record).
+
+The Board has also expanded the Veteran's claim for athlete's foot to one of dermatophytosis of the feet-to include both tinea pedis and onychomycosis. See Brokowski v. Shinseki, 23 Vet. App. 79 (2009). 
+
+Service connection for hearing loss is denied.
+
+The Veteran contends that his service connection claim for hearing loss should not have been denied. See VA Form 10182 Notice of Disagreement, May 2024. He asserts that he "worked around loud aircraft while in service, and this caused [his] hearing loss." VA 21-526EZ Fully Developed Claim, received May 2023.
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004). 
+
+Impaired hearing will be considered to be a disability for VA benefit purposes when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent. 38 C.F.R. § 3.385. 
+
+In this case the Veteran underwent audiological testing during a November 2023 VA examination, at which time pure tone thresholds, in decibels, were as follows:
+
+  	 	 	HERTZ	 	 
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	 15	10	15	10	15
+
+LEFT	10	15	15	10	10
+
+Speech audiometry revealed speech recognition ability of 100 percent in the right ear and 100 percent in the left ear. Thus, neither the auditory threshold test, nor the results of the Maryland CNC test allow for a grant of service connection. Consistent with those test results, the VA examiner concluded that the Veteran had normal hearing in both ears, and that there was no significant threshold shift in either ear. 
+
+Similarly, the Veteran's in-service hearing tests do not show qualifying hearing loss. An audiogram in August 2016, just before the Veteran separated from service, shows the following audiometric data:
+
+  	 	 	HERTZ	 	 
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	 5	0	10	20	5
+
+LEFT	5	0	0	5	10
+
+STR, August 2016, received May 2023. 
+
+In-service audiological tests in June 2015 and May 2014 were also negative for significant threshold shifts or qualifying hearing loss. Although the AOJ conceded exposure to hazardous noise, based on the Veteran's military occupational specialty, and although the Board is bound by that favorable finding under 38 C.F.R. § 3.104(c), the first element for a service connection claim still is not met. Because the record contains no documentation of qualifying hearing loss, there is no basis on which to grant service connection. 
+
+After careful consideration of the evidence, any reasonable doubt remaining is to be resolved in favor of the Veteran. 38 U.S.C. § 5107; 38 C.F.R. § 3.102. If the evidence is not in approximate balance or nearly equal, the claim is to be denied. See Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application). In this case, the evidence weighs persuasively against a finding that the Veteran has a qualifying hearing loss diagnosis upon which to grant VA benefits. Consequently, the appeal as to that issue must be denied.
+
+REASONS FOR REMAND
+
+1. Service connection for an acquired psychological disorder (originally claimed as anxiety condition) is remanded.
+
+The Veteran contends that he has an acquired psychological condition related to fear of hostile military or terrorist activity. See VA 21-526EZ, Fully Developed Claim, received May 2023. 
+
+The Board must remand an appeal to the AOJ for correction of an error on the part of the AOJ to satisfy its duties under 38 U.S.C. 5103A if the error occurred prior to the date of the AOJ decision on appeal. 38 C.F.R. § 20.802. This claim must be remanded for correction of the following pre-decisional duty to assist error.
+
+The AOJ failed to provide an adequate medical examination. When VA undertakes to provide a VA examination or medical opinion, it must ensure that the examination or opinion is adequate. Barr v. Nicholson, 21 Vet. App. 303, 312 (2007). In this case, the AOJ provided a VA examination in October 2023, but the examination report appears to contain erroneous information, such that it is unclear whether the correct Veteran was evaluated. 
+
+Specifically, under the Relevant Occupational and Educational History section, the examiner writes, "He noted that he dropped out of school because he was 'bored,' and he joined the Army. The claimant reported he served in the U.S. Navy as a parachute rigger." C&P Examination, October 2023. Later, the examiner writes, "Since separation from the United States Army with an honorable discharge in 2016, he noted that he went to school for a year." Id. However, the Veteran's service record does not indicate that he served in the Army.
+
+Perhaps more importantly, there is no nexus opinion provided in the record, positive or negative. The examiner indicates on the DBQ that the Veteran does not meet the criteria for PTSD, and that he has another mental health diagnosis of adjustment disorder with anxiety, but it does not offer an opinion as to whether that diagnosis is causally connected to the Veteran's in-service psychological treatment. See Behavioral Medicine Note, February 2016; see also substance abuse treatment note, July 2016. 
+
+VA must provide an examination when there is competent evidence of a disability (or persistent or recurrent symptoms of a disability) that may be associated with an in-service event, injury, or disease, but there is insufficient information to make a decision on the claim. 38 U.S.C. § 5103A(d); McLendon v. Nicholson, 20 Vet. App. 79, 81 (2006). 
+
+In this case, the Veteran has a diagnosis for adjustment disorder. See Favorable Findings, Rating Decision, December 2023. He has also had in-service treatment for a psychological issue. As the low threshold of the McLendon standard was met but no VA opinion was obtained, a remand is necessary in order to give the AOJ the opportunity to develop evidence of a service-connected acquired psychological disorder.
+
+2. Service connection for athlete's foot is remanded.
+
+The Veteran contends that his current diagnosis of athlete's foot began in service because he "wore steel toe boots every day." VA 21-526EZ, May 2023; see also C&P Examination, November 2023. 
+
+The Board notes that the AOJ, in its December 2023 rating decision, addressed both athlete's foot (tinea pedis) and toenail fungus (onychomycosis). However, that inclusion appears to stem from the VA examiner's diagnosis of dermatophytosis, which includes both tinea pedis and onychomycosis, though the Veteran has only asserted the former. Therefore, the Board is expanding the claim to one of dermatophytosis of the feet-to include both tinea pedis and onychomycosis. See Clemons v. Shinseki, 23 Vet. App. 1 (2009); see also Brokowski v. Shinseki, 23 Vet. App. 79 (2009). 
+
+During the November 2023 examination, the Veteran stated that his "skin condition began around 2012 due to showering on board the ship and wearing steel-toed boots all the time.  He had an itching and burning sensation between the toes and thickening of the nails.  He has not had any treatment." C&P examination, November 2023. 
+
+Unfortunately, the November 2023 examination does not include a medical opinion that addresses the Veteran's assertion that his skin condition began during service due to showering on board the ship and wearing steel-toed boots. There is a TERA opinion in the record, but it does not address that assertion, so the appeal must be remanded to the AOJ for development of a non-TERA opinion on the etiology of the Veteran's foot fungus condition. 38 U.S.C. § 5103A; see also 38 C.F.R. § 20.802.
+
+3. Service connection for left knee strain, pain, claimed as joint pain is remanded.
+
+4. Service connection for right knee pain, claimed as joint pain is remanded.
+
+The Veteran has appealed his denial of service connection for left knee strain (claimed as joint pain). See VA Form 10182 Notice of Disagreement, May 2024. 
+
+The Board must remand an appeal to the AOJ for correction of an error on the part of the AOJ to satisfy its duties under 38 U.S.C. 5103A if the error occurred prior to the date of the AOJ decision on appeal. 38 C.F.R. § 20.802. This claim must be remanded for correction of the following pre-decisional duty to assist error.
+
+The AOJ failed to obtain an adequate medical opinion. The medical opinion in the record indicates-by checkbox-that the Veteran's left knee strain was less likely than not incurred in or caused by an in-service event. However, the rationale for that determination states, "The claimed condition is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) incurred in or caused by the claimed in-service injury, event, or illness." An addendum opinion is necessary to clarify those contradictory statements. 
+
+There is a TERA opinion in the record for "strain," but it is unclear whether that opinion applies to the left knee strain, and it does not discuss non-TERA medical causation. 
+
+Similarly, there is no adequate medical opinion specifically discussing the Veteran's right knee injury. In fact, the medical opinion for the left knee strain-in comparing the two knees against one another-states that the right knee has normal range of motion and no pain. See C&P Examination, November 2023. A remand is necessary to give the AOJ an opportunity to clarify those inconsistencies. 
+
+The matters are REMANDED for the following actions:
+
+1. Obtain an addendum opinion from an appropriate clinician regarding the nature and etiology of any acquired psychological disorders. After reviewing the claims file, performing a physical examination of the Veteran-if necessary-and conducting any indicated tests, the examiner is asked to address the following:
+
+(a) Please identify all current acquired psychological disorders. In doing so, please specifically discuss the diagnoses of record, including but not limited to adjustment disorder with anxiety and PTSD. For any diagnoses of record that cannot be validated or confirmed, please explain why that is so.
+
+(b) For each acquired psychological disorder identified, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the disability was incurred in or caused by an in-service injury, event, or illness? Please explain why or why not, specifically considering and discussing the Veteran's in-service treatment for substance abuse disorder in February and July 2016.
+
+2. Obtain an opinion from an appropriate clinician on the etiology of the Veteran's dermatophytosis of the feet. If an examination is deemed necessary to respond to the questions posed, one should be scheduled. The clinician is asked to address the following after reviewing the claims file:		
+
+(a) Please identify all current foot disabilities. In doing so, please specifically discuss the diagnoses of record, including but not limited to tinea pedis and onychomycosis. For any diagnoses of record that cannot be validated or confirmed, please explain why that is so.
+
+(b) For each foot disability identified, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the disability was incurred in or caused by an in-service injury, event, or illness? Please explain why or why not, specifically considering and discussing tinea pedis and onychomycosis identified on the November 2023 examinations. 
+
+3. Obtain an opinion from an appropriate clinician on the etiology of the Veteran's left knee strain. If an examination is deemed necessary to respond to the questions posed, one should be scheduled. The clinician is asked to address the following after reviewing the claims file:
+
+(a) For each left knee condition identified, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the disability was incurred in or caused by an in-service injury, event, or illness? Please explain why or why not, specifically considering and discussing the 2016 ETS physical examination.
+
+4.  Obtain an opinion from an appropriate clinician on the etiology of the Veteran's right knee condition. If an examination is deemed necessary to respond to the questions posed, one should be scheduled. The clinician is asked to address the following after reviewing the claims file:
+
+(a) For each right knee condition identified, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the disability was incurred in or caused by an in-service injury, event, or illness? Please explain why or why not, specifically considering and discussing the 2016 ETS physical.
+
+Please include a complete rationale for the opinions provided. If you cannot provide the requested opinions without resorting to speculation, please expressly indicate this and state why it is so.
+
+For the purposes of the opinion, the examiner should assume the Veteran's statements about his symptoms are credible, unless they are inconsistent with the medical evidence or with medical principles concerning his condition. The Board emphasizes that this does not constitute a positive credibility determination, as VA will weigh all the evidence upon adjudication.
+
+ 
+
+ 
+
+S. Merrick
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Musgrave, Stan M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

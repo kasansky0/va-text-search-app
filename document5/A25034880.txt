@@ -1,0 +1,83 @@
+Citation Nr: A25034880
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 240820-465082
+DATE: April 16, 2025
+
+ORDER
+
+Entitlement to service connection for tinnitus is granted.
+
+FINDING OF FACT
+
+Resolving all doubt in favor of the Veteran, the tinnitus disorder is attributable to service.
+
+CONCLUSION OF LAW
+
+The criteria to establish entitlement to service connection for tinnitus have been met. 38 U.S.C. §§ 1110, 1131, 1154, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 1983 to April 1992.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In an August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+The Board notes the Veteran has the right to select a different Board review option by submitting a new VA Form 10182 within one year from the date the agency of original jurisdiction (AOJ) mailed the decision on appeal, or within 60 days of the date the Board received the VA Form 10182, whichever date is later. 38 C.F.R. § 20.202(c)(2); see Williams v. McDonough, 37 Vet. App. 305 (2024). Although the period to change dockets per 38 C.F.R. § 20.202(c)(2) has not yet elapsed, the issue on appeal is being granted in full and therefore, there is no prejudice to the Veteran in proceeding to adjudicate the appeal.
+
+Therefore, the Board may only consider the evidence of record at the time of the July 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+1. Entitlement to service connection for tinnitus is granted.
+
+The Veteran seeks service connection for tinnitus. See May 2024 VA Form 20-0995; see also May 2023 VA Letter (acknowledging Veteran's May 24, 2023 intent to file). He contends that his tinnitus is related to noise exposure during military service, to include security work on the flightline and work on computer system mainframes. See id.; see also May 2024 Veteran's Lay Statement.
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004). 
+
+Service connection may also be granted for any disease initially diagnosed after service when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+Additionally, for veterans who have served 90 days or more of active service during a war period or after December 31, 1946, certain chronic disabilities, including tinnitus, are presumed to have been incurred in service if they manifested to a degree of 10 percent or more within one year from the date of separation from service. 38 U.S.C. §§ 1112, 1113, 1137; 38 C.F.R. §§ 3.307, 3.309. Presumptive service connection may satisfy the requirements of both an in-service event and a nexus to military service. 
+
+For the showing of chronic disease in service, there is required a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time. As tinnitus is considered a chronic disease for VA compensation purposes, if chronicity in service is not established, a showing of continuity of symptoms after discharge may support the claim. 38 C.F.R. §§ 3.303(b), 3.309; Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013); Fountain v. McDonald, 27 Vet. App. 258 (2015) (adding tinnitus as an "organic disease of the nervous system" to the list of disabilities explicitly recognized as "chronic" in 38 C.F.R. § 3.309(a)).
+
+Consistent with VA's duty to maximize benefits, see 38 C.F.R. § 3.103(a), the availability of presumptive service connection for a disability based on exposure does not preclude a veteran from establishing service connection with proof of direct causation. See Stefl v. Nicholson, 21 Vet. App. 120 (2007); see also Combee v. Brown, 34 F.3d 1039 (Fed. Cir. 1994).
+
+Except as otherwise provided by law, a claimant has the responsibility to present and support a claim for benefits. VA shall consider all information and lay and medical evidence of record in a case, and when there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (benefit-of-the-doubt rule not for application when evidence persuasively favors one side or the other).
+
+Regarding the first element of service connection, the agency of original jurisdiction (AOJ) favorably found that the Veteran has a current tinnitus disability. See July 2024 Rating Decision. Under the AMA, the Board is bound by the AOJ's favorable findings in the absence of clear and unmistakable error. 38 C.F.R. § 3.104(c). Thus, the first element of service connection is satisfied.
+
+As to the second element of service connection, in-service incurrence or aggravation of a disease, the AOJ favorably found the Veteran had in-service hazardous noise exposure. See July 2024 Rating Decision; see 38 C.F.R. § 3.104(c). Accordingly, the second element of service connection is met. 
+
+The crux of the case therefore turns on whether there is a causal relationship between the Veteran's current tinnitus disability and his hazardous noise exposure in service. 
+
+In this regard, tinnitus is not shown in the Veteran's service treatment records (STRs), to include at entry into and separation from service. See, e.g., October 1982, January 1986, and December 1991 STRs. However, the STRs indicate that the Veteran was repeatedly issued hearing protection due to his elevated in-service noise exposure, and at one time, the Veteran was referred to environmental health services due to an audiogram that showed moderate hearing loss. See January 1985 STR (noting that the Veteran had no ear, nose, or throat problems, but was assessed with "H2 hearing" based on results from an audiogram); see also November 1983 and May 1985 STRs. The Board finds that this evidence suggests that a manifestation sufficient to identify the entities of tinnitus is shown during service. 
+
+After filing the tinnitus claim, the Veteran was afforded a VA examination. See June 2024 VA Examination Report. The examiner noted the Veteran's reported in-service noise exposure but opined that the current tinnitus was less likely than not caused by or a result of military noise exposure due to a lack of objective audiologic factors for which the etiology of tinnitus could be attributed. See id.
+
+Although the examiner acknowledged the Veteran's in-service noise exposure due to his job duties, including exposure to aircraft machine, flightline, and computer mainframe noise, his rationale does not reflect consideration of the Veteran's competent and credible medical history that the current tinnitus manifested during and continued after active-duty service. See Charles v. Principi, 16 Vet. App. 370, 374 (2002). Further, the VA examiner's opinion does not reflect consideration of the in-service record showing the Veteran was assessed with moderate hearing loss, albeit with hearing within normal limits, during service. The failure to consider the relevant favorable evidence renders the VA examiner's opinions incomplete, and the Board assigns it limited probative value. 
+
+In support of his supplemental claim, the Veteran submitted a lay statement regarding his in-service noise exposure and tinnitus symptoms. See May 2024 Veteran Lay Statement. The Veteran asserts that ringing in his ears began during service and continued after separation, with post-service occupational exposure to noise being limited in his work as a missionary, pastor, and IT professional. See id. 
+
+The Board acknowledges that the Veteran is competent to report symptoms such as ringing or buzzing in his ears as this requires only personal knowledge as it comes to him through his senses. See Layno v. Brown, 6 Vet. App. 465, 467-69 (1994); Barr v. Nicholson, 21 Vet. App. 303, 309 (2007). In addition, the Veteran is competent to identify a disorder such as tinnitus for diagnostic purposes. 38 C.F.R. § 3.159(a)(2); Barr, 21 Vet. App. at 310; Charles v. Principi, 16 Vet. App. 370, 374 (2002). The Board accepts the Veteran's reported medical history as credible, as the record does not include evidence that clearly contradicts his reported history. Consequently, the Board finds that the Veteran has provided probative evidence of tinnitus that began during active-duty service with symptoms that have continued since that time. 
+
+The Board concludes that, in this case, the VA examiner's negative nexus opinion does not carry greater probative weight than the Veteran's competent and credible lay statements. 
+
+Based on the foregoing and resolving all reasonable doubt in the Veteran's favor, service connection for tinnitus is warranted. See 38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 3.114; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+Accordingly, the criteria for entitlement to service connection for tinnitus have been met, and the appeal is granted.
+
+ 
+
+ 
+
+J. NICHOLS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C.Z. Noh
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

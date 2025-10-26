@@ -1,0 +1,79 @@
+Citation Nr: A25034500
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240829-470009
+DATE: April 15, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea as secondary to service-connected posttraumatic stress disorder (PTSD) and Traumatic Brain Injury (TBI) is granted. 
+
+FINDING OF FACT
+
+The evidence demonstrates that the Veteran's OSA was caused by obesity caused by his service-connected PTSD.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for OSA as secondary to obesity from service-connected PTSD have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service in the United States Marine Corps from February 1995 to March 1999 and in the United States Army from April 1999 to April 2002. 
+
+This matter is before the Board of Veterans' Appeals (Board) upon appeal from a September 2023 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO). 
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the April 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review in the September 2023 rating decision on appeal. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection
+
+Service connection may be granted for a disability resulting from injury or disease that was incurred in, or aggravated by, military service. 38 U.S.C. § 1110; 38 C.F.R. §§ 3.303, 3.304. Service connection may be granted for any disease diagnosed after a veteran's discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+Generally, to establish service connection, a claimant must show: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service, the so-called "nexus" requirement. See 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303; see also Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Service connection may also be established on a secondary basis for a disability that is due to, the result of, or aggravated by a service-connected disability. 38 C.F.R. § 3.310. In such an instance, the Veteran may be compensated for the degree of disability over and above the degree of disability existing before the aggravation. 38 C.F.R. § 3.310(b); Allen v. Brown, 7 Vet. App. 439 (1995).
+
+To establish entitlement to service connection on a secondary basis, there must be (1) evidence of a current disability, (2) evidence of a service-connected disability, and (3) medical evidence establishing a nexus between the service-connected disability and the current disability. Wallin v. West, 11 Vet. App. 509 (1998).
+
+While obesity cannot be service-connected on a direct basis, and obesity cannot qualify as an in-service injury or disease for service connection purposes, obesity may serve as an "intermediate step" between a service-connected disability and a current disability that may be service connected on a secondary basis under 38 C.F.R. § 3.310(a).
+
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+Service connection for obstructive sleep apnea to include as secondary to service-connected PTSD and TBI
+
+The Veteran contends that his obstructive sleep apnea is associated with his service-connected PTSD and TBI.
+
+VA treatment records include a December 2021 note the Veteran noted that he was sleeping poorly and seeking a new CPAP machine due to having lost his prior one in a move two years before. He acknowledged a prior sleep study. A June 2022 sleep apnea medical assessment noted a sleep study diagnosis of OSA in approximately 2018. At that time, the Veteran provided a history of 195 pounds of weight gain due to his service-connected PTSD.
+
+The Veteran underwent a VA Sleep Apnea disability examination in July 2022. The diagnosis of sleep apnea rendered after a November 2022 asleep study was confirmed. The examiner concluded that the Veteran's obstructive sleep apnea less likely than not had onset in or was due to or caused by the claimed in-service injury, event or illness. As rationale, the examiner noted that a review of the recent medical literature indicates that a history of PTSD is not a risk factor for developing obstructive sleep apnea. In addition, the examiner quoted Up-to-Date indicating that patients with TBI commonly have sleep-wake disorders with persistent daytime sleepiness, insomnia and sleep fragmentation. Instead, anatomic risk factors for obstructive sleep apnea include obesity, an oropharynx "crowded" by a short or retracted mandible, a prominent tongue base or tonsils, a rounded head shape and a short neck, a neck circumference greater than 43 cms, thick lateral pharyngeal walls, or lateral parapharyngeal fat pads. Other identified risk factors include postmenopausal status for women, aging, and alcohol or sedative use. A family history of sleep apnea is present in 25 to 40 percent of cases, perhaps reflective of intrinsic ventilatory drive or craniofacial structure.  Altered sleep as seen in OSA is overwhelmingly due to obesity.  The examiner cited to the online Merck Manul on obstructive sleep apnea, Eckert DJ, Malhorta A., Pathophysiology of Adult Obstructive Sleep Apnea, Proc Am Thorac Soc. 2008 Feb 15; 5(2): 144-153. and AMA Guides to the Evaluation of Disease and Injury Causation, 2nd ed. (edited by Melhorn, J. Mark, et al.) 2014, American Medical Association. 
+
+In December 2022 the Veteran submitted a private medical opinion regarding the etiology of obstructive sleep apnea by a physician certified by both the American Board of Sleep Medicine and the American Board of Psychiatry and Neurology, a fellow of the American Academy of Sleep Medicine and the American academy of Neurology, and who had been practicing sleep medicine since 2004. The private physician provided an opinion that the Veteran's obstructive sleep apnea is secondary or related to, and/or aggravated by the Veteran's service-connected posttraumatic stress disorder with subsequent sleep disturbance and weight gain/obesity. 
+
+As rationale, the examiner attached complete citations and case summaries of 16 medical treatises to support his opinion noting that there is an undeniable connection between OSA and PTSD throughout medical literature and studies.  The examiner specifically noted a study by Colvonen et al. found that 69.2 percent of Iraq and Afghanistan veterans with PTSD were at high risk of being diagnosed with OSA. PTSD is related to weight gain and obesity as it is well documented that PTSD predisposes an individual to weight gain. Vieweg, et al. found that overweight and obesity among male veterans with PTSD strikingly exceeded national findings. (2006). An observational study sampling 105 Vietnam-era veterans with PTSD using overnight polysomnography reported that 69 percent of Veterans with PTSD had an apnea hypopnea index greater than 10, indicative of at least mild OSA.
+
+The examiner pointed out, after a thorough review of the Veteran's medical records, that a history of weight gain was documented after the mental health in-service stressor events leading to his mental health condition. The Veteran's BMI at the time of separation was 35.5 and his current BMI is 61, in the obesity range. He noted a total weight gain of 195 pounds from active duty to the present time. The medical literature indicates that the pathophysiology of OSA is intimately linked to obesity due to alterations in normal upper airway mechanics during sleep. PTSD, per the medical literature, promotes sleep disturbance and weight gain which led to the Veteran's current obesity condition, and which in turn caused his OSA. 
+
+VA's Office of General Counsel has determined that obesity is not a disease or injury under VA's laws and regulations and may not be service connected on a direct or secondary basis. VAOPGCPREC 1-2017. However, obesity may act as an intermediate step between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R. § 3.310(a). See Marcelino v. Shulkin, 29 Vet. App. 155 (2018); Walsh v. Wilkie, 32 Vet. App. 300 (2020).
+
+A theory of obesity as an intermediary step is raised when there is some evidence in the record that draws an association or suggests a relationship between the veteran's obesity (or weight gain resulting in obesity) and a service-connected condition. Garner v. Tran, 33 Vet. App. 241, 248 (2021). The General Counsel's opinion advises that to decide entitlement to secondary service connection in such a case, the Board is required to resolve whether the evidence reflects that (1) a service-connected disability or disabilities caused the Veteran to become obese or aggravated the Veteran's obesity, (2) the obesity or aggravation of obesity resulting from service-connected disability or disabilities was a substantial factor in causing another disability, and (3) the disability would not have occurred but for the obesity caused by the Veteran's service-connected disability or disabilities or the obesity aggravated by the service-connected disability or disabilities. VAOPGCPREC 1-2017 at 9-10; Walsh at 32 Vet. App. at 306-7, Garner at 33 Vet. App. 248.  
+
+The probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion that the physician reaches. Guerrieri v. Brown, 4 Vet. App. 467, 470-71 (1993). Other factors for assessing the probative value of a medical opinion are the physician's access to the claims folder and the thoroughness and detail of the opinion. See Prejean v. West, 13 Vet. App. 444, 448-9 (2000); Nieves-Rodriguez, 22 Vet. App. 295 (2008). In evaluating the evidence, the Board has been charged with the duty to assess the credibility and weight given to evidence. Davidson v. Shinseki, 581 F. 3d 1313 (Fed. Cir. 2009). Further, the Court has declared that in adjudicating a claim, the Board has the responsibility to do so. Bryan v. West, 13 Vet. App. 482, 488-89 (2000). In doing so, the Board is free to favor one medical opinion over another, provided it offers an adequate basis for doing so. Owens v. Brown, 7 Vet. App. 429, 433 (1995).
+
+In this instance, both the VA and private physician examiner's opinions were based upon review of the record. The VA examiner did state that the most common causes of OSA are obesity, male sex, and advancing age, but did not opine on the relationship between the Veteran's obesity, his service-connected disabilities including PTSD, and his OSA. As a result, the Board affords the July 2022 medical opinion minimal probative value. The Board also finds that the private physician examiner's opinion demonstrated advanced knowledge and skill in analyzing the data, thoroughness in considering the intermediate step of the relationship of PTSD to obesity, and a detailed discussion of the medical literature supporting the intermediate step rationale of PTSD causing or aggravating the Veteran's weight gain and obesity. Accordingly, the Board assigns greater probative value to the opinion of the private examiner.  See Owens 7 Vet. App. at 433.
+
+Therefore, the Board finds that the weight of the probative evidence of record indicates that the Veteran's OSA is caused by his service-connected PTSD with the intermediate step of obesity. As there are no doubts to be resolved, service connection for OSA is granted. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).  
+
+ 
+
+ 
+
+DUSTIN L. WARE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Adams Hill, Denise
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

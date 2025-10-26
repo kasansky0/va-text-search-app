@@ -1,0 +1,81 @@
+Citation Nr: A25031679
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240409-431649
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to an initial rating in excess of 10 percent for cluster headaches prior to August 18, 2024, is denied.
+
+FINDING OF FACT
+
+Prior to August 18, 2024, the Veteran's cluster headaches did not manifest with prostrating attacks occurring on an average once a month over the last several months.
+
+CONCLUSION OF LAW
+
+The criteria for an initial rating in excess of 10 percent for cluster headaches prior to August 18, 2024, have not been met.  38 U.S.C. § 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.124a, Diagnostic Code 8100.
+
+?
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from October 1996 to January 2001 in the United States Army.  
+
+The instant issue comes before the Board of Veterans' Appeals (Board) from a February 2024 rating decision from a Department of Veterans Affairs (VA) Regional Office (RO/AOJ).  The Veteran appealed that decision by filing a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement (NOD)) in April 2024.  He elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the February 2024 AOJ characterized decisions on appeal.  38?C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+On August 19, 2024, the Veteran submitted a VA Form 21-526 Fully Developed Claim for an increased rating for his cluster headaches.  The RO/AOJ accepted his request and erroneously issued a spurious (out-of-turn) rating decision in December 2024 granting entitlement to a 30 percent rating for his cluster headache disability, effective from August 19, 2024.  This rating increase occurred outside of the eligible evidentiary review window.  The Board does not have any appellate purview over that decision.  38 U.S.C. § 7105.
+
+Instead, the Board is limited to considering increased ratings during the period from March 21, 2023, (date of receipt of claim) and to February 13, 2024, (the date that the evidentiary window closed as of the rating decision on appeal).  The issue on appeal is framed without consideration of the additional grants contained in the spurious rating decisions after February 13, 2024.  Yet, the Board's instant decision will not disturb the favorable grants of benefits therein.
+
+?
+
+1. Entitlement to an initial rating in excess of 10 percent for cluster headaches. 
+
+The Veteran was in receipt of a 10 percent rating for the period on appeal prior to August 18, 2024.  As discussed above, beginning August 18, 2024, he has been in receipt of a 30 percent rating for his cluster headaches.  The Veteran generally argues that his cluster headache symptoms "knock me out of commission to the point that I am totally incapacitated and unable to do any normal daily activities for 1 hour."  See March 2023 Statement in Support of claim.
+
+Disability ratings are determined in accordance with VA's Schedule for Rating Disabilities and are intended to represent the average impairment of earning capacity resulting from disability.  38 U.S.C. § 1155; 38 C.F.R. §§ 3.321(a), 4.1. Reasonable doubt regarding the degree of disability will be resolved in favor of the veteran.  38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3.
+
+The Board will consider whether staged ratings should be assigned to compensate for times when the disability may have been more severe than at other times during the pendency of the claim.  Hart v. Mansfield, 21 Vet. App. 505, 509 (2007); Fenderson v. West, 12 Vet. App. 119, 126 (1999).
+
+The Veteran's cluster headaches are rated pursuant to 38 C.F.R. § 4.124a, Diagnostic Code 8100 for migraine.  Under Diagnostic Code 8100, a noncompensable rating is warranted for migraines with less frequent attacks.  A 10 percent rating is warranted for migraines with characteristic prostrating attacks averaging one in two months over the last several months.  A 30 percent rating is warranted for migraines with characteristic prostrating attacks occurring on average once a month over the last several months.  A 50 percent rating is warranted for migraines with very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability.  A 50 percent rating is the highest schedular rating under Diagnostic Code 8100.
+
+?
+
+The rating criteria of Diagnostic Code 8100 are considered successive, meaning that a claimant cannot fulfill the criteria of the higher rating without fulfilling those of the next lower rating.  Johnson v. Wilkie, 30 Vet. App. 245, 252 (2018).  This renders 38 C.F.R. §§ 4.7 and 4.21 inapplicable.  Johnson, 30 Vet. App. at 252.
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under Diagnostic Code 8100 to describe the nature and severity of migraines, but it is not defined in the regulation.  Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32nd ed. 2012), "prostration" is defined as "extreme exhaustion or powerlessness."  Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+The Board also acknowledges that the VA Adjudicative Procedures Manual M21-1 (hereinafter M21-1) contains provisions regarding rating migraines.  The United States Court of Appeals for the Federal Circuit has held that the Board is not bound by the provisions of the M21-1 and the manual does not "carry the force of law."  DAV v. Sec'y of Veterans Affairs, 859 F.3d 1072, 1077 (Fed. Cir. 2017).  It is "an internal manual used to convey guidance to VA adjudicators. It is not intended to establish substantive rules beyond those contained in statute and regulation."  DAV, 859 F.3d at 1077.  The M21-1 provisions do not go through the regular rulemaking procedures and are little more than evidence as to how the Veterans Benefits Administration (VBA) applies law and regulation in practice.  It is not binding on the Board because it is not a regulation, instruction of the Secretary, or Office of General Counsel (OGC) opinion. 38 U.S.C. § 7104(c); see also DAV, 859 F.3d at 1077.  The regulations further clarify that the Board "is not bound by Department manuals, circulars, or similar administrative issues."  38 C.F.R. § 20.105.
+
+Nevertheless, the Court in Overton v. Wilkie held that the Board is required to discuss "any relevant provisions contained in the [M21-1] as part of its duty to provide adequate reasons or bases, but because it is not bound by those provisions, it must make its own determination before it chooses to rely on an [M21-1] provision as a factor to support its decision."  30 Vet. App. 257, 264 (2018).  More recently, in Wilson v. McDonough, the Court elaborated that, in the context of relevant guidance documents, the Board can "neither merely invoke nor ignore a relevant guidance provision to support its decision but must provide an independent rationale relating its decision to the relevant guidance document."  35 Vet. App. 75, 80 (2021).
+
+Pursuant to Wilson, the Board finds that VA's M21-1 does contain guidance relevant to the adjudication of the issue currently on appeal.  Specifically, Part III, Subpart iv, Chapter 4, Section G(7)(b) of the M21-1 defines "prostrating" under Diagnostic Code 8100 as "causing extreme exhaustion, powerlessness, debilitation or incapacitation with substantial inability to engage in ordinary activities."
+
+The descriptive phrase "very frequent" connotes a frequency at least greater than once a month, as is required by the rating criteria corresponding to a lesser 30 percent rating.  See Johnson, 30 Vet. App. at 253.  The phrase "completely prostrating" generally means that the migraine attack must render the veteran entirely powerless.  See Johnson, 30 Vet. App. at 253.  The completely prostrating attacks must also be "prolonged," which is defined as "to lengthen in time: extend duration: draw out: continue, protract."  See Johnson, 30 Vet. App. at 253 (internal citation omitted).  Lastly, the 50 percent rating criteria require that the very frequent completely prostrating and prolonged attacks be "productive of severe economic inadaptability."  Productive can be read as having either the meaning of "producing" or "capable of producing," and, regarding severe economic inadaptability, nothing in Diagnostic Code 8100 requires that the claimant be completely unable to work to qualify for a 50 percent rating.  Pierce v. Principi, 18 Vet. App. 56, 63 (2012).
+
+These rating criteria do not explicitly contemplate the ameliorative effects of medication, and, therefore, the assigned rating should contemplate the nature and frequency of characteristic prostrating attacks that would occur without medication.  See 38 C.F.R. § 4.124a, Diagnostic Code 8100; Jones v. Shinseki, 26 Vet. App. 56, 63 (2012).
+
+VA obtained an Acceptable Clinical Evidence (ACE) records review examination in August 2023, which included an interview with the Veteran.  The Veteran reported that his headaches had remained the same since their onset in 2020.  The examiner diagnosed the Veteran with cluster headaches with symptoms consisting of pulsating or throbbing head pain with occipital eye pain lasting less than one day.  The examiner also determined the Veteran's cluster headaches do not result in characteristic nor completely prostrating attacks occurring once every two months or once every month, nor did he have very prostrating and prolonged attacks of migraine headache pain productive of severe economic inadaptability.  Lastly, the examiner determined the Veteran's cluster headaches do not cause any functional impact in his ability to work. 
+
+Based on the foregoing, the Board concludes that a rating in excess of 10 percent for migraine headaches is not warranted for the period on appeal.  The August 2023 VA examination and the available VA treatment records do not show that the Veteran experienced migraines with characteristic prostrating attacks occurring on average once a month over the last several months.  38 C.F.R. § 4.7. 
+
+The Board acknowledges that the Veteran's reports that his cluster headaches cause him to become "totally incapacitated and unable to do any normal daily activities for 1 hour."  However, disability ratings are assigned based on application of the rating schedule which does not support a higher rating in this case.  Neither the Veteran nor his representative have made any assertion the Veteran's cluster headaches manifest with an average once a month over the last several months prior to August 18, 2024.  Additionally, the Board takes note that the Veteran was interviewed in conjunction with the August 2023 VA examination, and it would seem logical that had the Veteran been experiencing such frequent episodes he would have reported such.  
+
+The Board has considered the Veteran's impairment level of his cluster headaches without the ameliorative effect of medication because these effects cannot be considered by the Board unless specifically contemplated by the rating criteria.  Jones v. Shinseki, 26 Vet. App. 56, 63 (2012).  To the extent that the medication the Veteran takes for his headaches ameliorates his symptoms, and such effects are discernable, the Board has not considered these ameliorative effects in determining the appropriate rating.  However, even assuming that the Veteran is not treated for his headaches, the evidence does not reflect that the Veteran experiences headaches manifest with on average once a month over the last several months prior to August 18, 2024.  
+
+?
+
+In sum, for the reasons and bases discussed, the evidence for the claim for a rating in excess of 10 percent for cluster headaches prior to August 18, 2024, versus the evidence against the claim is not in "approximate" balance (i.e., nearly equal).  Instead, the most probative and, therefore, most persuasive evidence is against this claim.  See Lynch, 21 F.4th at 781-82; see also Ortiz, 274 F.3d at 1364.  The claim for entitlement to an initial rating in excess of 10 percent for cluster headaches prior to August 18, 2024, is denied.
+
+ 
+
+MICHAEL A. HERMAN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Scheirich, David B.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

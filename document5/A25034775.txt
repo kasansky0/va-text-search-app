@@ -1,0 +1,59 @@
+Citation Nr: A25034775
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 210127-136555
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for fatigue as a sign or symptom of undiagnosed illness is granted.
+
+FINDING OF FACT
+
+The Veteran, a Persian Gulf Veteran, experienced fatigue in and since service that lasted for more than 6 months and has not been attributed to a known clinical diagnosis.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for fatigue as a sign or symptom of undiagnosed illness have been met.  38 U.S.C. §§ 1110, 1117, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.317.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active duty service in the United States Army from October 1990 to October 1994.
+
+This matter comes before the Board of Veterans' Appeals (Board) from an appeal of a September 2020 rating decision of the Department of Veterans Affairs (VA).  In the rating decision, the Agency of Original Jurisdiction (AOJ) denied the Veteran's claim for entitlement to service connection for chronic fatigue syndrome (as the claim was then characterized).
+
+In his January 2021 Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), the Veteran elected the Hearing docket.  Under the AMA hearing docket, the Board may only consider the evidence of record at the time of the respective AOJ decision on appeal, as well as any evidence submitted by the Veteran or representative at the hearing or within 90 days following the hearing.  38 U.S.C. § 7113(b); 38 C.F.R. § 20.302(a).  
+
+On December 12, 2024, VA received correspondence in which the Veteran's representative withdrew the request for a hearing in this matter.  Thus, the 90-day window runs from the date of receipt of the withdrawal.  38 C.F.R. § 20.302(b).  The representative also requested an extension beyond this 90-day window.  There is no provision in the Appeals Modernization Act allowing for extension of the 90 day window, although the evidence windows are claim-processing rules that may be waived.  Bolds v. McDonough, 37 Vet. App. 359, 365-66 (2024).  However, as discussed below, the Board need not address the representative's request as it grants the benefit sought by the Veteran-service connection-in full based upon evidence in the permissible period under consideration.  There is no indication that there is another basis for the grant of service connection that would result in an earlier effective date for compensation of the symptom of fatigue.  Cf. Johnson v. Collins, __ Vet. App. __, No. 23-7589, 2025 U.S. App. Vet. Claims LEXIS 383 (Mar. 26, 2025) (indicating that effective date consequences can be considered by the Board in cases in which the issue before it is entitlement to service connection); Stender v. Wilkie, No. 19-0068, 2020 U.S. App. Vet. Claims LEXIS 520, *5-*7 (Mar. 27, 2020) (mem dec) (Falvey, J.) (the Board erred in granting service connection based on the Camp Lejeune Contaminated Water (CLCW) presumption without considering other theories of entitlement that could warrant an earlier effective date because of the effective date of the CLCW presumption).  See also Bethea v. Derwinski, 2 Vet. App. 252, 254 (1992) (single judge decisions may be relied upon for any persuasiveness or reasoning they contain).  
+
+If the Veteran wishes to have VA consider any evidence that was not considered, he may at any time, file a supplemental claim with the AOJ after receiving this decision and the additional evidence will be considered in connection with the supplemental claim.  38 U.S.C. §§ 5104C(a)(1)(B), (b); 5108; 38 C.F.R. §§ 3.2501, 20.1105(a).  If filed within one year, this supplemental claim will preserve the date of the claim denied herein as the effective date of the grant of the benefit or benefits sought.  38 U.S.C. § 5104C(a)(2)(B); 38 C.F.R. § 3.2500(h)(1).
+
+Given the fully favorable disposition in this case, the Board need not address the outstanding request for "a complete copy of the C-file", which VA had received on July 9, 2020.
+
+The Board has recharacterized the Veteran's service connection claim based on the benefit sought by the Veteran and the evidence developed during the processing of this service connection claim.  See Clemons v. Shinseki, 23 Vet. App. 1, 4-5 (2009) (a claim should not be limited to the disorder as characterized by the Veteran but must be characterized and addressed based on the reasonable expectations of the non-expert claimant and the evidence in processing the claim).
+
+Service Connection
+
+Service connection will be granted if the evidence demonstrates that current disability resulted from an injury suffered or disease contracted in active military, naval, air, or space service.  38 U.S.C. § 1131; 38 C.F.R. § 3.303(a).
+
+Under certain circumstances, service connection may be presumed when the veteran meets the requirements of presumptions established by statute and regulation, in particular 38 U.S.C. § 1117 and 38 C.F.R. § 3.317.  Gutierrez v. Principi, 19 Vet. App. 1, 8 (2004). For Persian Gulf war veterans who exhibit objective manifestations of a qualifying chronic disability, 38 U.S.C. § 1117 provides for presumptive service connection when the disability manifests "to any degree at any time" and which, "[b]y history, physical examination, and laboratory tests cannot be attributed to any known clinical diagnoses."  38 C.F.R. § 3.317(a)(1)(i), (ii). A "qualifying chronic disability" includes one that results from an "undiagnosed illness." 38 U.S.C. § 1117(a)(2)(A); 38 C.F.R. § 3.317(a)(2)(i)(A).  Disabilities that have existed for 6 months or more will be considered chronic.  38 C.F.R. § 3.317(a)(4).  Fatigue is a signs or symptoms that may be a manifestation of an undiagnosed illness.  38 U.S.C. § 1117(g)(1); 38 C.F.R. § 3.317(b)(1).
+
+For the following reasons, entitlement to service connection for fatigue as a sign or symptom of undiagnosed illness is warranted.
+
+The Veteran served in the Southwest Theater of operations during the Persian Gulf War, as reflected by his receipt of the Kuwait Liberation Medal, and is therefore a Persian Gulf veteran.  Although the Veteran sought service connection for chronic fatigue syndrome (CFS), which is a medically unexplained chronic multisymptom illness, the Board has recharacterized the claim given the lack of a CFS diagnosis, but the existence of fatigue.  The Veteran's competent and credible statements to clinicians reflect that he experienced fatigue in and since service and he has thus met the requirement of disability that existed for 6 months or more and manifested at any time.
+
+The Veteran reported for a VA chronic fatigue syndrome examination in June 2020.  The Veteran told the clinician that he has been experiencing ongoing fatigue 3 times every week; that he only gets 4 hours of sleep every night; and he keeps his energy level up by consuming energy beverages and bars.  This discernable fatigue, according to the Veteran, began in service and has continued ever since. Stated differently, the Veteran endorsed that these ongoing discernable fatigue symptoms functionally impact his ability to conduct daily activities and occupational pursuits.  The clinician rendered a negative etiological opinion because the Veteran did not meet the VA criteria for assignment of a current diagnosis of chronic fatigue syndrome.  See 38 C.F.R. § 4.88a (defining chronic fatigue syndrome as requiring onset of severe fatigue defined as reducing daily activity 50 percent for 6 months, excluding all other clinical conditions that may produce similar symptoms, and 6 or more of a list of symptoms - (i) acute onset; (ii) low grade fever; (iii) nonexudative pharyngitis; (iv) palpable or tender cervical or axillary lymph nodes; (v) generalized muscle aches or weakness; (vi) fatigue lasting 24 hours or longer after exercise, (vii) headaches (of a type, severity, or pattern that is different from headaches in the pre-morbid state); (viii) migratory joint pains; (ix) neuropsychologic symptoms, (x) sleep disturbance).  As noted above, this lack of a diagnosis of CFS however is not dispositive of the Veteran's claim, as the competent and credible evidence reflects the Veteran has experienced and experiences fatigue, which is a sign or symptom of undiagnosed illness, and which has not been attributed to a known clinical diagnosis.
+
+As the Veteran is a Persian Gulf veteran whose fatigue manifested in and since service for more than 6 months and has not been attributed to a known clinical diagnosis, he has met the criteria for service connection pursuant to 38 U.S.C. § 1117 and 38 C.F.R. § 3.317.  Entitlement to service connection on this basis is therefore warranted. 
+
+ 
+
+Jonathan Hager
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B. J. Komins, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability.  38 C.F.R. § 20.1303.

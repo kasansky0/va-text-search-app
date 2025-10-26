@@ -1,0 +1,127 @@
+Citation Nr: A25034863
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240905-470765
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for the Veteran's service-connected right ear hearing loss is denied.
+
+REMANDED
+
+Entitlement to service connection for left ear hearing loss is remanded.
+
+FINDING OF FACT
+
+During the period on review, the Veteran had Level I hearing in the right ear.
+
+CONCLUSION OF LAW
+
+The criteria for an initial compensable rating for right ear hearing loss have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.2, 4.7, 4.10, 4.21, 4.85, 4.86, Diagnostic Code (DC) 6100.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Navy from April 1995 to November 2009. 
+
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (hereinafter Agency of Original Jurisdiction (AOJ)) in the modernized review system, also known as the Appeals Modernization Act (AMA).
+
+In April 2024, the Veteran requested Higher-Level Review (HLR) of the March 2024 rating decision. In a July 2024 HLR decision, the AOJ continued the noncompensable rating for the Veteran's service-connected right ear hearing loss and returned the issue of entitlement to service connection for left ear hearing loss for further development. After the further development was completed, in an August 2024 rating decision, the AOJ continued the denial of entitlement to service connection for left ear hearing loss. 
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket and cited the March 2024 rating decision as the decision on appeal. Therefore, the Board may only consider the evidence of record at the time of the March 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. However, because the Board is remanding the claim of entitlement to service connection for left ear hearing loss, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+Increased Ratings, Generally
+
+Disability evaluations (ratings) are determined by the application of the VA's Schedule for Rating Disabilities (Rating Schedule), 38 C.F.R. § Part 4. The percentage ratings contained in the Rating Schedule represent, as far as can be practicably determined, the average impairment in earning capacity resulting from diseases and injuries incurred or aggravated during military service and their residual disorders in civil occupations. See 38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+Where entitlement to compensation already has been established and an increase in the disability rating is at issue, it is the present level of disability that is of primary concern. See Francisco v. Brown, 7 Vet. App. 55, 58 (1994). Separate ratings may be assigned for separate periods of time based on the facts found; this practice is known as staged ratings. See Fenderson v. West, 12 Vet. App. 118, 126 (1999); see also Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7.
+
+When there is an "approximate" (meaning nearly equal) balance of positive and negative evidence regarding any material determination, the Secretary shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; see also Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021); Ortiz v. Principi, 274 F.3d 1361 (Fed. Cir. 2001).
+
+Entitlement to an initial compensable rating for the Veteran's service-connected right ear hearing loss
+
+The Veteran seeks an initial compensable rating for his service-connected right ear hearing loss. While sympathetic to the Veteran's position that his service-connected right ear hearing loss disability should rate some amount of VA compensation, the Board is bound by the applicable law and regulations regarding rating a hearing loss disability, which limit the Board to applying the VA rating schedule to the numeric designations assigned based on the Veteran's audiometric test results. Unfortunately, under the VA rating schedule, the Veteran's current level of right ear hearing loss does not warrant a compensable rating.
+
+The Veteran's service-connected right ear hearing loss disability has been assigned an initial noncompensable (0 percent) rating from February 21, 2024, under DC 6100.
+
+Evaluations of defective hearing range from noncompensable (0 percent) to 100 percent based on organic impairment of hearing acuity, as measured by the results of a controlled Maryland CNC speech discrimination test considered together with the average hearing threshold level measured by pure tone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz). 38 C.F.R. § 4.85, Diagnostic Code 6100.
+
+To evaluate the degree of disability from service-connected hearing loss, the schedule establishes eleven auditory hearing acuity levels designated from Level I for essentially normal hearing acuity through Level XI for profound deafness. 38 C.F.R. § 4.85, Tables VI and VII.
+
+An exceptional pattern of hearing impairment occurs when the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more. 38 C.F.R. § 4.86 (a). In that situation, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral. Further, when the average pure tone threshold is 30 decibels or less at 1000 Hertz and 70 decibels or more at 2000 Hertz, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and that numeral will then be elevated to the next higher numeral. 38 C.F.R. § 4.86 (b). 
+
+In March 2024, the Veteran attended a VA examination for an audiology evaluation. The audiologist noted the Veteran's reports that he had trouble understanding his clients at work but that it was somewhat easier to understand them over the phone due to amplification. 
+
+The March 2024 examination showed that the Veteran's Maryland CNC Word List speech recognition score and pure tone thresholds, in decibels, were as follows:
+
+March 2024	HERTZ
+
+ 	1000	2000	3000	4000	Avg	CNC
+
+RIGHT	45	40	30	35	37.50	96%
+
+LEFT	25	35	35	45	35.00	100%
+
+The Board then applies these results to Table VI in 38 C.F.R. § 4.85:
+
+ 
+
+The findings yield a numeric designation of Level I in the right ear. According to 38 C.F.R. § 4.85 (f), if, as in this Veteran's case, impaired hearing is service-connected in only one ear, in order to determine the percentage evaluation from Table VII, the non-service-connected ear will be assigned a Roman Numeral designation for hearing impairment of I.
+
+The Board then applies these numeric designations to Table VII in 38 C.F.R. § 4.85:
+
+ 
+
+Applying the Veteran's numeric designation of Level I for the service-connected right ear and Level I for the non-service-connected left ear to 38 C.F.R. § 4.85, Table VII, equates to a noncompensable (0 percent) disability rating under Diagnostic Code 6100. Additionally, an exceptional pattern of hearing impairment under 38 C.F.R. § 4.86 was not shown.
+
+Based on the above evidence, the Board is unfortunately unable to assign a compensable rating for the Veteran's service-connected right ear hearing loss during the review period. 
+
+The Board has considered the lay evidence of record when adjudicating this claim, including the Veteran's argument citing a statement in a February 2024 VA otolaryngology consultation that a decrease in the Veteran's hearing was noted since his last audiogram in August 2010, the Veteran's January 2024 statements that his right ear hearing feels muffled and that he has difficulty understanding conversation with noise present in the background, and the Veteran's statement made during the March 2024 VA examination that he consistently has trouble understanding his clients at work. The rating criteria, however, contemplate these functional impacts that the Veteran described. Doucette v. Shulkin, 28 Vet. App. 366 (2017). The rating criteria contemplate speech reception thresholds and the ability to hear spoken words on Maryland CNC testing. The Veteran's main complaint is reduced hearing acuity and clarity, which is what is contemplated in the rating assigned. See Rossy v. Shulkin, 29 Vet. App. 142, 145 (2017). Although the Veteran is competent to report difficulty hearing, disability ratings for hearing loss are derived from a mechanical application of the rating schedule to the numeric designations resulting from audiometric testing. See Lendenmann v. Principi, 3 Vet. App. 345, 349 (1992).
+
+Accordingly, the evidence of record during the review period persuasively weighs against the claim of entitlement to an initial compensable rating for the Veteran's service-connected right ear hearing loss, and the claim must be denied. 
+
+REASONS FOR REMAND
+
+Entitlement to service connection for left ear hearing loss 
+
+The Veteran contends that he is entitled to service connection for his left ear hearing loss because he was exposed to hazardous noise during service and/or because he had surgery to repair his left ear drum during service and has service-connected residual scar tissue from that surgery that may be related to his current left ear hearing loss. See Veteran's September 2024 Notice of Disagreement; Veteran's statements in the March 2024 VA examination.
+
+Upon review, the Board finds that before this issue can be adjudicated a remand is necessary to correct a pre-decisional duty to assist error. Prior to the March 2024 rating decision on appeal, the AOJ did not obtain an adequate medical opinion that addressed delayed onset hearing loss as well as a secondary service connection theory of entitlement for the Veteran's left ear hearing loss. 
+
+The Veteran's service treatment records show that he underwent a tympanoplasty and mastoidectomy on his left ear in June 2002, and the Veteran is service-connected for a residual scar, status post left ear drum repair, from August 2018. Prior to the March 2024 rating decision on appeal, the Veteran's February 2024 VA treatment records show that he was referred for an otolaryngology consultation. During the consultation, his left ear was noted to have restricted hearing with a conductive component at 4000 Hertz with a 25-decibel air-bone gap. The February 2024 VA treatment provider stated that the Veteran's left tympanic membrane's hypervascularity would be monitored given post-surgical changes and the 25-decibel air-bone gap at only one frequency, which was noted to possibly be due to the Veteran's thick tympanic membrane graft. 
+
+In the rationale provided for a negative nexus opinion, the March 2024 VA examiner diagnosed sensorineural hearing loss in the Veteran's left ear but did not address the February 2024 otolaryngology consultation or the Veteran's in-service left ear drum repair with residual scarring. The examiner stated that the Veteran's left ear hearing loss was less likely than not caused by or a result of the Veteran's hazardous noise exposure during service. According to the examiner, there was no evidence of a positive threshold shift greater than normal variability for the left ear from enlistment to separation. The Board notes, however, that the Veteran's November 2009 separation exam assessment notes left ear tympanic membrane repair but does not contain any audiometric data. The March 2024 examiner further stated that the Veteran's left ear hearing thresholds remained stable and within normal limits according to a 2010 examination that was conducted a year after the Veteran's separation from service, which, according to the examiner, confirmed the Veteran did not have permanent hearing loss. The Board finds this opinion to be inadequate for appellate adjudication. First, it failed to address the issue of delayed onset hearing loss. The United States Court of Appeals for Veterans Claims has held that hearing loss need not be shown at the time of service separation in order to show a connection to service. See Hensley v. Brown, 5 Vet. App. 155, 159 (1993). A remand is required for an opinion that considers whether the Veteran's current left ear hearing loss is related to his in-service noise exposure working on and beneath the flight deck, regardless of whether the Veteran's hearing qualified as a disability at the time of separation. See Id.; 38 C.F.R. § 3.303 (d). Second, the March 2024 VA opinion did not address whether the Veteran's service-connected left tympanic membrane repair scar is related to his current left ear hearing loss.   
+
+A remand is required for VA to obtain an adequate medical opinion.            
+
+The matters are REMANDED for the following action:
+
+1. Obtain a medical opinion from an appropriate clinician regarding the etiology of the Veteran's current left ear hearing loss. Whether an examination is required is left to the clinician's discretion.  
+
+The clinician should review the claims file and provide an opinion with detailed rationale that responds to the following:
+
+(a) Is it at least as likely as not (likelihood at least approximately balanced or nearly equal, if not higher) that the Veteran's current left ear hearing loss was incurred in or is otherwise etiologically related to the Veteran's service?
+
+In providing the above opinion, the clinician should consider and address the Veteran's reports of daily in-service exposure to hazardous noise while working on and below the flight line including during combat, which (along with evidence of a permanent positive threshold shift) helped support a grant of service-connection for the Veteran's right ear hearing loss. The issue of delayed onset hearing loss should be addressed in the opinion. The clinician should also consider and address the Veteran's in-service June 2002 left ear tympanoplasty and mastoidectomy.       
+
+(b). Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's current left ear hearing loss was caused by his service-connected residual scar, status post left ear drum repair? 
+
+(c). Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's current left ear hearing loss has been aggravated (i.e., worsened) by his service-connected residual scar, status post left ear drum repair (to include whether his left ear hearing loss would have been less severe but for the service-connected disability).
+
+In providing opinions for (b) and (c) above, the clinician should consider and address the Veteran's relevant VA treatment records, including the Veteran's February 2024 VA otolaryngology consultation that stated VA would monitor the Veteran's left tympanic membrane hypervascularity given post-surgical changes and a 25-decibel air-bone gap at only one frequency that could be due to the Veteran's thick tympanic membrane graft.    
+
+ 
+
+K. Parakkal
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Eisenstatt, R.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

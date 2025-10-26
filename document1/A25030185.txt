@@ -1,0 +1,53 @@
+Citation Nr: A25030185
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240809-462905
+DATE: April 2, 2025
+
+REMANDED
+
+Entitlement to service connection for the Veteran's obstructive sleep apnea is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active duty service in the United States Army from October 1980 to September 1982. 
+
+The rating decision on appeal was issued in August 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the August 2023 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.  The Board notes that the Veteran submitted evidence after the August 2023 AOJ decision on appeal.  However, because the Board is remanding the Veteran's sleep apnea service connection claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+The Veteran's service connection claim is remanded to correct a duty to assist error that occurred prior to the rating decision on appeal.  The Veteran submitted a private opinion in May 2023 and received a VA examination in May 2023 with opinions provided in July 2023 and August 2023.  The May 2023 private opinion considered whether the Veteran's obesity served as an intermediate step between his service connected insomnia and his sleep apnea.  For obesity to be such an "intermediate step," (1) a service-connected disability must have caused the Veteran to become obese or aggravated obesity, (2) obesity must have been a substantial factor in causing the disability in question and (3) the disability in question must have been one that would not have occurred but for obesity caused or aggravated by the service-connected disability. VAOPGCPREC 1-2017 (Jan. 22, 2017); Walsh v. Wilkie, 32 Vet. App. 300 (2020).  While the private opinion found that the Veteran's weight gain served as an "intermediate step," the examiner used the incorrect standard in forming the opinion.  The examiner noted that it was "at least as likely as not" that the Veteran's weight gain was due to his insomnia instead of the required "but for" standard. 
+
+Moreover, while the VA examiner considered the private opinion when providing the negative nexus opinion, the VA examiner failed to fully consider secondary service connection.  First, the VA examiner failed to provide an opine as to whether the Veteran's obesity served as an "intermediate step" between his service connected insomnia and sleep apnea.  Second, the VA examiner noted the Veteran's use of melatonin as a risk factor for his sleep apnea.  The Board notes that the evidence suggests that the Veteran takes melatonin for his service connected sleep apnea, yet the VA examiner failed to consider whether taking the medication for his service connected insomnia caused his sleep apnea.  Finally, the VA examiner failed to provide an opinion that addressed whether the Veteran's insomnia aggravated his sleep apnea.  The AOJ should have requested an addendum opinion before denying the claim.  Accordingly, the Board finds a remand is needed for a new VA opinion.  
+
+The matters are REMANDED for the following action:
+
+1. Return the Veteran's claims file to the examiner who provided the August 2023 sleep apnea VA so a supplemental opinion may be provided.  If that examiner is no longer available, provide the Veteran's claims file to a similarly qualified clinician.  The entire claims file and a copy of this remand must be made available to the examiner for review.  A new examination is only required if deemed necessary by the examiner.  
+
+The examiner must opine as to the following:
+
+a.) Whether the Veteran's sleep apnea was caused by his service connected insomnia, including the medication he takes. 
+
+b.) Whether the Veteran's sleep apnea was aggravated by his service-connected insomnia.
+
+c.) Whether the Veteran's service connected insomnia caused or aggravated his obesity. 
+
+i. If yes, whether the Veteran's obesity was substantial factor in causing his sleep apnea.
+
+ii. If yes, whether the Veteran's sleep apnea would not have occurred but for the obesity caused by or aggravated by his service connected insomnia. 
+
+In forming an opinion, the examiner should consider the private opinion submitted by the Veteran discussing the connection between sleep apnea, insomnia, and obesity. 
+
+The examiner must provide all findings, along with a complete rationale for his or her opinion(s) in the examination report.  If any of the above requested opinions cannot be made without resort to speculation, the examiner must state this and provide a rationale for such conclusion. 
+
+ 
+
+ 
+
+D. Martz Ames
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	R. Brunot, Counsel 
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

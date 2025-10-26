@@ -1,0 +1,81 @@
+Citation Nr: A25031706
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 221128-299327
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to service connection for left wrist pain causing impairment in earning capacity (left wrist disability) is granted.
+
+The claim for service connection for tinnitus that was filed on August 2, 2022, is granted.
+
+FINDINGS OF FACT
+
+1. The evidence is at least evenly balanced as to whether the Veteran's left wrist disability had its onset in service.
+
+2. The evidence is approximately balanced as to whether the Veteran's tinnitus is related to in-service acoustic trauma.
+
+CONCLUSIONS OF LAW
+
+1. With reasonable doubt resolved in favor of the Veteran, the criteria for service connection for left wrist disability have been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+2. With reasonable doubt resolved in favor of the Veteran, the criteria for service connection for tinnitus, based on the August 2, 2022, claim, have been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from July 2004 to March 2008.
+
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a May 2022 rating decision from the Department of Veterans Affairs Regional Office (RO), which denied entitlement to service connection for left wrist condition.  This case also comes before the Board from a November 2022 rating decision which denied entitlement to service connection for tinnitus.  
+
+In a November 2022 Decision Review Request: Board Appeal (Notice of Disagreement) (VA Form 10182), the Veteran timely appealed the May and November 2022 rating decisions to the Board and requested direct review of the evidence considered by the RO.  38?C.F.R. §?20.202.  As the Veteran has selected the Direct Review docket, the Board may consider only the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on the issue or issues on appeal.  38 U.S.C. § 7113(a); 38 C.F.R. § 20.301.  The Board will not consider evidence added to the record after the date of the AOJ decision on appeal.  If evidence was added during this ineligible period, the Board did not consider it.  If the Veteran wishes to have VA consider any evidence that was not considered, he may at any time file a supplemental claim with the AOJ after receiving this decision and the additional evidence will be considered in connection with the supplemental claim.  38 U.S.C. §§ 5104C(a)(1)(B), (b); 5108; 38 C.F.R. §§ 3.2501, 20.1105(a).  If filed within one year, this supplemental claim will preserve the date of the claim denied herein as the effective date of the grant of the benefit or benefits sought.  38 U.S.C. § 5110(2)(B); 38 C.F.R. § 3.2500(h).
+
+The Board notes the Veteran was granted entitlement to service connection for tinnitus in a January 2024 rating decision, effective October 16, 2023.  The claim that was granted was the supplemental claim filed on November 9, 2023.  However, if the Board has a service connection claim before, and that claim has been granted by the RO, it must still consider the claim on the merits if the grant of service connection could result in an earlier effective date.  Johnson v. Collins, __ Vet. App. __, No. 23-7589, 2025 U.S. App. Vet. Claims LEXIS 383 (Mar. 26, 2025).  Here, given that the claim for service connection for tinnitus before the Board was filed on August 2, 2022, prior to the claim for service connection for tinnitus that was granted, which was filed on November 9, 2023, and the grant of service connection could result in an earlier effective date, the Board will address the claim for service connection for tinnitus on the merits.  See 38 U.S.C.A. § 5110(a) (indicating that the date of claim is the primary basis for determining an effective date).  
+
+1. Left wrist disability 
+
+Service connection will be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred in or aggravated by active military, naval, air, or space service.  38?U.S.C. §?1110; 38?C.F.R. §?3.303(a).  Establishing service connection generally requires competent evidence of three things: (1) current disability; (2) in-service incurrence of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Saunders v. Wilkie, 886 F.3d 1356, 1361 (Fed. Cir. 2018).  Consistent with this framework, service connection is warranted for a disease first diagnosed after service when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38?C.F.R. §?3.303(d).
+
+The Board notes that a diagnosis is not necessarily required to meet the current disability requirement and pain can constitute disability if it causes impairment in earning capacity.  Saunders, 886 F.3d at 1364-65 (pain need not be diagnosed as connected to a current underlying condition to function as an impairment and pain alone can be considered a disability under 38 U.S.C. § 1131).  In Wait v. Wilkie, 33 Vet. App. 8, 15 (2020), the Court explained the requirements to demonstrate that pain reaches the level of functional impairment of earning capacity.  First, the "pain must amount to a functional impairment - i.e., diminish the body's ability to function."  Second, "VA must undertake an individualized assessment, which includes a preliminary evaluation of the degree of impairment.  In other words, although pain alone can serve as a functional impairment, the mere existence of pain is not enough to constitute a disability.  It must impair earning capacity."  Wait, 33 Vet. App. at 15.  
+
+A November 2019 private treatment note indicates that the Veteran experiences left wrist pain.  The RO favorably found in the May 2022 rating decision that the Veteran had been diagnosed with a disability based on this treatment record.  The Board is bound by this favorable finding.  38 U.S.C. § 5104(b)(4); 5104A; 38 C.F.R. § 20.801(a).  The Board thus infers from the statement and the favorable finding that the Veteran's left wrist pain causes him impairment in earning capacity.  Thus, a current disability has been demonstrated.
+
+In the August 2022 VA Form 21-4138, the Veteran stated he has experienced left wrist pain in and since service.  Based on these lay statements, the in-service injury or disease requirement is met.
+
+The remaining question is whether a nexus exists between the Veteran's current left wrist disability and his military service.  
+
+In the August 2022 VA Form 21-4138, the Veteran stated he experienced left wrist pain in service which has persisted since that time.  As these statements have been internally consistent, consistent with the other evidence of record, and consistent with the places, types, and circumstances of his service, the Board finds them competent and credible.  Jandreau v. Nicholson, 492 F. 3d 1372, 1377 (Fed. Cir. 2007) (a veteran is competent to testify regarding observable symptoms); Buchanan v. Nicholson, 451 F. 3d 1331, 1337 (holding lay evidence concerning continuity of symptoms after service, if credible, is ultimately competent, regardless of the lack of contemporaneous medical evidence).  
+
+The Veteran has not been afforded a VA examination for his left wrist disability.  The Veteran has consistently stated that his left wrist symptomatology began during service.  These statements are competent and credible.  To the extent that the grant of service connection is based primarily on lay evidence, "[i]f the Board concludes that the lay evidence presented by a veteran is credible and ultimately competent, the lack of contemporaneous medical evidence should not be an absolute bar to the veteran's ability to prove his claim of entitlement to disability benefits based on that competent lay evidence."  Buchanan, 451 F.3d at 1337.  Although the Board could remand for a medical opinion, this could be construed as obtaining additional evidence for the sole purpose of denying a claim, which is impermissible.  38 C.F.R. § 3.304(c) ("The development of evidence in connection with claims for service connection will be accomplished when deemed necessary but it should not be undertaken when evidence present is sufficient for this determination"); Andrews v. McDonough, 34 Vet. App. 216 (2021) ("Remand is inappropriate where the predominant purpose is not to allow the Board to make a fully informed decision unencumbered by error but to allow VA to obtain more evidence so that it can properly deny the claim").  
+
+For the foregoing reasons, the evidence of record is approximately balanced as to whether the Veteran's left wrist disability had its onset in service.  As the reasonable doubt created by the relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection for left wrist disability is warranted.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+2. Tinnitus
+
+An August 2022 VA examiner diagnosed the Veteran with tinnitus.  Thus, a current disability has been shown.  
+
+In the August 2022 VA Form 21-526EZ the Veteran stated he was exposed to hazardous noise during trainings.  Military noise exposure was conceded in a favorable finding in the November 2022 rating decision and this favorable finding is binding on the Board.  Thus, the in-service injury requirement has thus been met.  38 U.S.C. § 5104(b)(4); 5104A; 38 C.F.R. § 20.801(a). 
+
+The remaining question is whether a nexus exists between the Veteran's current tinnitus and his in-service acoustic trauma.
+
+In the August 2022 VA Form 21-526EZ the Veteran stated that a ringing in his ears began while he was on active duty.  This statement indicates that he experienced in-service tinnitus which has persisted since that time which he is competent to report.  Buchanan, 451 F.3d at 1337.  As the Veteran's statements have been internally consistent, consistent with the other evidence of record, and consistent with the places, types, and circumstances of his service, the Board concludes that his reports of tinnitus in the years since service are credible.
+
+An August 2022 VA audiologist opined that the Veteran's tinnitus is less likely than not caused by or a result of military noise exposure.  The VA audiologist explained that there are no audiologic pure tone hearing thresholds or complaints of tinnitus found in his service treatment records (STRs).  The VA audiologist cited medical studies in support of his opinion.  Because the VA audiologist did not take into account the Veteran's competent and credible reports of continuous tinnitus symptoms in the years since service, his opinion is afforded no probative weight.  Buchanan, 451 F.3d at 1336, n. 1 (noting that VA's examiner's opinion, which relied on the absence of contemporaneous medical evidence, "failed to consider whether the lay statements presented sufficient evidence of the etiology of [the veteran's] disability such that his claim for service connection could be proven without contemporaneous medical evidence").
+
+The Veteran has consistently stated that he noticed tinnitus during and since his service and his statements are competent and credible.  Although the Board could remand for another medical opinion, this could be construed as obtaining additional evidence for the sole purpose of denying a claim, which is impermissible.  38 C.F.R. § 3.304(c); Andrews, 34 Vet. App. 216.  The above evidence is sufficient to decide the claim as it includes competent and credible evidence of continuous tinnitus symptoms since service and no adequate and probative opinion against a nexus.
+
+(continued on next page)
+
+For the foregoing reasons, the evidence of record is approximately balanced as to whether the Veteran's tinnitus had its onset in service.  As the reasonable doubt created by the relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection for tinnitus is warranted.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Buchanan, 451 F.3d at 1335 ("[N]othing in the regulatory or statutory provisions [relating to evidence to be considered] require both medical and competent lay evidence; rather, they make clear that competent lay evidence can be sufficient in and of itself"). 
+
+ 
+
+Jonathan Hager
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Miller, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

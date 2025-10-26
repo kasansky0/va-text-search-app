@@ -1,0 +1,239 @@
+Citation Nr: A25034819
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240517-441620
+DATE: April 15, 2025
+
+ORDER
+
+An April 2018 rating decision combining separate evaluations for asthma and sleep apnea on the basis of clear and unmistakable error (CUE) in a previous rating decision was proper; to this extent, the Veteran's claim is denied.  
+
+An effective date prior to July 14, 2020, for the award of service connection for tinnitus is denied.  
+
+An initial disability rating in excess of 10 percent for tinnitus is denied. 
+
+Prior to April 25, 2022, a disability rating in excess of 10 percent for bilateral pes planus with secondary plantar fasciitis, is denied.
+
+From April 25, 2022, to March 21, 2023, a disability rating of 30 percent, but no higher, for bilateral pes planus with secondary plantar fasciitis is granted.
+
+From March 22, 2023, a disability rating of 50 percent, but no higher, for bilateral pes planus with secondary plantar fasciitis is granted. 
+
+Entitlement to a total disability rating based upon individual unemployability (TDIU) due to service-connected disabilities is denied. 
+
+An effective date prior to July 14, 2020, for the award of eligibility for Dependents' Educational Assistance (DEA) benefits is denied.
+
+REMANDED
+
+Entitlement to a disability rating in excess of 20 percent for cervical strain with degenerative disc disease is remanded.
+
+FINDINGS OF FACT
+
+1. The Veteran has been service-connected for asthma under Diagnostic Code 6602 since November 2004.
+
+2. In a December 2013 rating decision, VA granted service connection for sleep apnea and assigned a disability rating of 50 percent under Diagnostic Code 6847, effective November 1, 2004.
+
+3. In an April 2018 rating decision, VA found that a CUE was committed in December 2013 when it granted a separate compensable disability rating for sleep apnea and proceeded to combine the evaluation for sleep apnea with the evaluation for asthma into a single 50 percent rating under Diagnostic Code 6602.
+
+4. The finding of CUE was proper because the regulatory rating provisions in effect the time of the December 2013 rating decision were incorrectly applied, because then, as now, separate evaluations may not be awarded for disabilities rated under Diagnostic Code 6602 and Diagnostic Code 6847. 
+
+5. The Veteran filed a claim of service connection for tinnitus within one year of a July 14, 2020, Intent to File; there are no unadjudicated formal, informal, or reasonably raised claims of service connection for tinnitus pending prior to July 14, 2020.
+
+6. The Veteran's service-connected tinnitus has been assigned the maximum schedular rating throughout the entire appeal period and does not warrant an extraschedular evaluation. 
+
+7. Prior to April 25, 2022, the Veteran's bilateral pes planus with secondary plantar fasciitis was manifest by pain on use of the feet. 
+
+8. From April 25, 2022, to March 21, 2023, the Veteran's bilateral pes planus with secondary plantar fasciitis was manifest by pain accentuated on use of the feet. 
+
+9. From March 22, 2023, the Veteran's bilateral pes planus with secondary plantar fasciitis was manifest by extreme tenderness of the plantar surfaces of the feet. 
+
+10. The evidence of record does not demonstrate that the Veteran is unable to secure or follow a substantially gainful occupation due to his service-connected disabilities.
+
+11. Prior to July 14, 2020, the Veteran does not have a permanent total service-connected disability for purposes of establishing entitlement to DEA benefits.
+
+CONCLUSIONS OF LAW
+
+1. The combination of the evaluation for sleep apnea with the evaluation for asthma was proper in light of the CUE in the December 2013 rating decision.  38 U.S.C. § 1155, 5103, 5103A, 5107, 5109A, 7104; 38 C.F.R. §§ 3.105, 4.14, 4.96, 5.97, Diagnostic Codes 6602 and 6847.
+
+2. The criteria for an effective date prior to July 14, 2020, for the award of service connection for tinnitus have not been met.  38 U.S.C. § 5110; 38 C.F.R. §§ 3.155, 3.400
+
+3. The criteria for an initial disability rating in excess of 10 percent for tinnitus have not been met.  38 U.S.C. § 1155, 5107; 38 C.F.R. § 4.1, 4.2, 4.3, Diagnostic Code 6260. 
+
+4. Prior to April 25, 2022, the criteria for a disability rating in excess of 10 percent for bilateral pes planus with secondary plantar fasciitis have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.59, 4.71a, Diagnostic Code 5276.
+
+5. From April 25, 2022, to March 21, 2023, the criteria for a disability rating of 30 percent, but no higher, for bilateral pes planus with secondary plantar fasciitis have been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.59, 4.71a, Diagnostic Code 5276.
+
+6. From March 22, 2023, the criteria for a disability rating of 50 percent, but no higher, for bilateral pes planus with secondary plantar fasciitis have been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.59, 4.71a, Diagnostic Code 5276.
+
+7. The criteria for an award of a TDIU have not been met.  38 U.S.C. § 1155; 38 C.F.R. §§ 3.102, 3.340, 3.341, 4.16.
+
+8. The criteria for an effective date prior to July 14, 2020, for the award of DEA benefits have not been met.  38 U.S.C. §§ 3501, 3510, 5113; 38 C.F.R. §§ 3.807(a), 21.3021. 
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from March 1984 to October 2004. 
+
+In March 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of April 2022, June 2022, and August 2022 rating decisions.  In May 2023, VA issued the HLR decision on appeal, which considered the evidence of record at the time of the prior rating decisions. 
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the April 2022, June 2022, and August 2022 rating decisions which were subsequently subject to higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after VA issued the decisions, which were subsequently subject to higher-level review, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim(s), considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the increased rating claim for cervical strain with degenerative disc disease, any evidence the Board could not consider will be considered by VA in the adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+1. Whether there was clear and unmistakable error (CUE) in a December 2013 rating decision.
+
+The Veteran seeks restoration of separate evaluations for his service-connected asthma and sleep apnea. 
+
+Previous determinations that are final and binding, including decisions of service connection and other matters, will be accepted as correct in the absence of CUE.  Where evidence establishes such error, the prior rating decision will be reversed or amended.  For the purpose of authorizing benefits, the rating or other adjudicatory decision which constitutes a reversal of a prior decision on the grounds of CUE has the same effect as if the corrected decision had been made on the date of the reversed decision.  38 C.F.R. § 3.105(a).
+
+CUE is a very specific and rare kind of "error."  It is the kind of error, of fact or of law, that when called to the attention of later reviewers compels the conclusion, to which reasonable minds could not differ, that the result would have been manifestly different but for the error.  Simply to claim CUE on the basis that previous adjudications had improperly weighed and evaluated the evidence can never rise to the stringent definition of CUE.  Similarly, neither can broad-brush allegations of "failure to follow the regulations" or "failure to give due process," or any other general, nonspecific claim of "error."  Fugo v. Brown, 6 Vet. App. 40, 43 44 (1993).  In addition, failure to address a specific regulatory provision involves harmless error unless the outcome would have been manifestly different.  Id. at 44.
+
+The United States Court of Appeals for Veterans Claims (Court) has held that there is a three-pronged test to determine whether CUE is present in a prior determination: (1) "[e]ither the correct facts, as they were known at the time, were not before the adjudicator (i.e., more than a simple disagreement as to how the facts were weighed or evaluated) or the statutory or regulatory provisions extant at the time were incorrectly applied," (2) the error must be "undebatable" and of the sort "which, had it not been made, would have manifestly changed the outcome at the time it was made," and (3) a determination that there was CUE must be based on the record and law that existed at the time of the prior adjudication in question.  Damrel v. Brown, 6 Vet. App. 242, 245 (1994) (quoting Russell v. Principi, 3 Vet. App. 310, 313-14 (1992) (en banc)).
+
+The Court has held that allegations that previous adjudications had improperly weighed and evaluated the evidence can never rise to the stringent definition of clear and unmistakable error.  See Baldwin v. West, 13 Vet. App. 1, 5 (1999); Damrel, 6 Vet. App. at 246.
+
+By way of history, in an August 2005 rating decision, VA granted service connection for asthma, evaluated at 10 percent, effective November 1, 2004, under Diagnostic Code 6602.  In a December 2013 rating decision, VA granted service connection for sleep apnea, and assigned a separate 50 percent evaluation, effective November 1, 2004, under Diagnostic Code 6847. 
+
+At the outset, the Board notes that the December 2013 rating decision became final.  See 38 U.S.C. § 7105; 38 C.F.R. §§ 3.156, 20.302, 20.1103.  Further, even if the December 2013 rating decision was not final, VA may properly revise a rating decision on the basis of CUE under 38 C.F.R. § 3.105(a) when the matter is in appellate status.  See Young v. Wilkie, 31 Vet. App. 51 (2019).  VA may revise a rating decision in appellate status on the basis of CUE pursuant to 38 C.F.R. § 3.105(a) because such a rating decision is "final and binding" under 38 C.F.R. §§ 3.104 and 3.105, and because 38 C.F.R. § 3.2600(e) expressly allows for such revision.
+
+In an April 2018 rating decision and notification letter, VA found a clear and unmistakable error (CUE) in the December 2013 rating decision when it granted a separate compensable disability rating for sleep apnea and proceeded to combine the evaluation for sleep apnea with the evaluation for asthma into a single 50 percent rating under Diagnostic Code 6602-6847.  
+
+Disability evaluations are determined by the application of VA's Schedule for Rating Disabilities, which is based on average impairment of earning capacity resulting from a service-connected disability.  38 U.S.C. § 1155; 38 C.F.R. Part 4.  Under 38 C.F.R. § 4.96, Special Provisions Regarding Evaluation of Respiratory Conditions, ratings under Diagnostic Codes 6600 through 6817 and 6822 through 6847 will not be combined with each other.  See 38 C.F.R. § 4.96(a).
+
+Having reviewed the relevant evidence of record, the Board holds that the finding of CUE was proper because the regulatory rating provisions in effect at the time of the December 2013 rating decision were incorrectly applied, as separate evaluations may not be awarded for disabilities rated under Diagnostic Code 6602 and Diagnostic Code 6847.  Specifically, 38 C.F.R. § 4.96 directs that separate evaluations may not be awarded for disabilities rated under Diagnostic Code 6602 and Diagnostic Code 6847.  As such, the Board finds that combination of the evaluation for sleep apnea with the evaluation for asthma in the April 2018 rating decision was proper in light of the CUE in the December 2013 rating decision that granted a separate compensable disability rating for the newly service-connected sleep apnea.
+
+Accordingly, the evidence is persuasively against the claim for restoration of separate evaluations for his service-connected asthma and sleep apnea.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable, and the Veteran's claim is denied.
+
+2. Entitlement to an effective date prior to July 14, 2020, for the award of service connection for tinnitus.
+
+The Veteran seeks an earlier effective date for the award of service connection for tinnitus. 
+
+Generally, except as otherwise provided, the effective date for a grant of service connection is the day after separation from service or day entitlement arose, if a claim is received within one year of separation from service; otherwise, the date of receipt of claim, or the date entitlement arose, whichever is later.  38 U.S.C. § 5110(b)(1); 38 C.F.R. § 3.400(b)(2)(i).
+
+A "claim" is defined broadly to include a formal or informal communication in writing requesting a determination of entitlement to a benefit.   38 C.F.R. § 3.1(p). Any communication indicating an intent to apply for a benefit under the laws administered by the VA may be considered an informal claim provided it identifies, but not necessarily with specificity, the benefit sought.  See 38 C.F.R. § 3.155(a). 
+
+Prior to March 24, 2015, any communication or action indicating an intent to apply for one or more benefits under the laws administered by VA from a claimant may be considered an informal claim.  Id.  An informal claim must identify the benefits sought; and upon receipt of an informal claim, if a formal claim has not been filed, an application form will be forwarded to the claimant for execution.  If received within one year from the date it was sent to the claimant, it will be considered filed as of the date of the receipt of the informal claim.  Id.
+
+By way of history, on July 14, 2020, the Veteran filed a VA Form 21-0966, Intent to File a Claim for Compensation and/or Pension, or Survivors Pension and/or DIC.  Within one year, in January 2021, the Veteran submitted VA Form 20-0995, Decision Review Request: Supplemental Claim, requesting service connection for tinnitus.  In March 2021, VA granted service connection for tinnitus, effective January 14, 2021.  In a May 2023 rating decision, VA granted an earlier effective date of July 14, 2020. 
+
+Because the current effective date of July 14, 2020, is based upon the date VA received the Veteran's July 2020 Intent to File, the next question before the Board is whether there are any earlier, non-final, applications for service connection upon which an earlier effective date of service connection may be granted. 
+
+Upon review, the Board finds that there are no earlier, non-final applications for service connection on which to base an earlier effective date.  Here, service connection for tinnitus was most recently denied by VA in a November 2010 rating decision.  The Veteran was notified of the decision by letter in December 2010, but did not file a notice of disagreement.  As such, the November 2010 rating decision became final. 
+
+The next communication that can be construed as a claim of service connection for tinnitus, formal or otherwise, is the Veteran's July 2020 Intent to File followed by his January 2021 supplemental claim. 
+
+Accordingly, the evidence is persuasively against the claim for an effective date prior to July 14, 2020, for the award of service connection for tinnitus.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable, and the Veteran's claim is denied.
+
+Increased Ratings
+
+Disability ratings are determined by applying the criteria set forth in VA's Schedule for Rating Disabilities.  The percentage ratings are based on the average impairment of earning capacity and individual disabilities are assigned separate diagnostic codes.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.  Any reasonable doubt regarding a degree of disability will be resolved in favor of the veteran.  38 C.F.R. § 4.3.
+
+Where entitlement to compensation has already been established and an increase in disability rating is at issue, the present level of disability is of primary concern.  See Francisco v. Brown, 7 Vet. App. 55, 58 (1994).  Within that context, VA must assess the level of disability from the date of initial application and determine whether the level of disability warrants the assignment of different disability ratings at different times over the life of the claim, a practice known as a "staged rating."  See Fenderson v. West, 12 Vet. App. 119 (1999).  
+
+Pertinent regulations do not require that all cases show all findings specified by the Rating Schedule, but that findings sufficiently characteristic to identify the disease and the resulting disability and above all, coordination of rating with impairment of function will be expected in all cases.  38 C.F.R. § 4.21.  Generally, the Board has been directed to consider only those factors contained wholly in the rating criteria.  See Massey v. Brown, 7 Vet. App. 204, 208 (1994); but see Mauerhan v. Principi, 16 Vet. App. 436 (2002) (finding it appropriate to consider factors outside the specific rating criteria in determining level of occupational and social impairment).
+
+The standard of proof to be applied in decisions on claims for veteran's benefits is set forth in 38 U.S.C. § 5107.  A claimant is entitled to the benefit of the doubt when there is an approximate balance of positive and negative evidence.  See 38 C.F.R. § 3.102.  When a claimant seeks benefits and the evidence is in relative equipoise, the claimant prevails.  See Gilbert v. Derwinski, 1 Vet. App. 49 (1990).  
+
+3. Entitlement to an initial disability rating in excess of 10 percent for tinnitus. 
+
+The Veteran seeks an increased rating for his tinnitus. 
+
+The Veteran's tinnitus has been assigned the maximum schedular rating available for tinnitus under Diagnostic Code 6260.  Additionally, as the Veteran's disability is explicitly listed in the rating schedule, rating it under an alternate diagnostic code would not be appropriate.  See Copeland v. McDonald, 27 Vet. App. 333, 336-37 (2015).  Finally, the Veteran has not asserted, nor does the evidence of record show, that his tinnitus presents such an exceptional or unusual disability picture that the application of the regular schedular standards would be impracticable.  38 C.F.R. § 3.321(b)(1).
+
+Accordingly, the evidence is persuasively against the claim for an initial disability rating in excess of 10 percent for tinnitus.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable, and the Veteran's claim is denied.
+
+4. Entitlement to a disability rating in excess of 10 percent for bilateral pes planus with secondary plantar fasciitis prior to May 4, 2023, and in excess of 50 percent thereafter.
+
+The Veteran seeks an increased rating for his bilateral pes planus with secondary plantar fasciitis. 
+
+The relevant temporal focus for adjudicating an increased rating claim is on the evidence concerning the state of the disability from the time period one year before the claim was filed until VA makes a final decision on the claim.  By way of history, on June 2, 2020, VA undertook a special review of the rating assigned for the Veteran's bilateral pes planus with secondary plantar fasciitis.  In a June 2020 rating decision, VA continued a 10 percent rating.  In March 2021, the Veteran filed VA Form 20-0996, Decision Review Request: Higher-Level Review.  In a May 2021 HLR rating decision, VA continued a 10 percent rating.  In May 2022, the Veteran filed VA Form 20-0995, Decision Review Request: Supplemental Claim.  In an August 2022 supplemental rating decision, VA continued a 10 percent rating.  In March 2023, the Veteran filed VA Form 20-0996, Decision Review Request: Higher-Level Review.  In a May 2023 HLR rating decision, VA continued a 10 percent rating.  However, also in May 2023, VA issued a new supplemental rating decision based on the May 2022 supplemental claim and granted an increased 50 percent rating effective May 4, 2023.  In his May 2023 notice of disagreement, while the Veteran only identified the May 2023 HLR rating decision, he also indicated he wished to appeal all appeal periods.  As such, the Board has considered the Veteran's claim from June 2, 2019, or one year prior to the date VA undertook special review, to May 18, 2023, or the date of the May 2023 supplemental rating decision notification letter, based on continuous pursuit. 
+
+The Veteran's bilateral pes planus with secondary plantar fasciitis is rated at 10 percent prior to May 4, 2023, and at 50 percent thereafter, under 38 C.F.R. § 4.71a, Diagnostic Code 5276, for acquired flatfoot.  Under Diagnostic Code 5276, a noncompensable rating is warranted for mild acquired flatfoot; symptoms relieved by built-up shoe or arch support.  A 10 percent rating is warranted for moderate acquired flat foot; weight-bearing line over or medial to great toe, inward bowing of the tendo achillis, pain on manipulation and use of the feet, bilateral or unilateral.  A 20 percent rating is assigned for severe unilateral acquired flat foot; objective evidence of marked deformity (pronation, abduction, etc.), pain on manipulation and use accentuated, indication of swelling on use, characteristic callosities.  A 30 percent rating is warranted for severe bilateral acquired flat foot; objective evidence of marked deformity (pronation, abduction, etc.), pain on manipulation and use accentuated, indication of swelling on use, characteristic callosities.  A 30 percent rating is also warranted for pronounced unilateral acquired flatfoot; marked pronation, extreme tenderness of plantar surfaces of the feet, marked inward displacement and severe spasm of the tendo achillis on manipulation, not improved by orthopedic shoes or appliances.  A maximum 50 percent rating is warranted for bilateral acquired flatfoot; marked pronation, extreme tenderness of plantar surfaces of the feet, marked inward displacement and severe spasm of the tendo achillis on manipulation, not improved by orthopedic shoes or appliances.  38 C.F.R. § 4.71a, Diagnostic Code 5276.
+
+Historically, plantar fasciitis was rated by analogy, usually under DC 5276 or DC 5284; however, effective February 7, 2021, VA amended the rating schedule by adding DC 5269 for plantar fasciitis.  Under Diagnostic Code 5269, a 10 percent rating is warranted for plantar fasciitis, otherwise, unilateral or bilateral.  A 20 percent rating is warranted for unilateral plantar fasciitis with no relief from both non-surgical and surgical treatment.  A maximum 30 percent rating is warranted for bilateral plantar fasciitis with no relief from both non-surgical and surgical treatment.
+
+The intent of the Rating Schedule is to recognize actually painful, unstable or malaligned joints, due to healed injury, as entitled to at least the minimum compensable rating for the joint, even in the absence of arthritis, to include in situations where the disability at issue is not evaluated based on range of motion measurements.  38 C.F.R. § 4.59; Burton v. Shinseki, 25 Vet. App. 1, 5 (2011); Southall-Norman v. McDonald, 28 Vet. App. 346 (2016).
+
+Turning to the evidence of record, private treatment records beginning in 2019 from the R. Family Medical Group note pes planus in the Veteran's active problem list, but the records are silent for complaints or treatment related to his bilateral pes planus with secondary plantar fasciitis. 
+
+In a statement signed in October 2020 and received by VA in January 2022, the Veteran reported foot pain after prolonged standing. 
+
+VA treatment records dated in April 2022 reflect complaints of daily cramping in the Veteran's feet especially when resting or trying to sleep.  His clinician diagnosed severe pes planus with plantar fasciitis, and prescribed inserts.  
+
+VA afforded the Veteran an examination in May 2022.  The Veteran reported pain and numbness in his feet improved by inserts.  He reported daily moderate to severe flare-ups of the left foot brought on by prolonged standing and removing his shoes, lasting for three to 10 minutes.  He reported moderate flare-ups of the right foot occurring less than the left, brought on by removing his shoes but lasting all day.  On examination, the examiner noted bilateral pain of the feet accentuated on use.  His condition remained symptomatic despite arch supports.  There was decreased longitudinal arch height and pain in weight-bearing.  Pain during flare-ups would limit the Veteran from standing or walking for prolonged periods of time.  
+
+VA treatment records dated in July 2022 reflect that the Veteran reported some improvement in his pes planus with inserts and that there was less pain to the plantar surfaces.
+
+VA afforded the Veteran an examination in March 2023 with an addendum in May 2023.  The Veteran reported pain and numbness in his feet.  Flare-ups consisting of cramping pain occurred several times a week brought on by walking or standing, lasting for several hours, and making it unable for the Veteran to walk or stand for 10 minutes.  On examination, the examiner noted bilateral pain of the feet accentuated on use.  His condition remained symptomatic despite arch supports.  There was extreme tenderness on the plantar surfaces not improved by orthotics.  There was decreased longitudinal arch height in weight-bearing and pain on active motion.  His condition caused disturbances of motion and interference with standing.  The clinician indicated that while his diagnoses had not changed, his symptoms has worsened.   
+
+Upon review of the evidence of record, the Board finds that a disability rating in excess of 10 percent is not warranted for the Veteran's pes planus with secondary plantar fasciitis prior to April 25, 2022.  Prior to April 25, 2022, the medical evidence is silent for complaints or treatment related to his pes planus with secondary plantar fasciitis.  Additionally, while a statement by the Veteran received by VA in January 2022 notes foot pain after prolonged standing, the Veteran's description of his pain was generally focused on a separate service-connected disability not currently before the Board.  As such, the Board finds that the Veteran's symptoms are more closely approximated by a 10 percent rating for pain on use of the feet.  
+
+However, from April 25, 2022, to March 22, 2023, the Board finds that a disability rating of 30 percent, but no higher, is warranted for the Veteran's bilateral pes planus with secondary plantar fasciitis.  Here, the evidence shows bilateral pain of the feet accentuated on use, a symptom associated with severe pes planus which warrants a 30 percent rating.  Additionally, his treating VA clinician described his disability as severe.  As to the effective date of the 30 percent rating, the Board notes that the April 2022 VA treatment record is the earliest evidence during the period on appeal showing an increase in the Veteran's disability such that a higher rating is warranted.  
+
+The Board has considered whether a disability rating in excess of 30 percent is warranted from April 25, 2022, to March 21, 2023.  However, even considering the Veteran's lay reports of symptoms and functional loss, including during flare-ups, the degree of additional limitation reflected by his statements would not result in symptoms more nearly approximating pronounced pes planus.  Here, the evidence does not demonstrate symptoms such as marked pronation, extreme tenderness of the plantar surfaces, or marked inward displacement and severe spasm of the tendo achillis on manipulation, symptomatology associated with a 50 percent evaluation.  As such, a rating in excess of 30 percent is not warranted. 
+
+From March 22, 2023, the Board finds that a disability rating of 50 percent, but no higher, is warranted for the Veteran's bilateral pes planus with secondary plantar fasciitis.  Here, the evidence shows extreme tenderness of the plantar surfaces of the feet, a symptom associated with pronounced pes planus which warrants a 50 percent rating.  As to the effective date of the 50 percent rating, the Board notes that while the March 2023 VA examination report does not note extreme tenderness of the plantar surfaces of the feet, the May 2023 VA examination does note this finding and is a correction of an inconsistent finding in the March 2023 VA examination report.  As such, the Board finds that the 50 percent rating is warranted from the date of the March 2023 examination.  
+
+From March 22, 2023, the Veteran is now in receipt of a 50 percent rating, the highest schedular rating for acquired flat foot, and there is no basis to award a higher rating.
+
+The Board has also considered the other diagnostic codes pertaining to the foot.  Other disability ratings may be assigned only if the symptomatology for a disability is not duplicative or overlapping with the symptomatology of any other disability.  See Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994); see also Lyles v. Shulkin, 29 Vet. App. 107 (2017).  In Scott v. Wilkie, the Federal Circuit expressly adopted the Court's holding that disabilities specifically listed in the rating schedule may only be rated under Diagnostic Codes which specifically pertain to them.  Scott v. Wilkie, 920 F.3d 1375 (Fed. Cir. 2019) (citing Copeland v. McDonald, 27 Vet. App. 333, 336 (2015)).  The Federal Circuit also expressly adopted the Court's holding that unlisted conditions may be rated by analogy to Diagnostic Codes that may not describe the unlisted disability but addresses disabilities that may be productive of similar symptoms.  Scott, 920 F.3d 1375 (citing Yancy v. McDonald, 27 Vet. App. 484, 493 (2016).  Finally, the Federal Circuit concluded that the Board must also consider assigning separate ratings under analogous Diagnostic Codes, when rating an unlisted service-connected foot disability exhibiting distinct manifestations, even when service connection has also been granted for one of the eight conditions listed in the rating schedule.  Id.  
+
+Here, the Veteran's disability is specifically listed under the rating schedule and therefore cannot be rated under a different diagnostic code.  Furthermore, while the ratings criteria changed effective February 7, 2021, to add plantar fasciitis, the Board finds that a separate or higher disability rating is not warranted under the revised criteria.  Here, the Veteran has not had any surgical treatment such that a 20 percent or higher rating is warranted.  While DC 5269 provides for a 10 percent rating for plantar fasciitis not treated with surgery, the Veteran's symptoms are already contemplated under the rating assigned for pes planus, and a separate rating is not warranted.  See 38 C.F.R. § 4.14. 
+
+In sum, and resolving reasonable doubt in the Veteran's favor, the Board finds that a 30 percent rating, but no higher, is warranted for the Veteran's bilateral pes planus with secondary plantar fasciitis from April 25, 2022, to March 21, 2023, and that a 50 percent rating, but no higher, is warranted from March 22, 2023.  To the extent the Veteran contends that a disability rating in excess of 10 percent is warranted prior to April 25, 2022, in excess of 30 percent from April 25, 2022, to March 21, 2023, or in excess of 50 percent from March 22, 2023, the evidence is persuasively against the claim.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable the Veteran's claim is denied.
+
+5. Entitlement to a total disability rating based upon individual unemployability (TDIU) due to service-connected disabilities.
+
+The Veteran seeks a TDIU. 
+
+The law provides that a TDIU may be granted upon a showing that the veteran is unable to secure or follow a substantially gainful occupation due solely to impairment resulting from his or her service-connected disabilities.  See 38 U.S.C. § 1155; 38 C.F.R. §§ 3.340, 3.341, 4.16.  Consideration may be given to a veteran's level of education, special training, and previous work experience in arriving at a conclusion, but not to his or her age or the impairment caused by nonservice-connected disabilities.  See 38 C.F.R. §§ 3.341, 4.16, 4.19.
+
+To qualify for a total rating for compensation purposes, the evidence must show (1) a single disability rated as 100 percent disabling; or (2) that the disabled veteran is unable to secure or follow a substantially gainful occupation as a result of his or her service-connected disabilities, with one disability ratable at 60 percent or more, or, for more than one disability, at least one disability ratable at 40 percent or more and a combined disability rating of 70 percent or more.  38 C.F.R. § 4.16(a).
+
+Substantially gainful employment is defined as work which is more than marginal, and which permits the individual to earn a living wage.  Moore v. Derwinski, 1 Vet. App. 356 (1991).  Marginal employment is not considered substantially gainful employment and generally is deemed to exist when a veteran's earned income does not exceed the amount established by the U.S. Department of Commerce, Bureau of the Census, as the poverty threshold for one person.  Marginal employment may also be held to exist in certain cases, such as employment in a protected environment like a family business or sheltered workshop, when earned annual income exceeds the poverty threshold on a facts-found basis.  Consideration shall be given in all claims to the nature of the employment and the reason for termination.  38 C.F.R. § 4.16(a).
+
+On review of the evidence of record, the Board finds that while the Veteran meets the schedular criteria for a TDIU, the evidence does not demonstrate that the Veteran is prevented from securing or following a substantially gainful occupation due to his service-connected disabilities.  
+
+In January 2022, the Veteran submitted VA Form 21-8940, Veteran's Application for Increased Compensation Based on Unemployability, and reported he last worked in August 2018.  With his application, he submitted a June 2020 Social Security Administration statement showing he earned $6,898 in 2018 and $325 in 2019.  As recently as May 2024, the Veteran continues to assert he last worked substantially gainful employment in 2018.  See May 2024 appellate brief; see also statement in support of claim signed October 2020 and submitted in January 2022.  
+
+However, private physical therapy treatment records submitted by the Veteran in June 2022 reflect that the Veteran reported he was busy at work (May 2021), he was travelling for work (May 2022), and that he was not doing as many home exercises due to being busy at work (June 2022). 
+
+Because the Veteran has submitted contradictory or incomplete statements regarding his employment history, the Board cannot find that he is unable to secure or follow a substantially gainful occupation due to his service-connected disabilities at this time.  If the Veteran would like to submit a supplemental claim which clarifies his employment and earning history since August 2018, he is invited to do so.
+
+Accordingly, the evidence is persuasively against the claim.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and a TDIU is not warranted.  The Veteran's claim is denied.
+
+6. Entitlement to an effective date prior to July 14, 2020, for the award of Dependents' Educational Assistance (DEA) benefits.
+
+Basic eligibility for DEA benefits exists if a veteran was discharged from service under conditions other than dishonorable, or died in service, and either (1) has a permanent total service-connected disability, or (2) a permanent total service-connected disability was in existence at the date of the veteran's death, or (3) died as a result of a service-connected disability, or, if a service member (4) is on active duty as a member of the Armed Forces and, for a period of more than 90 days, has been listed by VA concerned as missing in action, captured in line of duty by a hostile force, or forcibly detained or interned in the line of duty by a foreign government or power.  38 C.F.R. § 3.807.
+
+Here, the Veteran is not in receipt of a permanent total service-connected disability prior to July 14, 2020.
+
+Accordingly, the evidence is persuasively against the claim for an effective date prior to July 14, 2020, for the award of DEA benefits.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable, and the claim is denied. 
+
+REASONS FOR REMAND
+
+Entitlement to a disability rating in excess of 20 percent for cervical strain with degenerative disc disease is remanded.
+
+The issue of entitlement to a disability rating in excess of 20 percent for cervical strain with degenerative disc disease is remanded to correct a duty to assist error that occurred prior to the August 2022 rating decision which was subsequently subject to higher-level review.  
+
+VA obtained a May 2022 examination prior to August 2022 rating decision.  However, this examination report did not adequately consider all of the Veteran's symptomology associated with his cervical spine disability, to include whether a separate compensable disability rating is warranted for headaches secondary to cervical strain with degenerative disc disease.
+
+The matter is REMANDED for the following action:
+
+Schedule the Veteran for an examination by an appropriate clinician to determine the severity of his service-connected cervical strain with degenerative disc disease.  The examiner should provide a full description of the disability and report all signs and symptoms necessary for evaluating the Veteran's disability under the rating criteria.  
+
+In doing so, the examiner must opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's headaches are (1) proximately due to, or (2) aggravated, i.e., made worse, by, his service-connected cervical strain with degenerative disc disease.  Provide a rationale to support the opinion(s).  Although a complete review of the claims file is required, the examiner's attention is drawn to private physical therapy records dated in March 2021, November 2021, and February 2022 noting neck pain, stiffness, and headaches, and the May 2022 VA cervical spine examination report noting complaints of headaches.
+
+ 
+
+ 
+
+K. Parakkal
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Owen, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

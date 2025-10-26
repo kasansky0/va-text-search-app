@@ -1,0 +1,81 @@
+Citation Nr: A25034708
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240617-448040
+DATE: April 15, 2025
+
+REMANDED
+
+Entitlement to service connection for urinary incontinence, to include as due to toxic exposure or as secondary to a service-connected disability, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Marine Corps from August 2000 to August 2005.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a June 2024 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO).  
+
+In July 2023, the RO denied entitlement to service connection for urinary incontinence (claimed as mixed incontinence).  In January 2022, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of the July 2023 rating decision.  In December 2023, the RO issued the HLR decision, which identified a duty to assist error related to the claim.  Specifically, the RO noted a failure to get an examination(s) and/or medical opinion(s). 
+
+In June 2023, the RO issued another rating decision denying service connection for urinary incontinence.      
+
+In June 2024, the Veteran filed VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) and elected the direct review docket.  Therefore, the Board may only consider the evidence of record at the time of the July 2023 rating decision, which was subsequently subject to higher-level review.  38 C.F.R. § 20.301.  If evidence was submitted during the period after the RO issued the decision, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to service connection for urinary incontinence, any evidence the Board could not consider will be considered by the RO in the adjudication of this claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+Service connection for urinary incontinence.
+
+The Veteran contends his urinary incontinence is related to service.  See March 2023 Application for Disability Compensation; March 2023 Lay Statement.  
+
+A remand is necessary to obtain adequate VA opinions.  See 38 C.F.R. § 20.802; Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).
+
+The Veteran underwent a VA examination in December 2023.  The examiner noted the diagnosis of urinary incontinence but found that the condition was less likely than not proximately due to or the result of the Veteran's service-connected lumbar spine condition.  
+
+However, the examiner provided no opinion as to whether the urinary incontinence was aggravated by the service-connected condition.  38 C.F.R. 3.310 (b); see also El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013) (a medical opinion is inadequate when it fails to adequately address the question of aggravation).
+
+Additionally, the Board acknowledges the direct service connection opinion from June 2023 and the TERA (toxic exposure risk activities) opinion from July 2023, but also find they are inadequate.  
+
+In June 2023, the examiner found that the claimed condition was less likely than not incurred in or caused by the claimed in-service injury, event, or illness.  The rationale indicated that there was no objective evidence of related complaints or treatment having occurred during service, and there was no objective evidence of any specific activities or events having occurred during service which are anticipated to cause the condition.  The Board finds this opinion inadequate because the examiner appears to rely solely on lack of documentation of urinary incontinence and failed to consider the Veteran's report that he frequently had to hold his bladder when performing duties as a helicopter crew chief and he began noticing symptoms soon after leaving service.  An examiner may not ignore lay statements of the Veteran, unless found by the Board to be not credible, and the absence of documented treatment cannot, alone, serve as a basis for finding that lay evidence lacks credibility.  See Dalton v. Nicholson, 21 Vet. App. 23 (2007), Buchanan v. Nicholson, 451 F.3d 1331, 1336 (Fed. Cir. 2006).
+
+In July 2023, the examiner opined that the claimed condition was less likely than not caused by the indicated toxic exposure risk activity(ies), after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.  The examiner noted that the reason for incontinence was listed as "unknown/idiopathic" and the associated medical opinion was negative for TERA nexus as the etiology.  The examiner also stated that medical record review failed to show any other mention of urinary incontinence or diagnostic work-up to determine the underlying cause of these urinary complaints.  There was no known cause to this condition, thus, considered a medically unexplained chronic multi-symptom illness (MUCMI).  Unfortunately, the Board must remand this claim to obtain another VA medical opinion regarding whether the Veteran has a MUCMI that is manifested by urinary incontinence of unexplained origin.  Stegall v. West, 11 Vet. App. 268, 271 (1998).  
+
+Accordingly, the Board finds that addendum medical opinions are warranted to cure the pre-decisional duty to assist error.
+
+The matter is REMANDED for the following action:
+
+1. Arrange for addendum opinions that address the direct service-connection, secondary service-connection, and MUCMI.  
+
+For direct service-connection, the reviewer/examiner should opine whether it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's urinary incontinence (1) began during active service, or (2) is otherwise related to a disease or injury during a period of active service?
+
+The examiner should consider (1) the Veteran's assertion that he suffered from several urinary tract infections during service; (2) the Veteran's lay statements regarding having to hold his bladder for long periods of time while performing duties as a helicopter crew chief; and (3) the Veteran's reported symptoms of urinary incontinence beginning soon after he left the service.
+
+Provide a detailed rationale and complete medical explanation to support the opinions.  If the examiner is unable to provide an opinion without resorting to speculation, the examiner should explain why.
+
+In providing the requested opinion, consider the Veteran's description of his in-service injury and symptoms as well as his post-service symptoms.  If there is any medical reason to accept or reject the proposition that the Veteran's reported injury and symptoms in service and thereafter represented the onset of his current disability, this should be noted.  Stated another way, do the Veteran's reports about his symptoms align with how the currently diagnosed disability is known to develop or are the Veteran's reports generally inconsistent with medical knowledge or implausible?
+
+For secondary service-connection, the reviewer/examiner should address the etiology of the Veteran's urinary incontinence condition.  All relevant records, to include a copy of this remand as well as the claims folder, must be made available to and reviewed by the reviewer/examiner in conjunction with the examination or review.  The reviewer/examiner must confirm in the examination report that the claims folder was reviewed.
+
+Based on review of the record, the reviewer/examiner should determine whether it is at least likely as not (i.e., likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's urinary incontinence condition is either (i) caused or (ii) aggravated by his service-connected lumbar spine strain?
+
+If aggravation is found, is there evidence created prior to the aggravation or between the aggravation and the urinary incontinence condition that shows a baseline of this disability prior to aggravation?  If so, please identify.
+
+The examiner is cautioned that the term "aggravated," as issued in 38 C.F.R. § 3.310 (b), does not require "permanent worsening" of the nonservice-connected disability.  Instead, secondary service connection is warranted for "any incremental increase in disability - any additional impairment of earning capacity - in nonservice-connected disabilities resulting from service-connected conditions, above the degree of disability existing before the increase - regardless of its permanence."  See Ward v. Wilkie, 31 Vet. App. 233, 239 (2019).
+
+The examiner must provide a comprehensive rationale for each opinion provided.  The examiner is advised that the Veteran is competent to report his symptoms and history, and such reports are to be considered in formulating any opinion.
+
+If any opinion cannot be given without resorting to speculation, the examiner should explain why and state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), the record (additional facts are required), or the examiner does not have the knowledge or training. 
+
+For MUCMI, the reviewer/examiner should opine whether the Veteran's urinary incontinence, is the result of MUCMI.  The examiner must specifically address both the etiology and the pathophysiology of the Veteran's claimed urinary incontinence condition.
+
+ 
+
+ 
+
+John J. Crowley
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Murphy
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

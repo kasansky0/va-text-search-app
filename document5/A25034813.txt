@@ -1,0 +1,67 @@
+Citation Nr: A25034813
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240826-467463
+DATE: April 15, 2025
+
+REMANDED
+
+Entitlement to service connection for an acquired psychiatric disorder, to include persistent depressive disorder, moderate, with anxious distress, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from October 2001 to April 2006.
+
+The rating decision on appeal was issued in August 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In the August 26, 2024, VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the August 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to service connection for an acquired psychiatric disorder, to include persistent depressive disorder, moderate, with anxious distress, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+In light of the evidence presented, the Veteran's claim of entitlement to service connection for an anxiety condition and depression has been recharacterized as a claim of entitlement to service connection for an acquired psychiatric disorder, to include persistent depressive disorder, moderate, with anxious distress.  Clemons v. Shinseki, 23 Vet. App. 1 (2009).
+
+Entitlement to service connection for an acquired psychiatric disorder, to include persistent depressive disorder, moderate, with anxious distress, is remanded.
+
+The Veteran contends that he has an anxiety condition and depression due to his service-connected melanoma in situ, with scar on left cheek.  See July 2023 VA Form 21-526EZ, Application for Disability Compensation and Related Compensation Benefits.  Specifically, the Veteran contends that "[ever] since the first procedure to start removing the cancer on [his] face, [he] [has] had a half dollar sized scar. [He] [walks] around and people are always staring at [him] and it makes [him] so anxious. [He] [feels] like an outcast anytime [he] [goes] out in public."  See id.
+
+The Veteran is diagnosed with persistent depressive disorder, moderate, with anxious distress. See August 2023 VA examination report.  Accordingly, the key inquiry is whether the current condition is related to the Veteran's service, including whether it is secondary to his service-connected melanoma in situ, with scar on left cheek.
+
+The Veteran's service treatment records (STRs) document the Veteran's May 6, 2004, treatment by a mental health services unit and reported signs and symptoms of anger and depressed mood; and multiple notations of substance abuse and alcohol dependence in service.
+
+The Board finds remand is required to correct a duty to assist error that occurred prior to the August 2023 rating decision on appeal.  38 C.F.R. § 20.802(a).  The AOJ obtained the August 2023 medical opinion prior to the August 2023 rating decision on appeal; however, the opinion is not adequate for the reasons noted below.
+
+In an August 2023 VA examination, the examiner provided a negative nexus opinion for the Veteran's persistent depressive disorder, moderate, with anxious distress as secondary to his service-connected melanoma in situ, with scar on left cheek.  As rationale, the examiner noted "the Veteran's depressive and anxiety related symptoms began subsequent to the tragic death of his two-year-old son, and have remained in a current pattern since then."  The Board finds the opinion is inadequate for the purpose of adjudication, as the examiner failed to provide an opinion on whether the Veteran's melanoma in situ, with scar on left cheek aggravated his persistent depressive disorder, moderate, with anxious distress.  See El-Amin v. Shinseki, 26 Vet. App. 136 (2013) (indicating that a VA examiner should separately address causation and aggravation as they are independent concepts).  Additionally, as noted above, STRs document anger and depressed mood in addition to substance abuse; however, the examiner did not provide an opinion as to whether the Veteran's diagnosis is etiologically related to service on a direct basis.  Reonal v. Brown, 5 Vet. App. 458, 461 (1993) (a medical opinion based upon an inaccurate factual premise is not probative).
+
+Based on the foregoing, the Board finds the AOJ committed a pre-decisional duty to assist error by failing to obtain an adequate medical opinion regarding secondary service connection and a medical opinion as to entitlement to service connection on a direct basis.  Remand is necessary to obtain an adequate medical opinion that addresses both direct and secondary service connection due to melanoma in situ, with scar on left cheek.  Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (indicating that if VA provides an examination, that examination must be adequate).  The AOJ's reliance on this opinion constitutes a duty to assist error that must be remedied on remand.  38 C.F.R. § 20.802(a).
+
+The matter is REMANDED for the following action:
+
+Obtain an addendum medical opinion from an appropriate clinician to determine the nature and etiology of the Veteran's claimed acquired psychiatric disorder.  The clinician must address the following questions: 
+
+(a) Identify all current psychiatric diagnoses.
+
+(b) For each disorder, opine whether it is at least as likely as not that the psychiatric disorder had onset in service, or is otherwise due to his service.
+
+The examiner should consider the following: a May 2004 STR indicating the Veteran was seen for mental health services and reported signs and symptoms of anger and depressed mood; and in-service indications of substance abuse.
+
+(c) For each disorder, opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the psychiatric disorder was caused by, or is otherwise due to, his service-connected melanoma in situ, with scar on left cheek.
+
+(d) For each disorder, opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the psychiatric disorder was aggravated by his service-connected melanoma in situ, with scar on left cheek. Note that aggravation means any incremental increase in disability in non-service-connected disabilities (i.e., any additional impairment of earning capacity) resulting from service-connected conditions.
+
+The clinician is asked to explain the reasons behind any opinions expressed and conclusions reached. The examiner is reminded that the term "as likely as not" does not mean "within the realm of medical possibility," but rather that the likelihood is at least approximately balanced or nearly equal, if not higher.
+
+Note that the lack of documented treatment in service, or a long period after, while probative, cannot serve as the sole basis for a negative finding.  Additionally, the clinician must not rely solely on the absence of an in-service finding or diagnosis as the basis for a negative opinion.  The Veteran's lay contentions must be considered in making the determination. 
+
+ 
+
+M. C. WILSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T. Griggs
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

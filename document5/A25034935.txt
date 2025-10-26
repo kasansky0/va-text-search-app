@@ -1,0 +1,183 @@
+Citation Nr: A25034935
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 240715-457340
+DATE: April 16, 2025
+
+ORDER
+
+Entitlement to an initial compensable rating for right ear hearing loss is denied.
+
+Entitlement to service connection for left ear hearing loss is denied.
+
+REMANDED
+
+Entitlement to service connection for a neck condition is remanded.
+
+Entitlement to service connection for a back condition is remanded.
+
+Entitlement to service connection for a right knee condition is remanded.
+
+Entitlement to service connection for a left knee condition is remanded.
+
+Entitlement to service connection for a right foot condition is remanded.
+
+Entitlement to service connection for a left foot condition is remanded.
+
+FINDINGS OF FACT
+
+1. Throughout the appeal period, the Veteran's right ear hearing loss has been manifested by no more than Level I hearing impairment.
+
+2. The evidence persuasively weighs against finding that the Veteran has had left ear hearing loss for VA purposes at any time during the pendency of the claim.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to an initial compensable rating for right ear hearing loss have not been met.  38 U.S.C. §§ 1155, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 4.1, 4.3, 4.7, 4.85, 4.86, Diagnostic Code 6100.
+
+2. The criteria for entitlement to service connection for left ear hearing loss have not been met.  38 U.S.C. § 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.385.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the U.S. Marine Corps from October 2017 to October 2021.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from January 2024 and February 2024 rating decisions by a Department of Veterans Affairs (VA) regional office (RO).  The Veteran timely appealed the rating decision by submitting a VA Form 10182 and requested direct review of the evidence considered by the Agency of Original Jurisdiction (AOJ) under the Veterans Appeals Improvement Modernization Act of 2017 (AMA).  Under direct review, the Board cannot hold a hearing or accept additional evidence into the record.  38 C.F.R. § 20.301 (2019).  Therefore, the Board will consider the evidence of record as of January 31, 2024, for the issues of entitlement to an earlier effective date, to increased rating for right ear hearing loss, and to service connection for left ear hearing loss and a neck condition, and as of February 12, 2024, for the issues of entitlement to service connection for back, bilateral knee, and bilateral foot conditions, the date of the notification letters for the rating decisions on appeal.  Id.
+
+1. Entitlement to an initial compensable rating for right ear hearing loss is denied.
+
+The Veteran is currently assigned an initial noncompensable rating for his service-connected right ear hearing loss.  He contends that a higher rating is warranted.
+
+Hearing impairment is evaluated pursuant to 38 C.F.R. § 4.85, Diagnostic Code 6100.  Ratings for hearing impairment are derived by a mechanical application of the rating schedule to the numeric designations assigned after audiometric evaluations are rendered.  Lendenmann v. Principi, 3 Vet. App. 345 (1992).
+
+Evaluations of defective hearing range from noncompensable to 100 percent based on organic impairment of hearing acuity as measured by the results of a controlled Maryland CNC speech discrimination test together with the average hearing threshold level measured by pure tone audiometry tests in the frequencies of 1000, 2000, 3000, and 4000 cycles per second (Hertz).  38 C.F.R. § 4.85, Diagnostic Code 6100.
+
+The rating schedule establishes eleven auditory acuity levels, designated from Level I for essentially normal hearing acuity, through Level XI for profound deafness.  38 C.F.R. § 4.85.  The horizontal rows in Table VI (in 38 C.F.R. § 4.85) represent nine categories of the percentage of discrimination based on the controlled speech discrimination test.  The vertical columns in Table VI represent nine categories of decibel loss based on the pure tone audiometry test.  The Roman numeral designation is located at the point where the percentage of speech discrimination and pure tone threshold average intersect.  See 38 C.F.R. §§ 4.85, 4.86.
+
+An exceptional pattern of hearing impairment occurs when the pure tone threshold at each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) is 55 decibels or more.  38 C.F.R. § 4.86(a).  In that situation, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral.  Further, when the average pure tone threshold is 30 decibels or less at 1000 Hertz, and 70 decibels or more at 2000 Hertz, the rating specialist will determine the Roman numeral designation for hearing impairment from either Table VI or Table VIA, whichever results in the higher numeral, and that numeral will then be elevated to the next higher numeral.  38 C.F.R. § 4.86(b).
+
+If impaired hearing is service-connected in only one ear, the law allows for compensation for hearing loss as if both ears were service-connected if the service-connected hearing loss is ratable as at least 10 percent disabling and the non-service-connected hearing loss meets the standard for a hearing loss disability for VA purposes under 38 C.F.R. § 3.385, unless the non-service-connected hearing loss is the result of the Veteran's willful misconduct.  See 38 C.F.R. § 3.383.  To determine the percentage evaluation from Table VII, the non-service-connected ear will be assigned a Roman Numeral designation for hearing impairment of I, subject to the provisions of 38 C.F.R. § 3.383. 38 C.F.R. § 4.85(f).
+
+In consideration of the evidence of record under the laws and regulations set forth above, the Board concludes that the Veteran is not entitled to a compensable evaluation for his right ear hearing loss.
+
+The Veteran underwent a VA examination in January 2024.  Puretone thresholds were as follows:
+
+	HERTZ	
+
+ 	1000	2000	3000	4000	  Avg.	  CNC
+
+RIGHT	25	20	20	40	26	  94%
+
+The pure tone threshold average was 26 decibels.  Using the Maryland CNC speech recognition test, speech audiometry results revealed a speech recognition ability score of 94 percent.  Under Table VI of 38 C.F.R. § 4.85, the score for the right ear correlate to a Roman numeral I, and as indicated above, the non-service-connected left ear will be assigned a Roman Numeral designation of Level I.  A noncompensable rating is warranted under Diagnostic Code 6100 when these auditory acuity levels are entered into Table VII of 38 C.F.R. § 4.85.  
+
+The Board has also considered the provisions of 38 C.F.R. § 4.86 governing exceptional patterns of hearing impairment.  However, the audiological reports do not demonstrate that each of the four specified frequencies (1000, 2000, 3000, and 4000 Hertz) in the Veteran's right ear is 55 decibels or more or that pure tone threshold is 30 decibels or less at 1000 Hertz and 70 decibels or more at 2000 Hertz in either ear.  Therefore, the provisions of 38 C.F.R. § 4.86 are not applicable.  See 38 C.F.R. § 4.86(a), (b).
+
+The Board expressly acknowledges its consideration of the lay evidence of record when adjudicating this claim, including the Veteran's reports of decreased hearing acuity.  The Veteran is competent to report difficulty with his hearing; however, as noted above, disability ratings for hearing loss are derived from a mechanical application of the rating schedule to the numeric designations resulting from audiometric testing.  See Lendenmann, supra.
+
+The rating criteria contemplate speech reception thresholds and ability to hear spoken words on Maryland CNC testing.  The functional impact that the Veteran describes, is contemplated by the rating criteria.  Doucette v. Shulkin, 28 Vet. App. 366 (2017).  The Veteran's main complaint is reduced hearing acuity and clarity, which is what is contemplated in the rating assigned.  See Rossy v. Shulkin, 29 Vet. App. 142, 145 (2017).  The evidence persuasively demonstrates that the Veteran's right ear hearing loss does not meet the criteria for a compensable rating under Diagnostic Code 6100, and the benefit-of-the-doubt doctrine does not apply.  38 U.S.C. § 5107; 38 C.F.R. § 3.102.  Accordingly, an increased rating is not warranted.
+
+2. Entitlement to service connection for left ear hearing loss is denied.
+
+The Veteran contends he has left ear hearing loss related to his active service. 
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).  Service connection may also be granted for any disease diagnosed after discharged, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d). 
+
+In McClain v. Nicholson, 21 Vet. App. 319, 321 (2007), the Court held that the requirement of the existence of a current disability is satisfied when a Veteran has a disability at the time, he files his claim for service connection or during the pendency of that claim, even if the disability resolves prior to adjudication of the claim.  However, in Romanowsky v. Shinseki, 26 Vet. App. 289 (2013), the Court held that when the record contains a recent diagnosis of disability prior to a Veteran filing a claim for benefits based on that disability, the report of diagnosis is relevant evidence that the Board must address in determining whether a current disability existed at the time the claim was filed or during its pendency.
+
+Service connection for impaired hearing shall only be established when hearing status as determined by audiometric testing meets specified pure tone and speech recognition criteria.  Audiometric testing measures threshold hearing levels (in decibels) over a range of frequencies (in Hertz), and the threshold for normal hearing is from 0 to 20 decibels.  Higher threshold levels indicate some degree of hearing loss.  Hensley v. Brown, 5 Vet. App. 155, 156 (1993).
+
+For the purposes of applying the laws administered by VA, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.
+
+A review of the medical evidence of record does not show that the Veteran has a current left ear hearing loss disability for VA purposes.  
+
+Audiometric testing results from a January 2024 VA examination shows normal hearing for VA purposes under the provisions of 38 C.F.R. § 3.385.  Specifically, the pure tone thresholds, in decibels, were as follows:
+
+		 	HERTZ	 	
+
+ 	500	1000	2000	3000	4000
+
+LEFT	25	25	15	20	30
+
+The audiometric testing results did not show an auditory threshold of 40 decibels or higher at any of the above-referenced frequencies or auditory thresholds of 26 decibels or greater for at least three of the above-referenced frequencies in the left ear.  Additionally, the reported Maryland CNC Test score of 94 percent does not meet the VA definition of a hearing loss disability.  
+
+As evidence during the claim period reflects that the Veteran has not met the criteria for a hearing loss disability, the current disability requirement has not been met.  Moreover, neither the Veteran nor his representative has asserted that the January 2024 VA examination was inadequate.  
+
+The Board notes that, although the Veteran has never asserted hearing loss other than filing a claim, he is competent to say that he has decreased hearing in both ears.  However, hearing loss for VA compensation purposes must be established by audiometric and/or speech recognition scores.  The Board in no way calls into question the Veteran's own observation of diminished hearing acuity, but the Board is unable to find at this time that the Veteran's left ear hearing loss is of such severity to qualify as a disability for VA purposes, as defined by regulation.
+
+The Board is grateful for the Veteran's honorable service, and this decision is not meant to detract from that service.  However, the Board finds that the claim of entitlement to service connection for left ear hearing loss must be denied.  In reaching this conclusion, the Board has considered the applicability of the benefit-of-the-doubt doctrine.  As the evidence is persuasively against the Veteran's claim of entitlement to service connection, that doctrine is not applicable.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+REASONS FOR REMAND
+
+3. Entitlement to service connection for a neck condition is remanded.
+
+The Board notes that the Veteran has not been afforded a VA examination with respect to his current claim of service connection for a neck condition.  VA's duty to assist includes providing a medical examination when it is necessary to decide a claim.  38 U.S.C. § 5103A(d); 38 C.F.R. § 3.159.  Such development is necessary if the information and evidence of record does not contain sufficient competent medical evidence to decide the claim, but (1) contains competent evidence of diagnosed disability or symptoms of disability, (2) establishes that the Veteran suffered an event, injury or disease in service, or has a presumptive disease during the pertinent presumptive period, and (3) indicates that the claimed disability may be associated with the in-service event, injury, or disease, or with another service-connected disability.  38 C.F.R. § 3.159(c)(4); McLendon v. Nicholson, 20 Vet. App. 79, 83-86 (2006).  
+
+Here, the Veteran contends he injured his neck while in service.  The Veteran's August 2021 separation report of medical history report reflects that he had multiple aches and pain in joints and back due to occupational hazards of infantry and that most were self-treated.  There is insufficient information for the Board to adjudicate the claim.  Moreover, in the January 2024 rating decision that denied the Veteran's claim, the analysis provided by the RO pertained to an erectile disorder and not a neck condition.  Given that the AOJ failed to schedule a VA examination for the Veteran, and this was prior to the decision on the claim, the Board finds that this is a pre-decisional duty to assist error warranting remand under the AMA and implementing regulations.  38 C.F.R. § 20.802(a).  Accordingly, remand for an examination and etiology opinion is warranted.  See McLendon, 20 Vet. App. at 83-86; Locklear v. Nicholson, 20 Vet. App. 410 (2006).  
+
+4. Entitlement to service connection for a back condition is remanded.
+
+5. Entitlement to service connection for a right knee condition is remanded.
+
+6. Entitlement to service connection for a left knee condition is remanded.
+
+7. Entitlement to service connection for a right foot condition is remanded.
+
+8. Entitlement to service connection for a left foot condition is remanded.
+
+Review of the claims file indicates that the RO attempted to schedule the Veteran for VA examinations pertaining to his back, bilateral knee, and bilateral feet conditions in January and February 2024.  See January 2024 Exam Request; January 2024 Exam Request; January 2024 Exam Request; February 2024 Exam Request; February 2024 Exam Request; February 2024 Exam Request.  The cancellation notations all show that the "Veteran relocated."  However, it is unclear if the RO attempted to reschedule the VA examinations at the Veteran's new location.  It is also unclear why the cancellation reason would be relocation as the Veteran appeared for his hearing loss VA examination in January 2024. 
+
+Because there is no documentation in the claims file demonstrating that the Veteran was informed of the location, date, and time of any of the examinations, a remand is necessary to provide the Veteran with proper notice and an opportunity to appear for his examinations in an effort to ensure compliance with VA's duty to assist.  See Hyson v. Brown, 5?Vet. App.?262, 265 (1993) (VA has the burden to demonstrate that notice was sent to the claimant's last address of record); see also 38?C.F.R. §?3.1(q) ("Notice means written notice sent to a claimant or payee at his or her latest address of record.").  
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for a VA examination with an appropriate examiner to determine the nature and etiology of his neck condition.  The claims file should be made available to the examiner for review in connection with the examination. 
+
+Based on review of the record and an examination of the Veteran, the examiner should respond to the following: 
+
+(a.) Obtain a detailed history of the Veteran's neck condition and identify any currently diagnosable condition associated with the Veteran's neck condition.  
+
+(b.) For each diagnosed condition, determine whether it is at least as likely as not that the Veteran's neck condition had its onset in or is related to service.   
+
+The examiner must provide the rationale for all proffered opinions.  If the examiner is unable to provide any required opinion, he or she should explain why.  If the examiner cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation as to why this is so.  If the inability to provide a more definitive opinion is the result of a need for additional information, the examiner should identify the additional information that is needed.
+
+2. Schedule the Veteran for a VA examination with an appropriate examiner to determine the nature and etiology of his back condition.  The claims file should be made available to the examiner for review in connection with the examination. 
+
+Based on review of the record and an examination of the Veteran, the examiner should respond to the following: 
+
+(a.) Obtain a detailed history of the Veteran's back condition, to include any symptomatology. 
+
+(b.) Determine whether it is at least as likely as not that the Veteran's back condition had its onset in or is related to service, to include CONCEDED in-service incurrence.  See February 2024 Rating Decision - Narrative (recognizing a November 2018 STR showing that the Veteran was seen after a motor vehicle accident with complaints of back pain). 
+
+The examiner must provide the rationale for all proffered opinions.  If the examiner is unable to provide any required opinion, he or she should explain why.  If the examiner cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation as to why this is so.  If the inability to provide a more definitive opinion is the result of a need for additional information, the examiner should identify the additional information that is needed.
+
+3. Schedule the Veteran for a VA examination with an appropriate examiner to determine the nature and etiology of his bilateral knee conditions.  The claims file should be made available to the examiner for review in connection with the examination. 
+
+Based on review of the record and an examination of the Veteran, the examiner should respond to the following: 
+
+(a.) Obtain a detailed history of the Veteran's bilateral knee conditions, to include any symptomatology. 
+
+(b.) Determine whether it is at least as likely as not that the Veteran's bilateral knee conditions had their onset in or are related to service, to include CONCEDED in-service incurrence.  See February 2024 Rating Decision - Narrative (recognizing a November 2018 STR showing that the Veteran was seen after a motor vehicle accident).
+
+The examiner must provide the rationale for all proffered opinions.  If the examiner is unable to provide any required opinion, he or she should explain why.  If the examiner cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation as to why this is so.  If the inability to provide a more definitive opinion is the result of a need for additional information, the examiner should identify the additional information that is needed.
+
+4. Schedule the Veteran for a VA examination with an appropriate examiner to determine the nature and etiology of his bilateral foot conditions.  The claims file should be made available to the examiner for review in connection with the examination. 
+
+Based on review of the record and an examination of the Veteran, the examiner should respond to the following: 
+
+(a.) Obtain a detailed history of the Veteran's bilateral foot conditions, to include any symptomatology. 
+
+(b.) Determine whether it is at least as likely as not that the Veteran's bilateral foot conditions had their onset in or are related to service, to include CONCEDED in-service incurrence.  See February 2024 Rating Decision - Narrative.  The examiner should also address the Veteran's STRs that show a January 2020 notation of injury to the right foot while playing soccer. 
+
+The examiner must provide the rationale for all proffered opinions.  If the examiner is unable to provide any required opinion, he or she should explain why.  If the examiner cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation as to why this is so.  If the inability to provide a more definitive opinion is the result of a need for additional information, the examiner should identify the additional information that is needed.
+
+ 
+
+ 
+
+A. S. CARACCIOLO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T. L. Park, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

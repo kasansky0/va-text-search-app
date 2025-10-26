@@ -1,0 +1,137 @@
+Citation Nr: A25034582
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240711-455760
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is denied.
+
+REMANDED
+
+Entitlement to service connection for lumbosacral strain is remanded.
+
+Entitlement to service connection for bilateral knee condition is remanded.
+
+FINDING OF FACT
+
+The evidence does not show that the Veteran has a bilateral hearing loss disability for Department of Veterans Affairs (VA) purposes. 
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for bilateral hearing loss are not met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.103, 3.303, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Marine Corps from October 1993 to October 1997. 
+
+These issues come before the Board of Veterans' Appeals (Board) on appeal from a January 2024 Rating Decision, issued by a VA regional office, which is the agency of original jurisdiction (AOJ). 
+
+In the July 2024 Notice of Disagreement, the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the January 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claims of entitlement to service connection for lumbosacral strain and entitlement to service connection for bilateral knee conditions, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R.  § 3.103(c)(2)(ii).
+
+ 
+
+1. Entitlement to service connection for bilateral hearing loss.
+
+The Veteran is seeking service connection for bilateral hearing loss. See July 2024 Fully Developed Claim. 
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+For purposes of applying the laws administered by VA, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent. 38 C.F.R. § 3.385. The threshold for normal hearing is between 0 and 20 decibels and that higher thresholds show some degree of hearing loss. Hensley v. Brown, 5 Vet. App. 155, 157 (1993). Evidence of a current hearing loss disability and a medically sound basis for attributing such disability to service may serve as a basis for a grant of service connection for hearing loss. Id.
+
+The Veteran was afforded a VA examination in January 2024. His puretone thresholds were as follows: 
+
+	HERTZ
+
+ 	500	1000	2000	3000	4000	CNC
+
+RIGHT	15	15	15	15	19	96
+
+LEFT	20	25	20	25	20	94
+
+Based on the January 2024 VA examination, the Veteran's puretone thresholds did not meet the legal standard for hearing loss pursuant to VA regulations because none of his puretone thresholds were 40 decibels or greater in any frequency from 500 to 4000 HZ. Alternatively, his puretone thresholds were not 26 or greater in at least three frequencies from 500 to 4000 Hz, nor were his speech recognition scores less than 94 percent. See 38 C.F.R. § 3.385. 
+
+The Board finds the January 2024 Va examination most probative because the examiner is a medical professional, considered the record and conducted a detailed examination to determine if the Veteran had hearing loss for VA purposes. See Nieves-Rodriguez, 22 Vet. App. at 300 (2008).
+
+Based on the evidence of record, the Veteran does not have a current diagnosis of hearing loss in either ear and has not had one at any time during the pendency of the claim or recent to the filing of the claim. Romanowsky v. Shinseki, 26 Vet. App. 289, 294 (2013); McClain v. Nicholson, 21 Vet. App. 319, 321 (2007). Without evidence of a current disability, the claim for service connection for hearing loss must be denied. 38 C.F.R. § 3.303 (a); Degmetich v. Brown, 104 F.3d 1328 (Fed. Cir. 1997).
+
+Based on the foregoing, including the most probative evidence, the January 2024 VA examination report, the Board finds the evidence persuasively weighs against the claim as the Veteran does not have a current diagnosis of right or left ear hearing loss and the benefit-of-the-doubt doctrine is not for application. Accordingly, the Board finds that the Veteran does not have a current hearing loss disability for VA purposes and therefore, service connection for bilateral hearing loss is not warranted. 38 U.S.C. § 5107 (b).
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for lumbosacral strain.
+
+The Veteran contends his lumbosacral strain disability is related to his active service. See July 2023 Fully Developed Claim. The AOJ found favorably that the Veteran has confirmed diagnosis of lumbosacral strain and a qualifying event, injury or disease in service from a motor vehicle accident. See January 2024 Rating Decision. The Board is bound by these favorable findings. 38 C.F.R. § 3.104(c). Therefore, the remaining question before the Board is whether there exists a causal relationship between the current disability and the in-service disease or injury. 
+
+The Veteran was afforded a VA medical opinion in December 2023 regarding his lumbosacral strain. The VA examiner opined that the claimed condition was less likely than not incurred in or caused by the claimed in-service injury, event, or illness. The rationale provided by the examiner was that there was no chronic complaints or treatments for the Veteran's back pain from the 1995 accident and onward, that the Veteran was managed for his lower back pain, and that the Veteran stayed active until 1997. 
+
+The Board finds the December 2023 VA examination to be inadequate for rating purposes. The opinion consists of a conclusory statement without a thorough medical analysis to support the conclusion. Although the examiner documented the history of the Veteran's accident, injury, and treatment they failed to provide the medical principles used in their analysis, medical studies or treaties supporting their conclusion, alternative etiologies of the conditions, or the symptomatology statement from the Veteran indicating he has had lower back pain since 2000 in the medical analysis of whether the current claimed condition is related to his military service. It appears the examiner impermissibly dismissed the Veteran's reported history regarding low back pain solely because it was not documented in contemporaneous treatment records.  The Board must be able to conclude that a medical expert has applied valid medical analysis to the significant facts of the case to reach the conclusion submitted in the medical opinion. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008). 
+
+An adequate VA examination is required to satisfy the AOJ's pre-decisional duty to assist error. 38 U.S.C. § 5103A.
+
+ 
+
+2. Entitlement to service connection for bilateral knee condition.
+
+The Veteran contends he has bilateral knee conditions and it is due to his service. See July 2023 Fully Developed Claim. 
+
+The first question before the Board is whether the Veteran has a current disability based on the evidence of record at the time of the January 2024 AOJ Rating Decision that denied service connection for bilateral knee conditions. See 38 C.F.R. §§ 20.300(a), 20.301.
+
+The Veteran, as a lay person, is competent to report lay-observable symptoms and functional loss because this requires only personal knowledge, not medical expertise, as it comes to him through his senses. Layno v. Brown, 6 Vet. App. 465, 467-69(1994). Bilateral knee pain is capable of lay observation by the Veteran. 
+
+Turning to the next element of service connection, the Board looks to whether there was an in-service incurrence of an injury. 
+
+The AOJ found favorably that the evidence shows a qualifying event, injury, or disease as the Veteran's service records confirm a motor vehicle accident with abrasions to the bilateral knees in August 1995. See January 2024 Rating Decision. The Board is bound by this favorable finding. 38 C.F.R. § 3.104(c). As such, the second element of service connection is satisfied.  Moreover, the Veteran contends that his duties as a helicopter mechanic in the military damaged his knees.
+
+Therefore, the Board turns to the final element of service connection, whether there exists a causal relationship between the current disability and the in-service disease or injury. Currently, there is no medical examination by the VA or privately obtained that contains competent medical evidence concerning a potential nexus between the Veteran's claimed condition and his military service. 
+
+The VA must provide an examination and/or medical opinion when there is: (1) competent evidence of a current disability or persistent or recurrent symptoms of a disability; (2) evidence establishing that an event, injury, or disease occurred in service or establishing certain diseases manifesting during an applicable presumptive period for which the claimant qualifies; (3) an indication that the disability or persistent or recurrent symptoms of a disability may be associated with the Veteran's service or with another service-connected disability; and (4) there is insufficient competent medical evidence on file for the VA to make a decision on the claim. McLendon v. Nicholson, 20 Vet. App. 79 (2006). Here, there is competent evidence of a current disability, a qualifying in-service event and injuries, and an indication that the two may be related. However, there is insufficient competent medical evidence on file for the Board to make a decision on the claim without a medical opinion addressing whether a nexus exists. 
+
+As such, in light of McLendon, a remand is necessary to that the AOJ can schedule a VA medical examination and opinion addressing whether the Veteran's current bilateral knee conditions are related to his military service. 
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion from an appropriate VA examiner to establish the etiology of the Veteran's lumbosacral strain.  Only schedule the Veteran for an examination if deemed necessary by the clinician asked to provide the opinion.
+
+The examiner must address whether any current lumbosacral disability, to include lumbosacral strain, is at least as likely as not related to the Veteran's military service, to include a motor vehicle accident and the nature of the Veteran's in-service duties as a helicopter mechanic.
+
+The examiner must carefully consider the Veteran's lay statements regarding symptoms capable of lay observation, such as back pain, and may not dismiss such statements solely because they are not documented in contemporaneous treatment records.
+
+The examiner must not rely on silence in the medical records unless it can be explained: (a) why the silence in the available records can be taken as proof that the symptom(s) did not occur, including why the fact would have normally been recorded if present, or (b) why the absence of medical records is medically significant.
+
+The Veteran is competent to attest to factual matters of which the Veteran has first-hand knowledge, including observable symptomatology. If there is a medical basis to support or doubt the history provided by the Veteran, the medical professional should provide a fully reasoned explanation
+
+There must be a rationale articulated to support the opinion provided by the clinician.
+
+2. Schedule the Veteran for a VA examination and medical opinion for his bilateral knee conditions.
+
+The examiner must opine as to whether it is at least as likely as not that any current left and/or right knee disability is related to the Veteran's military service, to include a motor vehicle accident (where abrasions to the bilateral knees were documented) and the nature of the Veteran's duties as a helicopter mechanic. 
+
+The examiner must review the claims file and the examination report should reflect that such review occurred. 
+
+The examiners must not rely on silence in the medical records unless it can be explained: (a) why the silence in the available records can be taken as proof that the symptom(s) did not occur, including why the fact would have normally been recorded if present, or (b) why the absence of medical records is medically significant.
+
+The Veteran is competent to attest to factual matters of which the Veteran has first-hand knowledge, including observable symptomatology. If there is a medical basis to support or doubt the history provided by the Veteran, the medical professional should provide a fully reasoned explanation.
+
+There must be a rationale articulated to support the opinion provided by the clinician.
+
+ 
+
+ 
+
+M. HYLAND
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Pulaski, Michael F.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

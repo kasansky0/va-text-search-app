@@ -1,0 +1,83 @@
+Citation Nr: A25034604
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 210715-172615
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disability, to include persistent depressive disorder, somatic symptom disorder, and posttraumatic stress disorder (PTSD), is granted.
+
+FINDING OF FACT
+
+The Veteran's acquired psychiatric disability is proximately due to his service-connected disabilities.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for an acquired psychiatric disability, to include persistent depressive disorder, somatic symptom disorder, and posttraumatic stress disorder (PTSD), have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310. 
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from January 1994 to July 1999.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a May 2021 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).   Therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the July 2021 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Evidence Submission docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the May 2021 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran or his representative with, or within 90 days from receipt of, the VA Form 10182.  38 C.F.R. § 20.303.  If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the date the Board received the VA Form 10182, or (2) more than 90 days following the date the Board received the VA Form 10182, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.303, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection
+
+Service connection may be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred or aggravated in active military service.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).  In general, service connection requires competent and credible evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the current disability.  See Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+Additionally, service connection may be granted, on a secondary basis, for a disability which is proximately due to or the result of an established service-connected disorder.  38 C.F.R. § 3.310.  Similarly, any increase in severity of a non-service-connected disease or injury that is proximately due to or the result of a service-connected disease or injury, and not due to the natural progress of the non-service-connected disease, will be service-connected.  Allen v. Brown, 7 Vet. App. 439 (1995).  In the latter instance, the non-service-connected disease or injury is said to have been aggravated by the service-connected disease or injury.  38 C.F.R. § 3.310.  In cases of aggravation of a veteran's non-service-connected disability by a service-connected disability, the veteran shall be compensated for the degree of disability over and above the degree of disability existing prior to the aggravation.  38 C.F.R. § 3.322. 
+
+Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d). 
+
+Service connection is not allowed for a congenital defect or for aggravation of a congenital defect as congenital defects are not considered to be injuries or diseases within the meaning of the statue.  38 C.F.R. § 3.303(c).  However, service connection is possible if a disease or injury is superimposed over the congenital or developmental defect during service and there is a resultant disability.  See Jensen v. Brown, 4 Vet. App. 304, 306-307 (1993), citing Hunt v. Derwinski, 1 Vet. App. 292 (1991); VAOPGCPREC 82-90. 
+
+"Congenital defects" are treated differently than "congenital diseases" in the context of VA disability compensation.  A defect differs from a disease in that the former is "more or less stationary in nature" while the latter is "capable of improving or deteriorating."  See Quirin v. Shinseki, 22 Vet. App. 390, 394 (2009); VA Gen. Couns. Prec. 82-90 at 2.  More importantly "congenital defects" are excluded from the list of qualified diseases or injuries.  Therefore, VA disability compensation may only be awarded in the event that an additional, service-connected disability is superimposed upon a congenital defect.  Id.  In contrast, "congenital diseases" are directly compensable and VA disability compensation may be awarded if a congenital disease is aggravated by a claimant's military service.  Id.
+
+Under VA regulations, personality disorders are considered defects, and not "diseases or injuries" within the meaning of applicable legislation for VA disability compensation purposes.  Congenital or developmental "defects," such as personality disorders, automatically rebut the presumption of soundness and are considered to have preexisted service.  38 C.F.R. § 3.303(c); Morris v. Shinseki, 678 F.3d 1346, 1351 (Fed. Cir. 2012) (a personality disorder is not the type of disease- or injury-related defect to which the presumption of soundness applies).  Winn v. Brown, 8 Vet. App. 510, 516 (1996) (holding that a personality disorder is not the type of disease or injury related defect to which the presumption of soundness can apply); see also Quirin v. Shinseki, 22 Vet. App. 390, 397 (2009) (holding that the presumption of soundness does not apply to congenital defects). 
+
+38 C.F.R. § 4.127 provides that disability resulting from a mental disorder that is superimposed upon a personality disorder may be service connected.  See VAOPGCPREC 82-90 (noting that congenital and developmental defects can be subject to superimposed disease or injury such that service connection may be granted where the superimposed disease or injury occurs during service). Therefore, although 38 C.F.R. § §§ 3.303(c), 4.9, and 4.127 prohibit any grant of service connection for a personality disorder, even if aggravated in service, a diagnosed psychiatric disorder may provide a basis for service connection if the evidence demonstrates the psychiatric disorder was superimposed upon a Veteran's diagnosed personality disorder during service.   
+
+Entitlement to service connection for an acquired psychiatric disability, to include persistent depressive disorder, somatic symptom disorder, and posttraumatic stress disorder (PTSD), is granted.
+
+The Veteran seeks service connection for an acquired psychiatric disability, to include depression, anxiety, and posttraumatic stress disorder (PTSD).  The Veteran has reported a history of recurrent depressive episodes and insomnia beginning in service, as well as a history of anxiety and poor anger control.  He described chronic pain and functional limitation associated with his service-connected disabilities.  He has also described a number of distressing incidents in service, to include a physical assault he believes was racially motivated, coming under fire while deployed in Bosnia, witnessing civilian injuries while deployed in Egypt, witnessing another soldier suffer a heart attack, and finding out that two soldiers from his base were killed in a bombing in Israel.  See Psychological Evaluation by Dr. W.E.E. (December 14, 2020).
+
+Throughout the rating period on appeal, the Veteran has been assessed with a personality disorder, PTSD, anxiety, and depression.  The Veteran's service-treatment records reveal that he reported depression or excessive worry in February 1999.  He attempted suicide in January 1999.  He was ultimately discharged from the military due to a personality disorder.
+
+A VA examination was performed in July 2019, at which time the Veteran was assessed with antisocial personality disorder.  The examiner found that the Veteran's history of antisocial behavior, including drug abuse and legal problems, were consistent with his diagnosis of antisocial personality disorder and not anxiety or depression.  See C&P Exam, September 2019.  However, the examiner failed to acknowledge or discuss the Veteran's diagnosis of PTSD.  Moreover, although a personality disorder is a congenital or developmental defect, which is not a disease for disability compensation purposes, the Veteran may be awarded service connection for an acquired psychiatric disability that was superimposed on the personality disorder during service.  See 38 C.F.R. §§3.303(c), 4.9.
+
+In May 2021, a VA examiner found that the Veteran's sole psychiatric disability is Other Specified Personality Disorder and opined "Veteran's currently diagnosed Other Specified Personality Disorder, with mixed features (antisocial and borderline) less likely had its onset in or is otherwise etiologically related to his period of active service."
+
+She explained: 
+
+There are a number of diagnoses listed in his treatment records for symptoms, which include PTSD, Anxiety Disorder, and Depressive Disorder; however, he comes to treatment when he is experiencing situational stressors.  His personality disorder results in difficulty coping with stressors and results in a pervasive pattern of instability of interpersonal relationships, affect, marked impulsivity, irritability, aggressiveness, and disregard for and violation of the rights of others.  All of his symptoms are explained by the single diagnosis of Other Specified Personality Disorder, with mixed features (antisocial and borderline).  There is no evidence that any acquired psychiatric disability was superimposed during service on the personality disorder.  Rather his mental health symptoms are best explained by his    pre-existing personality disorder and exacerbated by his history of substance abuse, poor decisions, and situational stressors.  See C&P Exam, May 2021.
+
+The evidence in favor of the claim includes a December 2020 private psychological evaluation and opinion from Dr. W.E.E.  Dr. W.E.E. diagnosed the Veteran with persistent depressive disorder, somatic symptom disorder, and PTSD, with schizoid and schizotypal personality traits.  He concluded that the Veteran's clinical symptoms are consistent with DSM-V criteria and his reported history of mood instability, chronic pain, and memory deficits are more likely than not directly related to injuries he reportedly sustained during his military service.
+
+Upon review of the record, the Board finds the evidence to at least be in equipoise as to whether the Veteran's current persistent depressive disorder, somatic symptoms disorder, and PTSD are proximately due to his active service, to include as secondary to his service-connected disabilities, as well as whether these conditions were superimposed on any preexisting personality disorder.  
+
+(Continued on the next page)
+
+?
+
+Accordingly, after resolving all doubt in favor of the Veteran, the Board finds that service connection for an acquired psychiatric disability, to include persistent depressive disorder, somatic symptoms disorder, and PTSD, is warranted.  38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+Frederic P. Gallun
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. D. Anderson, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,131 @@
+Citation Nr: A25030047
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240612-448047
+DATE: April 1, 2025
+
+ORDER
+
+Entitlement to an initial 20 percent evaluation, but no greater, for dry eye syndrome is granted.
+
+Entitlement to an initial disability evaluation in excess of 10 percent for residuals, right ankle fracture is denied.
+
+Entitlement to an initial compensable evaluation for headaches is denied.
+
+REMANDED
+
+Entitlement to an initial compensable evaluation for herpes simplex myelitis zoster is remanded.
+
+FINDINGS OF FACT
+
+1. Throughout the entire appeal period, the Veteran's bilateral dry eye syndrome exhibited symptoms comparable to a bilateral disorder of the lacrimal apparatus.
+
+2. The Veteran's right ankle disability is manifested by no more than moderate limited motion of the ankle.
+
+3. Common headaches have not manifested by characteristic prostrating attacks.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for an initial 20 percent rating, but no higher, for bilateral dry eye syndrome are met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.102, 4.1, 4.3, 4.7, 4.75-4.78, 4.79, Diagnostic Code 6099-6025.
+
+2. The criteria for entitlement to an initial disability evaluation in excess of 10 percent for residuals, right ankle fracture, are not met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.40, 4.45, 4.59, 4.71a, Diagnostic Code 5271.
+
+3. The criteria for entitlement to an initial compensable evaluation for headaches are not met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.321, 4.20, 4.124a, Diagnostic Code 8199-8100.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from August 2012 to September 2023.
+
+The rating decisions on appeal were issued in September 2023 (right ankle, headaches), January 2024 (dry eye), and February 2024 (herpes). 
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decisions on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board notes that the Veteran also listed the November 2023 rating decision (herpes of the left eye) on his VA Form 10182.  However, as this issue is duplicative of the issue readjudicated in the February 2024 rating decision, the Board will view the matter as being on appeal from the February 2024 rating decision. 
+
+Entitlement to an initial compensable evaluation for dry eye syndrome. 
+
+The Veteran filed his claim prior to separation and was awarded service connection for dry eye syndrome effective the day following discharge, September 19, 2023.  Thus, this marks the beginning of the period on appeal.  38 C.F.R. § 3.400.
+
+The Veteran seeks a compensable evaluation for his dry eye syndrome.  The AOJ has assigned a noncompensable evaluation for bilateral dry eye under 38 C.F.R. § 4.79, Diagnostic Code 6099-6025, by analogy.  This diagnostic code provides for evaluation of disorder of the lacrimal apparatus.  
+
+Dry eye syndrome is not a disorder specifically listed in the rating schedule and, therefore, should be rated by analogy to a closely related disease or injury. 38 C.F.R. §§ 4.20, 4.27.  Chronic conjunctivitis (Diagnostic Code 6018) and disorders of the lacrimal apparatus (Diagnostic Code 6025) have symptoms such as watering of the eyes, redness, and eye discharge, which most closely relate to the Veteran's dry eye syndrome symptoms.  Of the relevant diagnostic codes, the Board finds that Diagnostic Code 6025 is most appropriate because the evidence indicates that the Veteran's dry eye syndrome is pathologically related to impairment of the lacrimal apparatus.  The Board notes that the Court has held that the selection of a particular Diagnostic Code "is a determination that is completely dependent upon the facts of a particular case," and the Board has discretion in determining the appropriate diagnostic code.  Butts v. Brown, 5 Vet. App. 532, 538 (1993) (applying the more deferential "arbitrary, capricious" standard, rather than de novo review, to the Board's determination of the appropriate Diagnostic Code).  Accordingly, the Veteran's bilateral dry eye syndrome will be rated under 38 C.F.R. § 4.79, Diagnostic Code 6099-6025, by analogy to a disorder of the lacrimal apparatus.  38 C.F.R. §§ 4.20, 4,27; Lendermann v. Principi, 3 Vet. App. 345 (1992).
+
+Under Diagnostic Code 6025, a 10 percent rating is warranted if the disorder of the lacrimal apparatus is unilateral, and a maximum 20 percent rating is warranted if the disability is bilateral.  38 C.F.R. § 4.79, Diagnostic Code 6025.  The parts of the lacrimal apparatus identified in Diagnostic Code 6025 (epiphora and dacryocystitis) are not an exclusive list, and the lacrimal apparatus is defined as "the system concerned with the secretion and circulation of tears and the normal fluid of the conjunctival sac; it consists of the lacrimal gland and ducts, and associated structures."  Dorland's Illustrated Medical Dictionary, 120 (31st Ed. 2007).
+
+Upon review of the evidence of record, the Board finds that an initial 20 percent rating, but no higher, is warranted for the Veteran's bilateral dry eye syndrome under Diagnostic Code 6025.  Specifically, the Veteran experiences itchy, watery, red, and irritated eyes because of his bilateral dry eye syndrome, treated with over-the-counter eye drops.  In light of the Veteran's documented bilateral dry eye syndrome symptoms and treatment, the definition of the "lacrimal apparatus" set forth above, and resolving reasonable doubt in the Veteran's favor, the Board finds that, under Diagnostic Code 6099-6025, an initial 20 percent rating, but no higher, is warranted for bilateral dry eye syndrome.  This is the maximum schedular rating under Diagnostic Code 6025.
+
+Entitlement to an initial disability evaluation in excess of 10 percent for residuals, right ankle fracture.
+
+The Veteran filed for VA benefits prior to discharge and was awarded service connection for residuals, right ankle fracture, effective the day following discharge, September 19, 2023.  Thus, this marks the beginning of the period on appeal.  38 C.F.R. § 3.400.
+
+Effective February 7, 2021, VA amended the rating criteria for Diagnostic Code 5271.  85 Fed. Reg. 76,453 (Nov. 30, 2020).  Under the new criteria, a 10 percent rating is warranted for moderate limited motion of the ankle (less than 15 degrees dorsiflexion or less than 30 degrees plantar flexion.)  A 20 percent rating is warranted for marked limited motion of the ankle (less than 5 degrees dorsiflexion or less than 10 degrees plantar flexion.)  
+
+When evaluating musculoskeletal disabilities based on limitation of motion, 38 C.F.R. § 4.40 requires consideration of functional loss caused by pain or other factors listed in that section that could occur during flare-ups or after repeated use and, therefore, not be reflected on range-of-motion testing.  38 C.F.R. § 4.45 requires consideration also be given to less movement than normal, more movement than normal, weakened movement, excess fatigability, incoordination, and pain on movement.  See DeLuca v. Brown, 8 Vet. App. 202 (1995); see also Mitchell v. Shinseki, 25 Vet. App. 32, 44 (2011).  Nonetheless, even when the factors listed in § 4.40 or 4.45 are relevant when evaluating a disability, the rating is assigned based on the extent to which motion is limited, pursuant to 38 C.F.R. § 4.71a; a separate or higher rating under § 4.40 or 4.45 itself is not appropriate.  See Thompson v. McDonald, 815 F.3d 781, 785 (Fed. Cir. 2016) ("[I]t is clear that the guidance of § 4.40 is intended to be used in understanding the nature of the veteran's disability, after which a rating is determined based on the § 4.71a criteria.").
+
+Under 38 C.F.R. § 4.59, painful motion is a factor to be considered with any form of arthritis; however, 38 C.F.R. § 4.59 is not limited to disabilities involving arthritis.  See Burton v. Shinseki, 25 Vet. App. 1 (2011).
+
+In Correia v. McDonald, 28 Vet. App. 158 (2016), the Court held that the final sentence of 38 C.F.R. § 4.59 requires that the examiner record the results of range of motion testing "for pain on both active and passive motion [and] in weight-bearing and non-weight-bearing and, if possible, with range of motion measurements of the opposite undamaged joint."  
+
+In Sharp v. Shulkin, 29 Vet. App. 26 (2017), the Court held that VA examiners must obtain information about the severity, frequency, duration, precipitating and alleviating factors, and extent of functional impairment of flares from the veterans themselves, when a flare-up is not observable at the time of examination.
+
+The Veteran was provided a VA examination in June 2023.  At that time, he reported difficulty with prolonged standing, walking, climbing stairs, and stepping on the gas pedal.  He reported treatment with ibuprofen and meloxicam.  He reported flare-ups five to six days per week, lasting hours, which he characterized as manifesting with severe pain.  He stated alleviating factors during flare ups included rest and ibuprofen.  He denied instability of the right ankle.  Active and passive ranges of motion were normal and identical, with plantar flexion to 45 degrees and dorsiflexion to 20 degrees, albeit with pain in weight-bearing that did not result in functional loss.   Range of motion of the left ankle was identical and the left ankle was undamaged.  However, on flare-ups, the examiner concluded that plantar flexion would be limited to 25 degrees and dorsiflexion would be limited to 10 degrees on the right.  There was no muscle atrophy or ankylosis.  The joint was stable.  There was not functional impairment of the lower extremity such that no effective function remains other than that which would be equally well served by an amputation with prosthesis.
+
+The Board finds that the evidence of record persuasively weighs against a rating in excess of 10 percent for the right ankle disability because dorsiflexion measured 10 degrees and plantar flexion measured 25 degrees.  Thus, these measurements do not meet or approximate the criteria corresponding to a higher 20 percent rating.  The Board acknowledges the Veteran's lay reports of symptoms and that there was functional loss due to pain, and pain during flare-ups.  However, even considering the Veteran's lay reports of symptoms and functional loss, the degree of additional limitation reflected by the statements that he has flare-ups of the ankle most days would not result in symptoms more nearly approximating marked limited motion of the ankle (less than 5 degrees dorsiflexion or less than 10 degrees plantar flexion.)  Notably, range of motion is limited at most during flare-ups and the assigned evaluation thus addresses the full severity of the right ankle disability.
+
+The Board has considered whether any other Diagnostic Codes related to disabilities of the ankle would provide for a higher disability rating.  However, the evidence does not reflect that the symptoms would warrant a higher rating under a different Diagnostic Code.  See 38 C.F.R. § 4.71a.  Ankylosis has not been shown.  
+
+In reaching this determination, the Board acknowledges that VA is required "to discount beneficial medication effects when relevant rating criteria do not specifically contemplate medication use," Ingram v. Collins, __ Vet. App. __, No. 23-1798, 2025 U.S. App. Vet. Claims LEXIS 327, *1 (Mar. 12, 2025).  The Veteran has reported treatment with ibuprofen and meloxicam.  Here, there is no indication that the examiner considered the ameliorative effects of medication in rendering the findings in the report nor did the examiner indicate the Veteran was on any pain medications at the time of the examination. The Board finds the report adequate to base a decision.
+
+In conclusion, the Board finds that the evidence of record persuasively weighs against the Veteran's appeal for a rating in excess of 10 percent for a right ankle disability.  As the evidence of record persuasively weighs against a rating in excess of 10 percent, the benefit-of-the-doubt rule does not apply.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+Entitlement to an initial compensable evaluation for headaches.
+
+The Veteran filed for VA benefits prior to discharge and was awarded service connection headaches, effective the day following discharge, September 19, 2023.  Thus, this marks the beginning of the period on appeal.  38 C.F.R. § 3.400.
+
+The veteran's service-connected common headaches are evaluated analogously under criteria in the rating schedule for evaluating the degree of disability resulting from migraine headaches.  38 C.F.R. § 4.124a, Diagnostic Code 8199-8100.  When a condition is encountered that is not listed in the rating schedule, it is permissible to rate it under a closely related disease or injury in which not only the functions affected, but the anatomical localization and symptomatology are closely analogous.  38 C.F.R. § 4.20.  In this case, the criteria for evaluating migraine headaches are appropriate to rate the veteran's recurring headaches because the symptomatology associated with it includes occasional headaches.  See Pernorio v. Derwinski, 2 Vet. App. 625 (1992).
+
+Diagnostic Code 8100 provides successive rating criteria for evaluating migraine headaches.  Johnson v. Wilkie, 30 Vet. App. 245, 247 (2018).  Migraine headaches with less frequent attacks than the criteria for a 10 percent rating are rated as noncompensably (zero percent) disabling.  Migraine headaches with characteristic prostrating attacks averaging one in two months over the last several months are rated 10 percent disabling.  Migraine headaches with characteristic prostrating attacks occurring on an average of once per month over the last several months are rated as 30 percent disabling.  Migraine headaches with very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability are rated as 50 percent disabling.  38 C.F.R. § 4.124a.
+
+The Board finds that the veteran is not entitled to a compensable evaluation for his recurring headaches.  The June 2023 VA examination shows that the Veteran experiences headaches that do not manifest by characteristic prostrating attacks.  Diagnostic Code 8100 requires a showing of prostrating attacks.  38 C.F.R. § 4.214a.  Accordingly, the claim is denied.  
+
+In reaching this determination, the Board acknowledges that VA is required "to discount beneficial medication effects when relevant rating criteria do not specifically contemplate medication use," Ingram v. Collins, __ Vet. App. __, No. 23-1798, 2025 U.S. App. Vet. Claims LEXIS 327, *1 (Mar. 12, 2025).  Here, the Veteran reported that his headaches are improved with ibuprofen.  However, there is no indication that the examiner considered the ameliorative effects of medication in rendering the findings in the report and there is no indication that the Veteran would have characteristic prostrating attacks without the use of ibuprofen. The Board therefore finds the report adequate to base a decision.
+
+REASONS FOR REMAND
+
+Entitlement to an initial compensable evaluation for herpes simplex myelitis zoster.
+
+Once VA provides an examination, it must be adequate, or VA must notify the Veteran why one will not or cannot be provided.  Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).  An examination is adequate if it considers the records of prior medical treatment, so that the evaluation of the claimed disability will be a fully informed one.  Barr, 21 Vet. App. at 311 (quoting Green v. Derwinski, 1 Vet. App. 121, 124 (1991)).  Moreover, an examination must be based upon consideration of the Veteran's prior medical history and examinations.  Stefl v. Nicholson, 21 Vet. App. 120, 123 (2007).  The Secretary has an affirmative duty to gather the evidence necessary to render an informed decision on a claim.  Douglas v. Shinseki, 23 Vet. App. 19 (2009).
+
+VA obtained an eye examination in January 2024.  At the time of the examination, the Veteran reported outbreaks of herpes of the eyelids and face with redness and discharge, occurring about two to three times per month, treated with Valtrex.  He reported that the outbreaks impacted his activities of daily living and caused poor vision.  
+
+VA also obtained a skin disease examination in January 2024.  However, the examination report contains different findings than those noted in the eye examination report.  Particularly, the examination report documents that the Veteran was not treated with medication at all during the prior 12-month period.  The Veteran was not then experiencing an outbreak.  
+
+The VA skin examination is insufficient.  First, it lies in stark contrast to the findings of the eye examination that reflects monthly, if not more frequent, treatment with Valtrex.  Secondly, it was not performed during an outbreak, which should be easy to accomplish given the frequency of the reported outbreaks.  See Ardison v. Brown, 6 Vet. App. 405, 408 (1994) (indicating that, to the extent possible, VA should schedule an examination for a condition that has cyclical manifestations during an active stage of the disease to best determine its severity); Bowers v. Derwinski, 2 Vet. App. 675, 676 (1992) (VA examination ordered during active stage of the Veteran's skin disorder).  Lastly, the examination report fails to contain unretouched color photographs.  See 38 C.F.R. § 4.118, Diagnostic Code 7800, Note (3).  Due to these pre-decisional duty to assist errors, the claims are remanded.  38 C.F.R. § 20.802(a).
+
+The matter is REMANDED for the following action:
+
+Schedule the Veteran for a VA skin examination to determine the current severity of his service-connected herpes.  The claims file should be made available to the examiner, and the examiner should note that it has been reviewed.
+
+Any tests or studies deemed necessary should be conducted.  An attempt should be made to schedule the examination during a flare-up of the skin disability.
+
+The examiner should elicit a history of the areas affected by dermatitis during flare-ups from the Veteran to adequately address the severity of the disability.
+
+The examination report should contain unretouched color photographs.  See 38 C.F.R. § 4.118, Diagnostic Code 7800, Note (3).
+
+All opinions must be accompanied by a complete rationale.  
+
+ 
+
+ 
+
+Jenna Brant
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Joseph R. Keselyak, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

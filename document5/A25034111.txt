@@ -1,0 +1,91 @@
+Citation Nr: A25034111
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240909-471045
+DATE: April 14, 2025
+
+ORDER
+
+Entitlement to a rating in excess of 20 percent for lumbar degenerative disc disease with lumbar disc microdiscectomy L5-S1 is denied.
+
+REMANDED
+
+Entitlement to service connection for an acquired psychiatric disability is remanded.
+
+FINDING OF FACT
+
+Lumbar degenerative disc disease with lumbar disc microdiscectomy L5-S1 is manifest by pain with forward flexion limited to 45 degrees at worst. There is no ankylosis. 
+
+CONCLUSION OF LAW
+
+The criteria for a rating in excess of 20 percent for lumbar degenerative disc disease with lumbar disc microdiscectomy L5-S1 have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.71a, Diagnostic Code 5242.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 2011 to September 2014.
+
+In October 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of an October 2023 decision denying an increased rating for the lumbar spine.  In February 2024, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior October 2023 decision.  Therefore, for the issue of the increased rating for the lumbar spine, the Board may only consider the evidence of record at the time of the October 2023 decision.
+
+In June 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of service connection for major depressive disorder, most recently addressed in a September 2021 rating decision.  In October 2023, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision.  Therefore, the Board may only consider the evidence of record at the time of the decision on appeal.
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the October 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review (lumbar spine disability). 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim for service connection for an acquired psychiatric disability, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The scope of the claim of service connection for major depressive disorder has been construed more broadly to include any acquired psychiatric disability. See Clemons v. Shinseki, 23 Vet. App. 1 (2009); Brokowski v. Shinseki, 23 Vet. App. 79, 86-87 (2009). The Board has recharacterized the issue accordingly.
+
+1. Entitlement to a rating in excess of 20 percent for lumbar degenerative disc disease with lumbar disc microdiscectomy L5-S1
+
+As an initial matter, the Board notes that the instant appeal covers only the time frame from the date of the Veteran's application for increase in June 2023 to the issuance of the rating decision in October 2023. The Veteran's rating has since been increased to 40 percent effective October 20, 2023. This decision does not disturb that rating.
+
+The Veteran's lumbar degenerative disc disease with lumbar disc microdiscectomy L5-S1 (lumbar spine disability) is rated under 38 C.F.R. § 4.71a, Diagnostic Code 5242. Under the General Rating Formula for Diseases and Injuries of the Spine, a 10 percent rating is warranted for forward flexion of the thoracolumbar spine greater than 60 degrees but not greater than 85 degrees; or, combined range of motion of the thoracolumbar spine greater than 120 degrees but not greater than 235 degrees; or, muscle spasm, guarding, or localized tenderness not resulting in abnormal gait or abnormal spinal contour; or, vertebral body fracture with loss of 50 percent or more of the height.  A 20 percent rating is warranted for forward flexion of the thoracolumbar spine greater than 30 degrees but not greater than 60 degrees; or the combined range of motion of the thoracolumbar spine not greater than 120 degrees; or, muscle spasm or guarding severe enough to result in an abnormal gait or abnormal spinal contour such as scoliosis, reversed lordosis, or abnormal kyphosis.  A 40 percent rating is warranted for forward flexion of the thoracolumbar spine to 30 degrees or less; or, favorable ankylosis of the entire thoracolumbar spine.  A 50 percent rating is warranted for unfavorable ankylosis of the entire thoracolumbar spine.  A 100 percent evaluation is warranted for unfavorable ankylosis of the entire spine.  38 C.F.R. § 4.71a, General Rating Formula for Diseases and Injuries of the Spine.  
+
+Any associated objective neurological abnormalities, including, but not limited to, bowel or bladder impairment, are to be evaluated separately under an appropriate diagnostic code.  Id.  at Note 1.  
+
+Ankylosis is defined as "immobility and consolidation of a joint due to disease, injury, or surgical procedure."  Dorland's Illustrated Medical Dictionary, 94 (32nd ed. 2012).  Fixation of a spinal segment in neutral position (zero degrees) always represents favorable ankylosis.  Id.  at Note 5
+
+When evaluating musculoskeletal disabilities based on limitation of motion, 38 C.F.R. § 4.40 requires consideration of functional loss caused by pain or other factors listed in that section that could occur during flare-ups or after repeated use and, therefore, not be reflected on range-of-motion testing.  38 C.F.R. § 4.45 requires consideration also be given to less movement than normal, more movement than normal, weakened movement, excess fatigability, incoordination, and pain on movement.  See DeLuca v. Brown, 8 Vet. App. 202 (1995); see also Mitchell v. Shinseki, 25 Vet. App. 32, 44 (2011).  Nonetheless, even when the background factors listed in § 4.40 or 4.45 are relevant when evaluating a disability, the rating is assigned based on the extent to which motion is limited, pursuant to 38 C.F.R. § 4.71a; a separate or higher rating under § 4.40 or 4.45 itself is not appropriate.  See Thompson v. McDonald, 815 F.3d 781, 785 (Fed. Cir. 2016) ("[I]t is clear that the guidance of § 4.40 is intended to be used in understanding the nature of the veteran's disability, after which a rating is determined based on the § 4.71a criteria.").
+
+Under 38 C.F.R. § 4.59, painful motion is a factor to be considered with any form of arthritis; however, 38 C.F.R. § 4.59 is not limited to disabilities involving arthritis.  See Burton v. Shinseki, 25 Vet. App. 1 (2011).
+
+The Veteran received a VA examination for his spine in June 2023. He reported experiencing severe pain, numbness and pain in the legs, and poor flexibility. He also reported experiencing flare-ups that occur two or three times per week and cause severe pain and further limitation of motion. Upon examination he exhibited forward flexion to 60 degrees. After repetitive testing forward flexion was further limited to 55 degrees. The examiner estimated that after repeated use over time forward flexion would be 50 degrees. Finally, the examiner provided an estimated forward flexion during flare-ups of 45 degrees. There was no ankylosis. 
+
+The Board finds that the evidence of record persuasively weighs against a rating in excess of 20 percent for the Veteran's lumbar spine disability.  The Board acknowledges the Veteran's lay reports of symptoms and that there was functional loss due to pain during flare-ups and pain during repetitive use over time. However, even considering the Veteran's lay reports of symptoms and noted functional loss, the degree of additional limitation reflected by the statements that he experiences increased pain during flare-ups two to three times a week would not result in limitation of motion more nearly approximating forward flexion of the thoracolumbar spine to 30 degrees or less; or, favorable ankylosis of the entire thoracolumbar spine. The June 2023 examiner provided an estimate of forward flexion during flare-ups of 45 degrees, accounting for the Veteran's reports of pain and limitation of motion. There is no evidence of ankylosis. 
+
+Caselaw requires the Board to take due consideration that the beneficial effects of medication are discounted unless such effects are otherwise contemplated in a particular diagnostic code. See Ingram v. Collins, No. 23-1798, ___ Vet. App. ___ (2025).  In this case, the VA examiner, in rendering ROM findings, noted and considered the Veteran's lay statements describing functional limitations when his pain and functional impairment is at its worst (e.g., during flare ups, on repetitive motion, due to lack of endurance, lack of coordination, etc.). The examination report as a whole does not indicate whether the Veteran was on any pain medications at the time of the examination, but in any case, it is clear the examiner already provided an opinion estimating ROM findings discounting any potential ameliorating effects of medication. As such, the Board finds the report and the remainder of the evidentiary record adequate to base a decision, resolving all reasonable doubt in the Veteran's favor. 
+
+Consideration has also been given to assigning a rating under the Formula for Rating Intervertebral Disc Syndrome (IVDS) Based on Incapacitating Episodes.  However, the Veteran does not have IVDS, and the evidence of record is against a finding that the Veteran was ever prescribed bed rest by a physician for a duration that meets the criteria for a higher rating.  See 38 C.F.R. § 4.71a, Formula for Rating Intervertebral Disc Syndrome Based on Incapacitating Episodes.  
+
+Regarding neurological impairment, the Veteran has already been granted service connection for radiculopathy of the right and left lower sciatic nerves, and the lay and medical evidence of record is against a finding that the Veteran has any other neurological abnormality associated with the spine disability.
+
+Based on the foregoing, the evidence of record persuasively weighs against the Veteran's claim for a rating in excess of 20 percent for the Veteran's lumbar spine disability.  As the evidence of record persuasively weighs against a rating in excess of 20 percent, the benefit-of-the-doubt rule does not apply.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 21 F.4th 776 (2021).
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for an acquired psychiatric disability is remanded.
+
+The issue of entitlement to service connection for an acquired psychiatric disability is remanded to correct a duty to assist error that occurred prior to the October 2023 rating decision on appeal. The Agency of Original Jurisdiction (AOJ) obtained a October 2023 medical opinion prior to the October 2023 rating decision on appeal. However, this medical opinion addressed only whether the Veteran's major depressive disorder was proximately due to a service-connected disability. There was no opinion provided regarding aggravation. For a medical opinion regarding secondary service connection to be adequate, the medical opinion must provide explanations for both the aggravation and causation prongs of a secondary service connection claim. Atencio v. O'Rourke, 30 Vet. App. 74 (2018). 
+
+The matter is REMANDED for the following action:
+
+1. Obtain an addendum opinion from an appropriate clinician regarding whether any identified acquired psychiatric disability is at least as likely as not caused by  OR aggravated by service-connected disease or injury. 
+
+The examiner is reminded that for the examination to be adequate, the medical opinion must provide explanations for both the aggravation and causation prongs of a secondary service connection claim.
+
+		 
+
+ 
+
+Christopher Seppanen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Creegan
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,91 @@
+Citation Nr: A25034801
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 241026-487343
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to a rating in excess of 50 percent for adjustment disorder with mixed anxiety, depressed mood, and panic disorder ("acquired psychiatric disability") is denied.
+
+FINDING OF FACT
+
+The Veteran's acquired psychiatric disability most closely approximated occupational and social impairment with reduced reliability and productivity; deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood were not shown.
+
+CONCLUSION OF LAW
+
+The criteria for rating in excess of 50 percent for acquired psychiatric disability have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. § §§ 4.3, 4.7, 4.130, DC 9411.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the Army from November 2020 to May 2022.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO), also known as the Agency of Original Jurisdiction (AOJ).
+
+In the October 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the October 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Entitlement to a rating in excess of 50 percent for adjustment disorder with mixed anxiety, depressed mood, and panic disorder ("acquired psychiatric disability") 
+
+The Veteran contends that her service-connected acquired psychiatric disability warrants an increased rating.  See October 2024 NOD; December 2024 Informal Hearing presentation. 
+
+Disability ratings are determined by applying the criteria set forth in VA's Schedule for Rating Disabilities, which is based on the average impairment of earning capacity. Individual disabilities are assigned separate diagnostic codes. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. The basis of disability ratings is the ability of the body as a whole, or of the psyche, or of a system or organ of the body, to function under the ordinary conditions of daily life, including employment. 38 C.F.R. § 4.10.
+
+The determination of whether an increased rating is warranted is based on review of the entire evidence of record and the application of all pertinent regulations. Schafrath v. Derwinski, 1 Vet. App. 589 (1991). Where there is a question as to which of two ratings shall be applied, the higher rating will be assigned if the disability picture more nearly approximates the criteria for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. However, the evaluation of the same disability under various diagnoses, known as pyramiding, is to be avoided. 38 C.F.R. § 4.14.
+
+While the Veteran's entire history is reviewed when making a disability determination, where service connection has already been established and increase in the disability rating is at issue, it is the present level of the disability that is of primary concern. Francisco v. Brown, 7 Vet. App. 55. However, staged ratings are appropriate for an increase rating claim when the factual findings show distinct time periods where the service-connected disability exhibits symptoms that would warrant different ratings. Fenderson v. West, 12 Vet. App. 119; Hart v. Mansfield, 21 Vet. App. 505.
+
+The Veteran's service-connected acquired psychiatric disability is currently rated at 50 percent under Diagnostic Code (DC) 9440, which falls under the General Rating Formula for Mental Disorders.
+
+Under the General Rating Formula for Mental Disorders:
+
+A 10 percent rating is assigned when mild or transient symptoms which decrease work efficiency and ability to perform occupational tasks only during periods of occasional stress, or symptoms controlled by medication cause occupational and social impairment.
+
+A 30 percent rating where there is occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks (although generally functioning satisfactorily, with routine behavior, self-care, and conversation normal), due to such symptoms as: depressed mood; anxiety; suspiciousness; panic attacks (weekly or less often); chronic sleep impairment; and mild memory loss (such as forgetting names, directions, recent events).
+
+A 50 percent rating is warranted when there is occupational and social impairment with reduced reliability and productivity, due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short- and long-term memory (e.g., retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; and difficulty in establishing and maintaining effective work and social relationships.
+
+A 70 percent rating is warranted when there is occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or work-like setting); and inability to establish and maintain effective relationships.
+
+A 100 percent rating is warranted when there is total occupational and social impairment due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent ability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; and memory loss for names of closest relatives, own occupation, or own name.
+
+Under the General Formula, the Board must conduct a "holistic analysis" that considers all associated symptoms, regardless of whether they are listed as criteria. Bankhead v. Shulkin, 29 Vet. App. 10, 22 (2017). The use of the term "such symptoms as" in 38 C.F.R. § 4.130 indicates that the list of symptoms that follows is non-exhaustive, but rather are to serve as examples of the type and degree of the symptoms, or their effects, that would justify a particular rating. See Vazquez-Claudio v. Shinseki, 713 F.3d 112, 115 (Fed. Cir. 2013); see also Sellers v. Principi, 372 F.3d 1318, 1326-27 (Fed. Cir. 2004); Mauerhan v. Principi, 16 Vet. App. 436 (2002). When determining the appropriate disability evaluation to assign, however, the Board's "primary consideration" is the Veteran's symptoms. Vazquez-Claudio, 713 F.3d at 118.
+
+Further, in Bankhead, the United States Court of Appeals for Veterans Claims (Court) held the presence of suicidal ideation alone may cause occupational and social impairment with deficiencies in most areas (a 70 percent disability rating under 38 C.F.R. § 4.130).  The rating criteria make no distinction between passive and active suicidal ideation.
+
+Turning to the evidence of record, the Veteran was afforded a VA examination for her mental disorders in September 2022.  The Veteran was diagnosed with adjustment disorder with mixed anxiety and depressed mood, chronic, and assessed with occupational and social impairment due to mild or transient symptoms which decrease work efficiency and ability to perform occupational tasks only during periods of significant stress, or; symptoms controlled by medication.  The Veteran reported that she had no pre-military traumas.  She reported that she is currently working at a clinic drawing blood and checking in patients.  She reported current mental health symptoms of anxiety and depression, for which she is not currently treating with counseling or medication.  The examiner assessed the Veteran with symptoms of depressed mood; anxiety; chronic sleep impairment; disturbances of motivation and mood; difficulty adapting to stressful circumstances, including work or a work like setting.  On mental status examination (MSE), the examiner found that the Veteran: was pleasant and outgoing; was oriented in all spheres; thought processes were logical and goal oriented; reported no hallucinations, delusions, or suicidal ideation.
+
+The Veteran was afforded another VA examination for her mental disorders in October 2024.  The Veteran was diagnosed with adjustment disorder with mixed anxiety and depressed mood, chronic, and assessed with occupational and social impairment with reduced reliability and productivity.  The Veteran reported that her symptoms have not changed since the prior VA examination in September 2022.  The examiner assessed the Veteran with symptoms of depressed mood; anxiety; panic attacks more than once a week; chronic sleep impairment; disturbances of motivation or mood; difficulty adapting to stressful circumstances, including work or a work like setting.  On MSE, the examiner found that the Veteran: presented as well oriented to the purpose of the exam and in all other spheres as well; affected appeared within normal limits; mood at the time of the exam was stated to be "anxious, bothered"; no signs of significant cognitive impairment or psychosis observed or noted during the exam.
+
+The Board has also carefully reviewed the Veteran's VA and private treatment records during the relevant period which evidence, in pertinent part, the following: November 2023 VAMC treatment record (Veteran reported that she is no longer interested in psychotherapy and is "ok right now"; denies suicidal or homicidal ideations); October 2023 VAMC treatment record (Veteran stopped taking psychotropic medications because of side effects); June 2023 VAMC treatment record (Veteran has a past history of anxiety and depression; tried psychotropic medications but stopped taking them due to side effects; gets anxiety attacks which she describes as chest gets tight and heart palpitation; has crying spells; denies suicidal or homicidal thoughts).
+
+After a review of the competent and probative evidence within the permissible evidentiary window for this claim, the Board finds that a rating in excess of 50 percent is not warranted. 38 C.F.R. §§ 4.3, 4.7. When viewing the Veteran's entire disability picture, the Board concludes that her symptoms most nearly approximate a rating of 50 percent during the relevant period. 
+
+In this regard, the persuasive evidence of record shows that the service-connected psychiatric disability resulted in anxiety, depressed mood, mild sleep disturbances, and some difficulty in establishing effective relationships. The VA examination reports also assessed the Veteran's psychiatric disability as resulting in occupational and social impairment with reduced reliability and productivity. Her social activity was limited and consistent with some difficulty in establishing and maintaining effective relationships.
+
+Overall, as the frequency and severity of the Veteran's symptoms did not more nearly approximate deficiencies in most areas, such as judgment, thinking, or mood, the Board finds that a rating above 50 percent cannot be granted. In this regard, the examination reports and the medical records did not tend to show deficits in the areas listed in the 70 percent rating criteria for the service-connected psychiatric disability. The competent evidence of record does not tend to support a deficiency in judgement or thinking. The VA examination reports showed that the Veteran had normal attitude; no perceptual abnormalities; and mood was depressed. Similarly, the VA examination reports show that the Veteran's thought process was logical, and goal directed with good attention. Additionally, the record contains no indication of suicidal thoughts or plans. Furthermore, the relevant competent evidence does not indicate the presence of hallucinations or delusions, nor does it reflect that she has illogical speech or continuous panic attacks. 
+
+Moreover, the Board finds that the Veteran is not entitled to a 100 percent for her acquired psychiatric disability at any point during the relevant period. A 100 percent rating requires total occupational and social impairment due to psychiatric symptoms. The Board finds that neither the delineated symptoms nor comparable symptoms for total occupational and social impairment are shown to be characteristic of the Veteran's acquired psychiatric disability. Total social impairment is not shown, as is required for a 100 percent rating.
+
+Without evidence of more severe symptomatology for the Veteran's acquired psychiatric disability, the Board cannot grant an increased disability rating, and the Veteran's VA and private treatment records do not at any point contradict the mental examinations of the VA examiners or point to more severe symptoms or limitations than those assessed.  Moreover, the Veteran has not identified any other evidence that would contradict the conclusions of the VA examiners, much less submitted contradictory opinions from another medical professional opining a higher level of symptomology for her acquired psychiatric disability.
+
+The Board has considered the Veteran's statements regarding the severity of her disability.  However, as a lay person, the Veteran does not have the training or expertise to render a competent opinion which is more probative than the VA examiners' opinions on this issue, as this is a medical determination that is complex. See Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007); Barr v. Nicholson, 21 Vet. App. 303, 309 (2007); Layno v. Brown, 6 Vet. App. 465, 469-71 (1994)). 					
+
+As the evidence is persuasively against assigning a higher rating for the Veteran's acquired psychiatric disability, there is no reasonable doubt to resolve in the Veteran's favor. Lynch v. McDonough, 21 F.4th 776, 781-82 (2021).  Accordingly, entitlement to a rating in excess of 50 percent for acquired psychiatric disability is denied.
+
+ 
+
+ 
+
+M. MILLS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B. Hillman, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

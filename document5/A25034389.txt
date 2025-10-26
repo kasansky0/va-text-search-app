@@ -1,0 +1,71 @@
+Citation Nr: A25034389
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 241028-488567
+DATE: April 15, 2025
+
+REMANDED
+
+Entitlement to service connection for mixed sleep apnea is remanded.
+
+REASONS FOR REMAND
+
+The Veteran had active service from November 1980 to October 1983.
+
+The rating decision on appeal was issued in October 2024 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies. The October 2024 rating decision was a Higher-Level Review of a previous February 2024 rating decision.
+
+In the October 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+The Board notes that less than one year has elapsed since October 9, 2024, the mailing of notice of the October 2024 rating decision on appeal. Generally, the Board may not decide an appeal prior to the expiration of the one-year period. Williams v. McDonough, 37 Vet. App. 305 (2024). However, as the Board herein does not decide this appeal and only remands such to the AOJ for corrective action, there is no prejudice to the Veteran in proceeding. 
+
+The Veteran contends that his mixed sleep apnea is secondary to his service-connected PTSD. The record also shows that the Veteran had exposure to contaminated water at Camp Lejeune as well as exposure to asbestos in the course of his sea service. See August 2024 Toxic Exposure Risk Activity (TERA) Memorandum; VA Form 20-0999, Higher-Level Review Return; DD Form 214.
+
+An August 2024 VA examiner opined that the Veteran's sleep apnea was less likely as not due to the Veteran's in-service TERA. By way of rationale, the examiner explained that the Veteran's specific toxic exposures would not cause blockage of the airway, which is the main pathology in sleep apnea. The examiner continued by noting that there was no medical literature supporting a direct causal relationship between sleep apnea and the Veteran's TERA. Finally, the examiner stated that the Veteran's body habitus was a more likely etiology, as obesity caused fat deposits in the upper respiratory tract which narrowed the airway, leading to hypoxic and apneic episodes, ultimately resulting in sleep apnea. The Board finds that additional analysis is needed. The HLR return noted that the Veteran had exposure to asbestos in the course of his sea service; however, the examiner did not discuss any potential relationship between sleep apnea and asbestos exposure. 
+
+In addition, an August 2024 VA examiner opined that the Veteran's sleep apnea was less likely than not proximately due to or the result of the Veteran's PTSD. The examiner reasoned that sleep apnea is characterized by recurrent obstruction of the pharyngeal airway during sleep, with resultant hypoxia and sleep fragmentation, and that it usually occurred when the soft tissue in the rear of the throat collapsed during sleep. The examiner further noted that new research had been conducted in certain Iraq and Afghanistan veterans with PTSD. The study found that 69 percent of veterans with PTSD were at a high risk for sleep apnea. Based on that study, the examiner concluded that although there was correlation, there was no clinical research supporting direct causation of PTSD to sleep apnea. The Board finds this opinion to be incomplete and therefore insufficient to decide the appeal.
+
+In this connection, concerning secondary service connection in particular, the Board notes that the Federal Circuit issued a precedential case clarifying the standards upon which secondary service connection claims should be assessed. See Spicer v. McDonough, 61 F. 4th 1360 (Mar. 8, 2023). In Spicer, the Federal Circuit held that under the causation standard of 38 U.S.C. § 1110, secondary service connection is warranted where a nonservice-connected disability would have been less severe "but-for" a service connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability.
+
+The Federal Circuit specifically found that requiring "proximate cause" in secondary service connection appeals is a stricter standard than the "but-for cause" standard in 38 U.S.C. § 1110 and, therefore, is unlawful.
+
+The Board will therefore remand the Veteran's appeal to ensure that opinions addressing secondary service connection pursuant to the appropriate standard are obtained.
+
+Finally, the August 2024 VA examiner suggested that a more likely etiology for the Veteran's sleep apnea was obesity. When obesity has been caused by a service-connected condition, and subsequently causes another disability, obesity may be considered an "intermediate step" for establishing service connection on a secondary basis. See VAOPGCPREC 1-2017 (January 6, 2017). In Walsh v. Wilkie, 32 Vet. App. 300, the United States Court of Appeals for Veterans Claims (Court) further held that when addressing the question of obesity as an intermediate factor, VA must evaluate whether a service-connected disability caused or aggravated the Veteran's obesity, just as it would when analyzing secondary service connection under 38 C.F.R. § 3.310.
+
+In light of the August 2024 VA examiner's statement that obesity was the Veteran's primary risk factor for the development of sleep apnea, it was a duty to assist error not to obtain an adequate medical opinion addressing such theory prior to adjudicating the claim.
+
+The matter is REMANDED for the following action:
+
+1. Obtain a medical opinion addressing the etiology of the Veteran's sleep apnea. The examiner should review the Veteran's complete medical history.
+
+(a.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's sleep apnea had onset during active-duty service, or is otherwise related to active duty service, to include toxic exposures from Camp Lejeune-contaminated water or asbestos exposure in the course of sea service?
+
+In forming the opinion, the examiner must consider: (a) total potential exposure through all applicable military deployments; and (b) synergistic, combined effect of all toxic exposure risk activities.
+
+(b.) Notwithstanding the answers to the questions above, the examiner should indicate whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's mixed sleep apnea was caused or aggravated by his service-connected PTSD. In providing a response, the examiner must consider and discuss whether the Veteran's obstructive sleep apnea would have been less severe "but-for" his service-connected PTSD, to include either because there is an etiological link or because the service-connected disability resulted in the ability to treat the sleep apnea.
+
+In this connection, the examiner must also address whether it is at least as likely as not that obesity served as an "intermediate step" between the Veteran's service-connected PTSD and his sleep apnea by answering the following:
+
+a)	Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's service-connected PTSD caused the Veteran to become obese or aggravated the Veteran's obesity?
+
+b)	If so, was the obesity that resulted from, or was aggravated by, the Veteran's service-connected disabilities a substantial factor in causing sleep apnea?
+
+c)	Would sleep apnea not have occurred, but for the obesity caused or aggravated by the service-connected PTSD?
+
+Please consider and discuss the NIH medical article referenced by the Veteran in support of his claim in March 2024 Correspondence.
+
+All opinions must be supported by a medical explanation or rationale.
+
+ 
+
+ 
+
+Leetra J. Harris
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Polly Johnson, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

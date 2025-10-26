@@ -1,0 +1,131 @@
+Citation Nr: A25034502
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240415-433774
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to a compensable rating for service-connected headaches is denied.
+
+Entitlement to a rating higher than 30 percent for service-connected adjustment disorder with mixed anxiety and depressed mood (adjustment disorder) is denied.
+
+REMANDED
+
+Entitlement to a total disability rating due to individual unemployability (TDIU) is remanded.
+
+FINDINGS OF FACT
+
+1. During the appeal period, the Veteran experienced migraines with less frequent attacks.  The migraines did not manifest in characteristic prostrating attacks averaging one in 2 months over the last several months.
+
+2. The severity, frequency, and duration of the Veteran's symptoms associated with his service-connected adjustment disorder did not more closely approximate occupational and social impairment with reduced reliability and productivity.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a compensable rating for service-connected headaches have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.124a, Diagnostic Code 8100.
+
+2. The criteria for a disability rating in excess of 30 percent for service-connected adjustment disorder have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.126, 4.130, Diagnostic Code 9440.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty with the U.S. Air Force from October 1982 to October 1992.
+
+In March 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the rating for adjustment disorder most recently addressed in the April (headaches) and August (adjustment disorder) 2022 Rating Decisions.  In April 2023, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claims based on the evidence of record at the time of that decision.  
+
+In the April 15, 2024, VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the April 2023 AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim for a TDIU, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+Increased Rating
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities (Rating Schedule), which is based on the average impairment of earning capacity.  Individual disabilities are assigned separate diagnostic codes.  38 U.S.C. §1155; 38 C.F.R. §4.1.  When there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability more closely approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. §4.7.  These diagnostic codes designate percentage ratings based on the average functional impairment of the Veteran due to a service-connected disability.  38 C.F.R. §3.321, 4.10.
+
+1. Entitlement to a compensable rating for service-connected headaches.
+
+The Veteran is seeking review of the April 2023 Rating Decision, which awarded service connection for migraine headaches at a noncompensable rating, effective December 21, 2021. 
+
+Migraine headaches are rated pursuant to 38?C.F.R. §?4.124a, DC 8100, for migraine.  Under DC 8100, a noncompensable rating is warranted for migraines with less frequent attacks.  A 10 percent rating is warranted for migraines with characteristic prostrating attacks averaging one in 2 months over the last several months.  
+
+The rating criteria of DC 8100 are considered successive, meaning that a claimant cannot fulfill the criteria of the higher rating without fulfilling those of the next lower rating.  Johnson v. Wilkie, 30?Vet. App.?245, 252 (2018).  This renders 38?C.F.R. §§?4.7 and 4.21 inapplicable.  Johnson, 30 Vet. App. at 252.
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under DC 8100 to describe the nature and severity of migraines, but it is not defined in the regulation.  Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness."  Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+In Holmes v. Wilkie, 33 Vet. App. 67 (2020), the U.S. Court of Appeals for Veterans Claims (CAVC) held that DC 8100 contemplates all migraine symptoms.  Therefore, to evaluate migraines under DC 8100, VA must consider all symptoms experienced due to migraine attacks and then rate the symptoms based on the frequency, duration, and economic impact of those attacks.  The CAVC commented that this analysis is similar to that used to assign ratings for psychiatric disabilities under 38 C.F.R. § 4.130.
+
+The Board concludes that the Veteran's migraines have occurred with less frequent attacks during the appeal period, corresponding to the criteria for a noncompensable rating under DC 8100.  
+
+In his December 2021 statement, the Veteran described headache pain on the left side of his head that occurred two to three times per week.  At least a couple times a month, the headache pain was so strong, it would incapacitate him and render him unable to do any normal activities for 10 hours.  During those episodes, he would have visual spots and throbbing pain.  He often missed events and activities due to his headaches.  
+
+In a March 2023 statement, the Veteran reported that his tinnitus caused him stress, which preceded his headaches.  The high frequency sounds felt like sharp stabs to his head.  Headaches occurred one to two times per week and were localized to the front of the head.  He had light sensitivity and throbbing pain.  He missed events and activities due to headaches because they rendered him unable to function.  
+
+The Veteran was afforded a VA examination in February 2022 and diagnosed with common headaches.  He described headache pain once per week that that was localized to the left side of the head.  The examiner noted the Veteran did not have characteristic prostrating attacks of migraine/non-migraine-headache pain.  There were no other pertinent physical findings, complications, conditions, or signs of symptoms related to the headaches.  
+
+Review of the Veteran's VA treatment records are negative for any findings or complaints of headache pain.  
+
+The March 2023 private opinion confirmed a diagnosis of headaches and related them to the Veteran's already service-connected tinnitus.  However, there was no evidence or opinion as to the severity or symptomology of the Veteran's headaches. 
+
+The Veteran is competent to report readily observable symptoms.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).  His statements regarding ongoing headache pain are also considered credible.  However, he is not competent to determine his headache pain caused prostrating attacks.  Although the Veteran described his headaches as causing incapacitation or rendering him unable to function, there is no evidence that they cause the "extreme exhaustion or powerlessness" that the Board finds meets the definition of prostrating.  He has not reported such symptoms to receive treatment or during VA examinations obtained in connection with the instant claim.  Moreover, it appears the Veteran's statements are internally inconsistent.  In December 2021, he described his headaches as occurring two to three times a week and twice a month the headaches would incapacitate him.  However, two months later in February 2022, he reported to the VA examiner that his headaches occurred once per week and there were no prostrating attacks.  
+
+As such, the statements do not place the evidence in relative equipoise sufficient to support a compensable rating.  Thus, the Board concludes that the Veteran's migraines did not occur with characteristic prostrating attacks averaging one in two  months over the last several months at any time during the appeal period, and a compensable rating under Diagnostic Code 8100 is not warranted.
+
+In sum, the Board concludes that the evidence is neither evenly balanced nor approximately so with regard to whether a compensable rating for the Veteran's migraines is warranted.  Rather, the evidence persuasively weighs against a rating increase for any period on appeal.  The benefit of the doubt doctrine is therefore not for application for this rating claim.  see 38 U.S.C. § 5107(b); 38 C.F.R. § 4.3; Lynch, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+2. Entitlement to a rating higher than 30 percent for service connected adjustment disorder with mixed anxiety and depressed mood.
+
+The Veteran contends that symptoms associated with his adjustment disorder are worse than the currently assigned 30 percent rating. 
+
+Under the General Formula for Mental Disorders (General Formula), the Board must conduct a "holistic analysis" that considers all associated symptoms, regardless of whether they are listed as criteria.  Bankhead v. Shulkin, 29 Vet. App. 10, 22 (2017); 38 C.F.R. § 4.130.  The Board must determine whether unlisted symptoms are similar in severity, frequency, and duration to the listed symptoms associated with specific disability percentages.  Then, the Board must determine whether the associated symptoms, both listed and unlisted, caused the level of impairment required for a higher disability rating.  Vazquez-Claudio v. Shinseki, 713 F.3d 112, 114-118 (Fed. Cir. 2013). 
+
+The issue in this appeal is whether the Veteran's associated symptoms caused the level of impairment required for a disability rating of 50 percent or higher.
+
+The Board concludes that the Veteran's symptoms did not cause the level of impairment required for a disability rating of 50 percent or higher.  The Veteran's symptoms more closely approximated the symptoms associated with a 30 percent rating, and resulted in a level of impairment that most closely approximated the level of impairment associated with a 30 percent rating. 
+
+A 50 percent rating is assigned when symptoms such as flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short and long-term memory (e.g., retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; or difficulty in establishing and maintaining effective work and social relationships cause occupational and social impairment with reduced reliability and productivity.
+
+A 70 percent rating is assigned when symptoms such as suicidal ideation; obsessional rituals which interfere with routine activities; intermittently illogical, obscure, or irrelevant speech; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a worklike setting); or inability to establish and maintain effective relationships cause occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood.
+
+A 100 percent rating is assigned for total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; or memory loss for names of close relatives, own occupation, or own name.
+
+VA and private treatment records, the May 2022 VA examination, and the Veteran's lay statements show that his adjustment disorder was manifested by symptoms associated with a 30 percent rating (depressed mood, anxiety, suspiciousness, and chronic sleep impairment), symptoms associated with a 50 percent rating (memory impairment), and symptoms associated with a 70 percent rating (impaired impulse control).  The Veteran also had symptoms that are not listed with a specific rating, such as angry outbursts, lack of intimacy, fatigue, and irritability.
+
+The Board finds the severity, frequency, and duration of the Veteran's symptoms more closely approximate the symptoms contemplated by a 50 percent rating.  See 38 C.F.R. § 4.126.  The Veteran reported that these symptoms were not present daily but would increase in severity infrequently, such as during arguments with his spouse.  He also experienced difficulty performing sexually, which can be associated with depression or anxiety as contemplated under a 30 percent rating. 
+
+The Board also finds the level of impairment caused by the Veteran's symptoms more closely approximates the level associated with a 30 percent rating.  The Veteran experienced occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks, but was generally functioning satisfactorily, with routine behavior, self-care, and normal conversation.  Mental status examinations in VA and private treatment records and the May 2022 VA examination indicate that the Veteran had adequate grooming and hygiene.  He was alert, cooperative, and oriented.  He repeatedly denied any suicidal or homicidal ideation.  There was no evidence of delusions or hallucinations.  His speech was normal.  His thought process was relevant, logical, and coherent.  His cognition and memory were intact per observation.  His judgement and insight appeared adequate. 
+
+Although the Veteran did experience symptoms contemplated by a 50 percent rating-impairment of short and long term memory, and a 70 percent rating - impaired impulse control - the evidence overall does not demonstrate the level of impairment associated with a 50 or 70 percent rating.  Notably, while the Veteran stated that he had difficulty remembering names and having to write things down, his memory was observed intact on VA examination. As noted above, the Veteran's other remaining symptoms were either contemplated by or more consistent with a 30 percent rating.  Moreover, treatment records and the May 2022 VA examination are negative for any findings regarding impaired memory or unprovoked irritability with violence.  The Veteran is competent to report observable symptoms such as difficulty remembering tasks or dates, but he is not competent to determine their severity.  Importantly, the Veteran has not offered lay evidence showing the level of impaired impulse control as noted in the rating schedule.  Rather, he described angry outbursts and arguments with his wife.  There was no indication of violence.  Requirements for a higher 50 or 70 percent rating have not been met. 
+
+From the May 2022 VA psychiatric examination, it appears he retired from a full time position in 2019 and left another position in 2021.  In his March 2023 statement, the Veteran indicated he was unemployed for over two years.  However, he also wrote that "in the past year, I have been written up 1 time at work because of poor performance."  He noted that he had to write things down to avoid forgetting work tasks and errands.  He also experienced fatigue due to sleep impairment, which impacted his productivity.  His reported symptoms, to include their relevant severity, frequency, and duration, are in line with a 30 percent rating.  The decrease in work efficiency and productivity due to his psychiatric symptoms is already properly compensated.  Moreover, there is no evidence he left his previous positions solely due to his adjustment disorder.  
+
+In summary, the Veteran has not demonstrated flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impaired judgment; impaired abstract thinking; disturbances of motivation and mood; or difficulty in establishing and maintaining effective work and social relationships to warrant a higher rating. In fact, he has been shown on evaluation to be alert, cooperative, and oriented; without evidence of delusions or hallucinations; normal speech; relevant, logical, and coherent thought process; intact cognition and memory; and adequate  judgement and insight. Also, he has denied suicide and homicidal ideation.  Lastly, the Veteran maintained good social relationships.  In fact, in his March 2023 statement, the Veteran reported a good relationship with his children, and he was still married to his spouse of approximately 40 years.  
+
+Therefore, the evidence of record persuasively weighs against finding that the severity, frequency, and duration of the Veteran's symptoms resulted in the level of impairment required for a 50 percent rating.  The criteria for a 50 percent or higher rating are not met and the appeal must be denied.
+
+REASONS FOR REMAND
+
+1. Entitlement to a TDIU is remanded.
+
+The issue of entitlement to a TDIU is remanded to correct a duty to assist error that occurred prior to the April 2023 Rating Decision on appeal.  
+
+Under Rice v. Shinseki, 22 Vet. App. 447 (2009), a claim for TDIU is part of an increased rating claim when such is raised by the record.  In his March 2023 claim, the Veteran reported that he had been unemployed for over two years.  
+
+The AOJ failed to develop or adjudicate the claim, to include requesting the Veteran complete a VA Form 21-8940, TDIU application.  A remand is required to allow VA to develop the claim.
+
+The matter is REMANDED for the following action:
+
+Send the Veteran proper notice that advises him about what is needed to substantiate a claim for a TDIU.  In addition, ask the Veteran to complete an updated VA Form 21-8940, Veteran's Application for Increased Compensation Based on Unemployability, to obtain relevant employment information.
+
+ 
+
+ 
+
+L. Chu
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Price Umaru, Esq.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

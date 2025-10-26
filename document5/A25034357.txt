@@ -1,0 +1,115 @@
+Citation Nr: A25034357
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240920-475940
+DATE: April 14, 2025
+
+ORDER
+
+Entitlement to an initial evaluation higher than 10 percent for chronic bronchitis is denied.
+
+Entitlement to an initial evaluation for chronic sinusitis is denied.
+
+REMANDED
+
+Entitlement to service connection for pleuritis is remanded.
+
+Entitlement to service connection for non-allergic rhinitis is remanded.
+
+FINDINGS OF FACT
+
+1. The evidence of record shows that the Veteran's chronic bronchitis has not manifested with any incapacitating episodes (IE) or the requirement for prolonged antibiotic usage at any time during the initial rating period on appeal.
+
+2. The evidence of record shows that the Veteran's maxillary sinusitis has not manifested with any IEs or 3 to 6 no-IEs at any time during the initial rating period on appeal.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to an initial evaluation higher than 10 percent for chronic bronchitis have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.96, 4.97, Diagnostic Code (DC) 6600.  
+
+2. The criteria for entitlement to an initial compensable evaluation for chronic sinusitis have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.31, 4.96, 4.97, General Rating Formula for Sinusitis (General Formula), DC 6513.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran appealed November 2023 and December 2023 rating decisions via the Direct Review Lane, and the appeal was duly docketed at the Board. See November 2023 and December Rating Decisions Narrative; September 2024 VA Form 10182; October 2024 BVA Docketing Letter.
+
+Evidentiary Record
+
+The Board decision below is based on the evidence of record as of the date the December 2023 was issued as concerns the chronic bronchitis rating, and the evidence of record as of the date of the November 2023 rating decision as concerns the other issues. 38 C.F.R. § 20.301. The Board has not considered any evidence other than that noted.
+
+If evidence was associated with the claims file during a period when additional evidence was not allowed, the Board has not considered it in its decision below. 38 C.F.R. § 20.300. If the Veteran would like VA to consider any evidence that was added to the claim file that the Board could not consider, he may file a supplemental claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim(s), considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a supplemental claim are included with this decision.
+
+Higher Initial Ratings
+
+General Legal Requirements
+
+Disability ratings are intended to compensate for impairment in earning capacity due to a service-connected disorder. 38 U.S.C. § 1155. Separate diagnostic codes identify the various disabilities. 38 C.F.R. § 4.27. It is necessary to rate the disability from the point of view of the Veteran working or seeking work, see 38 C.F.R. §§ 4.1, 4.2, and to resolve any reasonable doubt regarding the extent of the disability in the Veteran's favor. 38 C.F.R. § 4.3. Evaluations are based on functional impairments which impact a veteran's ability to pursue gainful employment. 38 C.F.R. § 4.10. Where there is a question as to which of two ratings shall be applied, the higher rating will be assigned if the disability picture more nearly approximates the criteria for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7.
+
+The Veteran is entitled to a staged rating for any part of the initial rating period on appeal where his disability manifested with greater severity. See Fenderson v. West, 12 Vet. App. 119 (1999).
+
+1. Entitlement to an initial evaluation higher than 10 percent for chronic bronchitis is denied.
+
+Rating Criteria
+
+Ratings under diagnostic codes 6600 through 6817 and 6822 through 6847 will not be combined with each other. 38 C.F.R. § 4.96(a). Pulmonary function tests (PFTs) required to evaluate the Veteran's chronic bronchitis. See 38 C.F.R. § 4.96(d)(1)-(3), (6)-(7). Post-bronchodilator studies are required when PFT's are done for disability evaluation purposes except when the results of pre-bronchodilator pulmonary function tests are normal or when the examiner determines that post-bronchodilator studies should not be done and states why; and when evaluating based on PFT's, use post-bronchodilator results in applying the evaluation criteria in the rating schedule unless the post-bronchodilator results were poorer than the pre-bronchodilator results. In those cases, use the pre-bronchodilator values for rating purposes. 38 C.F.R. §§ 4.96(d)(3), (4). 
+
+The criteria for evaluating chronic bronchitis provide in part that FEV-1 of 71- to 80-percent predicted, or; FEV-1/FVC of 71 to 80 percent, or; DLCO (SB) 66- to 80-percent predicted, warrants a 10 percent rating. 38 C.F.R. § 4.97, DC 6600.
+
+FEV-1 of 56- to 70-percent predicted, or; FEV-1/FVC of 56 to 70 percent, or; DLCO (SB) 56- to 65-percent predicted, warrants a 30 percent rating. Id.
+
+Discussion
+
+A VA Respiratory DBQ (November 2023 C&P Exam, 2nd Entry) reflects that the examiner reviewed the claim file and noted the Veteran's lay reported history as part of the examination. The Veteran reported symptoms of pleuritic chest pain, dry cough, shortness of breath (SOB), and dyspnea on exertion (DOE). He denied receiving current treatment or medication. Id. P. 3. The examiner indicated that the Veteran's chronic bronchitis did not require the use of oral or parenteral corticosteroid medications or inhaled medications. Id. The examiner also indicated that it did not require the use of oral bronchodilators or antibiotics, and that the Veteran's pulmonary condition is chronic bronchitis. Id. P. 4. The examiner noted an October 2023 chest X-ray that was negative for any acute abnormality. Id. P. 10. The examiner noted that PFTs showed the Veteran to have FEV of 70 percent predicted, pre-bronchodilator, and 71 percent post-bronchodilator; and FEV-1 of 73 percent predicted, pre-bronchodilator, and 74 percent post-bronchodilator. Id. P. 11. The examiner noted that the FEV test most accurately reflected the level of the Veteran's disability, and that diffusion capacity of the lung for carbon monoxide by the single breath method (DLCO) testing was not indicated for the Veteran. Id. P. 11.
+
+Upon receipt of the DBQ, the Agency of Original Jurisdiction (AOJ) informed the examiner that the rating criteria for DC 6600 required ratings to be based on FEV-1 or FEV-1/FVC, and the examiner was asked to identify which one applied to the Veteran. The examiner responded that FEV-1 most accurately reflects the Veteran's level of disability. See December 2023 C&P Exam.
+
+The Board finds that the objective findings on clinical examination show that the Veteran's chronic bronchitis more nearly approximates the assigned 10 percent rating. 38 C.F.R. § 4.1. A higher rating was not met or approximated, as the Veteran's FEV-1 was greater than 70. 38 C.F.R. § 4.97, DC 6600. Hence, the Board finds that the evidence is persuasively against an initial rating higher than 10 percent, and that the Board is constrained to deny the appeal.
+
+Since the evidence is persuasively against an initial rating higher, there is no reasonable doubt to resolve. Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc); 38 C.F.R. § 4.3.
+
+2. Entitlement to an initial evaluation for chronic sinusitis is denied.
+
+Rating Criteria
+
+The AOJ evaluated this disability as chronic maxillary sinusitis. See December 2023 Rating Decision Codesheet, P. 1. Chronic maxillary sinusitis is rated under the General Formula. These criteria provide that three or more incapacitating episodes (IEs) per year of sinusitis requiring prolonged (lasting four to six weeks) antibiotic treatment, or; more than six non-IEs per year of sinusitis characterized by headaches, pain, and purulent discharge or crusting, warrant a 30 percent rating. 38 C.F.R. § 4.97, General Formula. One or two IEs per year of sinusitis requiring prolonged (lasting four to six weeks) antibiotic treatment, or; three to six non-IEs per year of sinusitis characterized by headaches, pain, and purulent discharge or crusting, warrants a 10 percent rating. Id. Detected by X-ray only warrants a 0 percent (noncompensable) rating. Id. The Note provides that an IE of sinusitis means one that requires bed rest and treatment by a physician.
+
+Discussion
+
+The Sinusitis DBQ (November 2023 C&P Exam, 1st Entry) reflects that the examiner noted the Veteran to report that he experienced nasal congestion and drainage, both of which began during his deployment to Iraq, where he started having sinus headaches and tenderness over the sinuses. He complained of current symptoms of nasal congestion, drainage, episodes of sinusitis, sinus headaches, and tenderness over the sinuses. Id. P. 2, 3. The examiner noted the Veteran to have the symptoms he reported, which he noted were non-IE that occurred once over the prior 12 months. Id. P. 3. The examiner noted that the Veteran did not have any IEs over the prior 12 months, and that he had not undergone any surgical procedures. The examiner noted a March 2019 CT of the head that was interpreted as having shown bilateral maxillary and ethmoid sinus mucosal thickening; no air-fluid levels; and that the frontal sinuses and sphenoid sinuses were clear. Id. P. 8. The examiner opined that the impact of the disability on the Veteran's ability to work is that it makes strenuous labor difficult, and that the Veteran should avoid smoky work environments, as they would make his symptoms worse. Id. P. 9. The evidence of record notes that the Veteran works full time as a chef.
+
+The Board finds that the evidence of record persuasively shows that the Veteran's chronic sinusitis has not manifested at a compensable rate during this initial rating period on appeal. Hence, the Board is constrained to deny the appeal for a compensable rating. 38 C.F.R. §§ 4.1, 4.31, 5.97, DC 6513.
+
+Since the evidence is persuasively against the claim, there is no reasonable doubt to resolve. Lynch, 21 F.4th at 781-82; 38 C.F.R. § 4.3. 
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for pleuritis is remanded.
+
+The AOJ denied this claim, determining that there was no evidence of in-service symptoms and no evidence of a current diagnosis. See November 2023 Rating Decision Narrative. The Board notes, however, that the medical reports are inconsistent and require clarification by the examiner. In the Respiratory DBQ (November 2023 C&P Exam, 2nd Entry), the examiner noted the Veteran's report of pleuritic symptoms, but he did not note a diagnosis of a pleuritic disorder. Id. P. 3, 4. In the report of his medical nexus opinion, however, the examiner opined that the Veteran had pleuritis that he did not have prior to his tour in Iraq, and that it was due his exposure to the environmental toxins while there. See November 2023 C&P Exam, 3rd Entry, P. 4, 5. Hence, a remand is required, as the claim was denied on an incomplete record, which constitutes pre-decision error.
+
+2. Entitlement to service connection for non-allergic rhinitis is denied.
+
+The AOJ determined that there was no evidence of non-allergic rhinitis in the STRs, and that the disorder is not among the disorders deemed associated with exposure to environmental toxins in SWA. See November 2023 Rating Decision Narrative, P. 6. The medical examiner noted active symptomatology from the Veteran's non-allergic rhinitis, see November 2023 C&P Exam, 1st Entry, P. 4, but did not address an etiology in the nexus opinion. A claimant is not confined to presumptive service connection to prove a claim. See Combee v. Brown, 34 F.3d 1039, 1043-44 (Fed. Cir. 1994). Hence, having evidence of a current diagnosis and his conceded exposure, the Veteran was entitled to have the examiner opine on a direct causation standard on whether the disorder is causally connected to his exposures while in SWA, even though the disorder is not among the presumed disorders. Hence, the Board finds pre-decision error via an incomplete medical opinion. Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).
+
+The matters are REMANDED for the following action:
+
+1. Send the claim file to the clinician who provided the November 2023 nexus opinions, or another clinician of similar credentials if that clinician is no longer available. Ask the clinician to provide an addendum wherein it is clarified whether the evidence is at least in approximate balance that the Veteran has, or had, pleuritis. If the clinician answers, yes, then clarify the November 2023 nexus opinion.
+
+2. Ask the clinician to review the claim file and then opine on whether evidence is at least in approximate balance that the Veteran's currently diagnosed non-allergic rhinitis is causally connected to his active service, to include his exposure to environmental hazards while serving in SWA. Inform the clinician further that a negative nexus opinion based solely on the fact that the disorder is not among those currently deemed associated with SWA service is inadequate per se. See Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).
+
+3. Inform the clinician that a full explanation must be provided for the opinions, and that mere conclusory statements are to be avoided. 
+
+4. After the above is complete, readjudicate the claims as appropriate.
+
+ 
+
+ 
+
+Martin T. Mitchell
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Snyder, William T.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

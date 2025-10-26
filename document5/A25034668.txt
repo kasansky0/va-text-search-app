@@ -1,0 +1,73 @@
+Citation Nr: A25034668
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 241009-480939
+DATE: April 15, 2025
+
+ORDER
+
+Service connection for obstructive sleep apnea, secondary to service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities, is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran's obstructive sleep apnea was not incurred during his military service; did not manifest within one year of separation of service; nor is it otherwise etiologically related to active service. 
+
+2. The Veteran's obesity is an intermediate step between his obstructive sleep apnea and his service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for obstructive sleep apnea, secondary to service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities, are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran served on active duty in the United States Air Force from August 1977 to August 2003.  In April 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested review of a February 2023 rating decision based on new and relevant evidence.  In October 2023, the agency of original jurisdiction (AOJ) issued a rating decision, finding that new and relevant evidence was received, and denied the claim based on the evidence of record at the time of that decision.  Thereafter, a November 2023 rating decision noted that a special review of the Veteran's file was mandated on April 28, 2023 and, after consideration of the evidence, continued the denial of the Veteran's claim.  In his November 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), the Veteran elected the Direct Review option; therefore, the Board may only consider the evidence of record at the time of the April 2023 rating decision on appeal.  38 C.F.R. § 20.301.
+
+Service Connection
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303.  Generally, the evidence must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).  Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Service connection may also be granted on a secondary basis for a disability that is due to or aggravated by a service-connected disease or injury.  Establishing service connection on a secondary basis requires that there is sufficient evidence to show that (1) a current disability exists and (2) the current disability was either (a) caused by or (b) aggravated by a service-connected disability.  Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc); see also Spicer v. McDonough, 61 F.4th 1360, 1364 (Fed. Cir. 2023) (invalidating the requirement of "proximate cause" and instead holding "but for" causation or aggravation is enough to show entitlement to secondary service connection).  A permanent worsening is not required, as secondary service connection is warranted for any incremental increase in disability or any additional impairment of earning capacity in non-service-connected disabilities resulting from service-connected conditions regardless of its permanence.  Ward v. Wilkie, 31 Vet. App. 233, 239 (2019).
+
+Entitlement to service connection, to include on a secondary basis, for obstructive sleep apnea
+
+The Veteran contends that his service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities contributed to the development of obesity and caused his obstructive sleep apnea.
+
+Obesity is not considered a disease or disability for VA purposes and is not subject to service connection.  See Marcelino v. Shulkin, 29 Vet. App. 155 (2018).  VA's Office of General Counsel (OGC) issued a precedential opinion addressing questions regarding whether obesity may be considered a disease for the purposes of service connection under 38 U.S.C. §§ 1110 and 1131, and whether obesity may be considered a disability for purposes of secondary service connection.  In general, VAOPGCPREC 1-2017 concludes that obesity per se is not a disease or injury for purposes of 38 U.S.C. §§ 1110 and 1131 and, therefore, may not be service connected on a direct or secondary basis.  The opinion further noted that obesity may be an intermediate step between a service-connected disability and a current disability that may be connected on a secondary basis.  To meet this criterion, the Veteran must demonstrate that a previously service-connected disability caused the Veteran to become obese; that obesity was a substantial factor in causing secondary disability; and the secondary disability would not have occurred but for the obesity.  VAOPGCPREC 1-2017 (January 6, 2017).
+
+Turning to the evidence of record, the Veteran's service treatment records (STRs) demonstrate that the Veteran weighed 181 pounds upon entrance and 215 pounds at separation.  The records are silent for complaints or symptoms of sleep apnea during service.
+
+Post service private treatment records reflect an October 2020 at-home sleep study with a diagnosis of severe obstructive sleep apnea.
+
+In a July 2022 statement, the Veteran indicated that pain from his service-connected his lumbar spine, right knee, and radiculopathy of the bilateral lower extremities prevents him from exercising.  He noted that since separation from service, he gained approximately 70 pounds.
+
+During a November 2022 VA examination, the examiner noted a diagnosis of obstructive sleep apnea established in 2020.  The examiner opined that the Veteran's sleep apnea did not occur in service or is directly related to service, as his STRs are silent for symptoms of or a diagnosis of sleep apnea and medical evidence does not confirm a diagnosis of sleep apnea after service until 2020.  The examiner also opined that it less likely that the Veteran's service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities caused his sleep apnea because these disabilities are not among the causes or risk factors associated with obstructive sleep apnea, to include hypertension, diabetes, being over the age of 60, and having a BMI over 40.  Notably, the examiner indicated that the Veteran has all of these risk factors.  As to his obesity being an intermediate step in the development of his sleep apnea, the examiner stated that the Veteran is not service-connected for obesity and that obesity is caused by consuming more calories than one's body can use.
+
+VA obtained an addendum medical opinion in February 2023, considering the Veteran's presumptive toxic exposure between 1991 and 2001.  The examiner opined that there is insufficient evidence in medical literature and records to support that the Veteran' conceded toxic exposure in service led to the development of his obstructive sleep apnea.    
+
+VA obtained another addendum medial opinion in September 2023, considering whether the Veteran's service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities caused the Veteran's obstructive sleep apnea.  The examiner provided a negative nexus opinion, stating that the pathophysiologies of these conditions are unrelated.  No further rationale was provided.
+
+In support of his claim, the Veteran submitted an April 2023 private medical opinion by Dr. Z. M., who opined that the Veteran's obesity is related or due to the Veteran's service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities.  He stated that, due to the Veteran's chronic pain in his back, right knee, and lower extremities, he participated in less physical activities leading to a more sedentary life, which is a contributing factor to his weight gain.  Dr. Z. M. found that it is more likely that, without the Veteran's weight gain and obesity, his obstructive sleep apnea would not have occurred.  Dr. Z. M. reviewed the Veteran's records and noted progressive weight gain after separation from service due to the symptomatology related to his service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities.  He cited to and summarized medical articles that discussed the impact of obesity and pain on obstructive sleep apnea, along with the January 2017 VA memo confirming that obesity may be an intermediate step between a veteran's service-connected disability and the current disability.
+
+At the outset, the Veteran does not claim, nor does the record reflect, that he had any symptoms related to sleep apnea during, or on an ongoing basis, since service. The earliest relevant medical evidence of record indicating the presence of sleep apnea is in 2020, many years after separation from active service.  Moreover, there is no competent evidence of record indicating that the Veteran's sleep apnea was due to active service.
+
+However, the Veteran and his representative assert that his sleep apnea is not directly related to his active duty service, but that his service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities contributed to the development of obesity, which caused his sleep apnea.
+
+Upon review of the relevant evidence, the Board determines that service connection for obstructive sleep apnea, secondary to the Veteran's service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities, is warranted.  While VA examiners provided negative nexus opinions in November 2022, February 2023, and September 2023, the Board finds them to be inadequate, as they do not address whether the Veteran's service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities caused the Veteran to become obese, and that the Veteran's sleep apnea would not have occurred but for this obesity.  While the November 2022 VA examiner states that a risk factor of developing obstructive sleep apnea is excess weight, and she acknowledged the Veteran's high BMI, she only noted that the Veteran is not service-connected for obesity, rather than provide an opinion as to whether the Veteran's obesity is an intermediate step between his obstructive sleep apnea and his service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities.
+
+The Board finds the April 2023 private medical opinion from Dr. Z. M. to be highly probative and sufficient to establish service connection for the Veteran's obstructive sleep apnea, as it is competent, credible, and probative, and it is based on a review of the Veteran's claims file and is supported by medical literature and consideration of the Veteran's lay statements.  Dr. Z. M. determined that the chronic pain from the Veteran's service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities prevented the Veteran from being able to exercise and contributed to his weight gain after separation from service, and that his obesity played an intermediate step in the development of his obstructive sleep apnea.  Thus, a nexus is established.
+
+In conclusion, as the Board finds that the Veteran's obesity is an intermediate step between his obstructive sleep apnea and his service-connected lumbar spine disability, right knee disability, and radiculopathy of the bilateral lower extremities, his claim for service connection for obstructive sleep apnea is granted. 
+
+ 
+
+ 
+
+Thomas L. English
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Houle, Denise
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

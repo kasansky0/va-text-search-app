@@ -1,0 +1,97 @@
+Citation Nr: A25034733
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240417-434195
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for hypertension is denied.
+
+FINDING OF FACT
+
+The Veteran has a current diagnosis of hypertension, but the evidence weighs persuasively against a finding that the Veteran's hypertension began in service, within a year of service, or is otherwise due to service.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for hypertension have not been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.307, 3.309.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from June 1969 to June 1971.
+
+The rating decision on appeal was issued in February 2024; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  See 38 C.F.R. § 3.2400(a)(1).
+
+In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the February 2024 agency of original jurisdiction (AOJ) rating decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+This appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.800(c).
+
+The Veteran contends that he suffers from hypertension which was caused by his conceded exposure to contaminated water at Camp Lejeune. 
+
+Generally, to establish service connection a Veteran must show: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease incurred or aggravated during service."  Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004).  Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Service connection for certain chronic disorders may be presumed where demonstrated to a compensable degree within 1 year following separation from qualifying service.  38 U.S.C. §§ 1101, 1112, 1113; 38 C.F.R. §§ 3.307, 3.309.  Hypertension is deemed a chronic disease.  Id. 
+
+For the showing of a chronic disease in service, there must be a combination of manifestations sufficient to identify the disease entity and sufficient observation to establish chronicity at the time. If chronicity in service is not established, evidence of continuity of symptoms after discharge is required to support the claim.  38 C.F.R. § 3.303(b).  See Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+For an enumerated "chronic disease" such as hypertension shown in service (or within a presumptive period under § 3.307), subsequent manifestations of the same chronic disease at any later date, however remote, are service-connected, unless clearly attributable to intercurrent causes.  See Groves v. Peake, 524 F.3d 1306, 1309 (2008).
+
+VA regulations state that hypertension or isolated systolic hypertension must be confirmed by readings taken two or more times on at least three different days.  38 C.F.R. § 4.104, Diagnostic Code 7101, Note (1).  In promulgating this note, VA made the following comment:
+
+Two commenters requested we clarify the meaning of the note. Standard medical texts recommend multiple blood pressure readings for the diagnosis of hypertension although the number of measurements varies, with "at least three sets over at least a three-month interval" (Braunwald, 818) at "at least two measurements on two separate evaluations (Harrison, 1001) among the specific recommendations. We have revised the note to require that hypertension be confirmed by readings taken two or more times on each of at least three different days. This will assure that the existence of hypertension is not conceded based solely on readings taken on a single, perhaps unrepresentative, day.
+
+62 Fed. Reg. 65,207, 65,215 (Dec. 11, 1997).
+
+VA has also defined when hypertension is deemed a disability for VA purposes diastolic blood pressure is predominantly 90m, or greater, and isolated systolic hypertension means that the systolic blood pressure is predominantly 160mm or greater with a diastolic blood pressure of less than 90mm.  38 C.F.R. § 4.104, Diagnostic Code 7101, Note (1).  In promulgating this note, VA cited to Cecil, 253, based on a 1988 report of the Joint National Committee on Detection, Evaluation, and Treatment of High Blood Pressure. 62 Fed. Reg. at 65,215.
+
+A compensable, 10 percent rating for hypertension is warranted for hypertension with diastolic pressure predominantly 100 or more or systolic pressure predominantly 160 or more or minimum evaluation for an individual with a history of diastolic pressure predominantly 100 or more who requires continuous medication for control.  38 C.F.R. § 4.104, Diagnostic Code 7101.
+
+In making all determinations, the Board must fully consider the lay assertions of record.  A layperson is competent to report on the onset and continuity of their current symptomatology.  See Layno v. Brown, 6 Vet. App. 465, 470 (U.S. 1994) (a Veteran is competent to report on that of which he or she has personal knowledge).  Lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition; (2) the layperson is reporting a contemporaneous medical diagnosis; or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  Davidson, 581 F.3d at 1316; Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).  When considering whether lay evidence is competent the Board must determine, on a case-by-case basis, whether the Veteran's particular disability is the type of disability for which lay evidence may be competent.  Kahana v. Shinseki, 24 Vet. App. 428 (U.S. 2011); see also Jandreau, 492 F.3d at 1376-77.  
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107(b).  The benefit of the doubt applies when the evidence for and against is in "approximate balance" or "nearly equal," but does not apply when the evidence persuasively favors one side or the other.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+On August 10, 2022, the President of the United States signed into law the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act).  38 U.S.C. § 1168 requires a medical nexus opinion and examination for claimed disabilities with a possible nexus to toxic exposure risk activities (TERA).
+
+A Veteran who had no less than 30 days of service at Camp Lejeune during the period beginning on August 1, 1953, and ending on December 31, 1987, is presumed to have been exposed during such service to the following contaminants in the water supply at Camp Lejeune: trichloroethylene (TCE), perchloroethylene (PCE), benzene and vinyl chloride.  38 C.F.R. § 3.307(a)(7)(i).  The sub-regulatory guidance deems exposures at Camp Lejeune to qualify as a TERA activity.  VBA Letter 20-22-10, 10-13, Processing Claims Involving the PACT Act, 87 Fed. Reg. 78,543 (Dec. 22, 2022).
+
+In August 2023, the AOJ placed a Memorandum of record certifying that the Veteran did qualify for a presumption of exposure, including Camp Lejeune water contamination. 
+
+Initially, the Board notes that while the Veteran has presumed exposure to the contaminated water at Camp Lejeune, hypertension is not recognized as a disability associated with exposure to contaminants in the water supply at Camp Lejeune.  38 C.F.R. § 3.309(f).  Nonetheless, direct service connection may still be awarded, based on a finding that the Veteran's hypertension is related to active service.
+
+Turning to the facts, the Veteran's service enlistment examination in April 1969 was normal.  His blood pressure at that time measured 112/70.  The Veteran denied a history of high or low blood pressure.  At a May 1969 physical examination, the Veteran was deemed fit for military training with no physical defects noted.
+
+The Veteran's separation examination in April 1971 was normal.  His blood pressure at that time measured 138/76.  There are no other complaints of or treatment for hypertension in the Veteran's service treatment records.  
+
+Following service, there is no documentation of the Veteran being treated for or diagnosed with hypertension until 2002.  In November 2002, the Veteran suffered a stroke which resulted in residual weakness on the right side of his body, difficulty ambulating, and hypertension.  Thereafter, the Veteran was placed on medication to treat hypertension and experienced elevated blood pressure readings.  
+
+The Veteran was afforded a VA hypertension examination in October 2023.  The examiner noted the Veteran's exposure to contaminated water at Camp Lejeune.  Additionally, the evidence review listed prior VA examinations noted as occurring on September 4, 2018.  The Board observes that VA examinations on or near September 4, 2018, do not exist in the record.  There is a prior rating decision dated September 4, 2018, addressing service connection for hypertension.  However, no VA examinations for hypertension are listed in the evidence review of that rating decision.  The Board finds that the erroneously listed VA examinations from 2018 are not prejudicial to the Veteran, as the exams were not considered by the examiner in the analysis relied upon, as more fully discussed below.
+
+The VA examiner considered the Veteran's service at Camp Lejeune and his exposure to water contaminants.  However, the examiner concluded that there is no medical evidence to suggest that exposure to contaminants in Camp Lejeune water would lead to hypertension.  The Veteran developed hypertension 30 years after his service at Camp Lejeune.  Additionally, the clinician noted that 32 to 46 percent of adults will develop hypertension, with the condition being more common in men than women.  Therefore, a nexus was not established between the Veteran's hypertension and his toxic exposure.
+
+The probative value of a medical opinion is based, in part, on whether the examiner relied upon an accurate factual predicate.   Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008); Reonal v. Brown, 5 Vet. App. 458 (1993).  The Board is the ultimate fact finder on matters which do not require medical training.  See generally Kahana v. Shinseki, 24 Vet. App. 428 (2011). 
+
+Here, the Veteran did not experience hypertension in service.  At the earliest, he did not seek treatment for hypertension until 2002 after suffering a stroke, which does not tend to support a continuity finding.  See Buchanan v. Nicholson, 451 F.3d 1331, 1336-37 (Fed. Cir. 2006) (the lack of contemporaneous medical evidence may be considered as one factor in assessing the credibility of lay statements).  See also Maxson v. Gober, 230 F.3d 1330, 1333(Fed. Cir. 2000) (A prolonged period without medical complaint can be considered, along with other factors concerning a claimant's health and medical treatment during and after military service, as evidence of whether an injury or a disease was incurred in service which resulted in any chronic or persistent disability).  Therefore, the Board finds that service connection for the Veteran's hypertension under 38 C.F.R. § 3.303(b), or as manifesting to a compensable degree within one year of service discharge under 38 C.F.R. § 3.309(a), is not warranted.  The Board finds that the most credible and persuasive evidence is against a finding of recurrent and/or persistent symptoms of disability involving hypertension since service.  
+
+Based on the above finding, the Board finds the medical opinion of record to be probative, as it considered both the relevant lay and medical evidence, and provided a well-reasoned and adequate rationale explaining the basis for the ultimate conclusion.  The examiner relied on a factual predicate - no continuity of symptomatology - which the Board finds is factually true.  The Board also notes that there is no affirmative opinion of record for the Veteran's hypertension.
+
+(continued on the next page)
+
+Ultimately, the Board finds the lay and medical evidence weighs persuasively against the claim.  As the evidence is persuasively against finding that the Veteran's hypertension is due to his active service or that his symptoms manifested in or persisted since service, there is no benefit of the doubt left to resolve in his favor, and the claim for service connection for hypertension is denied.  38 U.S.C. § 5107.
+
+ 
+
+ 
+
+T. MAINELLI
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Estes
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

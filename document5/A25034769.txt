@@ -1,0 +1,83 @@
+Citation Nr: A25034769
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240923-476122
+DATE: April 15, 2025
+
+REMANDED
+
+Whether the character of the Appellant's discharge from service constitutes a bar to the receipt of Department of Veterans Affairs (VA) benefits is remanded.
+
+REASONS FOR REMAND
+
+The Appellant served on active duty with the United States Army from January 2001 to April 2002; the character of this service is the subject of this appeal.
+
+The administrative decision on appeal was issued by the agency of original jurisdiction (AOJ) in September 2024.  In a timely VA Form 10182 (Decision Review Request: Board Appeal) received in September 2024, the Appellant elected the Direct Review option for this appeal.  Therefore, the Board may consider only the evidence in the record at the time of the September 2024 decision.  See 38 C.F.R. § 20.301.  If evidence was submitted during the period after the AOJ issued the decision on appeal, the Board did not consider it in this decision.  See 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Appellant would like VA to consider any evidence that was submitted that the Board could not consider, the Appellant may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  See 38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  See id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the issue on appeal, any evidence the Board could not consider will be considered by the AOJ in the adjudication of this claim.  See 38 C.F.R. § 3.103(c)(2)(ii).
+
+Finally, the Board notes there is a prior final denial regarding the character of the Appellant's discharge in the record, in July 2005.  In the September 2024 administrative decision on appeal, the AOJ considered new and relevant evidence received from the Appellant regarding the character of discharge issue.  Therefore, receipt of new and relevant evidence is conceded based on the AOJ's readjudication of the character of the Appellant's discharge on the merits, and the threshold matter will not be considered here.
+
+Whether the character of the Appellant's discharge from service constitutes a bar to the receipt of VA benefits is remanded.
+
+When a person is seeking VA benefits, it first must be shown that the service member, upon whose service such benefits are predicated, has attained the status of a 'veteran' for VA purposes.  Holmes v. Brown, 10 Vet. App. 38, 40 (1997).  "The term veteran means a person who served in the active military, naval or air service, and who was discharged or released therefrom under conditions other than dishonorable."  38 U.S.C. § 101(2).  VA benefits are not payable unless the period of service upon which the claim is based was terminated by discharge or release under conditions other than dishonorable.  38 U.S.C. § 5303; 38 C.F.R. § 3.12(a).
+
+A finding that a person was insane under VA regulations at the time of the misconduct leading to discharge will lift any bar to benefits enumerated in section 3.12.  38 C.F.R. § 3.12(b); see 38 C.F.R. § 3.354(a) (defining 'insanity').  Although insanity need not be causally connected to the misconduct that led to the discharge, it must be concurrent with that misconduct and requires competent medical evidence to establish a diagnosis.  See Beck v. West, 13 Vet. App. 535, 539 (2000).
+
+In this case, the AOJ has determined that the Appellant is barred from receiving VA benefits because his discharge was due to willful and persistent misconduct.  In the September 2024 administrative decision on appeal, the AOJ relied on the administrative decision completed in July 2005.  However, in June 2024, amendments to VA's regulation governing character of discharge went into effect that allow for VA to consider whether there are compelling circumstances to mitigate willful and persistent misconduct leading to discharge.  See Update and Clarify Regulatory Bars to Benefits Based on Character of Discharge, 89 Fed. Reg. 32,361 (April 26, 2024) (codified at 38 C.F.R. § 3.12(d)-(e)).
+
+The Board finds it was an error in fulfilling VA's duty to assist not to inform the Appellant of this change in the governing regulation prior to issuing the administrative decision, and to fail to issue a new determination.  Therefore, a remand is necessary to issue a new determination, as the AOJ provided the Appellant with proper notice of the regulation amendments after the decision on appeal.  See 38 C.F.R. § 20.802.
+
+Further, the service personnel records in the claims file indicate that several of the charges preferred against the Appellant carried possible sentences under the Uniform Code of Military Justice of a bad conduct discharge or dishonorable discharge.  That is, the record reflects the charges were triable by a general court-martial, and that the Appellant requested discharge in lieu of court-martial proceedings, but it is unclear from the record whether the Appellant was escaping trial by a general court-martial.  Therefore, the Board finds it was another error in fulfilling VA's duty to assist not to attempt to locate further service personnel records to clarify whether the proper bar was applied.  On remand, the AOJ should attempt to obtain any outstanding service personnel records relating to the court-martial proceedings.
+
+Lastly, the Appellant's service treatment records indicate several psychiatric diagnoses while in service, coincident with the misconduct leading to discharge.  To determine whether insanity was raised, the AOJ relied on a December 2001 mental status evaluation that concluded the Appellant was fit to understand and participate in out-processing proceedings.  However, the Board finds the record is sufficient to raise the issue of insanity, and that it was an error in fulfilling VA's duty to assist to overlook the multiple psychiatric diagnoses and fail to obtain a medical opinion regarding insanity and/or mental impairment at the time of the misconduct leading to discharge.  On remand, such a medical opinion should be obtained.
+
+The matter is REMANDED for the following action:
+
+1. Attempt to obtain from the appropriate repositories any service personnel records that are not already of record, and associate those documents with the claims file.  In particular, attempt to obtain the documents related to any court-martial proceedings in the Appellant's case, such as documentation of which court-martial the charges were preferred in this case.  Attempts to obtain these records should include, but is not necessarily limited to, a request to the U.S. Army Legal Services Agency.
+
+All such attempts should be documented in the claims file.  If any additional records are unavailable, the Appellant's file must be documented clearly to that effect and the Appellant notified in accordance with 38 C.F.R. § 3.159(e).
+
+2. Then, obtain a medical opinion from a psychologist or psychiatrist as to whether the Appellant had a psychiatric disorder at the time of the misconduct leading to his discharge.  The need for an in-person examination is left to the discretion of the examiner; if the Appellant is unavailable to appear for an in-person examination (either in person or via telecommunication), an opinion based on review of the record should be obtained.  
+
+The examiner should be advised that 38 C.F.R. § 3.354(a) defines "insanity" as "one who, while not mentally defective or constitutionally psychopathic, except when a psychosis has been engrafted upon such basic condition, exhibits, due to disease, a more or less prolonged deviation from his normal method of behavior; or who interferes with the peace of society; or who has so departed (become antisocial) from the accepted standards of the community to which by birth and education he belongs as to lack the adaptability to make further adjustment to the social customs of the community in which he resides."  The term "insanity" refers to a condition involving conduct which deviates severely from the social norm or interferes grossly with the capacity to meet the ordinary demands of life.  See VAOPGCPREC 20-97.  
+
+The examiner should also be informed that VA's General Counsel has held that behavior which is generally attributable to a particular substance-abuse disorder does not exemplify the severe deviation from the social norm or gross nature of conduct which is generally considered to fall within the scope of the term insanity, and therefore, does not constitute insane behavior under 38 C.F.R. § 3.354(a).  
+
+Following a review of the claims file, review of VA's definition of "insanity," and examination of the Appellant if deemed necessary, the psychologist or psychiatrist should offer an opinion as to the following:
+
+1)	What psychiatric symptoms and/or diagnoses were present during the Appellant's active duty service?  If only symptoms were present during service, were these later medically determined to demonstrate any psychiatric disorder?
+
+2)	Does the evidence, either lay or medical, indicate the Appellant exhibited mental or cognitive impairment at the time of the in-service misconduct?  If so, to what extent?
+
+3)	Did the Appellant, due to disease, exhibit a more or less prolonged deviation from his normal method of behavior concurrent with his misconduct in service?
+
+4)	Did the Appellant, due to disease, interfere with the peace of society concurrent with his misconduct in service?
+
+5)	Did the Appellant, due to disease, depart (become antisocial) from the accepted standards of the community to which by birth and education he belonged as to lack the adaptability to make further adjustment to the social customs of the community in which he resided concurrent with his misconduct in service?
+
+In offering the requested opinions, the examiner should address, at a minimum, the Appellant's service treatment records and his June 2024 written statement detailing his experiences during service.  
+
+For the purposes of the opinion, the examiner should assume the Appellant's statements about his symptoms are credible, unless they are inconsistent with the medical evidence or with medical principles concerning his condition.  The Board emphasizes that this does not constitute a positive credibility determination, as VA will weigh the evidence upon adjudication.
+
+In providing the requested opinions, the examiner may identify any discrepancies, inconsistencies, or contradictions contained in the evidence of record, and may state whether the Appellant's lay statements are supported by medical or other evidence.  The examiner may not dismiss the Appellant's statements about his symptoms solely because they are not documented in contemporaneous treatment records.
+
+A complete medical rationale for all opinions expressed must be provided.
+
+3. Then, issue a new character of discharge determination using the revised provisions of the character of discharge regulation.  See 38 C.F.R. § 3.12.
+
+ 
+
+ 
+
+M. HYLAND
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Josey, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

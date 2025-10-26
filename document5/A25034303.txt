@@ -1,0 +1,113 @@
+Citation Nr: A25034303
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 231211-399304
+DATE: April 14, 2025
+
+ORDER
+
+The 30 percent disability rating for a migraine headache disability, characterized as tension headaches is restored, effective May 22, 2023, and the appeal is granted.
+
+Entitlement to an increased rating for migraine headaches is denied.
+
+Entitlement to service connection for sleep apnea, to include as secondary to post-traumatic stress disorder (PTSD), is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran's service-connected headache disability did not show actual improvement under the normal circumstances of life during the pertinent appeal period.
+
+2. The Veteran's migraine disorder was not characteristic of very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability.
+
+3. Resolving all reasonable doubt in favor of the Veteran, the Veteran's sleep apnea was aggravated by his service-connected PTSD.
+
+CONCLUSIONS OF LAW
+
+1. The reduction of the 30 percent rating for service-connected headache disability was improper and the rating is restored.  38 U.S.C. §§ 1155, 5103, 5103(a), 5112(b)(6); 38 C.F.R. §§ 3.103(b), 3.105(e), 4.1, 4.2, 4.7, 4.115(a), 4.115(b), Diagnostic Code (DC) 8100.
+
+2. The criteria for entitlement to a rating in excess of 30 percent for service-connected migraines are not met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.159, 4.1, 4.3, 4.124(a), DC 8100.
+
+3. The criteria for entitlement to service connection for sleep apnea, to include as secondary to post-traumatic stress disorder (PTSD), have been met. 38 U.S.C. §§ 1101, 1110, 1154(b), 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from July 2000 to March 2005.
+
+The rating decisions on appeal were issued in October and November 2023 issued by a Department of Veterans Affairs (VA) Regional Office (RO), and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  In his December 2023 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal.  38?C.F.R. § 20.301.
+
+Increased Ratings
+
+Disability evaluations are determined by the application of the Schedule for Rating Disabilities, which assigns ratings based on the average impairment of earning capacity resulting from a service-connected disability. 38 U.S.C. § 1155; 38 C.F.R. Part 4.  Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.
+
+In determining the present level of a disability for any rating claim, the Board must consider the possible application of "staged ratings" for diverse symptoms meeting the criteria for different ratings in distinct time periods during the course of the appeal, whether it is an initial rating case or not.  See Hart v. Mansfield, 21 Vet. App. 505 (2007); See Fenderson v. West, 12 Vet. App. 119, 126 (1999).
+
+1. Entitlement to a reduced disability rating for a migraine headache disability
+
+The Veteran contends that the AOJ erred when, in a November 2023 decision, it reduced the Veteran's evaluation for a headache disability from 30 percent to noncompensable rating. For the reasons that follow, the Board finds that the rating reduction was improper and the Veteran's 30 percent rating for hypertension must be restored.
+
+Notwithstanding the procedural steps that must be taken, a rating reduction is not proper unless the veteran's disability shows actual improvement in his or her ability to function under the ordinary conditions of life and work.  See Faust v. West, 13 Vet. App. 342, 349 (2000) (noting that VA must review the entire history of the veteran's disability, ascertain whether the evidence reflects an actual change in the disability, and ascertain whether the examination reports reflecting such change are based upon thorough examinations) (citing Brown v. Brown, 5 Vet. App. 413, 421 (1993)).
+
+The provisions of 38 C.F.R. § 3.105 (e) allow for the reduction in evaluation of a service-connected disability when warranted by the evidence, but only after following certain procedural guidelines.  The RO must issue a rating action proposing the reduction and setting forth all material facts and reasons for the reduction.  The Veteran must then be given 60 days to submit additional evidence and to request a predetermination hearing.  Then a rating action will be taken to effectuate the reduction.  38 C.F.R. § 3.105 (e).  The effective date of the reduction will be the last day of the month in which a 60-day period from the date of notice to the Veteran of the final action expires.  38 C.F.R. § 3.105 (e), (i)(2)(i).
+
+When the reduction in evaluation of a service-connected disability would result in a reduction or discontinuance of compensation payments, specific procedural steps are required under 38 C.F.R. § 3.105(e). Here, the Board finds that no reduction notification procedures were required as the October 2023 rating action that implemented the rating reduction did not reduce the Veteran's overall disability rating of 90 percent.  The special procedural requirements outlined in 38 C.F.R. § 3.105(e) are therefore not applicable in this case. See VAOPGCPREC 71-91 (Nov. 7, 1991); Stelzel v. Mansfield, 508 F.3d 1345, 1347-49 (Fed. Cir. 2007) (holding that provisions of § 3.105(e) do not apply when there is no change in the overall disability rating).
+
+Therefore, having decided that the process required to reduce the Veteran's rating was correctly followed by the RO, the next question to be addressed is whether, given the available evidence, a reduction to noncompensable was proper.
+
+The Veteran's headache disability is rated under DC 8100. Under that Diagnostic Code, a 50 percent rating is assigned for very frequent completely prostrating and prolonged attacks productive of severe economic inadaptability. A 30 percent rating is assigned for characteristic prostrating attacks occurring on an average once a month over last several months. A 10 percent rating is assigned where there are characteristic prostrating attacks averaging one in two months over the last several months. Where there are less frequent attacks, a non-compensable rating is assigned. 38 C.F.R. § 4.124a, DC 8100.
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under DC 8100 to describe the nature and severity of migraines, but it is not defined in the regulation. Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness." Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+VA regulations also do not define "economic inadaptability." In Pierce v. Principi, 18 Vet. App. 440, 445 (2004), the Court examined the term "productive of severe economic inadaptability" in the criteria for a 50 percent rating under Diagnostic Code 8100 and noted that "[n]owhere in the DC is 'inadaptability' defined, nor can a definition be found elsewhere in title 38 of the [C.F.R.]." Id. at 446. The Court explained that, "nothing in Diagnostic Code 8100 requires that the claimant be completely unable to work in order to qualify for a 50 percent rating" because "[i]f "economic inadaptability" were read to import unemployability," a claimant who "met the economic-inadaptability criterion, would then be eligible for a rating of total disability based on individual unemployability [(TDIU)]... rather than just a 50 percent rating." Id. The Court therefore rejected the notion that "severe economic inadaptability" was equivalent to an inability to secure or follow a substantially gainful occupation, the unemployability standard for a TDIU. Id. In addition, the Court acknowledged VA's concession that the phrase "productive of severe economic inadaptability" in Diagnostic Code 8100 should be construed as either "producing" or "capable of producing" severe economic inadaptability. Id. at 445.
+
+In rating headaches or migraines under DC 8100, the Board may not consider the ameliorative effects of medication. See Jones v. Shinseki, 26 Vet. App. 56, 63 (2012).
+
+As noted in the applicable rating decision, the Veteran's 30 percent evaluation was based primarily upon a February 2021 VA examination report.  In that examination report, the Veteran stated that his condition began in 2003 and were getting them three to four times per month. He stated that his condition has now worsened that he had headaches at least once per week. Upon examination, it was noted that the Veteran experienced constant head pain of a pulsating or throbbing nature. It was noted that his pain worsened with physical activity and on both sides of his head. His symptoms were nausea, sensitivity to light, and sensitivity to sound. It was noted that the Veteran experiences prostrating attacks.
+
+Next, the Veteran underwent a VA examination report in May 2023, the Veteran reported that the condition began several years ago with intermittent attacks that varied in frequency and intensity. He experienced pain on both sides of his head daily for 10 to 15 hours. He experienced sensitivity to light. His current symptoms are daily headaches that vary in frequency and intensity lasting 10 to 15 hours. He stated that it is difficult to focus and function and sometimes requires rest. He treats the condition with pain medication. Upon examination, it was noted that he experiences constant head pain of a throbbing or pulsating nature. It was noted that his pain worsens with physical activity, and he was sensitive to to light. The examiner opined that the Veteran does experience prostrating attacks less frequently that once in 2 months.  This is the examination that the noncompensable rating was based upon. 
+
+Upon consideration of the foregoing evidence, and a comparison of the demonstrated symptomatology at the time of the assignment of the Veteran's pre-reduction 50 percent disability rating versus the demonstrated symptomatology since that time, the Board concludes that the evidence does not show actual improvement in the Veteran's ability to function under the ordinary conditions of life and work.  See Faust, supra.  Rather, the medical evidence continues to support the 30 percent evaluation.  In arriving at this conclusion, the Board finds that the impairment was relatively the same during both examinations with the only question being the frequency of the prostrating attacks, but both examinations stating that do in fact occur.  Therefore, the Board will resolve all reasonable favor in doubt of the Veteran and find that no actual improvement has been shown. 
+
+Therefore, the Board finds that the reduction of the 30 percent disability rating was improper and that the restoration of the 30 percent rating for his service-connected migraine headache disorder is warranted, effective July 1, 2024.  See 38 C.F.R. §§ 4.2, 4.10; Brown, 5 Vet. App. at 421.
+
+The Veterans 30 percent rating having been restored, the Board also finds that a rating in excess of 30 percent is not warranted.  
+
+Specifically, as discussed above, the Veteran underwent a VA examination in May 2023.  During this examination, the Veteran was not found that his headaches caused severe economic inadaptability. 
+
+Further, the Veteran was continually treated for this impairment throughout the period on appeal, however, none of the medical records reflect treatment that reflects very frequent completely prostrating and prolonged attacks of headache pain productive of severe economic inadaptability.
+
+Thus, as at no point during the period on appeal was there competent evidence of record supporting a finding that the Veteran's headaches were manifest by very frequent completely prostrating and prolonged attacks of headache pain productive of severe economic inadaptability. 38 C.F.R. § 4.124a, DC 8100.
+
+The Board has considered the Veteran's reports regarding his headache symptoms during this time period. The Veteran's credible statements are competent evidence of the severity of his headache symptoms. See Barr v. Nicholson, 21 Vet. App. 303, 307 (2007) (holding that lay testimony is competent to establish the presence of observable symptomatology); Layno v. Brown, 6 Vet. App. 465, 469 (1994). However, the Board finds the evidence of record persuasively weighs against a higher 50 percent rating. In this regard, the Veteran did not describe extreme exhaustion or powerlessness or describe other factors that could characterize his headaches as "completely prostrating." Therefore, while the Board determines that a 30 percent disability rating is warranted, the next higher 50 percent rating is not warranted.
+
+Accordingly, after resolving reasonable doubt in favor of the Veteran, the Board finds the Veteran's migraine headaches warrant a 30 percent rating, but not more, under DC 8100, throughout the period on appeal.
+
+Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303. Service connection generally requires evidence showing (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service. Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004).
+
+Service connection may also be established on a secondary basis for a disability that is proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310 (a). Establishing service-connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either caused by or aggravated by a service-connected disability. Id.; see also Allen v. Brown, 7 Vet. App. 439 (1995) (en banc).
+
+2. Entitlement to service connection for sleep apnea
+
+The Veteran asserts that his sleep apnea is related to active-duty service.  Specifically, the Veteran asserts that his sleep apnea was caused by his service-connected PTSD. 
+
+After a review of the evidence, the Board finds that service connection for sleep apnea is warranted. 
+
+Here, the Veteran's credible assertions are supported by a private opinion from the Veteran's treating medical provider.  Specifically, in December 2022 the Veteran's treating medical provider opined that the Veteran's sleep apnea was caused by or aggravated by his service-connected PTSD.  This opinion is also supported by a February 2021 VA opinion that states that there is much medical literature to support a connection between PTSD and sleep apnea, and supported by an August 2023 opinion that stated his PTSD does not cause sleep apnea but can aggravate it.  Therefore, although these examiners final conclusions were negative, their opinions still in fact support that of the Veteran's treating provider. 
+
+Thus, in resolving all reasonable doubt in favor of the Veteran, the Board finds that service connection for sleep apnea is warranted. In reaching this conclusion, the Board acknowledges the negative opinions of record.  However, the Board finds that this evidence is at least in relative equipoise. 
+
+Accordingly, the Board finds that the negative and positive evidence is at least in equipoise as to whether the Veteran's sleep apnea is secondary to his PTSD. As such, the Veteran's claim for service connection for sleep apnea is granted.
+
+?
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303. 
+
+ 
+
+B.T. KNOPE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Billinger, Associate Counsel

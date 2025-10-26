@@ -1,0 +1,79 @@
+Citation Nr: A25030065
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240524-443519
+DATE: April 1, 2025
+
+ORDER
+
+Entitlement to a rating in excess of 10 percent for bronchitis with allergies is denied.
+
+FINDING OF FACT
+
+The Veteran's service-connected bronchitis manifests as Forced Expiratory Volume in one second (FEV-1) of 71 to 80 percent of predicted value.
+
+CONCLUSION OF LAW
+
+The criteria for a disability rating in excess of 10 percent for bronchitis with allergies have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1-4.14, 4.96, 4.97, Diagnostic Code (DC) 6600.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the United States Navy from January 2000 to January 2004, and from July 2006 to May 2007.
+
+This appeal comes to the Board of Veterans' Appeals (Board) from a Department of Veterans Affairs (VA) January 2024 rating decision of the Agency of Original Jurisdiction (AOJ), following an earlier duty to assist error, and subsequent additional development, on the part of the AOJ.
+
+In her May 2024 VA Form 10182 Notice of Disagreement, the Veteran elected the Direct Review appeal option. Therefore, the Board may only consider the evidence of-record at the time of the January 2024 rating decision. Any evidence submitted after the January 2024 rating decision cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider the additional evidence that the Board could not consider, she may file a supplemental claim (VA Form 20-0995) and identify the evidence for the AOJ's consideration. 38 C.F.R. § 3.2501. Specific instructions for filing a supplemental claim are included with this decision.
+
+1. Entitlement to a disability rating in excess of 10 percent for bronchitis with allergies is denied.
+
+The Veteran contends that her service-connected bronchitis with allergies warrants a rating in excess of 10 percent. See May 2024 VA Form 10182. 
+
+As a procedural matter, the Board recognizes that in her January 2023 Supplemental Claim and at her July 2023 Higher Level Review informal conference, the Veteran raised questions about the applicability of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, known as the PACT Act. The PACT Act is a regulatory mechanism that, among other things, allows for the award of service connection for certain qualifying conditions. However, relevant to the Veteran's instant claim, the PACT Act does not provide for, or otherwise allow or mandate, disability rating awards. In sum, the PACT Act does not impact disability rating the Veteran receives for her bronchitis. 
+
+Disability evaluations are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects the Veteran's ability to function under the ordinary conditions of daily life, including employment, by comparing the Veteran's symptomatology with the criteria set forth in the Schedule for Rating Disabilities. 38 C.F.R., Part 4. The percentage ratings represent as far as can practicably be determined the average impairment in earning capacity resulting from such diseases and injuries and the residual conditions in civilian occupations. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. Generally, the degree of disabilities specified are considered adequate to compensate for considerable loss of working time from exacerbation or illness proportionate to the severity of the several grades of disability. Id. Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran. 38 C.F.R. § 4.3.
+
+The VA will rate unlisted conditions under a closely related disease or injury consistent with the functions affected, anatomical localization, and symptomatology. 38 C.F.R. § 4.20.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. "Staged ratings" are, however, appropriate for an increased rating claim when the factual findings show distinct time periods where the service-connected disability exhibits symptoms that would warrant different ratings. Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+In every instance where a rating schedule does not identify specific rating criteria for a noncompensable rating (zero percent), a noncompensable rating will be assigned when the requirements for a compensable rating are not met. 38 C.F.R. § 4.31.
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give benefit of the doubt to the Veteran. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776, 781 (Fed. Cir. 2021).
+
+The Veteran's bronchitis is rated under DC 6600, where a 10 percent evaluation is warranted where a Pulmonary Function Test (PFT) indicates one of the following: Forced Expiratory Volume (FEV-1) of 71 to 80 percent predicted; a ratio of Forced Expiratory Volume in one second to Forced Vital Capacity (FEV-1/FVC) of 71 to 80 percent; or Diffusion Capacity of the Lung for Carbon Monoxide by the Single Breath Method (DLCO (SB)) of 66 to 80 percent predicted. A 30 percent evaluation is warranted where a PFT indicates one of the following: FEV-1 of 56 to 70 percent predicted; FEV-1/FVC of 56 to 70 percent; or DLCO (SB) of 56 to 65 percent predicted. A 60 percent evaluation is warranted where a PFT indicates one of the following: FEV-1 of 40 to 55 percent predicted; FEV-1/FVC of 40 to 55 percent; DLCO (SB) of 40 to 55 percent predicted; or maximum oxygen consumption of 15 to 20 ml/kg/min (with cardiorespiratory limit). A 100 percent evaluation is warranted where a respiratory disability manifests one of the following: FEV-1 less than 40 percent of predicted value; FEV-1/FVC less than 40 percent; DLCO (SB) less than 40 percent predicted; maximum exercise capacity less than 15 ml/kg/min oxygen consumption (with cardiac or respiratory limitation); cor pulmonale (right heart failure); right ventricular hypertrophy; pulmonary hypertension (shown by Echo or cardiac catheterization); episode(s) of acute respiratory failure; or a requirement for outpatient oxygen therapy.
+
+When evaluating based on PFTs, post-bronchodilator results are used in applying the evaluation criteria in the rating schedule unless the post-bronchodilator results were poorer than the pre-bronchodilator results. In those cases, use the pre-bronchodilator values for rating purposes. When there is disparity between the results of different PFTs so that the level of evaluation would differ depending on which test result is used, the Board uses the test result that the examiner states most accurately reflect the level of disability. See 38 C.F.R. § 4.96(d)(5), (6).
+
+During the period on appeal, the Veteran was seen for a VA examination to determine the severity of her bronchitis. In March 2023, a VA examiner noted that the Veteran takes daily inhalational and bronchodilator medication, and that her recent treatment records indicated that in the last 12 months she had at least four courses or bursts of systemic corticosteroids. The Veteran also experienced recurring acute exacerbations, which require the use of prescribed antibiotics. However, there was no need for oral bronchodilators or oxygen therapy.
+
+Diagnostic testing was also considered during the exam. Chest x-rays from October 2021 confirmed the findings of no acute cardiopulmonary abnormalities. A PFT showed that pre-bronchodilator the Veteran's FEV-1 was 75%, and post it was 70%. Pre-bronchodilator, the Veteran's FEV-1/FVC was 82% and her DLCO was 86% predicted, and her FEV-1/FVC was 84% post-bronchodilator. There is no post-bronchodilator DLCO measurement. In a September 2023 addendum opinion, the VA examiner clarified that the FEV-1 measurements most accurately reflect the Veteran's current level of disability.
+
+Treatment records during the appeal period reflect that the Veteran was seen for acute cough and bronchitis in January 2023. VA treatment records document history of bronchitis.
+
+Based on the above, the Board finds that the Veteran's bronchitis does not warrant a rating in excess of the currently assigned 10 percent rating. A higher 30 percent rating is not warranted as the PFT from the period on appeal does not indicate one of the following: FEV-1 of 56 to 70 percent predicted; FEV-1/FVC of 56 to 70 percent; or DLCO (SB) of 56 to 65 percent predicted. The Board notes that post-bronchodilator FEV-1 findings were 70 percent, but given that these findings were worse than pre-bronchodilator findings the, pre-bronchodilator findings are applicable, which were 75 percent. The examiner indicated that FEV-1 was the measurement that most accurately reflected the level of disability.
+
+The Board has considered other applicable codes, but find that no others apply.
+
+The Board is aware of the Veteran's lay statements regarding her condition, such as at her July 2023 HLR informal conference where she reported a general worsening of symptoms. However, competent medical evidence is necessary where the determinative question requires medical knowledge. Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007). Here, the ability to determine and measure the severity of a condition as medically complex as chronic bronchitis cannot be done by a layperson. 
+
+Moreover, to the extent that the Veteran, in the VA Form 10182, raised that the examiner "made a decision on personal feelings," the examination report reflects that examiner conducted the requisite testing for the disability and reported all findings in detail. The Veteran did not explain how the examiner's personal feelings rendered the exam inadequate. Therefore, the Board finds that the examination report is adequate for adjudication and remand for additional examination is not warranted.
+
+Accordingly, the Board finds that the evidence is persuasively against finding that a rating in excess of 10 percent for chronic bronchitis with allergies is warranted. See Lynch, 21 F.4th at 781-82.
+
+The Veteran's claim is denied.
+
+ 
+
+ 
+
+G. E. Wilkerson
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Neville, Mikael
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

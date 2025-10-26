@@ -1,0 +1,65 @@
+Citation Nr: A25034687
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240830-470440
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for an obstructive sleep apnea (OSA) disability, to include obesity as an intermediate step, is granted.
+
+FINDING OF FACT
+
+The Veteran's service-connected disabilities caused him to become obese, resulting in his diagnosis of sleep apnea. 
+
+CONCLUSION OF LAW
+
+The criteria for service connection for obstructive sleep apnea (OSA) are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.303, 3.307, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served honorably in the United States Navy from August 1988 to September 1998.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to service connection for an obstructive sleep apnea (OSA) disability, to include obesity as an intermediate step, is granted.
+
+Generally, to prevail on a claim of service connection on the merits, there must be competent evidence of (1) a current disability, (2) medical, or in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury, and (3) medical evidence or other competent evidence of a nexus between the claimed in-service disease or injury and the present disease or injury.  See Hickson v. West, 12 Vet. App. 247 (1999); Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007).
+
+To establish service connection on a secondary basis, the evidence must show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability.  38 C.F.R. § 3.310(a)(b) (2016), Allen v. Brown, 7 Vet. App. 439 (1995) (en banc).
+
+Service connection can also be established through continuity of symptomatology. Walker v. Shinseki, 708 F.3d 1331 (2013); 38 C.F.R. §§ 3.303 (b), 3.309. For chronic diseases shown as such in service or within the applicable presumptive period, subsequent manifestations of the same chronic disease at any later date are service connected unless attributable to an intercurrent cause. 38 C.F.R. § 3.303 (b). For a chronic disease to be considered to have been "shown in service," there must be a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time, as distinguished from merely isolated findings. When the condition noted in service or within the presumptive period is not a chronic disease, a showing of continuity of symptomatology after discharge is required. Id.
+
+The Board notes that obesity is not considered a disease or disability for VA purposes and is not subject to service connection. See Marcelino v. Shulkin, 29 Vet. App. 155, 156 (2018). However, obesity may be an intermediate step between a service-connected disability and a current disability that may be service-connected on a secondary basis. 38 C.F.R. § 3.310; see also Walsh v. Wilkie, 32 Vet. App. 300 (2020). But see Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023) (invalidating 3.310(b) for the use of the phrase "proximately due to" in the context of aggravation). 
+
+The concept of obesity as an "intermediate step" in the service connection context was recently addressed by the Court of Appeals for Veterans Claims (Court) in Garner v. Tran, 33?Vet. App.?241 (2021). 
+
+In Garner, the Court observed that in January 2017, VA's Office of General Counsel (OGC) issued a precedential opinion, finding that although obesity cannot be service connected on a direct basis, obesity may serve as an intermediate step between a service-connected disability and a condition claimed on a secondary basis.  VAOPGCPREC 1-2017.  To decide such claims, OGC stated the analysis involves addressing the following questions: (1) whether the service-connected disability caused the Veteran to become obese (or, aggravated the veteran's obesity); (2) if so, whether obesity/aggravation of obesity as a result of the service-connected disability, was a substantial factor in causing the claimed secondary disability; and (3) whether the claimed secondary disability would not have occurred but for obesity caused/obesity aggravated by the service connected disability.  Id.  The Court acknowledged that the soundness of OGC's guidance was endorsed in its decision in Walsh v. Wilkie, 32?Vet. App.?300, 305-07 (2020).  However, the Court noted that neither OGC's opinion nor Walsh provided guidance regarding what factual circumstances would give rise to claims for secondary service connection with this theory of entitlement. Therefore, if all of Walsh factors are answered in the affirmative, then the current disability may be service connected on a secondary basis, based on obesity.  
+
+The Court provided the following non-exhaustive list of considerations that could give rise to a reasonably raised theory of secondary service connection with obesity as an intermediate step: (1) mobility limitations or reduced physical activity as a result of a service connected physical disability (in particular, orthopedic conditions or chronically painful conditions); (2) reduced physical activity or inability to follow a course of exercise or diet as a result of service-connected mental disability; (3) side effects of medication (e.g., weight gain), where the medication is prescribed for a service connected disability; (4) treatise evidence suggesting a connection between all or some combination of obesity, service connected disability, and the claimed condition; (5) lay statements by a Veteran attributing weight gain or obesity to the service connected disability; and (6) statements by treating physicians or medical examiners attributing weight gain or obesity to the service-connected disability.  Id. at 248.
+
+The Veteran contends he has sleep apnea that is due to obesity caused by service-connected disabilities. 
+
+At the outset, the Board notes the VA has conceded the Veteran has been diagnosed with sleep apnea.  See rating decision of September 23, 2023.  The Board is bound by this favorable finding.  The Board also notes that at the time of the rating decision, the Veteran was service connected for the following disabilities: mood disorder, bilateral knees, lumbosacral strain, tinnitus, bilateral lower extremities varicose vein, bilateral lower extremity radiculopathy, and migraines. 
+
+In a May 2023 private opinion, the examiner noted that the Veteran had a diagnosis of sleep apnea.  The examiner also noted the Veteran's service-connected disabilities, noting the Veteran's musculoskeletal disabilities caused him pain, which caused him to lose sleep and avoid physical activity. The examiner noted the Veteran was 185 pounds upon entry to the military and had current weight of 240 pounds, with a BMI of 33.5.  The Veteran's BMI met the definition of obesity.  Based on this data, the examiner concluded that it was at least as likely as not that the Veteran's sleep apnea is secondary to, related, to and/or aggravated by the weight gain and obesity rom the Veteran's service-connected disabilities. 
+
+In September 2023, the Veteran underwent a VA examination that addressed the nature and etiology of any currently endured OSA. The examiner noted a current diagnosis for OSA.  The examiner concluded that the Veteran's sleep apnea is less likely than not due to or the result of the Veteran's service-connected conditions.  The examiner concluded that sleep apnea is a separate entity entirely from a right knee condition.  The Board finds this opinion inadequate as it does not address whether the Veteran's obesity served as an intermediate step between his service-connected disabilities and his sleep apnea.  
+
+Accordingly, as the persuasive evidence favors the Veteran's claim, this appeal must be granted.
+
+ 
+
+Paul R. Casey
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	RLBJ, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

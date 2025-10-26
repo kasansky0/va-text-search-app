@@ -1,0 +1,63 @@
+Citation Nr: A25031928
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240928-477877
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to service connection for lumbar strain and pain causing impairment in earning capacity ("lumbar spine disability") is granted.
+
+FINDING OF FACT
+
+The evidence is at least evenly balanced as to whether the Veteran's lumbar spine disability had onset in service.
+
+CONCLUSION OF LAW
+
+With reasonable doubt resolved in favor of the Veteran, the criteria for service connection for a lumbar spine disability have been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active duty service in the United States Army from November 2011 to June 2012.
+
+This matter comes before the Board of Veterans' Appeals (Board) from an appeal of an April 2024 rating decision of the Department of Veterans Affairs (VA).  In the rating decision, the Agency of Original Jurisdiction (AOJ) confirmed and continued denial of the Veteran's service connection claim for a lumbar spine disability.  However, the AOJ readjudicated the matter on the basis of receipt of new and relevant evidence.  The Board is bound by this favorable finding as to new and relevant evidence (see 38 C.F.R. §3.104(c)) and therefore proceeds to decide the Veteran's lumbar spine disability service connection claim on the merits. 
+
+In her September 2024 VA Form 10182, the Veteran elected the Direct Review docket.  As the Veteran has selected the Direct Review docket, the Board may only consider the evidence of record at the time of the AOJ rating decisions on appeal.  
+
+If evidence was added during the ineligible period, it has not been considered.  If this is the case, and the Veteran wishes to have VA consider any of this evidence, she may at any time file a supplemental claim with the AOJ after receiving a decision and the additional evidence would be considered in connection with the supplemental claim.  38 U.S.C. §§ 5104C(a)(1)(B), (b); 5108; 38 C.F.R. §§ 3.2501, 20.1105(a).  If filed within one year, this supplemental claim would preserve the date of the claim as the effective date of the grant of the benefit or benefits sought.  38 U.S.C. § 5104C(a)(2)(B); 38 C.F.R. § 3.2500(h)(1).
+
+As a final introductory note, the Court has held that, because 38 C.F.R. § 20.202(c)(2) "gives a claimant the later of one year from the date that the agency of original jurisdiction (AOJ) mails notice of the decision or 60 days from when the Board receives the Notice of Disagreement (NOD) to change the NOD and select a different lane, the Board ordinarily may not decide an appeal before this time period is up."  Williams v. McDonough, 37 Vet. App. 305, 307 (2024).  As the Board is granting the benefit sought in full, there is no prejudice to the Veteran in adjudicating this matter prior to expiration of the relevant period.
+
+Service Connection
+
+Service connection will be granted if the evidence demonstrates that current disability resulted from an injury suffered or disease contracted in active military, naval, air, or space service.  38 U.S.C. § 1131; 38 C.F.R. § 3.303(a). E stablishing service connection generally requires competent evidence of three things: (1) current disability; (2) in-service injury or disease; and (3) a relationship between the two.  Saunders v. Wilkie, 886 F. 3d 1356, 1361 (Fed. Cir. 2018).  Consistent with this framework, service connection is warranted for a disease first diagnosed after service when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Lumbar Spine Disability
+
+For the following reasons, entitlement to service connection for the Veteran's lumbar spine disability is warranted.
+
+In the April 2024 rating decision, the RO favorably found that the Veteran had been diagnosed with lumbosacral strain on the March 2024 VA examination and also in October 2013 treatment notes.  The Board is bound by this favorable finding.  38 U.S.C. § 5104(b)(4); 5104A; 38 C.F.R. § 20.801(a).  To the extent that there is any ambiguity in the diagnosis, pain aline in some circumstances is sufficient to show a current disability.  See Saunders, 886 F. 3d at 1364-65 (a diagnosis is not required to meet the current disability requirement, and pain alone can constitute disability if it causes impairment in earning capacity).  The Veteran's credible lay statements reflect that she has been experiencing lumbar spine pain that causes impairment in earning capacity.  Therefore, the current disability requirement for the Veteran's lumbar spine disability has been met in this regard as well and the disability characterized accordingly on the title page.
+
+The Veteran has competently conveyed that the weight of the backpack that she wore during ruck marches (of up to 12 miles) was so heavy that it caused pain, discomfort, and weakness of such magnitude that the Veteran often found it difficult not only to complete ruck marches but also to walk.  Since service, the symptoms of discernable lumbar spine symptoms, to include pain, have been on-going and productive of functional limitations.  Jandreau v. Nicholson, 492 F. 3d 1372, 1377 (Fed. Cir. 2007) (a veteran is competent to testify regarding observations); Buchanan v. Nicholson, 451 F. 3d 1331, 1337 (holding lay evidence concerning continuity of symptoms after service, if credible, is ultimately competent, regardless of the lack of contemporaneous medical evidence).  The Veteran's accounts to both private and a VA clinician are plausible, internally consistent, and consistent with the places, types, and circumstances of service, and there is nothing of equal or greater probative weight in the evidence of record to contradict this account of his discernable and ongoing symptoms culminating in the above noted diagnoses.  See 38 U.S.C. § 1154(a); 38 C.F.R. § 3.303(a) (each disabling condition for which a veteran seeks service connection must be considered based on factors including the basis of places, types, and circumstances of service as shown by service records).  The in-service disease or injury requirement has thus been met and continuous symptoms since service have been shown.
+
+In March 2024, the Veteran reported for a VA thoracolumbar spine conditions examination.  The clinician included the Veteran's description of her on-going discernable lower back pain and its genesis in service.  Nevertheless, the clinician gave this credible lay evidence little consideration in reaching a negative conclusion in the etiological opinion.  Instead, the clinician based the negative opinion on "the diagnosis of no diagnosis", a lack of chronicity, and a "lack of substantiating evidence".  Stated more directly, the clinician found absence to warrant more probative weight than plausible, competent, internally consistent, and credible lay evidence as to both in-service incurrence and on-going pain productive of impairment in earning capacity.  This lack of meaningful consideration of the lay evidence makes the clinician's negative etiological opinion inadequate.  Buchanan, 451 F. 3d at 1336, n. 1 (in the absence of contemporaneous medical evidence, "[l]ay statements [can present] sufficient evidence of the etiology of [the veteran's] disability such that [her claims] for service connection could be proven without contemporaneous medical evidence").
+
+While the Board could remand for an additional opinion, such a remand could well be construed as an attempt to develop evidence with the intent of denying the Veteran's service connection claim, especially in light of the Veteran's competent, plausible, internally consistent, and credible accounts of her ongoing discernable and extensive symptoms from service through the present day.  38 C.F.R. § 3.304(c) ("The development of evidence in connection with claims for service connection will be accomplished when deemed necessary but it should not be undertaken when evidence present is sufficient for this determination"); Andrews v. McDonough, 34 Vet. App. 216, 225 (2021) ("Remand is inappropriate where the predominant purpose is not to allow the Board to make a fully informed decision unencumbered by error but to allow VA to obtain more evidence so that it can properly deny the claim").  
+
+To the extent that this grant of service connection is based primarily on credible lay evidence rather than complete medical opinions, "nothing in the regulatory or statutory provisions [relating to evidence to be considered] requires both medical and competent lay evidence; rather, they make clear that competent lay evidence can be sufficient in and of itself."  Buchanan, 451 F. 3d at 1335.
+
+For the foregoing reasons, the evidence is sufficient to decide the Veteran's service connection claim, as it is at least evenly balanced as to whether the Veteran's lumbar spine disability had onset in service.  As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection is warranted for this disability.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F. 4th 776, 781-82 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side, or the other is the benefit of the doubt doctrine not for application).
+
+ 
+
+ 
+
+Jonathan Hager
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	B. J. Komins, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability.  38 C.F.R. § 20.1303.

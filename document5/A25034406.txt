@@ -1,0 +1,149 @@
+Citation Nr: A25034406
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240809-463222
+DATE: April 15, 2025
+
+ORDER
+
+The claim of entitlement to an initial disability rating in excess of 10 percent for service-connected tinnitus is denied.
+
+The claim of entitlement to service connection for bilateral hearing loss is denied.
+
+REMANDED
+
+The claim of entitlement to service connection for bilateral metatarsalgia, also claimed as feet pain is remanded.
+
+The claim of entitlement to service connection for left elbow lateral epicondylitis is remanded.
+
+The claim of entitlement to service connection for left knee strain is remanded.
+
+The claim of entitlement to service connection for right knee strain is remanded.
+
+The claim of entitlement to service connection for lumbosacral strain, also claimed as back pain, is remanded.
+
+FINDINGS OF FACT
+
+1. Throughout the initial rating period on appeal, the Veteran's tinnitus has been assigned a 10 percent disability rating, the maximum rating under Diagnostic Code (DC) 6260, and the evidentiary record does not reasonably raise the prospect that the Veteran's disability is not or cannot be adequately rated under the rating schedule.
+
+2. The evidence of record persuasively weighs against finding that the Veteran has had bilateral hearing loss for VA compensation purposes at any time during or approximate to the pendency of the claim.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to an initial disability rating in excess of 10 percent for tinnitus have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.85, 4.86, DC 6260.
+
+2. The criteria for service connection for bilateral hearing loss are not met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had honorable active service in the United States Army National Guard from March 10, 2014, to August 20, 2014.  See October 2023 Deferred Rating Decision (noting that this period of active duty for training (ADT) now qualifies as active duty for VA compensation purposes).  The Veteran appears to have also had periods of ADT and inactive duty for training (IADT) in the National Guard.  See DPRIS Response.
+
+The rating decision on appeal to the Board of Veterans' Appeals (Board) was issued in October 2023 by a Department of Veterans Affairs (VA) Regional Office, which is the Agency of Original Jurisdiction (AOJ).  The modernized review system, also known as the Appeals Modernization Act (AMA), applies to this appeal.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the October 2023 AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+Regarding the tinnitus and bilateral hearing loss claims, if the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claims of service connection for bilateral foot, knee, left elbow, and lumbar spine conditions, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. The claim of entitlement to an initial disability rating in excess of 10 percent for service-connected tinnitus.  
+
+The Veteran seeks a higher disability rating for his service-connected tinnitus, which is currently assigned a 10 percent rating.
+
+Disability ratings are determined by the application of the Schedule for Rating Disabilities, which assigns ratings based on the average impairment of earning capacity resulting from a service-connected disability. 38 U.S.C. § 1155; 38 C.F.R. Part 4.  Where there is a question as to which of two ratings will be applied, the higher rating will be assigned if the disability picture more closely approximates the criteria required for that rating.  Otherwise, the lower rating is to be assigned.  38 C.F.R. § 4.7.
+
+Where the evidence contains factual findings that demonstrate distinct time periods in which the service-connected disability exhibits symptoms that would warrant different evaluations during the course of the appeal, the assignment of staged ratings is appropriate.  See Fenderson v. West, 12 Vet. App. 119, 126-127 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007); Francisco v. Brown, 7 Vet. App. 55, 58 (1994).
+
+In making all determinations, the Board must fully consider the lay assertions of record.  A layperson is competent to report on the onset and recurrence of symptoms.  Layno v. Brown, 6 Vet. App. 465, 470 (1994) (a Veteran is competent to report on that of which he or she has personal knowledge).  The Veteran's entire history is reviewed when making disability evaluations.  See Schafrath v. Derwinski, 1 Vet. App. 589 (1995).  After careful consideration of the evidence, any reasonable doubt remaining is resolved in the Veteran's favor.  38 C.F.R. § 4.3.
+
+Under the Rating Schedule, DC 6260 provides a maximum rating of 10 percent for recurrent tinnitus.  38 C.F.R. § 4.87.  The regulation specifically instructs adjudicators are to assign only a single evaluation for recurrent tinnitus, whether the sound is perceived in one ear, both ears, or in the head.  Tinnitus is defined as "a noise in the ears, such as ringing, buzzing, roaring, or clicking."  See Charles v. Principi, 16 Vet. App. 370, 374 (2002) (citing Dorland's Illustrated Medical Dictionary 1714 (28th Ed. 1994)).
+
+Turning to the evidence of record in this case, the AOJ provided the Veteran a VA examination in August 2023.  During the examination the Veteran reported experiencing intermittent tinnitus in his left ear.  He reported that the tinnitus occurs four to five times per week, lasting 30-45 seconds.  The Veteran reported that "when [his tinnitus] is ringing he can't hear anything from his left ear."  Based on these examination results, the AOJ assigned the Veteran a 10 percent disability rating for recurrent tinnitus.  See October 2023 rating decision.  
+
+As noted above, the Veteran is assigned the maximum schedular rating available for tinnitus.  In assessing the appropriateness of this rating, the Board acknowledges that the functional impairment described by the Veteran during his VA examination included his report that he "can't hear anything" in his left ear while the intermittent ringing symptom occurs.  As the Veteran is not represented and asserts entitlement to a rating higher than 10 percent, the Board has considered whether the evidence has reasonably raised the issue of extraschedular consideration.  The threshold question becomes whether the schedular rating criteria adequately contemplate the Veteran's disability picture.  If the schedular evaluation does not contemplate the level of disability and symptomatology shown and is found inadequate, then the second inquiry is whether the exceptional disability picture exhibits other related factors, such as marked interference with employment or frequent periods of hospitalization.  See Thun v. Peake, 22 Vet. App. 111 (2008).  "Where a disability proves capable of evaluation by conventional means, it cannot be deemed exceptional."  See Morgan v. Wilkie, 31 Vet. App. 162, 168 (2019).  
+
+Here, the tinnitus symptom described by the Veteran (intermittent ringing in the left ear) is fully capable of evaluation under the rating criteria and is contemplated by DC 6260.  See also Charles, 16 Vet. App. 370.  Regarding the severity of the symptom, the Veteran's lay reports indicate that the symptom is only briefly disruptive, as he reports that the ringing symptom occurs four to five times per week and last for less than a minute.  Although the Veteran reports that the ringing interferes with his hearing, as discussed below, a VA audiological evaluation shows that the Veteran does not have a separate diagnosis of hearing loss for VA purposes.  The Board cannot conclude that the temporary tinnitus symptom results in hearing loss as contemplated by the rating criteria.  Likewise, the Board finds consideration of the issue of entitlement to a total disability rating based on individual unemployability (TDIU) has not been raised by the Veteran or been reasonably raised by the evidence as the September 2023 VA examination reports indicate that the Veteran is employed.  See Comer v. Peake, 552 F.3d 1362, 1367 (Fed. Cir. 2009).
+
+Accordingly, the evidence is persuasively against the claim of entitlement to a rating higher than 10 percent for tinnitus as the Veteran's symptoms are fully contemplated by the maximum rating assigned.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and entitlement to an initial disability rating in excess of 10 percent for tinnitus is not warranted.  See 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102, 4.3, 4.7.
+
+2. The claim of entitlement to service connection for bilateral hearing loss.
+
+The Veteran seeks service connection for bilateral hearing loss.
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+For VA compensation purposes, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107(b).  The benefit-of-the-doubt rule applies if the competing evidence is "nearly equal" or in "approximate balance" but does not apply when the evidence persuasively favors one side or the other.  See Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+The question for the Board is whether the Veteran has a current disability that began during service or is at least as likely as not related to an in-service injury, event, or disease.  The Board concludes that the Veteran does not have a current diagnosis of hearing loss and has not had one at any time during the pendency of the claim or recent to the filing of the claim.  Romanowsky v. Shinseki, 26 Vet. App. 289, 294 (2013); McClain v. Nicholson, 21 Vet. App. 319, 321 (2007).
+
+On the authorized audiological evaluation completed in August 2023, the Veteran's Maryland CNC Word List speech recognition score and pure tone thresholds, in decibels, were as follows:  
+
+8/2023	HERTZ
+
+ 	1000	2000	3000	4000	Avg	CNC
+
+RIGHT	25	15	15	15	17.50	98
+
+LEFT	25	20	20	20	21.25	100
+
+While the VA examiner acknowledged the Veteran's January 2019 subjective report of "changes in his hearing," the examiner determined that he had normal hearing for VA purposes as of 2023.  The examiner found the pure tone test results valid and found the use of a word discrimination test appropriate for the Veteran.  As such, the Veteran does not have a current bilateral hearing loss disability for VA purposes.  38 C.F.R. § 3.385.
+
+The Board acknowledges that the Veteran may perceive subjective symptoms of decreased hearing acuity; however, audiometric testing as required under § 3.385 shows that his impairment does not rise to the level considered a disability under VA regulations.  There are no relevant VA or private medical treatment records to suggest otherwise. 
+
+Accordingly, the evidence is persuasively against the claim.  As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and service connection for bilateral hearing loss is not warranted.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+REASONS FOR REMAND
+
+1. The claim of entitlement to service connection for bilateral metatarsalgia, also claimed as feet pain is remanded.
+
+See section five, below.  
+
+2. The claim of entitlement to service connection for left elbow lateral epicondylitis is remanded.
+
+See section five, below.  
+
+3. The claim of entitlement to service connection for left knee strain is remanded.
+
+See section five, below.  
+
+4. The claim of entitlement to service connection for right knee strain is remanded.
+
+See section five, below.  
+
+5. The claim of entitlement to service connection for lumbosacral strain, also claimed as back pain is remanded.
+
+The Veteran seeks service connection for a bilateral foot condition, bilateral knee condition, left elbow condition, and back condition.  The Veteran's July 2023 VA 21-526EZ claim application includes specific contentions regarding why he believes his current conditions are related to active service.  He contends that his knee pain resulted from running and from injury during "running/ruck march" in April 2014 at Fort Jackson.  He contends his foot pain and injury resulted from wearing boots and "during daily use/ruck march" in approximately June 2017 at Fort Bliss.  He contends his back pain and elbow pain resulted from a "fall during annual training" (AT) at Fort Bliss in June 2017.  
+
+Although further delay is regrettable, these matters must be remanded to correct duty to assist errors that occurred prior to the decision on appeal as the VA examiner who provided opinions regarding these disabilities did not consider (or have access to) all relevant medical and lay evidence of record.  Further, it appears that the AOJ did not adequately attempt to obtain all the Veteran's service treatment records (STRs) as he identified in his claim application.  For example, regarding the back condition, the AOJ asked the examiner to opine whether the Veteran has a diagnosis of back pain that is at least as likely as not "incurred in or caused by (the) back pain noted in STRs 1/5/2019 (drill day) or fall during AT at Fort Bliss in 2017 during service."  The examiner responded that "this STR was not included in records provided" and stated that "the only documentation regarding back pain that was made available to this examiner" was dated 2022 from a private clinic.  The Board observes that the evidence of record includes a January 2019 Periodic Health Assessment noting the Veteran's report of back pain (with no specific injury noted), but the Board has located no records from Fort Bliss in the claims file.  The record includes one STR Certification document dated July 2023, which indicates that "it has been concluded that no further records exist for the service member as of the certification date of this form."  However, it is unclear what record(s) this certification contemplates or whether the AOJ actually determined that relevant records from Fort Bliss are unavailable.  Given the amount of detail the Veteran has provided regarding his in-service injuries and the lack of detail regarding the AOJ's efforts to obtain relevant STRs, the Board finds the AOJ committed a duty to assist error in failing to obtain all relevant military records and in failing to ensure the medical examiner has access to all existing records.
+
+Further, regarding the bilateral knee conditions, the September 2023 VA examination opinions are inadequate as they fail to provide a complete rationale and appear to rely on the absence of documented medical treatment to provide a negative nexus to service.  The examiner diagnosed the Veteran with bilateral knee strain and acknowledged "complaints" of knee pain in 2014 but found that there were "no more medical records confirming knee problems since that time" and found that a nexus could not be established due to this "lack of chronicity."  This fails to acknowledge or address the Veteran's lay report that his current knee pain began in 2014 and fails to address whether the conditions that he was diagnosed with during active service could nevertheless result in his current symptoms and impairment.  As noted above, this examiner also did not consider or have access to a January 2019 Annual Health Assessment record showing the Veteran's report that he had received medical care for "recurring muscle, joint, or low back pain."  As such, remand is needed to correct these errors.
+
+In remanding these matters, and unless identified above, the Board makes no additional express or implied credibility determinations regarding the evidence currently of record.
+
+The matters are REMANDED for the following action:
+
+1. Obtain all STRs and military personnel records relevant to the Veteran's claims, specifically to include treatment records from Fort Bliss during the Veteran's ADT/IADT service in the Army National Guard.  See July 2023 VA 21-526EZ.  Document all requests for information as well as all responses in the claims file.  If any records are unavailable, the AOJ should clearly identify such records and inform the Veteran of their unavailability.
+
+(Continued on the next page)
+
+?
+
+2. Once the above is completed, schedule the Veteran for a VA examination for the claimed left elbow, left knee, right knee, low back, and bilateral feet.  The examiner must be given access to and must review all relevant evidence of record, including all STRs, post-service treatment records, past VA examinations, and all lay statements of record.  If relevant records are deemed missing or unavailable, the examiner should be informed of that determination.
+
+3. For each claimed condition, the examiner shall opine whether the condition is at least as likely as not related to a qualifying period of service, including as due to the injury (or injuries) the Veteran has identified or that are otherwise identified in the evidence of record.  The examiner should provide a rationale to support and explain the opinions.
+
+ 
+
+ 
+
+B. MULLINS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. Hart, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

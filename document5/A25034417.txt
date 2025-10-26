@@ -1,0 +1,77 @@
+Citation Nr: A25034417
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240417-434180
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is denied.
+
+FINDING OF FACT
+
+1. The evidence weighs persuasively against finding the Veteran has a current bilateral hearing loss disability.
+
+2. The Veteran does not have a bilateral hearing loss disability for VA purposes.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for bilateral hearing loss have not been met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from September 1982 to May 2005.
+
+This appeal is being reviewed under the modernized review system, commonly referred to as the "AMA," as established by the Veterans Appeals Improvement and Modernization Act of 2017. 115 Pub. L. No. 55, 131 Stat. 1105.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal of an April 2024 rating decision issued by a Department of Veterans Affairs (VA) regional office, an agency of original jurisdiction (AOJ). That rating decision was issued in response to a December 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), which sought review of a November 2023 rating decision.
+
+The Veteran timely initiated an appeal by submitting an April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), and elected the Direct Review docket. In view of the above, the Board may only consider the evidence of record that the AOJ was permitted to consider at the time it issued the decision on appeal (i.e., the evidence of record at the time the AOJ issued the November 2023 rating decision). 38?C.F.R. § 20.301.
+
+As the Board is deciding the claim of service connection for bilateral hearing loss, it may not consider evidence added to the claims file after the November 2023 rating decision. 38 C.F.R. § 20.300. The Veteran may file a Supplemental Claim and submit or identify new evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+SERVICE CONNECTION
+
+The Veteran seeks service connection for bilateral hearing loss.
+
+The Veteran contends she was exposed to frequent noise trauma while in service. In her March 2021 Statement in Support of Claim, she noted her military occupational specialty (MOS) was an administrative specialist and her job duties entailed special security officer, drill sergeant, and training manager. She stated, due to her job and other military experiences, she was exposed to frequent varying levels of noise trauma to include 2.5-ton trucks, 5-ton trucks, helicopters, grenades, machine guns, rifles, pistols, and generators. She stated she was also exposed to noise during basic training when was required to use weaponry, such as rifles, pistols, grenades, and machine guns. She noted it was not always possible to wear hearing protection routinely or correctly due to the hearing protection fitting poorly. She stated that her hearing loss has greatly affected her life as she has difficulty hearing everyday sounds such as birds chirping and other people in conversation. She also stated she has trouble hearing the television and radio and must ask others to repeat themselves occasionally, especially when there is background noise. She also noted that other people often tell her she talks too loudly.
+
+The determination of whether a veteran has a disability based on hearing loss is governed by 38 C.F.R. §3.385. For the purposes of applying the law administered by VA, impaired hearing will be considered a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent. See 38C.F.R. §3.385.
+
+With respect to claims for service connection for hearing loss, the United States Court of Appeals for Veterans Claims (Court) has held that the threshold for normal hearing is from 0 to 20 decibels, and that higher threshold levels indicate some degree of hearing loss. Hensley v. Brown, 5 Vet. App. 155, 157 (1993). The Court further opined that 38 C.F.R. § 3.385 then operates to establish when a hearing loss disability can be service connected. Id. at 159.
+
+In the April 2024 rating decision, the AOJ made a favorable finding that the Veteran's MOS was identified as having a low probability of hazardous noise exposure. The Board is bound by this favorable finding. 38 C.F.R. § 3.104 (c).
+
+At the March 2021 VA audiological examination, puretone thresholds, in decibels, were as follows:
+
+ 	HERTZ
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	10	15	0	0	5
+
+LEFT	15	5	5	10	10
+
+Speech discrimination conducted with the Maryland CNC test revealed speech recognition ability of 94 percent bilaterally. The examiner determined the Veteran had normal hearing in both ears.
+
+The March 2021 VA examiner opined it is less likely than not that bilateral hearing loss was caused by or the result of an event in military service. The examiner noted the Veteran's hearing thresholds were within normal limits, therefore no nexus for hearing loss has been established
+
+The March 2021 VA examination findings are adequate and constitute highly probative evidence weighing substantially against the claim.
+
+The evidence the Board could consider does not include VA or private treatment records documenting other audiometric findings. VA treatment records from October 2005 note the Veteran's hearing was normal and she could hear a whisper in each ear and answered appropriately. 
+
+As noted above, in order to be considered a disability for VA purposes, hearing loss must be shown to meet certain audiometric criteria. The probative evidence demonstrates that the Veteran does not have a current bilateral hearing loss disability for VA purposes pursuant to 38 C.F.R. § 3.385. None of the frequencies were 40 decibels or greater; at least three of the frequencies of 500, 1000, 2000, 3000, or 4000 Hertz were not 26 decibels or greater; and speech recognition scores using the Maryland CNC Test were not less than 94 percent. Such is not contradicted by other medical evidence in the record. While the Veteran's speech recognition was 94 percent in both ears as shown on the March 2021 VA examination, speech recognition must be less than 94 percent for a hearing loss disability under 38 C.F.R. § 3.385 and, in the Veteran's case, it was exactly 94 percent. As such, the Veteran does not meet the VA requirements for bilateral hearing loss and has not done so at any point during the appeal period.
+
+Accordingly, the evidence for and against the claim is neither evenly balance nor approximately so. Rather, the probative evidence weighs persuasively against the claim. The benefit of the doubt doctrine is not for application and service connection for bilateral hearing loss is not warranted. 
+
+ 
+
+SHAUN S. SPERANZA
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Magiros, Kristen N.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

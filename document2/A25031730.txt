@@ -1,0 +1,83 @@
+Citation Nr: A25031730
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240417-434144
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to service connection for irritable bowel syndrome (IBS) is granted.
+
+FINDING OF FACT
+
+The Veteran's IBS is proximately due to or aggravated by his service-connected specific phobia, situational.
+
+CONCLUSION OF LAW
+
+The criteria are met for service connection for IBS as secondary to the service-connected specific phobia, situational. 38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from November 1982 to September 1986.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal of an April 2024 rating decision issued by a Department of Veterans Affairs (VA) regional office, an agency of original jurisdiction (AOJ). That rating decision was issued in response to a December 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), which sought review of a November 2023 rating decision.
+
+The Veteran timely initiated an appeal by submitting an April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), and elected the Direct Review docket. In view of the above, the Board may only consider the evidence of record that the AOJ was permitted to consider at the time it issued the decision on appeal (i.e., the evidence of record at the time the AOJ issued the November 2023 rating decision). 38?C.F.R. § 20.301.
+
+Service Connection
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303. Establishing service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the present disability. Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004); Caluza v. Brown, 7 Vet. App. 498 (1995); Hickson v. West, 12 Vet. App. 247 (1999); 38 C.F.R. § 3.303.
+
+Service connection may also be established on a secondary basis for a disability which is proximately due to, or the result of, a service-connected disability. 38 C.F.R. § 3.310(a). Secondary service connection may also be established for a disability which is aggravated by a service-connected disability. In order to prevail on the issue of secondary service connection, the record must show (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) medical nexus evidence establishing a connection between the service-connected disability and the current disability. Wallin v. West, 11 Vet. App. 509 (1998). Any increase in severity of a non-service-connected disease or injury that is proximately due to or the result of a service-connected disability, will be service connected. 38 C.F.R. § 3.310(b).
+
+IBS
+
+The Veteran contends his IBS is secondary to his service-connected specific phobia, situational, from stress related to his asthma. See August 2020 Claim.
+
+In its April 2024 rating decision, the AOJ favorably found that the Veteran has a current disability diagnosis of IBS, a qualifying event, injury, or disease had its onset during service, and his claimed primary disability is service connected. The Board is bound by these favorable findings. 38 C.F.R. § 3.104(c).
+
+In his August 2020 Statement in Support of Claim, the Veteran reported his IBS symptoms began after having symptoms of anxiety or depression and his symptoms worsen when he is stressed. The Veteran is competent to report on that of which he has personal knowledge, including the onset and continuity of his symptomatology. Layno v. Brown, 6 Vet. App. 465, 470 (1994) (a veteran is competent to report on that of which he or she has personal knowledge). The evidence does not impeach the Veteran's credibility. Therefore, the Board finds his competent lay statements to be credible and constitute highly probative evidence.
+
+The Veteran's service treatment records (STRs) and VA treatment records are silent for complaints, symptoms, or a diagnosis of IBS.
+
+Private treatment records from May 2016 noted the Veteran was experiencing symptoms of loose stools, abdominal bloating, and lactose intolerance. His medical provider noted his symptoms may be related to IBS and/or lactose intolerance.
+
+The Veteran underwent a private examination in April 2021. The examiner opined the Veteran's IBS is at least as likely as not secondary to, related to, and/or aggravated by his service-connected specific phobia, situational. The examiner noted that studies show gastrointestinal symptoms have been correlated with psychiatric disorders and in relation to fear, anxiety, and stress with co-morbidity ranging from 54 to 94 percent of patients with diagnosed mental health conditions who are also being treated with IBS conditions. The examiner also noted that certain stressful life events have been associated with the onset of symptom exacerbation in some of the most common disorders of the digestive system. The examiner noted a large body of evidence supports the link between psychological distress and several of the Functional Gastrointestinal Diseases. The examine noted stress induced alterations in neuro-endocrine-immune pathways acts on the gut-brain axis and microbiota-gut-brain axis, and cause symptom flare-ups or exaggeration in IBS and IBS is a stress-sensitive disorder. The examiner determined that medical literature supports the nexus rationale based upon the pathophysiological mechanisms and processes that occur directly from specific phobia, situational, to include related sensitivity and response of the Hypothalamic-Pituitary-Adrenal (HPA) Axis and Sympathetic Nervous System, resulting in a hyper-reactive response of the neuro-endocrine-immune pathways. The examiner opined the mechanisms and processes as above established a brain-gut relationship resulting in overall disturbance of gastroenterological systems, development of IBS or, at the very least, contributing as an aggravating factor in the development of the Veteran's IBS.
+
+The April 2021 private examination findings are adequate and constitute highly probative evidence.
+
+The Veteran underwent a VA examination in November 2021. The examiner opined the Veteran's IBS is less likely than not incurred in or caused by an in-service injury, event, or illness. The examiner explained there were no signs, symptoms, complaints, or diagnosis of IBS while in service and there is no evidence of IBS or treatment in the Veteran's e-folder. The examiner failed to address the Veteran's private treatment records from May 2016 noting IBS symptoms and mentioning a potential diagnosis of IBS. See Reonal v. Brown, 5 Vet. App. 458, 461 (1993) (an opinion based upon an inaccurate factual premise has no probative value); Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008) (noting that the probative value of a medical opinion derives from the factually accurate, fully articulated, sound reasoning for the conclusion). Thus, the Board finds the November 2021 VA examiner's nexus opinion inadequate and provides it minimal probative weight.
+
+An addendum opinion was completed in December 2021 to address secondary service connection. The examiner opined the Veteran's IBS is less likely than not proximately due to or the result of the Veteran's specific phobia situation. The examiner noted the cause of IBS is not known. The examiner stated the factors that appear to play a role in IBS include muscle contractions in the intestine, nervous system abnormalities, severe infection, early life stress, and changes in gut microbes. The examiner noted people with IBS experience worse or more-frequent symptoms during periods of increased stress. The examiner concluded, while stress may aggravate symptoms of IBS, it does not cause them.
+
+The December 2021 VA examination findings are adequate and constitute highly probative evidence.
+
+The Veteran submitted a second private examination in May 2022. The examiner opined the Veteran's IBS is at least as likely as not secondary to, related to, and/or aggravated by his service-connected specific phobia, situational. The examiner noted that gastrointestinal symptoms have been recognized to occur in relation to fear, anxiety, and stress. The examiner also noted gut motility has been found to be reactive to changes in the emotional state and studies have shown that stress often worsens the symptoms of patients with IBS.
+
+The May 2022 private examination findings are adequate and constitute highly probative evidence.
+
+The Veteran underwent a VA examination in October 2022. The Veteran reported that he alternates between diarrhea and constipation and that he is on a special diet and sees a GI specialist once yearly. He also reported that he thinks dairy could have contributed to his symptoms as he had avoided dairy prior to service. A VA nexus opinion was provided in December 2022. The examiner opined the Veteran's IBS is less likely than not proximately due to or the result of the Veteran's specific phobia, situational. The examiner determined there was no objective evidence in the e-file that points to specific phobia, situational, as a factor or cause of the Veteran's IBS. The examiner explained, organic causes of chronic IBS symptoms such as infection, lactose/gluten issues etc. have not been ruled out. No medical objective evidence such as stool studies, imaging, or blood test results were found to correlate the symptoms to the underlying causes that could cause his symptoms. The examiner stated that deciding the cause of this unexplained condition would be entirely speculative. The examiner noted the Veteran's comorbidities, lifestyle, physiological digestion mechanisms, genetics, diet, etc. could be contributing to his symptoms and no one particular cause can be isolated.
+
+An additional VA opinion was provided in December 2022. The examiner opined the Veteran's IBS is less likely than not proximately due to or the result of the Veteran's specific phobia, situational. The examiner noted the risk factors for IBS include food, stress and hormones. The examiner stated these risk factors can wax, and wane and more than one can contribute at the same time. The examiner determined she could not say that the Veteran's situational phobia is the cause of his IBS.
+
+The October 2022 and December 2022 opinions are not afforded probative value because the opinions do not account for the Veteran's report of his IBS symptoms beginning after having symptoms of anxiety or depression and his symptoms worsening when he is stressed. See August 2020 Statement in Support of Claim. 
+
+The Veteran underwent another VA examination in June 2023. The examiner opined the Veteran's IBS is less likely than not incurred in or caused by diarrhea during service. The examiner's rationale was because the Veteran's active-duty medical records are silent for chronic and ongoing diarrhea that would be related to or the cause of his IBS. The examiner also opined the Veteran's IBS is less likely than not proximately due to or the result of the Veteran's specific phobia, situational, obstructive sleep apnea (OSA) with asthma, migraines, and right epididymitis and prostatitis. The examiner found there is no medical basis for these conditions to cause his IBS, thus, no such causal relationship exists. With respect to aggravation of the Veteran's IBS, the examiner opined the Veteran's IBS is less likely than not aggravated beyond its natural progression by the Veteran's service-connected specific phobia, situational, OSA with asthma, migraines, and right epididymitis and prostatitis. The examiner concluded there is no medical basis for these conditions to aggravate his IBS, thus, no such causal relationship exists.
+
+An addendum opinion was provided in October 2023 to address secondary service connection for each service-connected disability. The examiner opined the Veteran's IBS is less likely than not proximately due to or the result of the Veteran's voiding (urinary) dysfunction, specific phobia, situational, OSA with asthma, migraines, tinnitus, erectile dysfunction, and right epididymitis and prostatitis. The examiner noted that "[c]urrent medical literature does not support and is silent for such a relationship."
+
+The June 2023 and October 2023 examiners did not provide adequate rationale for their findings. At most, these opinions consisted of conclusionary statements without adequate basis to support such conclusions. Therefore, the Board finds these opinions to be conclusory and unsupported by sufficient rationale. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008); see also Stefl v. Nicholson, 21 Vet. App. 120, 124 25 (2007) (a mere conclusory opinion is insufficient to allow the Board to make an informed decision as to the weight to assign to a medical opinion). Furthermore, the October 2023 VA examiner stated that medical literature does not support a relationship between IBS and these conditions, but did not address the medical literature discussed in the private April 2021 and May 2022 examinations regarding the relationship between IBS and stress/mental health conditions. Thus, the June 2023 and October 2023 VA  examiners' nexus opinions are inadequate and provides them minimal probative weight.
+
+While the June 2023 VA examiner's opinion regarding aggravation of IBS by his service-connected disabilities was inadequate and afforded little probative weight, the April 2021 and May 2022 private examiners found it is at least as likely as not the Veteran's IBS is aggravated by his specific phobia, situational. Furthermore, the December 2021 VA examiner noted stress may aggravate IBS symptoms. The Veteran's specific phobia, situational, is service connected. The probative evidence therefore weighs in favor of the claim and service connection for IBS, as secondary to his specific phobia, situational, is warranted. 
+
+ 
+
+SHAUN S. SPERANZA
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Magiros, Kristen N.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

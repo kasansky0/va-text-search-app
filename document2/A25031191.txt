@@ -1,0 +1,103 @@
+Citation Nr: A25031191
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240429-436377
+DATE: April 3, 2025
+
+ORDER
+
+Entitlement to a compensable initial evaluation for hypothyroidism is denied.
+
+REMANDED
+
+Entitlement to service connection for diabetes mellitus, type II, is remanded.
+
+FINDING OF FACT
+
+Hypothyroidism without myxedema was diagnosed more than 6 months prior to the period on appeal; the condition is without residuals but requires Synthroid. 
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to a compensable initial evaluation for hypothyroidism have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.119, Diagnostic Code 7905.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from August 1987 to August 1991. 
+
+The appeal comes to the Board of Veterans' Appeals (Board) from a May 2023 and November 2023 rating decisions. In the April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. 
+
+It is noted the Veteran also identified service connection for hypertension as an issue he wished to appeal from an April 2017 rating decision. An appeal of this issue was not accepted as such was not filed timely and good cause for an untimely filing was not shown. As such, the issue is not considered properly before the Board. 
+
+With regards to the issues before the Board, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claim of entitlement to service connection for diabetes mellitus, type II, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+Increased Rating 
+
+Disability ratings are determined by applying the criteria set forth in VA's Schedule for Rating Disabilities.  The percentage ratings are based on the average impairment of earning capacity and individual disabilities are assigned separate diagnostic codes.  38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+The Veteran's entire history is to be considered when making disability evaluations.  See generally 38 C.F.R. § 4.1; Schafrath v. Derwinski, 1 Vet. App. 589 (1995).  Staged ratings are appropriate for any rating claim when the factual findings show distinct time periods during the appeal period where the service-connected disability exhibits symptoms that would warrant different ratings.  Hart v. Mansfield, 21 Vet. App. 505 (2007).  Staged ratings are appropriate for any initial rating claim when the factual findings show distinct time periods during the appeal period where the service-connected disability exhibits symptoms that would warrant different ratings.  Fenderson v. West, 12 Vet. App. 119, 126 (1999).
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  Any reasonable doubt regarding a degree of disability will be resolved in favor of the veteran.  38 C.F.R. § 4.3.
+
+1. Entitlement to a compensable initial evaluation for hypothyroidism is denied.
+
+The Veteran appealed a grant of service connection for hypothyroidism with a noncompensable evaluation, effective March 29, 2023. The Veteran identified the issue of service connection as being in dispute, noting that "this is directly related to my tonsil cancer." As service connection was already granted below and the representative couched the issue as an increased rating issue, the appeal is liberally construed as seeking a compensable evaluation for hypothyroidism, currently evaluated noncompensable under Diagnostic Code 7905, 38 C.F.R. § 4.119. 
+
+The assigned Diagnostic Code 7905 is applicable to hypoparathyroidism, which is not the condition on appeal. Rather, Diagnostic Code 7903, for hypothyroidism, is the applicable rating criteria.  However, even applying the correct Diagnostic Code, the evidence does not establish that a compensable evaluation is warranted for the period on appeal. 
+
+The current version of the 38 C.F.R. § 4.119, Diagnostic Code 7903 criteria, applicable to the period on appeal, provides that a 100 percent disability rating is assigned for hypothyroidism manifesting as myxedema (cold intolerance, muscular weakness, cardiovascular involvement (including, but not limited to hypotension, bradycardia, and pericardial effusion), and mental disturbance (including, but not limited to dementia, slowing of thought and depression)), but only for a period of six months after an examiner has determined that the condition has stabilized. 
+
+Also, hypothyroidism without myxedema warrants a 30 percent rating for six months after initial diagnosis. 
+
+Thereafter, residuals of the disease, to include eye conditions, or medical treatment, are rated under the most appropriate diagnostic code(s) under the appropriate body system (e.g., eye, digestive, mental disorders). 
+
+The May 2023 VA examination is the most probative evidence of record. The examination noted the Veteran's hypothyroidism was diagnosed in 2014, following radiation to the throat region for tonsillar cancer. The Veteran's condition was noted to have improved, with no findings, signs, symptoms or residuals. The Veteran was noted to take Synthroid treatment. 
+
+The VA examination appears adequate and thorough, and the findings are not contradicted by the medical evidence of record or by any contentions advanced by the Veteran or his representative. The evidence shows a diagnosis from 2014. Moreover, the evidence of record does not establish that there were any residuals, aside from requiring Synthroid treatment. 
+
+For the purposes of the applicable criteria, the Veteran has hypothyroidism without myxedema. He is not entitled to a 30 percent disability rating for six months after his initial diagnosis of hypothyroidism in 2014, as he was not awarded service connection for hypothyroidism until March 29, 2023. In addition, he has not been shown to have any residuals of hypothyroidism warranting the assignment of a separate rating under a different diagnostic code. The Veteran does not assert, nor does the medical evidence show, that his thyroid condition has resulted in residuals such as cardiovascular involvement, eye disorders, digestive disorders, or mental disorders. The VA examiner found no evidence of musculoskeletal, respiratory, cardiovascular, gastrointestinal, genitourinary, reproductive, skin, eye, neurological, mental and psychological, or dental and oral symptoms, or any other findings, signs, or symptoms, related to the Veteran's hypothyroidism. Moreover, under the revised rating criteria applicable to the period on appeal (since 2017), the requirement to take medication (Synthroid) is no longer compensable. 
+
+As such, a compensable rating is not warranted under the applicable criteria, and the appeal must be denied. There is no doubt to resolve in this claim. 38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7; Lynch v. McDonough, 999 F.3d 1391 (Fed. Cir. 2021), affirmed en banc Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for diabetes mellitus, type II, is remanded.
+
+The Veteran seeks service connection for diabetes mellitus, type II, and contends such is related to the chemotherapy treatment that he received for his service-connected tonsil cancer. See July 2023 VA 21-526EZ, Fully Developed Claim (Compensation). Remand of this claim is required for an adequate medical opinion. 
+
+Remand by the Board under the AMA is proper for correction of duty to assist errors occurring prior to the date of the AOJ decision on appeal. 38 C.F.R. § 20.802(a). Once VA undertakes the effort to obtain a medical opinion when developing a service-connection claim, it must provide an adequate one. See Barr v. Nicholson, 21 Vet. App. 303, 310-11 (2007). 
+
+Review of the September 2023 VA medical opinion shows an inadequate rationale for the negative nexus opinion. The examiner noted that the claimed condition is less likely than not proximately due to or the result of Veteran's service-connected tonsil cancer condition. As rationale, the examiner stated only that a thorough review of the medical literature showed there was insufficient evidence to show a correlation between the conditions of diabetes mellitus and tonsil cancer. 
+
+The Board does not find the discussion or rationale in the VA medical opinion to be adequate. The medical opinion is conclusory and lacking any details as to what medical literature was consulted. The examiner did not discuss whether there were any articles or research showing that chemotherapy has a causation/aggravation link to the development of diabetes mellitus, type II, and failed to acknowledge the claimed link to the chemotherapy treatment rather than the underlying disease. Moreover, as the claimed link is to chemotherapy and the Veteran has multiple service-connected cancer conditions, the claim and medical opinion should have been appropriately broadened. See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009). 
+
+Service connection may be granted for a disability that is... due to, or aggravated by, service-connected disease or injury. See 38 C.F.R. § 3.310. "The statute, [38 U.S.C. § 1110], plainly requires compensation when a service-connected disease or injury is a but-for cause of a present-day disability. This broad language applies to the natural progression of a condition not caused by a service-connected injury or disease, but that nonetheless would have been less severe were it not for the service-connected disability. Stated another way, § 1110 provides for compensation for a worsening of functionality-whether through an inability to treat or a more direct, etiological cause. Nothing in the statute limits § 1110 to onset or etiological causes of a worsening in functionality" Spicer v. McDonough, 61 F.4th 1360, 1364 (Fed. Cir. 2023).
+
+Remand for an adequate medical opinion is required. 
+
+The matter is REMANDED for the following action:
+
+1. Obtain an adequate medical opinion from an appropriate clinician regarding whether the Veteran's diabetes mellitus, type II, is etiologically related to his service-connected cancer condition(s) or treatment therefore.
+
+The examiner is asked to provide a response to the following:
+
+(a.) Is there at least an approximate balance of positive and negative evidence that diabetes mellitus, type II, is but-for due to any service-connected cancer disability, or the treatment therefore, to include chemotherapy? 
+
+(b.) Is there at least an approximate balance of positive and negative evidence that diabetes mellitus, type II, was aggravated by any service-connected cancer disability, or the treatment therefore, to include chemotherapy?
+
+A full rationale for each opinion expressed is requested.   
+
+ 
+
+Martin T. Mitchell
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	King, Timothy (BVA)
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

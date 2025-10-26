@@ -1,0 +1,101 @@
+Citation Nr: A25031771
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 220118-212606
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to a disability rating in excess of 50 percent for major depressive disorder is denied. 
+
+FINDING OF FACT
+
+The evidence of record persuasively weighs against finding the Veteran's major depressive disorder manifested in occupational and social impairment with deficiencies in most areas during the period on appeal. 
+
+CONCLUSION OF LAW
+
+The criteria for a disability rating higher than 50 percent for major depressive disorder have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.126, 4.130, Diagnostic Code 9434.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from March 2012 to January 2016.
+
+The March 2021 rating decision on appeal granted an increased, 50 percent disability rating for the Veteran's major depressive disorder from October 10, 2018. In the January 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Evidence Review docket.
+
+In November 2020, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a November 2019 rating decision that granted the increased, 50 percent disability rating for the major depressive disorder from September 27, 2019. In May 2021, the AOJ issued the HLR decision on appeal, which considered the evidence of record at the time of the prior, November 2019 decision.
+
+In the January 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Evidence Submission docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2019 AOJ decision, which was subsequently subject to higher-level review, as well as any evidence submitted by the Veteran or representative with, or within 90 days from receipt of, the VA Form 10182. 38 C.F.R. § 20.303. If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the date the Board received the VA Form 10182, or (2) more than 90 days following the date the Board received the VA Form 10182, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.303, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. Entitlement to a disability rating higher than 50 percent for major depressive disorder.
+
+The Veteran is seeking a disability rating higher than 50 percent for her service-connected major depressive disorder.
+
+Disability ratings are determined be evaluating the extent to which a Veteran's service-connected disability adversely affects his or her ability to function under the ordinary conditions of daily life, including employment, by comparing his or her symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule). See 38 U.S.C. § 1155; 38 C.F.R. § 4.1. Different ratings may be assigned for different periods of time for the same disorder if the facts show distinct time periods with different levels of disability. Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007). If two ratings are potentially applicable, the higher rating will be assigned if the disability more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. Any reasonable doubt regarding the degree of disability will be resolved in favor of the Veteran. See 38 C.F.R. § 4.3.
+
+The Veteran is currently assigned a 50 percent disability rating pursuant to 38 C.F.R. § 4.130, Diagnostic Code 9434, for major depressive disorder. 
+
+Under the General Formula for Mental Disorders (General Formula), the Board must conduct a "holistic analysis" that considers all associated symptoms, regardless of whether they are listed as criteria. Bankhead v. Shulkin, 29 Vet. App. 10, 22 (2017); 38 C.F.R. § 4.130. The Board must determine whether unlisted symptoms are similar in severity, frequency, and duration to the listed symptoms associated with specific disability percentages. Then, the Board must determine whether the associated symptoms, both listed and unlisted, caused the level of impairment required for a higher disability rating. Vazquez-Claudio v. Shinseki, 713 F.3d 112, 114-18 (Fed. Cir. 2013).
+
+Under the General Formula, a 50 percent rating is assigned when symptoms such as flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short and long-term memory (e.g., retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; or difficulty in establishing and maintaining effective work and social relationships cause occupational and social impairment with reduced reliability and productivity.
+
+A 70 percent rating is assigned when symptoms such as suicidal ideation; obsessional rituals which interfere with routine activities; intermittently illogical, obscure, or irrelevant speech; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a worklike setting); or inability to establish and maintain effective relationships cause occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood.
+
+A 100 percent rating is assigned for total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; or memory loss for names of close relatives, own occupation or own name.
+
+The evaluation under 38 C.F.R. § 4.130 is "symptom-driven," meaning that "symptomatology should be the fact-finder's primary focus when deciding entitlement to a given disability rating" under that regulation. See Vazquez-Claudio v. Shinseki, 713 F.3d 112, 116-117 (Fed. Cir. 2013).
+
+The use of the term "such as" in the rating criteria demonstrates that the symptoms after that phrase are not intended to constitute an exhaustive list, the Board need not find the presence of all, most, or even some, of the enumerated symptoms to award a specific rating. See Mauerhan v. Principi, 16 Vet. App. 436, 442 (2002). Nevertheless, as all ratings in the general rating formula are also associated with objectively observable symptomatology and the plain language of the regulation makes it clear that the Veteran's impairment must be "due to" those symptoms, a Veteran may only qualify for a given disability by demonstrating the symptoms associated with that percentage, or others of similar severity, frequency, and duration. See Vazquez-Claudio, 713 F.3d at 118. Further, when evaluating a mental disorder, the Board must "assign an evaluation based on all the evidence of record that bears on occupational and social impairment rather than solely on the examiner's assessment of the level of disability at the moment of the examination." 38 C.F.R. § 4.126(a).
+
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102. When a veteran seeks benefits and the evidence is in relative equipoise, the veteran prevails. Gilbert v. Derwinski, 1 Vet. App. 49 (1990). The benefit-of-the-doubt rule does not apply when the evidence persuasively favors one side or the other. Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).
+
+As will be explained in greater detail below, the Board concludes the symptoms of the Veteran's service-connected major depressive disorder more closely approximate the symptoms associated with a 50 percent rating and finds the criteria for a 70 percent disability rating or higher for the major depressive disorder are not met during the period on appeal.
+
+A December 2018 VA treatment record notes the Veteran complained of racing thoughts, anxiety, and irritability. She denied suicidal ideation. A March 2019 VA treatment record notes she reported increased sleep difficulties due to a recent sexual assault. She also had a decreased interest in hobbies.
+
+In a September 2019 statement, the Veteran reported she had social anxiety and did not trust many others. She stated she also had commitment issues and mood swings. She was easily startled and "very panicky." Flashbacks and disturbing memories caused constant sleep disturbances.
+
+A September 2019 VA treatment record notes the Veteran was experiencing ongoing symptoms, including hypervigilance. She reported she was going to school full-time.
+
+The Veteran underwent a VA examination in October 2019. She reported she was single and lived alone with her two children. She was a full-time university student and spent her spare time taking care of her children, home, and school work. 
+
+The Veteran appeared for the examination appropriately dressed. She had a flat affect and became tearful when she talked about the drowning of her daughter. No thought disorder was noted.
+
+The examiner noted the Veteran's symptoms included: depressed mood; anxiety; chronic sleep impairment; flattened affect; disturbances of motivation and mood; difficulty establishing and maintaining effective work and social relationships; hypervigilance; exaggerated startle response; sleep disturbances; and feelings of detachment or estrangement from others. 
+
+The examiner opined the Veteran's level of occupational and social impairment was best summarized as occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks, although generally functioning satisfactorily, with normal routine behavior, self-care and conversation.
+
+An October 2019 VA treatment record notes the Veteran reporting feeling depressed with increasing anxiety. She denied suicidal or homicidal ideation.
+
+The Board finds the severity, frequency, and duration of the Veteran's symptoms more closely approximate the symptoms contemplated by a 50 percent rating, which are less severe, less frequent, and shorter in duration than those contemplated by a 70 percent rating or higher. See 38 C.F.R. § 4.126.
+
+The evidence of record shows the Veteran's major depressive disorder was manifested during the period on appeal by symptoms associated with a 50 percent rating, including flattened affect; panic attacks; disturbances of motivation and mood; and difficulty in establishing and maintaining effective work and social relationships. The Board finds that these symptoms more closely approximate those listed in the criteria for a 50 percent disability rating. See 38 C.F.R. § 4.126.
+
+Significantly, the evidence does not reflect the Veteran experienced symptoms associated with a 70 percent disability rating-suicidal ideation; obsessional rituals which interfere with routine activities; intermittently illogical, obscure, or irrelevant speech; near-continuous panic or depression affecting the ability to function independently, appropriately, and effectively; impaired impulse control; spatial disorientation; neglect of personal appearance and hygiene; or an inability to establish and maintain effective relationships-during the period on appeal. 
+
+While the Veteran reported the major depressive disorder caused irritability and mood swings, there is no evidence of an impaired impulse control. She reported having trust and commitment issues, but also reported she lived with and cared for her children. She was, therefore, able to establish and maintain effective relationships. In addition, she did not indicate she had difficulty remaining a full-time student during the period under consideration. 
+
+Following a holistic analysis, the Board finds the severity, frequency, and duration of the Veteran's symptoms, both those listed and unlisted in the rating criteria, more closely approximate the symptoms contemplated by a 50 percent disability rating. Therefore, the Board finds the evidence of record persuasively weighs against finding the Veteran's major depressive disorder manifested in occupational and social impairment with deficiencies in most areas during the period on appeal
+
+The Board has considered whether entitlement to a total disability rating based on individual unemployability (TDIU) has been raised by the record under Rice v. Shinseki, 22 Vet. App. 447 (2009). The Veteran submitted an application for TDIU with her Board notice of disagreement in January 2022. However, an August 2022 rating decision granted entitlement to TDIU from March 14, 2020, the date the Veteran asserted she became too disabled to work on her application. She did not appeal the August 2022 rating decision or assert an effective date earlier than March 14, 2020, was warranted. She has also not otherwise asserted the service-connected depressive disorder prevented her from maintaining substantially gainful occupation before March 14, 2020. Significantly, she reported she was a full-time student during the period on appeal. Based on the foregoing, the Board finds the issue of entitlement TDIU prior to March 14, 2020, has not been raised as part and parcel of the increased rating claim for the service-connected depressive disorder under Rice.
+
+(Continued on the next page)
+
+?
+
+In short, the evidence of record persuasively weighs against finding that the severity, frequency, and duration of the Veteran's symptoms resulted in the level of impairment required for a 70 percent disability rating or higher, and the appeal must be denied.
+
+ 
+
+William Skowronski
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Fields, Ashley N.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

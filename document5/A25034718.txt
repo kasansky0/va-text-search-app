@@ -1,0 +1,217 @@
+Citation Nr: A25034718
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 230206-332093
+DATE: April 15, 2025
+
+ORDER
+
+The appeal challenging the propriety of the combined evaluation of 80 percent, assigned in the January 20, 2023, and January 25, 2023, rating decisions, is denied.
+
+Entitlement to service connection for radiculopathy, left lower extremity, secondary to service-connected lumbosacral strain, is granted.
+
+Entitlement to service connection for radiculopathy, right lower extremity, secondary to service-connected lumbosacral strain, is granted.
+
+Entitlement to service connection for a back scar, secondary to service-connected lumbosacral strain, is granted. 
+
+REMANDED
+
+Entitlement to an increased rating for lumbosacral strain, which is currently 20 percent disabling, is remanded.
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) is remanded.
+
+FINDINGS OF FACT
+
+1. Under the Combined Ratings Table set forth in 38 C.F.R. § 4.25, the Veteran's combined total rating at the time of the January 20, 2023, and January 25, 2023, rating decisions was 80 percent.
+
+2. The Veteran's radiculopathy, left lower extremity, is due to his service-connected lumbosacral strain.
+
+3. The Veteran's radiculopathy, right lower extremity, is due to his service-connected lumbosacral strain.
+
+4. The Veteran's back scar is due to his service-connected lumbosacral strain.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a combined evaluation in excess of 80 percent for the Veteran's service-connected disabilities at the time of the January 20, 2023, and January 25, 2023, rating decisions are not met. 38 U.S.C. §§ 1155; 38 C.F.R. § 4.25.
+
+2. The criteria for service connection for radiculopathy, left lower extremity, as secondary to lumbosacral strain, are met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+3. The criteria for service connection for radiculopathy, right lower extremity, as secondary to lumbosacral strain, are met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+4. The criteria for service connection for a back scar, as secondary to lumbosacral strain, are met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from February 1978 to March 1998.
+
+This matter comes before the Board of Veterans' Appeals (Board) from January 20, 2023, and January 25, 2023, rating decisions issued by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the February 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+In July 2022, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of claims most recently addressed in a June 2022 rating decision. On January 20, 2023, and January 25, 2023, the agency of original jurisdiction (AOJ) issued the supplemental claim decisions on appeal, which found that new and relevant evidence had been received, and denied the claims based on the evidence of record at the time of that decision.  
+
+Therefore, the Board may only consider the evidence of record at the time of the January 20, 2023, and January 25, 2023, AOJ decisions on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding some of the claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+The Board also notes that the Veteran uploaded evidence with his February 2023 VA Form 10182. In January 2025, the Board sent the Veteran a letter inquiring as to whether he wanted to switch dockets. See Edwards v. McDonough, 36 Vet. App. 56 (2023). As it has been over two months without a response from the Veteran, the Board will assume he does not want to switch his docket and the Board will issue this decision without consideration of this additional evidence. 
+
+Although the Board regrets the additional delay, a remand on some issues is necessary to ensure that due process is followed and there is a complete record upon which to decide the Veteran's claims so that he is afforded every possible consideration. See 38 U.S.C. § 5103A; 38 C.F.R. § 3.159(c).
+
+1. The appeal challenging the propriety of the combined evaluation of 80 percent, assigned in the January 20, 2023, and January 25, 2023, rating decisions
+
+The Veteran contends that his combined disability rating is incorrect, where by his own manual calculations, his combined overall rating should be 140 percent, not 80 percent. See February 2023 VA Form 10182; February 2023 Correspondence.
+
+At the time the January 20, 2023, rating decision was issued, the Veteran was service connected for the following disabilities: left shoulder (20 percent); limitation of extension, left knee (20 percent); limitation of extension, right knee (20 percent); left ankle (20 percent); right knee arthritis (10 percent); chondromalacia, left knee (10 percent); lumbosacral strain (10 percent); left wrist (10 percent); tinnitus (10 percent); hypertension (0 percent); and scars, right knee (0 percent). The combined rating was 80%. 
+
+VA regulations provide that the individual ratings (evaluations) are not simply added together. Rather, they are combined using the VA Combined Ratings Table and formula. 38 C.F.R. § 4.25. Under 38 C.F.R. § 4.26, the bilateral factor will be applied to such bilateral disabilities before other combinations are carried out and the rating for such disabilities including the bilateral factor section will be treated as one disability for the purpose of arranging in order of severity and for all further combinations.
+
+Starting with the Veteran's lower extremity disabilities, the Board has applied the bilateral factor for the lower extremities under Table I - Combined Ratings Table resulting in the following calculations: 
+
+A 20 percent rating for limitation of extension, left knee is combined with a 20 percent rating for limitation of extension, right knee, resulting in a 36 percent rating. The 36 percent rating is then combined with a 20 percent rating for left ankle, resulting in a 49 percent rating. The 49 percent rating is then combined with a 10 percent rating for right knee arthritis, resulting in a 54 percent rating. The 54 percent rating is then combined with a 10 percent rating for chondromalacia, left knee, resulting in a 59 percent rating. This results in a 65 percent rating (59 plus 10% of this value (5.9) equals 64.9) for the Veteran's lower extremity disabilities.
+
+The Veteran's upper extremity disabilities were not included in this calculation because he has not established service connection for a right (opposing) upper extremity disability.
+
+Considering all of the Veteran's service-connected disabilities at the time of the January 20, 2023, rating decision, and applying them to the VA Combined Ratings Table and formula, results in the following calculations:
+
+The 65 percent rating for right and left lower extremities (using the bilateral factor noted above), is combined with the 20 percent rating for the left shoulder, resulting in a 72 percent rating.
+
+The 72 percent rating is then combined with the 10 percent rating for lumbosacral strain, resulting in a 75 percent rating.
+
+The 75 percent rating is then combined with the 10 percent rating for the left wrist, resulting in a 78 percent rating.
+
+The 78 percent rating is next combined with the 10 percent rating for tinnitus, resulting in an 80 percent rating.
+
+The 80 percent rating is next combined with the noncompensable (0 percent) ratings for hypertension and right knee scar, resulting in an 80 percent rating.
+
+Based on these calculations, the Veteran's combined rating as of January 20, 2023, rating decision is 80 percent.
+
+At the time the January 25, 2023, rating decision was issued, all disability ratings remained the same, except the Veteran's lumbosacral strain, now characterized as lumbosacral strain with degenerative arthritis and spondylolisthesis, was increased to 20 percent. The combined rating remained 80%.
+
+Considering all of the Veteran's service-connected disabilities at the time of the January 25, 2023, rating decision, and applying them to the VA Combined Ratings Table and formula, results in the following calculations:
+
+The 65 percent rating for right and left lower extremities (using the bilateral factor noted above), is combined with the 20 percent rating for the left shoulder, resulting in a 72 percent rating.
+
+The 72 percent rating is then combined with the 20 percent rating for lumbosacral strain, resulting in a 78 percent rating.
+
+The 78 percent rating is then combined with the 10 percent rating for the left wrist, resulting in an 80 percent rating.
+
+The 80 percent rating is next combined with the 10 percent rating for tinnitus, resulting in an 82 percent rating.
+
+The 82 percent rating is next combined with the noncompensable (0 percent) ratings for hypertension and right knee scar, resulting in an 82 percent rating. The combined rating of 82 percent must then be rounded to the nearest 10 percent.
+
+Based on these calculations, the Veteran's combined rating as of January 25, 2023, rating decision is 80 percent.
+
+While the Board acknowledges the Veteran's contentions, VA is directed by law to provide evaluations based on the combination of ratings for multiple service-connected disabilities by use of the Combined Ratings Table at 38 C.F.R. § 4.25.
+
+Based on the foregoing, the Board finds no error in the January 20, 2023, and January 25, 2023, calculations of the combined total rating of 80 percent. The claim for a higher combined rating is denied.
+
+2. Entitlement to service connection for radiculopathy, left lower extremity, secondary to service-connected lumbosacral strain
+
+3. Entitlement to service connection for radiculopathy, right lower extremity, secondary to service-connected lumbosacral strain
+
+In a March 2022 VA Form 21-526EZ, the Veteran filed a claim for service connection for bilateral lower extremity radiculopathy, secondary to his service-connected lumbosacral strain. A June 2022 rating decision denied these claims. 
+
+In a July 2022 VA Form 20-0995 supplemental claim application, the Veteran again sought service connection for bilateral lower extremity radiculopathy. January 2023 VA medical opinions provided negative nexuses, and the AOJ denied the claims in the January 20, 2023, rating decision.  
+
+The January 20, 2023, rating decision made findings of new and relevant evidence; of a diagnosis of radiculopathy, bilateral lower extremities; and of service-connection for the Veteran's back. The Board is bound by these favorable findings. 38 C.F.R. § 3.104(c).
+
+While the Veteran did not appeal the denial of bilateral lower extremity radiculopathy, because the Veteran's increased rating for a back disability is on appeal, the Board finds that the issue of secondary service connection with respect to bilateral lower extremity radiculopathy has been reasonably raised by the record. Bailey v. Wilkie, 33 Vet. App. 188 (2021).
+
+Service connection on a secondary basis requires (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) evidence establishing that the service-connected disability either (a) caused, or (b) aggravated, the nonservice-connected disability. 38 C.F.R. § 3.310; Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023) (invalidating the requirement of "proximate cause" and instead held a "but for" causation or aggravation is enough to show entitlement to secondary service connection). Given the favorable findings, the only question remaining is causation.
+
+In reviewing the November 2022 VA back examination, the January 2023 VA radiculopathy opinions, and the January 2023 VA addendum opinion, the Board notes that it is unclear exactly how the Veteran's lumbosacral strain, degenerative arthritis, and spondylolisthesis are related. There are some inconsistencies among these documents in that regard. For those reasons, among others, the Board finds the opinions and addendum opinion inadequate.
+
+However, there is an adequate positive nexus opinion. In the January 2022 private examination report, the private examiner diagnosed the Veteran with lumbosacral strain and bilateral radiculopathy. In this report, in explaining the "likely cause" of the Veteran's radiculopathy, the examiner said that the Veteran shows progression of the back condition with radiculopathy symptoms. While there could be a more detailed rationale, based on this statement, combined with a review of the examination report in total, it is clear that the private examiner connected the Veteran's radiculopathy with his lumbosacral strain disability specifically. 
+
+The Board finds the January 2022 private examiner's opinion to be adequate in that the examiner relied upon the examiner's own expertise, knowledge, and training. Further, the examiner considered lay evidence and the medical history of the Veteran.
+
+Therefore, after resolving any reasonable doubt in favor of the Veteran, the Board finds that service connection for bilateral lower extremity radiculopathy, secondary to service-connected lumbosacral strain, is warranted. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+4. Entitlement to service connection for a back scar, secondary to service-connected lumbosacral strain 
+
+The Board finds that the issue of secondary service connection with respect to a back scar has been reasonably raised by the record. Bailey, supra. 
+
+A November 2022 VA scars examination noted a 2021 diagnosis of a "midline lumbar scar, residual of lumbar procedure reportedly involving hardware." 
+
+A January 2022 private back examination report said the Veteran has a back scar related to the conditions or treatment of conditions listed in the diagnoses section (i.e. lumbosacral strain). While there could be a more detailed rationale, based on this statement, combined with a review of the examination report in total, it is clear that the private examiner connected the Veteran's back scar with his lumbosacral strain.
+
+The Board finds the January 2022 private examiner's opinion to be adequate in that the examiner relied upon the examiner's own expertise, knowledge, and training. Further, the examiner considered lay evidence and the medical history of the Veteran.
+
+As such, there is evidence of a current back scar disability, the Veteran is service connected for his lumbosacral strain, and there is evidence that the scar was caused by his lumbosacral strain. 
+
+Therefore, after resolving any reasonable doubt in favor of the Veteran, the Board finds that service connection for a back scar, secondary to service-connected lumbosacral strain, is warranted. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+REASONS FOR REMAND
+
+1. Entitlement to an increased rating for lumbosacral strain, which is currently 20 percent disabling, is remanded.
+
+The Veteran contends that he is entitled to an increased rating for his back disability. See February 2023 VA Form 10182.
+
+In the November 2022 VA back examination report, the examiner noted that the Veteran said that, in December 2021, he had had back surgery and then had subsequent physical therapy. Further, the January 2022 private back examination report mentions July 2021 and December 2021 surgeries. Of note, there are no records in the file regarding these surgeries or physical therapy. As these records could be relevant to determining the severity of the Veteran's back, it was a pre-decisional duty to assist error for the AOJ not to have obtained these records.  
+
+Further, while the November 2022 VA examination says that the Veteran does not take medicine for his back, a January 2021 treatment record states that the Veteran takes Asprin daily. See October 2022 JLV/MTF. It is unclear whether the examination's findings reflect any beneficial effects of that medication, which must be discounted when assigning the evaluation of a musculoskeletal disability. See Ingram v. Collins, No. 23-1798, 2025 U.S. App. Vet. Claims LEXIS 327.
+
+Also, the Board notes that the January 2022 private back examination indicates that the Veteran has flare ups, while the November 2022 VA examination does not. The VA examination report does not address this private examination's findings. Also, the January 2022 private examination report says that, during flare ups, the Veteran has the inability to bend for extended periods. However, the November 2022 VA examiner checked "no" for ankylosis. The VA examiner did not address whether the Veteran has functional ankylosis.
+
+Finally, as discussed above, the November 2022 VA back examination and the January 2023 VA addendum opinion are rather unclear exactly how the Veteran's lumbosacral strain, degenerative arthritis, and spondylolisthesis are related. There are some inconsistencies among these documents. 
+
+For the foregoing reasons, the Board finds the VA examination and addendum VA addendum opinion inadequate. The AOJ's reliance on an inadequate examination and opinion is a pre-decisional duty to assist error requiring remand. As such, the Board finds that a new examination, inclusive of a retrospective medical opinion; an opinion on functional ankylosis; and an opinion on the relationship between the Veteran's lumbosacral strain, degenerative arthritis, and spondylolisthesis, is necessary.
+
+2. Entitlement to a TDIU is remanded.
+
+The Board notes that, in the January 2022 private back examination report, the examiner noted that the Veteran's back condition causes him to be unable stand, sit, bend, or walk for extended periods. The Board finds that these notations raise a TDIU issue. See Rice v. Shinseki, 22 Vet. App. 447 (2009).
+
+However, before the Board can address the merits of the TDIU claim, additional development of the evidence is required to cure a pre-decisional duty to assist error. In this regard, despite the fact that the issue of a TDIU was raised by the record before the rating decisions on appeal, the AOJ did not assist the Veteran in the development of this claim.
+
+The matters are REMANDED for the following action:
+
+1. Obtain records related to the Veteran's July 2021 and December 2021 back surgeries and subsequent physical therapy. See November 2022 VA scar and back examinations; January 2022 private back examination. 
+
+Thereafter, complete the following:
+
+2. Schedule the Veteran for an examination by an appropriate clinician to determine the current severity of his service-connected lumbosacral strain. The claims file, to include a copy of this Remand, must be made available to and be reviewed by the examiner.
+
+(a)	The examiner should provide a full description of the current severity of the Veteran's lumbosacral strain and report all signs and symptoms necessary for evaluating the Veteran's disability under the rating criteria. 
+
+(b)	The examiner should explain, with a rationale, whether the degenerative arthritis and spondylolisthesis are progressions of and/or related to the Veteran's service-connected lumbosacral strain.
+
+(c)	The examiner should explain, with a rationale, which symptoms are attributed to which diagnoses. 
+
+?
+
+(d)	The examiner is asked to provide an opinion about whether the Veteran's reports that he is unable to bend his back during flare ups is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) the equivalent of functional ankylosis of the Veteran's back.
+
+(e)	Additionally, the VA examiner is asked to provide a retrospective opinion concerning the severity of the Veteran's service-connected lumbosacral strain at the November 2022 VA back examination. 
+
+The examiner must keep the following in mind: 
+
+The examiner must report on the symptoms as they are without the ameliorative effects of medication and note that this was done.
+
+The examiner must test the Veteran's active motion, passive motion, and pain with weight-bearing and without weight-bearing. If it is not possible to provide a specific measurement without speculation, the examiner must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), a deficiency in the record (additional facts are required), or the examiner (does not have the knowledge or training).
+
+The examiner must attempt to elicit information regarding the severity, frequency, and duration of any flare-ups, and the degree of functional loss during flare-ups. If it is not possible to provide a specific measurement based on direct observation, the examiner should provide an estimate, if at all possible, of the additional impairment due to flare-ups based on the other evidence of record and the Veteran's statements. If it is not possible to provide a specific measurement without speculation, the examiner must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), a deficiency in the record (additional facts are required), or the examiner (does not have the knowledge or training).
+
+As noted above, the examiner must review the claims file (including this remand) and note that such review was conducted. The examiner should review all medical evidence and all lay evidence.
+
+A rationale should be provided for all opinions offered. The medical opinion must support the conclusions reached with an analysis that is adequate to consider and weigh against other evidence of record. The VA clinician is advised that medical opinions must contain not only clear conclusions with supporting data but also a reasoned medical explanation connecting the two.
+
+If an opinion cannot be expressed without resort to speculation, the VA clinician must so indicate and discuss why an opinion is not possible, to include whether there is additional evidence that could enable an opinion to be provided, or whether the inability to provide the opinion is based on the limits of medical knowledge.
+
+3. Provide the Veteran with appropriate notice regarding the TDIU claim and request that he complete a VA Form 21-8940. Explain what is needed to establish entitlement to a TDIU. Ask the Veteran to submit any additional evidence in support of a TDIU claim, to specifically include information on his work history, salary, and educational history. Complete any development and adjudication warranted by the Veteran's response.
+
+ 
+
+ 
+
+MARJORIE A. AUER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Veljic, Erica A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

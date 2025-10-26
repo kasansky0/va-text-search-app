@@ -1,0 +1,153 @@
+Citation Nr: A25030212
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240328-428893
+DATE: April 2, 2025
+
+ORDER
+
+Service connection for bilateral hearing loss is denied.
+
+REMANDED
+
+Service connection for right knee condition is remanded.
+
+Service connection for seizure disorder due to head injury is remanded.
+
+Service connection for an acquired psychiatric disorder, to include anxiety and posttraumatic stress disorder (PTSD), is remanded.
+
+FINDING OF FACT
+
+The evidence of record persuasively weighs against finding that the Veteran has had bilateral hearing loss for VA purposes at any time during or approximate to the pendency of the claim.
+
+CONCLUSIONS OF LAW
+
+The criteria for service connection for bilateral hearing loss have not been met.  38 U.S.C. §§ 1110, 5107 (2012); 38 C.F.R. §§ 3.102, 3.303, 3.385 (2020).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service in the United States Army from November 2012 to April 2013. 
+
+These matters come before the Board of Veterans' Appeals (Board) from a January 2024 determination by the Agency of Original Jurisdiction (AOJ) under the modernized appeals system known as the Appeals Modernization Act (AMA).  In March 2024, the Veteran appealed such decision to the Board and requested direct review of the evidence considered by the AOJ.  Thus, the Board's review is limited to the evidence of record at the time of the issuance of the decision on January 26, 2024.
+
+As an initial matter, the Board recharacterizes her claim of service connection for posttraumatic stress disorder (PTSD) (also claimed as anxiety) as a claim of service connection for an acquired psychiatric disorder, to include anxiety and posttraumatic stress disorder (PTSD).  The recharacterization is for clarification purposes as the Veteran is diagnosed as having anxiety but also contends that she has PTSD.
+
+In her March 2024 VA Form 10182, the Veteran also wished to appeal the issues of service connection for migraines, back pain, and neck injury.  However, the claim of service connection for tension headaches (migraines) was denied in a June 1, 2022, rating decision, or more than a year before the receipt of her March 2024 VA Form 10182, making the appeal untimely for that issue.  
+
+Regarding the claims of service connection for back pain and neck injury, the Board notes that the Veteran submitted a claim for a neck condition in September 2023 but that the AOJ has never adjudicated the issue.  Regarding back pain, the Veteran did not submit a claim in May 2019, September 2021, or in September 2023, and it also was never adjudicated by the AOJ.
+
+Thus, only the claims of service connection for a right knee disability, seizure disorder due to head injury, bilateral hearing loss, and posttraumatic stress disorder (PTSD) are currently on appeal before the Board.
+
+Service Connection
+
+Service connection may be granted for a disability resulting from personal injury suffered or disease contracted in the line of duty.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.303, 3.304.  Service connection may also be granted for a disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Establishing service connection generally requires (1) evidence of a current disability; (2) evidence of in-service incurrence or aggravation of a disease or injury; and (3) evidence of a nexus between the claimed in-service disease or injury and the present disability.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+In addition to the criteria set forth above, service connection for impaired hearing is subject to the additional requirement of 38 C.F.R. § 3.385, which provides that impaired hearing will be considered to be a disability only if at least one of the thresholds for the frequencies of 500, 1000, 2000, 3000, or 4000 Hertz is 40 decibels or greater; the thresholds for at least three of the frequencies are greater than 25 decibels; or speech recognition scores using the Maryland CNC Test are less than 94 percent.  See also Hensley v. Brown, 5 Vet. App. 155 (1993).
+
+The standard of proof to be applied in decisions on claims for VA benefits is set forth in 38 U.S.C. § 5107(b).  Under that provision, VA shall consider all information and lay and medical evidence of record in a case before the Secretary with respect to benefits under laws administered by the Secretary.  When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  Id.; see also Gilbert v. Derwinski, 1 Vet. App. 49 (1990).  "It is in recognition of our debt to our veterans that society has [determined that,] [b]y tradition and by statute, the benefit of the doubt belongs to the veteran."  Gilbert, 1 Vet. App. at 54.
+
+1. Service connection for bilateral hearing loss
+
+The Veteran contends that she has bilateral hearing loss caused by her active service.
+
+In November 2012, the audiogram showed that the Veteran's pure tone thresholds, in decibels, were as follows:
+
+ 	HERTZ
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	0	0	-5	-5	-10
+
+LEFT	0	-5	-5	5	0
+
+In January 2015, the audiogram showed that the Veteran's pure tone thresholds, in decibels, were as follows:
+
+ 	HERTZ
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	10	5	5	5	5
+
+LEFT	10	5	5	5	10
+
+In May 2016, the audiogram showed that the Veteran's pure tone thresholds, in decibels, were as follows:
+
+ 	HERTZ
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	0 	0	0	0	0
+
+LEFT	10	5	0	5	10
+
+In March 2022, the audiogram showed that the Veteran's pure tone thresholds, in decibels, were as follows:
+
+ 	HERTZ
+
+ 	500	1000	2000	3000	4000
+
+RIGHT	 15	15	15	10	15
+
+LEFT	15	10	10	15	20
+
+The puretone threshold averages were 13.75 decibels for the right ear and 13.75 decibels for the left.  Her speech discrimination scores were 96 percent for the right ear and 94 percent for the left using the Maryland CNC wordlist.  The examiner found that the Veteran had normal hearing.
+
+In October 2023, the Veteran submitted an online hearing test that measured her left and right ear, showing "severe to profound hearing difficulties."  The results, however, clearly indicated that "results using this test cannot be considered as accurate as one performed by a professional audiologist in a soundproof booth" and that the testing environment was "not done."  Another medical treatment record noted that the Veteran had hearing loss, but also noted that her hearing was "grossly normal" in January 2023.  The Board finds that these records are not probative as they do not include, among other things, a speech discrimination test nor were the puretone threshold tests conducted in an adequate environment.  Moreover, the Board finds that the March 2022 VA examination is more probative given the consistency with the other audiometric findings in the Veteran's record.
+
+In a January 2024 rating decision, the AOJ denied the Veteran's claim based on a March 2022 VA examination that did not find hearing loss for VA purposes. 
+
+After reviewing the evidence of record, the Board finds that the Veteran's does not have hearing loss that is considered a "disability" for VA purposes.
+
+The Board acknowledges the lay assertions and the online testing that the Veteran has a compensable hearing loss condition that is related to her active service.  Although the Veteran is competent to state that she experienced an injury and has observable symptoms, she is not competent to provide evidence that her current hearing loss symptoms rise to the level of a disability meeting the section 3.385 criteria.  More importantly, the record does not establish hearing loss for VA purposes as it requires meeting the puretone thresholds discussed above in addition to a diagnosed hearing loss disability.  The Veteran did not have at least one of the thresholds for the frequencies of 500, 1000, 2000, 3000, or 4000 Hertz that is 40 decibels or greater; the thresholds for at least three of the frequencies were not greater than 25 decibels; and speech recognition scores using the Maryland CNC Test was not less than 94 percent.  
+
+The threshold element of a service connection claim (the existence of a current disability) has not been met as her hearing loss does not meet the requirements for a disability for VA purposes; therefore, service connection for hearing loss must be denied.  Based on the foregoing, the Board finds that the evidence of record is against a finding of service connection for hearing loss. As the persuasive weight of the evidence is against the claim, the benefit of doubt doctrine is not applicable.
+
+REASONS FOR REMAND
+
+1. Service connection for right knee condition is remanded.
+
+2. Service connection for seizure disorder due to head injury is remanded.
+
+3. Service connection for an acquired psychiatric disorder, to include anxiety and posttraumatic stress disorder, is remanded.
+
+The issues of entitlement to service connection for a right knee disability, seizure disorder due to head injury, and acquired psychiatric disorder, to include anxiety and posttraumatic stress disorder, are remanded to correct a duty to assist error that occurred prior to the January 2024 rating decision on appeal.  The Agency of Original Jurisdiction (AOJ) did not obtain the dates for the Veteran's period of active duty for training (ACDUTRA) or any period of inactive duty for training (INACDUTRA) nor did it obtain adequate medical opinions prior to the rating decision on appeal.  
+
+The Veteran contends that her right knee disability was caused and/or aggravated by her training.  Also, an October 2016 service treatment record shows that she "convulsed for [approximately] five seconds" when she was in "Army reserve on drill weekend."  Given the evidence of record, the Board finds that VA has a duty to assist the Veteran in obtaining records of her ACDUTRA and INACDUTRA.  The Veteran's treatment records also show that she was diagnosed as having anxiety.
+
+VA's duty to assist also includes obtaining a medical examination or opinion when such is necessary to decide on the claim.  38 U.S.C. § 5103A(d); 38 C.F.R. § 3.159(c)(4).  An examination or medical opinion is necessary if the evidence of record (1) contains competent evidence that the claimant has a current disability, or persistent or recurrent symptoms of disability; and (2) establishes that the claimant suffered an event, injury, or disease in service; or has a presumptive disease or symptoms of such a disease manifesting during an applicable presumptive period; and (3) indicates that the claimed disability or symptoms may be associated with the established event, injury, or disease in service; but (4) does not contain sufficient medical evidence for the Secretary to make a decision on the claim.  Id.; see also McLendon v. Nicholson, 20 Vet. App. 79 (2006).
+
+With respect to the claims, the statutory duty to assist has been triggered, as the Veteran contended that her current disabilities are causally related to her ACDUTRA or INACDUTRA.  She has not yet been afforded an examination for these claims.
+
+The Board thus finds that the Veteran should be afforded appropriate examinations with respect to her service connection claims.
+
+The matters are REMANDED for the following action:
+
+1. Prepare a memorandum for the record that explains and identifies the period(s) of ACDUTRA or INACDUTRA.  The records should be made available to the clinicians examining the Veteran.
+
+2. Schedule the Veteran for an examination by a VA clinician to determine the nature and etiology of the right knee disability.  The clinician should review the virtual file.  The clinician is to address whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that right knee disability was caused or aggravated by the Veteran's service.  If aggravation is found, the examiner should attempt to quantify the degree of additional disability resulting from the aggravation.
+
+The examiner must provide a complete rationale for his or her opinion(s) in the examination report.  If any of the above requested opinions cannot be made without resort to speculation, the examiner must state this and provide a rationale for such conclusion.
+
+3. Schedule the Veteran for an examination by a VA clinician to determine the nature and etiology of seizure disorder due to head injury.  The clinician should review the virtual file.  The clinician is to address whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that seizure disorder was caused or aggravated by the Veteran's service.  If aggravation is found, the examiner should attempt to quantify the degree of additional disability resulting from the aggravation.
+
+The examiner must provide a complete rationale for his or her opinion(s) in the examination report.  If any of the above requested opinions cannot be made without resort to speculation, the examiner must state this and provide a rationale for such conclusion.
+
+4. Schedule the Veteran for an examination by a VA clinician to determine the nature and etiology of any acquired psychiatric disorders, to include anxiety and PTSD.  The clinician should review the virtual file.  The clinician is to address whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that seizure disorder was caused or aggravated by the Veteran's service.  If aggravation is found, the examiner should attempt to quantify the degree of additional disability resulting from the aggravation.
+
+The examiner must provide a complete rationale for his or her opinion(s) in the examination report.  If any of the above requested opinions cannot be made without resort to speculation, the examiner must state this and provide a rationale for such conclusion.
+
+ 
+
+ 
+
+Paulette Vance Burton
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	H.S. Yun
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,101 @@
+Citation Nr: A25030097
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 211230-208257
+DATE: April 1, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is remanded.
+
+Entitlement to service connection for diabetes mellitus (DM) is remanded.
+
+Entitlement to service connection for an acquired psychiatric disorder is remanded.
+
+Entitlement to a total disability rating based on individual unemployability (TDIU) prior to October 16, 2019 is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from October 1972 to October 1976.
+
+He appeals a December 2021 rating decision by the Agency of Original Jurisdiction (AOJ).  In his December 2021 notice of disagreement (NOD), the Veteran appealed the decision directly to the Board and chose the Direct Review docket.  See December 2021 VA Form 10182.  Therefore, the Board may only consider the evidence of record at the time of the AOJ decision on appeal.  38 C.F.R. § 20.301.
+
+The scope of a mental health disability claim includes any psychiatric disability that may reasonably be encompassed by the Veteran's description of the claim, reported symptoms, and the other information of record.  See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009).  Thus, the Board has recharacterized the Veteran's mental health claim on appeal to entitlement to service connection for an acquired psychiatric disorder.
+
+1. OSA
+
+2. DM
+
+The Veteran seeks service connection for OSA and DM, claimed as secondary to his service-connected disabilities-to include obesity as an intermediate step.  See July 2021 Veteran statement.  The Veteran has diagnoses of DM and OSA.  See December 2021 rating decision favorable findings. 
+
+A November 2021 VA opinion was produced regarding the Veteran's secondary theory of entitlement.  The November 2021 VA examiner provided negative causation opinions, concluding that the Veteran's OSA and DM are not "proximately due to" the Veteran's service-connected back disability, right ankle disability, left knee disability, right knee disability, and/or right lower extremity (RLE) radiculopathy.  See November 2021 VA medical opinion.  This opinion is inadequate for various reasons.  First, the examiner's reference to "proximate causation" is improper-establishing service connection on a secondary basis does not require a showing of proximate causation, but only but-for causation.  See Spicer v. McDonough, 61 F.4th 1360, 1364 (Fed. Cir. 2023); 38 U.S.C. § 1110.  Second, the examiner failed to address the question of aggravation.  See El-Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013) (holding that medical opinions addressing the issue of secondary service connection are inadequate when they fail to adequately encompass the question of aggravation).  Thus, the Board finds that remand is necessary to obtain adequate secondary service connection opinions.  See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007) (noting that once VA undertakes an examination, an adequate one must be produced).
+
+Further, VA's Office of General Counsel has determined that obesity is not a disease or injury under VA's laws and regulations and may not be service connected on a direct or secondary basis.  VAOPGCPREC 1-2017.  However, obesity may act as an intermediate step between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R. § 3.310(a).  See Marcelino v. Shulkin, 29 Vet. App. 155 (2018); Walsh v. Wilkie, 32 Vet. App. 300 (2020).
+
+A theory of obesity as an intermediary step is raised when there is some evidence in the record which draws an association or suggests a relationship between the veteran's obesity (or weight gain resulting in obesity) and a service-connected condition.  Garner v. Tran, 33 Vet. App. 241, 248 (2021).  The General Counsel's opinion advises that to decide entitlement to secondary service connection in such a case, the Board is required to resolve (1) whether the service-connected disability caused the veteran to become obese; (2) if so, whether obesity, as a result of the service-connected disability, was a substantial factor in causing the claimed secondary disability; and (3) whether the claimed secondary disability would not have occurred but for obesity caused by the service-connected disability.  VAOPGCPREC 1-2017 at 9-10; Garner, 33 Vet. App. at 247-248.
+
+Here, the Veteran specifically contends that his service-connected disabilities do not allow him to exercise properly.  He asserts his lack of mobility and inability to exercise have caused him to gain weight and become obese.  In turn, said weight gain and resulting obesity caused or aggravated his DM and OSA.  See July 2021 Veteran statement.  The November 2021 VA examiner concluded that there is a linear correlation between obesity and OSA and that obesity is a major risk factor for developing DM.  See November 2021 VA medical opinion.  However, the examiner failed to opine as to whether the Veteran's service-connected disabilities caused him to become obese, and whether the OSA and DM would not have occurred but for obesity caused by his service-connected disabilities.  Id.
+
+Accordingly, the Board finds that the November 2021 opinion does not adequately address the Veteran's theory regarding obesity as an intermediate step as the opinion is incomplete.  Therefore, remand is required to obtain a complete opinion on this matter.  See Barr, supra.
+
+As the above constitute predecisional duty to assist errors, remand is appropriate.  38 C.F.R. § 20.802(a).
+
+3. Acquired Psychiatric Disorder
+
+The Veteran seeks service connection for an acquired psychiatric disorder, claimed as secondary to his service-connected disabilities.  See, e.g., April 2014 VA Form 21-526b.  The Veteran was afforded a VA examination in January 2015.  The VA examiner diagnosed the Veteran with unspecified depressive disorder.  See January 2015 VA examination report.  As to nexus, the examiner opined that the Veteran's "[d]epressive symptoms were reported to be intermittent and there was no clear connection between these symptoms and his military service or his ankle problems with a greater likelihood that the bouts of depressed mood reported are linked to numerous losses he has experienced over the years."  Id.
+
+Preliminarily, the Board notes that the January 2015 VA examiner only discussed the relationship between the Veteran's service-connected right ankle disability and his mental health disorder, despite the AOJ requesting a secondary opinion regarding both his service-connected right ankle disability and back disability.  See January 2015 Compensation and Pension Exam Inquiry.
+
+Further, in July 2021, the Veteran specifically stated that his back, right ankle, right hip, bilateral knees, and tinnitus all contribute to his mental health issues.  See July 2021 Veteran statement.  Despite this information being available in the record prior to the December 2021 rating decision on appeal, the AOJ failed to request secondary opinions regarding these additional service-connected disabilities specifically plead by the Veteran.  Accordingly, the Board finds that remand is warranted to obtain an adequate secondary opinion that encompasses the complete list of service-connected disabilities as the cause or source of aggravation of the Veteran's acquired psychiatric disorder.  See Robinson v. Peake, 21 Vet. App. 545, 552-56 (2008) (holding that the Board is required to address issues raised by either the claimant or the evidence of record); see also Bailey v. Wilkie, 33 Vet. App. 188 (2021) (holding that when entitlement to secondary service connection is raised, a formal claim for secondary service connection need not be filed; rather, VA must consider those complications in connection with the claim on appeal).
+
+As the above constitute predecisional duty to assist errors, remand is appropriate.  38 C.F.R. § 20.802(a).
+
+4. TDIU prior to October 16, 2019
+
+The Veteran was awarded entitlement to TDIU in a November 2021 rating decision.  The effective date of the award is October 16, 2019.  See November 2021 rating decision.  However, the Veteran contends that the effective date of such should be earlier than what was assigned.  See December 2021 VA Form 10182.
+
+Because a decision on the remanded issues above could significantly impact a decision on the issue of entitlement to TDIU prior to October 16, 2019, the issues are inextricably intertwined.  A remand of the claim is required.  See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991).  Accordingly, the duty to assist errors identified herein regarding the Veteran's service connection claims extend to this intertwined claim as well and remand is appropriate.  38 C.F.R. § 20.802(a).
+
+The matters are REMANDED for the following action:
+
+1. Obtain an opinion from an appropriately qualified clinician to determine the nature and etiology of the Veteran's OSA and DM.  The evidentiary record, including a copy of this remand, must be made available to and reviewed by the reviewing clinician.  It is up to the discretion of the reviewing clinician as to whether a new examination is necessary to provide an adequate opinion.
+
+Following review of the record and examination of the Veteran, if deemed necessary, the reviewing clinician should answer the following:
+
+(a.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's OSA and/or DM were caused OR aggravated by his service-connected back, right hip, bilateral knee, right ankle, and/or RLE disabilities?
+
+(b.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's obesity was proximately caused OR aggravated by his service-connected back, right hip, bilateral knee, right ankle, and/or RLE disabilities?
+
+(c.) If the answer to question (b) is yes, is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the obesity was a substantial factor in causing the Veteran's OSA and/or DM?
+
+(d.) If the answer to question (c) is yes, is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's OSA and/or DM would not have occurred but for the obesity caused OR aggravated by his service-connected back, right hip, bilateral knee, right ankle, and/or RLE disabilities?
+
+A full and complete rationale for all opinions must be provided, and a discussion of the facts and medical principles involved would be of considerable assistance to the Board.  If the reviewing clinician cannot provide a requested opinion without resorting to mere speculation, it must be stated, and the reviewing clinician must provide the reasons why an opinion would require speculation.  As such, the reviewing clinician must explain whether the inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question.
+
+2. Schedule the Veteran for an appropriate examination to determine the nature and etiology of any acquired psychiatric disorder.  The evidentiary record, including a copy of this remand, must be made available to and reviewed by the examiner.  The examination must include a notation that this record review took place.
+
+The examiner should identify all acquired psychiatric disorders present.  For each identified psychiatric disorder, the examiner is asked to respond to the following:
+
+Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any diagnosed acquired psychiatric disorder was caused OR aggravated by the Veteran's service-connected tinnitus, back, right hip, bilateral knee, right ankle, and/or RLE disabilities?
+
+The complete rationale for all opinions should be set forth and a discussion of the facts and medical principles involved would be of considerable assistance to the Board.
+
+(Continued on the next page)
+
+?
+
+If an opinion cannot be provided without resorting to mere speculation, the examiner must provide a complete explanation for why an opinion cannot be rendered.  In so doing, the examiner must explain whether the inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question.
+
+ 
+
+ 
+
+DONNIE R. HACHEY
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Poe, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

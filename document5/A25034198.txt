@@ -1,0 +1,93 @@
+Citation Nr: A25034198
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240423-435737
+DATE: April 14, 2025
+
+ORDER
+
+1. Prior to October 12, 2020, a compensable disability rating (greater than zero percent) for service-connected rhinitis is denied.
+
+2. From October 12, 2020, an increased disability rating in excess of 10 percent for service-connected rhinitis is denied.
+
+FINDINGS OF FACT
+
+1. Prior to October 12, 2020, the Veteran's rhinitis did not manifest with greater than 50 percent obstruction of the nasal passage on both sides, or complete obstruction on one side.
+
+2. From October 12, 2020, the Veteran's rhinitis has manifested with greater than 50 percent obstruction of the nasal passage on both sides, but without polyps.
+
+CONCLUSION OF LAW
+
+1. Prior to October 12, 2020, the criteria are not met for a compensable disability rating for service-connected rhinitis. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.6, 4.7, 4.21, 4.31, 4.97, Diagnostic Code 6522.
+
+2. From October 12, 2020, the criteria are not met for an increased disability rating in excess of 10 percent for service-connected rhinitis. Id.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran served on active duty in the United States Coast Guard during the Gulf War Era from March 2008 to November 2019.
+
+In August 2017, the President signed into law the Veterans Appeals Improvement and Modernization Act of 2017 (Appeals Modernization Act or AMA), Pub. Law 115-55, which created a new claims and appeals process for pursuing VA benefits. All initial rating decisions issued after February 19, 2019, are promulgated under the AMA. The rating decision on appeal was issued in September 2021 and constitutes an initial decision; therefore, the AMA applies. 
+
+In his April 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. By law, for claims appealed in this docket, the Board may only consider the evidence of record at the time of the September 2021 Agency of Original Jurisdiction (AOJ) decision on appeal. If the evidence was submitted after this time, then, by law, the Board was not permitted to consider that evidence in this decision. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. Cook v. McDonough, 36 Vet. App. 175 (2023).
+
+Preliminary Matters
+
+The Board observes that the Veteran's appeal is untimely. The Veteran failed to continuously pursue his initial claim following the September 2021 rating decision, which became final one year after the decision was issued. 38 CF.R. §§ 3.160(d), 3.2500. VA regulations provide clear recourse in circumstances when a filing extension is required at 38 C.F.R. § 20.203(c), which allows for an extension to be granted "for good cause" if the request is offered in writing and submitted to the Board.
+
+In this case, the Veteran submitted a statement with his appeal requesting an extension and explaining that he was incapacitated due to illness during the appeal period following the September 2021 rating decision. "During the period of time that I filed and received my original claim, I was incredibly ill. I attended the C&P exam during COVID, so between the pandemic and the results of an autoimmune virus, I couldn't get to filing an appeal on time. I've since recovered from the illnesses that had me bedridden and am in need to have my claim reviewed." See April 2024 VA Form 10182. While the Veteran did not provide medical evidence substantiating this illness, the Board observes that the Veteran did not file anything with the VA in the two-year period between the September 2021 rating decision and September 2023. Thus, the Board has no reason to question the Veteran's credibility or explanation. 
+
+Accordingly, the Board concludes that good cause has been shown to warrant an extension to appeal the September 2021 rating decision, and the Board will adjudicate the merits of the Veteran's appeal herein.
+
+Increased Disability Rating for Service-Connected Rhinitis
+
+The Veteran contends that his service-connected rhinitis is more severe than contemplated by his staged rating of zero percent disabling prior to October 12, 2020, and 10 percent disabling thereafter. 
+
+Legal Criteria
+
+Disability evaluations are determined by the application of a schedule of ratings, which is based on average impairment of earning capacity. Separate diagnostic codes identify the various disabilities. See 38 U.S.C. § 1155; 38 C.F.R. Part 4. The percentage ratings in VA's Schedule for Rating Disabilities (Rating Schedule) represent as far as can practicably be determined the average impairment in earning capacity resulting from such disabilities and their residual conditions in civil occupations. See 38 C.F.R. § 4.1.
+
+Where there is a question as to which of two ratings shall be applied, the higher rating will be assigned if the disability more closely approximates the criteria for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. When the evidence is approximately balanced (nearly equal) for and against a finding regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. 38 U.S.C. § 5107 (b); 38 C.F.R. §§ 3.102, 4.3; Lynch v. McDonough, 21 F.4th 776 (2021).
+
+Where entitlement to compensation has already been established and increase in disability is at issue, the present level of disability is of primary concern. See Francisco v. Brown, 7 Vet. App. 55 (1994).
+
+Rhinitis is rated pursuant to 38 C.F.R. § 4.97, Diagnostic Code (DC) 6522, for diseases of the respiratory system. Under DC 6522, a 10 percent rating is warranted for rhinitis without polyps, but with greater than 50-percent obstruction of nasal passage on both sides or complete obstruction on one side. The maximum 30 percent rating is warranted for rhinitis with the presence of polyps. Id. 
+
+Factual Background 
+
+The Veteran filed a VA Form 21-0966 Intent to File a Claim for Compensation (ITF) in May 2020, less than one year following his November 29, 2019, separation from service. In July 2020 he then submitted a service connection claim for rhinitis. He submitted a second ITF on October 12, 2020. In a November 2020 rating decision, the AOJ granted service connection for rhinitis with a noncompensable (zero percent) initial disability rating effective November 30, 2019. The Veteran filed a claim for an increased (compensable) rating in July 2021, which was granted by the AOJ in the September 2021 rating decision on appeal, awarding a 10 percent rating effective October 12, 2020, the date of the Veteran's subsequent ITF.
+
+The Veteran was afforded a VA examination in October 2020, which forms the basis of his initial noncompensable rating. The VA examiner diagnosed the Veteran with rhinitis but did not find obstruction of the nasal passage on both sides greater than 50 percent, or complete obstruction on one side. Further, polyps were not found.
+
+The Veteran attended a subsequent VA examination in July 2021, which forms the basis of his 10 percent increased rating. The VA examiner again diagnosed the Veteran with rhinitis but did not find polyps or complete obstruction of the nasal passage on one side. The examiner did find greater than 50 percent obstruction of the nasal passage both sides. 
+
+The Veteran's service treatment records and post-service medical records are silent for the presence of polyps.
+
+Analysis
+
+For the reasons that follow, the Veteran's service-connected rhinitis does not more nearly approximated the criteria corresponding to a 10 percent rating, the next higher rating for which compensation is available, prior to October 12, 2020, or a 30 percent rating thereafter, the maximum rating for which compensation is available.
+
+The first evidence in the record of rhinitis manifesting symptoms that warrant a compensable rating is the July 2021 VA examination finding obstruction of the nasal passage on both sides greater than 50 percent. In fact, as of the Veteran's October 2020 VA examination, no compensable symptoms were present. Despite this evidence and to the benefit of the Veteran, the AOJ assigned the 10 percent increased rating effective the date of his October 2020 ITF. Thus, a compensable disability rating prior to October 12, 2020, is not warranted. 
+
+Further, there is no evidence in the record that the Veteran has ever experienced polyps. Without such evidence, a 30 percent disability evaluation is not warranted. While the Veteran states in his April 2024 Notice of Disagreement that "the examiner mentioned 'with polyps' to me," it simply is not reflected by the VA examination report, nor is it consistent with the remainder of the evidence. 
+
+Because the criteria under DC 6522 are not met to establish a 10 percent rating prior to October 12, 2020, or a 30 percent increased rating thereafter, the Veteran's appeal must be denied. 38 U.S.C. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.6, 4.7, 4.21, 4.31, 4.97, DC 6522.
+
+The Board is sympathetic to the Veteran's reports, does not question his credibility, and understands that his disabilities have significant effects on his daily life. However, his symptoms more nearly approximate a noncompensable disability rating prior to October 12, 2020, and a 10 percent disability rating thereafter. The Board notes that this decision does not leave the Veteran without recourse, as he is free to file a claim for an increased rating evaluation with new and relevant evidence indicating that a higher evaluation is warranted.
+
+The Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record. See Doucette v. Shulkin, 28 Vet. App. 366 (2017). Additionally, the Board is cognizant of the ruling of the Court in Rice v. Shinseki, 22 Vet. App. 447 (2009). The Veteran has not specifically argued, and the reviewable record does not otherwise reflect, that his service-connected disabilities render him unable to obtain or maintain substantially gainful employment. 
+
+Accordingly, the Board concludes that a claim for a total disability rating has not been raised. The Veteran certainly may raise this claim in the future, should he choose to do so.
+
+ 
+
+VICTORIA MOSHIASHWILI
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Meadows, Samantha A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,73 @@
+Citation Nr: A25031431
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 240514-441785
+DATE: April 4, 2025
+
+ORDER
+
+Entitlement to an initial rating of 10 percent, but not higher, for pulmonary tuberculosis with restrictive lung volume and interstitial lung disease is granted.
+
+FINDING OF FACT
+
+The Veteran has forced vital capacity (FVC), post-bronchodilator, of 75 percent predicted.
+
+CONCLUSION OF LAW
+
+The criteria for a disability rating in excess of 10 percent for service-connected pulmonary tuberculosis with restrictive lung volume and interstitial lung disease have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1-4.7, 4.96, 4.97, Diagnostic Code 6825.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from November 1987 until honorable discharge in May 1997.
+
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO). The Appeals Modernization Act (AMA) automatically applies to all claims for which VA issues notice of an initial decision on or after February 19, 2019. See 38 C.F.R. § 3.2400(a)(1). Here, the March 2024 rating decision issued by the VA agency of original jurisdiction (AOJ), was issued in response to the Veteran's November 2023 claim for service connection. The March 2024 rating decision constitutes an initial decision, and the AMA applies.
+
+The March 2024 rating decision on appeal granted service connection for pulmonary tuberculosis with restrictive lung volume and interstitial lung disease; the AOJ assigned a noncompensable rating, effective August 22, 2023, the date that the Veteran submitted an Intent to File. See 38 C.F.R. § 3.155. Following the March 2024 rating decision, the Veteran filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement (NOD)) in May 2024. The Veteran elected to place this appeal on the Direct Review docket.
+
+The Board notes that the Veteran requested an extension to file an appeal within the May 2024 NOD. The Veteran indicated that the reason for seeking an extension is that the Veteran is not familiar with the process and has found it difficult to keep track of dates and deadlines. The Board finds that this is not "good cause" for granting an extension, and the request for an extension is denied. 38 C.F.R. § 3.109(b).
+
+However, the May 2024 NOD filing constitutes a perfected appeal. The NOD contains all of the requirements for a substantive appeal to the Board. See 38 C.F.R. §§ 20.210-20.204. The time to request a change to the elected docket has expired. 38 C.F.R. § 20.202(c)(2). At no time during the pendency of the claim has the Veteran submitted a request to change dockets, nor submitted additional evidence that may be construed as an intent to change dockets. Accordingly, the Board finds that a valid and timely VA Form 10182 was received in May 2024 and the appeal is properly before the Board.
+
+The Board may only consider the evidence of record at the time of the March 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Increased Rating
+
+Disability evaluations are determined by evaluating the extent to which a Veteran's service-connected disability adversely affects his ability to function under the ordinary conditions of daily life, including employment, by comparing his symptomatology with the criteria set forth in the Schedule for Rating Disabilities (Rating Schedule). 38 U.S.C. § 1155; 38 C.F.R. §§ 4.1, 4.2, 4.10. 
+
+When a question arises as to which of two ratings applies under a particular Code, the higher rating is assigned if the disability more nearly approximates the criteria for the higher rating. 38 C.F.R. § 4.7. After careful consideration of the evidence, any reasonable doubt remaining, including degree of disability, is to be resolved in favor of the Veteran. 38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3. 
+
+Entitlement to an initial rating of 10 percent, but not higher, for pulmonary tuberculosis with restrictive lung volume and interstitial lung disease is granted.
+
+Service connection for pulmonary tuberculosis with restrictive lung volume and interstitial lung disease was granted in the March 2024 rating decision on appeal; an initial noncompensable rating was assigned effective August 22, 2022. The Veteran contends that a higher initial evaluation is warranted as the condition has affected the Veteran's lifestyle. See Board Appeal (NOD), May 2024.
+
+The Veteran's pulmonary tuberculosis with restrictive lung volume and interstitial lung disease was rated as noncompensable under Diagnostic Code (DC) 6825. The record reflects that the Veteran's tuberculosis is in remission. In the initial claim for compensation, the Veteran claimed the condition as "[tuberculosis], in remission." VA Form 21-526EZ, November 2023. Moreover, the VA medical opinion rendered in December 2023 indicates that there is "no evidence of current [tuberculosis] infection," nor are there symptoms associated with tuberculosis specifically. Therefore, rating the condition under DC 6825, regarding interstitial lung disease, is a more accurate representation of the Veteran's current disability.
+
+Diagnostic Code 6825 utilizes pulmonary function tests (PFTs) in the application of rating evaluation criteria. 38 C.F.R. § 4.96(d). These tests include forced vital capacity (FVC), forced expiratory volume in one second (FEV-1), and diffusion capacity of the lung for carbon monoxide by the single breath method (DLCO (SB)). Id. Additionally, regulations require the use of post-bronchodilator results in applying the evaluation criteria unless post-bronchodilator results are poorer than the pre-bronchodilator results. 38 C.F.R. § 4.96(d)(5)
+
+Diagnostic Code 6825 states: a 10 percent rating is applied for FVC of 75 percent to 80 percent predicted, or DLCO (SB) of 66 percent to 80 percent predicted; a 30 percent rating is applied for FVC of 65 percent to 74 percent predicted, or DLCO (SB) of 56 percent to 65 percent predicted; a 60 percent rating is applied for FVC of 50 percent to 64 percent predicted, or DLCO (SB) of 40 percent to 55 percent predicted or maximum exercise capacity of 15 ml/kg/min to 20 ml/kg/min oxygen consumption with cardiorespiratory limitation; a 100 percent rating is applied for FVC less than 50 percent predicted, or DLCO (SB) less than 40 percent predicted or maximum exercise capacity less than 15 ml/kg/min oxygen consumption with cardiorespiratory limitation, or cor pulmonale or pulmonary hypertension, or requires outpatient oxygen therapy. 38 C.F.R. § 4.97.
+
+The Board finds that a 10 percent rating, but not higher, is appropriate for the Veteran's pulmonary tuberculosis with restrictive lung volume and interstitial lung disease throughout the initial rating period. The Veteran underwent a VA medical examination in December 2023, which included PFTs. In the disability benefits questionnaire (DBQ) associated with the December 2023 VA examination, on which the AOJ relied in assigning a 10 percent rating, the VA examiner noted the PFT results as follows: FEV-1 pre-bronchodilator 78 percent predicted, FEV-1 post-bronchodilator 75 percent predicted; FVC pre-bronchodilator 85 percent predicted, FVC post-bronchodilator 82 percent predicted; FEV-1 to FVC ratio pre-bronchodilator 109% predicted, FEV-1 to FVC ratio post-bronchodilator 110% predicted. VA Medical Opinion, December 2023. The examiner indicated that DLCO testing was not indicated in the Veteran's case. Id. Additionally, the examiner stated that the FEV-1 to FVC ratio is the most accurate reflection of the Veteran's current pulmonary function.
+
+However, in looking directly at the results of the PFTs on which the VA examiner relied, it appears that the VA examiner made a typographical error in the December 2023 DBQ. The PFT testing results from the diagnostic read-out directly are as follows: FEV-1 pre-bronchodilator 85 percent predicted, FEV-1 post-bronchodilator 82 percent predicted; FVC pre-bronchodilator 78 percent predicted, FVC post-bronchodilator 75 percent predicted; FEV-1 to FVC ratio pre-bronchodilator 109% predicted, FEV-1 to FVC ratio post-bronchodilator 110% predicted. Pulmonary Testing Results, December 2023.
+
+The Board finds that the results of the direct read-out of the PFTs is more likely to be accurate than the values indicated in the DBQ, especially as all of the values are the same, simply assigned to different PFTs. Thus, it appears that the examiner transposed the results for FEV-1 and FVC. Therefore, the accurate reading of FVC post-bronchodilator is 75 percent predicted.
+
+The Board is aware that the VA examiner indicated that the FEV-1 to FVC ratio is the most accurate reflection of the Veteran's current pulmonary function; however, given that the values were transposed, it is unclear if the examiner's opinion was based on the accurate diagnostic results and they simply made a typographical error in completing the form, or if the opinion was based on an incorrect factual basis. Because the Board cannot determine if this finding is based in fact or not, the Board affords the VA examiner's determination that the FEV-1 to FVC ratio is the most accurate reflection of the Veteran's current pulmonary function no probative weight. This does not implicate other findings by the VA examiner. This simply means that the Board will utilize the PFT results direct from the diagnostic testing rather than those reported in the DBQ. The Board finds that all other aspects of the DBQ are reliable and of significant probative weight.
+
+Turning to the diagnostic criteria for DC 6825, a 10 percent rating is appropriate. The Veteran has a FVC post-bronchodilator of 75 percent predicted. Pulmonary Testing Results, December 2023. This indicates that a 10 percent evaluation is appropriate. To receive a higher evaluation of 30 percent, the Veteran's FVC post-bronchodilator would need to be 65 percent to 74 percent predicted. The record does not contain any evidence suggesting the presence of cor pulmonale, pulmonary hypertension, nor a need for outpatient oxygen therapy. Therefore, entitlement to an initial rating of 10 percent, but not higher, for pulmonary tuberculosis with restrictive lung volume and interstitial lung disease is granted.
+
+ 
+
+ 
+
+Danette Mincey
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. T. Holtsclaw
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

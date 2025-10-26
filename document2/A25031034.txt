@@ -1,0 +1,69 @@
+Citation Nr: A25031034
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240530-444642
+DATE: April 3, 2025
+
+ORDER
+
+Entitlement to service connection for hypertension secondary to the service-connected insomnia disorder with unspecified depressive disorder (psychiatric disability) is granted.
+
+FINDING OF FACT
+
+The competent and credible evidence of record persuasively establishes a finding that the hypertension is secondary to the service-connected psychiatric disability.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for hypertension secondary to the service-connected psychiatric disability have been met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from October 1990 to May 1993. This case comes before the Board of Veterans' Appeals (Board) on appeal from a September 2023 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to service connection for hypertension
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a). To establish a right to compensation for a present disability, a Veteran must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service - the so-called "nexus" requirement. Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)). Service connection may be granted for any disease initially diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+Service connection may also be granted on a secondary basis for disability which is proximately due to or the result of service-connected disease or injury, or for additional disability resulting from the aggravation of a nonservice-connected disability by a service-connected disability. 38 C.F.R. § 3.310 (2018); Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+The Veteran alleges that service-connected psychiatric disability caused her to become obese, which caused the hypertension.
+
+First, the Board finds that there is a current disability. See Holton, 557 F.3d at 1366; 38 C.F.R. § 3.303(d). The Veteran underwent a VA examination in November 2022 where the examiner confirmed a hypertension diagnosis. Accordingly, the first element of service connection is met. 
+
+Second, the Board finds that there was an in-service event, injury, or disease. See Holton, 557 F.3d at 1366; 38 C.F.R. § 3.303(d). The Veteran's service treatment records (STRs) are silent for any complaints of or treatment for hypertension, including at entry to and separation from service. However, as indicated above, she alleges that the hypertension is secondary to the service-connected psychiatric disability. The Board finds the Veteran's statements competent as they are capable of lay observation. 38?U.S.C. §?1154(a); Washington v. Nicholson, 19 Vet. App. 362, 368 (2005) (noting that a lay witness is competent to report to factual matters of which he or she has first-hand knowledge); Caluza v. Brown, 7 Vet. App. 498, 511 (1995) (noting that the probative value of a witness statement may be affected by inconsistency with other evidence), aff'd, 78 F.3d 604 (Fed. Cir. 1996). Accordingly, the second element of service connection is met.
+
+Third, the Board finds that the evidence of record does support a finding that the hypertension is related to active service. 
+
+The November 2022 VA examiner provided a negative nexus opinion where they disagreed with the Veteran's theory of entitlement as the Veteran had multiple years of being overweight without hypertension, and that there was a strong family history of hypertension. The examiner indicated that the condition is likely to be essential hypertension, which is caused by renovascular disease, renal failure, pheochromocytoma, and aldosteronism, and that for most adults, there is no identifiable cause.
+
+The Veteran submitted a February 2023 private medical opinion in which the examiner noted that the Veteran was 110 pounds when she entered service, 150 pounds at separation, and currently 208 pounds, which occurred after her mental health stressor events related to her service-connected condition. They explained that it is well documented that mental health conditions often lead to social isolation, impaired functioning, and weight gain. The examiner stated that medical literature supports that depression induces weight gain and obesity, and that it has been found that there is a greater likelihood of weight gain if a person has mental illness. Therefore, they concluded it is at least as likely as not that the current hypertension is secondary to the service-connected psychiatric disability.
+
+In September 2023, the AOJ obtained an addendum opinion to address a nexus with possible toxic exposure risk activities (TERA) during service. The examiner concluded that the hypertension was less likely than not caused by the indicated TERA, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran. They explained that there was no medical or scientific evidence available to demonstrate a nexus.
+
+The Board affords the February 2023 private medical opinion significant probative value as it was conducted by a medical professional with consideration of the Veteran's lay statements, and specific facts in this case, and was supported by well-reasoned rationale. Factors for assessing the probative value of a medical opinion include the thoroughness and detail of the opinion. Prejean v. West, 13 Vet. App. 444, 448-9 (2000). A medical examination report must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two. Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008).
+
+The Board affords the November 2022 VA opinion low probative value as it was conclusory without sufficient supporting rationale. The examiner essentially said that it was not possible for the service-connected disability to have caused the hypertension because the Veteran was obese prior to the development of the hypertension. They simply restated the theory of entitlement as if doing so disproved it. The examiner also indicated that for most adults, the cause of hypertension is unknown, but neglected to address whether obesity can cause hypertension. Id.
+
+Finally, the Board also affords low probative value to the September 2023 VA opinion as the Veteran never raised a theory of entitlement that the hypertension was caused by in-service TERA. Generally, a medical opinion should address the appropriate theories of entitlement. Stefl v. Nicholson, 21 Vet. App. 120, 123-24 (2007). It appears that the AOJ sought this opinion to develop negative evidence against the claim.
+
+As the probative evidence of record is in the Veteran's favor, the Board finds that the criteria for the claim of entitlement to service connection for hypertension secondary to the service-connected psychiatric disability have been met, and the appeal is granted.
+
+In reaching this decision the Board considered the doctrine of reasonable doubt. In determining whether service connection is warranted for a disability, VA is responsible for determining whether the evidence persuasively favors the claim or is in approximate balance, with the Veteran prevailing in either event, or whether the evidence persuasively weighs against the claim, in which case the claim is denied. In other words, when there is an approximate balance of positive and negative evidence regarding any issue material to the determination, the benefit of the doubt is afforded to the claimant. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (2021). Here, however, as the evidence is persuasively against the claim and the positive and negative evidence is not in approximate balance, the doctrine is not for application. Id.
+
+ 
+
+ 
+
+Thomas L. English
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Rogos, John M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

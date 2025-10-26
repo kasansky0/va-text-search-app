@@ -1,0 +1,133 @@
+Citation Nr: A25031074
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240308-422036
+DATE: April 3, 2025
+
+ORDER
+
+Entitlement to service connection for acquired psychiatric disorder secondary to service-connected knee conditions is granted. 
+
+Entitlement to service connection for migraines secondary to service-connected tinnitus is granted.
+
+Entitlement to service connection for obstructive sleep apnea (OSA) secondary to service-connected knee condition and acquired psychiatric disorder is granted. 
+
+FINDINGS OF FACT
+
+1. The Veteran's acquired psychiatric disorder is proximately due to his service-connected knee conditions.
+
+2. Resolving all the doubt in favor of the Veteran, the Veteran's migraines are proximately due to the Veteran's service-connected tinnitus. 
+
+3. The Veteran's OSA is proximately due to and/or aggravated by his service-connected knee condition and psychiatric disorder.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for acquired psychiatric disorder as secondary to a service-connected knee condition are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+2. The criteria for service connection for migraines as secondary to service-connected tinnitus are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+3. The criteria for service connection for OSA as secondary to service-connected knee condition and psychiatric disorder are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Marine Corps from August 1969 to August 1970. 
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from May 2023, September 2023, and December 2023 rating decisions of the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the March 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the May 2023, September 2023, and December 2023 agency of original jurisdiction (AOJ) decisions on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+Service Connection
+
+Service connection will be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred in or aggravated by active military service, even if the disability was initially diagnosed after service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303 (a). Establishing service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the present disability. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004). Service connection may be granted for any disease initially diagnosed after service when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303 (d).
+
+Service connection may also be granted on a secondary basis. Secondary service connection will be granted for a disability that is proximately due to, or aggravated by, a service-connected disease or injury. 38 C.F.R. § 3.310. In order to prevail on the issue of entitlement to secondary service connection, there must be (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) nexus evidence establishing a connection between the service-connected disability and the current disability. See Wallin v. West, 11 Vet. App. 509, 512 (1998).
+
+1. Entitlement to service connection for acquired psychiatric disorder. 
+
+As a preliminary matter, the Board notes that the Veteran initially claimed service connection for a mental health condition. See October 2020 VA Form 21-526EZ: Application, November 2022 VA Form 20-1995: Supplemental Claim. When a veteran makes a claim, they are seeking service connection for symptoms, regardless of how those symptoms are diagnosed or labeled. See Clemons v. Shinseki, 23 Vet. App. 1 (2009). As the Veteran has multiple mental health diagnoses, to include major depressive disorder and PTSD, the Board has recharacterized the claimed disability as an acquired psychiatric disorder. 
+
+The Veteran claims that his mental health condition is due to his separation from service due to his service-connected knee condition. See August 2022 letter from Veteran. The Veteran further claims that his PTSD is due to abuse and hazing in service, as well as witnessing a Marine commit suicide on the rifle range during Basic Training.  See July 2023 VA Form 21-0781, Statement in Support of Claim for Service Connection for PTSD. 
+
+Factual Background
+
+In an April 2022 rating decision, the AOJ made the favorable finding that the Veteran has been diagnosed with depressive order. In the September 2023 rating decision, the AOJ made the favorable finding that the Veteran has been diagnosed with PTSD. The Board is bound by these favorable findings.
+
+In support of his November 2022 supplemental claim, the Veteran submitted an August 2022 lay statement from a friend which evidenced the Veteran's condition. According to the Veteran's friend, the Veteran was an active, outgoing, and popular boy growing up. The friend stated that the Veteran joined the Marines after high school and was shot in the leg on accident while he was still in bootcamp, which has caused the Veteran to limp in pain ever since. Also, the Veteran's knee and leg injury requires the Veteran to walk with a cane and prevents him from standing or sitting for prolonged period of time. The Veteran's friend noted that the Veteran now refuses to go hunting or fishing and just sits and watches television due to his knee and leg pain. 
+
+The Veteran also submitted his own August 2022 lay statement, which was consistent with the August 2022 statement from the Veteran's friend. The Veteran stated that it is difficult for him to exercise, walk long distances, and stand for long periods of time with his chronic knee pain. He stated that he spends more time sitting than he would like. The Veteran stated that he has tried several medications over the years as well as massages, heat, and cold wraps, but nothing relieves the pain.  
+
+Additionally, the Veteran submitted a September 2022 psychological evaluation and employability review conducted by a private psychologist. The examiner diagnosed the Veteran with major depressive disorder. At the examination, the Veteran reported anxious rumination about his health, particularly the status of pain in his knee and leg. The examiner opined, based on a review of records, interview with the Veteran, and lay statements, that it is more likely than not that the Veteran's major depressive disorder began in service. The examiner also opined that it is more likely than not that his service-connected knee and thigh disability have permanently aggravated his depression, as his knee pain and limited range of motion have negatively impacted his quality of life. The examiner explained that the Veteran's depression symptoms have been severe enough to prevent gainful employment since he last worked in April 2008. 
+
+In March 2023, VA obtained a medical opinion concerning whether the Veteran's mental health condition was proximately due to or the result of his service-connected knee condition. The examiner explained that there is compelling evidence regarding the in-service onset of the depressive symptoms such as statements from the Veteran and the Veteran's friend reporting the Veteran's behavioral changes beginning in service. The examiner found that there was no evidence of any depressive or mental health symptoms prior to service. Additionally, the examiner cited the September 2022 psychological evaluation that linked the Veteran's mental health symptoms to service-connected conditions of knee pain and limited range of motion, and records from November 2020 that indicated a positive depression screen with a note of depressive symptoms due to physiological condition and pain. As such, the examiner opined that the Veteran's depressive disorder was at least as likely as not proximately due to the Veteran service-connected knee pain. The examiner also noted that a PTSD diagnosis also might be appropriate. 
+
+Finally, the Veteran was afforded a VA examination for PTSD in June 2023. The Veteran was diagnosed with PTSD that conformed to DSM-5 criteria, and no other mental disorders were diagnosed. The Veteran reported impairment in mood, emotional regulation, sleep, appetite, sexual drive/ability, cognitive functioning, social and frustration intolerance, and interpersonal relationships. In his examination, the Veteran reported that he had histoplasmosis during service which prevented him from keeping up with the other servicemembers in the forced marches and six-mile runs. He reported that he was beat up and hazed at Parris Island, where he said he witnessed deaths and suicides of other service members. The Veteran also stated that his depression is worse when he is in pain such as when he has a migraine or has knee pain. 
+
+The June 2023 examiner gave no opinion as to whether the Veteran's PTSD was attributed to service. 
+
+Analysis
+
+Starting with a secondary service connection analysis, the Board finds that the first two elements have already been met. The AOJ has conceded the Veteran's current mental health diagnoses, and the Veteran is service connected for degenerative arthritis, status post medial femoral condylar fracture with retained bullet fragment, left knee; muscle atrophy left thigh associated with degenerative arthritis, status post medial femoral condylar fracture with retained bullet fragment, left knee; and scar residual surgery left leg associated with degenerative arthritis, status post medial femoral condylar fracture with retained bullet fragment, left knee. As the first two elements of secondary service connection have been met, the remaining question before the Board is whether there is nexus evidence establishing a connection between the service-connected disability and a current psychiatric disability. See Wallin, 11 Vet. App. at 512.
+
+Two detailed and thorough private reports from different providers, a September 2022 private psychological evaluation and a March 2023 VA examination, agree that the Veteran's major depressive disorder more likely than not is caused and/or aggravated by his service-connected knee pain. These opinions are consistent with the Veteran's reports and other medical records. The record shows that the Veteran's constant and persistent knee pain and limited range of motion caused and/or aggravated his depression symptoms. See Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007). As such, entitlement to service connection for acquired psychiatric disorder secondary to the Veteran's service-connected knee condition is warranted. 
+
+As the Board is granting entitlement to service connection on a secondary basis, no further analysis of entitlement on a direct basis is required.
+
+2. Entitlement to service connection for migraines.
+
+The Veteran argues that his migraines are caused by his service-connected chronic knee pain. See August 2022 letter from Veteran. Alternatively, the Veteran argues that the claim of entitlement to service connection for headaches is inextricably intertwined with the issue of entitlement to service connection for a psychiatric condition. See March 2024 Brief in Support of Veteran's Claims. 
+
+In this case, the RO favorably found that there is evidence of a current disability, as the Veteran was diagnosed with migraines in October 2020. See December 2023 Rating Decision. Also, the Veteran is already service connected for tinnitus and disabilities associated with a knee condition. 
+
+As the first two elements of secondary service connection have been met, the remaining question before the Board is whether there is nexus evidence establishing a connection between the service-connected disability and the current disability. See Wallin, 11 Vet. App. at 512.
+
+In August 2020, the Veteran reported that he had longstanding headaches that have been increasing in severity and frequency for the last ten years. He reported that the frequency was daily, and he was trying various medications to alleviate the pain. See August 2020 Durham VAMC medical records.  
+
+In November 2020, the Veteran reported that his headaches were triggered by loud noises and strong odors. See November 2020 Durham VAMC medical records. 
+
+The Veteran reported that he did not have any issues with headaches before going into the service, but he said that while he was serving and after leaving the service, he started having headaches more frequently. 
+
+The Veteran underwent a private examination for headaches in September 2022. The examiner opined that the Veteran's headache disorder was more likely than not caused or aggravated by the Veteran's depressive disorder and pain from his service-connected knee disability. See November 2022 private headache examination. 
+
+The Veteran was afforded a VA examination for migraines in April 2023. Although the examiner opined that the Veteran's migraines were not due to the Veteran's knee condition, the examiner did opine that the Veteran's migraines were likely caused by the Veteran's service-connected tinnitus. The examiner explained that findings suggest a significant relationship between tinnitus and headaches laterality and symptom interaction over time, and the findings argue against a purely coincidental cooccurrence of tinnitus and headache. In the examiner's opinion, both disorders may be linked by common pathophysiological mechanisms. 
+
+The Board finds that the examiner's opinion regarding the cause of the Veteran's migraines was well-supported with explanations based upon medical principles in order to form an opinion upon which the Board can rely. See Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007) (stating that a medical opinion must support its conclusion with an analysis that the Board can weigh). Although there are other medical opinions in the file that suggest the Veteran's headaches are due to his psychological symptoms or from his knee pain, the April 2023 VA examiner opined that the etiology of the Veteran's migraine headaches was likely to be the Veteran's service-connected tinnitus. See September 2022 Private Headache DBQ. The examiner's opinion is consistent with the other medical records.  
+
+In rendering this decision, the Board has reviewed all evidence of record whether discussed in detail.  See Newhouse v. Nicholson, 497 F.3d 1298, 1302 (Fed. Cir. 2007) (holding the Board must only discuss the evidence which is relevant to the issues on appeal). To the extent the evidence is found in "approximate balance," the Board will afford the benefit of the doubt in favor of the Veteran. Lynch v. McDonough, 21 F. 4th 776 (Fed, Cir. 2021) (holding that exact equipoise is not required for the benefit of the doubt to be applied, but rather the Veteran is entitled to the benefit of the doubt when the evidence is in approximate balance or "nearly equal"). 
+
+As such, the Board finds that there is nexus evidence establishing a connection between the service-connected disability of tinnitus and the current disability of migraines; therefore, entitlement to service connection for migraines secondary to tinnitus is warranted. See Wallin, 11 Vet. App. at 512. 
+
+3. Entitlement to service connection for OSA. 
+
+The Veteran contends his obesity was caused by his service-connected knee condition and/or his mental health condition, which in turn, caused his sleep apnea. See March 2024 Brief. 
+
+In November 2022, the Veteran submitted a September 2022 private OSA disability benefits questionnaire. The report noted the Veteran's diagnosis of OSA in a February 2011 Durham VAMC sleep study. The examiner opined that it is more likely than not that the chronic pain and sleep impairment stemming from his left knee, left thigh, and mental health conditions have caused or aggravated the development of his sleep apnea. The examiner opined that it is more likely than not that the Veteran's left knee condition and depressive disorder contributed to the Veteran's obesity, which in turn, caused and continues to permanently aggravate the development of his sleep apnea beyond its natural progression. 
+
+The examiner named the Veteran's obesity as a contributing factor for the Veteran's sleep apnea, and the examiner opined that the Veteran's service-connected knee condition more likely than not caused the Veteran's obesity. The examiner explained that the Veteran also had trouble wearing his CPAP machine due to his anxiety, and the Veteran's chronic pain also contributes to the Veteran's disrupted sleep, as they share a clear cause and effect relationship. The examiner also explained how the Veteran's chronic knee pain produces a state of shallow sleep while disrupting restorative slow-wave sleep, worsening his sleep apnea symptoms. 
+
+Essentially, the private examiner showed a medical relationship between the Veteran's chronic pain from his service-connected knee and thigh disabilities and his sleep apnea as well. The examiner discussed the effects of the Veteran's mental health condition on his sleep apnea. Also, the examiner linked the Veteran's current service-connected knee disability to his obesity, and linked the Veteran's obesity to his sleep apnea, thus finding that obesity was an intermediate step for the Veteran's sleep apnea. 
+
+In April 2023, the Veteran was afforded a VA examination for sleep apnea. The examiner opined that the Veteran's sleep apnea was less likely than not caused by the Veteran's obesity, as the medical literature names obesity as a modifiable risk factor and not a causal factor for sleep apnea. The examiner explained that there are individuals with a normal BMI who are diagnosed with sleep apnea, and that an individual's BMI is a corollary of numerous diseases, including obstructive sleep apnea, diabetes, atherosclerosis, hypertension, and joint problems. 
+
+However, the April 2023 examiner did not discuss the November 2022 private opinion linking the Veteran's sleep apnea to sleep disturbances due to chronic pain. The examiner also failed to refute the November 2022 examiner's contention that weight gain was a "precipitating factor for [the Veteran's] sleep issues." This contention contradicts the April 2023 examiner's statement that weight gain is "neither sufficient nor necessary" to cause sleep apnea. The VA examiner did not adequately explain why the Veteran's service-connected disabilities did not cause the Veteran's weight gain. The VA examiner gave no opinion as to whether the Veteran's service-connected conditions aggravated the Veteran's sleep apnea. See El-Amin v. Shinseki, 26 Vet. App. 136, 140-41 (2013) (stating that a secondary service connection medical opinion was inadequate because it did not discuss aggravation). As such, the April 2023 examiner's opinion is inadequate. 
+
+The Board assigns the most probative value to the Veteran's private examination opinion from September 2022, as it was factually tailored to the Veteran's ailments and risk factors, and it was thoroughly explained and supported by medical principles. See Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007) (stating that a medical opinion must support its conclusion with an analysis that the Board can weigh, and a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision). 
+
+(continued on next page)
+
+?
+
+Upon review of the record, the Board finds that the Veteran's current OSA is proximately due to and aggravated by the chronic pain caused by the service-connected knee condition and the disrupted sleep from the Veteran's service-connected mental health condition. Accordingly, after resolving all doubt in favor of the Veteran, the Board finds that service connection for OSA is warranted. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+ 
+
+Wendy Daknis
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Clark, C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

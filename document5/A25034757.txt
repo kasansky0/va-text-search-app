@@ -1,0 +1,75 @@
+Citation Nr: A25034757
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240429-436367
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disability, including depressive disorder and/or anxiety, as secondary to left hand cold weather injury residuals, is denied.
+
+FINDING OF FACT
+
+The persuasive weight of the probative evidence of record is against a medical nexus between the Veteran's acquired psychiatric disability, including depressive disorder and/or anxiety, and his service-connected left hand cold weather injury residuals.
+
+CONCLUSION OF LAW
+
+The criteria for service connection of acquired psychiatric disability, including depressive disorder and/or anxiety, as secondary to left hand cold weather injury residuals, have not been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the U.S. Army from March 1984 to December 1987.
+
+An October 31, 2022 rating decision denied service connection for anxiety and depressive disorder, including as secondary to residuals of hand and foot frostbite residuals. The Veteran requested a Higher-Level Review (HLR) and received a decision on October 31, 2023 which returned the claim to secure a VA examination and medical opinion. After remedying these pre-decisional duty-to-assist errors, the Agency of Original Jurisdiction (AOJ) again denied the claims on appeal in a December 27, 2023. 
+
+The Veteran timely appealed this decision to the Board by requesting the Appeals Modernization Act (AMA) Direct Review Lane for a reevaluation of the evidence considered by the AOJ. See April 2024 VA Form 10182. As this is a Direct Review appeal under the AMA, the record closed on the date of the December 2023 rating decision. See 38 C.F.R. § 20.301. The Board cannot consider evidence submitted after the respective AOJ decision. See id. If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision on the claim on appeal. 38 C.F.R. § 20.300.
+
+Secondary Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. See 38 U.S.C. § 1110; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury, and; (3) a causal relationship between the current disability and the in-service disease or injury. See Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection is also warranted for disability that is "but-for" due to or the result of service-connected disease or injury, and where a non-service-connected disability would have been less severe "but-for" a service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability. See 38 C.F.R. § 3.310(a); Spicer v. McDonough, 61 F.4th 1360, 1364-66 (2023) (invalidating the requirement of "proximate cause" and instead held a "but-for" causation or aggravation is enough to show entitlement to secondary service connection).
+
+Establishing service connection on a secondary basis requires evidence sufficient to show: (1) a current disability; (2) a primary, service-connected disability; and (3) a nexus between the current disability and the service-connected disability. See Wallin v. West, 11 Vet. App. 509, 512 (1988).
+
+Compensation may be established for any incremental increase in disability or any additional impairment of earning capacity in nonservice-connected disabilities resulting from service-connected disabilities above the degree of disability existing before the increase regardless of its permanence. See Ward v. Wilkie, 31 Vet. App. 233, 239 (2019). There is no requirement for objective measurement or numeric quantification for VA to ascertain an increase in disability for compensation purposes. See id. Compensation may also be established for "the natural progression of a condition not caused by a service-connected injury or disease, but that nonetheless would have been less severe were it not for the service-connected disability." See Spicer v. McDonough, 61 F.4th 1364 (Fed. Cir. 2023).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107(b). It follows, that when the evidence persuasively favors one side or the other, the benefit-of-the-doubt rule is not applied. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+1. Entitlement to service connection for an acquired psychiatric disability, including depressive disorder and/or anxiety, as secondary to left hand cold weather injury residuals, is denied.
+
+The Veteran contends that his current psychiatric symptomology is related to his service-connected hand and foot frostbite residual disabilities. See, e.g., October 2019 VA Psychiatric Examination ("He reports about 10 years ago he self referred to a therapist for depression because, "my hands and feet always hurting, couldn't sleep, sometimes just sweaty and feeling scared.").
+
+A veteran's psychiatric claim can include any mental health diagnosis reasonably encompassed by the Veteran's description of their claim, symptoms, and other information of record. Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009). Therefore, the Veteran's separate claims for secondary service connection of depressive disorder and anxiety have been recharacterized as a single claim concerning an acquired psychiatric disorder, including depressive disorder and/or anxiety.
+
+The AOJ made the favorable findings that the Veteran has a current disability diagnosis of depressive disorder and a primary, service-connected disabilities of bilateral hand and foot residuals of frostbite. See December 2023 Rating Decision. The Veteran's service-connected disabilities include residuals of cold weather injury to the right hand at 30 percent from January 1998, residuals of cold weather injury to the left hand at 30 percent from January 1998, residuals of frostbite of the right foot at 30 percent from August 2001, residuals of frostbite to the left foot from August 2001, and tinea pedis at zero percent from December 1987, for a total combined rating of 80 percent. The Veteran was granted a total disability- individual unemployability (TDIU) at 100 percent from November 15, 2022.  Therefore, the Board finds that these elements of secondary service connection have been established for this claim.
+
+The Board next considers whether a medical nexus between the Veteran's current psychiatric disability and his service-connected frostbite disabilities has been proven.
+
+In an October 2019 VA medical opinion, the examiner opined that the Veteran's "somatic complaints and emotional distress are very likely related" to the Veteran's non-service-connected diabetes rather than his service-connected frostbite disabilities. The Board affords this opinion probative weight to the nexus at issue, the persuasive weight is reduced as to the examiner appearing to discount the existence of the Veteran's service-connected frostbite disabilities. See October 2019 VA Medical Opinion ("Documentation of September 10, 2013 indicated no history of treatment for cold injuries."); Spicer v. McDonough, 61 F.4th 1364 (Fed. Cir. 2023). 
+
+In a December 2023 VA medical opinion, the examiner opined that the Veteran's psychiatric disability of depressive disorder is less likely than not related to his frostbite injury disabilities because the Veteran's recorded psychiatric disability symptomology began in July 2012, and was attributed to "situational stressors," "compulsive gambling behavior," a "history of childhood trauma," and diabetes-whereas his frostbite-related disabilities date back to his service in the 1980's.  The examiner also attributed the Veteran's depressive disorder to the bilateral below the knee amputation which was the result of his nonservice connected diabetes. The Board affords this opinion probative weight to the nexus at issue.  The Board affords this opinion highly persuasive on the issue of nexus. 
+
+In a December 2023 VA medical opinion, the examiner opined the Veteran's claimed anxiety-related psychiatric symptoms are less likely than not related to his service-connected frostbite residual disabilities because "there is no diagnosis as there is no evidence of psychiatric symptoms meeting minimal diagnostic criteria of a standalone anxiety condition." The Board affords this opinion probative weight. The persuasive weight of the evidence is against a finding that the Veteran has an acquired psychological disability of anxiety. 
+
+(Continued on the next page)
+
+?
+
+Examining the probative nexus evidence of record, the Board finds the persuasive weight of the evidence at this time is against a finding of service connection for the Veteran's psychiatric disability as secondary to left hand cold weather injury residuals. For the above reasons, the evidence is neither evenly balanced nor approximately so with regard to whether service connection is warranted; rather, the evidence persuasively weighs against service connection. See Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).
+
+Therefore, entitlement to service connection for acquired psychiatric disability-including depressive disorder and/or anxiety-as secondary to left hand cold weather injury residuals is denied.
+
+ 
+
+ 
+
+Martin T. Mitchell
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Galik, E.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

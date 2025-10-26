@@ -1,0 +1,83 @@
+Citation Nr: A25034737
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240827-468529
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disorder (claimed as anxiety), other than posttraumatic stress disorder (PTSD) is denied.
+
+FINDING OF FACT
+
+The persuasive evidence shows that the Veteran does not have chronic, clinically diagnosed anxiety, per the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5).
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for an acquired psychiatric disorder (claimed as anxiety), other than PTSD have not been met. 38 U.S.C. §§ 1110, 5103(a), 5103A, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active duty service from February 2003 to April 2004.
+
+A rating decision was issued in August 2023 that denied entitlement to service connection for anxiety. This constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In September 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the claim for anxiety most recently addressed in the August 2023 rating decision. In October 2023, the agency of original jurisdiction (AOJ) issued a rating decision that deferred the anxiety claim for additional development. The Veteran submitted additional supplemental claims for anxiety in October 2023 and January 2024. In March 2024, the AOJ issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the anxiety claim based on the evidence of record at the time of that decision. 
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the March 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service Connection
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service. 38 U.S.C. § 1110, 1131; 38 C.F.R. § 3.303(a). Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in-service. 38 C.F.R. § 3.303(d).
+
+As a general matter, service connection for a disability requires evidence of: (1) the existence of a current disability; (2) the existence of the disease or injury in-service, and; (3) a relationship or nexus between the current disability and any injury or disease during service. Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004).
+
+Service connection may be established on a secondary basis for a disability which is proximately due to or the result of service-connected disease or injury. 38 C.F.R. § 3.310(a). Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) proximately caused by or (b) proximately aggravated by a service-connected disability. Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc); see also 38 C.F.R. § 3.310(b). The United States Court of Appeals for the Federal Circuit recently clarified that, as contemplated by 38 U.S.C. § 1110, secondary aggravation will be shown where a non-service-connected disability would have been less severe "but-for" a service-connected disability, either because there is an etiological link (to include worsening of functionality) between the two conditions, or because the service-connected disability resulted in the inability to treat the non-service-connected disability. See Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023).
+
+Except as otherwise provided by law, a claimant has the responsibility to present and support a claim for benefits. VA shall consider all information and lay and medical evidence of record in a case and when there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+Entitlement to service connection for an acquired psychiatric disorder (claimed as anxiety), other than PTSD 
+
+The Veteran seeks entitlement to service connection for an acquired psychiatric disorder (claimed as anxiety), other than service-connected PTSD. Specifically, the Veteran contends that her claimed anxiety is secondary to her service-connected irritable bowel syndrome (IBS). See June 2023 VA 21-526EZ, Fully Developed Claim (Compensation). 
+
+At the outset, the favorable findings from the March 2024 rating decision include: the Veteran's participation in a toxic risk exposure activity (TERA) is presumed; the evidence shows a qualifying event, injury, or disease during service; and that the Veteran's service records show that she received fire pay, imminent danger pay, and/or hazardous duty pay for service in Kuwait and/or Iraq. The Board is bound by these favorable findings. 38 U.S.C. § 5104(b)(4); 5104A; 38 C.F.R. § 20.801(a). Therefore, the remaining questions are whether the Veteran has been diagnosed with an acquired psychiatric disorder (claimed as anxiety), other than service-connected PTSD, and if so, whether it is related to her service. 
+
+Notably, the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record. Clemons v. Shinseki, 23 App. 1 (2009). Additionally, when it is not possible to separate the effects of service-connected and nonservice-connected disabilities, such effects should be attributed to the service-connected condition. Mittleider v. West, 11 Vet. App. 181 (1998). Finally, it is important to recognize that the Veteran may not be entitled to be doubly compensated for the same disability. The evaluation of the same disability under various diagnoses is to be avoided, as is the evaluation of the same manifestation under different diagnoses. 38 C.F.R. § 4.14; Amberman v. Shinseki, 570 F.3d 1377 (Fed. Cir. 2009).
+
+The Board reiterates that the Veteran has been service-connected for PTSD since February 13, 2018. The Veteran's ratings for PTSD have been staged over time, but it is currently rated as 70 percent disabling since January 26, 2025. The Board is permitted to consider the effect of a rating decision issued after the rating decision on appeal as it is not new evidence, but rather, a new legal finding.
+
+The Veteran received a VA psychiatric examination in April 2023, prior to filing the current claim on appeal. The Veteran was diagnosed with insomnia. The examiner noted that the Veteran reported having anxiety lately, likely because her mother recently passed away, and she was transitioning to living alone and feeling anxious. Anxiety was also listed as a symptom of her diagnosed insomnia disorder. 
+
+The October 2023 rating decision deferred the anxiety claim for development. It appears that the AOJ attempted to schedule the Veteran for another VA psychiatric examination. See October 2023 Exam Request. A Notification of Appointment letter was sent in October 2023 to the Veteran's current address informing her that the date of the examinations was November 13, 2023. See November 2023 C&P Exam. The AOJ attempted to schedule the Veteran for another VA psychiatric examination as well. See January 2024 Exam Request. Also of record is a January 2024 Veteran Contact History listing the methods that she was contacted for the examination, including via phone, text, and email. See February 2024 C&P Exam. A February 2024 document shows that the Veteran's examination for "anxiety condition" was cancelled due to her failure to report on the scheduled date. See February 2024 Exam Request.
+
+When a claimant fails to report for an examination scheduled in conjunction with an original compensation claim and the claimant does not subsequently provide good cause for her failure to do so, the claim shall be rated based on the evidence of record. 38 C.F.R. § 3.655(b). When the examination is scheduled in conjunction with any other original claim, a reopened claim for a benefit that was previously disallowed or a claim for increase, the claim shall be denied. See 38 C.F.R. § 3.655. See also Engelke v. Gober, 10 Vet. App. 396, 399 (1997); Ashley v. Derwinski, 2 Vet. App. 307, 311 (1992). 
+
+Here, the Veteran has not asserted that she did not receive notice of the scheduled examination. In the absence of clear evidence to the contrary, the law presumes the regularity of the administrative process. Mindenhall v. Brown, 7 Vet. App. 271, 274 (1994) (citing Ashley v. Derwinski, 2 Vet. App. 62, 64-65 (1992)). As such, the Board is left to determine the claim based on the evidence of record.
+
+The Board acknowledges that during the course of the current appeal for the Veteran's claimed anxiety, she apparently sought entitlement to an increased rating for her already service-connected PTSD (diagnosed then as insomnia), and the AOJ initiated development. In February 2024, the Veteran contacted VA and requested to reschedule an examination regarding the "insomnia condition" because she could not attend it on the scheduled date. See February 2024 VA 27-0820 Report of General Information. While the Board is generally precluded from addressing evidence in the file after the March 2024 rating decision on appeal, the Board notes the legal finding that her mental health disability was eventually increased to 70 percent disabling from January 2025. 
+
+Upon review of the record, the Board finds that there is simply no medical evidence in the record to confirm a current diagnosis of anxiety for VA adjudicative purposes. The Board acknowledges the Veteran's reports; however, in order to warrant service connection, the threshold requirement is competent evidence of the existence of the claimed disability at some point during a Veteran's appeal. See McClain v. Nicholson, 21 Vet. App. 319 (2007) (requirement that a current disability be present is satisfied "when a claimant has a disability at the time a claim for VA disability compensation is filed or during the pendency of that claim... even though the disability resolves prior to the Secretary's adjudication of the claim"); Degmetich v. Brown, 104 F.3d 1328 (1997); Brammer v. Derwinski, 3 Vet. App. 223 (1992).
+
+The Board assigns substantial probative value to the April 2023 VA examination, which demonstrated that while the Veteran has an acquired psychiatric disorder (diagnosed at the time as insomnia disorder and rated as such), a diagnosis of anxiety per the DSM-5 has not been established. Again, the April 2023 VA examiner was specifically asked about all of the Veteran's mental health disorders on the form and said that it is not possible to differentiate what symptoms are attributable to each diagnosis and anxiety was not diagnosed at all. See Martinez-Boden v. McDonough, 28 F.4th 1241 (Fed. Cir. 2022) (explaining the need for DSM diagnosis for mental health and distinguishing from Saunders v. Wilkie, 886 F.3d 1356 (Fed. Cir. 2018)). Based upon a review of the record, and absent evidence to the contrary, the Board finds that the Veteran's service-connected PTSD and any additional claimed acquired psychiatric disorder other than PTSD (such as anxiety) are manifested by overlapping symptomatology.
+
+In this case, while the Veteran is competent as a layperson to testify to symptoms she experiences, she has not demonstrated that she has the necessary skills, experience, or medical knowledge to diagnose specific mental health disorders like anxiety; this is a complex medical question. Consequently, the Board concludes that the Veteran's statements and opinions as to diagnoses and etiology are of little probative value. See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007) (a Veteran is competent to provide a diagnosis of a simple condition such as a broken leg, but not competent to provide evidence as to more complex medical questions).
+
+The Board does not find that the Veteran's claimed anxiety has had any functional impairment of earning capacity for the Veteran since a diagnosis has not been confirmed by VA. It is emphasized that the Veteran's primary diagnosis continues to be PTSD, for which the AOJ has already granted service connection and assigned a 70 percent rating commensurate with her current symptomatology. Absent evidence of a mental disability with distinct symptomatology from the already service-connected PTSD, consideration of service connection for an acquired psychiatric disorder, other than PTSD is not warranted. Such an action would amount to impermissible pyramiding, and VA is prohibited from awarding disability benefits for two separate diagnoses that produce the same manifestations of a disability. 38 C.F.R. § 4.14 
+
+Accordingly, the evidence is persuasively against the claim. As there is not an approximate balance of positive and negative evidence, the benefit of the doubt doctrine is not applicable and service connection for an acquired psychiatric disorder (claimed as anxiety), other than PTSD is not warranted. See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776, 778 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+Emily Tamlyn
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Miller, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

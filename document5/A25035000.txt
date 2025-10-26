@@ -1,0 +1,69 @@
+Citation Nr: A25035000
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 241002-479995
+DATE: April 16, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea as secondary to service-connected disabilities is granted.
+
+FINDING OF FACT
+
+The Veteran's sleep apnea is proximately due to his weight-gain caused by his service-connected musculoskeletal conditions.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for obstructive sleep apnea as secondary to service-connected disabilities are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 1980 to September 1999.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the October 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the October 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Service Connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+Service connection may also be granted for a disability that is proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310 (a). When service connection is established for a secondary condition, the secondary condition shall be considered a part of the original condition. Id. Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) proximately caused by or (b) proximately aggravated by a service-connected disability. Allen v. Brown, 7 Vet. App. 439, 448 (1995).
+
+VA is responsible for determining whether the evidence supports the claim, with the veteran prevailing, or whether the evidence weighs persuasively against the claim, in which case the claim is denied. 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102. When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107 (b).
+
+1. Entitlement to service connection for obstructive sleep apnea as secondary to service-connected disabilities is granted.
+
+The Veteran asserts that he is entitled to service connection for obstructive sleep apnea (OSA), including as due to weight gain as a result of his service-connected disabilities.
+
+Favorable findings from the October 2023 rating decision shows that the Veteran has a current diagnosis of OSA, and he is service-connected for lumbosacral strain, cervical strain, and bilateral knee conditions. Thus, the first and second elements of secondary service connection are met.
+
+The remaining question is whether there is a medical nexus between the Veteran's currently diagnosed OSA and his service-connected musculoskeletal conditions.
+
+In support of his claim, the Veteran submitted an April 2023 opinion from M.B., a private physician assistant, certified (PA-C), who confirmed that the Veteran's claims file and relevant medical literature were reviewed. M.B. stated that the Veteran has a current body mass index (BMI) of 27.6, which meets the national standard set by the Center for Disease Control (CDC) for being overweight. He further stated that there is evidence of the Veteran's overall progressive weight gain and a current overweight condition which chronologically developed after the musculoskeletal symptomatology related to his service-connected disabilities. M.B. discussed and explained how the Veteran's many service-connected musculoskeletal disabilities cause pain and painful motion, which has caused the Veteran to be less active, and subsequently gain weight. Additionally, M.B. noted that studies show that the deposition of fat around the pharyngeal airway is likely to increase the collapsibility of the pharyngeal airway, and how upper airway anatomy plays a major role in OSA. He also discussed multiple studies showing that obesity is known to predispose patients to OSA, and referenced VAOPGCPREC 1-2017, which details how obesity may be an "intermediate step" between a service connected disability and current disability that may be connected on a secondary basis. M.B. stated the evidence shows the Veteran's service-connected condition has caused weight gain and that weight gain caused or contributed to his current OSA. He opined that it was at least as likely as not that the Veteran's weight gain was due to and/or related to his service-connected spine and knee conditions, and it was at least as likely as not that the Veteran's OSA is related to and/or aggravated by the weight-gain caused by his service-connected conditions. In other words, M.B. stated that the Veteran would not have developed OSA if not for his weight gain.
+
+The Board acknowledges the September 2022 and September 2023 VA medical nexus opinions that the Veteran's OSA is less likely than not caused by his service-connected disabilities. However, the VA examiners did not address weight gain as an intermediate step between the Veteran's service-connected disabilities and his claimed OSA and are, therefore, afforded little probative value. 
+
+Thus, the Board finds that the April 2023 private medical opinion by M.B. is the most probative of record because it is based on an accurate medical history and provides an explanation that contains clear conclusions and a supporting rationale. Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008); Barr v. Nicholson, 21 Vet. App. 303 (2007); Jones v. Shinseki, 23 Vet. App. 382 (2010).
+
+Based on the above, the Board finds that the evidence favors a finding that the Veteran's service-connected lumbosacral strain, cervical strain, and bilateral knee conditions, caused him to become overweight; this was a substantial factor in causing his OSA; and his OSA would not have occurred but for the weight gain caused by his service-connected disabilities.
+
+Accordingly, the Board finds that service connection for obstructive sleep apnea, on a secondary basis, is warranted. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+Cynthia M. Bruce
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	N. Miller, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

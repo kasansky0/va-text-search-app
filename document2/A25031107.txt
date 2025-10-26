@@ -1,0 +1,101 @@
+Citation Nr: A25031107
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 221006-446277
+DATE: April 3, 2025
+
+REMANDED
+
+Entitlement to service connection for coronary artery disease (CAD) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran honorably served on active duty in the United States Air Force from September 1971 to July 1975. See DD Form 214. The Veteran passed away in March 2024, and the appellant, his surviving spouse, has been granted substitution in this matter. See June 2024 Notification Letter. 
+
+This appeal comes before the Board of Veterans' Appeals (Board) from a September 2022 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO), which is the Agency of Original Jurisdiction (AOJ), denying readjudication of the issue of entitlement to service connection for coronary artery disease. In October 2022, the Veteran appealed the denial to the Board, and he selected the direct review docket on the Notice of Disagreement (NOD). See October 2022 VA Form 10182. 
+
+In denying the claim, the AOJ implicitly found that new and relevant evidence had been presented by addressing the merits of the claim. As this is a finding favorable to the Veteran, the Board need not address whether new and relevant evidence has been presented. 38 C.F.R. § 20.801(a). The Board, therefore, has recharacterized the claim accordingly. 
+
+APPLICABLE EVIDENTIARY WINDOW
+
+As the appellant has selected the Direct Review Docket, the Board may only consider the evidence of record before the AOJ at the time of its decision on the issue(s) on appeal. See 38 C.F.R. §§ 20.300(a), 301. The Board will not consider evidence received after the AOJ decision unless the claimant files a timely request for a Board hearing or an opportunity to submit additional evidence on the NOD (VA Form 10182). 38 C.F.R. § 20.301. The appellant has not filed such a request. If additional evidence was submitted after the AOJ decision, the Board will not consider it. The appellant is welcome to file a supplemental claim to have this evidence considered. See Cook v. McDonough, 36 Vet. App. 175 (2023). 
+
+1. Entitlement to service connection for CAD.
+
+The Veteran contended that his disability his related to his exposure to JP-4 fuel and exhaust while working as weapons mechanics at the Air Force Base in Spangdahlem, Germany, and at the Davis Monthan Air Force Base in Tucson, Arizona, to include TCE, residues from other jets and from spent munitions, as well as "a multitude of chemical cocktail." See April 2020 Lay Statement. Specifically, the Veteran stated that he was running functional tests of the weapons systems on these aircrafts, and testing of the ground power unit generally required him to be exposed to this jet fuel for at least 30-40 minutes each time. Id. 
+
+The Veteran also submitted copies of medical literature and lay statements from other service members and his spouse. See February 2020 Third Party Correspondence. Specifically, in August 2022, the Veteran submitted a lay statement from J.N., who served with him in Germany. See August 2022 Lay Statement. Mr. J.N. indicated that the Veteran and himself handled, transported, loaded, and checked out both conventional and nuclear weapons. Id.
+
+The Veteran's service treatment record (STR), however, refutes this assertion. See January 2016 STR. Particularly, a note from April 1975 requesting a medical evaluation at the USAF Clinic in Spangdahlem, Germany, clearly indicates that the Veteran was "not working with nuclear weapons but rather with supply." Id. As a result, the Board concludes that the August 2022 lay statement is of less probative weight with respect to the Veteran's toxic exposure during service.
+
+Pursuant to Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act), VA must provide a VA examination and/or medical opinion when there exists evidence of a disability and evidence of participation in a toxic exposure risk activity (TERA) when such evidence is not sufficient to establish service connection for the disability. 38 U.S.C. § 1168(a). 
+
+The PACT Act further provides that, when providing a medical opinion under this provision, the health care provider shall consider the total potential exposure through all applicable military deployments of the veteran and the synergistic, combined effect of all toxic exposure risk activities of the veteran. Id. Such a requirement is meant to be construed as requiring the health care provider to consider the synergistic, combined effect of each of the substances, chemicals, and airborne hazards identified in the list VA is required to establish and maintain in collaboration with the Department of Defense as specified in what will be codified in 38 U.S.C. § 1119 (b)(2). Id. Thus, an appropriate medical examination should be obtained as to the likelihood of a nexus between the Veteran's claimed conditions and the Veteran's toxic exposure risk activities in service.
+
+For the reasons discussed below, the VA opinions obtained by the AOJ and the private opinion submitted by the Veteran, do not comply with the PACT Act requirements, and they are not adequate to decide the present claim. 
+
+In September 2020, the Veteran was afforded a VA examination for his heart disability. See September 2020 VA Examination Report. The examination was conducted via telephone due to Covid-19, in conjunction with a review of the available records. The VA examiner confirmed a diagnosis of myocardial infarction, and the Veteran admitted smoking cigarettes. Id. Moreover, when asked about his family medical history, the Veteran indicated that his father died at age 66 and was a smoker and an alcoholic. Id. At that time, the VA examiner opined that the Veteran's disability was more likely related to the smoking and not his service, considering that the Veteran's separation examination was silent for any cardiac symptomatology, and the Veteran's first episode of myocardial infarction was in 1998. See September 2020 VA Opinion. With respect to the Veteran's contention that his disability was related to his exposure to JP-4 jet fuel, the examiner stated that "the medical literature provided no definitive evidence of any chemical exposure, including jet fuels, which could be directly related to heart disease." Id. Moreover, the VA examiner indicated that TCE exposure is not associated with recurrent myocardial infections. Id. 
+
+First, the Board finds VA examiners must not rely on silence in the medical records unless it can be explained: (a) why the silence in the available records can be taken as proof that the symptom(s) did not occur, including why the fact would have normally been recorded if present, or (b) why the absence of medical records is medically significant." Here, the Veteran separate from service in 1975, when he was 21. The VA examiner failed to explain why absence of symptoms of a cardiovascular heart disease at age 21 was medically significant, or why a Veteran age 21 would normally have symptoms of a cardiovascular heart disease if exposed to certain chemicals. 
+
+Moreover, the Board finds that the August 2020 VA examiner imposed a greater standard of proof for service connection when he indicated that "the medical literature provided no definitive evidence of any chemical exposure, including jet fuels, which could be directly related to heart disease." Id. 
+
+To establish service connection, VA examiners are asked to opine whether a certain disability is "more likely than not" related to the Veteran's service, and not that a disability is related to service with a high degree of certainty, or that service is the sole cause of the disability. 
+
+Finally, the September 2020 opinion did not discuss the synergistic, combined effect of each of the substances, chemicals, and airborne hazards that the Veteran identified as possible TERAs. 38 U.S.C. § 1119(b)(2).
+
+In light of the above, the Board concludes that the August 2020 VA opinion is inadequate to decide the claim. 
+
+In August 2021, the AOJ obtained a new review-based opinion with respect to the issue of entitlement to service connection for the Veteran's heart disability. At that time, the VA examiner opined that the Veteran's CAD was not related to his in-service exposure to JP-4, TCE or benzene. See August 2021 VA Opinion. Specifically, the VA examiner opined that the Veteran had multiple potent risk factors for coronary disease, to include dyslipidemia, male gender, smoking history, and most importantly his family history of early coronary artery disease, as his father died of a heart attack at the age of 50. Id. 
+
+Furthermore, the VA examiner stated: "there is a proven causal nexus associated with several of these risk factors." Id. Conversely, the VA examiner found that the "medical literature does not support a proven causal nexus linking exposure due to the Veteran's MOS of weapons mechanic during service and his CAD." Id. 
+
+Moreover, when discussing the medical literature submitted by the Veteran's about a link between his disability and his toxic exposure, the VA examiner briefly stated that "TCE exposure is linked to congenital heart disease, but not CAD," and that "[b]enzene is associated with increased risk of cardiovascular disease. However, most of the medical supporting this association is derived from animal studies. Jet fuel is not documented to be associated with or cause CAD." Id. 
+
+First, the Board finds that the VA examiner's opinion is based on an inaccurate factual premise, i.e., that the Veteran had a family history of early coronary artery disease based on the early passing of his father for a heart attack at age 50. 
+
+In that regard, the VA treatment records show that the Veteran's father died at age 66 due to alcoholism. See September 2020 and April 2021 Capri Records. Moreover, in August 2022, the Veteran's spouse submitted a statemen indicating that the Veteran's father was indeed an alcoholic and died for that reason, which was further confirmed by private treatment records submitted by the Veteran with his August 2022 supplemental claim. See August 2022 Lay Statement; see also August 2022 Private Treatment Records, and September 2022 Capri Record.
+
+Furthermore, similarly to the September 2020 VA examiner, the August 2021 VA examiner too imposed a greater standard of proof for service connection. Specifically, he indicated that the Veteran's other risk factors for CAD represented a "proven" causal nexus as opposed to his in-service toxic exposure because "medical literature does not support a proven causal nexus." See August 2021 VA Examination Report. 
+
+To establish service connection, VA examiners are asked to opine whether a certain disability is "more likely than not" related to the Veteran's service, and not that a disability is related to service with a high degree of certainty, or that service is the sole cause of the disability. 
+
+Finally, the August 2021 opinion failed to discuss the synergistic, combined effect of each of the substances, chemicals, and airborne hazards that the Veteran identified as possible TERAs. 38 U.S.C. § 1119(b)(2).
+
+For all these reasons, the Board finds that the August 2021 VA opinion is inadequate to decide the claim. 
+
+Finally, the Board acknowledges the Veteran's August 2022 private opinion indicating that "it is more than likely that the Veteran's exposure to fuel and ammunition dust while working as a weapons mechanic in the military contributed to his development of severe coronary artery disease." See August 2022 Private Treatment Record. 
+
+The Board must be able to conclude that a medical expert has applied valid medical analysis to the significant facts of the case to reach the conclusion submitted in the medical opinion. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295,304 (2008); see also Stefl v. Nicholson, 21 Vet. App. 120 (2007) (holding "a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision as to what weight to assign to a doctor's opinion")." 
+
+In this case, the Board finds that the private opinion does not offer a sufficient rationale in support of the conclusion, and it is therefore inadequate. 
+
+Although further delay is regrettable, the Board finds that the AOJ's reliance on these inadequate opinions to decide the claim constituted a pre-decisional duty-to-assist error, and a remand is necessary to cure the defect prior to adjudicating the claim on appeal. 38 U.S.C. § 5103A; 38 C.F.R. §§ 20.302, 20.802. The Board by this remand makes no determination, expressed or implied, concerning the credibility of any statements on file.
+
+Accordingly, the matter is REMANDED for the following actions:
+
+1. Prepare a TERA memorandum and ILER report for the Veteran addressing his TERA exposures. 
+
+2. After completing the TERA memo and ILER report, obtain from an appropriate examiner an opinion on whether the Veteran's CAD was related to his TERAs during service. Separately, the VA examiner is also requested to opine on the synergistic, combined effects of all the Veteran's exposures.
+
+The VA examiner is also required to discuss all the medical literature submitted by the Veteran in February 2020. The examiner is advised that the Veteran was competent to report his symptoms and history, and such reports must be considered. If the examiner rejects the Veteran's reports, the examiner must provide a reason for doing so. 
+
+(Continued on the next page)
+
+?
+
+A rationale for all opinions expressed should be provided. A discussion of the facts and the medical principles involved will be of considerable assistance.
+
+ 
+
+ 
+
+J. B. FREEMAN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Fiorito, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

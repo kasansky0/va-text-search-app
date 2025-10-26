@@ -1,0 +1,103 @@
+Citation Nr: A25034988
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 241017-483906
+DATE: April 16, 2025
+
+ORDER
+
+Entitlement to service connection for sleep apnea on a direct basis is granted.
+
+Entitlement to service connection for vertigo on a direct basis is granted.
+
+FINDINGS OF FACT
+
+1. The evidence is at least evenly balanced as to whether the Veteran's sleep apnea had its onset in service.
+
+2. The evidence is at least evenly balanced as to whether the Veteran's vertigo had its onset in service.
+
+CONCLUSIONS OF LAW
+
+1. With reasonable doubt resolved in favor of the Veteran, the criteria for service connection for sleep apnea on a direct basis are met.  38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. §§ 3.102, 3.303.
+
+2. With reasonable doubt resolved in favor of the Veteran, the criteria for service connection for vertigo on a direct basis are met.  38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from June 1992 to July 1995.
+
+This case comes before the Board of Veterans' Appeals (Board) from an October 2024 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO).  In that decision, the RO denied entitlement to service connection for sleep apnea and vertigo.
+
+In the October 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the October 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+As a final introductory note, the Court has held that, because 38 C.F.R. § 20.202(c)(2) "gives a claimant the later of one year from the date that the agency of original jurisdiction (AOJ) mails notice of the decision or 60 days from when the Board receives the Notice of Disagreement (NOD) to change the NOD and select a different lane, the Board ordinarily may not decide an appeal before this time period is up."  Williams v. McDonough, 37 Vet. App. 305, 307 (2024).  As the Board is granting the benefits sought in full, there is no prejudice to the Veteran in adjudicating this matter prior to expiration of the relevant period.
+
+SERVICE CONNECTION
+
+Service connection will be granted if the evidence demonstrates that current disability resulted from an injury or disease incurred in active military service.  38 U.S.C. § 1131; 38 C.F.R. § 3.303(a).  Establishing service connection generally requires competent evidence of three things: (1) current disability; (2) in-service disease or injury; and (3) a relationship between the current disability and the in-service disease or injury.  Saunders v. Wilkie, 886 F.3d 1356, 1361 (Fed. Cir. 2018).  Consistent with this framework, service connection is warranted for a disease first diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Entitlement to service connection for sleep apnea.
+
+The Veteran has raised entitlement based upon secondary causation due to service-connected unspecified trauma or stressor related disorder and, alternatively, due to toxic exposure risk activity (TERA) associated with his military occupational specialty (MOS) of Boiler Technician.  Considering the instant favorable decision to grant service connection on a direct basis for sleep apnea, as explained below, a discussion of any other theory of entitlement is not necessary, as such would not potentially result in an earlier effective date.  Johnson v. Collins, __ Vet. App. __, No. 23-7589, 2025 U.S. App. Vet. Claims LEXIS 383 (Mar. 26, 2025) (the Board cannot dismiss an appeal for the denial of service connection for a disability for which service connection has already been granted without considering the effective date consequences of the grant of service connection on another basis); Cf. Stender v. Wilkie, No. 19-0068, 2020 U.S. App. Vet. Claims LEXIS 520, *5-*7 (Mar. 27, 2020) (mem dec) (Falvey, J.) (the Board erred in granting service connection based on the Camp Lejeune Contaminated Water (CLCW) presumption without considering other theories of entitlement that could warrant an earlier effective date because of the effective date of the CLCW presumption); Bethea v. Derwinski, 2 Vet. App. 252, 254 (1992) (single judge decisions may be relied upon for any persuasiveness or reasoning they contain).
+
+As favorably found by the AOJ, the July 2024 examination report contains a diagnosis of sleep apnea.  The Board is bound by this favorable finding, 38 C.F.R. § 3.104(c), and the current disability requirement has thus been met.
+
+In its October 2024 rating decision, the AOJ favorably found that the Veteran participated in a toxic exposure risk activity due to his MOS of Boiler Technician.  The Board further notes that while working in a steam plant aboard the aircraft carrier USS John F. Kennedy, service treatment records show that in June 1993, the Veteran sought medical attention for exhaustion; the physician noted that the Veteran appeared to be so exhausted that he was unable to continue conversations.  Service treatment records from May 1995 show that while the Veteran was still serving as a boiler technician on the USS John F. Kennedy, he reported to medical after leaving his team a "man down" for the day; the physician recorded that the Veteran was lethargic and complained of headaches and being tired.  Given the AOJ's favorable finding and that the Veteran sought medical treatment multiple times during active duty service for complaints of exhaustion and lethargy, the in-service injury element has been met.
+
+The remaining issue is thus whether there is a relationship between the current sleep apnea and the in-service injury.
+
+VA treatment records show that in February 2015, the Veteran reported that he would fall asleep in the middle of the day, an issue that had been occurring "for years."  In April 2017, the VA physician recorded that the Veteran had a history of "significant snoring and apneic episodes."  Based on these reports, VA performed a sleep study in July 2017, which showed severe sleep obstructive apnea, mild brachycardia, and mild hypoxemia.  The Veteran was prescribed a continuous positive airway pressure machine (CPAP) for his sleep apnea.  In August 2020 VA treatment records, the Veteran continued to report only five hours of sleep a night, that "he has never slept a lot since he was in the Navy" and that the "older he gets, the more sleep he needs." 
+
+During the Veteran's sleep apnea VA examination in July 2024, the examiner recorded that the Veteran was diagnosed with obstructive sleep apnea in July 2017.  The Veteran reported that the onset of this condition was 1999 when he began to have restlessness and was unable to sleep.  Although he saw a doctor because of his trouble sleeping, the Veteran conveyed that his condition has continued since that time and remained unchanged.  The examiner marked that the Veteran requires the use of a CPAP and his continued symptoms included persistent daytime hypersomnolence and sleep fatigue.  With respect to the functional impact of his sleep apnea, the Veteran reported that he has lost two to four weeks of work time in the past 12 months because of difficulty staying awake, getting enough sleep, and sleep fatigue.
+
+The VA examiner provided two medical opinions regarding the etiology of the Veteran's sleep apnea.  As indicated above, in his VA Form 21-526EZ that VA received in June 2024, the Veteran claimed sleep apnea secondary to unspecified trauma or stressor related disorder.  As a result, the VA provided an opinion considering secondary service connection and opined that the claimed condition of sleep apnea is less likely than not due to or the result of unspecified trauma or stressor related disorder because the most common cause of OSA in adults is obesity, male sex, advancing age and structural conditions, such as a large neck circumference, which can lead to increased pressure surrounding the upper airway resulting in pharyngeal collapsibility and insufficient space to accommodate airflow to a portion of the upper airway during sleep.  
+
+The VA examiner next considered whether the Veteran's TERA, specifically the noted exposure to Trimethlybenzine in his service treatment records, as well as the potential MOS-related exposures to fuel products such as diesel, JP-8, JP-4, industrial solvents used in cleaning, paint fumes, amine, vanadium-containing dust, sulfur dioxide, benzene, mono ammonium phosphate, respirable fly ash, hydrazine, corrosion inhibitors, development of fungi and growth of bacteria, and asbestos at least as likely as not caused his sleep apnea.  The examiner reiterated that sleep apnea is the pharyngeal narrowing and closing during sleep that is a complex phenomenon caused by anatomic factors that promote pharyngeal narrowing, and that the most common cause of OSA in adults is obesity, male sex, and advancing age.  As medical literature lacked evidence to support the claim of sleep apnea having a causal relationship with toxic exposure, the examiner found that a nexus had not been established. 
+
+The VA examiner indicated that they had reviewed the evidence of record, which contains the service treatment records of the Veteran seeking medical attention for his lethargy and exhaustion, and the Veteran's ongoing discernable symptomatology of persistent daytime hypersomnolence and sleep fatigue that has continued since his time in service, or at the latest, 1999.  Jandreau v. Nicholson, 492 F. 3d 1372, 1377 (Fed. Cir. 2007) (a veteran and other lay persons are competent to testify regarding observations); Buchanan v. Nicholson, 451 F. 3d 1331, 1337 (Fed. Cir. 2006) (holding lay evidence concerning continuity of symptoms after service, if credible, is ultimately competent, regardless of the lack of contemporaneous medical evidence).  The VA examiner rendered negative etiological opinions focusing exclusively on secondary causation and TERA, without considering the competent, credible evidence that establishes sleep-related symptoms in and since service, including the service treatment records for lethargy and exhaustion and the Veteran's reports that he has not slept well since his time in service.  Here, the Board notes that the Court reasoned in Maples v. Wilkie, No. 18-2016, 2019 U.S. App. Vet. Claims LEXIS 199 (Feb. 11, 2019) (mem dec) (Falvey, J.) that sleep apnea is the type of disability for which lay evidence can be sufficient to support a claim for service connection.  See Bethea v. Derwinski, 2 Vet. App. at 254.  Therefore, both the July 2024 VA negative etiological opinions are inadequate.  Buchanan, 451 F. 3d at 1336, n. 1 (the VA's clinician's opinion, which relied on the absence of contemporaneous medical evidence, "failed to consider whether the lay statements presented sufficient evidence of the etiology of [the veteran's] disability such that his claim for service connection could be proven without contemporaneous medical evidence").
+
+While the Board could remand for an opinion on direct service connection, such a remand could well be construed as an attempt to develop evidence with the intent of denying the Veteran's service connection claim, especially considering the Veteran's competent, plausible, internally consistent, and credible accounts of ongoing discernable and extensive symptoms, from service through the present day.  38 C.F.R. § 3.304(c) ("The development of evidence in connection with claims for service connection will be accomplished when deemed necessary but it should not be undertaken when evidence present is sufficient for this determination"); Andrews v. McDonough, 34 Vet. App. 216, 225 (2021) ("Remand is inappropriate where the predominant purpose is not to allow the Board to make a fully informed decision unencumbered by error but to allow VA to obtain more evidence so that it can properly deny the claim").  
+
+To the extent that this grant of service connection is based primarily on credible lay evidence rather than complete medical opinions, "nothing in the regulatory or statutory provisions [relating to evidence to be considered] requires both medical and competent lay evidence; rather, they make clear that competent lay evidence can be sufficient in and of itself."  Buchanan, 451 F. 3d at 1335.
+
+For the foregoing reasons, the evidence is sufficient to decide the Veteran's service connection claim as it is at least evenly balanced as to whether the Veteran's sleep apnea had onset in service.  As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection is warranted for sleep apnea.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+Entitlement to service connection for vertigo.
+
+In his June 2024 VA Form 21-526EZ, the Veteran claimed vertigo secondary to tinnitus.  In this respect, the Veteran contends that his tinnitus symptoms began around 1995, and his vertigo symptoms began shortly thereafter and have continued to present.  In light of the favorable decision to grant the Veteran's claim of service connection for vertigo on a direct basis, a discussion of secondary service connection or due to TERA is not necessary.  See Johnson v. Collins, 2025 U.S. App. Vet. Claims LEXIS 383. 
+
+As favorably found by the AOJ, the July 2024 examination report contains a diagnosis of vertigo.  The Board is bound by this favorable finding, 38 C.F.R. § 3.104(c), and the current disability requirement has thus been met.
+
+In its October 2024 rating decision, the AOJ favorably found that the Veteran participated in a toxic exposure risk activity due to his MOS of Boiler Technician.  Additionally, a June 1993 service treatment record shows that, while working in the steam plant, the Veteran sought medical attention for dizziness.  In light of the favorable finding and that the Veteran sought medical treatment during active duty service for complaints of dizziness, the in-service injury element has been met.
+
+The remaining issue is thus whether there is a relationship between the Veteran's vertigo and the in-service injury.
+
+VA treatment records show that in September 2019, the Veteran reported that he experienced episodes where it felt like the room was spinning; the episodes lasted 30 seconds to 1 minute, were associated with either standing up or moving his head, and that he had an episode every few days. 
+
+During his July 2024 VA ear conditions examination, the Veteran stated that his vertigo began in 1999 after he started experiencing tinnitus.  The Veteran reported that he was medically treated for his dizziness and was prescribed meclizine, but that the condition continues.  Specifically, when the Veteran stands up, the room will spin, he has difficulty driving and feels like "everything [is] going to fall."  The examiner marked that the Veteran experiences tinnitus, vertigo and staggering, and that the Veteran reported difficulty with walking, driving and getting out of bed due to dizziness. 
+
+The examiner provided two negative etiological opinions, one regarding the Veteran's service connection claim for vertigo as secondary to tinnitus and a TERA opinion.  With respect to the secondary claim, the examiner opined that the claimed condition of vertigo is less likely than not caused by tinnitus because the Veteran's service treatment records lack evidence of a diagnosis of vertigo, his physical examination showed no evidence of vertigo, the Veteran denied a history of tinnitus and vertigo in 2017, and the Veteran reported an episode of vertigo more than 20 years post discharge in 2019.  Thus, according to the examiner, without evidence of chronicity during service or post discharge, it is more likely that the claimed condition is related to a post service event, injury or illness. 
+
+In the TERA opinion, the examiner opined that after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic combined effect of all toxic exposure risk activities of the Veteran, as the treatment records lack evidence of symptoms, complaints, treatment or diagnosis of a vertigo condition during active-duty service or one year post discharge, it is more likely that the claimed condition is related to a post service event or injury.
+
+Both VA opinions focused on the lack of symptoms, complaints, treatment or diagnosis of a vertigo condition during active-duty service or one year post discharge.  However, as noted above, the Veteran sought treatment for dizziness while in service and has stated that his vertigo began and continued since he started experiencing tinnitus in 1995 while in service.  The Veteran is competent to report ongoing discernable symptomatology of dizziness that he initially experienced in service and that has continued since separation, even if the symptoms are not shown in  contemporaneous medical evidence.  Jandreau, 492 F. 3d at 1377; Buchanan, 451 F. 3d at 1337.  Moreover, there is no evidence to explicitly contradict the Veteran's reports, and they are generally consistent with the evidence of record.  Thus, the Board finds that the Veteran's reports of dizziness and vertigo symptoms in service and continuous symptoms in the years since service are credible.  As the VA examiner rendered negative etiological opinions focusing exclusively on secondary causation and TERA, without considering the credible evidence that establishes service connection on a direct basis, including the service treatment records for dizziness and the Veteran's reports that he has experienced vertigo since separation in 1995 or, at the latest, 1999.  Therefore, both the July 2024 VA negative etiological opinions are inadequate.  Buchanan, 451 F. 3d at 1336, n. 1.
+
+While the Board could remand the case for another opinion on direct service connection, such a request could be construed as obtaining additional evidence for the sole purpose of denying a claim, which is impermissible. 38 C.F.R. § 3.304(c); Andrews, 34 Vet. App. at 225 (2021).
+
+To the extent that this grant of service connection is based primarily on credible lay evidence rather than complete medical opinions, "nothing in the regulatory or statutory provisions [relating to evidence to be considered] requires both medical and competent lay evidence; rather, they make clear that competent lay evidence can be sufficient in and of itself."  Buchanan, 451 F. 3d at 1335.
+
+For the foregoing reasons, the evidence is sufficient to decide the Veteran's service connection claim, as it is at least evenly balanced as to whether the Veteran's vertigo had onset in service.  As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection is warranted for vertigo.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.
+
+ 
+
+Jonathan Hager
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	H. T. Mowell, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

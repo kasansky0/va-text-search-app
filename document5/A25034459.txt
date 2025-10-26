@@ -1,0 +1,81 @@
+Citation Nr: A25034459
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 221206-305087
+DATE: April 15, 2025
+
+ORDER
+
+An initial 10 percent rating for hypothyroidism is granted under Diagnostic Code (DC) 7903-7904.
+
+FINDING OF FACT
+
+Throughout the appeal period, the Veteran's hypothyroidism required continuous medication for control with a residual of easily fatiguing with minimal exertion. It did not produce myxedema, or hypercalcemia. Hypothyroidism was first diagnosed more than six months prior to the receipt of the claim for service connection.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to a 10 percent initial rating for hypothyroidism are met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.2, 4.31, 4.119, Diagnostic Code 7903-7904.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 1968 to November 1972.
+
+The rating decision on appeal was issued in September 2022 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In the December 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Hearing docket. On September 18, 2024, the Veteran withdrew the hearing request.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2022 agency of original jurisdiction (AOJ) decision on appeal, as well as any evidence submitted by the Veteran or representative within 90 days following receipt of the withdrawal of the hearing request. 38 C.F.R. § 20.302(b). If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to receipt of the withdrawal, or (2) more than 90 days following September 18, 2024, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.302(b), 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+This matter has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.800(c).
+
+The Veteran's file contains two Privacy Act requests submitted by the Veteran's representative seeking copies of the Veteran's claims file, submitted in October 2022 and January 2023. In response to the October 2022 Privacy Act request, VA provided the entire claims file in March 2023. Although there was no separate acknowledgement of and response to the January 2023 Privacy Act request, the Board finds that the March 2023 provision of the entire claims file was responsive to both requests and there is therefore no pending Privacy Act request that would warrant additional delay in the adjudication of the Veteran's appeal.
+
+Neither the Veteran nor his representative has raised any issues with the duty to notify or duty to assist. See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015) (holding that "the Board's obligation to read filings in a liberal manner does not require the Board . . . to search the record and address procedural arguments when the veteran fails to raise them before the Board."); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016) (applying Scott to duty-to-assist argument).
+
+Entitlement to an initial compensable rating for hypothyroidism
+
+The review period for this issue begins September 24, 2021, the date of receipt of the service connection claim. The Veteran contends that his service-connected hypothyroidism should receive an initial compensable rating.
+
+The Veteran argued in a brief submitted by his representative in December 2024 that although the November 2021 VA examiner checked a box indicating that the Veteran had no findings, signs, or symptoms attributable to a thyroid condition, she also noted the Veteran's report that he experiences fatigue with minimal exertion as a result of his hypothyroidism. The brief notes that the Veteran was found to have elevated TSH levels in March 2016 and February 2017, and in August 2019 he was started on Levothyroxine as treatment for his hypothyroidism, and that this medication is still necessary to control his hypothyroidism. 
+
+The September 2022 rating decision awarded service connection for hypothyroidism associated with herbicide exposure, and rated it as 0 percent disabling. 
+
+A disability rating is determined by applying VA's Schedule for Rating Disabilities (Rating Schedule), 38 C.F.R. Part 4. The percentage ratings contained in the Rating Schedule represent, as far as can be practicably determined, the average impairment in earning capacity resulting from diseases and injuries incurred or aggravated during military service and their residual conditions in civil occupations. Separate diagnostic codes identify the various disabilities. 38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. The Board may consider whether separate ratings may be assigned for separate periods of time-a practice known as "staged ratings,"- whether or not the claim concerns an initial rating. Fenderson v. West, 12 Vet. App. 119, 126-27 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007). 
+
+Where the rating criteria for a disability do not explicitly consider the ameliorative effects of medication, the Board may not consider those effects in assigning a disability rating. See Jones v. Shinseki, 26 Vet. App. 56, 61 (2012). As explained below, the Board is assigning a rating under DC 7904 by analogy, which explicitly contemplates the effects of continuous medication, so further discussion of Jones is not warranted.
+
+Under the current provisions for Diagnostic Code 7903, hypothyroidism without myxedema warrants a 30 percent rating for six months after initial diagnosis. Thereafter, residuals of the disease, to include eye conditions, or medical treatment, are rated under the most appropriate diagnostic code(s) under the appropriate body system (e.g., eye, digestive, mental disorders). 38 C.F.R. § 4.119, Diagnostic Code 7903. A 100 percent rating is assigned for hypothyroidism manifesting as myxedema (cold intolerance, muscular weakness, cardiovascular involvement (including, but not limited to hypotension, bradycardia, and pericardial effusion), and mental disturbance (including, but not limited to dementia, slowing of thought and depression)), but only for a period of six months after an examiner has determined that the condition has stabilized. Thereafter, the residual effects of hypothyroidism are to be rated under the appropriate diagnostic code(s) within the appropriate body system(s) (e.g., eye, digestive, and mental disorders). 38 C.F.R. § 4.119, Diagnostic Code 7903.
+
+A VA primary care physician note dated August 29, 2019, includes "Hypothyroidism: start levothyroxine." During a December 2021 routine visit, the primary care note states "Hypothyroidism: Stable. Continue current treatment." The most recent medication list from private treatment records dated January 23, 2024, provided by the Veteran within the evidentiary window for this appeal, includes levothyroxine 88 mcg capsule 1 per day.
+
+The Board also considers the Veteran's VA medical records for indications of the severity of the Veteran's fatigue and its impact on his activity. In a VA office visit note dated July 9, 2021, when asked "On a scale of 1-5, 1 being miserable and 5 being great, what do you rate yourself in the following areas" the Veteran answered "5" regarding his physical well-being. In VA visits in March and December 2021, the Veteran replied "no assistance required" when asked whether he needs assistance with activities of daily living. There is no evidence of record that the Veteran requires assistance with activities of daily living. 
+
+The Veteran was afforded a VA examination in November 2021 to address his thyroid condition. He described the hypothyroidism disability to have had its onset two to three years prior, with a gradual onset and the initial symptoms being weight gain and fatigue. He reported having been prescribed Synthroid (levothyroxine) for his hypothyroidism condition, which he was still continuing to take. The only current symptom the Veteran reported was fatigue, and the impact on his ability to perform occupational functioning and daily activities was that the Veteran "fatigues with minimal exertion." The VA examiner noted that the Veteran did not have "any findings, signs or symptoms attributable to a thyroid condition," and also found that the Veteran did not have any symptoms attributable to a hypothyroid condition, to include myxedema or mental disturbance. The VA examiner found that the only impact on the Veteran's ability to work due to his hypothyroidism was that he "fatigues with minimal exertion." 
+
+The Veteran's hypothyroidism is currently rated as 0 percent disabling based on a diagnosed disability with no compensable symptoms, under 38 C.F.R. § 4.31. Under Diagnostic Code 7903, a 30 percent rating is only available for six months following the initial diagnosis, and a 100 percent rating is only available for a period of six months after an examiner has determined that the condition or hypothyroidism manifesting as myxedema has stabilized. Although the Veteran's medical records do not appear to contain an exact date for his original hypothyroidism diagnosis, his primary care physician noted that he was starting levothyroxine for his hypothyroidism in August of 2019, which was more than six months prior to the Veteran's service connection claim. Further, there is no indication of record that the Veteran's hypothyroidism manifested at any point as myxedema (cold intolerance, muscular weakness, cardiovascular involvement (including, but not limited to hypotension, bradycardia, and pericardial effusion), and mental disturbance (including, but not limited to dementia, slowing of thought and depression)). Therefore, neither of the compensable ratings under Diagnostic Code 7903 are appropriate here. 
+
+After six months following the initial diagnosis of hypothyroidism without myxedema, the residual effects of hypothyroidism are to be rated under the appropriate diagnostic codes within the appropriate body systems. Here, the only residual effect reported by the Veteran is fatigue; specifically, fatiguing with minimal exertion. Neither the Veteran nor his representative has made any argument regarding what they think the appropriate rating or diagnostic code should be for his fatigue. 
+
+The Board finds that 38 C.F.R. § 4.119, Diagnostic Code 7904 for parathyroidism is the most analogous rating for the fatigue that the Veteran is experiencing due to hypothyroidism. It is for a closely related disease in which not only the functions affected, but also the anatomical location and symptomatology are closely analogous. Copeland v. McDonald, 27 Vet. App. 333, 337 (2015); Webb v. McDonald, 71 F.4th 1377 (Fed. Cir. 2023).
+
+Under Diagnostic Code 7904, a 10 percent rating is warranted for "symptoms such as fatigue, anorexia, nausea, or constipation that occur despite surgery; or in individuals who are not candidates for surgery but require continuous medication for control." This code is analogous to DC 7903 as it rates the same body system (endocrine) and disability of the same gland (thyroid). It considers the Veteran's symptoms because it contemplates fatigue and continuous medication required for control of a thyroid disability. The Board finds a 10 percent rating is warranted under these criteria for the Veteran's fatigue and continuous medication to control his hypothyroidism. 
+
+However, a rating higher than 10 percent is not warranted under DC 7904 because it would require hypercalcemia, and the Veteran's hypothyroidism is not shown to cause hypercalcemia.
+
+Based on the foregoing, the Board finds that the competent and credible evidence persuasively weighs in favor of granting a 10 percent rating, but no higher, for hypothyroidism, rated by analogy as DC 7903-7904.
+
+ 
+
+LAURA E. COLLINS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	R. West
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

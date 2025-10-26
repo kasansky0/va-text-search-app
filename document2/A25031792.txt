@@ -1,0 +1,57 @@
+Citation Nr: A25031792
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240828-469525
+DATE: April 7, 2025
+
+REMANDED
+
+Entitlement to service connection for sleep apnea is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from July 1976 to July 2000.
+
+On an August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+In Williams v. McDonough, 37 Vet. App. 305 (2024), the United States Court of Appeals for Veterans Claims held the Board should not adjudicate an appeal until the time for the appellant to switch Board dockets has ended. This period ends either one year from the date the AOJ mailed notice of the decision on appeal, or 60 days from the date the Board received the VA Form 10182, whichever date is later. 38 C.F.R. § 20.202(c)(2). Here, the Board may proceed with adjudication because the period for the Veteran request to switch dockets has passed.
+
+1. Entitlement to service connection for sleep apnea is remanded.
+
+The Veteran initially contended sleep apnea was caused by her service-connected degenerative disc disease, cervical spine. See, e.g., May 2023 VA Form 21-4138, Statement in Support of Claim. This statement notes that the Veteran had problems with sleeping on her side due to pain and that pain makes it difficult for her to fall or stay asleep. 
+
+A private opinion from an Advanced Practice Registered Nurse (APRN), K.M., dated in May 2023 found that sleep apnea was at least as likely as not "secondary to, related to, and/or aggravated by her service-connected Degenerative Disc Neck and Cervix [disability] with associated sleep disturbance." However, the opinion's rationale and, indeed, the overall opinion is difficult to understand and seems to contain basic errors. K.M. repeatedly references the "[c]ervix" as the cause of sleep apnea and the Veteran is not service connected for a cervix disability. 
+
+In addition, K.M.'s opinion provides no adequate rationale supporting that obstructive sleep apnea was caused or aggravated by a service-connected disability or disabilities. K.M. does note that the Veteran's lay statement that pain due to service-connected disabilities makes it difficult for the Veteran to sleep. K.M. also does cite medical literature noting that pain causes sleep disturbance and that pain and sleep problems "exist in a bidirectional relationship." However, this does not establish either a causal or an aggravation relationship from pain due to a service-connected disability to sleep apnea itself, only stating that pain and sleep apnea both cause problems with sleep. K.M. also cites a study noting easy wake can be a contributor to sleep apnea or poor CPAP compliance, but this does not appear to have to do with the Veteran's specific issues or with pain. K.M. cites multiple additional medical studies, none of which provide support for a finding that pain due to orthopedic disabilities can worsen sleep apnea in general or in the Veteran's specific case. Indeed, the medical studies appear either nonrelevant (such as a study regarding fluid retention being a factor for sleep apnea) or focus on pain causing or aggravating poor quality sleep.
+
+A VA opinion was obtained in July 2023. It did note the following: "The [V]eteran does have RAD. The research notes an increase in incidence of OSA in the presence of Asthma and/or RAD, however, RAD is not causal for OSA." Therefore, the issue of service connection due to "RAD," service-connected reactive airway disease, is raised by the record. 
+
+The VA opinion did not provide a rationale for why reactive airway disease did not cause sleep apnea, only noting that it was "not causal" without explanation. For the cervical disability, the examiner did note that "[t]he research does not support OSA [is] due to cervical DDD," without any citations or further explanation.  
+
+The VA opinion does not address aggravation of a nonservice-connected disability by a service-connected disability. See El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013) (a medical opinion is inadequate when it fails to adequately address the question of aggravation); December 2024 Appellant's Brief ("The examiner did not include how the service-connected conditions are aggravated by sleep apnea. She is service connected for RAD which would create challenges in utilizing her continuous positive airway pressure (CPAP) machine."). 
+
+Given the two opinions of record, there is no opinion adequately addressing aggravation of a nonservice-connected disability by a service-connected disability or whether sleep apnea was directly caused by a cervical disability or reactive airway disease, and therefore an additional VA opinion is necessary. 
+
+The matters are REMANDED for the following action:
+
+Obtain an addendum opinion from an appropriate clinician regarding the etiology of the Veteran's obstructive sleep apnea. 
+
+The examiner is asked whether obstructive sleep apnea is at least as likely as not (likelihood is at least approximately balanced or nearly equal) due to, results from, or is caused by the service-connected reactive airway disease and/or degenerative disc disease, cervical spine. 
+
+In the alternative, was obstructive sleep apnea at least as likely as not aggravated by the service-connected reactive airway disease or degenerative disc disease, cervical spine, either individually or in combination? The examiner should not consider whether the disability was aggravated "beyond its natural progression," but whether any aggravation occurred at all due to reactive airway disease and/or degenerative disc disease, cervical spine. 
+
+A full rationale should be provided for all opinions offered. If the examiner relies on the finding(s) contained in medical literature, the examiner should provide citations or explanations of what the medical literature states. 
+
+ 
+
+ 
+
+David Gratz
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	P. Yoffe, Counsel 
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

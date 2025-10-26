@@ -1,0 +1,169 @@
+Citation Nr: A25034655
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240904-470290
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for tinnitus is granted.
+
+Entitlement to service connection for posterior scalp scarring (previously claimed as facial scars) is granted.
+
+The appeal seeking compensation for a skin condition is dismissed.
+
+REMANDED
+
+Entitlement to a disability rating in excess of 10 percent for right knee patellofemoral pain syndrome (based on limitation of flexion) is remanded.
+
+FINDINGS OF FACT
+
+1. The evidence is in relative equipoise as to whether the Veteran's current tinnitus had its onset during his active service.
+
+2. The evidence is in relative equipoise as to whether the Veteran's currently diagnosed posterior scalp scarring had its onset during his active service.
+
+3. The June 2024 rating decision deferred a decision on the issue of entitlement to compensation for a skin condition; therefore, the rating decision was not a final, appealable decision as to that claim.
+
+CONCLUSIONS OF LAW
+
+1. Resolving all reasonable doubt in the Veteran's favor, the criteria for service connection for tinnitus are met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+2. Resolving all reasonable doubt in the Veteran's favor, the criteria for service connection for posterior scalp scarring are met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+3. The criteria for dismissal of the appeal seeking compensation for a skin condition are met.  38 U.S.C. § 7105; 38 C.F.R. § 3.2500; Shipley v. Shinseki, 24 Vet. App. 458, 461 (2011).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran, who is the appellant in this case, served on active duty from February 2002 to February 2010.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a June 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In September 2024, the Veteran filed a VA Form 10182 (Decision Review Request: Board Appeal) and requested direct review by the Board.  The Board observes that the Veteran submitted lay evidence in his VA Form 10182.  Ordinarily, such a discrepancy would require clarification from the Veteran as to whether he wanted to switch to the evidence submission docket.  See Edwards v. McDonough, 36 Vet. App. 56 (2023).  Additionally, pursuant to Williams v. McDonough, 37 Vet. App. 305 (2024), the Board generally would not be able to adjudicate this appeal before the deadline elapsed for requesting a docket switch, which is the later of one year from the date the RO mailed notice of the appeal, or 60 days from when the Board received the VA Form 10182.  Here, the later date would be June 2025 - one year from issuance of the June 2024 rating decision on appeal.  However, the Board is granting the claims for service connection for tinnitus and posterior scalp scarring, remanding the claim for a disability rating in excess of 10 percent for right knee patellofemoral pain syndrome, and dismissing the appeal seeking compensation for a skin condition based on a procedural defect.  Given the dispositions of these claims - to include the dismissal for a procedural defect, which cannot be cured by a docket switch - the Board finds there is no prejudice to the Veteran in proceeding with direct review of these claims.
+
+Therefore, the Board may only consider the evidence of record at the time of the June 2024 rating decision on appeal.  38 C.F.R. §?20.301.  Any evidence submitted after the June 2024 rating decision cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the claim for a disability rating in excess of 10 percent for right knee patellofemoral pain syndrome, any evidence the Board could not consider will be considered by the RO in the adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+The Board has limited the discussion below to the relevant evidence required to support its findings of fact and conclusions of law, as well as to the specific contentions regarding the case as raised directly by the appellant and those reasonably raised by the record.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015).
+
+Preliminary Matter
+
+The Board notes that the Veteran attempted to appeal an August 2017 legacy rating decision in his September 2024 VA Form 10182.  In the August 2017 rating decision, in pertinent part, the RO denied the Veteran's claim for service connection for tinnitus because no new and material evidence had been received.  Notably, the Board did not docket the appeal stemming from the August 2017 rating decision when processing the Veteran's September 2024 VA Form 10182 on intake.  The Board acknowledges that a VA Form 10182 may be accepted in lieu of a legacy Notice of Disagreement (NOD).  See Hall v. McDonough, 34 Vet. App. 329 (2021).  However, in this case, the Board does not accept the Veteran's September 2024 VA Form 10182 in lieu of a legacy NOD of the August 2017 rating decision.  Under the legacy system, the claimant has one year from notification of a RO decision to initiate an appeal by filing a NOD with the decision, and the decision becomes final if an appeal is not perfected within the allowed time.  38 U.S.C. § 7105; 38 C.F.R. §§ 3.160(d)(1), 19.52, 20.1103.  Time limits for filing a NOD may be extended for good cause shown.  38 C.F.R. § 3.109(b).  
+
+Here, the September 2024 VA Form 10182 was filed more than 7 years after notification of the August 2017 rating decision, and neither the Veteran nor his representative requested a filing extension for good cause.  Thus, to the extent the Veteran argues that the September 2024 VA Form 10182 should be accepted in lieu of a legacy NOD regarding the August 2017 rating decision, the Board rejects this argument because the September 2024 VA Form 10182 is untimely, and no good cause for extending the time for filing has been shown.  Accordingly, the issue of service connection for tinnitus, stemming from the August 2017 legacy rating decision, will remain undocketed.
+
+Service Connection Claims
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303. 
+
+Establishing service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the present disability.  Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004). 
+
+Service connection may also be granted for any injury or disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease or injury was incurred in service.  38 C.F.R. § 3.303(d).
+
+Tinnitus is considered by VA to be organic disease of the nervous system, which is a "chronic disease" listed under 38 C.F.R. § 3.309(a).  Therefore, the presumptive service connection provisions based on "chronic" in-service symptoms and "continuous" post-service symptoms under 38 C.F.R. § 3.303(b) apply.  Where a veteran served ninety days or more of active service, and certain chronic diseases become manifest to a degree of 10 percent or more within one year after the date of separation from such service, such disease shall be presumed to have been incurred in service, even though there is no evidence of such disease during the period of service.  38 U.S.C. §§ 1112, 1113; 38 C.F.R. §§ 3.307, 3.309(a).  
+
+VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with a claimant prevailing in either event.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.  The claimant is entitled to the benefit of the doubt when there is an "approximate" (meaning nearly equal) balance of positive and negative evidence regarding any material determination.  See Lynch v. McDonough, 999 F.3d 1391 (2021); Ortiz v. Principi, 274 F.3d 1361 (Fed. Cir. 2001).  If the evidence persuasively weighs against the claim, the claim is denied.
+
+1. Entitlement to service connection for tinnitus
+
+The Veteran asserts he is entitled to service connection for tinnitus.  See September 2024 VA Form 10182.
+
+In the June 2024 rating decision on appeal, the RO made the following favorable findings: (1) new and relevant evidence had been received in support of the claim for service connection for tinnitus; (2) the Veteran is currently diagnosed with tinnitus; and (3) participation in a toxic exposure risk activity (TERA) is established based on the Veteran's active service in Southwest Asia from April 2002 to May 2006.  Having found no clear and unmistakable error, the Board is bound by these favorable findings.  38 C.F.R. § 3.104(c).  Accordingly, the Board will readjudicate the claim on a de novo basis, and a current disability and in-service event are established.
+
+Additionally, the Board finds that the Veteran was exposed to loud noise during his military service.  Service treatment records (STRs) confirm that the Veteran was routinely exposed to noise in his military duties.  See "Hearing Conservation Data" dated March 2003 to April 2009; May 2008 "Medical Surveillance/Certification Exam"; see also DD-214; March 2024 Statement in Support of Claim; Department of Defense's Duty MOS Noise Exposure Listing (finding a high probability of noise exposure for the Veteran's rating as an Aviation Machinists Mate).  Therefore, loud military noise exposure is also established.
+
+Thus, the remaining question before the Board is whether there is competent evidence of a nexus between the Veteran's current tinnitus and his active service.
+
+On review, the Board finds that the evidence is in relative equipoise as to whether the Veteran's current tinnitus had its onset during his active service.
+
+First, given the observable nature of tinnitus, the Board finds the Veteran's lay statements that his tinnitus onset during service and continued ever since to be competent, credible, and highly probative.  See July 2015 VA audiological examination report (Veteran reported his tinnitus onset around 2008 during his active service); March 2024 Statement in Support of Claim ("I initially experienced tinnitus but was never diagnosed.  Since I have eight years of experience working with A/C engines in the aviation industry, I assumed the ri[n]ging was standard.  If we complain about this and get diagnosed by the doctors, we can lose qualifications and not get promoted so no one complains while active in the military."); April 2024 VA audiological examination report (Veteran reported that his tinnitus onset around 2005 during his active service and has gotten worse since).  
+
+Additionally, VA treatment records generally tend to support the ongoing nature of the Veteran's tinnitus symptoms after service.  See VA treatment records dated February 2012 to April 2020 (noting complaints of tinnitus); but see June 2010 VA internal medicine note (review of systems negative for tinnitus).  The Board acknowledges that the Veteran denied ringing in the ear or tinnitus in some STRs, and that he was found to not have a current complaint of tinnitus in a December 2010 VA general medical examination report rendered 8 months after service separation.  See, e.g., May 2008 "Medical Surveillance/Certification Exam" record.  However, as the Veteran explained in his March 2024 Statement in Support of Claim, he did not complain about his tinnitus symptoms during service due to the possibility of losing qualifications or not getting promoted.  The Board emphasizes that the evidence need only be in relative equipoise for the Veteran to prevail.  Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+Second, the Board finds the July 2015 and April 2024 VA medical opinions to be inadequate for the following reasons.  The July 2015 VA medical opinion is inadequate under Dalton v. Nicholson, 21 Vet. App. 23 (2007), as it is improperly based on the absence of evidence of tinnitus in the Veteran's STRs.  The April 2024 VA medical opinion is also inadequate under Dalton, and under Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006), as it is improperly based on the absence of evidence of tinnitus in the Veteran's STRs and post-service treatment records until 2012.  A Veteran's lay statements of symptomatology need not be corroborated by contemporaneous medical records to constitute competent evidence.  See Buchanan, 451 F.3d at 1337.
+
+Third, the Board acknowledges that there is no positive nexus opinion of record regarding the Veteran's tinnitus.  While a lay person is not always competent to relate past symptoms to a current diagnosis, in this case it is within the competence of a lay Veteran and the lay adjudicator to reach that conclusion based upon the observable nature of tinnitus.  As determined above, the Board finds competent, credible, and highly probative the Veteran's lay statements that his tinnitus symptoms began in service and have continued thereafter.
+
+For these reasons, and with resolution of all reasonable doubt in the Veteran's favor, the Board finds that service connection is warranted for tinnitus.  The appeal is therefore granted. 
+
+2. Entitlement to service connection for posterior scalp scarring (previously claimed as facial scars)
+
+The Veteran asserts he is entitled to service connection for facial scars.  See September 2024 VA Form 10182.  After reviewing the contentions and evidence of record, the Board has recharacterized the Veteran's claim as one for posterior scalp scarring.  See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009); Brokowski v. Shinseki, 23 Vet. App. 79 (2009).
+
+As an initial matter, and with resolution of all reasonable doubt in the Veteran's favor, the Board finds that the Veteran has a current diagnosis of posterior scalp scarring.  See January 2017 VA "Headaches" examination report (VA examiner found that the Veteran has a scar buried in the hair of his posterior scalp measuring 2 centimeters in length by 0.25 centimeters in width).  In a March 2024 Statement in Support of Claim, the Veteran reported he has visible scarring at the back of his head and neck, and that his hair will not grow on these areas.  Given the observable nature of visible scarring, noted by the Veteran during the pendency of the claim, and the previous diagnosis of posterior scalp scarring by the January 2017 VA examiner, the Board finds that a current disability is established.
+
+Next, in the June 2024 rating decision, the RO made a favorable finding that the Veteran participated in a TERA based on his active service in Southwest Asia from April 2002 to May 2006.  Having found no clear and unmistakable error, the Board is bound by this favorable finding.  38 C.F.R. § 3.104(c).  Accordingly, an in-service event is established.  
+
+Additionally, the Board finds that the evidence is in relative equipoise as to whether the Veteran incurred a scalp laceration to the back of his head during active service.  In a March 2024 Statement in Support of Claim, the Veteran wrote, in pertinent part, "During my active[-]duty service, my scar was caused by a fall from an aircraft to the flight deck.  The buttons from my cranial helmet punctured my skin.  I was seen by the medical and they gave me an ice patch and Ibuprofen and sent me on my way.  I had two MRIs and two CT scans done by the VA because of the scar on the back of my head, which causes migraines... The scar on my face is at the back of my head and neck."  The Veteran is service connected for traumatic migraine headaches, rated 30 percent disabling from February 11, 2015.  Notably, in VA "Headaches" examination reports dated July 2015, January 2017, and April 2024, the Veteran endorsed a similar medical history regarding the onset and course of his headaches - specifically, that the condition began during service when he fell from an aircraft and incurred a scalp laceration to the back of his head, which was sutured, and that he has had migraine headaches in that same spot ever since the fall.  The Board acknowledges that the Veteran's STRs do not contain supporting evidence of this in-service injury.  However, given that service connection has already been established for traumatic migraine headaches based, at least in part, on this injury, and the Veteran's competent, credible, and highly probative lay reports of a scalp laceration and subsequent treatment during service, the Board finds that an in-service injury is also established.
+
+Thus, the remaining question before the Board is whether there is competent evidence of a nexus between the Veteran's current posterior scalp scarring and his active service.
+
+On review, the Board finds that the evidence is in relative equipoise as to whether the Veteran's currently diagnosed posterior scalp scarring had its onset during his active service.
+
+First, given the observable nature of visible scarring, the Board finds the Veteran's lay report that his posterior scalp scarring onset after his scalp laceration was sutured following the in-service injury, and has continued to exist ever since, to be competent, credible, and highly probative.  See March 2024 Statement in Support of Claim ("Since separating from active duty, I still have visible scarring on my head.").
+
+Second, the Board finds it highly significant that in the January 2017 VA "Headaches" examination report, the VA examiner found that the Veteran had posterior scalp scarring that was related to his diagnosed migraine headaches.
+
+Third, the Board acknowledges that the Veteran was not provided a VA examination or medical opinion for this claim.  Even so, the Board finds that the evidence currently of record is in relative equipoise and is sufficient to grant the claim.
+
+For these reasons, and with resolution of all reasonable doubt in the Veteran's favor, the Board finds that service connection is warranted for posterior scalp scarring.  The appeal is therefore granted. 
+
+3. The appeal seeking compensation for a skin condition
+
+An appeal may be initiated only once a decision is made by an agency of original jurisdiction (AOJ).  See 38 U.S.C. § 7105(b)(1)(A); 38 C.F.R. § 3.2500.  Actions by the AOJ to defer a decision are not appealable decisions.  See Shipley v. Shinseki, 24 Vet. App. 458, 462 (2011) ("Because there is no 'final decision' when the RO issues a deferred rating decision, there has been no 'adjudicative determination' from which [a] [Notice of Disagreement] can be filed.").  The Board may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed.  38 U.S.C. § 7105(d).  
+
+In the June 2024 rating decision on appeal, the RO deferred a decision on the issues of entitlement to compensation for a skin condition.  The RO noted that further development would be undertaken on the claim.  This rating decision, which only advised the Veteran of future action to be taken by the RO, is not a final, appealable decision as to the claim for service connection for a skin condition.  Therefore, it was an administrative error for the Board to accept the September 2024 VA Form 10182 as to that issue.  Accordingly, the appeal seeking compensation for a skin condition must be dismissed as a matter of law.  See 38 U.S.C. § 7105; 38 C.F.R. § 3.2500; Shipley, 24 Vet. App. at 462.
+
+As an aside, the Board notes that in a September 2024 rating decision, the RO granted service connection for atopic dermatitis, unspecified (claimed as skin condition) and assigned an initial disability rating of 10 percent, effective March 14, 2024, the date of receipt of the Veteran's claim application.  Therefore, even if the issue of entitlement to service connection for a skin condition were properly before the Board, it is rendered moot by the RO's September 2024 rating decision which fully granted the benefit sought on appeal.
+
+REASONS FOR REMAND
+
+1. Entitlement to a disability rating in excess of 10 percent for right knee patellofemoral pain syndrome (based on limitation of flexion) is remanded.
+
+The Veteran is currently in receipt of a 10 percent rating for right knee patellofemoral pain syndrome under Diagnostic Code (DC) 5260 based on limitation of flexion, and a 0 percent rating for right knee patellofemoral pain syndrome under DC 5261 based on limitation of extension.  He asserts that a disability rating in excess of 10 percent is warranted for right knee patellofemoral pain syndrome based on limitation of flexion.  See September 2024 VA Form 10182.  The Board finds that remand is necessary to cure a pre-decisional duty to assist error by the RO.
+
+In a March 2024 Statement in Support of Claim, the Veteran wrote, in pertinent part, "I am requesting a rating increase for my Right Knee as I do not think that the current rating accurately reflects my disability.  The symptoms for my right knee include pain with motion, locking, buckling, weakness, a feeling of the knee giving out, stiffness so severe the knee can't move, and popping.  I feel like I drag my leg sometimes because of my knee.  My right knee pain rates around 9 out of 10 with flare-ups... I use a knee brace, a cane, and crutches for my right knee to help assist with my walking.  I take over-the-counter Ibuprofen for my knee symptoms." 
+
+In April 2024, the Veteran was provided a VA knee examination.  In pertinent part, the VA examiner noted that the Veteran was currently taking Ibuprofen as needed for his knee, that he did not report flare-ups of the knee, that he did not report or have a history of instability or recurrent subluxation of the knee, that he did not have ankylosis of the knee, and that he did not use any assistive devices as a normal mode of locomotion.
+
+On review, the Board finds the April 2024 VA knee examination report to be inadequate because the VA examiner did not address all relevant evidence, particularly the Veteran's competent lay reports regarding his right knee instability symptoms, "stiffness so severe the knee can't move" and sometimes dragging his leg due to his knee, flare-ups, and use of assistive devices in the March 2024 Statement in Support of Claim.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302-04 (2008).  
+
+Prior to adjudicating the claim, the RO should have provided an adequate VA examination to determine the current severity of the Veteran's right knee patellofemoral pain syndrome.  Furthermore, given the Veteran's reported medication use for his right knee patellofemoral pain syndrome, the Board finds that the VA examiner must document what the Veteran's symptoms would be without the use of medication.  This must be accomplished on remand.
+
+Accordingly, the matter is REMANDED for the following action:
+
+Provide the Veteran an additional VA examination to determine the current severity of his right knee patellofemoral pain syndrome.  The claims file, including a copy of this Remand, must be made available to, and be reviewed by, the examiner.
+
+The VA examiner must document what the Veteran's symptoms would be WITHOUT using medication to treat his right knee patellofemoral pain syndrome.
+
+After a thorough review of the claims file (to include the Veteran's March 2024 Statement in Support of Claim) and examination of the Veteran, the examiner is asked to respond to the following:
+
+(a)	Elicit from the Veteran all signs and symptoms of his right knee patellofemoral pain syndrome.  In doing so, obtain information from the Veteran (and the record) as to the frequency, duration, characteristics, severity, or functional loss with any repetitive use or during any flare-ups.  Also, indicate all associated orthopedic AND neurologic manifestations.
+
+(b)	Full range of motion (ROM) testing must be performed where possible.  The joint involved and the opposing joint should be tested, including for pain, in (1) active motion, (2) passive motion, (3) in weight-bearing, and (4) in nonweight-bearing.  See Correia v. McDonald, 28 Vet. App. 158 (2016).
+
+If the examiner is unable to conduct the required testing or concludes that the required testing is not necessary in this case, he or she should clearly explain why that is so.
+
+(c)	In assessing functional loss, flare-ups and increased functional loss on repetitive use must be considered.  The examiner must consider all procurable and ascertainable data and describe the extent of any pain, incoordination, weakened movement, and excess fatigability on use, and, to the extent possible, report functional impairment due to such factors in terms of additional degrees of limitation of motion, including impact on occupational functioning.
+
+If the examiner determines that flare-ups cause variable reductions in ROM of the affected joints, he or she must use information obtained from the Veteran to estimate variations in reduced ROM in terms of degrees.
+
+If the examiner is unable to provide such an opinion without resort to speculation, the examiner must provide a rationale for this conclusion, with specific consideration of the instructions in the VA Clinician's Guide to estimate, "per [the] veteran," what extent, if any, flare-ups affect functional impairment.  The examiner must include a discussion of any specific facts that cannot be determined if unable to opine without speculation.  See Sharp v. Shulkin, 29 Vet. App. 26, 36 (2017).
+
+(d)	Please opine whether the Veteran's right knee stiffness symptoms at least as likely as not (at least an approximate balance of positive and negative evidence) more nearly approximate the functional equivalent of ankylosis when at their worst.  
+
+If functional ankylosis is found in the right knee, please opine whether it, at worst, more nearly approximates: (1) favorable angle in full extension, or in slight flexion between 0 and 10 degrees; (2) in flexion between 10 and 20 degrees; (3) in flexion between 20 and 45 degrees; OR (4) extremely unfavorable, in flexion at an angle of 45 degrees or more.  
+
+In providing this opinion, please address the Veteran's lay report of "stiffness so severe the knee can't move" and sometimes dragging his leg due to his knee in his March 2024 Statement in Support of Claim.
+
+ 
+
+ 
+
+S. B. MAYS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. M. Gill, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

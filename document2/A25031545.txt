@@ -1,0 +1,89 @@
+Citation Nr: A25031545
+Decision Date: 04/04/25	Archive Date: 04/04/25
+
+DOCKET NO. 210121-137165
+DATE: April 4, 2025
+
+ORDER
+
+Entitlement to an earlier effective date of May 29, 2018, but no earlier, for the grant of total disability based on individual unemployability (TDIU) is granted.
+
+FINDINGS OF FACT
+
+1. In a July 2020 rating decision, the Veteran was granted TDIU with an effective date of June 24, 2020, the date the Veteran's VA Form 21-8940 Application for Increased Compensation Based on Unemployability was received.
+
+2. The evidence of record persuasively indicates that the Veteran filed an intent to file a claim on May 29, 2018.
+
+3. The Veteran has been in continuous pursuit of her claims since May 29, 2018.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an earlier effective date of May 29, 2018, for the grant of TDIU have been met. 38 U.S.C. §§ 5101, 5110, 5107, 5108; 38 C.F.R. §§ 3.102, 3.156(a), 3.400, 3.2500.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Air Force from July 2008 to July 2012.
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from a November 2020 and January 2021 rating decisions by the Department of Veterans Affairs (VA) Regional Office (RO). The November 2020 rating decision was a higher-level review of an earlier September 2019 rating decision that granted an effective date for service-connected irritable bowel syndrome (IBS) of November 4, 2018. The January 2021 rating decision was a higher-level review of an earlier July 2020 rating decision that granted entitlement to service connection for urinary tract infection (UTI) effective May 29, 2018, and TDIU effective June 24, 2020.
+
+In the January 21, 2021, VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Evidence Submission docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2019 and July 2020 agency of original jurisdiction (AOJ) decisions, which were subsequently subject to higher-level review, as well as any evidence submitted by the Veteran or her representative with, or within 90 days from receipt of, the VA Form 10182. 38 C.F.R. § 20.303. If evidence was submitted either (1) during the period after the AOJ issued the decision, which was subsequently subject to higher-level review and prior to the date the Board received the VA Form 10182, or (2) more than 90 days following the date the Board received the VA Form 10182, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.303, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+This case returns to the Board after the U.S. Court of Appeals for Veterans Claims (Court) granted an October 2024 Joint Motion for Partial Remand (JMPR) vacating the portion of the May 2024 Board decision denying entitlement to an earlier effective date for the grant of a TDIU prior to June 24, 2020. The parties agree that issues of entitlement to an extraschedular rating for IBS, entitlement to service connection for PTSD, and entitlement to a rating in excess of 10 percent for UTI are not on appeal. The Court returned the claim to the Board to consider whether the Veteran's service-connected UTI and IBS disabilities have contributed to her inability to maintain substantially gainful employment.
+
+1. Entitlement to an effective date earlier than June 24, 2020, for the grant of total disability based on individual unemployability (TDIU).
+
+Section 5110(a) of title 38, U.S. Code, governs the assignment of an effective date for an award of benefits: The effective date of an award based on an original claim, a claim reopened after final adjudication, or a claim for increase, of compensation, dependency and indemnity compensation, or pension, shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor. 38 U.S.C. § 5110 (a). The implementing regulation similarly states that except as otherwise provided, the effective date of an evaluation and award of pension, compensation or dependency and indemnity compensation based on an original claim, a claim reopened after final disallowance, or a claim for increase will be the date of receipt of the claim or the date entitlement arose, whichever is the later. See 38 C.F.R. § 3.400.
+
+VA amended its adjudication regulations on March 24, 2015, to require that all claims governed by VA's adjudication regulations be filed on standard forms prescribed by the Secretary, regardless of the type of claim or posture in which the claim arises. The amendments implement the concept of an intent to file a claim for benefits, which operates similarly to the informal claim process, but requires that the submission establishing a claimant's effective date of benefits must be received in one of three specified formats. The amendments also eliminate the constructive receipt of VA reports of hospitalization or examination and other medical records as informal claims to reopen under 38 C.F.R. § 3.157. See 38 C.F.R. § 3.1. The amended regulations, however, apply only to claims filed on or after March 24, 2015. Thus, prior to March 24, 2015, the standardized forms were not required.
+
+After the AOJ adjudicates an AMA claim the Veteran has one year to file a request for a higher-level review, a supplemental claim, or review by the Board. See 38 U.S.C. § 5104C; 38 C.F.R. § 3.2500. Under the AMA, an effective date can be preserved if the claim is continuously pursued by filing an appropriate administrative review option to an AMA decision, generally within one year from when the decision was issued. 38 C.F.R. § 3.2500 (c). If an AMA claim is continuously pursued, it will be considered filed as of the date of the first claim in the continuously pursued chain, not the date the most recent request for review was received. 38 C.F.R. § 3.2500 (h).
+
+A claim for TDIU rating is part of a claim for a higher rating when it is raised by the record or asserted by the Veteran. Rice v. Shinseki, 22 Vet. App. 447 (2009). When evidence of unemployability is submitted during the pendency of a claim for an increased evaluation, the claim for a TDIU rating is part and parcel of the claim for benefits for the underlying disability. Id.
+
+Total disability ratings for compensation based on individual unemployability may be assigned where the scheduler rating is less than total, when it is found that the disabled person is unable to secure or follow a substantially gainful occupation as a result of a single service-connected disability ratable at 60 percent or more, or as a result of two or more disabilities, provided at least one disability is ratable at 40 percent or more, and there is sufficient additional service-connected disability to bring the combined rating to 70 percent or more. 38 C.F.R. §§ 3.340, 3.341, 4.16(a). Where these percentage requirements are not met, entitlement to the benefits on an extraschedular basis may be considered when the veteran is unable to secure and follow a substantially gainful occupation by reason of service- connected disabilities. 38 C.F.R. § 4.16 (b).
+
+The Veteran contends an earlier effective date is warranted for the grant of TDIU. Specifically, the Veteran through her representative believes she is entitled to an effective date earlier than June 24, 2020, because she met the schedular requirements for a TDIU, has not been able to secure and maintain gainful employment, and has continuously pursued claims for disabilities which contribute to her unemployment prior to June 24, 2020. 
+
+On June 24, 2020, the Veteran filed a VA Form 21-8940 Veterans Application for Increased Compensation Based on Unemployability. The Veteran specifically mentioned her anxiety, migraines, and sleep disturbances have rendered her unable to continue working. In the July 2020 rating decision, the AOJ granted entitlement to TDIU and assigned the effective date of June 24, 2020, based on the date the Veteran filed her VA Form 21-8940 Application for Increased Compensation Based on Unemployability. 
+
+Initially, the Board notes that the Veteran meets schedular requirements for a TDIU as of May 29, 2018. In a May 2019 rating decision, the AOJ granted entitlement to service connection for generalized anxiety disorder rated 50 percent disabling, effective May 29, 2018, entitlement to service connection for migraine rated 50 percent disabling, effective May 29, 2018, entitlement to service connection for IBS rated 30 percent disabling, effective December 22, 2018, entitlement to service connection for lumbosacral strain rated 10 percent disabling, effective May 29, 2018, entitlement to service connection for right ankle sprain rated 10 percent disabling, effective May 29, 2018, and entitlement to service connection for right lower extremity radiculopathy rated 10 percent disabling, effective May 29, 2018. The AOJ denied entitlement to service connection for tinnitus, and urinary tract infection (claimed as genitourinary condition). Thus, the Veteran's combined disability rating was 80 percent disabling as of May 29, 2018.
+
+A review of the procedural history shows that the Veteran originally filed an intent to file a claim on May 29, 2018. On October 6, 2018, the Veteran filed her claim for service connection for posttraumatic stress disorder (PTSD), tinnitus, migraine, genitourinary condition, sleep disturbances, right ankle and back injury. On December 22, 2018, the Veteran filed a claim for subsequent irritable bowel syndrome (IBS). In a May 2019 rating decision, the AOJ granted entitlement to service connection for generalized anxiety disorder, migraines IBS, lumbosacral strain, right ankle sprain, and right lower extremity radiculopathy. The AOJ denied entitlement to service connection for tinnitus, and urinary tract infection (claimed as genitourinary condition).
+
+If VA receives a complete application form prescribed by the Secretary, appropriate to the benefit sought, within one year of receipt of the intent to file a claim, VA will consider the complete claim filed as of the date the intent to file a claim was received. 38 C.F.R. § 3.155 (b). The Board notes that the preamble to 38 C.F.R. § 3.155 explicitly excluded the intent-to-file framework from supplemental claims. However, in the case of Military-Veterans Advocacy v. Secretary of Veterans Affairs, 7 F.4 th 1110 (Fed. Cir. 2021), the United States Court of Appeals for the Federal Circuit determined that this exclusion was invalid. Therefore, as a result of that decision, the intent-to-file framework of 38 C.F.R. § 3.155 does apply to supplemental claims.
+
+It is noted, however, that only one complete claim for a benefit may be associated with each intent to file. If multiple claims are filed within one year of notice of an intent to file, only the first claim filed will be associated with the intent to file a claim. See 38 C.F.R. § 3.155 (d)(1)(ii). Here, the Board will associate the Veteran's first claims of generalized anxiety disorder, migraines, IBS, lumbosacral strain, right ankle sprain, and right lower extremity radiculopathy with her May 29, 2018, intent to file when evaluating what claims have been continuously pursued for the earliest effective date available for the grant of TDIU.
+
+Following the May 2019 rating decision, the AOJ issued a September 2019 rating decision which noted a clear and unmistakable error as to the initial evaluation of the Veteran's service-connected IBS disability. In July 2020, the Veteran filed another VA Form 20-0996, seeking higher-level review of the September 2019 rating decision seeking an increased rating for her IBS disability, entitlement to service connection for PTSD and entitlement to TDIU. In a July 2020 rating decision, the AOJ granted entitlement to service connection for UTI disability, evaluated as 10 percent disabling, effective May 29, 2018. In a subsequent July 2020 rating decision, the AOJ granted an increased evaluation for generalized anxiety disorder to 70 percent disabling, effective June 24, 2020, TDIU effective June 24, 2020, and denied the increased rating for migraines, but continued the evaluation as 50 percent disabling.
+
+In July 2020, the Veteran filed another VA Form 20-0996, seeking higher-level review of the September 2019 rating decision seeking an increased rating for her IBS disability, entitlement to service connection for PTSD and entitlement to TDIU. In the July 2020 letter accompanying the higher-level review, Veteran's representative argued that because the Veteran is seeking entitlement to an increased rating for IBS, and as the Veteran had not been able to secure and follow substantially gainful employment since June 2018, TDIU has been raised by the record under Rice v. Shinseki, 22 Vet. App. 447 (2009).
+
+In August 2020, the Veteran filed a VA Form 20-0996, seeking higher-level review of the July 2020 rating decision that granted entitlement to TDIU effective June 24, 2020. The Veteran contends that her TDIU should have an effective date of May 29, 2018, since she has been unable to secure and follow substantially gainful employment throughout her appeal stream since the beginning and because she is seeking an increase of her initial rating decision for her disabilities TDIU is part and parcel of that claim. Subsequently, a January 2021 rating decision denied the claim of entitlement to an earlier effective date for the grant of TDIU.
+
+In the January 2021 VA Form 10182 (Notice of Disagreement), Veteran's representative noted that the Veteran provided lay statements regarding how her IBS disability affected her ability to work. Specifically, the Veteran reported spending large amounts of time in the bathroom and was therefore unable to focus on completing her work. As a result, the Veteran would become behind on her work. Additionally, the Veteran's representative argues that while the AOJ noted the Veteran's inability to work was due to her service-connected generalized anxiety disorder and migraines, it is clear from the Veteran's lay statements that her IBS disability has also impacted her ability to work.
+
+The Board finds that there is a basis to grant an effective date of May 29, 2018, for the grant of entitlement to TDIU. Noted previously, in Rice v. Shinseki, 22 Vet. App. 447 (2009), the Court held that a TDIU claim is part of a claim for a higher rating when such claim is raised by the record or asserted by the Veteran. The Court further held that when evidence of unemployability is submitted during the pendency of a claim for an increased evaluation, the claim for TDIU is part and parcel of the claim for benefits for the underlying disability. Id. 
+
+In the July 2020 letter accompanying the July 2020 Higher-Level Review, the Veteran's representative asserted that TDIU was part and parcel of the Veteran's increased rating for IBS. Additionally, while the July 2020 rating decision granted TDIU based on service-connected anxiety disorder and migraine headaches, the evidence of record notes the Veteran experiences chronic symptoms directly related to her service-connected IBS which interfere with her ability to maintain employment. The Board notes that these chronic symptoms are the type that is readily amenable to lay observation as it is subjective to the claimant. Thus, the Veteran is competent to report her symptoms and their frequency. Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009).
+
+The Board finds that the Veteran has been in continuous pursuit of her claim since May 29, 2018. As noted above, the Veteran initially filed an intent to file her claim on May 29, 2018. The Veteran subsequently filed her claim on October 6, 2018. The Veteran's initial rating decision granting her claim in part and denying others was in May 2019.  Since that time, the Veteran has filed timely higher-level reviews and a NOD to preserve the date of her original claim. See 38 C.F.R. § 3.2500.
+
+Since the Veteran has been in continuous pursuit of her claims since May 29, 2018, and the record reflects that the Veteran has raised TDIU as part and parcel of the claims since May 29, 2018, the Board finds that entitlement to an earlier effective date of May 29, 2018, but no earlier, for the grant of TDIU is warranted.
+
+ 
+
+ 
+
+Neely M. Peden
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. King, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

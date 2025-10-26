@@ -1,0 +1,85 @@
+Citation Nr: A25030715
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240730-458982
+DATE: April 2, 2025
+
+ORDER
+
+Service connection for bilateral hearing loss is granted.
+
+FINDING OF FACT
+
+The Veteran's bilateral hearing loss is related to active duty.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for bilateral hearing loss have been met. 38 U.S.C. §§ 1131, 5107; 38 C.F.R. §§ 3.102, 3.104, 3.159, 3.303, 3.385.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from September 1982 to February 1985. The Board recognizes the Veteran's service to his country and the sacrifices it entailed. 
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from a January 2023 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO) denying service connection for bilateral hearing loss.
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may consider only the evidence of record at the time of the January 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review in a November 2023 rating decision. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+As a preliminary matter, although the Veteran's representative did not submit an Informal Hearing Presentation (IHP), there is no prejudice to the Veteran in issuing a decision that is granting the full benefits sought on appeal.
+
+Service connection for bilateral hearing loss is granted.
+
+The Veteran contends that his bilateral hearing loss is related to service. Specifically, the Veteran contends that his hearing loss is related to acoustic trauma he experienced while working as a paratrooper in service. See July 2024 VA Form 10182.
+
+Service connection may be granted for a current disability that began during active duty but was not diagnosed until later. 38 U.S.C. § 1110; 38 C.F.R. § 3.303. Service connection for such disabilities generally requires competent evidence of (1) a current disability; (2) an in-service injury; and (3) a causal relationship between the current disability and in-service injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Under 38 C.F.R. § 3.385, to qualify as a disability for VA purposes, the Veteran's hearing loss must meet at least one of the following criteria:
+
+1. An auditory threshold of 40 decibels or greater in any of the 500, 1000, 2000, 3000, or 4000 Hertz frequencies;
+
+2. Auditory thresholds of 26 decibels or greater in at least three of the 500, 1000, 2000, 3000, or 4000 Hertz frequencies; or
+
+3. A speech recognition score of less than 94 percent upon a Maryland CNC Test.
+
+Here, the first element of service connection, a current disability, is met. The Veteran was provided with a VA medical examination in November 2022. The puretone thresholds in the right ear at 500, 1000, 2000, 3000, and 4000 Hertz frequencies were 15, 10, 15, 20, and 40 decibels, respectively. The puretone thresholds in the left ear at 500, 1000, 2000, 3000, and 4000 Hertz frequencies were 15, 10, 10, 35, and 65 decibels. See November 2022 Disability Benefits Questionnaire (DBQ). Therefore, the Veteran has a current bilateral hearing loss disability.
+
+As conceded by the November 2023 rating decision, the second element of service connection is also met. Specifically, the Veteran's DD 214 shows that he had a military occupational specialty (MOS) with a high probability of noise exposure.
+
+The Board further finds the Veteran's current disability of bilateral hearing loss is causally related to service.
+
+At enlistment, puretone thresholds in the right ear at 500, 1000, 2000, 3000, and 4000 Hertz frequencies were 5, 0, 0, 0, and 0 decibels respectively. The puretone thresholds in the left ear at 500, 1000, 2000, 3000, and 4000 Hertz were 5, 0, 0, 0, and 10 decibels respectively. 
+
+At separation, puretone thresholds in the right ear at 500, 1000, 2000, 3000, and 4000 Hertz were 20, 10, 10, 10, and 10 decibels respectively. The puretone thresholds in the left ear at 500, 1000, 2000, 3000, and 4000 Hertz were 15, 10, 10, 10, and 15 decibels respectively. See Service Treatment Records (STRs).
+
+The Veteran was afforded a VA examination in November 2022. The examiner noted that given normal hearing at separation, no significant shift in thresholds from enlistment to separation, bilateral hearing impairment is less likely than not caused by or aggravated by military noise exposure. The examiner further explained that the shift in hearing noted at 500 Hertz in the right ear from the entrance exam to the separation exam is not consistent with hearing loss from noise exposure. Noise exposure typically affects the high-frequency range of hearing (2000-6000 Hertz). The shift at 500 Hz could have been due to testing variability, background noise present in the testing room, cerumen build-up, poor headphone placement, or other factors. See November 2022 DBQ.
+
+The Board finds this opinion is inadequate. When VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate. See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007). Specifically, the examiner failed to explain how a "significant threshold shift" pertains to the VA standards for awarding service connection. The examiner also notes the Veteran's hearing loss is not related to service but did not provide an alternate explanation as to what could have caused his hearing loss. 
+
+When adjudicating appeals, the Board applies an intentionally generous standard of proof unique in American jurisprudence, created in recognition of the nation's great debt to its veterans. Wise v. Shinseki, 26 Vet. App. 517, 531 (2014).
+
+"Reasonable doubt" exists when the evidence does not "satisfactorily prove or disprove the claim." A veteran is entitled to the benefit of the doubt when there is an approximate balance of positive and negative evidence on any issue material to the claim. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+Thus, when the evidence in favor of the veteran on a given issue is at least nearly equal to the evidence against them, the Board finds in the veteran's favor. See, e.g., Ortiz v. Principi, 274 F.3d 1361, 1365 (Fed. Cir. 2001).
+
+If in light of the above pro-veteran evidentiary burden the Board finds the evidence as it stands is sufficient to find service connection, the Board will not remand the issue even if there has been no VA examination, or the VA examination or opinion is somehow inadequate, because to do so would run afoul of the prohibition on remanding a case in order to obtain evidence against the Veteran. See e.g., Mariano v. Principi, 17 Vet. App. 305, 312 (2003). See also, Miller v. Wilkie, 32 Vet. App. 249, 259 (2020); Sizemore v. Principi, 18 Vet. App. 264 (2004) (the Board will consider the findings and opinions of qualified medical professionals but will not "outsource" its adjudicatory responsibility or authority to them).
+
+Here, the Board notes the Veteran initially submitted a claim for service connection for bilateral hearing loss at separation from service in February 1985. The Veteran submitted supplemental claims for service connection for bilateral hearing loss in June 2015, March 2016, and most recently in September 2022. Thus, the Board finds the Veteran's report regarding the onset and continuation of symptoms to be competent and credible, particularly because the record does not show that there has been an intervening event.
+
+ Accordingly, the Board finds the Veteran's bilateral hearing loss had its onset in service, and therefore it is service connected. See 38 C.F.R. § 3.303(a) ("Service connection connotes many factors but basically it means that the facts, shown by evidence, establish that a particular injury or disease resulting in disability was incurred coincident with service in the Armed Forces[.]"); Flynn v. Brown, 6 Vet. App. 500, 503 (1994).
+
+This appeal is granted.
+
+ 
+
+ 
+
+Timothy Cothrel
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	I. Duclos
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

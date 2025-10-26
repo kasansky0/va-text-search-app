@@ -1,0 +1,189 @@
+Citation Nr: A25034399
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240826-466705
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for gastroesophageal reflux disease (GERD) is granted.
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is granted.
+
+REMANDED
+
+Entitlement to service connection for headaches is remanded.
+
+FINDINGS OF FACT
+
+1. The credible medical opinion of record establishes that medication taken for the Veteran's service-connected musculoskeletal disabilities caused his GERD, and that the Veteran's service-connected musculoskeletal disabilities caused him to become?obese; that?obesity?was a substantial factor in causing his GERD; and that the Veteran's GERD would not have occurred but for the?obesity; and that the Veteran's GERD is related to medications taken for his service-connected musculoskeletal disabilities. 
+
+2. The credible medical opinion of record establishes that the Veteran's service-connected musculoskeletal disabilities caused him to become?obese; that?obesity?was a substantial factor in causing his OSA; and that the Veteran's OSA would not have occurred but for the?obesity. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for GERD have been met. 38?U.S.C. §§?1110, 5107; 38?C.F.R. §§?3.102, 3.303, 3.304, 3.310. 
+
+2. The criteria for entitlement to service connection for OSA have been met. 38?U.S.C. §§?1110, 5107; 38?C.F.R. §§?3.102, 3.303, 3.304, 3.310. 
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from November 2002 to November 2006. 
+
+The Veteran's claims regarding GERD and headaches come before the?Board of Veterans' Appeals?(Board) on appeal from a December 2023 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO). The Veteran's claim regarding OSA comes before the Board on appeal from a September 2023 rating decision. 
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the December agency of original jurisdiction (AOJ) decision on appeal regarding GERD and headaches. The Board may only consider the evidence of record at the time of the September 2023 AOJ decision regarding OSA. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to service connection for headaches, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Entitlement to service connection for GERD
+
+The Veteran contends that his currently diagnosed GERD was caused either by medications he takes to treat his service-connected musculoskeletal conditions or by obesity caused by those musculoskeletal conditions.
+
+Generally, in order to prove service connection, a Veteran must show: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service, the so-called "nexus" requirement.  See Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004). 
+
+Service connection may also be established on a secondary basis for a disability which is proximately due to or the result of a service-connected disease or injury.  38 C.F.R. § 3.310(a).  Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) proximately caused by or (b) proximately aggravated by a service-connected disability.  Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).  
+
+The general requirements for direct and secondary service connection notwithstanding,?obesity?is not considered a disease or disability for VA purposes and is not subject to service connection. See Marcelino v. Shulkin,?29?Vet. App.?155?(2018). VA's Office of General Counsel (OGC) issued a precedential opinion addressing questions regarding whether?obesity?may be considered a "disease" for the purposes of service connection under?38?U.S.C. §§?1110?and 1131, and whether?obesity?may be considered a disability for purposes of secondary service connection. In general,?VAOPGCPREC 1-2017?concludes that?obesity?per se is not a disease or injury for purposes of?38?U.S.C. §§?1110?and 1131 and, therefore, may not be service connected on a direct or secondary basis. 
+
+However, the opinion noted that?obesity?may be an "intermediate step" between a service-connected disability and a current disability that may be connected on a secondary basis. To meet this criterion, the Veteran must demonstrate that a previously service-connected disability caused him to become?obese; that?obesity?was a substantial factor in causing the secondary disability; and the secondary disability would not have occurred but for the?obesity.?VAOPGCPREC 1-2017?(January 6, 2017); see also Walsh v. Wilkie,?32?Vet. App.?300, 306?(2020). 
+
+The RO conceded a current diagnosis of GERD in the December 2023 rating decision. The October 2023 VA examination noted a current diagnosis of GERD. Under the AMA, the Board is bound by the AOJ's favorable findings. 38?C.F.R. §?3.104(c).
+
+The Veteran is service connected for lumbar strain and bilateral sciatic peripheral neuropathy. 
+
+In September 2023, the Veteran stated that he took a variety of medications, including ibuprofen, Motrin, Aleve, and diclofenac, for his service-connected conditions. He began to experience symptoms of GERD after taking those medications on a routine basis. Those symptoms, including heartburn with acid reflux, regurgitation of stomach contents, difficulty swallowing, feeling a lump in his throat, upper abdominal pain, and dark colored stool once per day, continued to the present day. 
+
+The Veteran submitted a private medical opinion authored by A.M., a nurse practitioner, in September 2023. A.M. opined that the Veteran's GERD was secondary to, related to, and/or aggravated by his service-connected conditions with subsequent weight gain and chronic non-steroidal anti-inflammatory drug (NSAID) use. A.M. noted that the Veteran used NSAIDs to treat pain and inflammation from his service-connected musculoskeletal conditions. The Veteran's GERD developed after regular use of these drugs. Medical literature established that patients who routinely took NSAIDS had greater lower esophageal sphincter pressure and a less severe intraesophageally pH profile. This led to delayed closing of the lower esophageal sphincter, allowing the passage of gastric content into the esophagus. NSAIDS also damaged gastric mucosal tissue, which allowed back-diffusion of acid into the mucosa. NSAID use was a significant risk factor for the development of GERD. 
+
+A.M. also noted that the Veteran was unable to be as active as he once was due to his service-connected musculoskeletal conditions. Due to this, he progressively gained weight. Veterans with lower back problems engaged in less aerobic fitness for fear of re-injury, and joint pain, knee stiffness, and muscle weakness led to a more sedentary lifestyle with associated weight gain. The Veteran weighed 130 pounds when he joined the military, 165 pounds when he separated from the military, and 200 pounds at the time of the opinion. His body mass index met the CDC national standard for obesity. The Veteran's obesity chronologically developed after his in-service musculoskeletal injuries. Weight gain increased intra-gastric pressure due to the force of adipose tissue around the abdominal cavity. This increased pressure manifested in anatomical derangement of the lower esophageal sphincter and gastroesophageal junction, compromising acid clearance and facilitating the development of GERD. 
+
+A.M. concluded that the Veteran's musculoskeletal injuries led to decreased activity, which in turn caused weight gain and obesity. The Veteran's obesity facilitated the development of GERD. Finally, it was at least as likely as not that the Veteran would not have developed GERD if not for his obesity. 
+
+A.M. is competent to form the opinion provided. The opinion is credible because it is based on the Veteran's statement and an in-depth discussion of medical literature addressing both links between NSAID use and musculoskeletal injuries and associated weight gain to the development of GERD. The Board therefore assigns it high weight. 
+
+In October 2023, the Veteran underwent a VA examination. The VA examiner formed the opinion that it was less likely than not that the Veteran's GERD was due to or a result of the Veteran's service-connected conditions. The examiner noted that GERD was caused by incompetence of the lower esophageal sphincter leading to a backflow of stomach contents into the esophagus. Medical literature and the Veteran's history established risk factors of diet, weight gain, and NSAID use. The examiner stated that there was no direct pathway between lumbar strain and the development of GERD. The Veteran's diagnosis was multifactorial based on his risk factors. 
+
+The October 2023 VA examiner is competent to form the opinion rendered. The opinion conceded that NSAID use and weight gain were risk factors for the development of GERD, but relied primarily on the lack of a direct link between lumbar strain and GERD in forming the opinion. The examiner did not address the argument made in the September 2023 private opinion that NSAID use for the Veteran's service-connected conditions led to his development of GERD. The examination therefore has little credibility, and the Board assigns it low weight. 
+
+The credible medical opinion of A.M. therefore establishes that the Veteran's service-connected musculoskeletal disabilities caused him to become?obese; that?obesity?was a substantial factor in causing his OSA; and that the Veteran's GERD would not have occurred but for the?obesity. The opinion also establishes that the Veteran's GERD is related to medication taken for the Veteran's service-connected musculoskeletal disabilities. Accordingly, service connection for GERD is granted. 
+
+2. Entitlement to service connection for OSA
+
+The Veteran contends that his service-connected musculoskeletal conditions keep him from exercising, leading to weight gain, which in turn caused his OSA.
+
+The RO conceded a current diagnosis of OSA in the September 2023 rating decision. The June 2023 VA examination diagnosed OSA. Under the AMA, the Board is bound by the AOJ's favorable findings. 38?C.F.R. §?3.104(c).
+
+As noted above, the Veteran is service connected for lumbar strain and bilateral sciatic peripheral neuropathy. 
+
+The Veteran submitted a statement in support of his claim in June 2023, in which he asserted that his service-connected musculoskeletal disabilities prevented him from exercising. He weighed 130 pounds when he entered the military, weighed 170 pounds when he left the military, and currently weighed 195 pounds.
+
+In June 2023, the Veteran submitted a private medical opinion written by K.M., a family nurse practitioner. K.M. formed the opinion that it was at least as likely as not that the Veteran's weight gain was due to or related to his service-connected musculoskeletal disabilities; it was at least as likely as not that the Veteran's OSA was secondary to, related to, and/or aggravated by this weight gain; and that it was at least as likely as not that without the Veteran's weight gain, his OSA would not have occurred.  
+
+K.M. noted the Veteran's statements regarding weight gain since leaving the military. His body mass index met the national standard for obesity. This progressive weight gain occurred after musculoskeletal symptoms related to his service-connected conditions. Due to pain from his service-connected conditions, the Veteran was unable to be as active as he had been, and he gained weight. 
+
+Fat around the pharyngeal airway increases its collapsibility. Fat around the abdomen also reduces lung volume. Obesity was also associated with functional impairment and weakening of the upper airway muscles. Obesity was one of the leading risk factors for the development of OSA. 
+
+K.M. is competent to form the opinion offered. The opinion is credible because it is based upon the Veteran's statements and a detailed review of medical literature. The Board assigns it high weight. 
+
+In September 2023, the Veteran underwent a VA examination. The examiner opined that it was less likely than not that the Veteran's OSA was due to or the result of a service-connected condition. The examiner noted that OSA was caused by obstruction of the upper airway, which caused airway collapse and inadequate oxygenation. This process was unrelated to the Veteran's service-connected musculoskeletal conditions. The examiner stated that the most common cause of OSA in adults was obesity. The Veteran was overweight, and this was the most likely cause of his OSA. 
+
+Obesity itself was generally caused by eating too much and moving too little, combined with inherited factors and environmental conditions. Certain exercises could be performed without involving injured joints, and exercise, stretching, and walking could be performed in the presence of injured joints. The examiner stated that there was no evidence in the record that the Veteran was not capable of performing at least some type of exercise. His muscle strength was normal and he had no ankylosis. The Veteran did not use an assistive device for ambulation, and the examiner noted that walking was one of the best forms of exercise.
+
+The September 2023 VA examiner is competent to form the opinion offered. The examiner addressed the role of obesity in the development of OSA. The examiner appears to have considered whether obesity was a substantial factor in causing the Veteran's OSA and whether his OSA would not have developed but for the obesity, as required by VAOPGCPREC 1-2017. However, the Board is not convinced by the examiner's rationale regarding whether the Veteran's service-connected musculoskeletal disabilities caused him to become?obese. It is unclear what evidence underpins the examiner's conclusion that the Veteran was able to walk and perform other exercises. A VA examination related to the Veteran's back, completed in April 2023, noted that the Veteran was unable to walk for long periods of time. The Veteran also had trouble walking, sitting, and standing during flareups of his back condition. Accordingly, the Board cannot accept the examiner's conclusion that the Veteran's obesity was caused by overeating and a lack of exercise, when the Veteran's service-connected musculoskeletal disabilities clearly impact his ability to perform a variety of movements. The opinion is therefore not credible, and the Board assigns it little weight. 
+
+VA also obtained an opinion regarding direct service connection in June 2023; however, the Veteran does not assert that his OSA was directly incurred in or caused by service. The Board will therefore not assess the credibility of the opinion. 
+
+The credible medical opinion of K.M. therefore establishes that the Veteran's service-connected musculoskeletal disabilities caused him to become?obese; that?obesity?was a substantial factor in causing his OSA; and that the Veteran's OSA would not have occurred but for the?obesity. Accordingly, service connection for OSA is granted. 
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for headaches is remanded.
+
+The Veteran contends that his headaches are related to service. Since he originally filed a service connection for headaches claim in May 2020, the Veteran has advanced three theories of entitlement: that his headaches are related to environmental hazards during Gulf War service, that they are directly related to headaches suffered in service, and that they are related on a secondary basis to his service-connected tinnitus.
+
+The Veteran is currently diagnosed with a headache condition. A VA examination in early July 2021 diagnosed tension headaches. A VA examination conducted at the end of July 2021 diagnosed migraines. An October 2023 VA examination diagnosed migraines. The RO conceded a current diagnosis in the December 2023 rating decision. This finding is binding upon the Board. 38?C.F.R. §?3.104(c).
+
+The Veteran's first theory of entitlement was not considered by the RO. 
+
+In August 2022, the President signed into law the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxins Act of 2022,?Pub. L. No. 117-168,?136 Stat. 1759?(2022) (commonly known as the "Honoring Our PACT Act of 2022" or "PACT Act"). In pertinent part, the Act established a lower threshold to obtain examinations or medical opinions under VA's duty to assist for veterans with presumed toxic exposures or who participated in toxic exposure risk activities (TERA) in service.?38 U.S.C. § 1168. 
+
+The PACT Act provides that VA is required to obtain a medical opinion where (1) the Veteran has evidence of a disability, (2) there is evidence of participation in a TERA, and (3) the evidence is not sufficient to establish service connection for the disability. 38 U.S.C. § 1168(a).
+
+A toxic exposure risk activity (TERA) memorandum was generated by VA in September 2023. The memorandum concluded that the Veteran did not participate in a TERA during military service.
+
+This conclusion is at odds with the circumstances of the Veteran's service. The Veteran's service personnel records indicate that he worked in aircraft maintenance aboard an aircraft carrier. His duties included participating in aircraft launch and recovery activities aboard the carrier. He therefore would be expected to be exposed to fuels, lubricants, exhaust, and other potentially toxic substances associated with aircraft maintenance and operation. 
+
+Because the Veteran has a current disability and evidence of participation in a TERA, and the evidence is not sufficient to establish service connection, a TERA opinion is warranted. Failure to obtain such an opinion constitutes a pre-decisional duty to assist error, and remand is necessary to remedy this error.
+
+A veteran is considered to have been in sound condition when examined, accepted and enrolled for service, except as to defects, infirmities, or disorders noted at entrance into service, unless clear and unmistakable evidence demonstrates that an injury or disease existed before acceptance and enrollment and was not aggravated by such service. 38 U.S.C. § 1111. This presumption attaches only where there has been an induction examination in which the later complained-of disability was not detected. See Bagby v. Derwinski, 1 Vet. App. 225, 227 (1991). The regulation provides expressly that the term "noted" denotes "[o]nly such conditions as are recorded in examination reports," 38 C.F.R. § 3.304 (b), and that "[h]istory of pre-service existence of conditions recorded at the time of examination does not constitute a notation of such conditions." Id. at (b)(1).
+
+If a disorder was not "noted" on entering service, VA must show clear and unmistakable evidence of both a preexisting condition and a lack of in-service aggravation to overcome the presumption of soundness. A lack of aggravation may be shown by establishing that there was no increase in disability during service or that the "increase in disability [was] due to the natural progress of the preexisting condition." 38 C.F.R. § 3.306 ; Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004). If VA fails to rebut the presumption of soundness, the claim is one for service connection, not aggravation. Wagner, 370 F.3d at 1097.
+
+Clear and unmistakable evidence is defined as obvious or manifest. 38 C.F.R. § 3.306 (b). Clear and unmistakable evidence means that the evidence "cannot be misinterpreted and misunderstood, i.e., it is undebatable." Quirin v Shinseki, 22 Vet. App. 390, 396 (2009).
+
+As an initial matter, headaches were not "noted" on the Veteran's entrance examination. The January 2002 entrance examination notes that the Veteran's head and neurologic system were normal. He was ultimately medically cleared to enlist. 
+
+The Veteran reported a history of headaches during the January 2002 entrance examination. He did not explain the nature of this history at the time of the examination, and the remainder of the examination does not reflect that a physician inquired further. 
+
+The Veteran's report of his own medical history at the time of his entrance examination does not constitute "notation" of a headache condition for the purposes of 38 C.F.R. § 3.304 (b)(1). The analysis therefore turns to whether the Veteran's headaches clearly and unmistakably pre-dated his service.
+
+A history of migraines was included in a list of the Veteran's chronic illnesses found on an undated preventive and chronic care worksheet completed during the Veteran's service. In September 2005, the Veteran reported that he got migraines from the ages of six to fourteen. He did not have further migraines after the age of fourteen. In October 2006, the Veteran reported that when he was six years old, he was diagnosed with migraines. 
+
+In June 2022, the Veteran submitted a statement regarding his headaches. He stated that he was diagnosed with migraines when he was six years old, but by the time he was 17, they had stopped. As a child, he was treated with numerous medications and diet changes, which did not help. During the July 2021 VA examination, the Veteran reported that he had headaches as a child, which then stopped for 10 to 15 years. His headaches resumed around 2003.
+
+The July 2021 examiner concluded that it was less likely than not that the Veteran's headaches were incurred in or caused by an in-service event, injury or illness. The examiner noted the history of headaches found in the Veteran's service treatment records, and determined that because these headaches pre-dated his service, they could not be related to service. 
+
+In August 2021, VA obtained an addendum opinion. The examiner concluded that the Veteran's headache condition, which clearly and unmistakably existed prior to service, was clearly and unmistakably not aggravated beyond its natural progression by an in-service injury, event, or illness. The examiner stated that the Veteran's current headaches occurred once per week and were controlled by over the counter medication. This constituted natural progression of the condition, and did not constitute aggravation. 
+
+The July 2021 and August 2021 VA examiners are competent to form their conclusions. While the August 2021 correctly used the clear and unmistakable standard language when stating that the Veteran's headaches preexisted his service, no rationale or explanation was provided in support of that conclusion. As noted above, the only evidence of headaches which preexisted service is the Veteran's own statements. 
+
+There is no medical evidence in the record establishing an exact diagnosis of the Veteran's headaches prior to service. The Veteran reported migraines, but in the absence of a diagnosis, it is not clear whether the Veteran in fact suffered from migraines, or whether he used that term colloquially to mean severe headaches. This is especially relevant in light of the fact that VA physicians diagnosed two different headache conditions during examinations in July 2021 and October 2023. If the Veteran's current diagnosis is different from his unknown childhood diagnosis, then his current headaches cannot have preexisted service. The Veteran also consistently reported a gap of time between his childhood headaches and headaches which had their onset in the military, suggesting that a new headache condition may have developed during service. 
+
+The evidence, or lack thereof, regarding the Veteran's childhood headaches cannot constitute clear and unmistakable evidence that his headaches preexisted service, and the Board does not find such a conclusion on the part of the VA examiners to be credible. 
+
+Because the Veteran's current headache condition did not clearly and unmistakably preexist service, his claim is one for direct service connection, not aggravation. See Wagner, 370 F.3d at 1097. No opinion regarding direct service connection has been obtained to date. This constitutes a pre-decisional duty to assist error, and remand is necessary to remedy this error. 
+
+Evidence regarding direct service connection is found in the record. In service treatment records from November 2002, the Veteran reported that he got migraines once every three or four months. These headaches were very occasional at the time of the examination. During an August 2004 medical evaluation, the Veteran denied frequent headaches. In September 2005, the Veteran reported occasional headaches occurring once every few months. In October 2006, the Veteran reported that he got headaches from time to time, though they were rare. In July 2021, the Veteran's mother submitted a statement that the Veteran's headaches occurred while he was in the service, and continued afterwards. In June 2022, the Veteran submitted a statement regarding his headaches. His headaches resumed when he was almost 20 years old and in the military. He associated their onset with the stress of military service. 
+
+In August 2023, the Veteran submitted another statement in support of his claim. He stated that his service-connected tinnitus caused stress, which preceded headaches. Tinnitus caused a lack of sleep, which led to headaches. 
+
+The Veteran submitted a private medical opinion in August 2023, which was written by D.L., an advanced practice registered nurse. D.L. concluded that it was at least as likely as not that the Veteran's migraines were secondary to, related to, and/or aggravated by his service-connected tinnitus. D.L. noted that migraine sufferers were found to have a high rate of tinnitus. Studies suggested a relationship between the two conditions, though a causal pathway had not been identified. Links between the two conditions were only hypothetical. As one of the cited studies stated, "Both disorders may be linked by common pathophysiological mechanisms." One of the studies cited noted that further research was needed to explore hypotheses regarding the impact of anti-migraine treatment on tinnitus. Nevertheless, D.L. concluded that it was "plausible" that the Veteran's tinnitus, at the very least, aggravated his migraines.
+
+D.L. is competent to form the opinion provided. However, the opinion acknowledges that medical knowledge regarding the relationship between tinnitus and headaches is speculative. A speculative medical opinion regarding causation cannot serve to establish a medical nexus between a diagnosed condition and service. See McLendon v. Nicholson, 20 Vet. App. 79, 85 (2006). It is also unclear which way the causal pathway between tinnitus and headaches runs. One of the studies cited in support of the opinion addresses the impact of headache treatment on tinnitus. The relevant causal inquiry in the instant case is what impact tinnitus has on headaches. The Board therefore cannot rely on D.L.'s opinion in order to grant service connection.   
+
+In October 2023, the Veteran underwent another VA examination. The examiner diagnosed migraine headaches. The Veteran stated that his condition had its onset in 2004. His headaches occurred a couple of times per week for a period of time, and could be dormant for up to a month. His headaches could last from a few hours to an entire day. The Veteran's headaches were typically on the right side of his head, and included stabbing pain, sensitivity to light and noise, and nausea. His condition had stayed the same since onset. 
+
+The October 2023 VA examiner opined that it was less likely than not that the Veteran's headaches were due to or the result of the Veteran's tinnitus. Medical research had showed a link between the two conditions that did not establish cause and effect. There were various hypotheses regarding the co-existence of tinnitus and headaches, but research had not yet established a causal link between the two. 
+
+The October 2023 VA examiner is competent to form the opinion rendered. The opinion is well-reasoned, and its underlying medical basis is the same as that relied upon by D.L. However, the opinion did not address aggravation. Both causation and aggravation must be addressed when conducting a secondary service connection analysis in any claim for benefits, and both must be addressed in any medical opinion concerning secondary service connection. El-Amin v. Shinseki, 26?Vet. App.?136, 140 (2013). The opinion is therefore inadequate. Once VA obtains an opinion, it must be adequate. Barr v. Nicholson, 21 Vet. App. 303 (2007). Accordingly, the failure to provide an opinion as to whether the Veteran's migraine headaches were aggravated by his service-connected tinnitus constitutes a pre-decisional duty to assist error. Remand is necessary to obtain an addendum opinion to remedy this error.
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum opinion regarding the Veteran's headaches. The opinion should address the following questions:
+
+(a.) Is it at least as likely as not that the Veteran's currently diagnosed headaches were caused by toxic exposure risk activities, after considering the total potential exposure through all applicable military deployments of the veteran and the synergistic, combined effect of all toxic exposure risk activities of the veteran? Note the Veteran's military duties were in aircraft maintenance aboard an aircraft carrier.
+
+(b.) Is it at least as likely as not that the Veteran's currently diagnosed headaches incurred during service, or are otherwise directly related to service?
+
+(c.) Is it at least as likely as not that the Veteran's currently diagnosed headaches were aggravated by another service-connected condition, including tinnitus? Note that aggravation in this context means any incremental increase in the non-service-connected disability (i.e., any additional impairment of earning capacity)?caused by the service-connected disability.
+
+Note?that the?lack?of documented treatment in service, or a long period after, while probative, cannot serve as the sole basis for a negative finding. The Veteran's lay contentions, including statements made in July 2021 and June 2022, must be considered and weighed in making the determination. The examiner should also consider notations regarding headaches found in service treatment records from November 2002, August 2004, September 2005, and October 2006.
+
+The examiner is asked to explain the reasons behind any opinions expressed and conclusions reached. The examiner is reminded that the term "as likely as not" does not mean "within the?realm?of medical possibility," but rather that the likelihood is at least approximately balanced or nearly equal, if not higher. 
+
+ 
+
+ 
+
+Bethany L. Buck
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Gibbons, Douglas K.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

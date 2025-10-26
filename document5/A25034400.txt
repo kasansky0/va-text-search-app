@@ -1,0 +1,71 @@
+Citation Nr: A25034400
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 241018-483080
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for tinnitus is granted.
+
+FINDING OF FACT
+
+The Veteran experienced ringing in his ears associated with tinnitus in service with continuity ever since.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for tinnitus have been met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the United States Air Force from November 1983 to October 1994.
+
+This appeal comes to the Board of Veterans' Appeals (Board) from a Department of Veterans Affairs (VA) August 2024 rating decision of the Agency of Original Jurisdiction (AOJ).
+
+In October 2024 the Veteran filed his VA Form 10182 Notice of Disagreement, electing the Direct Review docket. Therefore, the Board may only consider evidence that was before the AOJ at the time of the August 2024 rating decision. Any evidence submitted outside the permitted window cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider the additional evidence that the Board could not consider, he may file a supplemental claim (VA Form 20-0995) and identify the evidence for the AOJ's consideration. 38 C.F.R. § 3.2501. Specific instructions for filing a supplemental claim are included with this decision.
+
+1. Entitlement to service connection for tinnitus
+
+The Veteran contends that his tinnitus is caused by, or otherwise had its onset during, his active-duty service. See October 2024 VA Form 10182. For the reasons addressed below, the Board agrees.
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Alternatively, service connection for certain chronic diseases, including organic disease of the nervous system, may be established under 38 C.F.R. § 3.303(b) by evidence of (i) the existence of a chronic disease in service or during an applicable presumption period under 38 C.F.R. § 3.307, (ii) present manifestations of the same chronic disease, and (iii) evidence of continuity of symptomatology. 38 C.F.R. §§ 3.307, 3.309; Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+Tinnitus is "a noise in the ear, such as ringing, buzzing, roaring, or clicking." See Dorland's Illustrated Medical Dictionary 1956 (31st ed. 2007). Because of its inherently subjective nature, a layman such as the Veteran is considered competent to report the observable manifestations of tinnitus. Charles v. Principi, 16 Vet. App. 370 (2002) (holding that tinnitus is subjective and the kind of condition lay testimony is competent to describe).
+
+The Veteran's post-service medical records show a diagnosis of tinnitus. See July 2024 Medical Treatment Record. Furthermore, the Veteran's military occupational specialty (MOS) was that of an Air Transportation Journeyman, which involved working on and around the flight line, and thus being exposed to noises from plane engines and other machinery. Therefore, the Veteran's in-service acoustic trauma is conceded. As such, the first two Shedden elements necessary to establish service connection have been met.
+
+The Board notes that the Veteran's service treatment records (STRs) are negative for complaints of, or treatment for, hearing problems. However, in a vacuum, the absence of evidence is not evidence of absence. See Hensley v. Brown, 5 Vet. App. 155, 159-60 (1993); see also Fountain v. McDonald, 27 Vet. App. 258, 272-75 (2015). In October 2023, the Veteran explained that he was unaware tinnitus was a disability at all, and did not know he could file a claim for it. See October 2023 VA Form 21-4138. The Board accepts this argument as a reason for the Veteran not reporting his symptoms in-service.
+
+In that same October 2023 statement, the Veteran explained that he was often around loud aircraft on and off the flightline. He also stated that he began experiencing symptoms and that they have been constant "ever since service." Id. At his November 2023 VA examination, the Veteran made a similar report, stating that his symptoms have been present "since the 1990s." See November 2023 C&P Exam. A March 2024 VA explained that "the date of onset of tinnitus is in-service." See March 2024 C&P Exam.
+
+In July 2024 the Veteran submitted a letter from Dr. A.C., a private physician who has been treating the Veteran. Dr. A.C. noted that the Veteran has sensorineural hearing loss, with a hearing test showing "noticeable" worsening at around 4000 Hz. This is "typically involved with noise exposure," as is the Veteran's tinnitus. See July 2024 Medical Treatment Record. Dr. A.C. concluded that the Veteran's tinnitus is "very likely" caused by "being exposed to jet engines during his time in the Air Force." Id. 
+
+The Board notes that the VA examinations of record are inadequate for adjudication. The November 2023 VA examiner failed to address the Veteran's lay statements of the onset of symptoms, which he is competent to report. See Charles, supra; see also Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007). Rather, the examiner tied the etiology of the Veteran's tinnitus to his hearing loss, which is an incorrect legal standard. As the VA examiner failed to address competent and probative lay evidence, and applied the incorrect standard for her conclusion, the opinion of the November 2023 VA examiner is inadequate for adjudication. Barr v. Nicholson, 21 Vet. App. 303 (2007).
+
+Similarly, the opinion of the March 2024 VA examiner is inadequate for adjudication. As with the November 2023 examiner, the March 2024 examiner failed to address the Veteran's lay statements regarding the onset and continuity of his symptoms. Second, the March 2024 VA examiner explained that the Veteran's tinnitus is more likely due to hearing loss, though the examiner did not conduct any audiometric testing to determine the type or severity of any hearing impairment. As the examiner failed to address the Veteran's lay statements, and rendered her conclusion without supporting test results or other evidence, the opinion of the March 2024 VA examiner is inadequate for adjudication. Barr, supra.
+
+In sum, as the VA opinions of record did not acknowledge the Veteran's credible reports of tinnitus onset in service and chronicity since, they are inadequate and of no probative value.
+
+(Continued on the next page)
+
+?
+
+The Board finds that the competent and probative evidence shows that the Veteran's tinnitus began during his active duty service and has continued ever since. Specifically, it began after years of exposure to aircraft engines and related acoustic trauma. The Board finds that the Veteran has provided competent and credible evidence regarding continuity from incurrence of the tinnitus while in service to the present. The evidence shows that the Veteran's tinnitus began in service and has continued since. 38 U.S.C. § 5107; 38 C.F.R. § 3.102. Accordingly, service connection for tinnitus is warranted. The Veteran's claim is granted.
+
+ 
+
+ 
+
+T. V. Casey
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Neville, Mikael
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

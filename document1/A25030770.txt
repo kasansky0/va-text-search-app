@@ -1,0 +1,91 @@
+Citation Nr: A25030770
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240703-453748
+DATE: April 3, 2025
+
+ORDER
+
+Entitlement to a rating in excess of 50 percent for obstructive sleep apnea (OSA) with chronic obstructive pulmonary disease (COPD) with dyspnea, is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's OSA has not resulted in chronic respiratory failure with carbon dioxide retention, or cor pulmonale, or a required tracheostomy.
+
+2. The evidence shows the Veteran's COPD was manifested, at worst, in a Forced Vital Capacity in one second (FEV-1) of 77 percent.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a rating in excess of 50 percent for OSA are not met.  38 U.S.C. §§ 1155, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 4.1, 4.3, 4.7, 4.97, Diagnostic Code (DC) 6847.
+
+2. Entitlement to separate disability ratings for OSA and COPD is not permitted as a matter of law.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.96, 4.97, DC 6604-6847.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 1986 to July 1990 and September 2010 and July 2011.
+
+These matters are before the Board of Veterans' Appeals (Board) on appeal from a July 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the July 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Entitlement to a rating in excess of 50 percent for OSA with COPD with dyspnea.
+
+The Veteran contends that his service-connected OSA with COPD with dyspnea warrants a rating in excess of 50 percent.  See July 2024 VA Form 10182 Notice of Disagreement.
+
+By way of background, this claim arises from a supplemental claim the Veteran filed in August 2021.  In the April 2022 rating decision, the AOJ granted service-connection for COPD at 0 percent while denying his claim for OSA.  Following further development, a March 2023 rating decision granted service-connection for OSA as secondary to his COPD, granting a 50 percent rating due to the Veteran's use of a continuous airway pressure (CPAP) machine, effective August 5, 2022.  A July 2023 rating decision continued the Veteran's rating of 50 percent for his OSA with COPD.  Finally, a July 2024 rating decision granted an earlier effective date for the Veteran's OSA with COPD at 50 percent effective August 31, 2021.  The Board notes that while the July 2024 rating decision is a procedural matter and relevant to this instant claim only as to the effective date.  See August 2021 VA Form 20-0995 Supplemental Claim Application; April 2022, March 2023, July 2023, and July 2024 Rating Decision - Narrative.
+
+As an initial matter, the Board notes that the Veteran failed to report for his scheduled July 2023 VA examination regarding his COPD.  See May 2023 Examination Request.
+
+When a claimant, without good cause, fails to report for an examination scheduled in conjunction with an original compensation claim, the claim shall be rated based on the evidence of record.  38 C.F.R. § 3.655(b).  Examples of good cause include, but are not limited to, the illness or hospitalization of the claimant and death of an immediate family member.  38 C.F.R. § 3.655(a).
+
+In this case, the RO submitted an examination request in late May 2023 in order to determine the Veteran's COPD level of severity, following the Veteran's May 2023 VA examination for OSA, which did not address his COPD.  The Veteran's VA examination for his COPD was cancelled due to the failure of the Veteran to RSVP by June 2023.  See May 2023 Examination Request; July 2023 C&P Examination.
+
+The Veteran has not provided any explanation for why he failed to RSVP for his examination.  As a result, good cause is not shown, and the claim will be rated based on the evidence of record.  38 C.F.R. § 3.655(b).
+
+Turning to the merits of the case, VA regulations do not allow certain respiratory disorders, to include COPD (DC 6604) and OSA (6847) to be combined with each other.  Instead, a single rating will be assigned under the diagnostic code that reflects the predominant disability with elevation to the next higher evaluation where the severity of the overall disability warrants such elevation.  This means, VA will evaluate coexisting service-connected respiratory conditions covered by 38 C.F.R. § 4.96 under the predominant disability's rating criteria.  Urban v. Shulkin, 29 Vet. App. 82, 89, 90-91 (2017).
+
+Regarding OSA, under DC 6847, a 50 percent rating is warranted for sleep apnea requiring use of a breathing assistance device such as a CPAP machine.  See 38 C.F.R. § 4.97, DC 6847.  The next highest rating, 100 percent, is warranted for sleep apnea with chronic respiratory failure with carbon dioxide retention, or cor pulmonale, or requiring a tracheostomy.  Id.
+
+Regarding COPD, under 6604, a 10 percent rating is assigned for FEV-1 of 71 to 80 percent predicted, or; FEV-1 to Forced Vital Capacity (FEV-1/FVC) or 71 to 80 percent, or; Diffusion Capacity of the Lung for Carbon Monoxide by Single Breath Method (DLCO (SB)) 66 to 80 percent predicted.
+
+The next higher rating under DC 6604, is a 30 percent rating.  A 30 percent rating is assigned for FEV-1 of 56- to 70-percent predicted, or; FEV-1/FVC of 56 to 70 percent, or; DLCO (SB) 56- to 65-percent predicted.  The next higher rating, a 60 percent rating, is assigned for FEV-1 of 40- to 55-percent predicted, or; FEV-1/FVC of 40 to 55 percent, or; DLCO (SB) of 40- to 55-percent predicted, or; maximum oxygen consumption of 15 to 20 ml/kg/min (with cardiorespiratory limit).  The next higher rating under DC 6604 is a 100 percent rating. A 100 percent rating is assigned for FEV-1 less than 40 percent of predicted value, or; FEV-1/FVC less than 40 percent, or; DLCO (SB) less than 40-percent predicted, or; maximum exercise capacity less than 15 ml/kg/min oxygen consumption (with cardiac or respiratory limitation), or; cor pulmonale (right heart failure), or; right ventricular hypertrophy, or; pulmonary hypertension (shown by Echo or cardiac catheterization), or; episode(s) of acute respiratory failure, or; requires outpatient oxygen therapy.
+
+Pulmonary function testing (PFT) results are generally reported before and after the administration of bronchodilator therapy. When evaluating based on PFTs, post-bronchodilator results are to be utilized in applying the evaluation criteria in the Rating Schedule unless the post-bronchodilator results were poorer than the pre-bronchodilator results. In those cases, the pre-bronchodilator values are to be used for rating purposes. 38 C.F.R. § 4.96 (d)(5).
+
+VA treatment records show a November 2021 spirometry showed mild obstructive airways disease with a FEV-1 of 88 percent predicted.  See February 2023 CAPRI.
+
+The Veteran was afforded a VA examination in December 2021 for his COPD.  The Veteran reported that he had difficulty with showering, having to use his inhaler before he showered.  He also had difficulty walking up a flight of steps; knee pain; and was on Social Security Administration (SSA) disability benefits because he could not do required physical work.  He further stated he had difficulty with moderate physical activity. The Veteran's PFTs revealed that the Veteran's FVC pre-bronchodilator was 80 percent predicted, and 91 percent post-bronchodilator predicted. Additionally, the Veteran's FEV-1 pre-bronchodilator was 77 percent predicted, and 88 percent predicted post-bronchodilator. FEV-1/FVC was 95 percent, both pre- and post-bronchodilator. Finally, DLCO was 119 percent predicted pre-bronchodilator; no percentage was provided post-bronchodilator. Notably, the examiner found that FEV-1 results most accurately reflect the Veteran's level of disability.
+
+A May 2023 VA examination for OSA showed that the Veteran reported symptoms of excessive daytime sleepiness, insomnia, sleep deprivation, and snoring, and required the use of a CPAP machine.  The Veteran had persistent daytime hypersomnolence, but no carbon dioxide retention; chronic respiratory failure; cor pulmonale; or need for tracheostomy.  See May 2023 C&P Examination.
+
+Upon review, the Board finds that a rating in excess of 50 percent for OSA with COPD is not warranted during the period on appeal.  Regarding OSA, the Veteran does not have OSA with carbon dioxide retention; chronic respiratory failure; cor pulmonale; or need for tracheostomy, criteria necessary for a 100 percent rating under DC 6847.  Regarding COPD, the Veteran's FVC was, at worst, 91 percent; FEV-1 was, at worst, 88 percent predicted; and FEV-1/FVC was, at worst, 95 percent predicted.  However, as the Veteran is already in receipt of 50 percent disability for his OSA under DC 6847, a separate rating for COPD is not allowed by law.  38 C.F.R. § 4.96 provides that OSA and COPD must be evaluated under the diagnostic code of the predominant disability, which in the Veteran's case, is OSA.  See also Urban, 29 Vet. App. at 89, 90-91.
+
+When looking at the effects of his COPD and OSA individually, it is apparent to the Board the predominant disability is OSA.  His COPD impacts his physical abilities in that he reported during his December 2021 VA examination that he had shortness of breath doing moderate physical activity, to include showering and walking up stairs.  But OSA impacts his nightly ability to sleep, requires the use of a CPAP, and causes excessive daytime sleepiness (persistent daytime hypersomnolence), insomnia, sleep deprivation, and snoring.
+
+As noted, Veteran's COPD symptomatology does not warrant a greater than 50 percent rating for OSA under the provisions of 38 C.F.R. § 4.96. Given that OSA affects his nightly sleep and causes excessive daytime sleepiness, and there is no evidence showing his COPD symptoms pose greater limitations, a rating greater than 50 percent based on his overall disability picture is not warranted.
+
+(Continued on the next page)
+
+?
+
+The Board notes that the Veteran is competent to report the frequency, severity, and duration of his respiratory symptoms, he does not have the medical expertise to provide an objective measurement of his respiratory disability which is based upon very specific testing results. See Jandreau v. Nicholson, 492 F. 3d 1372 (Fed. Cir. 2007).
+
+Accordingly, although the Veteran is entitled to the benefit of the doubt where the evidence is in approximate balance, the benefit of the doubt doctrine is inapplicable where, as here, the weight of the evidence is against the claim for a rating in excess of 50 percent for the Veteran's OSA with COPD.  The claim is denied.  See 38 U.S.C. §5107(b); 38 C.F.R. §3.102; Lynch v. McDonough, 999 F.3d 1391, 1394 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+I. Cannaday
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Garey
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

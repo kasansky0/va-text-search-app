@@ -1,0 +1,69 @@
+Citation Nr: A25034948
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 240826-467207
+DATE: April 16, 2025
+
+REMANDED
+
+Entitlement to service connection for a low back condition is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from December 1997 to December 2001.
+
+The rating decision on appeal was issued in September 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In May 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a March 2023 decision.  In September 2023, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior March 2023 decision.  Therefore, the Board may only consider the evidence of record at the time of the March 2023 decision.
+
+In the August 26, 2024, VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the March 2023 agency of original jurisdiction (AOJ) decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of low back condition, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Entitlement to service connection for low back condition is remanded.
+
+Service connection will be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred in or aggravated by active service, even if the disability was initially diagnosed after service.  38 C.F.R. § 1110; 38 C.F.R. § 3.303.
+
+Unless the issue or issues can be granted in full, the Board shall remand the appeal to the AOJ for correction of an error on the part of the AOJ to satisfy its duties under 38 U.S.C. § 5103A, if the error occurred prior to the date of the AOJ decision on appeal.  38 C.F.R. § 20.802(a).  Additionally, the Board may remand for correction of any other error by the AOJ in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the appellant's claim.  Id.  The remand must specify the action to be taken by the AOJ.  Id.
+
+Here, the Veteran contends that he has a low back condition due to service.  See May 2022 VA Form 21-526EZ, Application for Disability Compensation and Related Compensation Benefits.  Specifically, the Veteran contends that his low back condition is due to "working in engine rooms, crawling through bilges and bending and maneuvering engine room."  See id.  Additionally, the Veteran contends that "During [his] active-duty service, [he] was seen at medical several times for Twice for back pain. Since separating from active duty, [he] continued to have varying degrees of pain and issues with [his] low back."  See May 2022 VA Form 21-4138 Statement in Support of Claim.  Additionally, the Veteran contends that due to the low back pain he "tr[ies] to avoid or limit activities that aggravate and worsen [his] pain such as prolonged walking, prolonged standing, prolonged sitting, running, jogging, using stairs, yard work, cleaning [his] house, long car rides, sports or recreational activities, lifting or carrying objects of more than low weight, sex, and exercising with weights."  See id.
+
+VA treatment records note the Veteran's complaint of low back pain.  See April 26, 2021 VA treatment note.  Accordingly, the key inquiry is whether the Veteran's low back pain complaint is related to his service.
+
+The Veteran submitted the January 2023 medical opinion of C.M.B., who provided a positive nexus opinion for the Veteran's lumbar spine condition, after reviewing "all available medical evidence of record to include the Veteran's statement which documents current reported symptoms."  As rationale, C.M.B. noted "The Veteran's statement confirms that he experienced complaints of pain while in the military establishing an in-service incurrence. The Veteran has continued to experience lumbar spine pain and impairment since his initial complaints up until the current date."  C.M.B. went on to conclude that the "Veteran's lumbar spine condition is due to, related to, a progression of, and/or a continuation of his lumbar spine condition during active-duty military service," and based the conclusion on "Veteran's current lumbar spine condition, documented complains ...statement establishing chronicity of symptoms from his initial complaint during active duty to present."
+
+However, the medical opinion is not probative for the following reasons.  C.M.B. noted "[t]he Veteran's statement confirms he experienced complaints of pain" while in service, but offers a conclusory opinion in which he does not specify what statements are being relied on or provide details regarding the alleged in-service injury.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (indicating that most of the probative value of a medical opinion comes from its reasoning).  Furthermore, C.M.B. notes the Veteran's statement established chronicity from his initial complaint to present; however, C.M.B. provides no rationale for what alleged in-service and post-service signs and symptoms indicate chronicity.  See id.
+
+VA did not provide an examination to assess the nature and etiology of his claimed low back condition during the relevant period.
+
+In McLendon v. Nicholson, 20 Vet. App. 70 (2006), the court indicated that there is a four-part test to determine whether an examination is necessary under 38 C.F.R. § 3.159(c)(4). Id. at 81. Under this test, VA will provide a medical examination or obtain a medical opinion where there is: (1) competent evidence of a current disability or persistent or recurrent symptoms of a disability; (2) evidence establishing that an event, injury, or disease occurred in service; (3) an indication that the disability or persistent or recurrent symptoms of a disability may be associated with the veteran's service or with another service-connected disability; and (4) there is insufficient competent medical evidence to make a decision on the claim. Id.
+
+Here, as noted above, VA treatment records note the Veteran's complaint of low back pain.  Additionally, as noted above, the Veteran contends that he experienced low back pain in service due to "working in engine rooms, crawling through bilges and bending and maneuvering engine room."  Thus, given the Veteran's current complaints, his report as to the onset and recurrence of his low back pain, and the private opinion indicating that there may be a relationship between the claimed disability and service, the Board finds the low threshold for determining whether a VA examination is necessary has been met.  See McLendon, supra.
+
+As such, the Board finds that the Veteran should be afforded a VA examination to assess the nature and etiology of his claimed low back condition, and the AOJ's failure to do so constitutes a pre-decisional duty to assist error. 38 C.F.R. § 20.802(a).  
+
+The matter is REMANDED for the following action:
+
+Schedule the Veteran for a medical examination from an appropriate clinician to determine the nature and etiology of his claimed low back condition.  The clinician must address the following question:
+
+(a) Opine whether it is at least as likely as not that the Veteran's low back condition had onset in service, had onset within one year of discharge from service, or is otherwise related to the Veteran's period of service. If a diagnosis cannot be provided but the Veteran has low back pain that manifests in symptoms that cause functional impairment, then the examiner should consider them a "disability" for the purpose of providing the requested opinion.
+
+The examiner is asked to explain the reasons behind any opinions expressed and conclusions reached. In providing the requested opinions, consider the Veteran's description of his in-service symptoms as well as his post-service symptoms. If there is any medical reason to accept or reject the proposition that the Veteran's reported symptoms in service and thereafter represented the onset of his current disability, this should be noted. Stated another way, do the Veteran's reports about his symptoms align with how the currently diagnosed disability is known to develop or are the Veteran's reports generally inconsistent with medical knowledge or implausible?
+
+The examiner is reminded that the term "as likely as not" does not mean "within the realm of medical possibility," but rather that the likelihood is at least approximately balanced or nearly equal, if not higher. Note that the lack of documented treatment in service, or a long period after, while probative, cannot serve as the sole basis for a negative finding. The Veteran's lay contentions must be considered and weighed in making the determination.
+
+ 
+
+ 
+
+M. C. WILSON
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	T. Griggs
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

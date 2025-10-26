@@ -1,0 +1,77 @@
+Citation Nr: A25034797
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 230923-380287
+DATE: April 15, 2025
+
+ORDER
+
+An initial 20 percent rating for bilateral dry eye syndrome is granted.
+
+Service connection for headaches is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran has experienced bilateral dry eye syndrome manifested by bilateral eye dryness and irritation.
+
+2. The Veteran's current headache disability had its onset during service.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for an initial 20 percent rating, but no higher, for bilateral dry eye syndrome are met.  38 U.S.C. §§ 1155, 5107(b); 38 C.F.R. §§ 4.1, 4.2, 4.7, 4.10, 4.21, 4.79, Diagnostic Code (DC) 6025.
+
+2. The criteria for service connection for headaches have been met.  38 U.S.C. §§ 1131, 5107(b); 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Army from February 2011 to July 2014 and from March 2018 to March 2019, to include service in the Southwest Asia theater of Operations.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a September 2023 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the September 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301.
+
+1. An initial 20 percent rating for bilateral dry eye syndrome is granted.
+
+In the September 2023 decision on appeal, the AOJ granted an initial noncompensable rating for bilateral dry eye syndrome under Diagnostic Code 6099-6025.
+
+On appeal, the Veteran seeks an initial 20 percent rating:  asserting that bilateral dry eye syndrome is the only criteria for a 20 percent rating.  See Argument (October 1, 2023).  For the reasons outlined below, the Board agrees.
+
+Here, the Veteran's bilateral dry eye syndrome is rated under 38 C.F.R.  § 4.79, DC 6099-6025.  Hyphenated diagnostic codes are used when a rating under one code requires use of an additional diagnostic code to identify the basis for the rating assigned.  38 C.F.R.  § 4.27.  Here, the use of DCs 6099-6025 reflects that there is no diagnostic code specifically applicable to the Veteran's service-connected bilateral dry eye syndrome, and that this disability has been rated by analogy to disorders of the lacrimal apparatus (epiphora, dacryocystitis, etc.) under DC 6025.  See 38 C.F.R.  § 4.20 (allowing for rating of unlisted condition by analogy to closely related disease or injury).
+
+Under DC 6025, a 10 percent rating is warranted if the disability is unilateral, and a maximum 20 percent rating is warranted if the disability is bilateral.  38 C.F.R.   § 4.79, DC 6025.
+
+The Veteran was afforded a VA examination in July 2023 at which time the Veteran reported symptoms of dryness and irritation, which he treats with artificial tears.  He further reported that these symptoms interfere with his ability to work on computers for prolonged periods of time. 
+
+Chiefly, the examination report shows that dry eye syndrome affects both eyes.  The report further revealed that his uncorrected distance and near visual acuity were 20/100 and corrected distance and near visual acuity were all 20/20 or better bilaterally.  He did not have a difference equal to two or more lines on the Snellen test type chart or its equivalent between distance and near corrected vision, with the near vision being worse.  His pupils were both 3 millimeters in diameter, round, and reactive to light, and there was no afferent pupillary defect.  The Veteran did not have anatomical loss, light perception only, extremely poor vision, blindness of either eye, a corneal irregularity resulting in severe irregular astigmatism, or diplopia.  The Veteran did not have any visual field defect.
+
+Considering the pertinent evidence in light of the applicable rating criteria, the Board finds that the Veteran manifested symptoms of the type and extent, frequency, and/or severity, as appropriate, to warrant a 20 percent rating, but no higher, under DC 6025 during the entire period on appeal.
+
+Indeed, it is undisputed that the July 2023 examiner clearly found that the Veteran experienced bilateral dry eye syndrome, which was manifested by bilateral eye dryness and irritation, and that he treated these symptoms with artificial tears.  As noted above, there is no diagnostic code specifically applicable to dry eye syndrome, and the Veteran's disability has been rated by analogy to disorders of the lacrimal apparatus under DC 6025.  This diagnostic code provides for a 20 percent rating if the disability is bilateral.  The parts of the lacrimal apparatus identified in DC 6025 (epiphora and dacryocystitis) are not an exclusive list, and the lacrimal apparatus is the overall system concerned with the secretion and circulation of the tears and normal fluid of the conjunctival sac.  It consists of the lacrimal gland and ducts, and associated structures.  Dorland's Illustrated Medical Dictionary (31st Ed. 2007) at 120.
+
+In light of the Veteran's reported bilateral dry eye symptoms and treatment, the definition of the "lacrimal apparatus" set forth above, and resolving reasonable doubt in the Veteran's favor, the Board finds that an initial 20 percent rating for bilateral dry eye syndrome is warranted during the entire period on appeal.  This is the maximum schedular rating under DC 6025.
+
+The Board also finds that a separate or higher rating is not warranted at any time during the period on appeal.  There is no indication that the Veteran experienced any impairment of visual acuity, loss of visual field, or any other compensable impairment of the eyes due to his dry eye syndrome.  Indeed, the examiner opined that the Veteran's service-connected dry eye syndrome does not impair visual acuity or field.  Overall, the Veteran has now been granted the maximum schedular rating for bilateral dry eye syndrome under DC 6025 for the entire period on appeal from the effective date of service connection.  This disability has not been shown to involve any other factor(s) warranting evaluation under any other provision of VA's rating schedule at any pertinent point during the period on appeal.
+
+2. Service connection for chronic headaches is granted.
+
+The Veteran seeks service connection for headaches, which he asserts that his current headaches had their onset during service.  See, e.g., Claim (May 25, 2023).
+
+For the reasons set forth below, the Board concludes that the Veteran has current headache disorder that began during active service.  38 U.S.C. §§ 1110, 1131, 5107(b); Holton, 557 F.3d at 1366; 38 C.F.R. § 3.303(a).
+
+First, in the September 2023 decision on appeal, the AOJ favorably found that the Veteran has a current headache disability.
+
+Second, the evidence shows that the Veteran's current headache disorder had its onset during service.  Service treatment records (STR) support the Veteran's report of recurrent headaches since service.  See, e.g., STR (February 11, 2014; March 3, 2014).  Post-service VA treatment records (VATR) show continued treatment after service.  See, e.g., VATR (June 5, 2023).  When coupled with the Veteran's consistent, competent, and credible report of recurrent headaches since service, the evidence pertaining to the etiology of the Veteran's headaches is, at worst, evenly balanced as to whether the headaches had their onset during service.  Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc) (only when the evidence persuasively favors one side or another is the benefit of the doubt doctrine not for application).  After resolving any doubt in the Veteran's favor, the Board finds that the Veteran's current headaches had their onset during service.
+
+In reaching this opinion, the Board acknowledges that the June 2023 VA examiner opined that the Veteran's current headaches are not related to his in-service exposures in the Southwest Asia theater of Operations.  Critically, however, the examiner did not opine as to whether the Veteran's headaches had their onset during service.  This is particularly troubling as all of the Veteran's statements regarding the etiology of his headaches, to include those made to the examiner, point toward in-service onset.  The examiner's failure to address this crucial, favorable evidence renders it inadequate.  Notwithstanding the inadequacy of the June 2023 medical opinion, the Board finds that remand is not necessary to obtain an adequate medical opinion as the evidence of record sufficiently establishes that the Veteran's headaches had their onset during service.  Accordingly, service connection for headaches is warranted. 
+
+ 
+
+M. HYLAND
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Castillo, Joshua
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

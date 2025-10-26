@@ -1,0 +1,65 @@
+Citation Nr: A25034586
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 241003-481606
+DATE: April 15, 2025
+
+REMANDED
+
+Service connection for obstructive sleep apnea (OSA) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Navy from July 1991 to September 1994, during the Gulf War Era.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office (RO), which denied service connection for OSA. 
+
+In the October 2024 Board Appeal: Notice of Disagreement VA Form 10182, the Veteran elected the Direct Review docket. As such, the Board's review is limited to the evidence of record at the time of the decision on appeal (July 31, 2024). The Board cannot consider evidence submitted during the period after the decision on appeal (on or after August 1, 2024). 38 C.F.R. § 20.301. However, because this case is being remanded, any evidence that is not considered by the Board at this time will be considered by the agency of original jurisdiction (AOJ) upon readjudication of this claim.
+
+As a final initial matter, the Veteran selected the Direct Review docket, and the Board notes that the allotted time to select a different Board review option under 38 C.F.R. § 20.202(c)(2) and Williams v. McDonough, 37 Vet. App. 305 (2024), which allows for a docket switch 60 days from the date of the VA Form 10182 or one year from the agency of original jurisdiction (AOJ) decision, whichever is later, has not elapsed; however, as this case is being remanded, there is no prejudice to the Veteran at this time as this is not a final decision and he will have an option to return to the Board following this remand, with all options again available to him.
+
+The Veteran contends he is entitled to service connection for OSA.
+
+Most recently, the Veteran underwent a VA examination in April 2024 and received medical opinions in April 2024 and July 2024. The Board finds these opinions inadequate. First, the April 2024 opinion addressed secondary service connection as it relates to the Veteran's psychiatric disability, major depressive disorder (MDD). The Board finds this opinion inadequate as the examiner merely defines OSA, states that the conditions are not medically related, and states the Veteran's MDD is not considered a cause of OSA. Thus, the medical opinion is overall conclusory without sufficient supporting rationale for the Board to evaluate. See Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007) (holding a medical opinion must contain clear conclusions with supporting data, and a reasoned medical explanation connecting the two); Guerrieri v. Brown, 4 Vet. App. 467 (1993) (the probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion the physician reaches.); Hernandez-Toyens v. West, 11 Vet. App. 379, 382 (1998) (the failure of the physician to provide a basis for his/her opinion affects the weight or credibility of the evidence). Additionally, the Board notes there is no rationale for the aggravation prong for secondary service connection; thus, the opinion is inadequate. See Atencio v. O'Rourke, 30 Vet. App. 74, 90 (2018) (holding that, in claims involving service connection on a secondary basis, VA medical opinions must provide separate findings and rationales regarding both causation and aggravation).
+
+The July 18, 2024, secondary service connection opinion also did not provide a rationale for the aggravation prong; thus, the opinion is inadequate. Atencio, supra. Additionally, the VA examiner stated that OSA was physiological and not psychological, and then noted the Veteran was obese at time of sleep study and noted this was the single greatest risk factor for OSA. In so doing, the VA examiner offered a potential link between the Veteran's MDD and OSA with obesity as an intermediate step, but then did not address that theory. Thus, the VA examiner did not address all raised theories of entitlement. See Robinson v. Peake, 21 Vet. App. 545, 552 (2008), aff'd sub nom. Robinson v. Shinseki, 557 F.3d 1355 (Fed. Cir. 2009) (recognizing VA's duty to consider all issues raised either by the claimant or by the evidence of record).
+
+In the July 30, 2024, secondary service connection opinion, the VA examiner repeated the same information as that in the July 18, 2024, opinion, except that the VA examiner indicated that obesity is preventable, and diet and exercise were still possible in the presence of the Veteran's MDD. The Board notes that the opinion should not be based on what the Veteran could do to avoid the issues he already has. Moreover, as the opinions are more or less the same for the July 18, 2024, opinion and the July 30, 2024, opinion, the July 30, 2024 opinion is inadequate as well.
+
+The Board also acknowledges the February 2024 private opinion; however, the Board finds it is inadequate as it is conclusory and offers no rationale for the Board to evaluate. See Stefl, supra. Thus, it cannot be used to grant service connection at this time.
+
+Lastly, prior to the most recent supplemental claim in this case, there is an opinion concerning toxic risk exposure activity (TERA) in March 2023. However, the Board finds this opinion inadequate because it does not specifically address the Veteran's exposures, notably asbestos, and is overall conclusory. See Stefl, supra. As such, the AOJ should have provided a new TERA opinion as well prior to issuing the rating decision on appeal.
+
+Accordingly, the Board finds that the service connection claim for the Veteran's OSA must be remanded in order to correct these pre-decisional duty to assist errors and obtain an adequate medical opinion as to the etiology of this disorder. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007); 38 C.F.R. § 20.802(a).
+
+The matter is REMANDED for the following action:
+
+Obtain an addendum opinion from an appropriate examiner, who has not yet participated in this claim if possible, to address the etiology of the Veteran's OSA. The entire claims file, including a copy of this remand, must be made available to and must be reviewed by the examiner. A new examination may be ordered if deemed necessary.
+
+After review of the claims file, and examination of the Veteran if deemed necessary, the examiner is asked to respond to the following:
+
+a) Did the Veteran's OSA begin during service or is it otherwise the result of his service, to include any exposure to asbestos as a result of his military occupational specialty (MOS)?
+
+To that end, the examiner should engage in a TERA examination in order to consider the total potential exposure though all applicable military deployments and the synergistic, combined effect of all toxic exposure risk activities of the Veteran.
+
+b) Is the Veteran's OSA (1) caused by; or (2) aggravated (i.e., worsened) by his service-connected disabilities (particularly MDD)?
+
+c) Finally, if the examiner cannot find any connection based on any of the previous requested opinions, the examiner must then consider whether the Veteran's service-connected disabilities have caused his obesity and thus, in turn, caused or aggravated his OSA. In this regard, the examiner should opine as to: (1) whether the Veteran's service-connected disabilities (particularly MDD) have caused or aggravated (i.e., worsened) his obesity. If so, then (2) whether the Veteran's obesity has either caused, substantially contributed to, or otherwise aggravated the Veteran's OSA. And, if so, finally (3) whether the Veteran's OSA would not have occurred if-but-for his obesity due to his service-connected disabilities.
+
+In discussing the above, the examiner must address the Veteran's statements regarding the onset of symptomatology and any statements regarding continuity of symptomatology since onset and/or since discharge from service.
+
+The examiner must provide thorough explanations and support for all opinions expressed, specific to this Veteran. Finally, the examiner is reminded that both secondary causation and secondary aggravation must be addressed, and that each of those opinions should be separately analyzed and address with separate and distinct rationales.
+
+ 
+
+ 
+
+Jenna Brant
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Garfield, Jeannine F.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,103 @@
+Citation Nr: A25034158
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240910-473197
+DATE: April 14, 2025
+
+ORDER
+
+Entitlement to a disability rating greater than 10 percent for tinnitus is denied.
+
+REMANDED
+
+Entitlement to a disability rating greater than 20 percent for type 2 diabetes mellitus (also referred to as hyperglycemia) is remanded.
+
+Entitlement to service connection for an acquired psychiatric disability, to include insomnia with depression and anxiety, major depressive disorder (MDD), and post-traumatic stress disorder (PTSD), is remanded.
+
+FINDING OF FACT
+
+The current 10 percent disability rating assigned for tinnitus is the maximum schedular evaluation under the Department of Veterans Affairs (VA) rating schedule for that disability.
+
+CONCLUSION OF LAW
+
+There are no legal grounds, including an extra-schedular basis, for assigning a higher rating for the Veteran's tinnitus.  38 U.S.C. § 1155; 38 C.F.R. § 4.87, Diagnostic Code 6260.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from March 2021 to September 2023.
+
+This case comes before the Board of Veterans' Appeals (Board) on appeal from rating decisions issued in October 2023 and August 2024 by the agency of original jurisdiction (AOJ).  In the October 2023 decision, the AOJ denied entitlement to service connection for a psychiatric disorder (claimed as insomnia with depression and anxiety), granted entitlement to service connection for tinnitus (assigning a 10 percent evaluation), and granted entitlement to service connection for type 2 diabetes mellitus (assigning a 20 percent evaluation).  In August 2024, the AOJ issued a rating decision that denied entitlement to a rating greater than 20 percent for type 2 diabetes mellitus.
+
+In September 2024, the Veteran submitted VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) and indicated that he was seeking an evaluation higher than 20 percent for type 2 diabetes mellitus, an evaluation higher than 10 percent for tinnitus, and service connection for his psychiatric disorder.  The Board notes that, in regard to the psychiatric disorder, the Veteran referenced rating decisions issued on October 7, 2023, and October 13, 2023.  However, there is only one rating decision that adjudicated service connection for a psychiatric disorder (characterized as insomnia with depression and anxiety) which was issued on October 2, 2023 (with a notification letter sent to the Veteran on October 10, 2023).  Accordingly, the Board construes the Veteran's 10182 as appealing the rating decision issued October 2, 2023.  See 38 C.F.R. § 20.202 (a) (the Board will construe arguments in a liberal manner for purposes of determining whether they raise issues on appeal).  Further, it is well-established that VA has a duty to liberally construe the pleadings of pro se claimants.  Andrews v. Nicholson, 421 F.3d 1278 (Fed. Cir. 2005); Moody v. Principi, 360 F.3d 1306, 1310 (Fed. Cir. 2004).
+
+On his VA Form 10182, the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the October 2023 AOJ decision (addressing tinnitus and a psychiatric disorder) and the August 2024 AOJ decision (addressing an increased rating for type 2 diabetes mellitus) on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the respective decisions on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+However, because the Board is remanding the claims regarding type 2 diabetes mellitus and an acquired psychiatric disability, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii).
+
+For reasons discussed further below, the Board has recharacterized the Veteran's mental health claim on appeal as entitlement to service connection for an acquired psychiatric disorder.  Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009).
+
+As a last preliminary matter, concerning the Veteran's appeal of the August 2024 AOJ rating decision denying entitlement to a rating in excess of 20 percent for type 2 diabetes mellitus, the Board acknowledges the recent precedential decision Williams v. McDonough regarding 38 C.F.R. § 20.202(c)(2) and deciding AMA appeals before the time to change dockets has elapsed.  However, since the Board is not adjudicating the Veteran's claim for an increased rating for type 2 diabetes mellitus, there is no prejudice in proceeding before this time period expires.
+
+1. Entitlement to a disability rating greater than 10 percent for tinnitus
+
+The Veteran contends that he is entitled to a disability rating greater than 10 percent for his tinnitus as the disorder is still affecting him.  See September 2024 VA Form 10182.
+
+The Veteran's service-connected tinnitus is currently rated as 10 percent disabling under 38 C.F.R. § 4.87, Diagnostic Code 6260.
+
+The rating schedule directs that only a single rating of 10 percent is assigned for recurrent tinnitus whether the sound is perceived in one ear, both ears, and in the head.  38 C.F.R. § 4.87, Diagnostic Code 6260.  The Federal Circuit affirmed VA's long-standing interpretation of Diagnostic Code 6260 as authorizing only a single 10 percent rating for tinnitus, whether perceived as unilateral or bilateral.  Smith v. Nicholson, 451 F.3d 1344 (Fed. Cir. 2006). 
+
+The Board notes that the Veteran has not raised the matter of an extraschedular rating, nor does the evidence present exceptional or unusual circumstances.  Doucette v. Shulkin, 28 Vet. App. 366 (2017). 
+
+Given the above, there is no legal basis upon which to award a higher rating for tinnitus and the appeal must be denied.  Smith, 451 F.3d at 1344.
+
+REASONS FOR REMAND
+
+1. Entitlement to a disability rating greater than 20 percent for type 2 diabetes mellitus
+
+The Veteran contends that he is entitled to a disability rating greater than 20 percent for his type 2 diabetes mellitus (also referred to as hyperglycemia).  See April 2024 VA Form 21-526EZ.
+
+Following receipt of the Veteran's April 2024 formal claim seeking an increased disability rating for type 2 diabetes mellitus, VA treatment records from April 2024 were associated with the file.  Those records contain notations indicating that the Veteran was initiating VA medical care at that time, with a primary care intake appointment scheduled for July 2024.  No further attempts were made to retrieve the Veteran's updated VA treatment records prior to the August 2024 decision on appeal.
+
+The AOJ's failure to attempt to obtain potentially relevant VA records prior to issuing its rating decision constitutes a pre-decisional duty to assist error, as the records may contain information which could help substantiate the Veteran's claim.  38 U.S.C. § 5103A ; 38 C.F.R. § 3.159 (c).  Accordingly, a remand is required to allow VA to correct this pre-decisional duty to assist error by obtaining the outstanding VA treatment records.  38 C.F.R. § 20.802(a).
+
+2. Entitlement to service connection for an acquired psychiatric disability
+
+The Veteran contends he developed a psychiatric disorder as a result of his active service.  Specifically, he reported that the heavy workload and continuous stress affected his sleep, mood, motivation, and social functioning.  See October 2023 VA 21-526EZ.
+
+Preliminarily, the Board notes that, based on the evidence of record, it has recharacterized the issue more broadly as a claim for entitlement to service connection for an acquired psychiatric disorder.  The Court of Appeals for Veterans Claims (Court) has held that the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record.  Clemons, 23 Vet. App. at 1, 5.  In this case, the Veteran has identified symptoms of insomnia, anxiety, depression, and PTSD.  The Board notes that the Veteran does not have medical expertise and is not expected to precisely identify a medical diagnosis.  Id. at 1, 6 (stating that it "is generally the province of medical professionals to diagnose or label a mental condition, not the claimant").  In addition, the Board notes that the Veteran received a diagnosis of MDD outside of the evidentiary period on appeal.  As the AOJ will be able to consider such evidence on remand, and there is no harm to the Veteran or his case, the Board has added the diagnosis of MDD to the issue on appeal for purposes of clarity and efficiency.
+
+The evidence of record reflects that the Veteran was discharged from the U.S. Navy under honorable conditions on September 9, 2023, due to a non-combat related disability (type 2 diabetes mellitus).  See April 2023 STR-Exam-MEB-PEB, referral to integrated disability evaluation system (IDES); September 2023 DPRIS - DD 214 Certificate of Release or Discharge from Active Duty.
+
+Prior to discharge, in November 2022, the Veteran was provided a separation health assessment disability benefits questionnaire (DBQ).  The report contained a positive screen for depression, as the Veteran reported having little interest or pleasure in doing things for several days in the past two weeks, and was feeling down, depressed, or hopeless more than half the days.  The report also contained a positive PTSD screen, as he reported that in the past month he tried hard not to think about a frightening, horrible, or traumatic event and/or went out of his way to avoid situations that reminded him of the event.  In addition, during the past month he experienced being constantly on guard, watchful, or easily startled and feeling numb or detached from people, activities, or his surroundings.
+
+As a result of the positive screens, the Veteran was afforded a VA mental disorders examination shortly thereafter.  In eliciting the Veteran's mental health history, the examiner noted that the Veteran reported occasional stress and worry, had never participated in individual or group therapy, and had not been prescribed psychotropic medication.  The examiner did not elicit any information regarding the Veteran's reported insomnia or sleeping difficulties.  The examiner noted no symptoms for VA rating purposes.  The examiner opined that the Veteran's symptom expression did not meet the threshold for insomnia disorder, anxiety disorder, or a pervasive depressive disorder, as there were no findings or symptoms to support a DSM-5 diagnosis. 
+
+The Board finds the November 2022 VA opinion insufficient for adjudicative purposes as the examiner failed to fully elicit reports of the Veteran's current symptomatology.  The examiner did not appear to consider the positive screens for depression and PTSD as noted in the earlier separation health assessment, which noted that the Veteran reported little interest or pleasure in doing things, feeling down, depressed, or hopeless, avoidance of thoughts and situations which reminded him of a traumatic event, watchfulness, being easily startled, and a sense of detachment.  In addition, the examiner did not elicit any information about the Veteran's reported insomnia or sleeping difficulties.  The November 2022 opinion is therefore inadequate as it was based on an incomplete and inaccurate factual premise.  See Reonal v. Brown, 5 Vet. App. 458, 460-61 (1993) (medical opinions based on an incomplete or inaccurate factual premise are not probative).
+
+When VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303 (2007).  Failure to provide an adequate VA examination is a pre-decisional duty to assist error requiring remand.  38 C.F.R. § 20.802(a). 
+
+The matters are REMANDED for the following actions:
+
+1. Obtain any outstanding VA treatment records, including from July 2024 to the present.
+
+2. Thereafter, schedule the Veteran for a VA psychiatric examination by an appropriate medical professional to determine the nature and etiology of any diagnosed psychiatric disorder, to include consideration of insomnia with anxiety and depression, MDD, and PTSD.  The claims folder must be reviewed, including a copy of this remand, and the clinical findings reported in detail.
+
+(a.) For any psychiatric disorder diagnosed, the examiner is asked to opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the psychiatric disorder had its onset in service, was caused by an injury in service, or is otherwise related to any incident of service. 
+
+(b.) In offering the opinion, the examiner should elicit a full history from the Veteran.
+
+The examiner must provide a complete rationale for his or her opinion in the examination report.  If the above requested opinion cannot be made without resort to speculation, the examiner must state this and provide a rationale for such conclusion.
+
+ 
+
+ 
+
+Michael J. Skaltsounis
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Horan, Deborah E.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

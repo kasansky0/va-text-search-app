@@ -1,0 +1,83 @@
+Citation Nr: A25030589
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240513-439495
+DATE: April 2, 2025
+
+ORDER
+
+New and relevant evidence having been received, readjudication of the claim for service connection for sleep apnea is warranted.
+
+REMANDED
+
+Entitlement to service connection for sleep apnea, to include as due to service-connected disabilities, is remanded.
+
+FINDINGS OF FACT
+
+1.  In an April 2016 rating decision, the agency of original jurisdiction (AOJ) denied a claim for service connection for sleep apnea.
+
+2.  New evidence that is relevant to the claim for service connection for sleep apnea has been received since the April 2016 rating decision.
+
+CONCLUSION OF LAW
+
+The criteria for readjudication of the claim for service connection for sleep apnea have been met. 38 U.S.C. §§ 5104C, 5108; 38 C.F.R. §§ 3.160, 3.2500, 3.2501.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran served on active duty from February 1998 to February 2002.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a June 2023 rating decision.
+
+The Veteran submitted a VA Form 10182 in May 2024 and elected the direct review.  Therefore, the Board may only consider the evidence of record at the time of the June 2023 AOJ decision on appeal. 38 C.F.R. § 20.301.  If evidence was submitted after the AOJ issued the supplemental claim decision on appeal, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the underlying claim for service connection, any evidence that the Board could not consider will be considered by the AOJ in the adjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Law and Analysis
+
+VA will readjudicate a claim if new and relevant evidence is received with respect to a supplemental claim.  New evidence is evidence not previously part of the actual record before agency adjudicators.  Relevant evidence is information that tends to prove or disprove a matter at issue in a claim.  Relevant evidence includes evidence that raises a theory of entitlement that was not previously addressed.  The new and relevant standard will not impose a higher evidentiary threshold than the previous new and material evidence standard under § 3.156(a). 38 U.S.C. § 5108; 38 C.F.R. § 3.2501.
+
+The evidentiary record for a supplemental claim includes all evidence received by VA before VA issues notice of a decision on the supplemental claim.  For VA to readjudicate the claim, the evidentiary record must include new and relevant evidence that was not of record as of the date of notice of the prior decision. 38 C.F.R. § 3.2501(b).
+
+The AOJ previously considered and denied a claim for sleep apnea in an April 2016 rating decision.  In particular, the AOJ found that the Veteran's service treatment records did not document any complaints, treatment, or diagnosis of sleep apnea and that the evidence did not show that he currently had the disorder.
+
+The Veteran later submitted a supplemental claim in October 2022, which the AOJ denied in the June 2023 rating decision currently on appeal.
+
+The evidence of record at the time of the April 2016 rating decision included the Veteran's service treatment records and VA medical records.  The evidence received since the April 2016 rating decision includes a June 2018 private sleep study, which documents a diagnosis of mild obstructive sleep apnea, and a February 2023 VA examination report in which the examiner provided negative nexus opinions.  That evidence was not previously part of the record before the AOJ and tends to prove or disprove a matter at issue in the service connection claim.  Therefore, the Board finds that this evidence is both new and relevant, and readjudication of the previously denied claim for service connection for sleep apnea is warranted.
+
+REASONS FOR REMAND
+
+Upon review, the Board finds that a remand is needed to correct a pre-decisional duty to assist error.
+
+The February 2023 VA examiner opined that the Veteran's sleep apnea was less likely than not caused by the Veteran's toxic exposure risk activities (TERA) after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all TERA of the Veteran.  He noted that the Veteran had service in Bahrain and that he was reported to have participated in a toxic exposure risk activity with no other specifics.  The examiner indicated that a review of the VA website regarding presumptive conditions associated with service in Bahrain from 1990 to 2002 showed no clear causal relationship between obstructive sleep apnea and possible exposures while serving in that location.  He also found that the Veteran's sleep apnea etiology was unclear and unknown.
+
+The February 2023 VA examiner further opined that the Veteran's sleep apnea was less likely than not proximately due to or the result of service-connected bilateral hypertrophied tonsils.  He noted that medical literature showed a very small study comprised of six individuals that demonstrated improvement in obstructive sleep apnea symptoms following tonsillectomies; however, he indicated that the majority of cases of tonsillar hypertrophy associated with obstructive sleep apnea were pediatric cases where airways are smaller due to anatomical immaturity.  The examiner related that there was no clear causal relationship between tonsil hypertrophy and obstructive sleep apnea in adults found in the medical literature.  Therefore, he concluded that it was less likely than not that the Veteran's obstructive sleep apnea was due to or the result of his service-connected tonsillar hypertrophy.
+
+In addition, the February 2023 VA examiner opined that it was less likely than not that the Veteran's sleep apnea was proximately due to or the result of his service-connected tinnitus.  He acknowledged that the Veteran's tinnitus preceded his sleep apnea and that research has noted increased sleep disturbance by those who have tinnitus.  However, the examiner indicated that a 2017 study specifically looked at the issue of sleep apnea and tinnitus, which found that the risk of tinnitus was significantly higher in middle-aged and older people with sleep disturbances, especially with sleep apnea.  Thus, there appeared to be an inversed relationship, but the examiner stated that there is no clear data that supports tinnitus being the cause of sleep apnea.
+
+Nevertheless, the February 2023 VA examiner did not address whether the Veteran's sleep apnea would have been less severe but-for his service-connected hypertrophied tonsils and tinnitus, to include any worsening of functionality. Spicer v. McDonough, 61 F.th 1360 (Fed. Cir. 2023).  Therefore, the Board finds that an additional medical opinion was needed.
+
+The matter is REMANDED for the following action:
+
+The AOJ should obtain a medical opinion to determine the etiology of the Veteran's sleep apnea.  A physical examination is only needed if one is deemed necessary by the individual providing the opinion.
+
+The examiner is requested to review all pertinent records associated with the claims file, including the Veteran's service treatment records, post-service medical records, and assertions.
+
+The examiner should note that the Veteran is competent to attest to matters of which he has first-hand knowledge, including observable symptomatology.  If there is a medical basis to support or doubt the history provided by the Veteran, the examiner should provide a fully reasoned explanation.
+
+The examiner should opine as to whether the Veteran has sleep apnea that is causally or etiologically related to his military service.
+
+The examiner should also provide an opinion as to whether the Veteran's sleep apnea is caused by or resulted from his service-connected hypertrophied tonsils and tinnitus.  He or she should address whether the Veteran's sleep apnea would have been less severe but-for his service-connected hypertrophied tonsils and tinnitus, to include any worsening of functionality.
+
+A clear rationale for all opinions should be provided.
+
+ 
+
+ 
+
+J.W. ZISSIMOS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Osegueda, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

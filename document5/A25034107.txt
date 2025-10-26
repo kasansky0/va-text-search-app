@@ -1,0 +1,71 @@
+Citation Nr: A25034107
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240507-438053
+DATE: April 14, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA) is denied.
+
+FINDING OF FACT
+
+1.  The evidence weighs persuasively against finding the Veteran has a current disability of OSA.
+
+2. The Veteran does not currently have a diagnosis of OSA.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for OSA have not been met. 38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. §§ 3.102, 3.303, 3.304.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from October 2012 to September 2013.
+
+This appeal is being processed under the modernized review system, commonly referred to as the "AMA," as established by the Veterans Appeals Improvement and Modernization Act of 2017. 115 Pub. L. No. 55, 131 Stat. 1105.
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal of a December 2023 rating decision issued by a Department of Veterans Affairs (VA) regional office, an agency of original jurisdiction (AOJ). That rating decision was issued in response to an August 2023 VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), which sought review of a July 2023 rating decision.
+
+The Veteran timely initiated an appeal by submitting a May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), and elected the Direct Review docket. In view of the above, the Board may only consider the evidence of record that the AOJ was permitted to consider at the time it issued the decision on appeal (i.e., the evidence of record at the time the AOJ issued the July 2023 rating decision). 38?C.F.R. § 20.301.
+
+As the Board is deciding the claim of service connection for OSA, it may not consider evidence added to the claims file after the July 2023 rating decision. 38 C.F.R. § 20.300. The Veteran may file a Supplemental Claim and submit or identify new evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active military, naval or air service. 38 U.S.C. § 1131; 38 C.F.R. § 3.303(a). Generally, to establish service connection, a claimant must show: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service, the so-called "nexus" requirement. See 38 U.S.C. § 1131; 38 C.F.R. § 3.303; see also Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection may also be established on a secondary basis for a disability which is proximately due to, or the result of, a service-connected disability. 38 C.F.R. § 3.310(a). Secondary service connection may also be established for a disability which is aggravated by a service-connected disability. In order to prevail on the issue of secondary service connection, the record must show (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) medical nexus evidence establishing a connection between the service-connected disability and the current disability. Wallin v. West, 11 Vet. App. 509 (1998). Any increase in severity of a non-service-connected disease or injury that is proximately due to or the result of a service-connected disability, will be service connected. 38 C.F.R. § 3.310(b).
+
+Obstructive Sleep Apnea
+
+The Veteran contends his OSA is secondary to service-connected adjustment disorder with anxiety and depressed mood, left lower extremity radiculopathy sciatica, left knee instability, right knee instability, left knee strain, lumbosacral strain, and right knee s/p ACL reconstruction. See September 2022 Fully Developed Claim. In his September 2022 Statement in Support of Claim, the Veteran stated his mental health condition causes him to experience dry mouth upon awakening, insomnia, nighttime sweating, and vivid nightmares. He also stated his service-connected disabilities prevent him from exercising, leading to weight gain and obesity. See September 2022 Fully Developed Claim; September 2022 Statement in Support of Claim. He noted his musculoskeletal conditions prevent him from sleeping on his side and he experiences pain that makes it difficult to fall or stay asleep. See September 2022 Statement in Support of Claim.
+
+The Veteran is competent to report observable symptoms; however, he is not competent to provide a diagnosis of OSA. Layno v. Brown, 6 Vet. App. 465, 469 (1994). 
+
+The Veteran's VA treatment records and service treatment records (STRs) do not reveal treatment or diagnosis of OSA.
+
+The Veteran submitted a private examination in September 2022. The private examiner reviewed the Veteran's file and explained relevant medical literature. According to the private examiner, symptoms of snoring, excessive daytime sleepiness, witnessed apnea, neck circumference, and the male gender places the Veteran in the "high risk" category of having OSA using the STOP-BANG Questionnaire, which is a screening tool for OSA. The private examiner did not examine the Veteran or conduct any testing on the Veteran. The examiner diagnosed the Veteran with OSA and opined it is at least as likely as not that the Veteran's weight gain is due to service-connected adjustment disorder with anxiety and depressed mood, left lower extremity radiculopathy sciatica, left knee instability, right knee instability, left knee strain, lumbosacral strain, and right knee s/p ACL reconstruction and that his overweight condition led to, caused, and/or aggravated his current obstructive sleep apnea.
+
+The September 2022 private examiner apparently relied solely on the STOP-Bang questionnaire to diagnose the Veteran with OSA. The Board finds this examination is not adequate and afforded minimal probative valuate. Although the STOP-Bang questionnaire predicts the risk of OSA, it does not state that it is adequate to clinically diagnose OSA.
+
+The Veteran underwent a VA examination in February 2023 along with a sleep study. The sleep study determined the Veteran was negative for OSA and his periodic apnea and hypopnea index (pAHI) levels were within normal limits. The Veteran reported symptoms of daytime sleepiness and noted no treatment, medications or surgery related to OSA. The examiner noted the Veteran uses a continuous positive airway pressure (CPAP) machine. The examiner opined the Veteran's OSA was less likely than not proximately due to or the result of the Veteran's service-connected disabilities because no diagnosis of OSA was rendered. 
+
+Although the February 2023 VA examination is inconsistent as the examiner noted the Veteran uses a CPAP machine and the Veteran reported he has not had treatment, medications or surgery, the Board recognizes that the overall assessment is still probative. The sleep study conducted in February 2023 shows the Veteran was negative for OSA and his pAHI levels were within normal range.
+
+The existence of a current disability is the cornerstone of a claim for VA disability compensation. Degmetich v. Brown, 104 F. 3d 1328 (1997). The Board finds that the February 2023 VA examination findings are substantially more probative than the September 2022 private examination, as the VA examination findings relied on a valid sleep study as opposed to a screening tool for OSA. Thus, the probative evidence weighs persuasively against finding the Veteran has a current disability of OSA. In the absence of proof of a present disability, there can be no valid claim. See Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). 
+
+For the above reasons, the evidence for and against the claim is neither evenly balanced, nor approximately so. Rather the probative evidence weighs persuasively against the claim and demonstrates the Veteran does not have a current diagnosis of OSA. The benefit of the doubt doctrine is therefore not for application and service connection for OSA is not warranted.
+
+ 
+
+ 
+
+SHAUN S. SPERANZA
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Magiros, Kristen N.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

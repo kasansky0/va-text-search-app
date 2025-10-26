@@ -1,0 +1,59 @@
+Citation Nr: A25034714
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 241209-494726
+DATE: April 15, 2025
+
+REMANDED
+
+Entitlement to service connection for a heart disability, claimed as mild tricuspid regurgitation, is remanded.  
+
+REASONS FOR REMAND
+
+The appellant is a Veteran who served on active duty from June 1986 to June 1990 and from January 1991 to March 1991.  This matter is before the Board of Veterans' Appeals (Board) on appeal of a December 2024 rating decision.  In December 2024, the Veteran timely appealed the December 2024 rating decision to the Board and selected direct review of the claim.  [The Board also notes that this case has a rather lengthy procedural history.  In April 2021, January 2023, April 2023, August 2023, March 2024, and October 2024, the case was remanded for further development.]  Therefore, the Board's review is limited to the evidence reviewed in the December 2024 rating decision.  
+
+The Board notes that Williams v. McDonough, 37 Vet. App. 305 (2024) provides guidance under which the Veteran may choose a docket review option during the latter of one year from the date that the Agency of Original Jurisdiction (AOJ) mails notice of the decision or sixty days from the date the Board receives the notice of disagreement, pursuant to 38 C.F.R. § 20.202(c)(2).  Since this case was received by the Board prior to one year from the date that the AOJ mailed the notice of the rating decision, in January 2025, a letter was mailed by VA to the Veteran asking whether or not he desired to waive the remainder of the time and have his appeal addressed by the Board.  In January 2025, the Veteran responded and indicated that he waived his right to select a different Board review option.  Therefore, the Board will proceed with review of this case.  
+
+One feature of the Appeals Modernization Act (AMA) is the Board's limited authority to remand cases for further development and opinions.  Remands under the AMA are limited to pre-decisional duty to assist errors and correction of any other error by the AOJ in satisfying a regulatory or statutory duty if correction of the error would have a reasonable possibility of aiding in substantiating the Veteran's claim.  38 C.F.R. § 20.802(a).  In this case, as discussed more fully below, the Board has identified pre-decisional duty to assist errors in that the AOJ relied upon inadequate medical opinions.  Thus, a remand is necessary to provide the Veteran with adequate VA medical opinions.  
+
+The Veteran contends, as stated in his September 2018 claim, that his mild tricuspid regurgitation is related to service and was caused by residual scar tissue left from in-service pneumonia that did not properly heal.  Alternatively, he asserts, as stated in his July 2019 supplemental claim and December 2019 claim, that his mild tricuspid regurgitation is secondary to his service-connected disabilities, including his intervertebral disc syndrome with spondylotic myelopathy, cervical spine (neck disability); diabetes mellitus, type II; sleep apnea; and radiculopathy, left upper extremity.  
+
+In its October 2024 decision, the Board found that the August 2019, August 2021, September 2021, June 2023, September 2023, and March 2024 VA opinions were inadequate for adjudicative purposes because the opinions either did not concede the mild tricuspid regurgitation diagnosis, had rationale based on general articles instead of specific facts of this case, or did not properly address the secondary service connection standard.  In reaching their opinions, the examiners used the proximate cause standard from the then-controlling regulation now struck down by the Spicer court.  Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023).  That is, the opinions were premised upon a standard that was no longer good law, and the Board remanded the case to obtain adequate medical advisory opinions.  
+
+In a November 2024 VA opinion, the VA provider opined that it was less likely than not that the Veteran's conceded mild tricuspid regurgitation, had onset in, or was causally related to, his service, to include his contentions that a heart disability was related to residual scar tissue left from in-service pneumonia that did not properly heal.  He explained that the Veteran's subjective complaints were not supported by objective findings, which confounded and diminished the claimed contention.  The VA provider noted that the Veteran was 56 years old at time of the opinion request and that medical literature indicated that the prevalence of moderate regurgitation was three times more prevalent (p < 0.05) in those older than 50 years of age compared with those less than or equal to 50 years of age and that such data should be considered when addressing management in patients with Doppler-detected valvular regurgitation in order to prevent iatrogenic heart disease, which in the opinion of the examiner, confounded and diminished the Veteran's claimed contention, especially in light of the research that mentions moderate regurgitation when the Veteran only had mild regurgitation.  
+
+In an additional November 2024 VA opinion, the VA provider opined that it was less likely than not that the Veteran's mild tricuspid regurgitation was aggravated beyond its natural progression by his service-connected neck disability, diabetes mellitus, sleep apnea, and/or left upper extremity radiculopathy.  He explained that the Veteran was service-connected for a neck disability, diabetes mellitus, sleep apnea, and left upper extremity radiculopathy, which were conditions, respectively, of the axial skeleton, endocrine system, dysfunction of the upper airway, and peripheral nerves.  The examiner indicated that pathophysiologically, the Veteran's service-connected conditions were separate and distinct conditions affecting separate and distinct body systems without any direct pathophysiologic pathway.  
+
+The VA provider again noted that the Veteran was 56 years old at time of the opinion request and that medical literature indicated that the prevalence of moderate regurgitation was three times more prevalent (p < 0.05) in those older than 50 years of age compared with those less than or equal to 50 years of age and that such data should be considered when addressing management in patients with Doppler-detected valvular regurgitation in order to prevent iatrogenic heart disease, which in the opinion of the examiner, confounded and diminished the Veteran's claimed contention, especially in light of the research that mentions moderate regurgitation when the Veteran only had mild regurgitation.  He concluded that, in consideration of the aforementioned evidence and narrative, the Veteran's mild tricuspid regurgitation was less likely than not aggravated beyond its natural progression by his service-connected neck disability, diabetes mellitus, sleep apnea, and/or left upper extremity radiculopathy.  
+
+The Board finds that the November 2024 VA opinion which addressed direct service connection is inadequate for multiple reasons.  The VA provider did not address the Veteran's claim that his mild tricuspid regurgitation was related to residual scar tissue from in-service pneumonia, and although it appeared he was suggesting that the mild tricuspid regurgitation was primarily due to the Veteran's age, he did not explain why that was the case.  Additionally, regarding the opinion that addressed secondary service connection, the Board finds that this opinion is also inadequate.  Although the VA provider attempted to address direct causation by noting that pathophysiologically, the Veteran's service-connected conditions were separate and distinct conditions affecting separate and distinct body systems without any direct pathophysiologic pathway, aggravation was not addressed, particularly in light of Spicer.  
+
+Considering the foregoing, the failure to obtain adequate medical advisory opinions addressing the etiology of the Veteran's mild tricuspid regurgitation constitutes a pre-decisional duty to assist error.  See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007) (when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate), and remand is necessary to obtain adequate medical advisory opinions.  
+
+The matter is REMANDED for the following:
+
+1. Arrange for the Veteran's record to be forwarded to an appropriate clinician (other than the November 2024 VA provider) for further review and an opinion to determine the likely etiology of his mild tricuspid regurgitation.  If another examination is necessary to address such questions, it should be arranged.  The provider should review the Veteran's claims file, to include this remand, and respond to the following:
+
+(a) Identify the likely etiology for the mild tricuspid regurgitation and opine whether it is it at least as likely as not that it is directly related to his military service (was incurred therein), to include as due to residual scar tissue left from in-service pneumonia that did not properly heal.  
+
+(b) If the mild tricuspid regurgitation is found to be less likely than not directly related to his service, opine whether it is at least as likely as not that the mild tricuspid regurgitation was caused or aggravated (aggravation must be addressed, regardless of permanence) by the Veteran's service-connected neck disability, diabetes mellitus, sleep apnea, and/or left upper extremity radiculopathy.  In addressing aggravation, the provider must indicate whether (1) Is it at least as likely as not that, but for the Veteran's service-connected neck disability, diabetes mellitus, sleep apnea, and/or left upper extremity radiculopathy, he would not have mild tricuspid regurgitation?  (2) Is it at least as likely as not that the Veteran's mild tricuspid regurgitation would be less severe and result in less functional impairment but for his service-connected neck disability, diabetes mellitus, sleep apnea, and/or left upper extremity radiculopathy?  
+
+(c) If aggravation is shown, the provider should indicate to the extent possible, the baseline level of severity of the mild tricuspid regurgitation (that is, the approximate level of severity of the disorder prior to the onset of the aggravation).  
+
+(d) If the Veteran's neck disability, diabetes mellitus, sleep apnea, and/or left upper extremity radiculopathy did not cause or aggravate the mild tricuspid regurgitation, identify the etiology for the mild tricuspid regurgitation that is considered to be more likely (to the extent the record permits), and explain why that is so.  
+
+All opinions must include rationale.  
+
+ 
+
+ 
+
+John R. Doolittle, II
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Bayles, James J.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,73 @@
+Citation Nr: A25034031
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240617-448248
+DATE: April 11, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea as secondary to the Veteran's service-connected posttraumatic stress disorder (PTSD) is granted.
+
+FINDING OF FACT
+
+The Veteran's obstructive sleep apnea is secondary to his service-connected PTSD.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for obstructive sleep apnea have been met. 38 U.S.C. §§ 1131, 5103, 5103A; 38 C.F.R. §§ 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from June 1981 to August 1986.
+
+Here, a November 2023 rating decision continued the denial of service connection for obstructive sleep apnea. This rating decision constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In March 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of the initial denial of the service connection for the Veteran's obstructive sleep apnea. In November 2023, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision.
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2023 AOJ decision. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+1. Entitlement to service connection for obstructive sleep apnea is granted.
+
+The Veteran seeks entitlement to service connection for obstructive sleep apnea which he contends is secondary to his service-connected PTSD. See April 2023 VA Form 21-10210 - Lay Witness Statement. 
+
+Establishing service connection generally requires evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).
+
+"Disability which is proximately due to or the result of a service-connected disease or injury shall be service connected." 38 C.F.R. § 3.310(a). Secondary service connection is warranted where a non-service-connected disability would have been less severe "but-for" a service connected disability, either because there is an etiological link (to include worsening functionality) between the two, or because the service-connected disability resulted in the inability to treat the non-service-connected disability. Spicer v. McDonough, 61 F.4th 1360, 1364 (Fed. Cir. 2023).
+
+A veteran bears the evidentiary burden to establish all elements of a service connection claim, including the nexus requirement. See Fagan v. Shinseki, 573 F.3d 1282, 1287-88 (2009). In making its ultimate determination, the Board must give a veteran the benefit of the doubt on any issue material to the claim when there is an approximate balance of positive and negative evidence. See Fagan, 573 F.3d at 1287 (quoting 38 U.S.C. § 5107(b)).
+
+In January 2017, VA's Office of General Counsel (OGC) issued a precedential opinion addressing questions regarding whether obesity may be considered a "disease" for the purposes of service connection under 38 U.S.C. §§ 1110 and 1131; and, whether obesity may be considered a disability for purposes of secondary service connection, whether it may be treated as an in-service "event" from which a service-connected disability may result, and whether it may be an "intermediate step" between a service-connected disability and a current disability that may be service-connected on a secondary basis.
+
+In general, VAOPGCPREC 1-2017 concludes that obesity per se is not a disease or injury for purposes of 38 U.S.C. §§ 1110 and 1131 and therefore may not be service connected on a direct basis.
+
+Similarly, obesity is not a "disability" for the purposes of secondary service connection under 38 C.F.R. § 3.310; and, because it occurs over an extended period of time, the onset of obesity cannot qualify as an in-service "event" for the purposes of establishing service connection.
+
+Finally, VAOPGCPREC 1-2017 recognizes that obesity may act as an "intermediate step" between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R. § 3.310(a).
+
+The Veteran was diagnosed with obstructive sleep apnea in 2019. See October 2020 C&P Examination. The Veteran's PTSD has been service-connected since February 2019. See April 2019 Rating Decision - Narrative. As such, the remaining issue is whether the Veteran's obesity may act as an "intermediate step" between his service-connected PTSD and his current obstructive sleep apnea.
+
+The Board notes there are five VA medical opinions which provide a negative nexus between the Veteran's service-connected PTSD and his current obstructive sleep apnea. Unfortunately, none of the five VA medical opinions address whether the Veteran's PTSD caused or aggravated his obesity which in turn caused or aggravated his obstructive sleep apnea. See October 2020 C&P Examination; July 2021 C&P Examination; August 2022 C&P Examination; August 2023 C&P Examination; October 2023 C&P Examination. Because none of the five VA medical opinions address the issue of whether the Veteran's obesity acts as an intermediate step between his PTSD and obstructive sleep apnea, the Board finds them to be of no probative value in addressing the theory at issue.
+
+The Veteran has submitted two private medical opinions. See March 2023 Medical Treatment Record - Non-Government Facility; March 2022 Medical Treatment Record - Non-Government Facility. Both medical opinions concluded that it is at least as likely as not that the Veteran's PTSD led to the development of his obstructive sleep apnea and aggravation of his obstructive sleep apnea through the mechanism of weight gain. See March 2023 Medical Treatment Record - Non-Government Facility. The opinions explained that the Veteran's PTSD and the medications prescribed to treat PTSD caused the Veteran to gain weight and in turn the weight that the Veteran gained caused the Veteran to develop obstructive sleep apnea and aggravated his obstructive sleep apnea. Id. The Board notes that the October 2023 VA medical opinion concurred with the conclusion that obesity "is a well-established risk factor for sleep apnea." See October 2023 C&P Examination
+
+Furthermore, the Board appreciates the in depth factual analysis of the March 2023 private medical opinion. See March 2023 Medical Treatment Record - Non-Government Facility. The Veteran's discharge from service for inability to lose weight, the Veteran's continuous weight gain and gastric bypass, and the Veteran's explanation that he "can't be bothered" to do any physical activities to lose weight due to his psychological condition are all reflected in the record. See September 2018 Military Personnel Record; August 2020 CAPRI Records; March 2023 VA Form 21-10210 - Lay Witness Statement. As the private medical opinions are well reasoned, well supported, and were the result of a close examination of the factual record, the Board finds them both to be credible and highly probative. 
+
+As such, the Board finds that the Veteran's obstructive sleep apnea is proximately due to the effects of his service-connected PTSD with the Veteran's obesity as an intermediate step. VAOPGCPREC 1-2017; 38 C.F.R. § 3.310. As such, service connection for obstructive sleep apnea is granted.
+
+ 
+
+ 
+
+T. MAINELLI
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Biggs, Andrew J.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

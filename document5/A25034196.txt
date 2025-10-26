@@ -1,0 +1,93 @@
+Citation Nr: A25034196
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 241001-478542
+DATE: April 14, 2025
+
+ORDER
+
+A rating higher than 70 percent for depressive disorder with anxiety disorder is denied.
+
+A total disability rating based on individual unemployability (TDIU) is granted.
+
+FINDINGS OF FACT
+
+1. The severity, frequency, and duration of the Veteran's depressive disorder and anxiety disorder symptoms did not more closely approximate total occupational and social impairment.
+
+2. Depressive disorder with anxiety disorder precludes the Veteran from engaging in gainful employment consistent with his educational and occupational background.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a disability rating higher than 70 percent for depressive disorder with anxiety disorder have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.126, 4.130, Diagnostic Code (DC) 9435.
+
+2. The criteria for a TDIU have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.340, 4.16.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service in the U.S. Marine Corps from July 2001 to July 2005 and in the U.S. Army from June 2009 to July 2010.
+
+An initial rating decision was issued in January 2023; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In February 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of the initial rating decision.  In May 2023, the agency of original jurisdiction (AOJ) identified a pre-decisional duty to assist error in the initial rating decision.  It subsequently readjudicated the claims in a September 2024 supplemental rating decision.
+
+In his October 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the September 2024 AOJ decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The case of Williams v. McDonough, 37 Vet. App. 305 (2024), held that the Board must refrain from deciding a case until the case proceeds to the point where a docket switch is no longer permitted under the terms of 38 C.F.R. § 20.202(c)(2).  Here, in an October 2024 brief, the Veteran's representative stated they had "no further argument to add" to the appeal and requested that the Board "review the Veteran's claim" and "render a decision."  The Board construes these statements as a waiver of the remaining period to request a docket switch.
+
+Increased rating for depressive disorder with anxiety disorder
+
+The Veteran's depressive disorder with anxiety disorder currently assigned a 70 percent rating under 38 C.F.R. § 4.130, DC 9435, which is part of the General Formula for Mental Disorders (General Formula).
+
+Under that formula, the Board must conduct a "holistic analysis" that considers all associated symptoms, regardless of whether they are listed as criteria.  Bankhead v. Shulkin, 29 Vet. App. 10, 22 (2017); 38 C.F.R. § 4.130.  The Board must determine whether unlisted symptoms are similar in severity, frequency, and duration to the listed symptoms associated with specific disability percentages.  Then, the Board must determine whether the associated symptoms, both listed and unlisted, caused the level of impairment required for a higher disability rating.  Vazquez-Claudio v. Shinseki, 713 F.3d 112, 114-118 (Fed. Cir. 2013). 
+
+A 70 percent rating is assigned when symptoms such as suicidal ideation; obsessional rituals which interfere with routine activities; intermittently illogical, obscure, or irrelevant speech; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a worklike setting); or inability to establish and maintain effective relationships cause occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood.
+
+A 100 percent rating is assigned for total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; or memory loss for names of close relatives, own occupation or own name.
+
+The Board concludes that the Veteran's symptoms did not cause the level of impairment required for a disability rating of 100 percent.  The Veteran's symptoms more closely approximated the symptoms associated with a 70 percent rating, and resulted in a level of impairment that most closely approximated the level of impairment associated with a 70 percent rating. 
+
+The primary piece of evidence is a September 2022 VA examination.  The examiner assessed the Veteran as having occupational and social impairment with deficiencies in most areas, consistent with the assigned 70 percent rating.  The examiner also identified symptoms of depressed mood, anxiety, panic attacks more than once a week, sleep impairment, mild memory loss, mood disturbances, difficulty establishing relationships, difficulty adapting to stressful circumstances, suicidal ideation, impaired impulse control with periods of violence, and neglect of personal hygiene.  These are all within the scope of the 70 percent rating criteria noted above.  The examiner further noted that the Veteran was at a low acute risk level, indicating that his suicidal ideation did not rise to the level of making him a persistent danger to himself as contemplated by the higher 100 percent rating.  Finally, the impairment described by the Veteran, including rarely going out to see friends and not being close or intimate with his wife, are also consistent with the inability to maintain relationships associated with the 70 percent rating.  The mental status evaluation conducted as part of the VA examination did not reveal any findings indicative of total impairment.
+
+Moreover, the Veteran's VA outpatient records do not show symptoms consistent with total impairment.  The Veteran reported ongoing difficulties with finances.  However, in January 2023, he reported feeling a lot of stress but was "optimistic" and looking forward to moving.  In April 2024, he reported having positive psychology, capped off with an outdoors trip to Alaska.  None of these records show any symptoms or other indications of total impairment.  Group therapy records from July 2023 through February 2024 show the Veteran consistently denied any suicidal or homicidal ideation.
+
+In sum, the evidence of record is negative for findings of symptoms found in the 100 percent rating criteria, or symptoms of similar severity.  Neither the Veteran nor his representative have put forth a specific argument for why a 100 percent rating for depressive disorder with anxiety disorder is otherwise warranted.  Therefore, the claim must be denied.
+
+TDIU
+
+A TDIU may be assigned where the schedular rating is less than total, when it is found that the disabled person is unable to secure or follow a substantially gainful occupation as a result of a single service-connected disability ratable at 60 percent or more, or as a result of two or more disabilities, provided at least one disability is ratable at 40 percent or more, and there is sufficient additional service-connected disability to bring the combined rating to 70 percent or more.  38 C.F.R. §§ 3.340, 3.341, 4.16(a).
+
+The Veteran is service connected for depressive disorder with anxiety disorder rated at 70 percent.  He is also service connected for tinnitus at 10 percent. Therefore, he meets the schedular criteria for a TDIU.
+
+The central inquiry is determining whether a TDIU is warranted is "whether the veteran's service-connected disabilities alone are of sufficient severity to produce unemployability."  Hatlestad v. Brown, 5 Vet. App. 524, 529 (1993).  Consideration may be given to a veteran's level of education, special training, and previous work experience, but advancing age and the impairment caused by nonservice-connected disabilities are not for consideration in determining whether such a total disability rating is warranted.  See 38 C.F.R. §§ 4.16, 4.19; Van Hoose v. Brown, 4 Vet. App. 361 (1993).
+
+The case of Ray v. Wilkie, 31 Vet. App. 58, 73 (2019), defined the term "unable to secure and follow a substantially gainful occupation" as having two components: one economic and one noneconomic.  A substantially gainful occupation has been defined as "an occupation that provides an annual income that exceeds the poverty threshold for one person, irrespective of the number of hours or days that the Veteran actually works and without regard to the Veteran's earned annual income."
+
+In his October 2022 TDIU application, the Veteran reported have two years of college level education.  He reported a history of working as a cook and dishwasher from 2016 through 2022, prior to the period on appeal.  He has not worked during the appeal period.
+
+Regarding functional impairment, the Veteran reported that he left his jobs due to symptoms of suicidal and homicidal ideation, which he felt were becoming "actionable" due to the stresses of work.  VA treatment records from January 2023 show, in the context of psychiatric treatment, that the Veteran stopped working due to "repeated difficulties."
+
+The September 2022 VA examiner was asked to comment on the effect of the Veteran's service-connected depressive disorder on his ability to function in an occupational environment.  The examiner opined that the Veteran needed to develop more adaptive coping skills to function in a work environment, which could be accomplished once he reengages in therapy and learns how to handle his depression and anxiety more effectively.
+
+The Board notes that there is no provision within VA's laws and regulations governing disability benefits which requires a claimant to seek treatment.  Therefore, while the examiner may be correct that the Veteran could function in a work environment with therapy and the development of coping skills, the Board construes the opinion to state that, as of the time of the examination, the Veteran did not have the capacity to function in a work environment due to his depressive disorder.  This is supported by the examiner's assessment that the Veteran would have difficulty adapting to stressful circumstances, including work or a work-like setting.
+
+(Continued on the next page)
+
+?
+
+In light of this conclusion, the Board finds that a TDIU is warranted due to the Veteran's service-connected depressive disorder with anxiety disorder.
+
+ 
+
+ 
+
+JOHN Z. JONES
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Patel, Shamil
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

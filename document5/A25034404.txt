@@ -1,0 +1,87 @@
+Citation Nr: A25034404
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240820-465494
+DATE: April 15, 2025
+
+ORDER
+
+The appeal of the September 2023 Higher-Level Review (HLR) decision identifying duty to assist errors for claims for increased ratings for a left knee disability and service connection for a right knee disability is dismissed.
+
+REMANDED
+
+Entitlement to service connection for a right knee disability is remanded.  
+
+FINDING OF FACT
+
+The agency of original jurisdiction (AOJ) retained jurisdiction of the claims for increased ratings for a left knee disability and service connection for a right knee disability because the September 2023 HLR decision only identified pre-decisional duty to assist errors.
+
+CONCLUSION OF LAW
+
+The criteria for dismissal of the appeal of the September 2023 HLR decision have been met.  38 C.F.R. § 3.2502.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from October 1974 to March 1984. 
+
+These matters are before the Board of Veterans' Appeals (Board) on appeal from rating decisions issued in September 2023 (duty to assist errors) and August 2024 (right knee disability) under the modernized review system, also known as the Appeals Modernization Act (AMA).  
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the AOJ decisions on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the service connection claim for the right knee, any evidence the Board could not consider will be considered by the AOJ in the readjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+The Board notes the Veteran has the right to select a different Board review option by submitting a new VA Form 10182 within one year from the date the AOJ mailed the decision on appeal, or within 60 days of the date the Board received the VA Form 10182, whichever date is later.  38 C.F.R. § 20.202(c)(2); see Williams v. McDonough, 37 Vet. App. 305 (2024).  Although the period to change dockets per 38 C.F.R. § 20.202(c)(2) has not elapsed for the service connection claim for a right knee disability, the issue is being remanded for further development due to a duty to assist error, and therefore, there is no prejudice to the Veteran in proceeding to adjudicate the appeal. 
+
+Dismissed Appeal
+
+In the August 2024 VA Form 10182, the Veteran indicated, in part, that he was appealing the findings of duty to assist errors as to the claims for increased ratings for a left knee disability and service connection for a right knee disability provided in a September 2023 rating decision.  Specifically, the September 2023 HLR rating decision identified prior duty to assist errors for the claims and found that further development was necessary to obtain VA medical examinations.   
+
+Under the AMA, when the HLR adjudicator identifies a pre-decisional duty to assist error, the adjudicator must return the claim to the AOJ and then a supplemental decision will be issued after the errors are corrected.  See 38 C.F.R. § 3.2502.  In this case, because the HLR adjudicator identified pre-decisional duty to assist errors, the AOJ retained jurisdiction of the Veteran's claims for increased ratings for a left knee disability and service connection for a right knee disability, and the appeal should not have been certified to the Board.  The Board is unable to issue a decision on these issues because it does not have jurisdiction over the appeal.  Therefore, the appeal of the September 2023 HLR decision must be dismissed.  
+
+Review of the record reveals that the AOJ is still completing development on the increased rating claims for the left knee.  Once completed, the AOJ will issue a supplemental rating decision.  If the Veteran is not satisfied with that decision, he is free to request review of that decision or file an appeal to the Board.    
+
+As to the service connection claim for the right knee disability, after completing development to correct the duty to assist error, the AOJ issued a February 2024 supplemental rating decision confirming its prior denial of that issue.  The Veteran appealed the February 2024 rating decision to the Board in a February 2024 VA Form 10182, and the Board issued a decision denying the claim in a March 2025 decision.  The service connection claim for a right knee disability before the Board on appeal now, which is addressed in the REMAND section below, stems from a different appeal stream.     
+
+REASONS FOR REMAND
+
+Entitlement to service connection for a right knee disability is remanded.  
+
+The Veteran contends that his right knee disability is secondary to his service-connected left knee disability due to left knee pain causing him to overcompensate or put additional weight on his right knee.  The Veteran has been diagnosed with a right knee strain.    
+
+The AOJ has obtained two medical opinions on this claim.  In March 2023, a VA examiner opined that the Veteran's right knee strain was less likely than not proximately due to or the result of his service-connected left knee disability.  To support this conclusion, the examiner stated there is no evidence from the review of orthopedic literature to suggest that an injury to one joint would have any significant impact on another or opposite uninjured joint unless the injury resulted in major muscle or nerve damage causing partial or complete paralysis, or shortening of the injured limb resulting in an altered gait pattern.  The examiner further stated that the Veteran's records do not support that level of severity.
+
+In October 2023, another VA examiner opined that the Veteran's right knee strain was less likely than not proximately due to or the result of the service-connected left knee disability.  The examiner noted that the Veteran's left knee lateral meniscus tear was diagnosed in August 2023 while his right knee strain was sustained in 2021.  The examiner also remarked that knee strains are common and well-known knee injuries and it is not required to have damage on the left knee to sustain a right knee strain.  
+
+The Board finds the medical opinion evidence of record to be inadequate to fairly resolve the Veteran's claim.  First, neither examiner addressed the Veteran's contention that he must overcompensate or shift weight onto his right knee due to his left knee pain.  Moreover, neither examiner addressed the matter of aggravation.  Finally, the October 2023 opinion erroneously suggested that the Veteran did not sustain a left knee disability until after the diagnosis of a right knee strain, which ignores the fact that the Veteran initially sustained an injury to his left knee during military service in the 1970s.    
+
+Once VA undertakes the effort to provide a medical opinion when developing a service connection claim, even if not statutorily obligated to do so, it must provide one that is adequate for the purposes of the determination being made.  Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).  In light of the foregoing, the Board finds that the AOJ failed to obtain an adequate medical opinion on the Veteran's behalf prior to denying the claim.  This constitutes a pre-decisional duty to assist error, which must be corrected on remand.  
+
+Accordingly, the matter is REMANDED for the following action:
+
+Obtain an addendum medical opinion from a qualified VA physician addressing the nature and etiology of the Veteran's right knee strain.  An in-person examination need not be scheduled unless deemed necessary by the examiner or otherwise required by the evidence.  The examiner must review the claims file in its entirety, to include a copy of this REMAND, and that review must be noted in the report.
+
+Thereafter, the examiner must provide a fully-articulated medical opinion addressing the following:
+
+(a) Is it at least as likely as not (i.e., the likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's right knee disability is caused by the service-connected left knee disability, to include any resultant altered gait or favoring/overcompensation?
+
+(b) Is it at least as likely as not (i.e., the likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's right knee disability is aggravated by the service-connected left knee disability, to include any resultant altered gait or favoring/overcompensation?
+
+The examiner must provide separate opinions addressing causation and aggravation.  
+
+In addressing the matter of aggravation, the examiner is reminded that it is not required that the claimed disability is shown to be aggravated predominantly or permanently by the service-connected disability, but rather, whether there is any contributing degree of aggravation beyond natural progression by that disability.
+
+The examiner is advised that the Veteran is competent to report his medical history, including the onset of symptoms, and any such reports in the record must be acknowledged and considered in formulating any opinion.  
+
+The examiner must provide a complete rationale for any opinions offered, citing to the examiner's own expertise, medical principals, and/or evidence in the Veteran's claims file, when necessary, to support the conclusion reached.  If an opinion cannot be reached without resorting to speculation, the examiner must fully explain why that is so.
+
+ 
+
+ 
+
+J. NICHOLS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Melissa Barbee, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

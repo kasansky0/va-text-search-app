@@ -1,0 +1,85 @@
+Citation Nr: A25034807
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240807-462081
+DATE: April 15, 2025
+
+REMANDED
+
+Entitlement to service connection for obstructive sleep apnea (OSA), to include as secondary to service-connected posttraumatic stress disorder (PTSD), is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served honorably in the United States Army from February 2006 to February 2013.
+
+This matter comes before the Board of Veterans' Appeals (Board) from an August 2023 rating decision issued by a Department of Veterans Affairs Regional Office (RO), the agency of original jurisdiction (AOJ).
+
+In August 2024, the Veteran and his representative timely filed VA Form 10182 Decision Review Request: Board Appeal (Notice of Disagreement) and selected to Direct Review docket. 
+
+In selecting the Direct Review docket, the Board may only consider the evidence of record at the time of the August 2023 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to service connection for OSA to include as secondary to service-connected PTSD, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Service Connection Generally
+
+Establishing service connection on a direct basis generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability. See Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Hickson v. West, 12 Vet. App. 247, 253 (1999); 38 C.F.R. § 3.303(a).
+
+Establishing service connection on a secondary basis requires evidence sufficient to show the following three elements: (1) a current disability that is not already service-connected, (2) at least one service-connected disability, and (3) evidence that the nonservice connected disability is either (a) proximately due to or the result of a service connected disability (causation) or (b) has an increase in severity that is proximately due to or the result of a service-connected disability (aggravation). 38 C.F.R. § 3.310.
+
+Service Connection for OSA to Include as Secondary to Service-Connected PTSD
+
+For the following reasons, the Board finds that the AOJ relied upon an inadequate VA examination thereby committing a pre-decisional duty to assist error prior to the decision on appeal.
+
+Under the Appeals Modernization Act (AMA), the Board must remand a claim to correct an error by the AOJ to satisfy its duty to assist the claimant under 38 U.S.C. § 5103A, if the error occurred prior to the AOJ decision on appeal. 38 U.S.C. § 5103A(f)(2)(A); 38 C.F.R. § 20.802(a). VA's duty to assist includes providing a medical examination, when such examination is necessary to decide a claim. 38 U.S.C. § 5103A(d); 38 C.F.R. § 3.159(c)(4). Once VA undertakes the effort to provide an examination or medical opinion when developing a service-connection claim, it must provide an adequate one. See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).
+
+The Veteran contends that his OSA was caused by his service-connected PTSD due to symptoms of dry mouth, insomnia, periodic leg movement during sleep, nighttime sweating, and vivid nightmares. See March 2023 Statement in Support of Claim. The Veteran and his representative also argue that the Veteran's OSA is secondary to the Veteran's service-connected PTSD and right shoulder, elbow, and ankle conditions due to "substantial weight gain" associated with said conditions. See August 2024 Third Party Correspondence.
+
+Turning to the evidence, in April 2023, the Veteran underwent a VA examination to determine the nature and etiology of his diagnosed mild OSA. See May 2023 C&P Exam. During the examination, the Veteran reported sleep apnea symptoms of witnessed snoring, daytime somnolence, restless sleep, not feeling rested in the morning, headaches, and chronic fatigue that had been "present for years." The Veteran denied engaging in OSA treatment to include utilizing a breathing assistance device such as a continuous positive airway pressure (CPAP) machine. The examiner opined that the Veteran's claimed OSA was less likely than not proximately due to or the result of his service-connected PTSD. Additionally, the examiner found that the Veteran's claimed OSA was less likely than not caused by the Veteran's toxic exposure risk activities (TERA) annotated on the March 2023 TERA Memorandum. See March 2023 Other. The examiner explained that the Veteran (1) did not have a sleep study performed, (2) had not received treatment including a prescription or use of a breathing assistance device, and (3) did not have a diagnosis of sleep apnea. See May 2023 C&P Exam. Further, the examiner stated that without a sleep study confirming the presence of sleep apnea, a nexus could not be established. However, according to the disability benefits questionnaire (DBQ) completed by the examiner, the examiner both identified an April 2023 sleep study and confirmed a diagnosis of mild OSA. The Board notes that the medical opinion was written on April 6, 2023, while the sleep study was performed April 17 to 18, 2023. It is likely that the examiner identified this information later but did not provide an addendum opinion after the discovery. Therefore, due to the conflicting information without resolve, the examination is considered inadequate.
+
+As noted above, the Veteran underwent a sleep study from April 17 to April 18, 2023, via VirtuOx Home Sleep Testing. See May 2023 C&P Exam. Diagnostic impressions included results consistent with mild OSA.
+
+In June 2023, the AOJ requested an addendum medical opinion related to the Veteran's TERA that accounted for the April 2023 sleep study. See June 2023 C&P Exam. The AOJ sought confirmation of an OSA diagnosis and whether the claimed OSA was causally connected to the Veteran's TERA. The examiner provided a negative nexus opinion specifically identifying that the April 2023 sleep study was not included in the Veteran's claims file, thereby limiting their ability to confirm an OSA diagnosis. In addition, the opinion also appears to lack sufficient information regarding the Veteran's TERA exposure that is typically elicited directly from the Veteran (i.e., route, frequency, PPE usage). As such, the opinion is considered inadequate.
+
+In July 2023, the AOJ sought addendum medical opinions from the April 2023 VA contracted examiner to resolve the conflicting information between the April 2023 DBQ and medical opinions. See July 2023 Exam Request. Again, the examiner provided conflicting information and opinions. First, the examiner confirmed the Veteran's OSA diagnosis and that the Veteran's OSA was as likely as not proximately due to or the result of the Veteran's PTSD. See August 2023 C&P Exam. However, the opinion is merely conclusory without an adequate rationale. See Stefl v. Nicholson, 21 Vet. App. 120, 124-25 (2007) (stating that a medical opinion must support its conclusion with an analysis that the Board can weigh, and a mere conclusion by a medical doctor is insufficient to allow the Board to make an informed decision). Next, in providing the TERA opinion, the examiner concluded that the claimed OSA was less likely than not caused by the Veteran's TERA due to a lack of a sleep apnea diagnosis. Based on the conflicting medical opinions and absent a sufficient rationale, the August 2023 addendum medical opinion is considered inadequate.
+
+Additionally, in support of his claim, the Veteran submitted a January 2023 private medical opinion. The medical provider opined that it was at least as likely as not that the Veteran's weight gain was due to the Veteran's service-connected PTSD and right shoulder, elbow, and ankle conditions and that said "overweight condition" led to, caused, or aggravated the Veteran's OSA. See March 2023 Medical Treatment Record - Non-Government Facility. The Board finds that while the provider is competent to opine upon causal connections related to OSA, the opinion lacks credibility based on the method by which the provider diagnosed the Veteran's condition, and a conclusion based on generalizations unspecified or irrelevant as to the Veteran's condition and health. First, the provider diagnosed the Veteran with OSA based upon a sleep apnea screening tool called the STOP-BANG. As noted in the April 2023 VA examination, the STOP-BANG questionnaire, comprised of eight questions, is not meant to diagnose but rather assess the risk of sleep apnea. In fact, such information is included in the providers opinion: "The STOP-Bang score correlates with AHI and is useful for predicting OSA severity[,]" and "polysomnography should be performed actively for patients with high STOP-Bang scores." Polysomnography, also known as a sleep study, used to diagnose sleep apnea. See Mayo Clinic, Polysomnography (sleep study), https://www.mayoclinic.org/tests-procedures/polysomnography/about/pac-20394877 (last visited April 5, 2025). A sleep study had not been performed prior to April 2023 thereby discrediting the provider's OSA diagnostic conclusion. Next, the medical literature cited by the provider is irrelevant as to the Veteran's OSA which is not only evident in the literatures' abstracts, but also in the heading introducing the literature. Specifically, the heading states "[p]lease consider the medical evidence below in support of my Lumbar Spine claim" and notes the Veteran's VA file number which does not suggest that this was an error; thereby further demonstrating a lack of credibility. Additionally, the provider focuses on specific health implications such as metabolic and endocrine alterations and progressive weight gain which is contradictory to the Veteran's health records. The contradictory information suggests that the provider either did not directly elicit the Veteran's health history or reviewed the Veteran's medical records when formulating their opinion. As such, the Board finds the January 2023 private medical opinion both inadequate and not credible.
+
+The Board must also clarify that the Veteran's representative's argument regarding secondary service connection with "sleep disturbance and weight-gain/obesity" misinterprets the purported theory of entitlement. See August 2024 Third Party Correspondence. Specifically, the theory of entitlement that may be raised/evaluated is secondary service connection with obesity as an intermediate step. Body mass index (BMI) is generally used to diagnose obesity. See Mayo Clinic, Obesity, https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742 (last visited April 5, 2025). Based on BMI, an individual is assigned a weight status with obesity classified as a 30.0 or higher BMI. Id. From March 2022 to the time of the Veteran's OSA diagnosis, his BMI had not surpassed 26.7 thereby not meeting the minimum BMI to affirmatively find the Veteran as obese. See April 2023 and January 2024 CAPRI. Prior to 2022, the Veteran's highest BMI recorded was 28.1 in November 2013. See January 2024 CAPRI. Along with the record, the provider noted that "although [the Veteran's] BMI indicates overweight, this is not clinically significant for this patient," and further noted that the Veteran was not at risk for obesity based on waist circumference, healthy muscle mass, and the absence of obesity related conditions. Prior to the November 2013 record, the Veteran's in-service BMI never surpassed 25.7. See STR - Medical. Lastly, the Veteran's complete medical history is absent a clinical diagnosis of obesity. As is demonstrated, the Veteran has not met the obese weight status which is a necessary element as to the theory of entitlement proposed by the Veteran's representative. Stating "weight-gain/obesity" is an inaccurate statement of the theory and reminds the Veteran's representative that weight gain and clinical obesity are not the same. As such, the argument as to whether obesity acted as an intermediate step is flawed because the critical component, an obesity diagnosis or evidence suggesting obesity (i.e., BMI of 30 or higher), is not in fact shown.
+
+Overall, the Board finds that the AOJ relied upon an inadequate VA medical examination/opinion when rendering the decision on appeal and therefore, a remand is warranted for new VA examinations/opinions to correct the pre-decisional error. 
+
+?
+
+The matters are REMANDED for the following action:
+
+1. Obtain (1) an addendum medical opinion or, if necessary, a VA examination for the Veteran's OSA secondary service connection claim and (2) a new TERA VA medical opinion or, if necessary, a TERA VA medical examination for the Veteran's toxic exposure in relation to OSA, from an appropriate clinician or clinicians (examiner(s)) to determine the nature and etiology (origin) of the Veteran's OSA. The entire claims file, to include a copy of this REMAND, should be reviewed by the clinician.
+
+TERA (exposure activity): The examiner must provide an opinion as to whether it is at least likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's OSA is related to his verified toxic exposure activities. In providing this opinion, the examiner is asked to consider and speak to (1) the total potential exposure through all applicable military deployments and (2) the synergistic, combined effect of all toxic exposure risk activities of the Veteran. The examiner must provide a full detailed rationale for this opinion and findings and any resort to speculation should be explained.
+
+Secondary service-connection (PTSD): The examiner must provide an opinion as to whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's diagnosed OSA was caused or aggravated by the Veteran's service-connected PTSD. Note: The examiner must discuss both cause and aggravation in their opinion. The examiner must provide a full detailed rationale for this opinion and findings and any resort to speculation should be explained.
+
+For clarification of secondary service connection, the Board is assessing whether evidence exists that the Veteran's OSA is either (a) proximately due to or the result of the Veteran's service-connected PTSD (causation) or (b) had an increase in severity that is proximately due to or the result of the service-connected PTSD (aggravation). "Proximately due to or the result of" reflects "but for" causation that is not limited to a single cause and effect but rather contemplates multi-causal associations including a direct etiological cause or links in a causal chain (one thing flows from another). In terms of aggravation, the threshold question is whether the Veteran's OSA would be less severe were it not for a service-connected PTSD. For example, where the progression of the non-service-connected disability could have been arrested or improved but for the service-connected disability. Of note for aggravation, in conjunction with a showing of an increase in the severity of the Veteran's OSA, the baseline level of severity of the Veteran's OSA must be established to properly assess the interplay between the Veteran's OSA and service-connected PTSD, if any.
+
+For all opinions, the examiner(s) must consider and discuss all relevant medical and lay evidence, to include the Veteran's assertions and reported symptomatology. If lay assertions in any regard are discounted, the examiner should clearly state so and explain why. Note: The Veteran is competent to attest to factual matters of which he has first-hand knowledge.
+
+(Continued on next page)
+
+?
+
+For all opinions, the examiner(s) is/are advised that reliance solely on medical literature or a lack of medical evidence, especially without consideration of contentions/lay statements raised by the Veteran, is considered an inadequate rationale. The examiner should rely on their medical expertise and consider all evidence of record in rendering their opinion.
+
+For all opinions, should the examiner(s) utilize any relevant medical literature or resources in rendering their findings and opinion, they should provide the specific citation(s) in the examination report.
+
+ 
+
+ 
+
+Ardie A. Bland
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Klemm-Kafel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

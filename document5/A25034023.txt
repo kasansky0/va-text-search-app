@@ -1,0 +1,119 @@
+Citation Nr: A25034023
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240502-437415
+DATE: April 11, 2025
+
+ORDER
+
+For the period of November 30, 2022 to May 11, 2023, entitlement to an initial rating in excess of 60 percent for asthma is denied.
+
+Entitlement to a rating of 100 percent for asthma is granted beginning May 11, 2023, subject to regulations governing payment of monetary awards.
+
+Entitlement to service connection for hypersensitivity pneumonitis, secondary to service-connected asthma, is granted
+
+FINDINGS OF FACT.
+
+1. During the period of November 30, 2022 to May 11, 2023, the Veteran's FEV-1 was, at worst, 72 percent, and FEV-1/FVC was, at worst, 93 percent of predicted value; he did not experience weekly attacks with episodes of respiratory failure and required only intermittent courses of corticosteroids.
+
+2. Beginning May 11, 2023, the Veteran's asthma required daily use of immuno-suppressive medications.
+
+3. The Veteran has a current diagnosis of hypersensitivity pneumonitis which is more likely than not related to his service-connected asthma
+
+CONCLUSIONS OF LAW
+
+1. For the period of November 30, 2022 to May 11, 2023, the criteria for a disability rating in excess of 60 percent for asthma have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1, 4.96, 4.97, Diagnostic Code 6602. 
+
+2. Beginning May 11, 2023, the criteria for a 100 percent rating for asthma have been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. § 4.1, 4.96, 4.97, Diagnostic Code 6602. 
+
+3. The criteria for service connection for hypersensitivity pneumonitis have been met. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty in the United States Army from September 1, 2010 to August 31, 2015.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from two rating decisions of the Department of Veterans Affairs (VA) Regional Office (RO): a May 2023 decision granting service connection for asthma and assigning an initial rating of 60 percent, and a February 2024 decision denying service connection for hypersensitivity pneumonitis and assigning a reduced rating of 30 percent for the service-connected asthma beginning September 15, 2023. 
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the May 2023 and February 2024 agency of original jurisdiction (AOJ) decisions on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decisions on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. Entitlement to an initial rating in excess of 60 percent for asthma for the period of November 30, 2022 to May 11, 2023.
+
+The Veteran seeks a higher initial rating for his service-connected asthma. A May 2023 rating decision granted service connection for the condition and assigned an initial 60 percent rating with an effective date of November 30, 2022, the date that the VA received the Veteran's intent to file a claim. 
+
+Disability ratings are determined by evaluating the extent to which a veteran's service-connected disability adversely affects his or her ability to function under the ordinary conditions of daily life, including employment, by comparing his or her symptomatology with the criteria set forth in the Schedule for Rating Disabilities. See 38 U.S.C. § 1155; 38 C.F.R. § 4.1. 
+
+If two ratings are potentially applicable, the higher rating will be assigned if the disability more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. Any reasonable doubt regarding the degree of disability will be resolved in favor of the veteran. See 38 C.F.R. § 4.3. 
+
+In determining the present level of a disability for any increased rating claim, the Board must consider the application of staged ratings. Hart v. Mansfield, 21 Vet. App. 505 (2007). In other words, where the evidence contains factual findings that demonstrate distinct time periods in which the service-connected disability exhibited diverse symptoms meeting the criteria for different ratings during the course of the appeal, the assignment of staged ratings is necessary. 
+
+Under DC 6602, a 30 percent rating is warranted for an FEV-1 of 56- to 70-percent predicted, or; FEV-1/FVC of 56 to 70 percent, or; daily inhalational or oral bronchodilator therapy, or; inhalational anti-inflammatory medication. A 60 percent rating is warranted for an FEV-1 of 40 to 55 percent of predicted value, or, an FEV-1/FVC of 40 to 55 percent, or, at least monthly visits to a physician for required care of exacerbations, or, intermittent (at least three per year) courses of systemic (oral or parenteral) corticosteroids. A maximum 100 percent rating is assigned for an FEV-1 less than 40 percent of the predicted value, or, FEV-1/FVC less than 40 percent, or, demonstrates more than one attack per week with episodes of respiratory failure, or, requires daily use of systemic (oral or parenteral) high dose corticosteroids or immune-suppressive medications. 38 C.F.R. § 4.97.For rating purposes, post-bronchodilator findings are the standard in pulmonary assessment. 61 Fed. Reg. 46,723 (1996) (VA assesses pulmonary function after bronchodilation). Post-bronchodilator studies will be used for rating purposes, unless the post-bronchodilator results were poorer than the pre-bronchodilator results, or when the examiner determines that post-bronchodilator results should not be used and states why. See 38 C.F.R. §§ 4.96 (d)(4), (5).
+
+Pulmonary function test (PFT) results are generally reported before and after administration of bronchodilator therapy. VA regulations instruct that post-bronchodilator results be used when considering PFT criteria for ratings under Diagnostic Codes 6600, 6603, 6604, 6825-6833, and 6840-6845. See 38 C.F.R. § 4.96 (d)(5). There are no regulations identifying whether pre- or post-bronchodilator results should be used when determining disability ratings under Diagnostic Code 6602. As 38 C.F.R. § 4.96(d) omits Diagnostic Code 6602, the Board will use the PFT results that allow the most favorable disability rating to the Veteran.
+
+Turning to the evidence of record, the Veteran's service treatment records contain an April 2010 enlistment Report of Medical History and Report of Medical Examination. The Veteran reported no history of history of asthma or breathing problems, shortness of breath, wheezing, inhaler use, or chronic cough. The examiner found the Veteran's lungs to be normal. During service, the Veteran was treated for an upper respiratory infection in November 2010. The Veteran reported a cough lasting approximately six weeks with intermittent periods of relief. The Veteran was prescribed antibiotics and told to return for follow-up if the cough did not improve. No further complaints of respiratory issues are documented during service. At separation in May 2015, the Veteran completed a final Report of Medical History and Report of Medical Examination. He reported no history of history of history of asthma or breathing problems, shortness of breath, wheezing, inhaler use, or chronic cough. The examiner again evaluated his lungs as normal. 
+
+After separation from service, the Veteran's treatment records show that his chronic respiratory issues began in January 2022 with a COVID-19 infection. In March 2022, he began experiencing shortness of breath, which progressed for several months and eventually caused him to seek treatment in July 2022. He was prescribed a short course of steroids, but the issues persisted. In August 2022, he was treated for hypoxia and features of asthma and was prescribed a longer course of steroids and a prescription inhaler (Trelegy). He was officially diagnosed with asthma in September 2022. He was admitted to the emergency department in October 2022 and prescribed antibiotics, a course of Prednisone, and SMART therapy. He was admitted to the emergency department again in December 2022 with swelling and hives and was discharged and prescribed an additional injectable treatment (Tezpire). 
+
+During this period, in December 2022, the Veteran's records were reviewed by a VA examiner using the using the Acceptable Clinical Evidence (ACE) process, and a Disability Benefits Questionnaire was completed. The examiner noted reports of severe respiratory symptoms that leave the Veteran unable to perform strenuous physical activity. Noted treatments for the Veteran's asthma included four or more intermittent courses of systemic corticosteroids, daily inhalational bronchodilator therapy, daily inhalational anti-inflammatory medication, and daily oral bronchodilators, but no antibiotics. The Veteran was also noted to be trialing outpatient oxygen therapy, but not continuous oxygen. The examiner did not note any episodes of respiratory failure in the past 12 months. The examiner noted approximately monthly provider visits for exacerbation (episodes of shortness of breath) for the past six months. The examiner pulmonary function testing from November 2022, which showed pre-bronchodilator FEV-1 of 72 percent predicted and FEV-1/FVC of 93 percent. Post-bronchodilator testing revealed FEV-1 of 77 percent predicted and FEV-1/FVC of 100 percent. The examiner opined that the FEV-1 value most accurately reflected the Veteran's level of disability from asthma. 
+
+Upon review, the Board finds that a 100 percent rating initial for asthma is not warranted. The Veteran's post-bronchodilator pulmonary function testing showed an FEV-1 of 72 percent and FEV-1/FVC of 93 percent, and during the period on appeal, there are no documented incidents of respiratory failure. 
+
+The Board has considered the argument submitted by the Veteran's representative that, during this period, the Veteran's treatment effectively consisted of daily use of corticosteroids, entitling him to a 100 percent rating. However, the medical evidence indicates that the Veteran was prescribed several intermittent periods of corticosteroid treatment followed by tapering, rather than consistent daily corticosteroid treatment at high doses. The December 2022 examiner described the Veteran's corticosteroid treatment history as "several courses of prednisone tapers," and therefore correctly categorized this history as intermittent courses of corticosteroids, rather than daily use of high dose corticosteroids. The fact that these intermittent courses happened close in time to one another does not serve to re-categorize the treatment plan as one of daily corticosteroid use. 
+
+Accordingly, the Board finds that, for the period from November 30, 2022 to May 11, 2023, the evidence weighs persuasively against a finding that a 100 percent rating was warranted. Accordingly, there is no benefit of the doubt to resolve in the Veteran's favor and the claim for an initial disability rating in excess of 60 percent for asthma is denied for that period.
+
+2. Entitlement to a 100 percent for asthma beginning May 11, 2023.
+
+The Veteran further contends that the AOJ erred in reducing the rating for his service-connected asthma from 60 percent to 30 percent in its February 2024 decision. 
+
+Turning to the medical evidence of record for the period on appeal, the Veteran's treatment records show that he was again hospitalized with acute hypoxic respiratory failure in May 2023 and prescribed another course of steroids, which showed improvement, as well as an immunosuppressant. Between May 2023 and September 2023, the Veteran tapered off of the steroids and showed marked improvement on the combination of steroids and immunosuppressants.
+
+In September 2023, the Veteran filed a claim for his newly diagnosed hypersensitivity pneumonitis. In connection with that claim, he was afforded a new VA examination for respiratory conditions in February 2024. The Veteran was examined in person, and a review of the VA e-Folder was noted. The Veteran reported continued shortness of breath with activity. He reported that his current treatment was a combination of daily Mycophenolate immunosuppressant tablets, a steroid inhaler, a daily bronchodilator inhaler, and a daily albuterol inhaler, but that he was no longer taking Prednisone. The examiner noted current treatments as intermittent inhalational bronchodilator therapy and daily use of oral bronchodilators but not oral or parenteral corticosteroid medication usage, antibiotic usage, or outpatient oxygen. The examiner noted no asthma attacks with episodes of respiratory failure in the past 12 months and no physician visits for required care of exacerbations in the last 12 months. Pulmonary function testing was performed, which revealed a pre-bronchodilator FEV-1 of 87 percent predicted and FEV-1/FVC of 0.8 percent predicted. Post-bronchodilator testing revealed FEV-1 of 101 percent predicted. An FEV-1/FVC value was not indicated, nor was a reason given for why it was not indicated. However, the examiner opined that the FEV-1 value most accurately reflected the Veteran's level of disability from asthma. 
+
+The Board notes that several of the examiner's findings are internally inconsistent and are contrary to VA treatment records. The examiner noted no respiratory failure or physician visits for required care of exacerbation within the past 12 months. However, as discussed above, VA treatment records show that the Veteran was hospitalized with acute hypoxic respiratory failure in May 2023. Additionally, the examiner noted the Veteran's self-report of daily immunosuppressant use but failed to check the box indicating that he requires daily use of systemic (oral or parenteral) immuno-suppressive medications. The Veteran's reported use of daily immunosuppressants is supported by the VA treatment records. The Veteran was prescribed Mycophenolate Mofetil, an immunosuppressant medication, on May 11, 2023 with instructions on how to increase the daily dosage over time, and this was noted by the examiner in the medical history section. There is no indication that the prescription was intended to be temporary or tapered off, as with the steroid courses. September 2023 treatment notes indicate significant improvement with the addition of the immunosuppressant. Finally, the most recent list of the Veteran's active medications prior to the February 2024 rating decision, compiled in December 2023, includes three tablets of Mycophenolate Mofetil twice daily. 
+
+Accordingly, the Board concludes that beginning May 11, 2023, the Veteran's asthma required daily use of immunosuppressive medication from this date forward. In this regard, the Board notes that the prescribing VA provider indicated that Mycophenolate Mofetil is an immunosuppressive medication, that the treatment records instruct the Veteran to take the medication daily, and that the Veteran indicated to the February 2024 examiner that he was doing so. 
+
+Consequently, as the evidence indicates that the Veteran treats his asthma with daily Mycophenolate Mofetil, an immunosuppressive medication, an increased 100 percent rating is warranted. Accordingly, a 100 percent rating for the period from May 11, 2023, the date that treatment with the medication began, is granted.
+
+3. Entitlement to service connection for hypersensitivity pneumonitis
+
+Finally, the Veteran contends that he is entitled to service connection for hypersensitivity pneumonitis. 
+
+Service connection may be granted for any current disability that is the result of a disease contracted or an injury sustained in the line of duty during active military service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303 (a). 
+
+Service connection on a direct basis generally requires evidence of three elements: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship or nexus between the current disability and the disease or injury incurred or aggravated during active service. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Service connection may be established on a secondary basis for a disability which is due to or the result of service-connected disease or injury. 38 C.F.R. § 3.310(a).  Establishing service connection on a secondary basis requires (1) evidence of a current nonservice-connected disability; (2) evidence of a service-connected disability; and (3) evidence establishing that the service-connected disability either (a) caused, or (b) aggravated, the nonservice-connected disability. 38 C.F.R. § 3.310. Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc); see also Spicer v. McDonough, No. 2022-1239 (Fed. Cir. March 8, 2023) (invalidating the requirement of "proximate cause" and instead held a "but for" causation or aggravation is enough to show entitlement to secondary service connection).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall resolve all reasonable doubt in favor of the claimant. 38 U.S.C. § 5107(b); Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990); 38 C.F.R. § 3.102. This standard does not require the evidence to be exactly equal; rather, it includes "scenarios where the evidence is not in equipoise but nevertheless is in approximate balance. Put differently, if the positive and negative evidence is in approximate balance (which includes but is not limited to equipoise), the claimant receives the benefit of the doubt." Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+In its February 2024 rating decision, the AOJ made a favorable finding that the Veteran has been diagnosed with hypersensitivity pneumonitis. This finding is supported by the evidence of record-discussed in greater detail below-and is sufficient to satisfy the requirement of a current diagnosis. 
+
+Turning to the evidence of record, after separation from service, in addition to his treatment for asthma, the Veteran's providers also began to explore additional diagnoses. In August 2023, the Veteran underwent a biopsy of his lungs. The biopsy led to a diagnosis of hypersensitivity pneumonitis. In September 2023, the Veteran's pulmonologist provided the following comment on the Veteran's diagnosis: "32 y/o male with deployment-related respiratory exposures detailed above with history-compatible asthma, history of COVID-19, which collectively evolved to [interstitial lung disease] responsive to immunosuppression and surgical pathologic diagnosis most compatible with hypersensitivity pneumonitis."
+
+In February 2024, the Veteran underwent a VA examination. The Veteran was examined in person, and a review of the VA e-Folder was noted. The Veteran reported ongoing shortness of breath with daily activities. The examiner noted diagnoses of asthma and hypersensitivity pneumonitis. The examiner opined that the Veteran's hypersensitivity pneumonitis was less likely than not incurred in or caused by his service. The examiner's reasoning for this conclusion was that "HP has three variants: acute, subacute, and chronic, and the pathophysiology of HP is determined by genetics, environment, age, and immune reactions. It is likely that veteran's asthma and COVID 19 evolved into hypersensitivity pneumonitis."
+
+In light of the above, the Board concludes that the medical evidence of record persuasively favors a grant of service connection on a secondary basis. 
+
+After reviewing the Veteran's complete medical history, both the Veteran's pulmonologist and the VA examiner reached the same conclusion, that the Veteran's service-connected asthma, combined with his January 2022 COVID-19 infection, caused him to develop hypersensitivity pneumonitis. The claims file does not contain any additional medical opinions that would serve to oppose this conclusion. As such, the Board finds that the Veteran's hypersensitivity pneumonitis was caused by his service-connected asthma. 
+
+Accordingly, service connection for interstitial lung, secondary to asthma, is warranted. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+ 
+
+ 
+
+JONATHAN B. KRAMER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Utter, Margaret M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,57 @@
+Citation Nr: A25034954
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 240517-526018
+DATE: April 16, 2025
+
+ORDER
+
+The appeal as to whether it was correct to find that the Veteran was a fugitive felon for purposes of terminating his Department of Veterans Affairs (VA) compensation benefits, from May 30, 2023, to January 31, 2024, creating an overpayment debt in the amount of $29,328.13, is dismissed.
+
+FINDINGS OF FACT
+
+A July 2024 decision on waiver of indebtedness reflects that the Committee on Waivers and Compromises (COWC) granted the Veteran's waiver of recovery of payment of VA compensation benefits related to fugitive felon status in the amount of $29,328.13.
+
+CONCLUSION OF LAW
+
+The criteria for dismissal of the matter of whether the overpayment was properly created due to fugitive felon status from May 30, 2023, to January 31, 2024, creating an overpayment debt in the amount of $29,328.13, is met. 38 U.S.C. § 7105.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION 
+
+The Veteran served on active duty from March 1989 to March 1994. 
+
+The administrative decision on appeal was issued in February 2024 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD), the Veteran elected the Direct Review option; therefore, the Board may only consider the evidence of record at the time of the agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301.
+
+A November 2023 Form FFP-3 VA Office of Inspector General (OIG) Investigative Summary Form shows that on May 30, 2023, the Circuit Court of Chesapeake issued a warrant for probation violation. 
+
+The law prohibits the payment of compensation benefits for any period during which a veteran was a fugitive felon. 38 U.S.C. § 5313B; 38 C.F.R. § 3.665(n). The term "fugitive felon" means a person who is a fugitive by reason of: (i) Fleeing to avoid prosecution, or custody or confinement after conviction, for an offense, or an attempt to commit an offense, which is a felony under the laws of the place from which the person flees; or (ii) Violating a condition of probation or parole imposed for commission of a felony under Federal or State law. 38 C.F.R. § 3.666(e)(2).
+
+VA will discontinue benefits based on fugitive felon status only if: A judge issued a felony arrest warrant with a National Crime Information Center (NCIC) offense code indicating flight or a probation or parole violation; VA provided the beneficiary notice regarding the reason for the warrant and an opportunity to present evidence, such as an acknowledgment of the validity of the warrant or failure to respond to the due process notification, or that he or she did not flee from justice or did not violate any condition of probation or parole; and VA determines, based upon the warrant and evidence submitted by the beneficiary (if any), that the beneficiary was fleeing from justice or violated a condition of probation or parole.
+
+When a warrant is dismissed, recalled, or quashed, there was still a valid warrant up until the date the warrant was cleared and VA benefits are subject to adjustment from the warrant date until the date it is recalled, dismissed, or quashed, unless there was a specific determination that the warrant was void from its inception because of mistaken identity or a defect in the warrant, or the court order specifically states that the recall is effective from a specific date that is on or before the date of the warrant, or uses the terminology nunc pro tunc, which refers to changing back to an earlier date.
+
+In a November 2023 notification letter, the AOJ notified the Veteran that it proposed to terminate his VA compensation benefits effective May 30, 2024, because he was a "fugitive felon" (i.e., the subject of an outstanding warrant). Consequently, the Veteran's compensation benefits were terminated beginning May 30, 2023, the date the warrant was issued. As a result of this action a debt was created. In a February 2024 letter, the Debt Management Center (DMC) informed the Veteran that his debt was $29,328.13.
+
+In June 2024, the Veteran's request for waiver of recovery of an overpayment of VA compensation benefits in the amount of $29,328.13, was received by the COWC. In July 2024, the COWC issued a decision and granted the waiver of recovery of an overpayment of VA compensation benefits in the full amount of $29,328.13, which related to the period from May 30, 2023, to January 31, 2024 (the date prior to when the DMC sent out the debt letter in February 2024). 
+
+In a July 2024 notification letter, the AOJ informed the Veteran that it had reinstated his VA benefits from March 13, 2024, the date the warrant was cleared. 
+
+Here, the VA is no longer attempting to collect any debt from the Veteran related to his fugitive felon status. The COWC granted a full waiver in the amount of $29,328.13. As such, there remains no matter in dispute subject to adjudication with regard to this appeal. 
+
+The Board may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed. 38 U.S.C. § 7105. In this case, due to the grant of a full waiver of the $29,328.13 debt arising out of the Veteran's fugitive felon status, there remain no allegations of errors of fact or law for appellate consideration. Accordingly, the Board does not have jurisdiction to review the appeal, and it is dismissed.
+
+Additionally, the Veteran passed away during the pendency of the appeal in January 2025. The Board expresses its condolences in the loss of the Veteran. However, as previously discussed, the Board has dismissed this case as there remains no matter in dispute subject to adjudication with regard to this appeal and therefore, the appeal is dismissed on this basis. 
+
+ 
+
+MARJORIE A. AUER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	E. Kim, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

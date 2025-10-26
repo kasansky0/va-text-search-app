@@ -1,0 +1,105 @@
+Citation Nr: A25030906
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240715-454854
+DATE: April 3, 2025
+
+ORDER
+
+An initial rating in excess of 50 percent for obstructive sleep apnea (OSA) is denied.
+
+Entitlement to an effective date prior to November 22, 2022, for the award of service connection for OSA is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's OSA has not involved chronic respiratory failure with carbon dioxide retention or cor pulmonale, and/or requiring a tracheostomy.
+
+2. VA received the Veteran's original service connection claim for OSA on April 29, 2020. The claim was denied in a July 14, 2020, rating decision and is now final.
+
+3. VA received the Veteran's supplemental claim on February 9, 2023, for service connection for OSA within a year of the Veteran's November 22, 2022, intent to file.
+
+4. The Veteran has not continuously pursued a claim for service connection for OSA.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a rating in excess of 50 percent for OSA have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.159, 3.321(a), 4.100, Diagnostic Code 6847.
+
+2. The criteria for an effective date prior to November 22, 2022, for the award of service connection for OSA have not been met. 38 U.S.C. § 5110; 38 C.F.R. § 3.400.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served in the Army from January 2014 to February 2020. This matter comes before the Board of Veterans' Appeals (Board) on appeal from rating decisions issued in November 2023 and January 2024 by a Department of Veterans Affairs (VA) Agency of Original Jurisdiction (AOJ) under the modernized appeals system known as the Appeals Modernization Act.
+
+In July 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a June 2023 decision. In November 2023, the AOJ issued the HLR decision on appeal, which considered the evidence of record at the time of the prior June 2023 decision.
+
+As discussed in more detail below, a December 2023 VA letter indicated administrative review of the claim and VA issued a January 2024 rating decision regarding the increased rating claim in response. 
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the June 2023 AOJ decision, which was subsequently subject to higher-level review for the earlier effective date claim and the January 2024 rating decision for the increased rating claim. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board recognizes that the Veteran indicated on the July 2024 VA Form 10182 that he was appealing the denial of an earlier effective date for OSA in a January 2024 rating decision. However, this is an invalid appeal as in order to appeal an effective date the Veteran must appeal the rating decision that established service connection. Rudd v. Nicholson, 20 Vet. App. 296, 300 (2006). In this case, the January 2024 rating decision does not address entitlement to an earlier effective date for OSA. Thus, interpreting the Veteran's VA Form 10182 in a liberal manner, the Board finds that the rating decision on appeal for the Veteran's earlier effective date claim is the November 2023 rating decision. This rating decision addresses entitlement to an earlier effective date and is the result of the Veteran's appeal of the June 2023 rating decision that granted service connection. See 38 C.F.R. § 20.202.
+
+1. Entitlement to an initial rating in excess of 50 percent for OSA.
+
+The Veteran generally contends that he is entitled to an increased rating for his OSA.
+
+In a February 2023 lay statement, the Veteran's spouse contends that the Veteran experiences difficulty falling asleep and sometimes wakes up during the night repeatedly. She states that this affects his energy and focus at least 3 or 4 days each week and that this impacts his work and family life. The Veteran's spouse states that due to the Veteran's exhaustion from OSA symptoms, plus the guilt that his fatigue has stopped him from being a better partner and father, contributed to his depression and irritability as well as his weight gain. Finally, she contends that a disability rating is warranted for the Veteran's OSA that reflects that he utilizes a CPAP machine from VA to treat his OSA.
+
+The period on appeal begins on November 22, 2022, the date of service connection. For the entire appeal period, the Veteran has been in receipt of a 50 percent rating pursuant to Diagnostic Code 6847.
+
+Disability ratings are determined by applying a schedule of ratings that is based on average impairment of earning capacity. Separate diagnostic codes identify the various disabilities. 38 U.S.C. § 1155; 38 C.F.R., Part 4. Each disability must be viewed in relation to its history and the limitation of activity imposed by the disabling condition should be emphasized. 38 C.F.R. § 4.1. Examination reports are to be interpreted in light of the whole recorded history, and each disability must be considered from the point of view of the veteran working or seeking work. 38 C.F.R. § 4.2. All reasonable doubt will be resolved in the claimant's favor. 38 C.F.R. § 4.3. Where there is a question as to which of two disability evaluations shall be applied, the higher evaluation is to be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating is to be assigned. 38 C.F.R. § 4.7.
+
+Separate ratings can be assigned for separate periods based on the facts found - a practice known as "staged" ratings. Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007). Staged ratings are appropriate whenever the factual findings show distinct periods where the service-connected disability exhibits symptoms that would warrant different ratings. Id.
+
+Under 38 C.F.R. § 4.97, Diagnostic Code 6847, a 50 percent disability rating is assigned for sleep apnea requiring the use of a breathing assistance device such as a continuous airway pressure (CPAP) machine. A 100 percent disability rating is assigned for sleep apnea with chronic respiratory failure with carbon dioxide retention or cor pulmonale or requiring a tracheostomy.
+
+The Veteran requires usage of a CPAP machine, and the prescribed CPAP machine is the basis for the Veteran's 50 percent rating.
+
+In this regard, the April 2023 VA examiner indicated that the Veteran does not experience chronic respiratory failure with carbon dioxide retention or cor pulmonale and does not require a tracheotomy. Additionally, the Veteran's medical records are silent as to chronic respiratory failure with carbon dioxide retention or cor pulmonale; and/or a required tracheotomy. Notably, the Veteran does not contend that he experiences these symptoms or requires treatment in addition to the use of a CPAP machine. Moreover, upon review, there is no objective indication from the subsequent treatment records that the Veteran's condition has worsened since the last VA examination. Thus, an initial rating in excess of 50 percent is not warranted.
+
+The Board affords probative weight to the competent medical evidence of the April 2023 examination report. Here, the Board finds that the VA examination report is based on a review of the claims file, consideration of the Veteran's statements, and examination. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008). Additionally, the Board notes that the Veteran has not presented or identified any contrary medical opinion or treatment that supports his claim. Thus, the medical evidence of record weighs against the claim.
+
+In reaching its conclusions, the Board acknowledges the Veteran's belief that his OSA is more severe than as reflected by the currently assigned rating. While the Board recognizes that the Veteran is competent to describe his observable symptomatology, he is not competent to provide an opinion regarding the severity of his symptomatology in accordance with the rating criteria. Woehlaert v. Nicholson, 21 Vet. App. 456 (2007). Rather, the Board finds the medical evidence in which a professional with medical expertise examined the evidence of record and described the manifestations of his OSA in light of the rating criteria to be more persuasive than his reports regarding the severity of his OSA.
+
+The Board has also considered whether staged ratings are appropriate for the Veteran's service connected OSA; however, the Board finds that his symptomatology is adequately considered by the assigned rating. Therefore, assigning staged ratings for such disability is not warranted. 
+
+As a final matter, the Board acknowledges that the Veteran's spouse has contended that the Veteran's OSA has affected his ability to work. As the record does not reflect that the Veteran is currently unemployed, the issue of entitlement to TDIU is not raised by the record. Further, the Veteran has not raised any other issues, nor have any other issues been reasonably raised by the record, with regard to the increased rating claim adjudicated herein. See Doucette v. Shulkin, 28 Vet. App. 366 (2017).
+
+In sum, the Board finds that an initial rating in excess of 50 percent for OSA is not warranted. To the extent that the Veteran contends entitlement to a higher rating, the most probative evidence of record persuasively weighs against the claim, the benefit-of-the-doubt doctrine does not apply, and any further increased rating is not warranted. 38 U.S.C. § 5107(b); 38 C.F.R. §§ 4.3, 4.7. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+2. Entitlement to an effective date prior to November 22, 2022, for the award of service connection for OSA.
+
+The Veteran generally contends that he is entitled to an effective date prior to November 22, 2022, for the award of service connection for OSA.
+
+In a February 2023 lay statement, the Veteran's spouse states that the Veteran was evaluated for OSA in 2019, a few months before his separation from service. She states that he was evaluated using an in-home sleep study and that this sleep study indicated that he had OSA. The Veteran's spouse states that he scheduled an in-lab sleep study to confirm that his OSA was service-related but that there were no appointments available before his separation from service. Finally, she states that after his separation that he attempted to schedule an appointment but that due to the COVID-19 pandemic that there were no appointments available for a year.
+
+Generally, except as otherwise provided, the effective date of an evaluation and award of compensation based on an original claim, a claim reopened after final disallowance, or a claim for increase will be the date of receipt of the claim or the date entitlement arose, whichever is later. 38 U.S.C. § 5110; 38 C.F.R. § 3.400.
+
+If a Veteran submits an intent to file, VA may recognize the receipt of the intent to file as the date of claim so long as VA receives a substantially complete standard claim form within a year. 38 C.F.R. § 3.155(b).
+
+Under the AMA, an effective date can be preserved if the claim is continuously pursued by filing an appropriate administrative review option to an AMA decision, generally within one year from when the decision was issued. 38 C.F.R. § 3.2500(c). If an AMA claim is continuously pursued, it will be considered filed as of the date of the first claim in the continuously pursued chain, not the date the most recent request for review was received. 38 C.F.R. § 3.2500(h).
+
+By way of background, VA received the Veteran's original service connection claim on April 29, 2020, which was denied in a July 2020 rating decision. The Veteran was notified of this decision in July 2020 correspondence. The Veteran did not file a VA Form 10182, a supplemental claim, or a request for higher-level review within a year of the rating decision. Therefore, the July 2020 rating decision is final.
+
+Subsequent to the July 2020 rating decision, VA received the Veteran's Intent to File on November 22, 2022. VA then received the Veteran's Supplemental Claim on February 9, 2023, within a year of the intent to file, and which appealed the July 2020 rating decision. Service connection for OSA was then granted in a June 2023 rating decision with a 30 percent rating effective November 22, 2022.
+
+The Veteran has not identified communication prior to the November 22, 2022, intent to file that may be construed as a desire to appeal the July 2020 rating decision. Further, the record does not contain an intent to file or any document that may be construed as a desire to appeal the denial of service connection for OSA following the July 2020 final rating decision and prior to the November 22, 2022, intent to file. 
+
+Thus, the Veteran's claim was not continuously pursued. Therefore, there is no legal basis for the assignment of an effective date prior to November 22, 2022, for the award of service connection for OSA. As the Veteran did not continuously pursue the claim until the award of service connection, the applicable regulations do not allow for an earlier effective date.
+
+The Board recognizes a December 2023 letter from VA that says that the online claim system may not have accepted or processed the Veteran's April 29, 2020 claim correctly and that VA will conduct a review of the record and that any benefits due will be dated back to the earliest date allowable under the law. Here, this December 2023 letter indicates that the April 2020 application may not have been accepted or processed correctly. However, in this case, a July 2020 rating decision was issued with an explanation of the evidence considered. The Veteran did not submit a request for review of that rating decision within one year. Thus, despite this December 2023 letter, the July 2020 rating decision became final. A January 2024 rating decision was then issued in response to the December 2023 letter and the assigned effective date of 50 percent was continued. 
+
+Based on the above-stated facts and regulations, the Board finds that the earliest effective date possible for the award of service connection for OSA is November 22, 2022, the date VA received the Veteran's intent to file. See 38 U.S.C. § 5110; 38 C.F.R. § 3.400. In reaching this conclusion, the Board has considered the applicability of the benefit-of-the-doubt doctrine. However, as the evidence weighs against the Veteran's claim of entitlement to an earlier effective date, that doctrine is not applicable and the claim for an effective date prior to November 22, 2022, for the award of service connection for OSA is denied. 38 C.F.R. §§ 3.2500(h), 3.400, 4.16. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+ 
+
+S. Sorathia 
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Metoyer, D'Audra I.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

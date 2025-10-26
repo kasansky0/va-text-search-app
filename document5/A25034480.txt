@@ -1,0 +1,79 @@
+Citation Nr: A25034480
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240704-456329
+DATE: April 15, 2025
+
+REMANDED
+
+Entitlement to service connection for sleep apnea is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from December 2015 to December 2019.
+
+The rating decision on appeal was issued in March 2024, and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+The Veteran has continuously pursued appeal from an August 2023 rating decision that denied service connection for sleep apnea.  In October 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR) and requested review of the August 2023 initial decision.  In March 2024, the AOJ issued the HLR decision on appeal, which considered the evidence of record at the time of the prior August 2023 initial decision.
+
+In a July 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the August 2023 initial decision.  38 C.F.R. § 20.301.  If evidence was submitted after the AOJ issued the August 2023 initial decision, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+However, because the Board is remanding the service connection claim for sleep apnea, any evidence the Board could not consider will be considered by the AOJ in the adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+Entitlement to service connection for sleep apnea is remanded.
+
+The Veteran contends that she has sleep apnea secondary to her service-connected hypertension.  Specifically, the Veteran asserts that her service-connected hypertension causes elevated blood pressure levels at night, leading to breathing difficulties while sleeping and causing an elevated heart rate.  June 2023 Claim.
+
+The March 2024 rating decision made a favorable finding that the Veteran is currently diagnosed with obstructive sleep apnea and is service connected for hypertension.  Additionally, the March 2024 rating decision conceded participation in a toxic exposure risk activity (TERA).  The Board is bound by these favorable findings.  38 C.F.R. § 3.104.
+
+The Veteran underwent a June 2023 VA examination, which resulted in a negative nexus opinion relative to TERA.  The VA examiner concluded that the Veteran's sleep apnea is less likely than not caused by TERA after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all TERA of the Veteran.  The VA examiner noted that there is no medical or scientific evidence available that provides any indication of a relationship between the development of the sleep apnea at issue and the TERA.  Rather, the examiner opined that there are risk factors outside of military service, namely the Veteran's obesity, that far outweigh the factors identified in the TERA.  The VA examiner also noted that medical literature provided no documented evidence to suggest that sleep apnea, which is due to obstruction of the oropharynx/nasopharynx during sleep, occurs specifically from the related TERA.  The Board finds this opinion is entitled to weight of probative value relative to service connection for sleep apnea due to TERA, as it reflects consideration of the Veteran's history, including her service history, the nature of sleep apnea, and the nature of TERA.
+
+A June 2023 VA examiner also rendered a negative nexus opinion relative to the Veteran's sleep apnea secondary to her service-connected hypertension.  In doing so, the examiner limited the nexus discussion to whether the claimed disability was "proximately due to or the result of" the Veteran's service-connected hypertension.  As such, the opinion is inadequate as related to whether the Veteran's sleep apnea was aggravated by the hypertension, as it did not address this question at all.  See El-Amin v. Shinseki, 26 Vet. App. 136 (2013) (finding that an examination was inadequate on the question of aggravation when aggravation was not addressed by the examiner).
+
+When determining service connection, all theories of entitlement reasonably raised by the evidence of record must be considered.  See Robinson v. Shinseki, 557 F.3d 1355, 1361 (Fed. Cir. 2009).  Here, the evidence suggests the theory that the Veteran's sleep apnea may be related to her service-connected disabilities, with obesity serving as an intermediate step.  See July 2023 VA Medical Opinion.  In addition to hypertension, the Veteran is service connected for temporomandibular disorder with bruxism and major depressive disorder, recurrent moderate with anxious distress with panic attacks.  While obesity cannot be recognized as a disability for compensation purposes, it can be recognized as an intermediate step between a service-connected disability and a disability claimed as secondary to that service-connected disability, based on the service-connected disability causing or aggravating the obesity.  See Walsh v. Wilkie, 32 Vet. App. 300, 306-07 (2020).  Evidence that obesity may serve as an intermediate step between the Veteran's service-connected disabilities and her sleep apnea was of record prior to the March 2024 decision on appeal.  The Board acknowledges that temporomandibular disorder was service connected by a decision subsequent to the August 2023 decision, upon which the record is based.  However, a decision by the AOJ or by the Board is not evidence.  See Green v. McDonough, 37 Vet. App. 127, 136 (2024).  The award of service connection for temporomandibular disorder in conjunction with the evidence of record at the time of the August 2023 decision raises a question as to whether this condition caused or aggravated the Veteran's OSA, including with obesity as an intermediate step.  See id. at 136 ("The Board also has the discretion to 'remand for correction of any other error by the [AOJ] in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the appellant's claim.'  38 C.F.R. § 20.802(a)").  As consideration of this service-connected disability as part of the secondary service connection theory of entitlement may have a reasonable possibility of aiding in substantiating the Veteran's claim, the opinion requested should also consider its impact.
+
+Furthermore, in light of the Veteran's July 2019 service treatment record documenting difficulty staying asleep, an irregular sleeping pattern, awakening throughout the night, being unable to go back to sleep, and feeling tired upon awakening for her workday, the evidence raises a question as to whether the Veteran's sleep apnea is directly related to her service, and thus, the theory of direct service connection must be addressed.
+
+In the March 2024 HLR decision, the AOJ denied the claim without obtaining an addendum or new VA examination to address the above-noted deficiencies.  This is a pre-decisional duty to assist error.  A remand is necessary to correct the error.
+
+The matter is REMANDED for the following actions:
+
+Obtain an addendum opinion from an appropriate clinician to address the etiology of the claimed sleep apnea disability.
+
+The examiner must address the following questions:
+
+(A) The examiner must opine whether the Veteran's sleep apnea is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) due to the Veteran's service.  
+
+In doing so, the clinician must specifically consider the Veteran's July 2019 service treatment record documenting difficulty staying asleep, an irregular sleeping pattern, awakening throughout the night, being unable to go back to sleep, and feeling tired upon awakening for her workday.
+
+(B) The examiner must opine whether the Veteran's sleep apnea is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) caused by or aggravated by the service-connected hypertension.  Note that aggravation means any incremental increase in disability in nonservice-connected disabilities (i.e., any additional impairment of earning capacity) resulting from service-connected conditions.  
+
+In doing so, the clinician must specifically consider the Veteran's June 2023 Claim, wherein, the Veteran reports that her hypertension has elevated her blood pressure levels at night, leading to breathing difficulties while sleeping and causing an elevated heart rate.  
+
+(C) The examiner is also asked to opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that:
+
+(i) The Veteran's service-connected disabilities, to include hypertension; temporomandibular disorder with bruxism; and major depressive disorder, recurrent moderate with anxious distress with panic attacks, caused her to become obese or aggravated obesity;
+
+(ii) Such obesity was a substantial factor in causing her sleep apnea; and
+
+(iii) Her current sleep apnea would not have occurred but for obesity caused by or aggravated by the service-connected disability or disabilities.
+
+A complete rationale must be provided for all opinions rendered.
+
+The examiner is asked to explain the reasons behind any opinions expressed and conclusions reached.  The examiner is reminded that the term "as likely as not" does not mean "within the realm of medical possibility," but rather, that the likelihood is at least approximately balanced or nearly equal, if not higher.  Note that the lack of documented treatment in service, or a long period after, while probative, cannot serve as the sole basis for a negative finding.  The Veteran's lay contentions must be considered and weighed in making the determination.
+
+ 
+
+ 
+
+M. SORISIO
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	K. Knerr
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,91 @@
+Citation Nr: A25034929
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 240826-468169
+DATE: April 16, 2025
+
+ORDER
+
+Entitlement to an initial compensable disability rating for service-connected migraines is denied.
+
+Entitlement to an initial disability rating in excess of 30 percent for service-connected chronic sinusitis is denied.
+
+FINDINGS OF FACT
+
+1. During the appeal period, the Veteran experienced migraines with less frequent attacks.  The migraines did not manifest in characteristic prostrating attacks averaging one in 2 months over the last several months.
+
+2. The Veteran's sinusitis was not manifested with chronic osteomyelitis, or; near constant sinusitis characterized by headaches, pain and tenderness of affected sinus, and purulent discharge or crusting after repeated surgeries.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to an initial compensable disability rating for service-connected migraines have not been met. 38 U.S.C. §§ 1155, 5107 (2024); 38 C.F.R. §§ 3.102, 4.3, 4.7, 4.130, Diagnostic Code (Code) 8100 (2024).
+
+2. The criteria for entitlement to an initial disability rating in excess of 30 percent for service-connected chronic sinusitis have not been met. 38 U.S.C. §§ 1155, 5107 (2024); 38 C.F.R. §§ 3.102, 4.3, 4.7, 4.130, Code 6511-6512 (2024).
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from May 1990 to August 1992.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from July 2024 and May 2024 rating decisions by the Department of Veterans Affairs (VA). In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the July 2024 (migraine) or May 2024 (chronic sinusitis) agency of original jurisdiction (AOJ) decisions on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decisions on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Increased Rating
+
+Disability evaluations are determined by the application of a schedule of ratings, which is based on average impairment of earning capacity caused by the given disability. Separate diagnostic codes identify the various disabilities. 38 U.S.C. § 1155; 38 C.F.R. Part 4.
+
+When a question arises as to which of two ratings applies under a particular Code, the higher rating is assigned if the disability more nearly approximates the criteria for the higher rating. 38 C.F.R. § 4.7. After careful consideration of the evidence, any reasonable doubt remaining, including degree of disability, is to be resolved in favor of the Veteran. 38 U.S.C. § 5107; 38 C.F.R. §§ 3.102, 4.3. If the evidence is not in approximate balance or nearly equal, the claim is to be denied. See Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021); Ortiz v. Principi, 274 F.3d 1361, 1364 (Fed. Cir. 2001).
+
+In any claim for an increased rating, "staged" ratings may be warranted where the factual findings show distinct time periods when the service-connected disability exhibits symptoms that would warrant different ratings. Hart v. Mansfield, 21 Vet. App. 505 (2007); Fenderson v. West, 12 Vet. App. 119 (1999).
+
+1. Entitlement to an initial compensable disability rating for service-connected migraines
+
+The Veteran is seeking a higher rating because he believes that his condition warrants a compensable rating for his service-connected migraines.
+
+Migraine headaches are rated pursuant to 38?C.F.R. §?4.124a, Diagnostic Code (DC) 8100, for migraine.  Under DC 8100, a noncompensable rating is warranted for migraines with less frequent attacks.  A 10 percent rating is warranted for migraines with characteristic prostrating attacks averaging one in 2 months over the last several months.  
+
+The rating criteria of DC 8100 are considered successive, meaning that a claimant cannot fulfill the criteria of the higher rating without fulfilling those of the next lower rating.  Johnson v. Wilkie, 30?Vet. App.?245, 252 (2018).  This renders 38?C.F.R. §§?4.7 and 4.21 inapplicable.  Johnson, 30 Vet. App. at 252.
+
+The phrase "characteristic prostrating attacks" is used in the criteria corresponding to 10 percent and 30 percent ratings under DC 8100 to describe the nature and severity of migraines, but it is not defined in the regulation.  Pursuant to Dorland's Illustrated Medical Dictionary 1531 (32d ed. 2012), prostration is defined as "extreme exhaustion or powerlessness."  Thus, the phrase "characteristic prostrating attacks" is understood to describe migraine attacks that typically produce extreme exhaustion or powerlessness.
+
+The Board concludes that the Veteran's migraines have occurred with less frequent attacks during the appeal period, corresponding to the criteria for a noncompensable rating under DC 8100.  
+
+The Veteran most recently underwent a VA examination in May 2024. The VA examiner noted the Veteran did not take medication for his condition. The Veteran experienced pulsating or throbbing head pain on both sides of his head. The Veteran also reported experiencing sensitivity to light. The duration of the Veteran's headaches last less than one day. Further the VA examiner noted the Veteran did not experience characteristic prostrating attacks of headache pain in the past twelve months. The Veteran likewise did not experience any completely prostrating and prolonged attacks of headache pain in the past twelve months. The Veteran said he has a headache about every ten days or less and the headaches are severe enough to shorten his workday.
+
+The Veteran is competent to report readily observable symptoms.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).  Therefore, the Veteran is competent to describe the frequency, duration, and severity of his headache pain and the Board finds the Veteran's descriptions of the same ot be credible.
+
+Considering all relevant evidence of record, the Board finds that the Veteran's description of his headaches does not meet the schedular criteria for a compensable rating. While the Veteran experiences headaches every ten days or less, the Veteran reported these headaches last less than one day, and while the Veteran reported they can shorten his workday, he did not describe symptoms similar to "extreme exhaustion or powerlessness" needed to meet the 10 percent schedular criteria for Code 8100.  Accordingly, the Board concludes that the Veteran's migraine headaches occurred with less frequent attacks throughout the appeal period, corresponding to the criteria for a noncompensable rating under DC 8100.
+
+A compensable rating under DC 8100 is not warranted unless there are migraines with characteristic prostrating attacks averaging one in 2 months over the last several months.  As described in the paragraph above the Veteran experiences headaches every ten days or less, the Veteran reported these headaches last less than one day, and while the Veteran reported they can shorten his work day, he did not describe symptoms similar to "extreme exhaustion or powerlessness" needed to meet the 10 percent schedular criteria for Code 8100.  Thus, the Board concludes that the Veteran's migraines did not occur with characteristic prostrating attacks averaging one in 2 months over the last several months at any time during the appeal period.  A compensable rating under DC 8100 is not warranted.
+
+2. Entitlement to an initial disability rating in excess of 30 percent for service-connected chronic sinusitis
+
+The Veteran contends that he is entitled to a higher disability rating for his chronic sinusitis because his condition is worse than what is reflected by the 30 percent rating criteria.
+
+Under the General Rating Formula for Sinusitis, a noncompensable rating is assigned where the Veteran's sinusitis can be detected by X-ray only. A 10 percent rating is assigned where the Veteran has one or two incapacitating episodes of sinusitis per year requiring prolonged (lasting four to six weeks) antibiotic treatment or where the Veteran has three to six non-incapacitating episodes per year of sinusitis characterized by headaches, pain, and purulent discharge or crusting. A 30 percent evaluation is assigned when there are three or more incapacitating episodes per year of sinusitis requiring prolonged (lasting four to six weeks) antibiotic treatment, or; more than six non-incapacitating episodes per year of sinusitis characterized by headaches, pain, and purulent discharge or crusting. The next and highest schedular rating of 50 percent is assigned following radical surgery with chronic osteomyelitis, or near constant sinusitis characterized by headaches, pain and tenderness of affected sinus, and purulent discharge or crusting after repeated surgeries. An incapacitating episode of sinusitis means one that requires bed rest and treatment by a physician. 38 C.F.R. § 4.97, Code 6511-6512, note.
+
+The Veteran underwent a sinus-related VA examination in April 2024. The Veteran reported that his sinusitis condition has improved since its onset in 1995. The VA examiner noted the Veteran's maxillary, frontal, and ethmoid sinuses are affected by his condition. The Veteran reported experiencing episodes of sinusitis including headaches, sinus pain, and purulent discharge. The VA examiner described the symptoms as recurrent sinus congestion, sinus headaches, and persistent nasal discharge. The VA examiner noted the Veteran experienced seven or more non-incapacitating episodes of sinusitis characterized by headaches, pain, and purulent discharge or crusting in the past twelve months. However, the VA examiner noted the Veteran did not experience any incapacitating episodes of sinusitis requiring prolonged use of antibiotics treatment. For VA purposes, and as stated above, an incapacitating episode of sinusitis means one that requires bed rest and treatment prescribed by a physician. 38 C.F.R. § 4.97, Code 6511-6512, note. The VA examiner noted that the Veteran's treatment records indicate he has undergone two surgeries related to his chronic sinusitis. In 2005 the Veteran had a radical sinus surgery including craniotomy and in July 2004 the Veteran underwent an endoscopic sinus surgery. The VA examiner noted the Veteran did not experience chronic osteomyelitis following these procedures but has had repeated sinus-related procedures. The VA examiner indicated the Veteran's condition did not affect or impact the Veteran's ability to work.
+
+The Board has reviewed the Veteran's private treatment records for his sinusitis condition, however, there is no indication from the treatment notes of record that the Veteran has reported symptoms that are worse than those noted in the VA examination reports of record.
+
+The Board finds that the competent and probative medical and lay evidence does not warrant an initial 50 percent disability rating. In this regard, the April 2024 VA examination report or other treatment records associated with the claims file do not show the Veteran reported or was assessed with chronic osteomyelitis following radical surgery, or near constant sinusitis characterized by headaches, pain and tenderness of affected sinus, and purulent discharge or crusting after repeated surgeries. While the Veteran reported 7 or more non-incapacitating episodes of sinusitis, the records do not reflect a near-constant sinusitis. Further the Veteran does not experience osteomyelitis.  In sum, the evidence does not show a disability picture with chronic osteomyelitis following radical surgery, or near constant sinusitis characterized by headaches, pain and tenderness of affected sinus, and purulent discharge or crusting after repeated surgeries to warrant a 50 percent rating. See 38 C.F.R. § 4.97, DC 6513.
+
+The Veteran's belief that he is entitled to a higher initial rating for his sinusitis is outweighed by the competent medical findings of record. That is, the Board assigns greater probative value to the pertinent objective findings on the VA examination report and treatment records that were recorded following physical examinations of the Veteran than to the Veteran's general belief that he is entitled to a higher rating.
+
+Accordingly, the Board finds that the benefit-of-the-doubt rule is not applicable as the evidence is not in approximate balance, and entitlement to a compensable rating for sinusitis is not warranted. 38 U.S.C. § 5107(b); Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (en banc).
+
+ 
+
+ 
+
+L. M. BARNARD
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. M. Gallino, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

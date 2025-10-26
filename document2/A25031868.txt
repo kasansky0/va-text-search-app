@@ -1,0 +1,79 @@
+Citation Nr: A25031868
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 220810-268408
+DATE: April 7, 2025
+
+ORDER
+
+An evaluation in excess of 60 percent for asthma is denied.
+
+FINDING OF FACT
+
+The Veteran's Forced Expiratory Volume in one second (FEV-1) value is 101 percent of predicted value; the ratio of FEV-1 to Forced Vital Capacity (FVC) is 109 percent of predicted value; the Veteran does not have more than one attack per week with episodes of respiratory failure nor does the Veteran require daily use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medications.
+
+CONCLUSION OF LAW
+
+The criteria for a rating in excess of 60 percent for asthma have not been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 4.3, 4.7, 4.97, Diagnostic Code (DC) 6602.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from July 1987 to May 1989.
+
+Via the August 2022 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the July 2022 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+1. Rating of asthma.
+
+i.	Introduction.
+
+The Veteran is rated at 60 percent disabling for her asthma and seeks a higher rating. The Veteran filed a claim for an increased rating in March 2022. The AOJ denied an increased rating in June 2022. The Veteran filed a higher-level review request in June 2022. The AOJ denied an increased rating in July 2022. The Veteran submitted additional evidence and a supplemental claim in July 2022. The AOJ denied the Veteran's supplemental claim in July 2022. This August 2022 appeal to the Board follows the July 2022 AJO denial. Following her VA Form 10182, the Veteran filed additional materials and claims that likely overlap with this appeal. However, because they were filed after initiating this appeal, the Board cannot consider those materials in this Decision.
+
+ii.	Legal authority.
+
+Under DC 6602, a 100 percent rating is assigned for FEV-1 of less than 40-percent predicted, or; FEV-1/FVC less than 40 percent, or; more than one attack per week with episodes of respiratory failure, or; daily use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medication. 38 C.F.R. § 4.97, DC 6602.
+
+Post-bronchodilator results are used in applying the evaluation criteria unless they are poorer than the pre-bronchodilator results. 38 C.F.R. § 4.96 (d)(5).
+
+iii.	Facts.
+
+The Veteran underwent a compensation and pension examination in May 2022. The examiner is a physician's assistant. Neither the Veteran nor the record has raised a reason for the Board to doubt the competency or credibility of the examiner.
+
+The examiner notes that the Veteran's respiratory condition does not require the use of oral or parenteral corticosteroid medications. The examiner notes that the Veteran uses inhalational bronchodilators on an intermittent basis and inhalational anti-inflammatory medication on a daily basis. The examiner further notes that the Veteran does not use oral or parenteral bronchodilators nor does the Veteran's condition require the use of antibiotics or oxygen therapy.
+
+The examiner indicated a lack of asthma attacks with accompanying respiratory failure in the past 12 months. Similarly, the Veteran did not have any physician visits for required care of exacerbations.
+
+The examiner interpreted an X-ray from March 2022 that showed no definite acute cardiopulmonary abnormalities. The Veteran performed pulmonary function testing. The Veteran's FEV-1 value is 101 percent of predicted value and the ratio of FEV-1 to FVC is 109 percent of predicted value. The examiner did not perform post-bronchodilator testing because her pre-bronchodilator testing results were normal.
+
+iv.	Analysis.
+
+The Veteran's pulmonary function testing was normal. Accordingly, the Veteran would not qualify for a rating in excess of 60 percent due to her FEV-1 or FVC values. As such, the first basis for an increased rating is not met.
+
+The Veteran also argues that she has asthma attacks resulting in respiratory failure. Although the Veteran believes that this is so, she is not competent to provide a medical assessment. Whether the Veteran is regularly experiencing "respiratory failure" is medically complex; it requires specialized medical education. Jandreau v. Nicholson, 492 F.3d 1372, 1377, 1377 n.4 (Fed. Cir. 2007). Consequently, the Board gives more probative weight to the competent medical evidence. Specifically, the Board gives more evidentiary weight to the May 2022 examiner's assessment concerning the Veteran's absence of any asthma attacks resulting in respiratory failure. Accordingly, the second basis for an increased rating is not met.
+
+In her June 2022 higher-level review request, the Veteran indicates that she has been taking "high dose daily corticosteroids since 2018." The Veteran likely references this because, under the rating criteria, "use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medications" can result in a 100 percent rating.
+
+Crucially, however, DC 6602 distinguishes between "inhalational" therapy and "systemic" therapy. Specifically, if no more than "inhalational" therapy is required, a 100 percent disability rating is not assigned. If treatment requires "systemic" corticosteroid therapy, depending on frequency of use, a 100 percent rating may be assigned.
+
+In her July 2022 argument, the Veteran correctly identifies legal authority supporting this distinction. See LaPointe v. Nicholson, 21 Vet. App. 411 (2006) (noting "Diagnostic Code 6602 clearly makes a distinction between the intermittent or daily use of systemic corticosteroids and the intermittent or daily use of inhaled corticosteroids."). The Veteran continues by arguing that her "inhalational" use of corticosteroids should be considered "systemic." However, "systemic" therapy is limited to oral or parenteral (an injection) medications. The Board cannot consider the Veteran's inhalational medication as "systemic." Accordingly, the third basis for an increased rating is not met.
+
+v.	Conclusion.
+
+Considering the foregoing, the Board finds that the persuasive weight of the evidence shows that the criteria for a 100 percent rating are not met. As the evidence of record persuasively weighs against grating an increased rating, the benefit-of-the-doubt rule does not apply. 38 U.S.C. § 5107(b); Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021). According, A rating in excess of 60 percent for asthma is denied.
+
+ 
+
+ 
+
+MICHAEL LANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Drum, Ryan S.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,147 @@
+Citation Nr: A25034298
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240830-470409
+DATE:  April 14, 2025
+
+ORDER
+
+Entitlement to service connection for migraine headaches as secondary to service-connected PTSD with alcohol use disorder is granted.
+
+Entitlement to a rating in excess of 10 percent rating for gastroesophageal reflux disease (GERD) is denied.
+
+FINDINGS OF FACT
+
+1. The Veteran's migraine headaches are secondary to his service-connected PTSD.
+
+2. From June 11, 2023, the Veteran's GERD did not more nearly approximate symptoms that were productive of considerable impairment of health.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for migraine headaches as secondary to service-connected PTSD with alcohol use disorder are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+2. The criteria for a rating in excess of 10 percent rating for service-connected GERD have not been met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1-4.7, 4.21, 4.31, 4.114, Diagnostic Codes (DCs) 7399-7346.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active-duty service in the U.S. Navy from July 1988 to February 1999.
+
+For the Veteran's increased rating claim for GERD, the rating decision on appeal was issued in September 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies. 
+
+For the Veteran's service connection claim for headaches, in July 2023, the Veteran submitted a VA Form 20-0995, Decision Review Request: Supplemental Claim, and requested readjudication of service connection for headaches most recently addressed in a September 2022 rating decision. December 2023, the agency of original jurisdiction (AOJ) issued the supplemental claim decision on appeal, which found that new and relevant evidence had been received and denied the claim based on the evidence of record at the time of that decision. 
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal and December 2023 supplemental claim decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.  
+
+Service Connection
+
+Generally, service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303. To establish entitlement to service-connected compensation benefits, a veteran must show: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004). Service connection may be granted for any disease initially diagnosed after service when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).
+
+For veterans with 90 days or more of active service during a war period or after December 31, 1946, certain chronic diseases, including organic diseases of the nervous system such as sensorineural hearing loss, are presumed to have been incurred in service if they manifested to a compensable degree within one year of separation from service. 38 U.S.C. §§ 1112, 1113; 38 C.F.R. §§ 3.307, 3.309.
+
+Pursuant to 38 C.F.R. § 3.303(b), where a chronic disease is shown as such in service, subsequent manifestations of the same chronic disease are generally service connected. If a chronic disease is noted in service but chronicity in service is not adequately supported, a showing of continuity of symptomatology after separation is required. Entitlement to service connection based on chronicity or continuity of symptomatology pursuant to 38 C.F.R. § 3.303(b) applies only when the disability for which the Veteran is claiming compensation is due to a disease enumerated on the list of chronic diseases in 38 U.S.C. § 1101(3) or 38 C.F.R. § 3.309(a). Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+Service connection may also be granted for a disability that is proximately due to, or aggravated by, service-connected disease or injury. 38 C.F.R. § 3.310.
+
+Service connection may also be granted on a presumptive basis for Persian Gulf War veterans who exhibit objective indications of a qualifying chronic disability that became manifest to any degree at any time. 38 U.S.C. § 1117.
+
+For purposes of section 1117, there are three types of qualifying chronic disabilities: (1) an undiagnosed illness; (2) a medically unexplained chronic multi-symptom illness (MUCMI); and (3) a diagnosed illness that the Secretary determines in regulations prescribed under 38 U.S.C. § 1117(d) warrants a presumption of service connection. 38 U.S.C. § 1117(a)(2).
+
+A MUCMI is defined by a cluster of signs or symptoms, such as: chronic fatigue syndrome, fibromyalgia, and irritable bowel syndrome. 38 U.S.C. § 1117(a)(2)(B). A MUCMI means a diagnosed illness without conclusive pathophysiology or etiology that is characterized by overlapping symptoms and signs and has features such as fatigue, pain, disability out of proportion to physical findings, and inconsistent demonstration of laboratory abnormalities. See Stewart v. Wilkie, 30 Vet. App. 383, 389 (2018) (holding that under 38 C.F.R. § 3.317, "an illness is a MUCMI where either etiology or pathophysiology of the illness is inconclusive"). Chronic multi-symptom illnesses of partially understood etiology and pathophysiology, such as diabetes and multiple sclerosis, will not be considered medically unexplained. 38 C.F.R. § 3.317(a)(2).
+
+Objective indications of chronic disability include both signs, in the medical sense of objective evidence perceptible to an examining physician, and other, non-medical indicators that are capable of independent verification. 38 C.F.R. § 3.317 (a)(3). Signs or symptoms of an undiagnosed illness or a MUCMI include, but are not limited to: (1) fatigue; (2) signs or symptoms involving skin; (3) headache; (4) muscle pain; (5) joint pain; (6) neurologic signs or symptoms; (7) neuropsychological signs or symptoms; (8) signs or symptoms involving the respiratory system (upper or lower); (9) sleep disturbances; (10) gastrointestinal signs or symptoms; (11) cardiovascular signs or symptoms; (12) abnormal weight loss; and (13) menstrual disorders. 38 C.F.R. § 3.317(b).
+
+Initially, the Board notes that the Veteran had service in the Southwest Asia Theater of operations during the applicable period and meets the definition of a Persian Gulf War veteran, and the provisions of section 3.317 are applicable. 
+
+However, as discussed in detail below, since the Veteran's condition can be attributed to a known clinical diagnosis, service connection for the Veteran's headaches cannot be granted on a presumptive basis under 38 C.F.R. § 3.317. Therefore, the analysis below focuses on whether the Veteran's claimed condition may be granted on a direct or secondary basis.
+
+1. Entitlement to service connection for migraine headaches is granted.
+
+The Veteran contends that he has suffered from headaches since military service that continue to the present day. Alternatively, the Veteran contends that his migraine headaches are secondary to his service-connected posttraumatic stress disorder (PTSD).
+
+At the outset, a diagnosis of chronic migraines is conceded. See September 2023 Supplemental Claim Rating decision. 
+
+Second, as to a direct in-service incurrence, as noted above, the Veteran reported that he has suffered from headaches since military service that continue to the present day. Exposure to a toxic exposure risk activity due to Gulf War service, specifically service in the Southwest Theater of Operations between August 1991 and September 2001, is also conceded. Id.
+
+Therefore, the only remaining issue is whether a nexus may be established on either a direct or secondary basis.
+
+As to a nexus, in May 2019, the examiner concluded that it was less likely than not, less than 50 percent probability, that the Veteran's migraine headaches were proximately due to or the result of PTSD with alcohol use. The examiner reasoned that a review of the medical record in service treatment records did not reveal any notes concerning headaches while on active duty in the Navy. The examiner also concluded that the migraine disorder was not due to PTSD, as they were distinct and separate diseases where one does not cause the other.
+
+In April 2022, the examiner concluded that his migraine headaches were less likely than not (less than 50 percent probability) proximately due to or the result of the veteran's service-connected PTSD. The examiner reasoned that the argument that his headaches are caused by his PTSD with alcohol use was unfounded. While the Veteran is diagnosed with PTSD with alcohol use disorder, the examiner noted that there was no evidence that this is the causative factor. The examiner noted that he abstained from alcohol, he should no longer have headache or only have a headache when consuming alcohol.
+
+In September 2023, the examiner concluded that his headache disability was less likely than not (likelihood is less than approximately balanced or nearly equal) caused by the indicated toxic exposure risk activity, after considering the total potential exposure through all applicable military deployments of the Veteran and the synergistic, combined effect of all toxic exposure risk activities of the Veteran. The examiner reasoned that the medical literature did not support the contention that migraine headaches were caused by the listed TERA exposures. The examiner also noted that migraine headaches were common among the general populace, the vast majority of which were never exposed to such environmental hazards.
+
+The Board finds the May 2019, April 2022, and September 2023 VA opinions, even when taken together, inadequate, as the examiners did not consider the Veteran's lay statements that he has suffered from headaches since service that continued to the present day. The examiners also did not discuss the December 2021 and July 2023 private opinions, detailed below, that support the Veteran's argument that his migraine headaches were secondary to his service-connected PTSD with alcohol use disorder. 
+
+As there are no opinions supporting the service connection for migraine headaches on a direct basis, the Board will focus on whether service connection for migraine headaches may be granted on a secondary basis.
+
+As to a nexus for secondary service connection, in the December 2021 and July 2023 private opinion, the provider concluded that it was at least as likely as not (a 50 percent probability) that the Veteran's current migraine condition is secondary to, related to, and/or aggravated by service-related conditions, to include PTSD and alcohol use disorder. The provider reasoned that the medical literature supports a nexus between mental health disorders, such as PTSD and major depressive disorder, and migraine headaches. The Board finds the December 2021 and July 2023 private opinions probative, as the reports are based on the Veteran's statements, in-person examination, and the examiner's observations. Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 30205 (2008).
+
+As a nexus has been established, service connection for migraine headaches as secondary to service-connected PTSD is warranted.
+
+Increased Rating
+
+The Veteran's entire history is reviewed when making disability evaluations. 38 C.F.R. § 4.1; Schafrath v. Derwinski, 1 Vet. App. 589 (1995). At the time of an initial rating, consideration of the appropriateness of a staged rating is also required. Fenderson v. West, 12 Vet. App. 119 (1999).
+
+Disability evaluations are determined by comparing a Veteran's symptoms with criteria set forth in VA's Schedule for Rating Disabilities, which are based on average impairment in earning capacity. 38 U.S.C. § 1155; 38 C.F.R. Part 4.
+
+When a question arises as to which of two ratings applies under a particular DC, the higher of the two evaluations is assigned if the disability more closely approximates the criteria for the higher rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7.
+
+Pyramiding, that is the evaluation of the same disability, or the same manifestation of a disability, under different DCs, is to be avoided when evaluating a Veteran's service-connected disability. 38 C.F.R. § 4.14 (2017); see Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107; Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).
+
+Given the Veteran's filing of an initial claim (VA Form 21-526EZ) on June 11, 2023, the period on review in this case is from June 11, 2023 until the November 22, 2023 rating decision on appeal. 
+
+Staged ratings have been considered for the Veteran's GERD. However, the Board finds that staged ratings are not appropriate for this condition as the evidence demonstrates that the GERD has been consistent throughout the review period.
+
+2. Entitlement to a rating in excess of 10 percent for gastroesophageal reflux disease (GERD) is denied.
+
+The Veteran seeks a 30 percent rating for his service-connected GERD, which was rated at 10 percent during the period on review.  The Veteran argues that his symptomology warrants a 30 percent rating.  See Attorney memo submitted August 30, 2024.  The Veteran is rated pursuant to DCs 7399-7346.
+
+Hyphenated diagnostic codes are used when a rating for a particular disability under one diagnostic code is based upon rating of the residuals of that disability under another diagnostic code. 38 C.F.R. § 4.27. The first four numbers reflect the diagnosed disability. The second four numbers after the hyphen identifies the criteria used to evaluate that disability. The provisions of 38 C.F.R. § 4.114, Diagnostic Code 7346, pertain to hernia hiatal.
+
+During the pendency of the appeal, VA published amendments to 38 C.F.R. § 4.114, the Schedule of Ratings for the Digestive System, effective May 19, 2024. However, as the period on review closed with the September 2023 decision on appeal, these regulatory changes are not applicable to the current claim. Regardless, the Board finds that the old rating criteria is more favorable to the Veteran's claim.
+
+Prior to May 19, 2024, the rating code did not include an entry for GERD. When an unlisted condition is encountered it will be permissible to rate under a closely related disease or injury in which not only the functions affected, but the anatomical localization and symptomatology are closely analogous. 38 C.F.R. § 4.20. Pursuant to 38 C.F.R. § 4.27, unlisted disabilities requiring rating by analogy will be coded with the numbers of the most closely related body part followed by '99' and then hyphenated to include the diagnostic code being used.
+
+The Veteran's GERD is rated by analogy to 38 C.F.R. § 4.114, DC 7346, for hiatal hernia. Pursuant to DC 7346, a 10 percent disability rating is warranted for two or more of the symptoms for the 30 percent evaluation of less severity. A 30 percent evaluation is warranted for persistently recurring epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health. The maximum 60 percent evaluation is warranted for symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia; or other symptom combinations productive of severe impairment of health.
+
+The terms "severe impairment of health" and "considerable impairment of health" are not defined in the rating schedule; rather than applying a mechanical formula, VA must evaluate all the evidence to the end that its decisions are "equitable and just." 38 C.F.R. § 4.6. The Board notes the term "considerable" is defined by the dictionary as "large in extent or degree," and "severe" is defined as "very painful or harmful." Merriam-Webster's Collegiate Dictionary 267, 1140 (11th ed. 2012).
+
+In assigning a rating under DC 7346, the ameliorative effects of medication may not be considered. See Jones v. Shinseki, 26 Vet. App. 56, 63 (2012). 
+
+Evidence
+
+Turning to the relevant medical evidence, the Veteran's VA treatment notes treatment and complaints of GERD, to include nutritional counselling aimed at decreasing the severity of his GERD symptoms.
+
+In the July 2023 VA examination for GERD, the examiner noted that the Veteran took continuous medication for his GERD. The Veteran experienced the following symptoms of GERD: pyrosis, reflex, regurgitation, pain in the substernal shoulder, sleep disturbance caused by esophageal reflux occurring more than 4 times per year and lasting less than one day, and nausea occurring more than 4 times per year and lasting 1-9 days. The Veteran did not have an esophageal stricture, spasm of esophagus (cardiospasm or achalasia), or an acquired diverticulum of the esophagus. The Veteran did not have a benign or malignant neoplasm or metastases related to GERD. There were no other pertinent physical findings, complications, conditions, signs or symptoms related to GERD.
+
+The Veteran also submitted a statement in June 2023 which the Veteran recounted that he experienced heartburn, acid reflux, regurgitation, chest pain, frequent coughing and changes to his voice.  The Veteran also stated he used Pepto Bismol daily and that he had been prescribed medicine.  The Veteran further relayed he avoided certain food and drink to avoid exacerbating his symptoms.  The Veteran described experiencing pain that radiated to his shoulders and that he needed to prop his head up at night to sleep.  He described broken sleep due to being awakened at night by his GERD symptoms.  The Veteran stated his poor sleep habits have caused him to experience daytime fatigue, mood changes, irritability, and a low sex drive. 
+
+Analysis
+
+The Board finds that the evidence overall does not support a 30 percent rating or higher for the Veteran's GERD. 
+
+As stated above, to be awarded a 30 percent rating under DC 7346, there must be persistently recurrent epigastric distress with dysphagia, pyrosis and regurgitation, accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health. 
+
+Here, while the evidence shows that the Veteran experienced epigastric distress, heartburn, and pain in his shoulder, there is no evidence in the record which indicated the Veteran experienced dysphagia.  
+
+In the August 2024 memo, the Veteran's attorney argued that the Veteran's symptoms as described in his lay statement and the objective medical evidence more closely aligned with a 30 percent rating.  The Board does not discount the impact the Veteran's symptoms have had on his daily life and has considered the Veteran's lay statements describing his symptoms.  However, the language for the rating criteria for a 30 percent rating under DC 7346 is clear that there must be recurrent epigastric distress with dysphagia, pyrosis, and regurgitation.  All four must be present to warrant a 30 percent rating.   There is no evidence in the record to show the Veteran experiences dysphagia.   Therefore, as the Veteran has been shown to have at least two of the symptoms noted for the 30 percent rating, but not dysphagia, the Board finds his symptoms most closely approximates a 10 percent rating under DC 7346, and therefore a 30 percent rating is not warranted. 
+
+ 
+
+ 
+
+Paul R. Casey
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Grossman, Christine
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

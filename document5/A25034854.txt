@@ -1,0 +1,109 @@
+Citation Nr: A25034854
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240503-438265
+DATE: April 15, 2025
+
+REMAND
+
+Entitlement to service connection for a cervical spine condition is REMANDED.
+
+Entitlement to service connection for erectile dysfunction is REMANDED.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Army from January 2010 to March 2018.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the March 2024 decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the RO issued the decision, which was subsequently subject to higher-level review, the Board did not consider it in its decision.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claims of service connection for a cervical spine condition and erectile dysfunction, any evidence the Board could not consider will be considered by the RO in the readjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+1. Entitlement to service connection for a cervical spine condition 
+
+The Veteran claims to have a cervical spine disability due to service.  He reports in-service treatment for neck pain.  See July 2023 VA 21-4138 Statement in Support of Claim.
+
+The Veteran was afforded a VA cervical examination in November 2023.  The examiner opined that the Veteran's current neck strain was not due to his service because there is no evidence of an in-service injury to the cervical spine.  
+
+However, service treatment records contain an August 2013 ultrasound of the neck due to reports of a lump behind the ear.  Further, an undated Report of Medical History, documents complaints of "cracking neck and stiffness."  
+
+Because the November 2023 VA examiner failed to consider these service treatment records in formulating their opinion, the Board finds the opinion inadequate to decide the claim.  The matter is remanded for a new medical opinion. See Barr v. Nicholson, 21 Vet. App. 303 (2007) (holding that once VA has provided a VA examination or obtained a medical opinion, it is required to provide or obtain one that is adequate for the purpose sought).
+
+Further, in a pre-decisional January 2024 Memorandum, VA found that the Veteran participated in a toxic exposure risk activity (TERA) during service in Afghanistan. Due to his military occupational specialty (MOS) of Firefinder Radar Operator, he was exposed to fuel and chemical hazards.  
+
+A medical opinion on the Veteran's cervical strain and TERA is not of records.  Because a finding of TERA participation was associated with the record prior to the March 2024 rating decision on appeal, a pre-decisional error has been identified.  On remand, a medical opinion on the relationship between the Veteran's current neck disability and TERA, if any, should be obtained.
+
+2. Entitlement to service connection for erectile dysfunction 
+
+The Veteran claims to have erectile dysfunction secondary to service-connected anxiety disorder.  See July 2023 VA 21-4138 Statement in Support of Claim.
+
+The regulations adopted after, and because of, Allen v. Brown, 7 Vet. App. 439 (1995) (en banc), provide that service connection may be granted on a secondary basis for a disability which is proximately due to, or the result of, a service-connected disease or injury.  38 C.F.R. § 3.310(a).  And that secondary service connection may be granted for aggravation of a disease or injury by a service-connected disability.  Id. § 3.310(b).  
+
+The United States Court of Appeals for the Federal Circuit (Federal Circuit) had recent occasion to consider matters relevant to the instant case and their holding illuminates the Board's way (and the RO's on remand). 
+
+In Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023), the Federal Circuit held that: 
+
+§ 1110 [of Title 38 of the United States Code] plainly requires compensation when a service-connected disease or injury is a but-for cause[ ] of a present-day disability.  This broad language applies to the natural progression of a condition not caused by a service-connected injury or disease, but that nonetheless would have been less severe were it not for the service-connected disability.  Stated another way, § 1110 provides for compensation for a worsening of functionality-whether through an inability to treat or a more direct, etiological cause.  Nothing in the statute limits § 1110 to onset or etiological causes of a worsening in functionality.  
+
+Id. at 1364 (alterations added).  
+
+The Federal Circuit concluded the causation standard "proximately due to" under section 3.310(b) of the regulations is inconsistent with section 1110 of the statute and, therefore "unlawful".  Consequently, for "aggravation of non-service-connected disabilities" it is enough to show that "but-for" the service-connected disability the incremental increase in severity of a nonservice-connected disease or injury would not have occurred.  Id. at 1364-66.
+
+Turning to the facts of this case, the Veteran was afforded a VA male reproductive conditions examination in September 2023, during which the examiner did not find support for a diagnosis of erectile dysfunction.  The examiner opined that erectile dysfunction was not due to TERA because there is no pathology to warrant a diagnosis.  A medical opinion addressing the secondary service connection theory was not provided.
+
+The Board has considered the VA examiner's report that they were unable to confirm a diagnosis of erectile dysfunction; however, symptoms associated with erectile dysfunction are capable of lay observation, and the Veteran has credibly reported that he has erectile dysfunction.  See Charles v. Principi, 16 Vet. App. 370 (2002).  As such, the Board recognizes that there is a current disability of erectile dysfunction.
+
+Accordingly, as the Veteran has a current disability, the Board finds the September 2023 VA opinion inadequate, so, the claim is remanded for a new VA medical opinion.   See Barr v. Nicholson, 21 Vet. App. 303 (2007) (holding that once VA has provided a VA examination or obtained a medical opinion, it is required to provide or obtain one that is adequate for the purpose sought).  Further, the examiner failed to address the secondary service connection theory that was associated with the claims file prior to the March 2024 rating decision on appeal.  The claim is remanded for a secondary medical opinion consistent with the Court's findings in Spicer.
+
+The matters are REMANDED for the following actions:
+
+1. Obtain an addendum medical opinion from a suitable examiner to address the nature and etiology of the Veteran's cervical spine disability.
+
+The Veteran's electronic claims file, including a copy of this remand, must be made available to the examiner for review.  The need for examination of the Veteran is left to the discretion of the examiner selected to write the opinion.
+
+The examiner is asked to opine as to the following:
+
+(a) Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that a cervical spine disability had its clinical onset during service and is due to any incident of service, to include neck ultrasound and reports of neck cracking and stiffness.
+
+(b)  Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that a cervical spine disability is related to the Veteran's TERA during his active military service.
+
+In rendering this opinion, the examiner is asked to consider and discuss the Veteran's total potential exposure through all applicable military deployments and the synergistic, combined effect of all TERAs.
+
+A detailed rationale must be provided for all opinions and conclusions reached.
+
+2. Obtain a medical opinion from a suitable examiner to address the nature and etiology of the Veteran's erectile dysfunction.  
+
+The Veteran's electronic claims file, including a copy of this remand, must be made available to the examiner for review.  The need for examination of the Veteran is left to the discretion of the examiner selected to write the opinion. 
+
+The examiner is asked to opine as to the following:
+
+(a) Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that an erectile dysfunction disability was caused by or underwent any incremental increase in disability, regardless of its permanence, due to a service-connected anxiety disorder? 
+
+The term "incremental increase in disability" means additional impairment of earning capacity.  Objective measurement, or numerical quantification, is not required to ascertain an increase in disability.  Moreover, any "incremental increase in disability" need not be permanent.
+
+The examiner is respectfully reminded that proximate cause is not the standard to determine secondary service connection.  Rather, the question is whether the Veteran's service-connected anxiety disorder is a but-for cause of his current erectile dysfunction disability.
+
+But-for cause is broader than proximate cause and encompasses multi-link causal chains.  And it applies to the natural progression of a condition not caused by a service-connected injury or disease, but that, nonetheless, would have been less severe were it not for the service-connected disability. 
+
+(b)	Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that an erectile dysfunction disability is related to the Veteran's TERA during his active military service.
+
+In rendering this opinion, the examiner is asked to consider and discuss the Veteran's total potential exposure through all applicable military deployments and the synergistic, combined effect of all TERAs.
+
+A detailed rationale must be provided for all opinions and conclusions reached.
+
+ 
+
+ 
+
+TIFFANY HANSON
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Amanda Baker, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

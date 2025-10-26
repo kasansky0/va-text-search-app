@@ -1,0 +1,75 @@
+Citation Nr: A25034924
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 240731-469591
+DATE: April 16, 2025
+
+ORDER
+
+Service connection for bilateral hearing loss is denied.
+
+Service connection for psychiatric disability, claimed as posttraumatic stress disorder (PTSD), is denied. 
+
+FINDINGS OF FACT
+
+1. The evidence of record persuasively weighs against finding that the Veteran has had bilateral hearing loss at any time during or approximate to the pendency of the claim.
+
+2. The evidence of record persuasively weighs against finding that the Veteran has had psychiatric disability, including PTSD, at any time during or approximate to the pendency of the claim.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for bilateral hearing loss are not met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.385.
+
+2. The criteria for service connection for psychiatric disability, including PTSD, are not met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from February 2015 to June 2020.
+
+These matters come before the Board of Veterans' Appeals (Board) in the Appeals Modernization Act (AMA) system after the issuance of a June 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office (RO).  In July 2024, the Veteran submitted a VA Form 10182 Decision Review Request: Board Appeal (Notice of Disagreement), wherein he selected a Direct Review by a Veterans Law Judge.
+
+In January 2024, the Veteran submitted claims of entitlement to service connection for bilateral hearing loss, and a psychiatric disability, claimed as PTSD.
+
+Establishing service connection generally requires evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability.  See Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004).
+
+Service connection may be granted on a direct basis for any disease initially diagnosed after service, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Impaired hearing will be considered a disability when the auditory threshold in any of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1000, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.
+
+The salient issue presented by both of the Veteran's claims is whether the evidence establishes a current diagnosis.  See Degmetich v. Brown, 104 F.3d 1328, 1333 (1997) (holding that the existence of a current disability is the cornerstone of a claim for VA disability compensation).
+
+?
+
+Bilateral Hearing Loss
+
+In April 2024, the Veteran underwent a VA audiological examination.  Testing revealed that the Veteran's right and left ear puretone threshold at 500, 1000, 2000, 3000, and 4000 Hertz was no greater than 10 decibels.  Further, speech recognition testing using the Maryland CNC word list resulted in a score of 100 percent, bilaterally.
+
+The Veteran did not submit or identify any evidence demonstrating the presence of right and/or left ear hearing loss that satisfies the regulatory definition of a hearing loss disability.  Absent competent evidence reflecting the current presence of the claimed disability, a basis upon which to establish service connection for bilateral hearing loss has not been presented and the appeal must be denied.
+
+To the extent that the Veteran asserts he has bilateral hearing loss, the Board finds that such a determination is more suited to the realm of medical, rather than lay expertise.  The Veteran's statements are competent as to experiencing decreased hearing acuity; however, the diagnosis of bilateral hearing loss that satisfies the applicable regulations is too complex for a layperson to proffer a competent opinion.  The evidence of record does not demonstrate that the Veteran possesses the training or credentials to provide competent diagnostic opinions.  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).  Consequently, the Veteran's lay assertions do not constitute competent evidence of a current bilateral hearing disability in this case.  Lathan v. Brown, 7 Vet. App. 359, 365 (1995).
+
+Because bilateral hearing loss for VA purposes has not been shown, the weight of the evidence is against this service connection claim, the benefit-of-the-doubt rule does not apply, and the claim of entitlement to service connection for bilateral hearing loss must be denied.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).
+
+Psychiatric Disability
+
+The Veteran underwent a VA examination in April 2024 to ascertain the presence and nature of any psychiatric disability, including PTSD.  After reviewing the evidence of record and administering an evaluation, the VA examiner determined that (1) the Veteran's symptoms do not meet the diagnostic criteria for PTSD and (2) the Veteran does not have a mental disorder that conforms with the American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-V).  Additionally, the examiner provided the following opinion:
+
+[The] Veteran's number of reported symptoms, frequency, and severity fail to meet full DSM 5 criteria for depression, anxiety, insomnia, and any other mental health diagnosis.  [The] Veteran may be experiencing some emotional distress, but his symptoms are subclinical and do not impair his social and/or occupational functioning to a clinically significant extent.  [The] Veteran's distress likely stems from his current financial situation such as employment, losing his home, poor credit, etc.  [The] Veteran's service treatment records indicate that [he] denied any mental health symptoms and state he was doing well post deployment during his separation assessment on [March 3, 2020].
+
+The Veteran did not submit or identify any evidence demonstrating the presence of a diagnosed psychiatric disability, including PTSD.  Absent competent evidence reflecting the current presence of the claimed disability, a basis upon which to establish service connection for a psychiatric disability has not been presented and the appeal must be denied.
+
+To the extent that the Veteran asserts he has a current psychiatric disability, the Board finds that such a determination is more suited to the realm of medical, rather than lay expertise.  The Veteran's statements are competent as to experiencing symptoms, such as feeling depressed or anxious; however, the diagnosis of psychiatric disability is too complex for a layperson to proffer a competent opinion.  The evidence of record does not demonstrate that the Veteran possesses the training or credentials to provide competent diagnostic opinions.  Jandreau, 492 F.3d at 1377.  As such, the Veteran's lay assertions do not constitute competent evidence of a current psychiatric disability in this case.  Lathan, 7 Vet. App. at 365.
+
+Because a diagnosis of a psychiatric disability has not been shown, the weight of the evidence is against this service connection claim, the benefit-of-the-doubt rule does not apply, and the claim of entitlement to service connection for a psychiatric disability, including PTSD, must be denied.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Gilbert, 1 Vet. App. at 53. 
+
+ 
+
+A.	C. MACKENZIE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Sean Pflugner, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

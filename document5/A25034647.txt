@@ -1,0 +1,73 @@
+Citation Nr: A25034647
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240916-474887
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for a sinus condition is denied. 
+
+FINDING OF FACT
+
+The Veteran's symptoms are adequately compensated for as part of his service-connected allergic rhinitis and the weight of persuasive evidence demonstrates that there is no additional symptoms or sinus disability.  
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for a sinus condition have not been met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.320.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served in the Air Force National Guard and Reserve of the Air Force with periods of active-duty service from July 2002 and November 2002, from April 2003 to July 2003 and from February 2005 to April 2005, which includes service in the Persian Gulf. 
+
+The rating decision on appeal was issued in September 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the September 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Service connection
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. See 38 U.S.C. § 1110; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury, and (3) a causal relationship between the current disability and the in-service disease or injury.  See Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).  
+
+The presence of a current disability is the cornerstone of any service connection claim.  Service connection is not warranted when there is no current disability.  See Brammer v. Derwinski, 3 Vet. App. 223 (1992). Current means near the time a claim is filed or at any time during its pendency.   See Romanowsky v. Shinseki, 26 Vet. App. 289 (2013); see also McClain v. Nicholson, 21 Vet. App. 319 (2007). Disability "refers to the functional impairment of earning capacity." See Saunders v. Wilkie, 886 F.3d 1356 (Fed. Cir. 2018) (holding that pain can constitute a current disability, even without an underlying diagnosis, if it causes sufficient functional impairment).
+
+Pyramiding, the evaluation of the same disability, or the same manifestation of a disability, under different diagnostic codes, is to be avoided when evaluating a Veteran's service-connected disability.  38 C.F.R. § 4.14.  However, it is possible for a Veteran to have separate and distinct manifestations from the same injury which would permit rating under several diagnostic codes; the critical element in permitting the assignment of several evaluations under various diagnostic codes is that none of the symptomatology for any one of the conditions is duplicative or overlapping with the symptomatology of the other condition.  See Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994).
+
+Entitlement to service connection for a sinus condition 
+
+The Veteran contends that he has a sinus condition caused by his participation in a toxic exposure risk activity (TERA) while deployed.  See March 2023 Claim.  
+
+A May 2024 VA memorandum indicates the Veteran has at least one qualifying deployment that satisfied the criteria for designation as a Persian Gulf Veteran as defined by 38 U.S.C. § 1117.  Therefore, he has established presumption for exposure to in-service toxic exposure, to include burn pits and other toxins (BPOT).  See 38 U.S.C. § 1119. 
+
+The Veteran's service treatment records are silent for any complaints, treatment, or diagnosis related to a sinus infection. 
+
+In an August 2023 VA Sinusitis/Rhinitis Disability Benefits Questionnaire (DBQ), the Veteran reported he experienced symptoms of runny nose, sneezing, and itchy eyes after he was exposed to burn pits while deployed.   The Veteran was diagnosed with allergic rhinitis.  The VA examiner noted that the Veteran had permanent hypertrophy of the nasal turbinates but did not have obstruction of the nasal passages, or nasal polyps.  An August 2023 radiology report revealed features of chronic rhinitis, which included a nasal septum that is mildly deviated to the right and enlarged nasal turbinates.  The radiology report also revealed that the maxillary sinuses were clear and there was no evidence of sinusitis.  Additionally, the examiner reported that the Veteran did not have sinusitis or any findings, signs, or symptoms attributable to chronic sinusitis.  Subsequently, the Veteran was service connected for allergic rhinitis with a noncompensable disability rating, pursuant to 38 C.F.R. § 4.97, DC 6522.  See September 2023 Rating Codesheet (granting service connection for allergic rhinitis due to burn pit exposure effective August 2022).  
+
+The August 2023 examiner provided an opinion regarding the Veteran's participation in a toxic exposure risk activity (TERA) and opined that the claimed condition was less likely than not caused by the Veteran's TERA as there was no pathology to warrant a diagnosis or condition that can be related to the claimed TERA.  The Board finds this opinion inadequate because the opinion is conclusory and not supported by rationale.  See Stefl v. Nicholson, 21 Vet. App. 120 (2007).  
+
+However, after reviewing the evidence of record, the Board finds that service connection for a separate sinus condition is not warranted.   In this regard, to assign separate ratings for a sinus condition on the basis of nasal obstruction or, runny nose, itchy eyes, or sneezing would constitute impermissible pyramiding, as the Veteran is service connected for these symptoms.  See 38 C.F.R. § 4.14; cf. 38 C.F.R. § 4.96 (noting that multiple evaluations are prohibited for certain overlapping respiratory diagnostic codes).  The critical element in permitting the assignment of several ratings under various diagnostic codes is that none of the symptomatology for any one of the conditions is duplicative or overlapping with the symptomatology of the other condition.  See Esteban v. Brown, 6 Vet. App. 259, 261-62 (1994); 38 C.F.R. § 4.14.  
+
+Because the Veteran's symptoms are already contemplated as part of his service-connected allergic rhinitis and there is no other current nasal or respiratory disability, service connection for a sinus condition is not warranted. 
+
+(Continued on the next page)
+
+?
+
+As such, the claim for entitlement to service connection for a sinus condition is denied.  The Board has considered the benefit of the doubt doctrine; however, there is not an approximate balance of positive and negative evidence; therefore, the benefit of the doubt rule does not apply.  See Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+JIMMY L. BARDIN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Smith, S. L.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

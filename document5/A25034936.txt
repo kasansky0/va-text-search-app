@@ -1,0 +1,81 @@
+Citation Nr: A25034936
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 240610-446818
+DATE: April 16, 2025
+
+REMANDED
+
+Entitlement to an effective date earlier than February 8, 2023, for the grant of service connection for obstructive sleep apnea is remanded.
+
+Entitlement to a total disability rating based on individual unemployability due to service-connected disability (TDIU) prior to February 8, 2023, is remanded.
+
+REASONS FOR REMAND
+
+The appellant is a Veteran who served on active duty from August 1992 to August 1996.
+
+These matters are before the Board of Veterans' Appeals (Board) on appeal from a March 2024 Department of Veterans Affairs (VA) rating decision.  
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the March 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+Entitlement to an effective date earlier than February 8, 2023, for the grant of service connection for obstructive sleep apnea is remanded.
+
+Under the AMA framework, the Board may remand where there has been a duty to assist error prior to issuance of a rating decision.  As part of the duty to assist, once VA has provided a VA examination, it is required to provide an adequate one, regardless of whether it was legally obligated to provide an examination in the first place.  Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).  While the Board regrets the additional delay, due to the VA's failure to assist, the Veteran's appeal must be remanded.
+
+In the March 2024 rating decision on appeal, the AOJ granted the Veteran service connection for obstructive sleep apnea as associated with TERA participation.  The AOJ assigned an effective date of February 8, 2023, one year prior to the date on which VA received the Veteran's February 8, 2024, request to reopen the claim for service connection for sleep apnea, because the evidence of record shows a diagnosis of obstructive sleep apnea prior to the August 10, 2022, date on which the PACT Act of 2022 was signed into law.  
+
+As the Veteran's representative accurately noted, the Veteran has continuously pursued the claim for service connection for sleep apnea on appeal from an August 2013 rating decision in the legacy appeal system.  Following a June 2022 Board remand for further development, a July 2022 supplemental statement of the case was issued, and the Veteran opted into the AMA appeal system with an August 2022 VA Form 10182, Notice of Disagreement.  While that appeal remained pending, the March 2024 rating decision granted the Veteran service connection for obstructive sleep apnea as associated with participation in TERA, under the PACT Act.  However, the effective date of February 8, 2023, indicates that this is not a full grant of the benefit sought by the Veteran.  The Board notes that service connection for sleep apnea as secondary to a service-connected disability, or as caused or aggravated by obesity as an intermediate step that was caused by a service-connected disability, could afford the Veteran an earlier effective date for the service connection award, yet they remain inadequately addressed by the medical evidence of record.
+
+In a December 2019 VA record review and advisory medical opinion, the reviewing provider opined that it is less likely than not that the Veteran's obstructive sleep apnea is related directly to his service, and it is more likely than not that the etiology for the obstructive sleep apnea is the Veteran's obesity and male gender.
+
+In a July 2022 VA record review and advisory medical opinion, the provider opined that it is less likely that the Veteran's claimed sleep apnea was proximately due to, the result of, or aggravated beyond natural progression by his service-connected fibromyalgia, irritable bowel syndrome, chronic fatigue syndrome, hypertension with transient ischemic attack, or pilonidal cyst, as there are no known anatomical causal links between those conditions and the claimed sleep apnea condition.  The provider opined that there are no known anatomical causal links between fibromyalgia, irritable bowel syndrome, chronic fatigue syndrome, hypertension/TIA, pilonidal cyst, and obesity.  The provider opined, "Medical records are silent for eating disorder related to the SC conditions.  No objective medical evidence of intermediate step between SC conditions and the claimed obstructive sleep apnea."  The provider opined that the Veteran has known risk factors contributing to the development of obstructive sleep apnea, citing smoking, obesity, and male gender as known risk factors for obstructive sleep apnea that are more likely causative of the claimed condition.
+
+On February 2024 VA examination, the examiner opined that the Veteran's claimed obstructive sleep apnea is less likely than not proximately due ot or the result of his chronic rhinitis or sinusitis.  The examiner noted, "This opinion is NEGATIVE DESPITE, there being a true nexus with sinus and nasal conditions, the record indicates that the Veteran was diagnosed with OSA before developing sinusitis or chronic rhinitis."  (Emphasis as written.)  The examiner opined that sleep apnea due to chronic sinusitis has been shown to be associated with obstructive sleep apnea in a bidirectional manner.  The examiner opined that it is less likely that the sinusitis caused obstructive sleep apnea due to the timeline cited, that sleep apnea was diagnosed before the Veteran developed sinusitis or chronic rhinitis.  The examiner, however, did not address whether the Veteran's service-connected chronic sinusitis aggravated his obstructive sleep apnea.
+
+The Board notes that on January 6, 2017, the General Counsel issued a precedential opinion which held that obesity could be an "intermediate step" between a service-connected disability and a current disability and thus satisfy the causal link between the two.  VAOGCPREC 1-2017.  In such cases where the issue is raised, the adjudicator should resolve three issues: (1) whether the service-connected disability caused the Veteran to become obese; (2) if so, whether the obesity was a substantial factor in causing the current disability; and (3) whether the current disability would not have occurred but for the obesity caused by the service-connected disability.  VAOGCPREC 1-2017.
+
+The Board finds that the medical opinion evidence of record has not addressed whether the Veteran's diagnosed sleep apnea could be secondary to obesity caused by a service-connected disability, or whether the Veteran's service-connected chronic sinusitis may have caused or aggravated his sleep apnea.  A medical opinion is inadequate when it does not consider all raised theories of entitlement.  See Stefl v. Nicholson, 21 Vet. App. 120 (2007).
+
+Accordingly, remand is warranted for further development.
+
+2.  Entitlement to a TDIU rating prior to February 8, 2023, is remanded.
+
+The Veteran currently has a 100 percent combined disability rating effective from February 8, 2023.  However, entitlement to a TDIU rating prior to that date is inextricably intertwined with the effective date of the grant of service connection for obstructive sleep apnea remanded herein.  Therefore, it must be remanded as well.
+
+The matters are REMANDED for the following action:
+
+1.  Obtain a VA addendum medical opinion from an appropriate clinician that provides an opinion on the nature and etiology of the Veteran's sleep apnea that addresses all theories of entitlement.  The reviewing clinician must thoroughly review the Veteran's entire claims file, including a copy of this Remand.
+
+It is up to the clinician to ascertain whether any additional evaluations, studies, or tests are necessary to respond to this directive.  Any such results must be included in the examination report.
+
+The reviewing clinician is asked to provide opinions responding to the following:
+
+a.)	Is it at least as likely as not (at least an approximate balance of positive and negative evidence) that the Veteran's sleep apnea is caused or aggravated by a service-connected condition or conditions, to include chronic sinusitis, generalized anxiety and unspecified depressive disorder, fibromyalgia, chronic fatigue syndrome, irritable bowel syndrome, and/or hypertension?
+
+b.)	Is it at least as likely as not that the Veteran's service-connected disabilities caused the Veteran to become obese or aggravated his obesity?
+
+c.)	If (b) is in the affirmative, whether the obesity as a result of the service-connected disability was a substantial factor in causing or aggravated his sleep apnea? 
+
+d.)	If (c) is in the affirmative, whether sleep apnea would not have occurred but for obesity caused or aggravated by the service-connected disabilities?
+
+The reviewing clinician is advised that the Veteran is competent to attest to factual matters of which he has first-hand knowledge, including observable symptomatology.  The reviewing clinician must not rely solely on the absence of diagnosis or treatment in service, or the lack of medical documentation, as the basis for a negative opinion.
+
+A complete rationale for any opinion expressed must be provided.  If the reviewing clinician is unable to reach an opinion without resort to speculation, he or she must explain the reasons for this inability and comment on whether any further tests, evidence or information would be useful in rendering an opinion.
+
+2.  After the above, readjudicate the issue of entitlement to a TDIU rating prior to February 8, 2023.
+
+ 
+
+ 
+
+A. J. Spector
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	D. Schechner, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

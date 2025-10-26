@@ -1,0 +1,95 @@
+Citation Nr: A25034098
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 230709-360093
+DATE: April 14, 2025
+
+REMANDED
+
+Entitlement to service connection for bilateral flatfoot is remanded.
+
+Entitlement to service connection for back condition is remanded.
+
+Entitlement to service connection for obstructive sleep apnea, to include as secondary to posttraumatic stress disorder, is remanded.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from December 2015 to December 2020.
+
+The rating decision on appeal was issued in June 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In the July 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the June 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding all of the claims in this decision, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+REASONS FOR REMAND
+
+1. Entitlement to service connection for bilateral flatfoot is remanded.
+
+The Veteran contends that she has bilateral flatfoot due to service. Specifically, she asserts that her bilateral flatfoot is due to "wearing boots all the time and for a long period of time."  See March 2023 VA Claim.  She further asserts that she "was referred to a podiatrist while on active duty around 2018," where she was prescribed inserts, but "the pain didn't improve." See id.
+
+An April 16, 2015, service treatment record shows that the Veteran was diagnosed with bilateral flatfoot (pes planus) prior to entrance into the Navy.  The condition was noted as "mild" and "asymptomatic" at the time of entrance.
+
+In a May 15, 2018, service treatment record, the Veteran complained of left foot pain that was attributed to a hallux valgus deformity and bunion.  She was prescribed shoe inserts for treatment of the bunion and a hammertoe condition.
+
+No exam or pre-existing aggravation opinion has been obtained for the claimed bilateral flatfoot disability. As there is evidence of a diagnosis, an indication that it may be associated with an in-service event, and there is not enough information to decide the claim, the low threshold for requiring an examination and opinion have been met. See McLendon v. Nicholson, 20 Vet. App. 79 (2006).  This is a pre-decisional duty to assist error, and remand is necessary to correct it.
+
+2. Entitlement to service connection for back condition is remanded.
+
+The Veteran contends that she has a back condition due to service.  Specifically, she asserts that she injured her back "when the door fell on [her] during [her] second deployment." See March 2023 VA Claim.  Further, she asserts that her "back was also impacted along with [her] shoulder" and she experiences sharp pain in her upper and lower back. See id.
+
+In an April 28, 2022, VA treatment record, the Veteran endorsed symptoms of "upper back tightness/tension."  She was recommended for physical therapy.
+
+A VA examination was not obtained. 
+
+There is no diagnosis of record for a back condition.  However, since there are symptoms of pain, tightness, and tension, an indication that it they be associated with an in-service injury, and there is not enough information to decide the claim, the low threshold for requiring an examination and opinion have been met. See McLendon v. Nicholson, supra.  This is a pre-decisional duty to assist error, and remand is necessary to correct it.
+
+3. Entitlement to service connection for obstructive sleep apnea, to include as secondary to posttraumatic stress disorder, is remanded.
+
+The Veteran contends that she has obstructive sleep apnea due to service, to include as due secondarily to her service-connected posttraumatic stress disorder (PTSD).  See April 2022 VA Claim.
+
+In a September 2022 VA examination, the examiner opined that the Veteran's sleep apnea was "less likely than not" due to her PTSD.  He reasoned that "PTSD does NOT cause Sleep Apnea, however, PTSD and side effects of medications taken to manage PTSD symptoms can aggravate obesity (weight gain), leading to the development of Obstructive Sleep."  The Board finds this opinion inadequate since the examiner raised a new theory of entitlement of obstructive sleep apnea secondary to PTSD with obesity as an intermediate step, but did not provide an opinion on this theory. See Barr v. Nicholson, 21 Vet. App. 303 (2007) (Opinions must not be conclusory, use the wrong standard, or miss theories of entitlement).
+
+Obesity cannot be recognized as a disability, but it can be recognized as an intermediate step between a service-connected disability and a disability claimed as secondary to that service-connected disability, based on the service-connected disability causing or aggravating the obesity. See Walsh v. Wilkie, 32 Vet. App. 300, 306-07 (2020).
+
+In such a case, that evidence would need to reflect: (1) a service-connected disability or disabilities that caused the Veteran to become obese; (2) the obesity was a substantial factor in causing another disability; and (3) the disability would not have occurred but for the obesity caused by the Veteran's service-connected disability or disabilities. VAOGCPREC 1-2017.
+
+Thus, while the Board regrets further delay, a remand is necessary to correct this pre-decisional duty to assist error. See Bowling v. Principi, 15 Vet. App. 1, 12 (2001) (emphasizing the Board's duty to return inadequate examination reports); Hicks v. Brown, 8 Vet. App. 417, 421 (1995) (inadequate medical evaluation frustrates judicial review).
+
+The matters are REMANDED for the following action:
+
+1. Schedule a VA examination with an appropriate clinician to address the claimed bilateral flatfoot.  The examiner must address the following:
+
+(A) Opine as to whether there is clear and unmistakable evidence (i.e., undebatable evidence) that the pre-existing bilateral flatfoot did not undergo an increase in the underlying pathology during service/was not aggravated during service, to include the Veteran's report of left foot pain with separate diagnoses of hallux valgus, bunion, and hammer toe.
+
+2. Schedule a VA examination with an appropriate clinician to address the claimed back conditions.  The examiner must address the following:
+
+(A) Confirm whether there is a diagnosis of an upper or lower back condition.
+
+(B) For each diagnosis, the clinician must opine whether the Veteran's back condition is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) related to her service.
+
+(C) If no diagnosis is found, the clinician must opine whether the Veteran's back symptoms constitute any functional impairment of earning capacity. 
+
+3. Obtain a medical opinion from the September 2023 VA examiner concerning the claimed obstructive sleep apnea.  The examiner must address the following:
+
+(A) Opine whether the Veteran's PTSD caused or aggravated the Veteran's obesity.
+
+(B) Then, opine whether the Veteran's obesity was a substantial factor in causing the obstructive sleep apnea.
+
+(C) Finally, opine whether the obstructive sleep apnea would not have occurred but for the obesity caused by the PTSD.
+
+The examiner must provide a complete rationale for any opinion rendered.  If the examiner cannot provide an opinion without resort to speculation, he or she should explain why an opinion cannot be provided (e.g., lack of sufficient information or evidence, the limits of medical knowledge, etc.).
+
+ 
+
+Leetra J. Harris
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. J. Hall, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

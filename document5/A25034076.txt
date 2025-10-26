@@ -1,0 +1,77 @@
+Citation Nr: A25034076
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240515-442418
+DATE: April 11, 2025
+
+REMANDED
+
+The appeal for entitlement to a disability rating in excess of 10 percent for ulcerative colitis is remanded.
+
+The appeal for entitlement to a total disability rating based on individual unemployability due to service-connected disability (TDIU) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Air Force from March 2011 to April 2013.
+
+These matters were initially before the Board of Veterans' Appeal (Board) on appeal from a February 2024 and April 2024 rating decisions issued by the Department of Veterans Affairs (VA) Regional Office (RO). 
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the February 2024 and April 2024 agency of original jurisdiction (AOJ) decisions on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decisions on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claims, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii). 
+
+1. Entitlement to a disability rating in excess of 10 percent for ulcerative colitis
+
+The Veteran is seeking a rating in excess of 10 percent for service-connected ulcerative colitis. He has been in receipt of a 10 percent rating under Diagnostic Code 7323 since May 30, 2019. In October 2023, he filed a claim for an increased rating following a hospitalization due to perfuse rectal bleeding. 
+
+The rating criteria for evaluating gastrointestinal disabilities under 38 C.F.R. § 4.114 were amended effective May 19, 2024. 89 Fed. Reg. 55 (March 20, 2024). If a law or regulation changes during a claim or an appeal, the version more favorable to the claimant will apply, to the extent permitted by any stated effective date in the amendment in question. 38 U.S.C. § 5110(g); see also Kuzma v. Principi, 341 F.3d 1327 (Fed. Cir. 2003).
+
+Pursuant to the former rating criteria associated with Diagnostic Code 7323, a 10 percent evaluation is assigned for moderate ulcerative colitis with infrequent exacerbations. A 30 percent evaluation is assigned for moderately severe ulcerative colitis with frequent exacerbations. A 60 percent evaluation is assigned for severe ulcerative colitis with numerous attacks a year and malnutrition, the health only fair during remissions. A 100 percent evaluation is assigned for pronounced ulcerative colitis resulting in marked malnutrition, anemia, and general debility, or with serious complication as liver abcess.
+
+Pursuant to the amended rating criteria associated with Diagnostic Code 7323, ulcerative colitis is rated as Crohn's disease or undifferentiated form of inflammatory bowel disease (Diagnostic Code 7326).
+
+The rating criteria associated with Diagnostic Code 7326, Crohn's disease or undifferentiated form of inflammatory bowel disease assign a 10 percent evaluation for minimal to mild symptomatic inflammatory bowel disease that is managed with oral or topical agents (other than immunosuppressants or other biologic agents); and is characterized by recurrent abdominal pain with three or less daily episodes of diarrhea and no signs of systemic toxicity. A 30 percent evaluation is assigned for mild to moderate symptomatic inflammatory bowel disease that is managed with oral or topical agents (other than immunosuppressants or other biologic agents); and is characterized by recurrent abdominal pain with three or less daily episodes of diarrhea and minimal signs of toxicity such as fever, tachycardia, or anemia. A 60 percent evaluation is assigned for moderate inflammatory bowel disease that is managed on an outpatient basis with immunosuppressants or other biologic agents; and is characterized by recurrent abdominal pain, four to five daily episodes of diarrhea; and intermittent signs of toxicity such as fever, tachycardia, or anemia. with three or less daily episodes of diarrhea and minimal signs of toxicity such as fever, tachycardia, or anemia. A 100 percent evaluation is assigned for severe inflammatory bowel disease that is unresponsive to treatment; and requires hospitalization at least once per year; and results in either an inability to work or is characterized by recurrent abdominal pain associated with at least two of the following: (1) six or more episodes per day of diarrhea, (2) six or more episodes per day of rectal bleeding, (3) recurrent episodes of rectal incontinence, or (4) recurrent abdominal distention. Note (1): Following colectomy/colostomy with persistent or recurrent symptoms, rate either under DC 7326 or DC 7329 (intestine, large resection of) whichever provides the highest rating.
+
+VA caselaw provides that a higher rating may not be denied on the basis of relief provided by medication when those effects are not specifically contemplated by the rating criteria. See 38 C.F.R. § 4.114, Diagnostic Code 7323 (containing no reference to the effects of medication); Jones v. Shinseki, 26 Vet. App. 56, 63 (2012). 
+
+With respect to the regulations in effect prior to May 19, 2024, the Board observes that the pre-amendment rating criteria do not contemplate the ameliorative effects of medication. Thus, when employing these criteria, the Board must disregard any such ameliorative effects. Jones, supra. 
+
+In this case, the November 2023 examiner completed a DBQ prior to the May 24, 2019, regulation change, indicating that the Veteran's disability required continuous medication for control, to include prednisone taper and Humira, had been hospitalized due to profuse rectal bleeding that continued despite the use of prednisone and Humira, and episodes of exacerbations of abnormal pain occurring 3 times in the past 12 months. This examination report is inadequate for rating purposes, as it does not address how the Veteran's symptoms would be without the medication. 
+
+A review of the VA examination report of record shows the VA examiner did not attempt to assess the severity of the Veteran's ulcerative colitis after discounting the ameliorative effects of medications, as required by case law. The Board therefore finds that this was a pre-decisional duty-to-assist error, and a remand is necessary to provide the Veteran an adequate examination that describes the Veteran's disability without contemplating the ameliorative effects of medication. Jones, 26 Vet. App. 56, 61-63; 38 C.F.R. § 3.326.
+
+Notably, in addition, Humira and prednisone are both immunosuppressants. The taking of these medications is consistent with the revised portion of the criteria for a 60 percent rating requiring management by immunosuppressants or other biologic agents instead of oral or topical treatment. A 10 percent rating is warranted for minimal to mild symptomatology. Here, the Veteran is prescribed immunosuppressant drugs to control his symptoms which suggests a severity of disability that is more than minimal to mild. Overall, the VA examination of record does not appear to adequately address the severity of the Veteran's disability.
+
+For the reasons explained above, the Board finds that a remand is required to correct the pre-decisional duty to assist error and provide an adequate examination.
+
+2. Entitlement to TDIU
+
+The Board finds that the matter of entitlement to a TDIU is inextricably intertwined with the above-mentioned claim since the outcome of the increased rating claim for ulcerative colitis could impact the outcome of the TDIU claim. Remand of the inextricably intertwined TDIU claim, thus, is also required. 
+
+The matters are REMANDED for the following action:
+
+1. Schedule the Veteran for an examination by an appropriate clinician to determine the current severity of his service-connected ulcerative colitis. The examiner must review the entire record (including this remand) in conjunction with the examination and note such review was conducted. 
+
+The examiner should provide a full description of the disability and report all signs and symptoms associated with the Veteran's disability. Any indicated tests or studies should be conducted in order to properly rate the Veteran under the applicable diagnostic codes. The examiner is specifically requested to address the following:
+
+2. Indicate what the severity of the service- connected ulcerative colitis might be when discounting the ameliorative effects of medication, to include prednisone taper and Humira, for the entire appellate period beginning October 19, 2022.
+
+This directive must not be interpreted as either a suggestion or order that the Veteran stop using any medication for his ulcerative colitis. Rather, it must be read as a request for an examiner to attempt to assess the severity of the Veteran's ulcerative colitis, both with and without medication.
+
+The examiner must explain the rationale for all opinions and conclusions in detail, citing to supporting clinical data and/or medical literature, as appropriate. If the examiner cannot provide an opinion without resorting to speculation, the examiner should provide an explanation as to why this is so and note what, if any, additional evidence would permit such an opinion to be made.
+
+ 
+
+ 
+
+C.B. Iwanowski
+
+Acting Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	C. Mendoza, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

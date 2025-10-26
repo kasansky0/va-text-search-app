@@ -1,0 +1,149 @@
+Citation Nr: A25034344
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 210719-173180
+DATE: April 14, 2025
+
+ORDER
+
+Entitlement to an effective date earlier than December 15, 2020 for the award of a total disability rating due to individual unemployability (TDIU) is denied.
+
+FINDING OF FACT
+
+The evidence of record persuasively weighs against finding that prior to December 15, 2020, it was factually ascertainable that the Veteran was unable from obtaining and maintaining substantially gainful employment.
+
+CONCLUSION OF LAW
+
+The criteria for an effective date prior to December 15, 2020 for the award of entitlement to a TDIU have not been met. 38 U.S.C. §§ 5107(b), 5110; 38 C.F.R. §§ 3.102, 3.2500, 3.340, 3.341, 3.400, 4.16.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from August 2008 to October 2015.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a June 2021 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO).
+
+In August 2024, the Board granted the Veteran's claim for an earlier effective date for the award of TDIU for the date of December 15, 2020.
+
+The Veteran appealed the August 2024 Board decision to the U.S. Court of Appeals for Veterans Claims (CAVC). In February 2025, the Veteran and the VA's Office of the General Counsel filed a Joint Motion for Partial Remand (JMPR) requesting the CAVC to vacate the Board's August 2024 decision regarding the earlier effective date claim for TDIU and remand the matter for action consistent with the terms of the JMPR. In an order dated February 28, 2025, the CAVC granted the JMPR and remanded the matter to the Board for action consistent with the terms of the joint motion.
+
+1. Entitlement to an effective date earlier than December 15, 2020 for the award of a total disability rating due to individual unemployability (TDIU).
+
+The Veteran seeks an effective date earlier than December 15, 2020 for the award of TDIU. Specifically, he contends that his effective date should be November 20, 2016, the last date he was employed. See 12/23/19 Third Party Correspondence at 1; 2/10/21 VA Form 21-8940.
+
+Under the general rule, the effective date of a rating increase is the date of receipt of the claim or the date entitlement to the increase arose, whichever is later. 38 U.S.C. § 5110(a); 38 C.F.R. § 3.400(o)(1). The general rule thus precludes an award of an effective date that is earlier than the date of application for the increased rating. Under an exception, however, the effective date of an increase will be the earliest date as of which it is factually ascertainable from all evidence of record that an increase in disability had occurred, provided that a complete claim or an intent to file a claim is received within one year from that date. 38 U.S.C. § 5110(b)(3); 38 C.F.R. § 3.400(o)(2); see Rice v. Shinseki, 22 Vet. App. 447, 454 (2009). A factually ascertainable increase under this exception is an increase to the next disability level. Hazan v. Gober, 10 Vet. App. 511, 519 (1997). The disability must be shown to have increased during the one year immediately preceding the filing of the claim rather than only earlier. Gaston v. Shinseki, 605 F.3d 979, 980 (2010). For medical records (reports of examination, hospitalization, or medical treatment) to be considered, a complete claim or a statement of intent to file a claim must be received within one year from the date of the medical record. See 38 C.F.R. § 3.400(o)(2).
+
+The effective date of a grant of a total disability rating based on individual unemployability (TDIU) is determined under the rules applying to increases unless the request for that rating was part of an initial claim for service connection; in that case, the effective date is the later of the date of the claim or the date entitlement to the benefit arose. See 38 C.F.R. § 3.400(b)(2); see also Norris v. West, 12 Vet. App. 413, 420 (1999); Hurd v. West, 13 Vet. App. 449 (2000) (indicating that a TDIU claim is also a claim for increased compensation and, therefore, the effective date rules for increased compensation claims apply to a TDIU claim).
+
+While a claim for TDIU can be filed via VA Form 21-8940, a claim for a TDIU may be inferred in an increased rating claim where the veteran asserts his disability affects his employability or such a claim is reasonably raised by the record. See Rice v. Shinseki, 22 Vet. App. 447 (2009). Once a claimant: (1) submits evidence of medical disability, (2) makes a claim for the highest possible rating for the disability, and (3) submits evidence of unemployability due to the disability, an informal claim is raised under 38 C.F.R. § 3.155(a) for TDIU benefits. Roberson v. Principi, 251 F.3d 1378, 1384 (Fed. Cir 2001). "A claim to TDIU benefits is not a free-standing claim that must be pled with specificity; it is implicitly raised whenever a pro se veteran, who presents cogent evidence of unemployability, seeks to obtain a higher disability rating." Comer v. Peake, 552 F.3d 1362, 1367 (Fed. Cir. 2009); Roberson, 251 F.3d at 1384. A request for a TDIU is not a separate claim for benefits, but rather involves an attempt to obtain an appropriate rating for a disability. Rice, supra.
+
+Under the Appeals Modernization Act (AMA), a determination on a claim by the AOJ becomes final unless the claimant?continuously pursues?the claim by filing a supplemental claim, a request for higher-level review, or an appeal to the Board within one year of the date the AOJ mails notice of the decision.?38 C.F.R. § 3.2500(c)(1). If a claimant?continuously pursues?an issue by filing one of these administrative review options within one year, the?effective date?will be the date of receipt of the initial claim or the date entitlement arose, whichever is later.?38 C.F.R. § 3.2500(h)(1). If a supplemental claim is received more than one year after the date on which the AOJ issued notice of a decision, the?effective date?will not be earlier than the date of receipt of the supplemental claim.?38 C.F.R. § 3.2500(h)(2).
+
+In fixing an effective date for an award of increased compensation, VA must make two essential determinations.  It must determine when a claim for increased compensation was received, and when a factually ascertainable increase in disability occurred.
+
+It is the established policy of VA that all veterans who are unable to secure and follow a substantially gainful occupation by reason of service-connected disabilities shall be rated totally disabled. See 38 C.F.R. § 4.16. A finding of total disability is appropriate when there is any present impairment of mind or body which is sufficient to render it impossible for the average person to follow a substantially gainful occupation. See 38 C.F.R. §§ 3.340(a)(1), 4.15.
+
+TDIU may be assigned where the schedular rating is less than total, when it is found that the disabled person is unable to secure or follow a substantially gainful occupation as a result of a single service-connected disability ratable at 60 percent or more, or as a result of two or more disabilities, provided at least one disability is ratable at 40 percent or more and there is sufficient additional service-connected disability to bring the combined rating to 70 percent or more. See 38 C.F.R. §§ 3.340, 3.34l, 4.16(a).
+
+Entitlement to TDIU "does not require proving 100 percent unemployability." Roberson, 251 F.3d at 1380. An inability to keep a job might suggest unemployability, even if the veteran was able to avoid gaps in employment by finding new jobs. See 38 C.F.R. § 4.16(b) ("It is the established policy of the Department of Veterans Affairs that all veterans who are unable to secure and follow a substantially gainful occupation by reason of service-connected disabilities shall be rated totally disabled.").
+
+The ultimate question is whether the veteran is?capable?of performing the physical and mental acts required by employment, not whether the veteran can find employment. Van Hoose v. Brown, 4?Vet. App.?361, 363 (1993). The sole fact that a claimant is unemployed or has difficulty obtaining employment is not enough. Id.
+
+In determining whether a veteran can secure and follow a substantially gainful occupation, attention must be given to both an economic component and a non-economic component. Ray v. Wilkie,?31?Vet. App.?58, 73?(2019). The economic component means an occupation earning more than marginal income (outside of a protected environment) as determined by the U.S. Department of Commerce as the poverty threshold for one person. The non-economic component includes (1) consideration of the veteran's history, education, skill, and training; (2) whether the veteran has the physical ability (both exertional and non-exertional) to perform the type of activities (e.g., sedentary, light, medium, heavy, or very heavy) required by the occupation at issue, in which factors that may be relevant include, but are not limited to, the veteran's limitations, if any, concerning lifting, bending, sitting, standing, walking, climbing, grasping, typing, and reaching, as well as auditory and visual limitations; and (3) whether the veteran has the mental ability to perform the activities required by the occupation at issue, in which factors that may be relevant include, but are not limited to, the veteran's limitations, if any, concerning memory, concentration, ability to adapt to change, handle work place stress, get along with coworkers, and demonstrate reliability and productivity. Id. at 72. VA cannot consider the veteran's age, or the impairment caused by nonservice-connected disabilities. See 38 C.F.R. §§ 3.341, 4.16, 4.19; see also Todd v. McDonald, 27?Vet. App.?79, 85-86 (2014); Van Hoose, 4?Vet. App.?at 363. Additionally, "by discussing [the] potentially relevant factors, we don't create a checklist that must be run completely through in every case. Instead, discussion of any factor is only necessary if the evidence raises it." Ray, 31?Vet. App.?at 73.?
+
+Marginal employment is not considered substantially gainful employment and is deemed to exist when a veteran's earned annual income does not exceed the amount established by the U.S. Department of Commerce, Bureau of the Census, as the poverty threshold for one person. Marginal employment also may be held to exist on a facts-found basis when earned annual income exceeds the poverty threshold. Such situations may include, but are not limited to, employment in a protected environment such as a family business or sheltered workshop.?38 C.F.R. § 4.16(a); see Ortiz-Valles v. McDonald,?28?Vet. App.?65?(2016); Cantrell v. Shulkin,?28?Vet. App.?382?(2017). "Employment in a protected environment" within 38 C.F.R. § 4.16(a) means "a lower-income position that, due to the veteran's service-connected disability or disabilities, is shielded in some respect from competition in the employment market." LaBruzza v. McDonough, 37?Vet. App.?111, 122 (2024).
+
+By way of background, on March 29, 2017, the Veteran filed an Application for Increased Compensation Based on Unemployability, VA Form 21-8940. The AOJ denied the TDIU claim in an August 2017 rating decision.
+
+On August 8, 2018, the Veteran filed a legacy Notice of Disagreement on a VA Form 21-0985. On October 10, 2018, the Veteran filed a supplemental claim under the Rapid Appeals Modernization Program (RAMP). In a January 2019 rating decision under RAMP, the Veteran's claim of TDIU was again denied.
+
+In February 2019, the Veteran requested higher-level review under RAMP. In March 2019, VA notified the Veteran that his February 2019 higher-level review could not be accepted.
+
+In December 2019, the Veteran filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) as to the January 2019 rating decision. In August 2020, the Board denied the Veteran's claim of TDIU.
+
+In January 2021, the Veteran filed a VA Form 20-0995 Supplemental Claim Application regarding his TDIU claim. In April 2021, the AOJ granted his claim of TDIU effective January 22, 2021.
+
+In February 2021, the Veteran submitted a VA Form 21-8940 asserting that his last day of employed was in November 2016.
+
+In April 2021, the Veteran filed a VA Form 20-0996 Request for Higher Level Review as to the April 2021 rating decision seeking an effective date of November 20, 2016 for the award of TDIU.
+
+In June 2021, the AOJ denied the claim for an earlier effective date for the award of TDIU.
+
+In July 2021, the Veteran filed a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) as to the June 2021 rating decision.
+
+As previously mentioned, in August 2024, the Board granted an earlier effective date for the award of TDIU to December 15, 2020. The Veteran appealed the Board decision to the CAVC, and the CAVC granted the JMPR and remanded the matter to the Board in a February 2025 order.
+
+The Board finds that the Veteran continuously pursued his claim of an earlier effective date for the award of TDIU since he filed his VA Form 21-8940 on March 29, 2017. This is the date of claim in this matter.
+
+Notwithstanding this finding, however, a determination must also be made as to when the Veteran was no longer able to obtain and maintain substantially gainful employment. See McGrath v. Gober, 14?Vet. App.?28, 35 (2000).
+
+Prior to the Veteran joining the military, he completed high school. See 3/29/17 VA Form 21-8940 at 2. He had no other education or training at this time until he joined the military.
+
+After the Veteran was discharged from the military, he worked as a warehouse associate from December 2015 to June 2016. Id. at 1. He stated that he voluntarily resigned from this position. See 8/3/17 VA Form 21-4192 at 1.
+
+From July 2016 to November 20, 2016, the Veteran worked in sales. See 3/29/17 VA Form 21-8940 at 1. He stated such employment ended due to the work being completed. See 8/8/18 VA Form 21-4192. He also stated that this was his last full-time employment before his disabilities began affecting his ability to work. See 3/29/17 VA Form 21-8940 at 1.
+
+In December 2016, the Veteran informed a VA medical provider that he was unemployed. See 12/15/16 CAPRI at 74.
+
+Also in December 2016, the Veteran underwent a VA examination for his sleep apnea, back, knee and lower leg, and ankle. During his sleep apnea examination, he reported to fall asleep in his chair and had drowsiness during the day. See 12/22/16 VA Sleep Apnea Examination at 1.
+
+During his back examination, the Veteran reported back pain and that such pain impacted his ability to work, as there was pain with repetitive bending and lifting. See 12/22/16 VA Back Examination at 8, 13.
+
+During his knee and lower leg examination, the Veteran reported pain in both his knees and that his knee joints were always popping. See 12/22/16 VA Knee Examination at 14. The VA examiner found that the Veteran's knee condition did not impact his ability to perform any occupational tasks. Id. at 21.
+
+During his ankle examination, the VA examiner found that the Veteran's right ankle limited his standing and walk tolerance. See 12/22/16 VA Ankle Examination at 7. 
+
+During his PTSD examination, the Veteran was diagnosed with PTSD. See 12/27/16 VA Examination at 1. He reported that he did not like being around other people or crowds, and he avoided both as he did not trust others. He stayed in his bedroom or outside doing yardwork most of the time. He explained that in his two jobs post-service, he did not work well with his coworkers because he disliked dealing with people, and he felt like his coworkers did not understand him. He also reported conflicts with supervisors as he had difficulty taking orders from others since he oversaw other officers in the military. He reported having nightmares, difficulty sleeping, pulling off the mask of his CPAP machine, distressing memories, hypervigilance, depression, loss of interest, avoidance, irritability, and startle response. He also reported that he was easily started by loud noise, was always angry, and disliked being driven by others.
+
+The VA examiner found the Veteran to have depressed mood, anxiety, chronic sleep impairment, disturbance of motivation and mood, and difficulty in establishing and maintaining effective work and social relationships. Id. at 8. The examiner also found the Veteran to have occupational and social impairment with reduced reliability and productivity. Id. at 1.
+
+In January 2017, the Veteran reported he was still unemployed. See 1/13/17 CAPRI at 24.
+
+Also in January 2017, the Veteran underwent a VA examination for migraines, in which he reported to have headaches that were stress related. See 1/18/17 VA Examination at 2.
+
+In March 2017, the Veteran reported that he was employed. See 3/10/17 CAPRI at 20. He also reported being easily agitated with customers and coworkers and would become aggressive when surrounded by a crowd. See 3/29/17 VA Form 21-8940. He also reported that he did not respond well to authority. Id.
+
+In April 2017, the Veteran underwent a VA examination for his PTSD. He reported that he only spent time with his family and had no other social interactions. See 4/27/17 VA Examination at 2. He had no employment since November 2016. At his prior jobs, he had difficulty with coworkers and supervisors, and although he was looking for work, he could not find something that paid him enough to be worth it.
+
+The VA examiner found the Veteran to have depressed mood, anxiety, disturbance of motivation and mood, difficulty in establishing and maintaining effective work and social relationships, and difficulty in adapting to stressful circumstances, including work or a worklike setting. Id. at 4. The examiner also found that the Veteran had occupational and social impairment with reduced reliability and productivity. Id. at 1. Furthermore, the examiner stated that the Veteran appeared to be choosing to be unemployed as his reasons for not seeking unemployment were more related to not dealing with certain discomforts rather than clinically significant social and occupational impairments. Id. at 4. He explained that the Veteran had certain symptoms related to his PTSD and that he would need a work environment that was supportive. However, if he could not find such support, he could have a position that would allow him to work at his own pace with specific requirements/tasks that he could complete on his own time as he reported that he preferred to get his work done so he could relax. Thus, having a position with autonomy would be best as he would not have to deal with other individuals.
+
+In October 2019, the Veteran continued reporting hyper vigilance, exaggerated startled response, difficulty in crowds, mood variability, anger control issues, frustration, sleep issues such as nightmares, frequent thoughts about combat, anhedonia, amotivation, anxiety, depression, and inability to handle minor stresses. See 12/23/19 Medical Treatment Record-Non-Government Facility at 1. He also reported social isolation and avoidance. The medical provider stated that, "Given [the] [Veteran's] symptom presentation and his inability to hold onto a job, he is seen as unemployable." Id.
+
+In January 2020, a VA psychiatrist noted that the Veteran was seen as unemployable given his symptom presentation and inability to hold down a job. See 1/30/20 CAPRI at 65.
+
+From February 2020 to December 2020, the Veteran reported to be employed full time. See 2/18/20 CAPRI at 59; 3/19/20 CAPRI at 44; 9/18/20 CARPI at 24; 12/15/20 CAPRI at 9; 12/30/20 CAPRI at 7.
+
+Also, from July 2020 to December 2020, he reported low back pain. See 7/29/20 CAPRI at 36; 12/30/20 CAPRI at 7. At one point, he stated the back pain interfered with his sleep, and on one occasion, he was unable to get out of bed. See 7/29/20 CAPRI at 36.
+
+In December 2020, the Veteran spoke to a psychologist who opined that he was unable to maintain substantially gainful employment since November 2016 due to his service-connected disabilities. See 2/2/21 Medical Treatment Record-Non-Government Facility. The psychologist noted that during the Veteran's employment post-service, he could not establish healthy work relationships with colleagues, supervisors, and customers and thus, could not meet the requirements of the job. Specifically, he was unable to be patient and polite and was rather explosive. Since he could not deal with other individuals at work, this led to anxiety and worsened work relationships. The Veteran claimed to have been terminated from his last two employments as a warehouse associate and in sales. The psychologist stated that the Veteran had numerous symptoms that prevented him from maintaining substantially gainful employment such as difficulty adapting to stressful circumstances and having personal interactions at work, impulse control including unprovoked irritability, anger towards others, with at least one episode of unprovoked violence towards coworkers, suicidal ideation, sleep issues, hyperarousal, and hypervigilance which could lead to unpredictable episodes of  verbal and physical explosiveness. Overall, he was a high risk to himself and others.
+
+In March 2021, the Veteran underwent a VA examination for his sleep apnea, PTSD, and back. During his sleep apnea examination, he stated he was diagnosed with sleep apnea in 2016. See 3/10/21 Sleep Apnea VA Exanimation at 2. He was always sleepy, had difficulty staying awake, snored loudly, could not drive long distances at the risk of falling asleep, was irritable, had difficulty concentrating, had a dry mouth, and used a CPAP machine. He also only slept about three to four hours a night. The VA examiner found that the Veteran had persistent daytime hypersomnolence. 
+
+During his PTSD examination, the Veteran stated he worked in warehouses and Home Depot prior to the military. See 3/10/21 PTSD VA Examination at 3. Post-service, he worked in a warehouse, a sales job for four months, and at Uber Eats for a period of time, but has been unemployed since 2016. He explained he was terminated from his sales job because he could not get along with management. The VA examiner found the Veteran to have depressed mood, anxiety, suspiciousness, panic attacks that occur weekly or less often, near-continuous panic or depression affecting the ability to function independently, appropriately and effectively, chronic sleep impairment, mild memory loss, such as forgetting names, directions or recent events, flattened affect, circumstantial, circumlocutory or stereotyped speech, speech intermittently illogical, obscure, or irrelevant, difficulty in understanding complex commands, disturbances of motivation and mood, difficulty in establishing and maintaining effective work and social relationships, difficulty adapting to stressful circumstances, including work or a work like setting, inability to establish and maintain effective relationships, impaired impulse control, such as unprovoked irritability with periods of violence, and neglect of personal appearance and hygiene. The examiner also found the Veteran to have occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, and/or mood.
+
+Regarding the Veteran's functional impairment caused by his PTSD and the effect of such to perform physical and sedentary activities of employment, the VA examiner explained that the Veteran struggled with maintaining stamina due to inadequate sleep and low mood related to PTSD. Id. at 8. He struggled with handling time pressures, performing multiple tasks, and responding to change as his distress tolerance was low. He had difficulty interacting with others, accepting negative feedback from superiors, and taking direction from superiors due to his irritability and overseeing others in the military. He also had a tendency to "shut down" when feeling overwhelmed, which would impair his ability to communicate with coworkers, customers, and clients. Thus, the VA examiner found the Veteran to have deficiency in many areas that were necessary in any vocation.
+
+During his thoracolumbar spine examination, he was diagnosed with degenerative arthritis and right lower femoral radiculopathy. See 3/5/21 VA Examination at 2. He stated that he needed help tying his shoes, was unable to walk or move quickly or run long distances, and had difficulty bending down and picking up items, climbing, and getting himself up from sitting. He would also get a shooting pain down his right leg if he moved too quickly.
+
+The Veteran meets the schedular criteria for the award of TDIU from October 7, 2015 to January 22, 2021 as he had a combined 80 percent rating with at least one service-connected disability rated at least 40 percent. Specifically, his service-connected PTSD and sleep apnea were both rated 50 percent individually. From January 22, 2021, the schedular criteria was also met as the Veteran's PTSD was rated 70 percent disabling. He also meets the economic component for TDIU as he has not had full-time employment since December 2020. See 12/30/20 CAPRI at 7. The Veteran's lay statements regarding his last employment have been inconsistent as VA treatment records show the Veteran reporting full-time employment on several occasions after November 2016. Regardless, based on the evidence of record, the last reported full-time employment was in December 2020.
+
+After considering the relevant evidence, the Board finds than an effective date for the grant of TDIU prior to December 15, 2020 is not warranted as the non-economic component was not met. While the Veteran had some physical limitations due to his back, knee, lower leg, and ankle, such limitations were not shown to prevent him from obtaining certain laborious jobs or performing occupational tasks, as noted by the VA examiners. The evidence also varied as to whether the Veteran had the mental capacity to perform occupational tasks. While there were some notes about the Veteran being unemployable in October 2019 and January 2020, there was evidence indicating that the Veteran could perform jobs where he had autonomy. See 4/27/17 VA Examination at 4. He also informed medical providers that he was fully employed in March 2017 and from February 2020 to December 2020, including one job for Uber Eats that had some autonomy. It was not until around December 2020 that the evidence became more consistent in showing that the Veteran's mental capacity declined and prevented him from performing occupational tasks. There was also no other evidence indicating that the Veteran worked after December 2020. Therefore, prior to December 15, 2020, it is not factually ascertainable that the Veteran was unable to obtain and maintain substantially gainful employment.
+
+As previously noted, the effective date for an award of an evaluation shall be based on an original claim or a claim for increase will be the date of receipt of the claim or the date entitlement arose, whichever is the later.?38 C.F.R. § 3.400. Here, that later date is December 15, 2020.
+
+Furthermore, the Veteran asserts that his effective date for the award of TDIU should be his last date of employment, November 20, 2016. See 12/23/19 Third Party Correspondence at 1. As previously explained, the Veteran became incapable of obtaining and maintaining substantially gainful employment on December 15, 2020, and such date comes after his TDIU claim filed on March 29, 2017. There is also no Rice TDIU claim prior to March 29, 2017, but even if there was, any such date would also be prior to December 15, 2020.
+
+In reaching its conclusions, the Board considered the Veteran's various lay statements that his service-connected disabilities made him unable to work since November 20, 2016 and medical providers' statements that the Veteran was unemployable prior to December 15, 2020. While the Board does not doubt that the service-connected disabilities caused the Veteran difficulty at work, there is no other evidence indicating that such disabilities prevented the Veteran from gaining or maintaining employment consistent with his educational and occupational background prior to December 15, 2020. Further, there were some inconsistencies in the Veteran's lay statements as to whether his last full-time employment was November 2016 and the reason for his separation from his sales job in November 2016. Thus, the lay evidence as to such has limited probative weight due to such inconsistencies.
+
+Based on the foregoing, the Board finds that the criteria for an effective date earlier than December 15, 2020 for the award of TDIU have not been met. The benefit of the doubt doctrine does not apply. See?38 U.S.C. § 5107(b);?38 C.F.R. §§ 3.102, 4.3. 
+
+ 
+
+Eric S. Leboff
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Sproviero
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,77 @@
+Citation Nr: A25034866
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 241014-481764
+DATE: April 16, 2025
+
+REMAND ORDER
+
+Entitlement to service connection for sleep apnea is REMANDED.
+
+FACTUAL AND PROCEDURAL HISTORY
+
+The Veteran served in the United States Navy from June 1987 to June 1996.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2023 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO).  In the rating decision, the RO implicitly found that the Veteran had submitted new and relevant evidence when it adjudicated the claim on the merits.  The Board is bound by these favorable findings and does not need to readdress whether new and relevant evidence has been received to reconsider the claim herein.  38 C.F.R. § 3.104(c).
+
+In the October 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the October 2023 supplemental claim decision on appeal. 38 C.F.R. § 20.301. If evidence was submitted after the RO issued the supplemental claim decision on appeal, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the RO in the readjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+REASONS FOR REMAND
+
+Sleep Apnea
+
+The Veteran claims to have a sleep apnea disability due to service.  Alternatively, he alleges that his sleep apnea disability is secondary to service-connected PTSD.
+
+In the October 2023 rating decision on appeal, the RO made favorable findings that the Veteran has been diagnosed with a current disability, Toxic Exposure Risk Activity (TERA) is conceded, and the primary disability of PTSD has been established.  The Board is bound by such favorable findings. Appeals Modernization Act, Pub. L. No. 115-55, § 5104A, 131 Stat. 1105, 1106-07.
+
+With respect to TERA, a VA medical opinion was obtained in August 2023.  The examiner opined that the Veteran's sleep apnea was not due to TERA because there was no objective evidence of any direct, causal relationship between TERA and sleep apnea.  Because the examiner solely relied on the absence of evidence as the basis for the conclusion reached, the Board finds the opinion inadequate, and a remand is required for a new TERA medical opinion.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Barr v. Nicholson, 21 Vet. App. 303 (2007)
+
+Turning to the secondary service connection contention, the regulations adopted after, and because of, Allen v. Brown, 7 Vet. App. 439 (1995) (en banc), provide that service connection may be granted on a secondary basis for a disability which is proximately due to, or the result of, a service-connected disease or injury.  38 C.F.R. § 3.310(a).  And that secondary service connection may be granted for aggravation of a disease or injury by a service-connected disability.  Id. § 3.310(b).  
+
+The United States Court of Appeals for the Federal Circuit (Federal Circuit) had recent occasion to consider matters relevant to the instant case and their holding illuminates the Board's way (and the RO's on remand). 
+
+In Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023), the Federal Circuit held that: 
+
+§ 1110 [of Title 38 of the United States Code] plainly requires compensation when a service-connected disease or injury is a but-for cause[ ] of a present-day disability.  This broad language applies to the natural progression of a condition not caused by a service-connected injury or disease, but that nonetheless would have been less severe were it not for the service-connected disability.  Stated another way, § 1110 provides for compensation for a worsening of functionality-whether through an inability to treat or a more direct, etiological cause.  Nothing in the statute limits § 1110 to onset or etiological causes of a worsening in functionality.  
+
+Id. at 1364 (alterations added).  
+
+The Federal Circuit concluded the causation standard "proximately due to" under section 3.310(b) of the regulations is inconsistent with section 1110 of the statute and, therefore "unlawful".  Consequently, for "aggravation of non-service-connected disabilities" it is enough to show that "but-for" the service-connected disability the incremental increase in severity of a nonservice-connected disease or injury would not have occurred.  Id. at 1364-66.
+
+Turning to the facts of this case, although the October 2023 rating decision on appeal found that the Veteran had a current sleep apnea disability and had already established service connection for PTSD, the primary disability, a VA medical opinion on secondary service connection was not obtained.  A duty to assist error has been identified and the claim is remanded for a medical opinion on secondary service connection consistent with the Federal Circuit's holding in Spicer.
+
+The matter is REMANDED for the following actions:
+
+1. Obtain a medical opinion from a suitable examiner to address the nature and etiology of the Veteran's sleep apnea disability.  
+
+The Veteran's electronic claims file, including a copy of this remand, must be made available to the examiner for review.  The need for examination of the Veteran is left to the discretion of the examiner selected to write the opinion. 
+
+The examiner is asked to opine as to the following:
+
+(a)	Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that a sleep apnea disability was caused by or underwent any incremental increase in disability, regardless of its permanence, due to service-connected PTSD? 
+
+The term "incremental increase in disability" means additional impairment of earning capacity.  Objective measurement, or numerical quantification, is not required to ascertain an increase in disability.  Moreover, any "incremental increase in disability" need not be permanent.
+
+The examiner is respectfully reminded that proximate cause is not the standard to determine secondary service connection.  Rather, the question is whether the Veteran's service-connected PTSD disability is a but-for cause of his current sleep apnea disability.
+
+But-for cause is broader than proximate cause and encompasses multi-link causal chains.  And it applies to the natural progression of a condition not caused by a service-connected injury or disease, but that, nonetheless, would have been less severe were it not for the service-connected disability. 
+
+(b)	Whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that sleep apnea is related to the Veteran's TERAs during his active military service.
+
+In rendering this opinion, the examiner is asked to consider and discuss the Veteran's total potential exposure through all applicable military deployments and the synergistic, combined effect of all toxic exposure risk activities.
+
+A detailed rationale must be provided for all opinions and conclusions reached. 
+
+ 
+
+STEVEN V. ADLER
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Amanda Baker, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

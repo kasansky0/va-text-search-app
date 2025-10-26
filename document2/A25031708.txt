@@ -1,0 +1,131 @@
+Citation Nr: A25031708
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240229-420917
+DATE: April 7, 2025
+
+ORDER
+
+An initial compensable rating for non-allergic rhinitis is denied.
+
+Restoration of the 30 percent disability rating for gastroesophageal reflux disease (GERD), effective December 30, 2022, is granted, subject to the regulations governing the payment of monetary awards.
+
+REMANDED
+
+Service connection, to include on a secondary basis, for an esophagus disorder (other than pharyngitis and GERD) is remanded.
+
+FINDINGS OF FACT
+
+1. The Veteran's non-allergic rhinitis does not involve greater than 50 percent obstruction of the nasal passage on both sides nor complete obstruction on one side; nasal polyps are not present.
+
+2. The Veteran's GERD has not undergone actual sustained improvement. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for a compensable rating for allergic rhinitis are not met.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.951(b), 4.3, 4.7, 4.97, Diagnostic Code 6522.
+
+2. The reduction in the rating for GERD from 30 percent to 10 percent, effective December 30, 2022, was improper and restoration of the 30 percent rating is warranted.  38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 3.105, 3.344, 4.7.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from May 1977 to March 1980. 
+
+In the February 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Concerning the compensable rating for non-allergic rhinitis claim, the Board may only consider the evidence of record at the time of the January 2024 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Concerning the other two claims, the Board may only consider the evidence of record at the time of the March 2023 AOJ decision on appeal.   38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.  
+
+A special mention is warranted for the claim seeking restoration.  For a number of years now, an increased rating claim for GERD has been pending in the Legacy docket.  It was during the pendency of this claim that the AOJ reduced the rating for the GERD from 30 to 10 percent.  Normally, but not necessarily, this would mean that the restoration issue itself would remain in the Legacy system, and the March 2023 rating action would not be appealable as to that matter in the AMA.  This is because normally the reduction would be treated as part of the staged rating consideration that will necessarily take place in the Legacy appeal, although reductions involve their own set of regulations and therefore can be considered a separately appealable matter in some circumstances.  Moreover, the VA Form 10182 in this case did not follow within 60 days of a supplemental statement of the case that would allow the Veteran to convert the Legacy appeal into an AMA appeal.
+
+However, this procedural history of this case shows that when the Board, more than a year after the reduction, adjudicated the appeal, the Board implicitly declined to address the reduction matter, instead focusing only on whether a rating higher than 30 percent was warranted.  Given this action, or non-action in the April 2024 Board decision, the Board finds that the reduction issue is properly before the Board in the instant AMA action.  This will satisfy fair process and allow the Veteran's disagreement with the reduction to be adjudicated.  The Board is aware that the April 2024 decision was recently vacated, but that vacatur was not based on the missed reduction matter, and there is no guarantee that the next Board decision will take up the reduction matter.
+
+A. Increased Rating
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities (Rating Schedule).  38 C.F.R. Part 4.  The Rating Schedule is primarily a guide in the evaluation of disability resulting from all types of diseases and injuries encountered as a result of or incident to military service. The ratings are intended to compensate, as far as can practicably be determined, the average impairment of earning capacity resulting from such diseases and injuries and their residual conditions in civilian occupations.  See 38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+A Veteran's entire history is to be considered when making disability evaluations. 38 C.F.R. § 4.1; Schafrath v. Derwinski, 1 Vet. App. 589 (1995). Where entitlement to compensation already has been established and an increase in the disability rating is at issue, it is the present level of disability that is of primary concern.  See Francisco v. Brown, 7 Vet. App. 55, 58 (1994).  With respect to a claim for an increased rating for an already service-connected disability, a Veteran may experience multiple distinct degrees of disability that might result in different levels of compensation.  See Hart v. Mansfield, 21 Vet. App. 505, 509-10 (2007). The following analysis is therefore undertaken with consideration of the possibility that different ratings may be warranted for different time periods.
+
+The AOJ has assigned a noncompensable rating throughout the appeal period under Diagnostic Code 6522 for the Veteran's service-connected non-allergic rhinitis.  38 C.F.R. § 4.97.
+
+Under Diagnostic Code 6522, a 10 percent rating is warranted for allergic or vasomotor rhinitis without polyps, but with greater than 50 percent obstruction of nasal passage on both sides or complete obstruction on one side.  A 30 percent rating is warranted for allergic or vasomotor rhinitis with polyps.  38 C.F.R. § 4.97.
+
+The Veteran was afforded a VA examination in December 2023 and the examiner diagnosed non-allergic rhinitis.  The Veteran reported symptoms of increased phlegm, runny nose, spitting, nasal congestion, drainage, increase phlegm/secretions. cough, and dry eye.  The examiner answered in the negative when asked if the Veteran had greater than 50 percent obstruction of the nasal passage on both sides due to rhinitis.  The Veteran did not have complete obstruction on either side due to rhinitis. The Veteran had permanent hypertrophy of the nasal turbinates. The Veteran had no nasal polyps and no granulomatous conditions. The examiner noted the Veteran's allergic rhinitis caused no functional impact. 
+
+Based on a review of the relevant evidence and the applicable law and regulations, the Board concludes the evidence is persuasively against a compensable rating at any point during the appeal period.  The evidence shows that at no time during the appeal period did the Veteran have greater than 50 percent obstruction of nasal passage on both sides or complete obstruction on one side, which is required for a 10 percent rating.  
+
+The Board acknowledges the Veteran's reported symptoms of increased phlegm, runny nose, spitting, nasal congestion, drainage, increase phlegm/secretions. cough, and dry eye.  The Veteran is competent to report such lay observable symptomatology.  Layno v. Brown, 6 Vet. App. 465, 470 (1994).  However, the Veteran is separately service-connected for sinusitis, and his rating for service-connected sinusitis takes into consideration these symptoms. Thus, any evaluation of such symptoms under the evaluation of allergic rhinitis would be pyramiding.  38 C.F.R. § 4.14.
+
+Additionally, under Diagnostic Code 6523, a 10 percent disability evaluation is warranted for bacterial rhinitis with permanent hypertrophy of turbinates and with greater than 50 percent obstruction of nasal passage on both sides or complete obstruction on one side. A 50 percent disability evaluation is warranted for bacterial rhinitis with rhinoscleroma. 38 C.F.R. § 4.97.   The Veteran is not entitled to a 10 percent rating under DC 6523.  The Veteran was noted to have permanent hypertrophy of turbinates but did not have greater than 50 percent obstruction of nasal passage on both sides or complete obstruction on one side.  Consequently, DC 6523 does not afford the Veteran a compensable rating. 
+
+In summary the Board finds that the evidence persuasively weighs against a compensable rating for the Veteran's non-allergic rhinitis at any point throughout the appeal period.  The Board has considered the benefit-of-the-doubt rule; however, since the evidence persuasively weighs against the claim, the benefit-of-the-doubt rule is not for application.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; Lynch, 21 F.4th 776.
+
+B.	Rating Reduction Claim
+
+In rating reductions, when VA contemplates reducing an evaluation for a service-connected disability or disabilities, it must follow specific procedural steps prior to such discontinuance.  38 C.F.R. § 3.105(e).  As enumerated in 38 C.F.R. § 3.105(e), where the reduction in evaluation of a service-connected disability or employability status is considered warranted and the lower evaluation would result in a reduction or discontinuance of compensation payments currently being made, a rating proposing the reduction or discontinuance will be prepared setting forth all material facts and reasons.  In addition, the beneficiary will be notified at his or her latest address of record of the contemplated action and furnished detailed reasons therefore and will be given 60 days for the presentation of additional evidence to show that compensation payments should be continued at their present level.  The beneficiary also will receive notification that he or she will have an opportunity for a pre-determination hearing, provided that the request is received within 30 days from the date of the notice.  38 C.F.R. § 3.105(i).  Thereafter, a final rating action will be taken, and the award will be reduced or discontinued effective the last day of the month in which a 60-day period from the date of notice to the beneficiary of the final rating action expires.  See 38 C.F.R. §§ 3.105(e); 3.500(r).
+
+Prior to the reduction, the 30 percent rating for the Veteran's GERD had been in effect since December 2015.  Thus, the rating had been in effect for more than five years.  Rating agencies will handle cases affected by change of medical findings or diagnosis, so as to produce the greatest degree of stability of disability evaluations consistent with the laws and VA regulations governing disability compensation and pension.  VA benefit recipients may be afforded greater protections under 38 C.F.R. § 3.344(a) and (b), which set forth the criteria for reduction of ratings in effect for five years or more, which stipulate that only evidence of sustained material improvement under the ordinary conditions of life, as shown by full and complete examinations, can justify a reduction and prohibit a reduction on the basis of a single examination.  Brown v. Brown, 5 Vet. App. 413, 417-18 (1995).
+
+However, with respect to other disabilities that are likely to improve (i.e., those in effect for less than five years), re-examinations disclosing improvement in a disability will warrant a rating reduction. 38 C.F.R. § 3.344(c). Specifically, it is necessary to ascertain, based upon a review of the entire recorded history of the condition, whether the evidence reflects an actual change in disability and whether examination reports reflecting change are based upon thorough examinations.  In addition, it must be determined that an improvement in a disability has actually occurred and that such improvement actually reflects an improvement in the Veteran's ability to function under the ordinary conditions of life and work.  See Brown, 5 Vet. App. at 420-21; 38 C.F.R. § 3.344(c).
+
+In considering whether a reduction was proper, the Board must focus on the evidence of record available to the AOJ at the time the reduction was effectuated, although post-reduction medical evidence may be considered for the limited purpose of determining whether the condition had demonstrated sustained, actual improvement. Dofflemyer v. Derwinski, 2 Vet. App. 277, 281-82 (1992).  However, post-reduction evidence may not be used to justify an improper reduction. VA is required to establish, by the evidence, that a rating reduction is warranted. See Kitchens v. Brown, 7 Vet. App. 320, 325 (1995).
+
+"When any change in evaluation is made, the rating agency should assure itself that there has been an actual change in the conditions, for better or worse, and not merely a difference in thoroughness of the examination or use of descriptive terms." 38 C.F.R. § 4.13.  When, after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding the degree of disability, such doubt will be resolved in favor of the Veteran. 38 C.F.R. § 4.3.
+
+The Board first notes that while the procedural requirements of 38 C.F.R. § 3.105(e) were not complied with, those provisions were not applicable in this case.  In this regard the Board points out that the reduction in rating did not result in a reduction of the compensation being paid the Veteran; prior to the reduction his overall compensation rating was 90 percent, and it has remained such even with the reduction.  Accordingly, the due process provisions of 38 C.F.R. § 3.105(e) are not implicated.  See VA OPGCPREC 71-91; VAOPGCPREC 29-97.  
+
+The initial 30 percent evaluation for GERD was assigned in a June 2017 rating action, based on the report of a May 2017 VA examination noting complaints of retrosternal pain, recurring episodes of sever symptoms, abdominal pain, nausea, sleep disturbances, and melena.
+
+The Veteran attended a VA examination in November 2020, which identified symptoms including acid reflux, heartburn, abdominal pain and regurgitation.  He also reported persistently recurring epigastric distress, nausea and sleep disturbance.
+
+The Veteran attended another VA examination in January 2023 (misidentified by the AOJ as December 2022).  That examination identified symptoms including reflux, heartburn, recurring epigastric distress, nausea, regurgitation, substernal pain, and sleep disturbance.  He also had developed a hiatal hernia at that point.
+
+The Board finds that the evidence received since the assignment of the 30 percent evaluation has not shown actual sustained improvement.  The only symptom that has changed is the melena, present in 2017, but not on later examinations.  However, other symptoms have developed since the assignment of the 30 percent rating, including substernal pain and regurgitation.  Overall, the evidence shows the disorder has not improved, let alone shown sustained improvement.  The Board notes that the AOJ itself did not find improvement, instead using the incorrect legal standard of whether the GERD currently met the criteria for a 30 percent rating.  The operative consideration in this reduction matter is whether improvement in the disorder was shown, and not whether the GERD currently meets the pertinent criteria.
+
+As the evidence does not show that the GERD has improved, the reduction in the evaluation from 30 to 10 percent was improper.  The 30 percent rating is restored.
+
+REASONS FOR REMAND
+
+Service connection for an esophagus disorder (other than pharyngitis and GRED) is remanded.
+
+This issue is remanded to correct a duty of assist error that occurred prior to the March 2023 AOJ decision on appeal. 
+
+Section 303 of the PACT Act implemented 38 U.S.C. § 1168, requiring a disability examination and medical opinion be requested for certain non-presumptive conditions involving a toxic exposure risk activity (TERA).  For such claims, VA is required to provide a disability examination and medical opinion when the Veteran submits a claim for compensation, has evidence of a disability, had evidence of participation in a TERA, and such evidence is not sufficient to establish service connection for the disability.
+
+A TERA is any activity that requires a corresponding entry in an exposure tracking record system; or that the Secretary determines qualifies for purposes of this subsection when considering what is reasonably prudent to protect the health of veterans. 38 U.S.C. § 1710(e)(4)(C).  
+
+The AOJ has conceded that the Veteran was exposed to industrial solvents during service and the Board is bound by this favorable finding.  There is also evidence of a disability.  Namely, the Veteran has stated that his esophagus issues cause stomach acid to come into his mouth, that his esophagus has narrowed, he has difficulty swallowing, and has chest pain.  Lastly, this evidence is not sufficient to establish service connection for the disability.  As such, there was a duty of assist error that occurred prior to the March 2023 AOJ decision on appeal because the Veteran was not afforded VA examination to determine the etiology of his non-presumptive condition involving a toxic exposure risk activity. 
+
+The matter is REMANDED for the following action:
+
+Schedule the Veteran for an examination by an appropriate clinician to determine the nature and etiology of any an esophagus disorder (other than pharyngitis and GERD).  The examiner is asked to provide opinions on the following questions: 
+
+(a.) The examiner should clearly identify all current chronic disability(ies) of the esophagus, other than pharyngitis and GERD, that have existed since December 2022.  (including whether there is a disorder manifested by pain that causes functional impairment that is not part and parcel of the pharyngitis or GERD disorders). 
+
+(b.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any diagnosed esophagus disorder (other than pharyngitis and GERD), is related to an in-service injury, event, or disease, including exposure to TERA, to include the TERA of exposure to industrial solvents? 
+
+In providing this opinion the reviewing clinician is asked to consider the total potential exposure through the Veteran's military deployment and the synergistic, combined effect of all toxic exposure risk activities of the Veteran. 
+
+(c.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any disability of the esophagus was caused by the Veteran's service-connected GERD? 
+
+(Continued on the next page)
+
+?
+
+(d.) Is it at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that any disability of the esophagus was aggravated (any increase in the severity or worsening of functionality) by the Veteran's service-connected GERD? 
+
+A complete rationale for all opinions must be provided. If the clinician cannot provide a requested opinion without resorting to speculation, it must be so stated, and the clinician must provide the reasons why an opinion would require speculation.  The clinician must indicate whether there was any further need for information or testing necessary to make a determination.  Additionally, the clinician must indicate whether any opinion could not be rendered due to limitations of knowledge in the medical community at large and not those of the particular clinician.
+
+ 
+
+ 
+
+Thomas H. O'Shay
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Patel, S., Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

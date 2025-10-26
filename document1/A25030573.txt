@@ -1,0 +1,91 @@
+Citation Nr: A25030573
+Decision Date: 04/02/25	Archive Date: 04/02/25
+
+DOCKET NO. 240124-410608
+DATE: April 2, 2025
+
+ORDER
+
+An initial rating higher than 10 percent for tinnitus is denied.
+
+REMANDED
+
+Service connection for unspecified headaches, to include as secondary to tinnitus.
+
+?
+
+FINDING OF FACT
+
+The Veteran's tinnitus is assigned the maximum 10 percent rating.
+
+CONCLUSION OF LAW
+
+The criteria for an initial rating higher than 10 percent for tinnitus are not met.  38 C.F.R. §§ 1155; 38 C.F.R. § 4.87, Diagnostic Code (DC) 6260.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from April 1986 to April 1990.
+
+The case is on appeal from November 2023 and January 2024 rating decisions.
+
+In the January 2024 Notice of Disagreement (NOD), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the November 2023 and January 2024 decisions on appeal as to the respective claims.  38 C.F.R. § 20.301.  Any evidence submitted after the November 2023 decision with respect to tinnitus and the January 2024 decision with respect to headaches on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the claim of service connection for headaches, any evidence the Board could not consider will be considered by the Regional Office (RO) in the adjudication of that claim.  38 C.F.R. § 3.103(c)(2)(ii).  If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider with respect to tinnitus, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board notes that the January 2024 NOD lists the issue of service connection for anxiety disorder.  However, in a February 2025 decision, the Board remanded service connection for adjustment disorder with anxiety.  Thus, that issue is not currently on appeal. 
+
+The Board has limited the discussion below to the relevant evidence required to support its finding of fact and conclusion of law, as well as to the specific contentions regarding the case as raised directly by the Veteran and those reasonably raised by the record.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Peake, 21 Vet. App. 545, 552 (2008).
+
+An initial rating higher than 10 percent for tinnitus.
+
+Legal Criteria
+
+Ratings are based on a schedule of reductions in earning capacity from specific injuries or combination of injuries.  The ratings shall be based, as far as practicable, upon the average impairments of earning capacity resulting from such injuries in civil occupations.  38 U.S.C. § 1155.  Generally, the degrees of disability specified are considered adequate to compensate for considerable loss of working time from exacerbations or illnesses proportionate to the severity of the several grades of disability.  38 C.F.R. § 4.1.
+
+Where there is a question as to which of two evaluations shall be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating.  Otherwise, the lower rating will be assigned.  38 C.F.R. § 4.7.  When after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding the degree of disability such doubt will be resolved in favor of the claimant.  38 U.S.C. § 5107(b); 38 C.F.R. §§ 3.102, 4.3.
+
+Under DC 6260, a single 10 percent rating is assigned for tinnitus, whether the sound is perceived as being in one ear, both ears, or in the head.  The maximum schedular rating available for tinnitus is 10 percent.  38 U.S.C. § 1155; 38 C.F.R. § 4.87.
+
+Analysis
+
+The November 2023 rating decision on appeal assigned an initial 10 percent rating for tinnitus under DC 6260.
+
+Accordingly, the Veteran is in receipt of the maximum schedular rating for tinnitus.  Thus, a higher initial rating is not permissible.  See Smith v. Nicholson, 451 F.3d 1344 (Fed. Cir. 2006).  In sum, an initial rating in excess of the maximum 10 percent for tinnitus is not warranted. 
+
+REASONS FOR REMAND
+
+The Board notes that the summary of the remanded claim and remand directives in below do not make any implicit findings regarding the competency or credibility of any of the evidence of record.  
+
+Service connection for unspecified headaches, to include as secondary to tinnitus.
+
+The Veteran seeks service connection for headaches.  In his July 2023 VA 21-526EZ (Fully Developed Claim (Compensation)), the Veteran indicated that his headache condition is due to noise exposure during service and/or is secondary to service-connected tinnitus.
+
+The January 2024 rating decision on appeal reflects a current diagnosis of headaches based on a December 2023 VA examination and that the Veteran participated in a toxic exposure risk activity (TERA) during service.  The Board is bound by favorable findings in VA RO or Board decisions unless rebutted by clear and unmistakable evidence.  38 C.F.R. § 3.014(c).
+
+The December 2023 VA headache examination states that the TERA Memo only notes that the Veteran's military occupational specialty (MOS) during service was Supply Clerk and that it was not possible to ascertain what duties or toxic exposure were associated with the Veteran's MOS.  The opinion states that it was not possible to provide an objective medical opinion based solely on the job title.  The Board notes that an opinion based on an inaccurate or incomplete factual premise is of diminished probative value, if any.  See Reonal v. Brown, 5 Vet. App. 458, 460-461 (1993).  In addition, an opinion was not provided as to whether the Veteran's headache condition is secondary to his service-connected tinnitus.  For the foregoing reasons, the Board finds the opinion is not adequate.  The RO's failure to obtain an adequate VA opinion constitutes a pre-decisional duty to assist.  38 C.F.R. § 20.802.  Thus, remand for an addendum opinion is warranted.  
+
+In addition, as noted above, the January 2024 TERA Memo states that there was evidence of the Veteran's non-deployment related participation in a TERA during service.  See January 2024 other.  However, other than listing the Veteran's DD Form 214, no details in that respect were provided.  Thus, the TERA Memo is incomplete.  As adjudication of the Veteran's claim cannot be completed without a completed TERA Memo, remand is also necessary for corrective action in that respect.  38 C.F.R. § 20.802.
+
+The matter is REMANDED for the following action:
+
+1. Prepare a TERA Memo that identifies the Veteran's participation in any and all TERAs during service.  
+
+2. Then, forward the claims file to the VA examiner who provided the December 2023 headache opinion for an addendum opinion as to the etiology of the headache condition.  If this examiner is no longer available, forward the claims file to an appropriate medical professional for an addendum opinion.  It is left to the examiner's discretion whether to schedule the Veteran for an examination.
+
+The examiner should provide an opinion as to whether it is at least as likely as not (at least an approximate balance of positive and negative evidence) that a headache condition had its onset during or within the initial year after service or is otherwise related to an in-service injury, event, or disease, or is caused by or aggravated by service-connected tinnitus.  
+
+Aggravation is an increase in severity beyond the natural progress of the disease. 
+
+Rationale for all opinions expressed should be provided.  If the examiner is unable to provide the requested opinions without resort to speculation, it must be so stated, and he or she must provide the reasons why an opinion would require speculation.
+
+ 
+
+ 
+
+RYAN T. KESSEL
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Taylor
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

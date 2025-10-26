@@ -1,0 +1,79 @@
+Citation Nr: A25034219
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240716-454927
+DATE: April 14, 2025
+
+ORDER
+
+Entitlement to service connection for alcohol use disorder, including as secondary to posttraumatic stress disorder (PTSD), is denied.
+
+FINDING OF FACT
+
+The evidence persuasively weighs against a finding that the Veteran has had a diagnosis of alcohol use disorder during, or proximate to, the claim period.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for alcohol use disorder have not been met. 38 U.S.C. §§ 1110, 1131, 5107(b); 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from August 1993 through August 2002.  
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a June 2024 rating decision issued by a VA Regional Office, which was the agency of original jurisdiction (AOJ). In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the June 2024 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Preliminary Matters
+
+Generally, after filing a Notice of Disagreement to the Board, under one review "lane," apart from certain exceptions, a claimant has the later of 60 days from the date of the 10182 or one-year from the AOJ decision to switch review lanes. 38 C.F.R. § 20.202(c)(2); see also Williams v. McDonough, 37 Vet. App. 305 (2024) (holding the Board cannot ignore the time that remains for a claimant to choose to switch lanes in the Appeals Modernization Act (AMA) process). 
+
+The Board acknowledges that the time for the Veteran to change lanes, if he so desires, has not yet expired, but nonetheless finds that issuing a decision would cause no concrete harm under the circumstances of this case. Specifically, as will be discussed in further detail below, the evidence weighs persuasively against a finding that the Veteran has a separate psychiatric disability or mental health symptomatology that are not already compensated by his service-connected PTSD. See Amberman v. Shinseki, 570 F.3d 1377, 1381 (Fed. Cir. 2009). As such, the Veteran's claim is denied as a matter of law, and any prejudice from issuing an early decision in these circumstances is purely procedural without any injury in fact. See Ripley v. Collins, No. 21-0947, ___ Vet. App. ___ (2025) (relevantly holding that a bare procedural violation is insufficient to establish an injury in fact).
+
+Service Connection
+
+Generally, service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).
+
+Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability. See 38 C.F.R. § 3.310; but see Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023) (holding all that is needed is a "but for" causation or aggravation to show entitlement to secondary service connection). 
+
+For a grant of service connection, the diagnosis of a mental disorder must be made in accordance with the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5). 38 C.F.R. § 4.125(a); see also Martinez-Bodon v. Wilkie, 32 Vet. App. 393 (2020) (holding that with respect to psychiatric disabilities VA has expressly limited compensation to disabilities conforming to a DSM-5 diagnosis and the Court lacks jurisdiction to review the Secretary's decision to require such a diagnosis as set out in the schedule of ratings).
+
+Importantly, for claims filed after October 31, 1990, service connection may not be granted for substance abuse on the basis of in-service incurrence or aggravation.  38 U.S.C. §§ 105, 1110; 38 C.F.R. § 3.301. Thus, in general, no compensation shall be paid for a disability that is a result of the Veteran's own willful misconduct or abuse of alcohol or drugs. See 38 U.S.C. § 1110 (emphasis added). This includes conditions resulting from, or secondary to, the alcohol abuse. Gabrielson v. Brown, 7 Vet. App. 36 (1994).
+
+A limited exception from this 38 U.S.C. § 1110 willful misconduct "bar" was carved out by the Federal Circuit in its precedential decision in Allen v. Principi, 237 F.3d 1368 (2001). Therein, the Federal Circuit held that a veteran was not precluded from receiving compensation for alcohol or drug-related disabilities arising secondarily from a service-connected disability, or from using alcohol or drug-related disabilities as evidence of the increased severity of a service-connected disability. In other words, compensation may be awarded only "where there is clear medical evidence establishing that alcohol or drug abuse is caused by a Veteran's primary service-connected disability, and where the alcohol or drug abuse disability is not due to willful wrongdoing." Allen, 237 F. 3d at 1381. 
+
+In rendering this decision, the Board has reviewed all evidence of record whether discussed in detail. See Newhouse v. Nicholson, 497 F.3d 1298, 1302 (Fed. Cir. 2007) (holding the Board must only discuss the evidence which is relevant to the issues on appeal). To the extent the evidence is found in "approximate balance," the Board will afford the benefit of the doubt in favor of the Veteran. Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021) (holding that exact equipoise is not required for the benefit of the doubt to be applied, but rather the veteran is entitled to the benefit of the doubt when the evidence is in approximate balance or "nearly equal").
+
+Entitlement to service connection for alcohol use disorder, including as secondary to PTSD, is denied.
+
+The Veteran seeks service connection for alcohol use disorder in relation to PTSD. See May 2024 VA Form 21-526EZ.
+
+The Veteran is service connected for PTSD, but this does not necessarily preclude service connection for alcohol use disorder. See Amberman v. Shinseki, 570 F.3d 1377, 1381 (Fed. Cir. 2009) (two psychiatric conditions "could have different symptoms and it could therefore be improper in some circumstances for the VA to treat these separately diagnosed conditions as producing only the same disability"). However, for the reasons explained below, here the evidence persuasively weighs against a finding that the Veteran has a diagnosis of alcohol use disorder or other mental health symptomatology that is not already compensated under his service-connected PTSD disability.
+
+The Veteran was first afforded a VA examination for PTSD in May 2022. The Veteran reported that he has been sober since February 2012. He also stated that, in order to maintain his sobriety, he cut back on some of his previous interests and cut contact with his drinking friends.
+
+The May 2022 VA examiner diagnosed the Veteran with PTSD. She further noted that although the Veteran has a previous history of alcohol abuse, his clinical records indicate that the substance abuse has been in remission since 2012 or 2013. She opined that it is "less likely than not that substance abuse is the cause or significantly contributes to his current symptoms or psychosocial functioning difficulty." Accordingly, she did not include substance abuse in his current active diagnoses.
+
+The Veteran underwent another VA examination for PTSD in June 2024. Again, the examiner noted a diagnosis of PTSD, but not alcohol use disorder. The examiner explained that she did not diagnose him with alcohol use disorder because alcohol use was not a contributing factor to his PTSD symptoms. He had been sober since January 2013 and maintains sobriety from alcohol.
+
+The Veteran's VA treatment records during and near the claim period indicate that he had a past medical history of alcohol use disorder but has not consumed alcohol since 2013. See, e.g., April 2024 Primary Care Outpatient Note; February 2024 Psychiatry Case Manager Note ("reports 11 years of sobriety from alcohol"). His VA treatment records do not contain a current diagnosis, or describe current symptoms, of alcohol use disorder.
+
+Viewing the lay and medical evidence as a whole, the Board finds that the evidence persuasively weighs against a finding that the Veteran has a current diagnosis of alcohol use disorder meeting DSM-5 requirements at any time during, or proximate to, the claims period. Romanowsky v. Shinseki, 26 Vet. App. 289, 294 (2013); McClain v. Nicholson, 21 Vet. App. 319, 321 (2007). The Veteran's VA treatment records consistently show that his history of alcohol use disorder was in sustained remission for more than a decade before he filed the claim, and for multiple years before he was service connected for PTSD. The May 2022 and June 2024 VA examiners personally interviewed the Veteran, reviewed his file, and opined that the Veteran had PTSD and no other mental health disorder. Both examiners specifically addressed his history of alcohol use, and the May 2022 VA examiner also discussed the potential impact of the Veteran's efforts to maintain sobriety on his psychosocial functioning, i.e., reduced social interactions and limitation of some of his prior interests. Nevertheless, both examiners explained that he does not have a diagnosis of alcohol use disorder because he has remained sober since 2012 or 2013 and alcohol use is not a contributing factor to his PTSD symptoms or psychosocial functioning. For service connection of a mental health disorder, a diagnosis under DSM-5 criteria is required. Accordingly, the Veteran does not meet the current disability requirement for his service connection claim, whether on a direct or secondary basis.
+
+The Board acknowledges the Veteran's argument that his PTSD symptoms make it more difficult to maintain sobriety. See July 2024 Appellate Brief. While the Veteran believes that he currently has an alcohol use disorder, he is not competent to provide a diagnosis in this case. The issue is medically complex, as it requires specialized medical education, and the record does not show that he has the medical training or credentials necessary to make such a determination. Jandreau v. Nicholson, 492 F.3d 1372, 1377 n.4 (Fed. Cir. 2007); see also Kahana v. Shinseki, 24. Vet. App. 428 (2011). Moreover, the regulation specifically provides that service connection for a mental health disorder requires medical evidence diagnosing the condition in accordance with DSM-5. See 38 C.F.R. § 4.125(a). The May 2022 and June 2024 VA examiners are a psychiatrist and a psychologist, respectively, and are therefore competent to determine whether the diagnostic criteria for alcohol use disorder are met. The Board finds the May 2022 and June 2024 VA examiners' findings highly probative, as they are based on review of the file and consideration of the Veteran's reports in addition to examinations and are consistent with the Veteran's treatment records. The Board gives more probative weight to the competent medical evidence and there is no contrary medical opinion.
+
+The Board notes that the Veteran has been service connected for PTSD since June 2021 and that psychiatric disabilities are all rated under the same diagnostic code. Here, under the particular circumstances in this case, there is no indication that the Veteran has a separate psychiatric disability or mental health symptomatology that is not already compensated by his service-connected psychiatric disability. See Amberman, 570 F.3d at 1381; Bean v. McDonough, 66 F.4th 979 (Fed. Cir. 2023).
+
+As there is not an approximate balance of positive and negative evidence, the benefit-of-the-doubt doctrine is not applicable and service connection for alcohol use disorder is not warranted. See 38 U.S.C. § 5107(b); 38 C.F.R. 3.102; Lynch, 21 F.4th 776. 
+
+ 
+
+SHEREEN M. MARCUS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	S. Harris, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

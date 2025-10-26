@@ -1,0 +1,115 @@
+Citation Nr: A25034590
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 250108-506634
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disability, to include post-traumatic stress disorder (PTSD), major depressive disorder (depression), and generalized anxiety disorder (anxiety), is granted.
+
+Entitlement to service connection for obstructive sleep apnea (OSA) as secondary to PTSD is denied.
+
+FINDINGS OF FACT
+
+1. It is at least as likely as not that the Veteran's acquired psychiatric disability, to include post-traumatic stress disorder (PTSD), major depressive disorder (depression), and generalized anxiety disorder (anxiety) was incurred in or caused by his service. 
+
+2. The Veteran's obstructive sleep apnea (OSA) is not proximately due to, the result of, nor is it aggravated by a service-connected disability. 
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for an acquired psychiatric disability, to include post-traumatic stress disorder (PTSD), major depressive disorder (depression), and generalized anxiety disorder (anxiety) have been met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 4.125.
+
+2. The criteria for entitlement to service connection for obstructive sleep apnea (OSA) as secondary to PTSD have not been met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran had active service from June 1966 to January 1969.
+
+The Appeals Modernization Act (AMA) creates a new framework for Veterans dissatisfied with Department of Veterans Affairs' (VA) decision on their claim to seek review. The AMA became effective on February 19, 2019. 38 C.F.R. §?3.2400(a)(1). The AMA applies to all initial decisions issued after February 19, 2019.
+
+In September 2022, the Veteran's claim for a mental health disorder/PTSD and for obstructive sleep apnea (OSA), to include as secondary to PTSD, was denied. In October 2022, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR). In December 2022, the AOJ issued the HLR decision, which noted that a duty to assist error had been identified during higher level review, and further development of the claim was undertaken. In November 2023, the AOJ denied direct service connection for OSA. The Veteran did not appeal the November 2023 rating decision, and it became final. In January 2024, the AOJ issued a special review rating decision for service connection for PTSD and for OSA as secondary to PTSD and denied the claim. 
+
+Next, the Veteran timely appealed the January 2024 rating decisions to the Board in a February 2025, VA Form 10182 Notice of Disagreement, which was received by the Board on January 8, 2025. Based on the Veteran's selection of the evidence docket, the Board can only consider evidence received up to the date of the January 2024 rating decision on appeal and evidence received within 90 days of receipt of the VA Form 10182 Notice of Disagreement. 38 C.F.R. § 20.303.
+
+The Board interprets the Veteran's award of advancement on the docket as a request to proceed with the adjudication of his/her/their appeal without delay, and without waiting for the time period to switch dockets outlined in Williams v. McDonough, 37 Vet. App. 305 (2024), to expire. Thus, the Board is proceeding with adjudication.
+
+Service Connection??
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303(a). To establish a right to compensation for a present disability, a Veteran must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service-the so-called "nexus" requirement. Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 38 F.3d 1163, 1167 (Fed. Cir. 2004)). The absence of any one element will result in a denial of service connection.?
+
+Service connection may also be granted for any disease initially diagnosed after service when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).?
+
+Service connection for PTSD requires (1) medical evidence establishing a clear diagnosis of the disorder in accordance with?38?C.F.R. §?4.125(a), (2) credible supporting evidence that the claimed in-service stressor occurred, and (2) a link established by medical evidence between the current symptoms and an in-service stressor.?38?C.F.R. §?3.304(f).??
+
+A diagnosis of PTSD must be established in accordance with 38?C.F.R. §?4.125(a), which provides that all psychiatric diagnoses must conform to the fifth edition of the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM-5). 38?C.F.R. §?3.304(f).??
+
+The pertinent regulation provides that, if the evidence establishes that the Veteran engaged in combat with the enemy and that the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor. See 38?U.S.C. §?1154 (b); 38?C.F.R. §?3.304 (f)(1).?
+
+For stressors unrelated to combat that are not based on fear of hostile military or terrorist activity, credible supporting evidence is necessary in order to grant service connection. Such evidence may be obtained from service records or other sources. See Moreau v. Brown, 9?Vet. App.?389 (1996). The United States Court of Appeals for Veterans Claims (Court) has held that the regulatory requirement for "credible supporting evidence" means that "the appellant's testimony, by itself, cannot, as a matter of law, establish the occurrence of a non-combat stressor." Dizoglio v. Brown, 9?Vet. App.?163, 166 (1996). Therefore, the Veteran's lay testimony, is insufficient, standing alone, to establish service connection. Cohen v. Brown, 10?Vet. App.?128, 147 (1997).?
+
+Effective July 13, 2010, if a stressor claimed by a Veteran is related to the Veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of PTSD and that the Veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the places, types, and circumstances of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor. For purposes of this paragraph, "fear of hostile military or terrorist activity" means that a Veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the Veteran or others, such as from an actual or potential improvised explosive device (IED); vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the Veteran's response to the event or circumstance involved a psychological or physiological state of fear, helplessness, or horror. See 38?C.F.R. §?3.304 (f)(3).?
+
+Service connection may also be granted for any disease initially diagnosed after service when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).?
+
+Service connection may alternatively be established on a secondary basis for a disability which is proximately due to, or the result of, a service-connected disability. 38 C.F.R. § 3.310(a).??? 
+
+Service connection may alternatively be established on a secondary basis for a disability which is proximately due to, or the result of, a service-connected disability. 38 C.F.R. § 3.310(a). Secondary service connection may also be established for a disorder which is aggravated by a service-connected disability; compensation may be provided for the degree of disability (but only that degree) over and above the degree of disability existing prior to the aggravation. See 38?C.F.R. § 3.310(b); Allen v. Brown, 8?Vet. App.?374 (1995).???? 
+
+In order to prevail on the issue of secondary service connection, the record must show: (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) medical nexus evidence establishing a connection between the service-connected disability and the current disability. See Wallin v. West, 11?Vet. App.?509, 512 (1998); see also Allen, supra.???? 
+
+Service connection must be considered on the basis of the places, types, and circumstances of a Veteran's service as shown by his or her service records, the official history of each organization in which he or she served, his or her medical records, and all pertinent medical and lay evidence. See 38 C.F.R. § 3.303(a); see also Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007); and see Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006).?
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. §?3.102.
+
+1. Entitlement to service connection for an acquired psychiatric disability, to include post-traumatic stress disorder (PTSD), major depressive disorder (depression), and generalized anxiety disorder (anxiety)
+
+The Veteran seeks service connection for a mental health disorder/PTSD due to his service in Vietnam. 
+
+As to a current disability, and as to clear evidence of a diagnosis of PTSD, the AOJ made the favorable finding that the Veteran has been diagnosed with PTSD by his private doctor and with adjustment disorder with depressed mood by the October 2023 VA examiner. The Board is bound by these favorable findings. 38 C.F.R. § 3.104(c). Additionally, the Veteran was diagnosed with unspecified anxiety disorder in the January 2022 VA examination, and the Veteran was diagnosed with major depressive disorder and generalized anxiety disorder by his private doctor. See October 2021 Private DBQ for PTSD. Furthermore, the Board finds no reason to doubt the validity of these diagnoses. Accordingly, the Board finds there is clear evidence of a diagnosis of PTSD and that current psychiatric disabilities are established. 
+
+With respect to in-service incurrence, the AOJ made a favorable finding that the Veteran experienced a stressful event in service or fear of hostile military or terrorist activity as military personnel records show service in the Republic of Vietnam, and a fear-based stressor is conceded by VA based on this service. The Board is bound by this favorable finding. 38 C.F.R. § 3.104(c). As such, the Board finds that the in-service incurrence element is established. 
+
+Regarding a nexus for PTSD, there are positive and negative medical nexus opinions. The Veteran was afforded a VA examination in January 2022 for his PTSD which provided a negative nexus opinion. The examiner opined that the Veteran's symptoms do not meet the diagnostic criteria for PTSD under DSM-5 criteria. The only diagnoses given at this examination were unspecified anxiety disorder and insomnia disorder. As rationale, the examiner noted that Criterion A was met. However, the examiner noted that the stressor was not related to the Veteran's fear of hostile military or terrorist activity. Nevertheless, the VA has conceded a fear-based stressor based on the Veteran's service. Thus, this opinion rests on an inaccurate factual premise. As such, the Board finds the opinion inadequate and affords it no probative weight. Reonal v. Brown, 5 Vet. App. 458, 461 (1993).
+
+Therefore, the Board finds the most probative evidence for service connection for PTSD is the October 2021 Private DBQ for PTSD, where the private doctor opined that the Veteran has a diagnosis of PTSD that conforms to DSM-5 criteria. The doctor reviewed the Veteran's service and medical history and considered all of the relevant evidence of record, including the Veteran's lay statements in forming the opinion. The Board finds the opinion with respect to service connection for PTSD adequate and highly probative. As such, a nexus is established between the Veteran's service and his PTSD. 
+
+Regarding a nexus for the Veteran's other psychiatric disabilities, there are positive and negative nexus opinions. In October 2023, the Veteran was afforded a VA examination for his other psychiatric disabilities. The examiner provided a diagnosis of adjustment disorder with depressed mood and dismissed all other mental health diagnoses provided in the October 2021 Private DBQ and the January 2022 VA examination claiming that there is no evidence of the Veteran meeting the criteria for these other psychiatric disabilities in the past or presently. However, the examiner did not provide rationale to fully explain why the previous diagnoses made by the private doctor and the January 2022 VA examiner were incorrect. As such, the rationale provided is incomplete and the conclusion is not adequately supported. Accordingly, the Board finds this opinion inadequate and affords it no probative weight. See Jandreau, 492 F.3d 1372, 1377 (Fed. Cir. 2007); see also Buchanan, 451 F.3d 1331, 1337 (Fed. Cir. 2006).?
+
+Therefore, the most probative evidence of the Veteran's psychiatric disabilities is the October 2021 private medical opinion, which provided a diagnosis of PTSD, major depressive disorder, and generalized anxiety disorder. The diagnosis of generalized anxiety disorder appears to concur with the January 2022 VA examination's diagnosis of unspecified anxiety disorder. Additionally, the private doctor gathered a detailed history of the Veteran's mental health picture and service history in forming the opinion. The Board finds the private opinion with respect to service connection for depression and anxiety to be adequate and highly probative. As such, a nexus is established between the Veteran's service and his depression and anxiety. 
+
+The Board notes that there is no adequate nexus opinion linking adjustment disorder with depressed mood to the Veteran's service. 
+
+In sum, the Board finds that the elements of service connection for PTSD and the elements for service connection for depression and anxiety have been satisfied. The most probative evidence persuasively favors the claim, and the benefit-of-the-doubt rule is not applicable. Accordingly, service connection for an acquired psychiatric disability, to include post-traumatic stress disorder (PTSD), depression, and anxiety, is granted.   
+
+2. Entitlement to service connection for obstructive sleep apnea (OSA) as secondary to PTSD
+
+The Veteran seeks service connection for OSA as secondary to mental health/PTSD. 
+
+As to a current disability, the AOJ made a favorable finding that the Veteran has a diagnosis of sleep apnea, and the Board is bound by this finding. 38 C.F.R. § 3.104(c). As such, a current disability is established. 
+
+There is evidence of a service connected disability. Since the Veteran has been service connected for PTSD, depression, and anxiety, the second element of service connection on a secondary basis is satisfied. 
+
+Regarding a medical nexus, there are positive and negative nexus opinions. The November 2023 VA medical opinions, one for secondary service connection and the other for aggravation of a non-service connected condition by service-connected conditions, both provided a negative nexus. It was determined that the Veteran's OSA was not proximately due to or the result of a service-connected condition and that the Veteran's OSA was less likely than not aggravated beyond its natural progression by a service-connected condition. 
+
+Regarding secondary service connection, the November 2023 VA examiner considered all pertinent and relevant evidence to the claim and explained that there is no pathoanatomical or pathophysiological correlation or causation between the Veteran's service-connected coronary artery disease, prostate cancer, hypertension, hypothyroidism, erectile dysfunction, or mental condition and OSA. After a review of the medical literature, and also considering obesity an intermediate step, the examiner opined that based on a totality of the data, no nexus was established. The opinion is thorough with the conclusion supported by adequate rationale. As such, the Board finds it highly probative. 
+
+Regarding aggravation, the November 2023 VA examiner concluded that the Veteran's OSA was less likely than not aggravated beyond its natural progression. As rationale, the examiner explained that there is no pathoanatomical or pathophysiological correlation or causation between the Veteran's service-connected coronary artery disease, prostate cancer, hypertension, hypothyroidism, erectile dysfunction, or mental condition and OSA. While OSA can make some of these conditions worse, the corollary is not true and the claim file does not contain enough evidence to make an objective determination of worsening. The examiner also considered obesity as an intermediate step but concluded that it was not because the service connected conditions do not prevent all forms of exercise nor do they preclude dietary changes. Based on the totality of the data, the examiner found no nexus. The opinion is thorough with adequate support for its conclusion. Thus, the Board finds it highly probative. 
+
+The October 2021 Private Mental Health examination provided a positive nexus between PTSD, depression, anxiety and the Veteran's OSA. The private doctor opined that it was more likely than not that the Veteran's OSA was caused by his PTSD, depression, and anxiety. As rationale, the doctor discussed theories of cause and effect. He also noted that because things are related, it does not mean they cause one another. The doctor stated that more research is showing a relationship between OSA and PTSD. He cited to a study that shows diagnosed PTSD was associated with a 40 percent increase in being at high risk for sleep apnea and that CPAP use showed a reduced number of nightmares per week. The doctor also discussed that PTSD may inhibit compliance with CPAP use. In sum, the doctor concluded that based on the science, a causal connection exists. However, the Board notes that a study cited showed a reduction of OSA symptoms having a positive effect on PTSD, not the reduction of PTSD symptoms having a positive effect on OSA. Additionally, there is no evidence of non-compliance with CPAP use. There is also no rationale provided to support a nexus between depression or anxiety and OSA. Therefore, the Board finds that the rationale provided does not adequately support the conclusion. Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 303 (2008) (most of the probative value of an opinion comes from its rationale or underlying reasoning). As to the private opinion for secondary service connection for the Veteran's OSA, the Board affords the opinion no probative weight. Thus, no nexus is established between the Veteran's PTSD, depression, anxiety and his OSA. 
+
+Accordingly, the Board finds that the most probative evidence is persuasively against the claim for secondary service connection for the Veteran's OSA, and the benefit-of-the-doubt rule is not applicable. Therefore, the Board finds that service connection for the Veteran's OSA on a secondary basis is denied.  
+
+ 
+
+ 
+
+GAYLE STROMMEN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Jeffreys, J.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

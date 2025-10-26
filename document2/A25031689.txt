@@ -1,0 +1,63 @@
+Citation Nr: A25031689
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240428-436105
+DATE: April 7, 2025
+
+ORDER
+
+Given the benefit of the doubt, service connection for sleep apnea, to include as secondary to the service-connected chronic sinusitis, is granted.
+
+FINDING OF FACT
+
+1. Given the benefit of the doubt, the Veteran's sleep apnea is caused or worsened in severity by his service-connected chronic sinusitis.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for sleep apnea, including as secondary to the service-connected chronic sinusitis, have been met. 38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the US Air Force from August 1983 to May 1989.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a September 2023 rating decision from the Regional Office (RO), which denied service connection for sleep apnea. In an April 2024 VA Form 10182, Decision Review Request: Board Appeal, the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+Entitlement to service connection for sleep apnea as secondary to chronic sinusitis.
+
+Under the relevant laws and regulations, service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a). Generally, service connection for a disability requires evidence of: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred in or aggravated by service.
+
+The Veteran is currently diagnosed with sleep apnea, which is not listed as a "chronic disease" under 38 C.F.R. § 3.309(a); therefore, the presumptive provisions of 38 C.F.R. § 3.303(b) for "chronic" in-service symptoms and "continuous" post-service symptoms do not apply. Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+In addition to direct service connection (discussed above), service connection may also be established on a secondary basis for disability which is proximately due to, or the result of, a service-connected disease or injury. 38 C.F.R. § 3.310(a). Secondary service connection may also be established for a disorder which is aggravated by a service-connected disability; compensation may be provided for the degree of disability (but only that degree) over and above the degree of disability existing prior to the aggravation. 38 C.F.R. § 3.310(c). Establishing service connection on a secondary basis essentially requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability. 38 C.F.R. § 3.310(c). 
+
+In determining whether service connection is warranted for a disability, VA is responsible for determining whether the evidence persuasively favors the claim or is in approximate balance, with the Veteran prevailing in either event, or whether the evidence persuasively weighs against the claim, in which case the claim is denied. In other words, when there is an approximate balance of positive and negative evidence regarding any issue material to the determination, the benefit of the doubt is afforded to the claimant. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (2021).
+
+Initially, the rating decision on appeal here concedes the diagnosis of obstructive sleep apnea, diagnosed by sleep study in 2016. The Board notes that the Veteran is service-connected for chronic sinusitis, in addition. The Veteran does not contend that his obstructive sleep apnea was present during service but contends that it is secondary to the service-connected chronic sinusitis.
+
+A VA medical opinion was provided in February 2021, on the theory of secondary service connection due to chronic sinusitis. The examiner confirmed the diagnosis of sleep apnea. The Veteran by that time was using CPAP. The VA examiner opined that it is less likely than not that the Veteran's sleep apnea was caused by the veteran's chronic sinusitis. The examiner went on to explain that the pathophysiology of sleep apnea is ultimately related to the upper airway anatomy and abnormal function with collapse during the sleep cycle, which would not be affected by any sinus-related problems.
+
+The Veteran was afforded a second VA examination in January 2023. Available records were reviewed. The examiner noted that despite service connection for chronic sinusitis while in the military, the Veteran has no further chronic sinusitis symptoms, although he does have allergic rhinitis which is controlled by medication, per his physicians. In addition, the Veteran had negative imaging of his sinuses in 2017. This examiner also concluded that it is less likely than not that the Veteran's sleep apnea is due to chronic sinusitis. The examiner went into detailed rationale, explaining that there is no medical basis for such an assumption, explaining that even if the chronic sinusitis were still symptomatic chronic sinusitis cannot be implicated as a cause of sleep apnea, since sleep apnea is a biomechanical condition characterized by recurrent collapse of the pharyngeal airway during sleep, resulting in substantially reduced or complete cessation of airflow despite ongoing breathing efforts. Chronic sinusitis would not affect the upper airway, although the examiner does list that the primary risk factors are age, male gender, obesity, family history, and craniofacial abnormalities.
+
+Finally, the Veteran was provided a third VA examination in June 2022. The examiner confirmed that a recent ENT examination of the Veteran confirmed the lack of ongoing chronic sinusitis symptoms. He also concluded that it is less likely than not that the Veteran's sleep apnea is due to his history of chronic sinusitis. Again, he gave the rationale that sinusitis cannot cause sleep apnea, since obstructive sleep apnea is characterized by airway collapse, completely unrelated to the sinuses.
+
+In addition, however, the Veteran has submitted two private opinions. The first is from a physician's assistant, who reviewed the Veteran's records thoroughly. He discussed the relationship between nasal congestion, decreased nasal patency, and its effect on the presence and treatment of sleep apnea. After a review of pertinent medical literature, he concluded that it is at least as likely as not that the Veteran's sleep apnea is secondarily connected through his service-connected chronic sinusitis.
+
+Finally, the Veteran submitted an opinion from a nurse practitioner, who likewise reviewed the medical records in June 2023. Again, she thoroughly discussed the relationship between chronic sinusitis, weight gain, and sleep apnea. After a long discussion and supporting medical literature, she concluded that it was at least as likely as not that the Veteran's sleep apnea was secondarily connected to his chronic sinusitis, resulting in excessive weight gain, contributing to worsening of the Veteran's sleep apnea.
+
+The Board finds that the evidence is in approximate balance that the sleep apnea was due to military service. The Board finds both the private and VA medical opinions to be competent, credible, and probative. The private clinicians and VA examiners provided detailed rationale that took into consideration the pertinent lay statements and history, and the evidence of record, and provided clear explanations that contained clear conclusions and supporting data. Barr v. Nicholson, 21 Vet. App. 303, 311 (2007); Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008). Moreover, the Board finds no adequate basis to reject the competent medical opinions based on a lack of credibility or probative value. Madden v. Gober, 125 F.3d 1477, 1481 (Fed. Cir. 1997); Evans v. West, 12 Vet. App. 22, 26 (1998). As there is an approximate balance of positive and negative evidence, the Veteran is entitled to the benefit of the doubt. As such, the Board finds that the sleep apnea is the result of military service. Therefore, service connection for sleep apnea is warranted. The appeal is granted. 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102; Gilbert v. Derwinski, supra.
+
+ 
+
+ 
+
+Thomas L. English
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Seibert, Andrew L. II
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

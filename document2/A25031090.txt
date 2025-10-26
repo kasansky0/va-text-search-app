@@ -1,0 +1,53 @@
+Citation Nr: A25031090
+Decision Date: 04/03/25	Archive Date: 04/03/25
+
+DOCKET NO. 240724-458115
+DATE: April 3, 2025
+
+REMANDED
+
+Entitlement to service connection for sleep apnea is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from June 1994 to June 2014. 
+
+The rating decision on appeal was issued in September 2023 and constitutes an initial decision; therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.  
+
+In a July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the September 2023 agency of original jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801.  However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii). 
+
+Entitlement to service connection for sleep apnea is remanded.
+
+The issue of entitlement to service connection for sleep apnea is remanded to correct a duty to assist error that occurred prior to the September 2023 rating decision on appeal.  The AOJ obtained an August 2023 VA examination report and medical opinion prior to the September 2023 rating decision on appeal.  However, the August 2023 examination report and medical opinion do not provide an adequate rationale regarding whether the Veteran's sleep apnea had its onset in service or is otherwise related to service.
+
+In this regard, the August 2023 VA examiner diagnosed the Veteran with obstructive sleep apnea.  The examiner reported that the date of onset of the Veteran's sleep apnea was in 2023 with initial symptoms of daytime sleepiness.  (8/17/2023, C&P Exam, p. 2).  The examiner opined that the Veteran's claimed sleep apnea is less likely than not caused by or a result of his service.  In so finding, the examiner noted that the Veteran complained of sleep issues during service but indicated that sleep issues can be caused by a "wide variety" of conditions, with "sleep apnea just being one."  The examiner ultimately concluded that he is "unable to attribute [the Veteran's] sleep issues in service to the current sleep apnea diagnosis," as the Veteran was not diagnosed with sleep apnea until after service.  (8/17/2023, C&P Exam, p. 2). 
+
+The Board finds that the August 2023 VA examination and medical opinion are inadequate.  Regarding the August 2023 VA examination, the examiner reported that the date of onset of the Veteran's sleep apnea was in 2023; however, this is factually inaccurate.  The Veteran's service treatment records confirm that he complained of primary snoring, poor sleep quality, and daytime somnolence during his period of active duty service.  Moreover, he reported to his in-service medical providers that his wife observed episodes of apnea.  (7/25/2023, STR, p. 45-48).  Finally, the Veteran underwent a sleep study during service that documented episodes of apnea and hypopnea, albeit not at a rate significant enough to warrant a diagnosis of sleep apnea.  While the Veteran was not diagnosed with sleep apnea at that time, his post-service VA medical records confirm that he again complained of snoring and "apnea events" in August 2022.  (8/1/2023, CAPRI, p. 25).  Given these factual inaccuracies, the Board finds that the August 2023 examination report is inadequate.
+
+Regarding the August 2023 medical opinion, while the examiner acknowledged the Veteran's in-service complaints of sleep issues, the examiner did not acknowledge or address the Veteran's reports that his wife observed episodes of apnea during his period of active duty service.  (7/25/2023, STR, p. 48).  Moreover, the examiner did not acknowledge or address the fact that the Veteran underwent an at home sleep study in 2013, prior to his discharge from active duty, which noted 3 episodes of central apneas and 5 episodes of hypopneas.  
+
+While the at home sleep study did not reveal an apnea-hypopnea index significant enough to warrant a diagnosis of sleep apnea at that time, during an August 2022 VA pulmonary sleep medicine consultation the Veteran reported that "one of the leads came off," during the previously mentioned 2013 sleep study.  (8/1/2023, CAPRI, p. 25).  The Veteran is competent to report his observation that a lead came off during the sleep study and given that he reported this to a medical provider while pursuing medical treatment and the report was made approximately a year prior to submitting this claim, the Board finds that the assertion is credible.  Having stated this, the Board is unable to determine whether the Veteran's assertion is probative, as it is unclear if a lead coming off during a sleep study could result in the under reporting of symptoms.  The Board finds that the August 2023 examiner's failure to address this medical question frustrates the Board's review of the Veteran's claim.
+
+Given the above, the Board finds that the August 2023 examination and medical opinion are inadequate.  As such, the Board finds that a duty to assist error was committed prior to the September 2023 rating decision on appeal.  The claims must therefore be remanded for further medical development.  
+
+The matters are REMANDED for the following action:
+
+Schedule the Veteran for a VA examination for his claimed sleep apnea.  The examiner must review the claims file and provide a response to the following:
+
+Is the Veteran's claimed sleep apnea at least as likely as not (likelihood at least approximately balanced or equal) related to service, including a diagnosis of primary snoring and complaints of poor sleep quality and daytime somnolence?  
+
+In providing the requested opinion, consider the Veteran's description of the in-service symptoms, including complaints of poor sleep quality, daytime somnolence, and reported episodes of apnea.  (7/25/2023, STR, p. 38, 45-46).  The examiner should also address the in-service at home sleep study and the Veteran's subsequent assertion that one of the "leads" came off during the study.  (7/25/2023, STR, p. 46); (8/1/2023, CAPRI, p. 25).  In so doing, the examiner should explain if a lead falling off during an at home sleep study, as reported by the Veteran, could result in the underreporting of apnea symptoms.    
+
+ 
+
+ 
+
+Eric S. Leboff
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Glenn, Robert
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,73 @@
+Citation Nr: A25030172
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240625-450456
+DATE: April 1, 2025
+
+ORDER
+
+Service connection for sleep apnea is granted.
+
+FINDING OF FACT
+
+The Veteran's service-connected depressive disorder caused him to become obese; the obesity was a substantial factor in causing his sleep apnea disability; and the sleep apnea would not have occurred but for obesity caused by service connected depressive disorder.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for sleep apnea as secondary to service-connected depressive disorder are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+?
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from July 2009 to August 2011.
+
+The instant matter comes to the Board of Veterans' Appeals (Board) from a June 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office.  In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.  Therefore, the Board may only consider the evidence of record at the time of the June 2024 Agency of Original Jurisdiction (AOJ) decision on appeal.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Before turning to the merits, the Board notes that the one-year period from the June 2024 rating decision during which the Veteran may switch his Board review docket election has not elapsed.  See 38 C.F.R. § 20.202(c)(2).  However, because the Board is granting the benefits sought on appeal, adjudicating the Veteran's appeal on the Direct Review docket prior to the elapse of the one-year period during which he may switch to a different docket does not prejudice the Veteran.  For the reasons and bases stated below, the Board concludes that the evidence of record at the time of the June 2024 rating decision supports a grant, and additional evidence that the Veteran could submit on either the Evidence Submission docket or the Hearing docket is not needed to grant the claim before the Board.  See id. §20.202(b)(1)-(3).  Accordingly, the Board will proceed with the adjudication of the Veteran's appeal.
+
+Entitlement to service connection for sleep apnea 
+
+The Veteran contends that he is entitled to service connection for sleep apnea.  In a December 2022 statement accompanying his claim for service connection, he argues that his sleep apnea is due to or the result of his service-connected adjustment disorder with mixed anxiety and depressed mood.
+
+Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability.  Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc); Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023) (invalidating the requirement of "proximate cause" and instead held a "but for" causation or aggravation is enough to show entitlement to secondary service connection).  Compensation may be established for any incremental increase in disability or any additional impairment of earning capacity in nonservice-connected disabilities resulting from service-connected disabilities, above the degree of disability existing before the increase regardless of its permanence.  Ward v. Wilkie, 31 Vet. App. 233, 239 (2019).
+
+Although obesity is not a disability for VA compensation purposes, obesity may act as an "intermediate step" between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R. § 3.310 (a). VAOPGCPREC 1-2017 ; Marcelino v. Shulkin, 29 Vet. App. 155 (2018) (affirming the Board's decision that service connection is not warranted for obesity as it is not in and of itself a disability for VA purposes, but not addressing VAOPGCPREC 1-2017 ). In order to establish service connection on this basis, three criteria must be met: (1) the service-connected disability must have caused the Veteran to become obese; (2) the obesity as a result of the service-connected disability must be a substantial factor in causing the disability for which service connection is sought; and (3) the disability for which service connection is sought would not have occurred but for obesity caused by the service-connected disability. Id. 
+
+VA is responsible for determining whether the evidence persuasively favors one side or another.  38 C.F.R. § 4.3.
+
+The first two requirements for secondary service connection are met.  The Veteran was diagnosed with obstructive sleep apnea following an October 2022 sleep study.  The Veteran is also service connected for a depressive disorder with depressive features, evaluated as 30 percent disabling from August 19, 2022.
+
+The question for the Board is whether there is a causal connection between the Veteran's service-connected depressive disorder and his sleep apnea.  The Board concludes that there is.  In a July 2023 private medical opinion, D.A., MD, JD, concluded that sleep apnea was at least as likely as not due to the Veteran's depressive disorder and tinnitus.  D.A. engaged in a fulsome analysis of medical literature showing an association between sleep apnea and mood disorders in the veteran population.  D.A. also discussed literature showing that mood disorders in obese veterans, like the Veteran here, are likewise associated with obstructive sleep apnea.  D.A.'s opinion is highly probative.  He discusses pertinent medical literature and applies those findings to the Veteran's case.  In addition, D.A. indicated that he completed a review of the Veteran's claims file and noted that a physical examination would not assist in the formulation of his opinion regarding sleep apnea.  
+
+The record also includes a November 2023 private medical opinion from M.L., MD, concluding that sleep apnea is at least as likely as not due to the Veteran's service-connected depressive disorder.  M.L., like D.A., discussed medical literature showing an increase preponderance of sleep apnea in veterans with depression and mood disorders.  M.L. also addressed medical literature showing that individuals with both depression and anxiety have an increased risk and incidence of sleep apnea.  M.L.'s opinion is likewise probative.  It is based on a review of the claims file, including the Veteran's service treatment records and lay statements from the Veteran's family members.  M.L. engages in a discussion of the medical literature showing a higher rate of sleep apnea among service personnel.  M.L.'s opinion identifies the Veteran as a "Gulf War Veteran."  While the Veteran served during the Gulf War period, his active service did not include service in Southwest Asia.  Regardless, the Board still find M.L.'s opinion probative.  
+
+?
+
+The record also includes March 2023, April 2023, May 2023, and April 2024 VA opinions.  The same examiner was responsible for the opinions proffered in March 2023, April 2023, and May 2023.  In the March 2023 opinion, the examiner concluded that sleep apnea was less likely than not due to the Veteran's service-connected disabilities.  The examiner noted that sleep apnea occurs during REM sleep when muscle tone is attenuated, allowing the tongue and soft palate to relax and impede air flow, leading to low blood oxygen levels and neurological arousal.  The examiner noted the knee disorders, to include patellar tendonitis for which the Veteran is service connected in both knees, does not cause sleep apnea.  The examiner then noted that obesity is a known risk factor for sleep apnea while also noting that obesity is not present in upwards of 25 percent of sleep apnea cases.  The examiner also noted that the cause of obesity involves multiple factors.  
+
+The Board concludes that the opinion is entitled to no probative weight.  The rationale is equivocal, noting that obesity is a risk factor for sleep apnea but not shown in every case and that multiple factors are involved in the onset of obesity.  Importantly, the opinion omits two considerations.  First, there is no discussion of the Veteran's psychiatric disability or D.A.'s opinion, which was included in the claims file at the time of the opinion.  Second, the opinion does not address whether any of the Veteran's service-connected disabilities aggravated his sleep apnea.
+
+The April 2023 opinion is similarly deficient.  The examiner notes the medical literature addressing the incidence of sleep apnea in patients with mood disorders and depression, describing those studies as showing a correlation but not causation.  According to the examiner, there "are a number of studies that record a high prevalence of OSA in patients with mental health disorder including Adjustment Disorder with Mixed Anxiety and Depressed Mood.  The issue with these studies is that prevalence does not equate to causation," and the examiner concluded that the studies show only correlation, which "is not strong enough to be considered as a medical treatise for a causal relationship between mental health disorder and OSA."  The Aprile 2023 addendum opinion, however, fails to address whether the Veteran's service-connected disabilities aggravated the Veteran's obstructive sleep apnea.  Thus, it is inadequate the adjudicate the claim before the Board.
+
+The examiner responsible for the March 2023 and April 2023 opinions proffered another addendum opinion in May 2023.  The opinion addresses obesity as an intermediary cause of obstructive sleep apnea.  The rationale observes that inactivity can lead to obesity; however, the examiner reasoned that joint pain, without loss of intra-joint space or arthritic changes, is not a contraindication for exercise.  According to the examiner, the Veteran's patellar tendonitis was not active or undergoing treatment; therefore, it was an unlikely contributor to the Veteran's obesity.  Thus, obesity was not an intermediary cause between the Veteran's bilateral knee disability and obstructive sleep apnea.  However, the examiner also notes that a significant portion of patients with obstructive sleep apnea are not obese.  Whether obesity is a contributory cause of the Veteran's sleep apnea is not clear in the opinion.  The examiner states that obesity is a known risk factor for sleep apnea, but it is not a contributory or intermediate case here because the Veteran's knee disabilities do not prevent him from exercising.  Even so, obesity is not always present in patients with sleep apnea, which can occur even when a person is not obese.  The implication is that obesity is a cause of the Veteran's sleep apnea, but his knees did not cause obesity.  And obesity is not a cause of his sleep apnea because sleep apnea occurs in the absence of obesity.  This equivocation renders the opinion inadequate.  Moreover, the Board notes that the examiner failed to address the aggravation prong of secondary service connection.  Thus, the Board affords the May 2023 VA opinion no probative weight.
+
+Finally, the April 2024 VA addendum opinion is likewise inadequate.  Like the prior addendum opinions, it notes that obesity is a known risk factor for sleep apnea while concluding that the Veteran's obesity is not due to any inactivity associated with the Veteran's bilateral knee disabilities.  Likewise, the April 2024 VA addendum opinion also notes that sleep apnea does not always occur in obese individuals and observes that approximately 25 percent of sleep apnea cases occur in individuals with normal, non-obese body-mass indices.  Again, the April 2024 VA addendum opinion does not address the aggravation prong of secondary service connection, i.e., whether it is at least as likely as not that the Veteran's sleep apnea would be less severe but for his service-connected disabilities, to include bilateral knee disabilities, depressive disorder, or tinnitus.  As a result, the Board concludes that the April 2024 VA addendum opinion is inadequate and non-probative.
+
+For the foregoing reasons, the evidence is at least evenly balanced as to whether the Veteran's service-connected depressive disorder caused the Veteran to become obese; the obesity as a result of the service-connected depressive disorder was a substantial factor in causing the sleep apnea; and the sleep apnea would not have occurred but for obesity caused by the service-connected depressive disorder. As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection for sleep apnea is warranted. 38 U.S.C. § 5107 (b); 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+MICHAEL A. HERMAN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Douglas M. Humphrey, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,75 @@
+Citation Nr: A25034600
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240922-476035
+DATE: April 15, 2025
+
+REMANDED
+
+The issue of entitlement to service connection for tinnitus, appealed as to the October 24, 2023 rating decision, is remanded.
+
+The issue of entitlement to service connection for lumbar strain, appealed as to the October 3, 2023 rating decision, is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from October 2006 to October 2010, which included deployments to Kuwait, Iraq, and Afghanistan in 2008, 2009 and 2010.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of October 2023 rating decisions issued by the Department of Veterans Affairs (VA) Regional Office (RO). In September 2024, the Veteran submitted VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), appealing the denials of service connection for a low back strain and tinnitus in the October 2023 rating decisions and attempting to appeal:
+
+"	the denial of entitlement to a 10 percent rating based on multiple non-compensable service-connected disabilities in the August 2015 rating decision;
+
+"	the denial of entitlement to service connection for lumbar strain in the August 2015 rating decision;
+
+"	the denial of service connection for "low back/ chronic low back pain (spasms)" in the May 2014 rating decision;
+
+"	the finding of a duty to assist error as to the claim of service connection for lumbar strain in the March 6, 2024 rating decision; and
+
+"	the finding of a duty to assist error as to the claim of service connection for tinnitus in the March 6, 2024 rating decision.
+
+He elected the Direct review option; therefore, the Board may only consider the evidence of record at the time of the October 3, 2023 rating decision on appeal as to the low back strain and the October 24, 2023 rating decision on appeal as to tinnitus. 38 C.F.R. § 20.301.
+
+The Board notes that, although the Veteran expressed disagreement with denials of service connection for "low back/ chronic low back pain (spasms)" in the May 2014 rating decision, service connection for lumbar strain in the August 2015 rating decision, and entitlement to a 10 percent rating based on multiple non-compensable service-connected disabilities in the August 2015 rating decision, the instant appeal does not include such issues. VA Form 10182 was the incorrect form to express disagreement with rating decisions issued prior to February 19, 2019, and VA regulations provide that a Notice of Disagreement must be filed within one year from the date the RO mails notice of a decision. 38 C.F.R. § 20.203(b). The Board has not waived (implicitly or explicitly) the requirement for him to appeal those rating decisions on the proper form or the requirement that he file an appeal within one year of issuance of the pre-February 19, 2019 rating decisions he sought to appeal. Moreover, the Veteran has not shown good cause that would permit the Board to extend the filing period for such. Therefore, the issues as to the May 2014 and August 2015 rating decisions listed in the September 2024 VA Form 10182 are not before the Board on appeal. 
+
+The Board further notes that, although the Veteran also included on his September 2024 VA Form 10182, issues as to the RO's identification of duty to assist errors in the March 2024 rating decision, that is also not part of this appeal. Significantly, the RO did not adjudicate any question of law or fact in the March 2024 rating decision; instead, the RO merely identified that duty to assist errors had occurred in the as to development of the Veteran's claims of service connection for lumbar strain and tinnitus denied in the October 2023 rating decisions and informed the Veteran that further development would be conducted as to such. The regulations make clear that only a rating decision that actually reduces a rating or grants or denies any benefit, can be appealed. See 38 C.F.R. § 20.202(a), (d); see, e.g., Shipley v. Shinseki, 24 Vet. App. 458 (2011) (a deferred decision does not constitute an "adjudicative determination" from which a Notice of Disagreement may be filed). Therefore, the findings of duty to assist errors in the March 2024 rating decision are not before the Board on appeal. 
+
+Based on the above, the instant appeal is limited only to the issues of entitlement to service connection for lumbar strain and tinnitus, which were separately denied in the October 2023 rating decisions. Although the Veteran previously sought higher-level review of these portions of the October 2023 rating decisions via his October 2023 VA Form 20-0996, there is no issue of concurrent election here, because he did not submit his September 2024 VA Form 10182 until after the higher-level review process was complete,. See 38 C.F.R. § 3.2500; Terry v. McDonough, 37 Vet. App. 1, 14 (2023) ("we see that Congress provided that a claimant is able to select a second administrative review option with respect to a decision on the claim, so long as the 1-year period from that decision has not run and the second administrative review option does not run concurrently with the first administrative review option"). 
+
+After issuance of the October 2023 rating decision, the RO associated additional evidence with the claims file. The Board cannot consider such evidence. 38 C.F.R. § 20.301; see also Cook v. McDonough, 36 Vet. App. 175 (2023). The Board can, however, consider the legal impact of subsequent decisions on the appealed issues. Per a September 2024 rating decision issued following identification of duty to assist errors in the October 2023 rating decision, the RO again denied service connection for lumbar strain and tinnitus, but the Board is unable to consider any of the evidence obtained after issuance of the October 2023 rating decisions and discussed in the September 2024 rating decision. To the extent this evidence may relate to the claims remanded below, any evidence the Board could not consider will be considered by the RO in adjudication of such. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Under the AMA, the Board must remand appeals to the RO to correct pre-decisional duty to assist errors. See 38 C.F.R. § 20.802(a). Here, the Board's review of the record reveals duty to assist errors, as discussed in more detail below.
+
+1. The issue of entitlement to service connection for tinnitus, appealed as to the October 24, 2023 rating decision, is remanded.
+
+Prior to initiation of this appeal, on August 10, 2022, President Biden signed the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act), which addresses the circumstances of military service that qualify for a presumption of exposure based on a toxic exposure risk activity (TERA). The TERA could result from service in a location associated with toxic exposure or from occupational exposure from a veteran's military occupational specialty. Here, the Veteran served in locations presumptively associated with toxic exposures (i.e., Kuwait, Iraq, and Afghanistan), and VA obtained an Individual Longitudinal Exposure Record (ILER) further documenting exposure to contaminated water, burn pits and associated emissions, particulate matter, jet engine exhaust, vehicle exhaust, bed bugs, and volatile organic compounds (VOCs) while he was deployed to Ali Al Salem Air Base. Under the PACT Act, VA is required to provide a disability examination and medical nexus opinion when a Veteran submits a compensation claim and has evidence of a disability and participation in a TERA, but the evidence is not sufficient to establish service connection for the disability. See 38 U.S.C. § 1168(a) (see PACT Act, Sec. 303). The Veteran was afforded a VA TERA medical opinion prior to issuance of the rating decision on appeal in October 2023; however, as discussed below, this opinion is inadequate.
+
+Per the October 2023 VA opinion as to tinnitus, an examiner documented that the Veteran was exposed to burn pits, particulate matter, and contaminated water during service and concluded that there was a lack of scientific literature outlining a significant relationship between the specified TERAs and tinnitus. In rendering this opinion, however, the examiner did not address the Veteran's other documented exposures to jet engine exhaust, vehicle exhaust, bed bugs, and VOCs during service. Thereafter, the RO did not obtain an addendum TERA opinion addressing the impact of all of the Veteran's presumed and documented exposures on his tinnitus prior to issuance of the rating decision on appeal, which constitutes a pre-decisional duty to assist error requiring remand. 
+
+2. The issue of entitlement to service connection for lumbar strain, appealed as to the October 3, 2023 rating decision, is remanded.
+
+Prior to issuance of the October 3, 2023 rating decision, in August 2023, the Veteran submitted an authorization allowing VA to request private treatment records related to his claimed back disability from Health Link Baptist and M&S Baptist Imaging. See August 2023 VA Form 21-4142a. The RO did not attempt to obtain the identified and authorized private treatment records prior to issuance of the rating decision on appeal, which constitutes a pre-decisional duty to assist error requiring remand. 
+
+The matters are REMANDED for the following action:
+
+1. To the extent that the August 2023 VA Form 21-4142a has not been processed to request records identified therein, process such and request the identified records.
+
+2. Obtain an addendum medical opinion as to the etiology of the Veteran's tinnitus. After complete review of the claims file, specifically including the October 2023 Individual Longitudinal Exposure Record and any other records documenting or conceding in-service exposures, an examiner should respond to the following:
+
+(a.) Is the Veteran's tinnitus at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) due to his presumed in-service exposure to burn pits and other toxins; presumed in-service exposure to fine particulate matter; his documented in-service exposure to jet engine exhaust, vehicle exhaust, bed bugs, and volatile organic compounds; any other subsequently documented or conceded in-service exposures; and/or the synergistic, combined effect of all of his toxic exposure risk activities?
+
+The examiner is advised that simply stating that tinnitus is not presumptively related to any of the above-listed exposures is NOT a sufficient rationale for a negative opinion, standing alone.
+
+The opinion must be accompanied by a rationale consistent with the evidence of record. A discussion of the pertinent evidence, relevant medical treatises, and generally accepted medical principles is requested.
+
+ 
+
+ 
+
+MICHELLE L. KANE
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Tierno
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

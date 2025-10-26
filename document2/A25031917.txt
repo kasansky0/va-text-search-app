@@ -1,0 +1,77 @@
+Citation Nr: A25031917
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240723-457754
+DATE: April 7, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea (OSA), due to obesity, as secondary to service-connected disabilities is granted.
+
+FINDING OF FACT
+
+Resolving reasonable doubt in favor of the Veteran, his service-connected disabilities have caused him to become obese, which has caused his OSA.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to service connection for OSA due to obesity, as secondary to service-connected disabilities, have been met. 38 U.S.C. §§ 1110, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from June 1989 to July 1991.
+
+In the July 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the August 2023 agency of original jurisdiction (AOJ) decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+The Board has limited the discussion below to the relevant evidence required to support its finding of fact and conclusion of law, as well as to the specific contentions regarding the case as raised directly by the Veteran and those reasonably raised by the record. See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Peake, 21 Vet. App. 545, 552 (2008).
+
+Secondary Service Connection
+
+Service connection may be established on a secondary basis for a disability that is due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310. Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability. 38 C.F.R. § 3.310; Allen v. Brown, 7?Vet. App.?439 (1995).? 
+
+In making all determinations, the Board must fully consider the lay assertions of record. A layperson is competent to report on the onset and continuity of his current symptomatology. See Layno v. Brown,?6?Vet. App.?465, 470?(1994)(a Veteran is competent to report on that of which he or she has personal knowledge). The determination as to whether the requirements for service connection are met is based on an analysis of all the evidence of record and the evaluation of its credibility and probative value.?38 U.S.C. § 7104?(a); Baldwin v. West,?13?Vet. App.?1?(1999); see?38 C.F.R. § 3.303(a).
+
+VA's Office of General Counsel has determined that obesity is not a disease or injury under VA's laws and regulations and may not be service connected on a direct or secondary basis. VAOPGCPREC 1-2017. However, obesity may act as an intermediate step between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R. § 3.310(a). See Marcelino v. Shulkin, 29 Vet. App. 155 (2018); Walsh v. Wilkie, 32 Vet. App. 300 (2020).
+
+A theory of obesity as an intermediary step is raised when there is some evidence in the record that draws an association or suggests a relationship between the veteran's obesity (or weight gain resulting in obesity) and a service-connected condition. Garner v. Tran, 33 Vet. App. 241, 248 (2021). The General Counsel's opinion advises that to decide entitlement to secondary service connection in such a case, the Board is required to resolve (1) whether the service-connected disability caused the veteran to become obese; (2) if so, whether obesity, as a result of the service-connected disability, was a substantial factor in causing the claimed secondary disability; and (3) whether the claimed secondary disability would not have occurred but for obesity caused by the service-connected disability. VAOPGCPREC 1-2017 at 9-10; Garner, 33 Vet. App. at 247-248.
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.?38 U.S.C. § 5107;?38 C.F.R. § 3.102; see also Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021). 
+
+1. Entitlement to service connection for OSA, due to obesity, as secondary to service-connected disabilities, is granted.
+
+The Veteran asserts that weight gain, caused by his service-connected physical and psychiatric disabilities, in turn caused his OSA. See June 2023 VA Form 21-4138; see also June 2023 VA Form 21-526EZ Application for Disability Compensation and Related Compensation Benefits (DBQ).
+
+First, the current disability requirement for secondary service connection has been met. In the August 2023 rating decision, the AOJ favorably found that the Veteran was diagnosed with OSA in a July 2023 VA examination. The Veteran is service-connected for various physical disabilities, including a lumbar spine strain, right knee post-traumatic arthritis, and lower extremity sciatica. Additionally, the Veteran is service-connected for a depressive disorder due to chronic pain with mixed features associated with lumbar spine strain, (depression). See August 2023 Codesheet. 
+
+Second, regarding the nexus between the Veteran's OSA and his service-connected depression and physical disabilities, there is probative evidence for and against the claim. The evidence of record consists of credible statements from the Veteran, a positive private medical opinion regarding etiology of the Veteran's OSA, and a negative etiology VA medical opinion. The probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion that the physician reaches. Guerrieri v. Brown, 4 Vet. App. 467, 470-71 (1993). Whether a physician provides a basis for a medical opinion goes to the weight or credibility of the evidence in the adjudication of the merits. See Hernandez-Toyens v. West, 11 Vet. App. 379, 382 (1998). Other factors for assessing the probative value of a medical opinion are the physician's access to the claims folder and the thoroughness and detail of the opinion. See Prejean v. West, 13 Vet. App. 444, 448-9 (2000); Nieves-Rodriguez, 22 Vet. App. 295 (2008).
+
+Here, a May 2023 positive nexus opinion was provided by a private provider, Dr. Z.M., a medical professional who possesses the necessary education, training, and expertise to provide the requested opinions. The provider stated he reviewed the Veteran's record. The opinion is accompanied by a discussion of the medical literature and sufficient explanation of the etiology of the Veteran's OSA. 
+
+Dr. Z.M. opined that it is as least as likely as not that the Veteran's obesity is due to his service-connected depression, lumbar spine strain, and lower extremity sciatica and that the Veteran's obesity led to, caused, and/or aggravated the current OSA. Specifically, Dr. Z.M. stated that the Veteran's physical service-connected disabilities can cause pain, painful motion, and sleep disturbance related to sleep positioning. Further, he stated that diminished motivation (associated with depression), and/or "comfort" overeating can lead to diminished activity with low caloric expenditure, which leads to weight gain and obesity. Finally, Dr. Z.M. stated sleep loss results in metabolic and endocrine alterations which can lead to an increased body mass index (BMI) and obesity, creating a cycle that increasingly aggravates OSA. As the opinion contains a clear, reasoned rationale based on the physician's knowledge and the Veteran's record, the Board places significant probative weight on the May 2023 private medical opinion.
+
+In July 2023, the RO obtained a medical opinion addressing secondary service connection for OSA. After a review of the Veteran's records, a VA examiner provided a negative nexus opinion, stating that the Veteran's OSA was less likely than not, proximately due to or the result of his depression. The examiner opined that there is no relationship between OSA and the Veteran's depression, nor is there any evidence of record, or in medical literature, supporting such a nexus exists. The opinion does not adequately address the causation element of secondary service connection: considering whether the Veteran's depression and/or physical disabilities were the cause of the Veteran's obesity, which in turn caused or aggravated his OSA. Instead, the examiner finds that there is no direct relationship between the service-connected depression and OSA and that the Veteran's obesity is likely due to other factors such as genetics or lifestyle choices such as caloric intake and lack of activity by choice. The examiner did not opine on the etiology of the Veteran's OSA. For this reason, the Board finds the July 2023 medical opinion to be of minimal probative value.
+
+As noted above, the record consists of statements made by the Veteran during treatment for his service-connected depression and physical disabilities. The Veteran is competent to describe his symptoms, but not to provide a diagnosis of their causes. see Layno v. Brown,?6?Vet. App.?465, 470?(1994). In this case, the Board finds that the Veteran has consistently reported that his physical disabilities limited his ability to be active and prevented him from exercising. In an August 2022 lay statement related to his depression, the Veteran stated that his physical pain prohibited him from exercising and that he has had persistent difficulty falling and staying asleep. Statements regarding the Veteran's service-connected knee disability and sciatica contain the same endorsements about their limiting effect on the Veteran's ability to be active. See August 2022 and September 2022 VA Forms 21-4138.
+
+The record also contains lay statements from June 2014 from the Veteran's wife, mother, and brother. Each described the Veteran's continuous back problems affecting his daily activities, stating that he used to enjoy baseball and running, but can no longer do those activities anymore because of his back pain. 
+
+Service treatment records show that the Veteran weighed 178 pounds on enlistment and 202 pounds at separation from service. At the time of the Veteran's OSA diagnosis, the Veteran's weight was 274 pounds. See January 2023 CAPRI Records. Based on the May 2023 medical opinion and the record as a whole, the Board finds that there is sufficient evidence that draws an association or suggests a relationship between the Veteran's obesity (or weight gain resulting in obesity) and a service-connected condition. Garner, 33 Vet. App. at 247-248.
+
+In conclusion, the Board finds the probative evidence tends to support a finding that the Veteran's current OSA is caused by and aggravated beyond its natural progression by obesity caused by the Veteran's service-connected depression and physical disabilities. Accordingly, after resolving all doubt in favor of the Veteran, the Board finds that secondary service connection for OSA due to obesity is warranted as the approximate balance of the evidence is for the claim. 38 U.S.C. § 5107; 38 C.F.R. § 3.102.
+
+ 
+
+ 
+
+Christopher Seppanen
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Marron, Sara C.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

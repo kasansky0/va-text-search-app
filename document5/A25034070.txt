@@ -1,0 +1,93 @@
+Citation Nr: A25034070
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240831-469267
+DATE: April 11, 2025
+
+REMANDED
+
+Entitlement to service connection for high blood pressure (hypertension) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the U.S. Marine Corps from June 1977 to June 1981.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a March 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO), which is the agency of original jurisdiction (AOJ).
+
+In November 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of an August 2023 decision.  In March 2024, the AOJ issued the HLR decision on appeal, which considered the evidence of record at the time of the prior August 2023 decision. 
+
+The Veteran submitted his VA Form 10182 on August 31, 2024.  On the August 2024 VA Form 10182, the Veteran indicated that the decision on appeal was an August 1, 2023 decision, which was not within a year prior to the August 2024 VA Form 10182; however, since the same issue was adjudicated within the year prior to the Veteran's August 2024 VA Form 10182 in March 2024, the Board accepts the Veteran's August 2024 VA Form 10182 as a timely appeal of the March 2024 decision.  In the August 2024 VA Form 10182, the Veteran elected the direct review docket.  See August 2024 VA Form 10182.
+
+Therefore, the Board may only consider the evidence of record at the time of the August 2023 AOJ decision that was subject to HLR.  38 C.F.R. § 20.301.  Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board.  38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of entitlement to service connection for hypertension, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim.  38 C.F.R. § 3.103(c)(2)(ii).
+
+1. Entitlement to service connection for high blood pressure (hypertension) is remanded.
+
+The Veteran asserts that his high blood pressure onset in service.  See March 2023 VA Form 21-526EZ.  Alternatively, the Veteran contends that drinking the contaminated water at Camp Geiger caused his blood pressure to increase right after his separation from service.  See May 2020 VA Form 21-526EZ.
+
+Here, the Board finds that a remand is necessary to correct a duty to assist error that occurred prior to the rating decision on appeal.
+
+Under the Appeals Modernization Act (AMA), remands are limited to correction of (1) duty to assist errors occurring prior to the date of the AOJ decision on appeal and (2) AOJ errors in satisfying a regulatory or statutory duty if correction of such error would have a reasonable possibility of aiding in substantiating the appellant's claim.  38 C.F.R. § 20.802(a).  Here, as the Board is unable to grant the Veteran's claim at this time and the Veteran was exposed to contaminated water at Camp Lejeune, an opinion pursuant to 38 U.S.C. § 1168 must be obtained, and it was a duty to assist error to not do so prior to the rating decision on appeal.
+
+Generally, service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+For VA purposes, hypertension or isolated systolic hypertension must be confirmed by readings taken two or more times on at least three different days.  The term hypertension means that the diastolic blood pressure is predominantly 90mm or greater, and isolated systolic hypertension means that the systolic blood pressure is predominantly 160mm or greater with a diastolic blood pressure of less than 90mm.  38 C.F.R. § 4.104, DC 7101, Note 1.
+
+On August 10, 2022, the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (PACT Act), was signed into law.  In relevant part, the PACT Act requires VA to schedule an examination and request a medical opinion for certain non-presumptive diseases involving toxic exposure risk activities (TERA).  For such claims, VA is required to provide an examination and medical opinion when the Veteran submits a claim for compensation, has evidence of a disability, has evidence of participation in a TERA, and the evidence is not sufficient to establish service connection for the disability.  38 U.S.C. § 1168.  In rendering a TERA opinion, the examiner must consider: the (1) total potential exposure through all applicable military deployments; and (2) the "synergistic, combined effect of all toxic exposure risk activities of the veteran."  Id.  A Veteran can establish participation in a TERA explicitly or implicitly through service in a location presumed associated with toxic exposure.  Id.
+
+Service at Camp Lejeune qualifies as a TERA, meaning that veterans who served at Camp Lejeune for more than 30 days between August 1, 1953 and December 31, 1987 are presumed to have been exposed to contaminants in the water supply.  See 38 C.F.R. § 3.307(a)(7)(iii).  In the present appeal, the Veteran's service at Camp Lejeune and resultant exposure to contaminants in the water supply has been conceded.  See Military Personnel Record; see also August 2022 Rating Decision.  While the Veteran has presumed exposure to the contaminated water at Camp Lejeune, hypertension is not recognized as a disability associated with such exposure.  38 C.F.R. § 3.309(f).  Therefore, the Veteran's claim cannot be granted on this presumptive basis.
+
+Finally, under the AMA, the Board is bound by earlier in time findings of fact that are favorable to the appellant.  See 38 U.S.C. § 5104A; 38 C.F.R. § 3.104(c).  In the present appeal, favorable findings include that (1) the Veteran is currently diagnosed with hypertension; (2) a qualifying event, injury, or disease had its onset during the Veteran's service due to his elevated blood pressure readings while on active duty; and (3) the Veteran was exposed to contaminated water at Camp Lejeune during the period from February 1978 to March 1978.  See August 2022 and March 2024 Rating Decisions.
+
+Turning to the evidence of record, the Veteran's service treatment records (STRs) contain blood pressure readings of 138/72, 136/88, 139/82, 136/84, 104/66, 120/72, and 120/88.  See STRs.  None of those readings meet the definition of hypertension for VA purposes.  38 C.F.R. § 4.104, DC 7101, Note 1; see also July 2023 VA Medical Opinion.
+
+The Veteran's private treatment records include blood pressure readings of 130/90 in February 2011, 144/90 in April 2019, and 132/90 in March 2020.  See Private Treatment Records.  As discussed, the Veteran's current diagnosis of hypertension has been conceded and is a favorable finding by which the Board is bound.
+
+In August 2022, the Veteran submitted medical literature regarding perchloroethylene (PCE), which is a volatile organic compound that was a contaminant in the water supply at Camp Lejeune.  See 38 C.F.R § 3.307(a)(7).  The August 2022 literature stated that exposure to PCE could cause neurological effects, impairments in cognitive and neurobehavioral function, liver damage, kidney effects, effects on development and reproduction, and immune and hematologic effects.  See August 2022 Web/HTML Documents.
+
+In March 2023, the Veteran submitted further medical literature that provided guidance on elevated, stage 1, and stage 2 hypertension.  See March 2023 Correspondence.
+
+The Veteran was afforded a VA examination in April 2023.  The Veteran reported that he was first diagnosed with high blood pressure in 1991 and that he had taken blood pressure medication since then, with more medication added in 2005.  Moreover, the VA examiner noted that the Veteran's left adrenal gland was removed due to hyperaldosteronism and adrenal adenoma in 2006, but that his blood pressure stayed the same following that procedure.  Additionally, the Veteran attributed feeling sluggish and headaches to his high blood pressure.  See April 2023 VA Examination. 
+
+In July 2023, the VA examiner provided a direct service connection opinion, wherein they opined that none of the Veteran's currently diagnosed conditions related to his high blood pressure were incurred in or caused by the Veteran's elevated blood pressure right after separation, his eventual diagnosis of hyperaldosteronism, or his multiple instances of elevated blood pressure in service.  See July 2023 VA Medical Opinion. 
+
+A July 2023 TERA Memorandum stated that the Veteran had no TERA participation in service, including no exposure to the contaminated water at Camp Lejeune.  See July 2023 TERA Memorandum.  However, as discussed, the Veteran's service at Camp Lejeune and resultant exposure were already conceded by VA at the time of the July 2023 memorandum.  See August 2022 Rating Decision. 
+
+As the Veteran had qualifying service at Camp Lejeune and no VA medical opinion has been obtained regarding the Veteran's TERA, a pre-decisional duty-to-assist error has occurred.  38 U.S.C. § 1168.
+
+Additionally, the July 2023 TERA memorandum, the only TERA memorandum associated with the Veteran's claims file, does not accurately reflect the Veteran's conceded exposure to the contaminants in the water supply at Camp Lejeune.  See July 2023 TERA Memorandum.  As such, the RO should prepare a new TERA memorandum which addresses any TERA which occurred during the Veteran's active service, including his exposure at Camp Lejeune. 
+
+As the Board is unable to grant service connection at this time and the Veteran participated in TERA through his service at Camp Lejeune, an appropriate medical opinion is required.  The lack of said medical opinion thus far is a pre-decisional duty to assist error.  Upon remand, the AOJ must take all appropriate steps to provide such an opinion.  38 U.S.C. § 1168.
+
+The matters are REMANDED for the following action:
+
+1. Issue a new TERA memorandum which specifically identifies each TERA and the time period(s) which pertain to each identified TERA. 
+
+2. Please opine whether it is at least as likely as not (likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's hypertension had its onset in service or is otherwise related to the Veteran's active service, to include his exposure to toxins. 
+
+(a.) When providing this opinion, the examiner should specifically consider and discuss:
+
+1. The total potential toxic exposure through all applicable periods of service; and
+
+2. The synergistic, combined effect of all toxic exposure risk activities of the Veteran.
+
+(b.) The examiner should elicit from the Veteran a full history of all potential exposures through all applicable service deployments and identify each toxin that the Veteran claims exposure, to include contaminated water at Camp Lejeune.
+
+(c.) If the VA examiner determines that an additional examination of the Veteran is necessary to provide an opinion, such examination should be scheduled; however, the Veteran should not be required to report for another examination if it is not found to be necessary.
+
+(This space intentionally left blank.  VLJ signature on next page.)
+
+ 
+
+ 
+
+J.P. Norman
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M.G. Canary, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

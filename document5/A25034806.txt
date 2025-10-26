@@ -1,0 +1,81 @@
+Citation Nr: A25034806
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240808-462614
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to an initial compensable disability rating for chronic obstructive pulmonary disease (COPD) is denied.
+
+FINDING OF FACT
+
+Throughout the review period, the Veteran's COPD did not have a Forced Expiratory Volume in one second (FEV-1) of 71 to 80 percent predicted. 
+
+CONCLUSION OF LAW
+
+The criteria for an initial compensable rating for COPD have not been met. 38 U.S.C. §§ 1110, 1155, 5107; 38 C.F.R. §§ 3.102, 4.1, 4.3, 4.7, 4.96, 4.97, Diagnostic Code (DC) 6604.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty in the United States Army from May 1993 to May 1996, and from December 2004 to December 2007.  
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from a January 2024 Appeals Modernization Act (AMA) rating decision by the Department of Veterans Affairs (VA) Regional Office (RO).  
+
+In August 2024, the Veteran submitted a VA Form 10182 (Notice of Disagreement) with the January 2024 rating decision. The Veteran selected the direct review docket. Therefore, the Board may only consider the evidence of record at the time of the January 2024 agency of original jurisdiction (AOJ) decision on appeal.      38 C.F.R. § 20.303. If evidence was submitted during the period after the AOJ issued the decision on appeal the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.303, 20.801.
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision.
+
+The Board notes that the Veteran contends on his August 2024 Notice of Disagreement that his COPD, burn pit exposure, and sleep apnea are connected. By way of history, the Veteran filed a claim for entitlement to service connection for sleep apnea in March 2016, which was denied by the AOJ in a June 2016 rating decision. The Veteran did not appeal that decision within the appeal period, and the decision is final. Consequently, to the extent that the Veteran wishes to appeal the issue of entitlement to service connection for sleep apnea, the August 2024 Notice of Disagreement is not timely to the June 2016 decision, and the issue is not properly before the Board. The Veteran is welcome to file a Supplemental Claim if he wishes to pursue the issue of entitlement to service connection for sleep apnea.
+
+Increased Ratings
+
+Disability ratings are determined by evaluating the extent to which a veteran's service-connected disability adversely affects his or her ability to function under the ordinary conditions of daily life, including employment, by comparing his or her symptomatology with the criteria set forth in the Schedule for Rating Disabilities. See 38 U.S.C. § 1155; 38 C.F.R. § 4.1. If two ratings are potentially applicable, the higher rating will be assigned if the disability more nearly approximates the criteria required for that rating; otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7. Any reasonable doubt regarding the degree of disability will be resolved in favor of the veteran. 38 C.F.R. § 4.3.
+
+Separate ratings can be assigned for separate periods based on the facts found - a practice known as "staged" ratings. Fenderson v. West, 12 Vet. App. 119 (1999); Hart v. Mansfield, 21 Vet. App. 505 (2007). Staged ratings are appropriate whenever the factual findings show distinct periods where the service-connected disability exhibits symptoms that would warrant different ratings. Id.
+
+Any reasonable doubt regarding the degree of disability shall be resolved in favor of the claimant. 38 C.F.R. § 4.3. Where there is a question as to which of two evaluations to apply, the higher of the two should be assigned where the disability picture more nearly approximates the criteria for the next higher rating.  38 C.F.R. § 4.7.
+
+Entitlement to an initial compensable disability rating for COPD.
+
+The Veteran asserts he is entitled to a compensable rating for his COPD. The Veteran's COPD is rated according to DC 6604. 38 C.F.R. § 4.97, DC 6604.
+
+Under DC 6604, for COPD, a 10 percent rating applies where there is an FEV-1 of 71 to 80 percent predicted, or; FEV-1/FVC of 71 to 80 percent, or; DLCO (SB) 66 to 80 percent predicted. Id. 
+
+A 30 percent applies FEV-1 of 56 to 70 percent predicted, or; FEV-1/FVC of 56 to 70 percent, or; DLCO (SB) 56 to 65 percent predicted. Id.
+
+A 60 percent applies FEV-1 of 40 to 55 percent predicted, or; FEV-1/FVC of 40 to 55 percent, or; DLCO (SB) of 40 to 55 percent predicted, or; maximum oxygen consumption of 15 to 20 ml/kg/min (with cardiorespiratory limit). Id.
+
+A 100 percent applies FEV-1 less than 40 percent of predicted value, or; the ratio of FEV-1/FVC less than 40 percent, or; DLCO (SB) less than 40 percent predicted, or; maximum exercise capacity less than 15 ml/kg/min oxygen consumption (with cardiac or respiratory limitation), or; cor pulmonale (right heart failure), or; right ventricular hypertrophy, or; pulmonary hypertension (shown by Echo or cardiac catheterization), or; episode(s) of acute respiratory failure, or; requires outpatient oxygen therapy. Id.
+
+Pulmonary function tests (PFTs) are generally required to evaluate COPD. 38 C.F.R. § 4.96(d)(1). If the DLCO (SB) test is not of record, the rater is to evaluate based on alternative criteria as long as the examiner states why the test would not be useful or valid in a particular case. 38 C.F.R. § 4.96(d)(2). When the PFTs are not consistent with clinical findings, the rater should evaluate based on the PFTs unless the examiner states why they are not a valid indication of respiratory functional impairment in a particular case. 38 C.F.R. § 4.96(d)(3).
+
+Post-bronchodilator studies are required when PFTs are conducted for disability evaluation purposes except when the results of pre-bronchodilator PFTs are normal or when the examiner determines that the post-bronchodilator studies should not be done and states why. 38 C.F.R. § 4.96(d)(4). When both pre- and post-bronchodilator results are available, the post-bronchodilator results should be applied to the criteria in the rating schedule unless the post-bronchodilator results were poorer than the pre-bronchodilator results. 38 C.F.R. § 4.96(d)(5).
+
+Further, when there is a disparity between the results of different PFT's, so that the level of evaluation would differ depending on which test result is used, the rating criteria direct the rater to use the test result that the examiner states most accurately reflects the level of disability. 38 C.F.R. § 4.96(d)(6).
+
+In this case, the Veteran underwent PFT in November 2023. The PFT showed pre-bronchodilator results of FVC at 84 percent predicted and FEV-1 at 78 percent predicted and showed post-bronchodilator results of FVC at 92 percent predicted and FEV-1 at 89 percent predicted.  See November 2023, American Respiratory Labs (ARL), Pulmonary Stress Test, Spirometry & EKG Tests Interpretation. The FEV-1/FVC pre-bronchodilator result was 72 percent and post-bronchodilator result was 74 percent. Id.
+
+The Veteran was afforded a VA examination for his COPD in January 2024.  The Veteran reported symptoms of dry cough intermittently, postnasal drainage, and shortness of breath. The examiner noted the Veteran's diagnosis of COPD.
+
+The January 2024 VA examiner indicated that the test which most accurately indicated the Veteran's level of disability was the FEV-1. The examiner noted that the November 2023 PFT showed a pre-bronchodilator result of FEV-1 at 78 percent predicted and a post-bronchodilator result of FEV-1 at 91 percent predicted. Further, the examiner explained that a DLCO (SB) test was not completed because that test was not indicated for the Veteran's condition. 
+
+The Board notes that the January 2024 VA examiner documented the Veteran's November 2023 PFT's post-bronchodilator result of FEV-1 at 91 percent predicted which is inconsistent with the November 2023 PFT's post-bronchodilator result of FEV-1 at 89 percent predicted. See November 2023, ARL, Pulmonary Stress Test, Spirometry & EKG Tests Interpretation. However, a post-bronchodilator FEV-1 result of either 91 or 89 percent predicted does not more nearly approximate a level of disability warranting a compensable rating of 10 percent under DC 6604.  As stated above, for a 10 percent rating for COPD, a PFT's post-bronchodilator FEV-1 result must be in the range of 71 to 80 percent predicted under DC 6604.
+
+Although the Veteran's November 2023 PFT does show an FEV-1/FVC post-bronchodilator result of 74 percent, which falls within the 71 to 80 percent range for a 10 percent rating, these results are not the appropriate measure for rating purposes. As previously discussed, when there is a disparity between the results of different PFT's, so that the level of evaluation would differ depending on which test result is used, the rating criteria direct the rater to use the test result that the examiner states most accurately reflects the level of disability. The January 2024 VA examiner indicated that the FEV-1 percent predicted most accurately reflects the Veteran's level of disability. Consequently, the Board must evaluate the level of severity of the Veteran's disability based on the FEV-1 percent predicted.  After a review of the record, the Board finds the Veteran's COPD has not been characterized as having a FEV-1 of 71 to 80 percent predicted. Therefore, a compensable disability rating (greater than 0 percent) for COPD is not warranted.   38 C.F.R. § 4.97, DC 6604. 
+
+The Board is sympathetic to the Veteran's respiratory condition and understands that his COPD has significant effects on his daily life. However, the Board is bound by the law. This appeal must be denied.
+
+The Board also notes that this decision does not leave the Veteran without recourse. If his service-connected disability should worsen in the future, he is free to file a claim for an increased disability rating at that time.
+
+ 
+
+Wendy Daknis
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	V. Ruberto
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

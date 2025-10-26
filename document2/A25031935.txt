@@ -1,0 +1,77 @@
+Citation Nr: A25031935
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 240625-451190
+DATE: April 7, 2025
+
+REMANDED
+
+Entitlement to service connection for decreased libido and ejaculation difficulty (previously denied as erectile dysfunction) is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty in the United States Marine Corps from November 2011 to June 2015.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a June 2024 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO). 
+
+The Veteran has continuously pursued an appeal from a June 2024 rating decision that denied service connection for decreased libido and ejaculation difficulty. In June 2024, the Veteran submitted VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of the June 2024 rating decision. Later that month, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal.
+
+In June 2024, the Veteran submitted VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), and elected the Direct Review docket.
+
+However, because the Board is remanding the claim, any evidence the Board could not consider will be considered by the AOJ in the adjudication of the claim. 38 C.F.R. § 3.103(c)(2)(ii).
+
+The Board acknowledges that the period to change AMA dockets per 38 C.F.R. § 20.202 (c)(2) has not yet elapsed. However, the Board finds that a docket switch letter pursuant to Williams v. McDonough, 37 Vet. App. 305 (2024) is not necessary because the Veteran will have an opportunity to submit additional evidence to be considered on remand and this remand is not considered a final adjudication of the issue on appeal. Accordingly, there is no prejudice to the Veteran in proceeding with the remand. Id.
+
+Entitlement to service connection for decreased libido and ejaculation difficulty (previously denied as erectile dysfunction) is remanded.
+
+The Veteran asserts that his decreased libido and ejaculation difficulty are secondary to his service-connected left leg shin splints, right leg shin splints, and right elbow strain. See June 2021 Statement in Support of Claim; October 2021 VA Male Reproductive System Conditions Examination; and January 2024 VA Form 20-0995 Supplemental Claim Application. 
+
+Upon review of the record, the Board finds that a remand is necessary to correct a pre-decisional duty-to-assist error. 
+
+In a June 2021 statement, the Veteran reported that after beginning to take asprin, ibuprofen, Advil, and Aleve (collectively NSAIDs) for his service-connected musculoskeletal disabilities, he began having difficulty achieving and maintaining an erection. He further explained that when he is able to get an erection, he cannot climax.
+
+Also in June 2021, the Veteran submitted an article suggesting that NSAID use may increase the risk of erectile dysfunction.
+
+In October 2021, the Veteran underwent a VA Male Reproductive System Conditions Examination, which confirmed his diagnosis of decreased libido and ejaculation difficulty. However, the examiner did not diagnose erectile dysfunction and marked "No" in response to whether the Veteran had erectile dysfunction. The Veteran stated that he used Advil, Aleve, and other over-the-counter medications for headaches and for symptoms related to his service-connected musculoskeletal disabilities. He reported that his symptoms may be related to the use of medication but did not specifically attribute the onset of symptoms to any specific medication. He did not report any association between the onset or worsening of symptoms and the use of mental health medication. 
+
+The examiner opined that the Veteran's decreased libido and ejaculation difficulty were less likely than not (less than 50 percent probability) proximately due to or the result of his service-connected conditions. The examiner also concluded that it was less likely than not that the Veteran's erectile dysfunction was caused by or due to his service-connected left leg shin splints, right leg shin splints, and right elbow strain or due to NSAID use to treat those conditions.
+
+The Board finds the October 2021 VA medical opinion inadequate for three reasons. 
+
+First, the examiner did not address whether the Veteran's service-connected left leg shin splints, right leg shin splints, and right elbow strain or use of NSAIDs to treat these conditions aggravated his decreased libido and ejaculation difficulty. A medical opinion on secondary service connection must address both causation and aggravation. El-Amin v. Shinseki, 26 Vet. App. 136, 140 (2013).
+
+Second, the examiner applied the incorrect legal standard by referencing proximate cause rather than the but-for causation standard applicable to secondary service connection. Spicer v. McDonough, 61 F.4th 1360 (Fed. Cir. 2023).
+
+Third, the examiner concluded that it was less likely than not that the Veteran's erectile dysfunction was caused by or due to his service-connected left leg shin splints, right leg shin splints, and right elbow strain or use of NSAIDs to treat his service-connected musculoskeletal conditions. However, the examiner explicitly found that the Veteran did not have erectile dysfunction and instead confirmed diagnoses of decreased libido and ejaculation difficulty. Therefore, the opinion lacks probative value as it does not clearly address the claimed disabilities. 
+
+Because there is no adequate medical opinion of record addressing the etiology of the Veteran's decreased libido and ejaculation difficulty, the Board finds that a remand is necessary to correct this pre-decisional duty to assist error. See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007) (When the VA undertakes to provide a VA examination or opinion, it must ensure that the examination or opinion is adequate).
+
+The matter is REMANDED for the following action:
+
+Obtain a new VA medical opinion from an appropriate clinician to determine the nature and etiology of the Veteran's diagnosed decreased libido and ejaculation difficulty. The necessity of an in-person examination is left to the discretion of the examiner. Following review of the claims file and a copy of this remand, the examiner is asked to provide an opinion as to:
+
+(a)	Whether it is at least as likely as not (i.e., likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's decreased libido and ejaculation difficulty was caused by the use of NSAIDs (including asprin, ibuprofen, Advil, and Aleve) to treat his service-connected left leg shin splints, right leg shin splints, and right elbow strain?
+
+(b)	Whether it is at least as likely as not (i.e., likelihood is at least approximately balanced or nearly equal, if not higher) that the Veteran's decreased libido and ejaculation difficulty was aggravated by medications (NSAIDs) by his service-connected left leg shin splints, right leg shin splints, and right elbow strain, or the use of NSAIDs taken to treat these conditions.
+
+In offering these opinions, the examiner should consider the Veteran's lay statements regarding symptom onset after beginning NSAID use.
+
+The examiner is reminded that causation and aggravation are distinct legal concepts that must be addressed separately. Aggravation refers to any incremental increase in disability in non-service-connected disabilities (i.e., any additional impairment of earning capacity) resulting from a service-connected condition. The examiner should note that the permanence of the aggravation is not required.
+
+The examiner must provide a detailed rationale for all opinions, including citations to any medical and/or scientific research that the examiner has relied upon and how such evidence relates to the Veteran's particular medical history. The examiner should specifically address any contradictory evidence in the claims file and reconcile that evidence with their findings.
+
+If the examiner is unable to provide an opinion, the examiner must specify whether the inability is due to a lack of personal knowledge (the examiner does not have the knowledge or training); or a lack of knowledge in the medical community (no one could respond given medical science and the known facts); or a deficiency in the record (additional facts are required).
+
+ 
+
+ 
+
+KRISTI L. GUNN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Hatcher, Valerie
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

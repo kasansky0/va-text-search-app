@@ -1,0 +1,55 @@
+Citation Nr: A25034534
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240815-464102
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to service connection for OSA, secondary to service-connected posttraumatic stress disorder (PTSD) on a causation basis, with obesity as an intermediate step, is granted.
+
+FINDING OF FACT
+
+The Veteran's OSA is caused by his obesity which was caused by his service-connected PTSD and OSA would not have occurred but for obesity caused by his service-connected PTSD.
+
+CONCLUSION OF LAW
+
+With reasonable doubt resolved in favor of the Veteran, the criteria for service connection for OSA, secondary to service-connected PTSD, with obesity as an "intermediate step" have been met.  38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. §§ 3.102, 3.310; VAOPGCPREC 1-2017 (Jan. 6, 2017).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served on active duty from August 2003 to October 2009.  
+
+This case comes before the Board of Veterans' Appeals (Board) from a May 2024 rating decision, which readjudicated the claim of entitlement to service connection for OSA and denied it on the merits.  The Board is bound by the favorable finding that new and relevant evidence was received.  38 U.S.C. § 5104(b)(4); 5104A; 38 C.F.R. § 20.801(a).
+
+By way of history, in June 2020 the Veteran filed a Supplemental Claim (VA Form 20-0995) and in June 2020 the AOJ denied entitlement to service connection for sleep apnea because the evidence submitted was not new and material.  In an August 2020 Decision Review Request: Board Appeal (Notice of Disagreement) (VA Form 10182), the Veteran timely appealed the June 2020 rating decision to the Board and requested direct review of the evidence considered by the agency of original jurisdiction (AOJ).  38?C.F.R. §?20.202.  In March 2024 the Board remanded the matter to consider whether to readjudicate the claim of entitlement to service connection for OSA based on new and relevant evidence rather than new and material evidence.   
+
+In an August 2024 VA Form 10182, the Veteran timely appealed the May 2024 rating decision to the Board and requested direct review of the evidence considered by the AOJ.  38?C.F.R. §?20.202.  As the Veteran has selected the Direct Review docket, the Board may consider only the evidence of record at the time of the AOJ decision on the issue or issues on appeal.  38 U.S.C. § 7113(a); 38 C.F.R. § 20.301.  The Board will not consider evidence added to the record after the date of the AOJ decision on appeal.  If evidence was added during this ineligible period, the Board did not consider it.  If the Veteran wishes to have VA consider any evidence that was not considered, he may at any time file a supplemental claim with the AOJ after receiving this decision and the additional evidence will be considered in connection with the supplemental claim.  38 U.S.C. §§ 5104C(a)(1)(B), (b); 5108; 38 C.F.R. §§ 3.2501, 20.1105(a).  If filed within one year, this supplemental claim will preserve the date of the claim denied herein as the effective date of the grant of the benefit or benefits sought.  38 U.S.C. § 5110(2)(B); 38 C.F.R. § 3.2500(h).
+
+Service Connection
+
+Service connection may be established on a secondary basis for a disability that is proximately due to or the result of a service-connected disease or injury.  38 C.F.R. § 3.310(a).  Establishing service connection on a secondary basis requires evidence of (1) current disability and (2) that the current disability was caused by a service-connected disease or injury.  38 C.F.R. § 3.310(a).
+
+OSA
+
+A March 2024 VA examiner noted the Veteran was diagnosed with OSA in 2019. Thus, a current disability has been demonstrated.
+
+The Veteran contends that his obesity was caused by his PTSD which caused him to develop OSA. The Board points out that although obesity is not a disability for VA compensation purposes, obesity may act as an "intermediate step" between a service-connected disability and a current disability that may be service-connected on a secondary basis under 38 C.F.R. § 3.310(a).  VAOPGCPREC 1-2017. See also Marcelino v. Shulkin, 29 Vet. App. 155 (2018) (affirming the Board's decision that service connection is not warranted for obesity as it is not in and of itself a disability for VA purposes, but not addressing VAOPGCPREC 1-2017).
+
+In order to establish service connection on this basis, three criteria must be met: (1) the service-connected disability must have caused the veteran to become obese; (2) the obesity as a result of the service-connected disability must be a substantial factor in causing the disability for which service connection is sought; and (3) the disability for which service connection is sought would not have occurred but for obesity caused by the service-connected disability.  VAOPGCPREC 1-2017.
+
+An April 2024 VA physician opined the Veteran's obesity caused his OSA.  He also opined it is less likely than not that his mental health issues caused his obesity.  The VA physician explained that weight loss is due to the voluntary and overconsumption of calories.  He explained there is nothing indicating the Veteran lacks the ability to control his calorie intake.  However, he failed to address whether the Veteran's medication caused him to become obese, but rather, concluded "Any argument that weight gain due to these service connected conditions is the proximate cause of weight gain leading to OSA lacks merit."  The April 2024 VA physician's conclusion is flawed because a medical opinion that relies on the absence of general medical literature supporting nexus without discussing the specific facts of the case is inadequate.  Bailey v. O'Rourke, 30 Vet. App. 54, 60 (2018).  Instead, the VA physician cited studies which link antidepressants to weight gain and acknowledged that the "literature is split on the role of PTSD in causation of OSA."  Therefore, although the VA physician ultimately concluded that the Veteran's PTSD did not cause his obesity, his explanation supports the theory that the Veteran became obese as a result of the medications he took to treat his PTSD and this portion of the April 2024 VA opinion must be afforded some probative weight.  See Monzingo v. Shinseki, 26 Vet. App. 97, 106 (2012) (the fact that the rationale provided by an examiner "did not explicitly lay out the examiner's journey from the facts to a conclusion," did not render the examination inadequate); Acevedo v. Shinseki, 25 Vet. App. 286, 294 (2012) (medical reports must be read as a whole and in the context of the evidence of record).
+
+Based on the positive evidence provided by the April 2024 VA physician, it is at least evenly balanced as to whether the Veteran's service-connected PTSD caused him to become obese; the obesity as a result of the service-connected PTSD was a substantial factor in causing his OSA; and the OSA would not have occurred but for obesity caused by the service-connected PTSD.  As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, entitlement to service connection for OSA is warranted.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102. 
+
+ 
+
+Jonathan Hager
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Miller, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,53 @@
+Citation Nr: A25030022
+Decision Date: 04/01/25	Archive Date: 04/01/25
+
+DOCKET NO. 240624-450292
+DATE: April 1, 2025
+
+ORDER
+
+Service connection for coronary artery disease as secondary to service-connected chronic kidney disease with hypertension is granted.
+
+FINDING OF FACT
+
+The Veteran's coronary artery disease is caused by his service-connected chronic kidney disease with hypertension.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for coronary artery disease as secondary to service-connected chronic kidney disease with hypertension are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310(a).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from April 1963 to June 1966.
+
+This matter comes before the Board of Veterans' Appeals (Board) from a March 2024 rating decision by a U.S. Department of Veterans Affairs (VA) Regional Office that granted service connection for sinus tachycardia claimed as coronary artery disease.  In June 2024, the Veteran submitted a timely Decision Review Request: Board Appeal, VA Form 10182 as to the issue of service connection for coronary artery disease.  The Veteran elected the Direct Review docket.  Thus, the Board may only consider the evidence of record at the time of the Agency of Original Jurisdiction (AOJ) decision on appeal (i.e., March 26, 2024).  38 C.F.R. § 20.301.  If evidence was associated with the claims file during a period of time when additional evidence was not allowed, the Board has not considered it in its decision.  38 C.F.R. § 20.300.  
+
+As a final initial matter, the Board observes the Veteran identified the issue of coronary artery disease stemming from an October 18, 2023 rating decision on his VA Form 10182.  This is the date of his claim for service connection, not the date of the rating decision.  However, the March 2024 rating decision does not make an express decision on the issue of coronary artery disease, so it is understandable that the Veteran would cite his original claim as the document on appeal.  In this regard, the Board makes three findings.  First, the AOJ implicitly denied the Veteran's claim for service connection for coronary artery disease by recharacterizing that claim as a claim for sinus tachycardia and granting the claim only insofar as it relates to that latter disability.  See Adams v. Shinseki, 568 F.3d 956, 961 (Fed. Cir. 2009) (stating that "in certain circumstances, a claim for benefits will be deemed to have been denied, and thus finally adjudicated, even if [VA] did not expressly address that claim in its decision").  Second, the Veteran's confusion in citing the October 2023 claim is understandable given that the March 2024 rating decision did not make an explicit grant or denial of service connection for coronary artery disease.  Third, the Veteran unambiguously intended to appeal the implicit denial of service connection for coronary artery disease, not the initial rating assigned for the unclaimed disability of sinus tachycardia.  
+
+Accordingly, the Board sympathetically construes the VA Form 10182 as an appeal of the March 2024 rating decision that established service connection for sinus tachycardia, claimed as coronary artery disease, and implicitly denied his claim for service connection for coronary artery disease.  
+
+The Veteran contends he is entitled to service connection for coronary artery disease secondary to his service-connected hypertension.  See October 2023 VA Form 21-526EZ.
+
+Service connection may be established on a secondary basis for a disability that is proximately due to or the result of a service-connected disease or injury.  38 C.F.R. § 3.310(a).  Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability.  38 C.F.R. § 3.310(a); Allen v. Brown, 7 Vet. App. 439 (1995).
+
+Turning to the evidence of record, the Veteran attended a VA heart conditions examination in December 2023.  In that examination report, the examiner indicated the Veteran had been diagnosed with coronary artery disease in the medical history section but not in the diagnosis section.  However, in a February 2024 addendum, the examiner clarified that coronary artery disease should have been included in the diagnosis section as well.  The Board therefore finds the Veteran has a diagnosis for coronary artery disease, which satisfies the first element of secondary service connection.  
+
+With regard to the second element of secondary service connection, the December 2023 VA examiner's opinion provided a positive nexus, linking the Veteran's coronary artery disease with his service-connected chronic kidney disease with hypertension.  In this regard, the examiner explained that both chronic kidney disease and hypertension are independently well-established risk factors for coronary artery disease.  The examiner also explained that the risk of coronary artery disease is substantially higher in individuals with both hypertension and chronic kidney disease.  With regard to hypertension in particular, the examiner explained the pathophysiological mechanisms by which hypertension causes coronary artery disease, including disruption of the endothelial system, "the influence of blood pressure as a physical force on the development of the atherosclerotic plaque, and the relationship between pulsatile hemodynamics/arterial stiffness and coronary perfusion."  The examiner also explained that treatment of hypertension has been proven to prevent coronary events in patients without coronary artery disease and is likely more beneficial than specific drugs in patients with coronary artery disease.  The examiner supported this opinion with citation to several medical treatises that, by title alone, indicate a strong causal relationship between hypertension and coronary artery disease. 
+
+The Board finds this opinion to be highly persuasive and affords it significant weight.  Specifically, the examiner supported the opinion with a well-reasoned argument and medically sound evidence demonstrating the relationship between the Veteran's chronic kidney disease with hypertension and his coronary artery disease.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008) (holding that it is the factually accurate, fully articulated, sound reasoning for the conclusion that contributes to the probative value of a medical opinion); Guerrieri v. Brown, 4 Vet. App. 467 (1993) (the probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion the physician reaches).
+
+Accordingly, based on the probative, credible medical evidence of record at this time, the Board finds that service connection for coronary artery disease is warranted.  See 38 C.F.R. § 3.310(a).  In so reaching that conclusion, the Board has appropriately applied the benefit of the doubt doctrine in this case.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+MARTIN B. PETERS
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Kuhns
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

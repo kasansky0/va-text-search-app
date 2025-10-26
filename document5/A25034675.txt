@@ -1,0 +1,85 @@
+Citation Nr: A25034675
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240827-468460
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to an initial rating more than 10 percent for gastroesophageal reflux disease (GERD) with hiatal hernia is denied.
+
+FINDING OF FACT
+
+Throughout the period on appeal, the Veteran's GERD with hiatal hernia did not more nearly approximate symptoms that were productive of considerable impairment of health.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to an initial rating more than 10 percent for GERD with hiatal hernia have not been met. 38 U.S.C. §§ 1155, 5107; 38 C.F.R. §§ 4.1-4.7, 4.21, 4.114, Diagnostic Code (DC) 7399-7346.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active duty service from September 1986 to September 1990.
+
+Historically, a November 2021 Appeals Modernization Act (AMA) rating decision deferred the service connection claim for GERD for evidentiary development. Thereafter, a December 2022 rating decision denied entitlement to service connection for GERD. 
+
+In May 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of the previous decision. In August 2023, the agency of original jurisdiction (AOJ) issued the HLR decision on appeal, which considered the evidence of record at the time of the prior December 2022 rating decision. It granted entitlement to service connection for GERD with hiatal hernia and assigned a 10 percent rating, effective August 14, 2021 (date of receipt of claim). Although a total disability rating for individual unemployability was later granted it is not subject to this appeal because it was in place for the entire time period; Harper v. Wilkie, 30 Vet. App. 356 (2018), does not apply.
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the December 2022 AOJ decision, which was subsequently subject to higher-level review. 38 C.F.R. § 20.301. If evidence was submitted during the period after the AOJ issued the decision, which was subsequently subject to higher-level review the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Increased Rating
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities, found in 38 C.F.R. Part 4. The percentage ratings are based on the average impairment of earning capacity as a result of a service-connected disability, and separate diagnostic codes identify the various disabilities and the criteria for specific ratings. 38 U.S.C. § 1155; 38 C.F.R. § 4.1.
+
+If two disability evaluations are potentially applicable, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating; otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. All reasonable doubt as to the degree of disability will be resolved in favor of the claimant. 38 C.F.R. § 4.3.
+
+The evaluation of the same disability under several diagnostic codes, known as pyramiding, must be avoided; however, separate ratings may be assigned for distinct disabilities resulting from the same injury so long as the symptomatology for one condition is not duplicative of or overlapping with the symptomatology of the other condition. 38 C.F.R. § 4.14; Esteban v. Brown, 6 Vet. App. 259, 262 (1994). 
+
+While it is necessary to consider the complete medical history of the Veteran's condition in order to evaluate the level of disability and any changes in condition, where an increase in the level of a service-connected disability is at issue, the primary concern is the present level of disability. Schafrath v. Derwinski, 1 Vet. App. 589, 594 (1991); Francisco v. Brown, 7 Vet. App. 55 (1994).
+
+In deciding the Veteran's increased evaluation claim, the Board has considered the determinations in Fenderson v. West, 12 Vet. App. 119 (1999) and Hart v. Mansfield, 21 Vet. App. 505 (2007), and whether the Veteran is entitled to an increased evaluation for separate periods based on the facts found during the appeal period.
+
+Entitlement to an initial rating more than 10 percent for GERD with hiatal hernia
+
+Notably, GERD is a disability that is not listed under VA's rating schedule. Where the particular service-connected disability is not listed, it may be rated by analogy to a closely related disease in which not only the functions affected, but also the anatomical location and symptomatology are closely analogous. 38 C.F.R. §§ 4.20, 4.27. The Veteran's GERD is rated, by analogy, under 38 C.F.R. § 4.114, DC 7346 for hiatal hernia.
+
+The rating schedule for digestive disabilities was amended effective May 19, 2024. Generally, if a law or regulation changes during the course of a claim or an appeal, the version more favorable to the Veteran will apply, to the extent permitted by any stated effective date in the amendment in question. 38 U.S.C. § 5110 (g). If the revised version of the regulation is more favorable, the implementation of that regulation under 38 U.S.C. § 5110(g) can be no earlier than the effective date of that change. If the former version is more favorable, VA can apply the earlier version of the regulation for the period prior to, and from, the effective date of the change. 38 U.S.C. § 5110. Here, the evidence window closed the date of the December 2022 rating decision and the new regulations are less favorable, so the old regulations will be applied to the Veteran. 
+
+The Veteran's GERD with hiatal hernia is currently assigned a 10 percent rating under DC 7399-7346. Hyphenated diagnostic codes are used when a rating under one diagnostic code requires use of an additional diagnostic code to identify the basis for the rating assigned. 38 C.F.R. § 4.27. The additional diagnostic code, shown after the hyphen, represents the basis for the rating, while the primary diagnostic code indicates the underlying source of the disability. Additionally, the use of the "99" series and hyphenated diagnostic codes reflects that there is no specific diagnostic code applicable to the disability, and it must be rated by analogy. 38 C.F.R. § 4.20. Again, DC 7346 pertains to hiatal hernia.
+
+Ratings under DCs 7301 to 7329, 7331, 7342, and 7345 to 7348, inclusive, will not be combined with each other. A single rating will be assigned under the diagnostic code that reflects the predominant disability picture, with elevation to the next higher rating where the severity of the overall disability warrants elevation. 38 C.F.R. § 4.114.
+
+Under DC 7346, a 10 percent disability rating is warranted with two or more of the symptoms for the 30 percent evaluation, though of less severity. A 30 percent disability rating is warranted for persistently recurrent epigastric distress with dysphagia, pyrosis and regurgitation accompanied by substernal or arm or shoulder pain, productive of considerable impairment of health. A maximum 60 percent disability rating is warranted for a hiatal hernia with symptoms of pain, vomiting, material weight loss and hematemesis or melena with moderate anemia, or other symptom combinations productive of severe impairment of health. 38 C.F.R. § 4.114, DC 7346. 
+
+A key difference between a 10 percent and 30 percent rating is the severity of the symptoms, with a 10 percent rating having symptoms of less severity and a 30 percent rating having symptoms productive of considerable impairment of health. A veteran can have some or all the symptoms listed in the criteria for a 30 percent rating but if they are not productive of considerable impairment of health then they do not warrant a 30 percent rating.
+
+The Board observes that the Rating Schedule does not define "considerable" or "severe" impairment of health." However, for reference, "considerable" is defined as "large in extent or degree." Merriam-Webster Dictionary Online, https://www.merriam-webster.com/dictionary/considerable (last visited April 7, 2024). "Severe" is defined as "very painful or harmful." Merriam-Webster Dictionary Online, https://www.merriam-webster.com/dictionary/severe (last visited April 7, 2024).
+
+The Board further observes that the Veteran has received VA and private treatment for several conditions, including GERD. For instance, an October 2021 VA treatment note indicates that the Veteran reported that food stops below the sternum and that this has been happening for the past 6 months. He endorsed a history of chronic reflux but had stopped taking his medications because "it wasn't doing anything for me." The Veteran said that he avoided eating tomatoes as they triggered his symptoms and he experienced heartburn if he lies down too soon after eating. He was also coughing up phlegm in the mornings. 
+
+The Veteran was afforded a VA esophageal examination in November 2021, wherein a diagnosis of GERD was confirmed. The Veteran reported that his GERD symptoms began during service in 1990 and continued thereafter. He stated that his current symptoms include regurgitation, epigastric pain after eating, and difficulty laying down. The examiner noted that the Veteran does not taken medication to control his GERD. The examiner found the Veteran experienced persistently recurrent epigastric distress, dysphagia, pyrosis, reflux, and regurgitation. It was determined that there was no history or evidence of esophageal stricture, spasm, diverticula, or any other pertinent findings. The examiner commented that the functional impact of having GERD and hiatal hernia is difficulty with swallowing, difficulty with bending over after a meal, and lifting heavy objects without vomiting. 
+
+Based on a full review of the evidence of record, the Board finds the November 2021 VA examination report is adequate because it fully addressed rating criteria, included file review, and are fully responsive to the question at issue. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008).
+
+(Continued on the next page)
+
+?
+
+Considering the above, the Board concludes that an initial rating in excess of 10 percent is not warranted for the Veteran's service-connected GERD with hiatal hernia. Specifically, the record does not reflect that the Veteran's GERD is manifested by persistently recurrent epigastric distress with dysphagia, pyrosis, and regurgitation, accompanied by substernal or arm or should pain, productive of considerable impairment of health (emphasis added). Importantly, the Veteran did not endorse any shoulder or arm pain, either through his lay statements or at the time of the VA examination. Moreover, there were no reports of anemia or abnormalities in the Veteran's medical treatment records or other signs of considerable impairment of health. While he has some symptoms, as evidenced by his current 10 percent rating, they do not have a significant impact on his activities or result in considerable impairment of health. Without such evidence, a rating of 30 percent or higher is not warranted under DC 7399-7346.
+
+The Board has considered the applicability of the benefit of the doubt doctrine. However, as the approximate balance of the evidence is against the Veteran's claim for entitlement to an initial rating in excess of 10 percent for GERD with hiatal hernia under DC 7399-7346, that doctrine is not applicable. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; see also Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+Emily Tamlyn
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	M. Miller, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

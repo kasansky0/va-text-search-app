@@ -1,0 +1,61 @@
+Citation Nr: A25034777
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 230612-353876
+DATE: April 15, 2025
+
+ORDER
+
+Entitlement to a separate compensable disability rating of 10 percent for asthma, but no higher, is granted effective January 28, 2020. 
+
+FINDING OF FACT
+
+During the period on appeal, the appellant's disability picture for asthma manifested as FEV-1 of 71- to 80-percent predicted, and intermittent inhalational bronchodilator therapy.
+
+CONCLUSION OF LAW
+
+The criteria for entitlement to a separate compensable disability rating of 10 percent (but no higher) for asthma has been met, effective January 28, 2020. 38 U.S.C. §§ 1101, 1110; 38 C.F.R. §§ 4.3, 4.7, 4.10, 4.97, Diagnostic Code (DC) 6602.  
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran served honorably on active duty in the United States Marine Corps from June 2000 to December 2000 and from February 2003 to October 2003.
+
+The agency of original jurisdiction (AOJ) issued the rating decision on appeal in July 2022. The modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In the June 2023 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. Therefore, the Board may only consider the evidence of record at the time of the July 2022 AOJ decision on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Entitlement to a separate compensable disability rating of 10 percent for asthma, but no higher, effective January 28, 2020. 
+
+The Veteran is appealing the AOJ's decision to combine the evaluation of asthma with the evaluation of obstructive sleep apnea. See June 2023 VA Form 10182. 
+
+In the July 2022 rating decision, the AOJ awarded a grant for service connection for asthma. It combined the Veteran's disability rating for asthma with the disability rating for sleep apnea, citing 38 C.F.R. § 4.14 and 38 C.F.R. § 4.96 for the proposition that providing a separate compensable disability rating for asthma would constitute impermissible pyramiding under applicable law. It did not maintain a separate effective date for service connection for asthma, and it effectively assigned a service connection date of January 28, 2020, for manifestations of asthma. See Rating Decision - Codesheet, July 14, 2022. This was the date of receipt of the initial claim for service connection for asthma and sleep apnea. 
+
+Disability ratings are assigned in accordance with VA's Schedule for Rating Disabilities and are intended to represent the average impairment of earning capacity resulting from a disability. See 38 U.S.C. § 1155; 38 C.F.R. §§ 3.321(a), 4.1. When a question arises as to which of two ratings shall be applied under a particular diagnostic code, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for the higher rating; otherwise, the lower rating will be assigned. See 38 C.F.R. § 4.7.
+
+Where entitlement to compensation has already been established and an increase in the disability rating is at issue, the present level of disability is of primary importance. Francisco v. Brown, 7 Vet. App. 55 (1994). Nevertheless, where the evidence contains factual findings that show a change in the severity of symptoms during the rating period on appeal, assignment of staged ratings would be permissible. Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+Additionally, the evaluation of the same disability under several diagnostic codes, known as pyramiding, must be avoided. Separate ratings may be assigned for distinct disabilities resulting from the same injury so long as the symptomatology for one condition is not duplicative of or overlapping with the symptomatology of the other condition. 38 C.F.R. § 4.14; Esteban v. Brown, 6 Vet. App. 259, 262 (1994).
+
+The AOJ rates asthma under 38 C.F.R. § 4.97, DC 6602, for diseases of the trachea and bronchi. A 100 percent disability rating is warranted where FEV-1 less than 40-percent predicted, or; FEV-1/FVC less than 40 percent, or; more than one attack per week with episodes of respiratory failure, or; requires daily use of systemic (oral or parenteral) high dose corticosteroids or immuno-suppressive medications. A 60 percent disability rating is warranted where FEV-1 of 40- to 55-percent predicted, or; FEV-1/FVC of 40 to 55 percent, or; at least monthly visits to a physician for required care of exacerbations, or; intermittent (at least three per year) courses of systemic (oral or parenteral) corticosteroids. A 30 percent disability rating is warranted where FEV-1 of 56- to 70-percent predicted, or; FEV-1/FVC of 56 to 70 percent, or; daily inhalational or oral bronchodilator therapy, or; inhalational anti-inflammatory medication. A 10 percent disability rating is warranted where FEV-1 of 71- to 80-percent predicted, or; FEV-1/FVC of 71 to 80 percent, or; intermittent inhalational or oral bronchodilator therapy. Further, the note states, in the absence of clinical findings of asthma at time of examination, a verified history of asthmatic attacks must be of record.
+
+The AOJ rates sleep apnea, under DC 6847, for restrictive lung disease. A 100 percent disability rating is warranted where there is chronic respiratory failure with carbon dioxide retention or cor pulmonale, or; requires tracheostomy. A 50 percent disability rating is warranted where the condition requires use of breathing assistance device such as continuous airway pressure (CPAP) machine. A 30 percent disability rating is warranted where there is persistent daytime hypersomnolence. A zero percent disability rating is warranted where the condition is asymptomatic but with documented sleep disorder breathing.
+
+The rating criteria for asthma, for diseases of the trachea and bronchi, contemplate symptoms that the rating criteria for sleep apnea, for restrictive lung disease, do not. While the rating criteria for asthma contemplate asthma attacks, up to and including asthma-induced episodes of respiratory failure, the rating criteria for sleep apnea contemplate disordered breathing, up to and including, carbon dioxide retention or cor pulmonale induced chronic respiratory failure. All can cause substantial functional limitations through separate and distinct underlying etiology. The "critical element" here is that none of the symptomatology for the conditions is duplicative of, or overlapping with, the symptomatology of the other conditions. See Esteban v. Brown, 6 Vet. App. 259, 262 (1994). Accordingly, assigning separate compensable disability ratings for manifestations of asthma and sleep apnea does not constitute impermissible pyramiding. Therefore, it is appropriate to assign a separate initial compensable disability rating for manifestations of service-connected asthma that are not contemplated by the rating criteria for the Veteran's service-connected sleep apnea.
+
+Regarding the disability rating to be assigned, the Veteran underwent a VA respiratory examination in July 2022. His contemporaneous pulmonary function tests documented a FEV-1 of 80-percent predicted. See VA treatment records dated June 16, 2022; see also July 2022 rating decision (noting the Veteran would have been assigned a 10 percent evaluation for asthma if it was being individually rated). He used an inhaler intermittently. See July 2022 VA respiratory examination. These manifestations correspond to a 10 percent disability rating under DC 6602. Further, the Veteran does not argue a higher disability rating for asthma. Accordingly, entitlement to a separate compensable disability rating, of 10 percent (but no higher) for asthma, is granted, effective January 28, 2020.
+
+ 
+
+ 
+
+Leetra J. Harris
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Black, Julie A.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

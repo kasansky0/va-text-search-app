@@ -1,0 +1,59 @@
+Citation Nr: A25034911
+Decision Date: 04/16/25	Archive Date: 04/16/25
+
+DOCKET NO. 241009-482504
+DATE: April 16, 2025
+
+ORDER
+
+Entitlement to service connection for bilateral hearing loss is granted.
+
+FINDING OF FACT
+
+The Veteran's bilateral hearing loss is at least as likely as not related to in-service noise exposure.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for bilateral hearing loss are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran had active service from September 1976 to September 1979.
+
+The instant matter comes to the Board of Veterans' Appeals (Board) from a September 2024 rating decision by a Department of Veterans Affairs (VA) Regional Office.  The Veteran appealed that decision by filing a VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) in October 2024. He elected the Direct Review docket.  
+
+The Board observes that the one-year period from receipt of notice of the September 2024 rating decision during which the Veteran may elect to switch his Board docket election is yet to elapse.  38 C.F.R. § 20.202(c)(2).  However, the Board is granting in its entirety the benefits sought on appeal; therefore, adjudicating the appeal prior to the elapse of the period to change dockets does not prejudice the Veteran.  The Veteran's representative also submitted argument in support of the Veteran's appeal that VA received in November 2024.  The Board interprets the receipt of such argument as reflecting an intent to have this matter reviewed in an expeditious manner and implicitly waives the Veteran's right to change Board dockets under Williams v. McDonough, 37?Vet. App.?305 (2024).
+
+Entitlement to service connection for bilateral hearing loss
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303.  The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury.  Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004). 
+
+The first two requirements for service connection are already satisfied here.  The AOJ, in the October 2024 rating decision favorably found that the Veteran has a diagnosis of bilateral hearing loss for VA purposes.  See 38 C.F.R. §§ 3.104, 3.385.  VA also conceded in-service noise exposure associated with military machinery, to include helicopters, and arms fire during training exercises.  The Veteran's DD 214 shows that his military occupational specialty (MOS) was a trombone player, and his in-service noise exposure included exposure to loud band music associated with his MOS.
+
+Thus, the question for the Board is whether the Veteran's bilateral hearing loss is due to his in-service noise exposure.  
+
+In November 2022, A.J.L., a clinical audiologist, concluded that the Veteran's hearing loss was more likely than not due to his active service.  A.J.L. indicated that the Veteran different types and degrees of in-service noise exposure.  She noted that he was regularly exposed to band noise and helicopter noise.  She also noted noise from weapons training, and that he was not offered hearing protection to offset any of this noise exposure.  She classified these types of noise exposure as impulse and continuous noise exposure and defined impulse noise as short duration sound characterized by a shockwave having an instantaneous rise time.  She included explosions associated with weapons firing in this category.  Based on this history of exposure, A.J.L. concluded that the Veteran's hearing loss was due to his active service.  
+
+The Veteran received a VA audiological examination in September 2024 wherein it was found that that the Veteran's hearing loss was less likely than not due to his active service.  The examiner, who reviewed the Veteran's claim file, noted that there was no significant permanent shift in hearing thresholds beyond test variability from entrance to separation.  According to the examiner, this means that there was no objective evidence of permanent auditory damage on active duty from conceded noise exposure.  The rationale also includes the Veteran's reports of hearing loss onset occurring "over 10 years ago."  That rationale notes that this would place hearing loss onsetting between 30 and 35 years after the Veteran's separation from active service.  
+
+Neither opinion is more probative than the other.  The rationale provided by the VA examiner stressed the lack of hearing loss during active service based on the Veterans audiograms at entrance to and separation from active service.  The fact that the rationale did not address the possibility of delayed onset of hearing loss following separation from active service weakens the probative value of the September 2024 VA opinion.  See Hensley v. Brown, 5 Vet. App. 155, 159 (1993).  The private opinion from A.J.L., on the other hand, does not appear to be based on a review of the Veteran's service treatment records.  A.J.L.'s opinion also does not address the apparent passage of time from active service until hearing loss onset.  
+
+?
+
+Accordingly, the Board will resolve all reasonable doubt in the Veteran's favor and conclude that his hearing loss is due to noise exposure during active service.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).  The third requirement for service connection is met.
+
+Entitlement to service connection for bilateral hearing loss is granted.
+
+ 
+
+ 
+
+MICHAEL A. HERMAN
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Douglas M. Humphrey, Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,107 @@
+Citation Nr: A25034131
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 240510-439224
+DATE:  April 14, 2025
+
+ORDER
+
+Entitlement to service connection for obstructive sleep apnea is granted.
+
+Entitlement to an initial disability evaluation of 50 percent, for persistent depressive disorder, mild, with anxious distress (hereinafter, psychiatric disability), is granted.
+
+FINDINGS OF FACT
+
+1. The Veteran's obstructive sleep apnea is secondary to obesity, which has been caused by service-connected disabilities (psychiatric disability, left ankle condition, right ankle condition).
+
+2. The Veteran's psychiatric disability manifest in occupational and social impairment with reduced reliability and productivity.
+
+CONCLUSIONS OF LAW
+
+1. The criteria for entitlement to service connection for obstructive sleep apnea have been met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.310; Walsh v. Wilkie, 32 Vet. App. 300 (2020); VAOPGCPREC 1-2017 (January 6, 2017).
+
+2. The criteria for entitlement to an initial disability evaluation of 50 percent, but no higher, for a psychiatric disability, have been met. 38 U.S.C. 1155, 5107; 38 C.F.R. §§ 4.1, 4.3, 4.126, 4.130, Diagnostic Code 9433.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty orders in the United States Coast Guard from February 2003 to July 2005, when he was honorably discharged. He has additional service in the United States Coast Guard Reserve, which includes periods of active duty for training (ACDUTRA) and inactive duty for training (INACDUTRA) service.
+
+The agency of original jurisdiction (AOJ) rating decisions on appeal were issued in May 2023 (initial rating decision; psychiatric disability) and October 2023 (supplemental claim rating decision, finding new evidence received to readjudicate the October 2022 initial rating decision; obstructive sleep apnea). Therefore, the modernized review system, also known as the Appeals Modernization Act (AMA), applies.
+
+In the May 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the May 2023 and October 2023 decisions for the respective issues on appeal. 38 C.F.R. § 20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+Service Connection
+
+1. Entitlement to service connection for obstructive sleep apnea is granted.
+
+2. The Veteran contends that he developed obstructive sleep apnea, secondary to obesity as a result of service-connected disabilities (psychiatric disability, left ankle condition, right ankle condition). See May 2024 VA Form 10182, Notice of Disagreement.
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+Alternatively, service connection may also be granted for disability that is proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310. Secondary service connection may be established by a showing that a nonservice-connected disability is caused or aggravated (chronically worsened) by a service-connected disability. Allen v. Brown, 7 Vet. App. 439, 448 (1995) (en banc).
+
+Although obesity itself is not considered a disability for VA purposes, when obesity has been caused by a service-connected condition, and subsequently causes another disability, obesity may be considered an "intermediate step" for establishing service connection on a secondary basis. See VAOPGCPREC 1-2017 (January 6, 2017). This inquiry extends both to causation and to aggravation. See Walsh v. Wilkie, 32 Vet. App. 300, 306 (2020).
+
+In support of his claim, the Veteran submitted a medical opinion in June 2022 from his private practitioner, M.B., PA-C, MPLC. His private practitioner presented a review of medical literature regarding the relationship of primary disabilities, weight gain and obesity, along with the relationship of those conditions with obstructive sleep apnea. His private practitioner then applied this evidence specifically to the Veteran's lay statements of record and his particular symptoms (including progressive weight gain after service, along with his eventual development of sleep apnea that requires treatment with a CPAP machine). The examiner then concluded that:
+
+"it is at least as likely as not [...] that the Veteran's weight gain and obesity is due to and/or related to his service-connected left ankle condition and right ankle condition; it is at least as likely as not [...] that the Veteran's obstructive sleep apnea with CPAP is secondary to, related to, and/or aggravated by the weight gain and obesity from the service-connected left ankle condition and right ankle condition; and it is at least as likely as not [...] that without the Veteran's weight gain and obesity his obstructive sleep apnea with CPAP would not have occurred."
+
+The Board acknowledges the October 2022 negative nexus opinion, stating "the rationale is that there is not enough evidence to support this claim." The examiner noted the Veteran was not service-connected for obesity. The Board recognizes that this is not a requirement for obesity-based service connection claims-instead examiners must find that obesity is a dispositive intermediate step between the Veteran's service-connected disabilities and his claimed secondary disability, which is the case here. The Board also notes the June 2022 negative nexus opinion, which, in part, found the "most likely cause of [the Veteran's] OSA [obstructive sleep apnea] is obesity with [a] BMI [body mass index] of 31." As the examiner did not consider whether the Veteran's obesity was attributable to service-connected disabilities, it is inadequate for rating purposes; nevertheless, the June 2022 opinion does provide some support for the private nexus opinion as well. Both opinions attribute the Veteran's condition to obesity.
+
+Based on the foregoing, the claim for entitlement to service connection for obstructive sleep apnea, secondary to service-connected disabilities (psychiatric disability, left ankle condition, right ankle condition) is granted.
+
+Increased Rating
+
+3. Entitlement to an initial disability evaluation of 50 percent, for a psychiatric disability, is granted.
+
+The Veteran contends that he is entitled to a disability evaluation of at least 50 percent for his psychiatric disability and the earliest effective date possible (i.e., June 17, 2022) for the increased initial evaluation. See May 2024 VA Form 10182, Notice of Disagreement. In a statement received by VA In June 2022, the Veteran reported that physical limitations associated with his right and left ankle conditions resulted in a limited ability to participate in hobbies and social and occupational activities, leaving him feeling down, sad, and unmotivated. He experiences feelings of being overwhelmed, feelings of anxiety, and apprehension around his career as a result of chronic sleep problems. 
+
+Disability evaluations are determined by the application of a schedule of ratings which is based, as far as can practically be determined, on the average impairment of earning capacity. 38 U.S.C. § 1155; 38 C.F.R. § 4.1. Each service-connected disability is rated on the basis of specific criteria identified by Diagnostic Codes. 38 C.F.R. § 4.27.
+
+When rating the Veteran's service-connected disability, the entire medical history must be borne in mind. Schafrath v. Derwinski, 1 Vet. App. 589 (1991). The Court has held that a claimant may experience multiple distinct degrees of disability that might result in different levels of compensation from the time the increased rating claim was filed until a final decision is made. Hart v. Mansfield, 21 Vet. App. 505 (2007).
+
+Separate evaluations may be assigned for separate periods of time if such distinct periods are shown by the competent evidence of record during the appeal, a practice known as staged ratings. See Fenderson v. West, 12 Vet. App. 119, 126 (1999).
+
+Regulations require that where there is a question as to which of two evaluations is to be applied, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria required for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7.
+
+Where there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107 (b); 38 C.F.R. § 4.3; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).
+
+The Veteran's psychiatric disability is rated under 38 C.F.R. § 4.130, Schedule of Ratings, Mental Disorders, Diagnostic Code 9433, for persistent depressive disorder (dysthymia). Under the General Formula for Mental Disorders (General Formula), the Board must conduct a "holistic analysis" that considers all associated symptoms, regardless of whether they are listed as criteria. Bankhead v. Shulkin, 29 Vet. App. 10, 22 (2017); 38 C.F.R. § 4.130. The Court further held that the presence of suicidal ideation alone may cause occupational and social impairment with deficiencies in most areas, warranting a 70 percent disability rating. Id., at 20.
+
+When determining the appropriate disability evaluation under the general rating formula, the primary consideration of the Board of Veterans' Appeals (Board) is a Veteran's symptoms, but it must also make findings as to how those symptoms impact the Veteran's occupational and social impairment. Vazquez-Claudio v. Shinseki, 713 F.3d 112, 116-17 (Fed. Cir. 2013). A Veteran may only qualify for a given disability rating under the general rating formula by demonstrating the particular symptoms associated with that percentage, or others of similar severity, frequency, and duration. Id., at 117-18. The symptoms listed are not exhaustive, but rather "serve as examples of the type and degree of symptoms, or their effects, that would justify a particular rating." Mauerhan v. Principi, 16 Vet. App. 436, 442 (2002). In the context of determining whether a higher disability evaluation is warranted, the analysis requires considering "not only the presence of certain symptoms[,] but also that those symptoms have caused occupational and social impairment in most of the referenced areas." Vazquez-Claudio, 713 F.3d at 117; 38 C.F.R. § 4.130.
+
+The General Rating Formula for Mental Disorders at 38 C.F.R. § 4.130 provides the following ratings for psychiatric disabilities:
+
+A 0 percent, or noncompensable, rating is warranted for a mental condition that has been formally diagnosed, but symptoms are not severe enough either to interfere with occupational and social functioning or to require continuous medication. Id.
+
+A 10 percent rating is warranted for occupational and social impairment due to mild or transient symptoms which decrease work efficiency and ability to perform occupational tasks only during periods of significant stress, or symptoms controlled by continuous medication. Id.
+
+A 30 percent rating is warranted for occupational and social impairment with occasional decrease in work efficiency and intermittent periods of inability to perform occupational tasks (although generally functioning satisfactorily, with routine behavior, self-care, and conversation normal), due to such symptoms as: depressed mood, anxiety, suspiciousness, panic attacks (weekly or less often), chronic sleep impairment, mild memory loss (such as forgetting names, directions, recent events). Id. 
+
+A 50 percent rating is warranted for occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short- and long-term memory (e.g., retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; difficulty in establishing and maintaining effective work and social relationships. Id. 
+
+A 70 percent rating is warranted for occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately, and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work like setting); inability to establish and maintain effective relationships. Id.
+
+A 100 percent rating is warranted for total occupational and social impairment due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; memory loss for names of close relatives, own occupation, or own name. Id.
+
+In support of his claim, the Veteran submitted an independent evaluation, received by VA in April 2023, also by his private practitioner, M.B., PA-C, MPLC. His private practitioner reviewed the Veteran's June 2022 lay statement, documenting symptoms of: depressed mood, anxiety, panic attacks that occur weekly or less often, chronic sleep impairment, mild memory loss (such as forgetting names, directions, recent events), impairment of short and long term memory, for example retention of only highly learned material, while forgetting to complete tasks, disturbances of motivation and mood, impaired impulse control (such as unprovoked irritability), impaired impulse control (such as unprovoked irritability), impaired sleep, irritability, fatigue, memory and cognitive impairment, relationship problems. Ultimately, his private practitioner concluded that the Veteran's current diagnosed mental health disability most closely approximates the criteria for a 50 percent disability evaluation based upon the Veteran's reported symptomatology and the level of his documented occupational and social impairment, with functional losses in various domains.
+
+The Veteran's claims file also includes an April 2023 lay statement, describing regular therapy, self-employment, angry outbursts and arguments with his significant other, memory problems, tiredness, irritability, panic attacks, and feelings of fear and confusion.
+
+The Board acknowledges that the Veteran was examined in October 2022; at this time, the examiner noted the Veteran's diagnosis of persistent depressive disorder, mild, with anxious distress, with symptoms of depressed mood, anxiety, chronic sleep impairment, disturbances of motivation and mood. The examiner concluded that the Veteran experienced occupational and social impairment due to mild or transient symptoms which decrease work efficiency and ability to perform occupational tasks only during periods of significant stress. The Veteran arrived on time for his appointment. The Veteran was cooperative during the evaluation; he was alert, and oriented to person, place, time and situation. His affect was flat/topic congruent, while his mood was mildly depressed. No abnormal motor movements were observed. His speech was of normal rate, tone, and volume. His thought processes were goal-directed and logical. The Veteran had a worn appearance; he was dressed casually, and he displayed good personal hygiene. He also struggled with irritability and mild social withdrawal.
+
+In reviewing the evidence, the Board acknowledges that it is a close call between a 30 and a 50 percent evaluation. Essentially, two examiners have drafted similar reports based on similar evidence but have reached slightly different conclusions regarding the Veteran's level of occupational and social impairment. The Board has reviewed the Veteran's lay statements, which reflect that he is self-employed and experiences symptoms (such as irritability and angry outbursts) which could impede his relationships with others. It is not clear that this has been properly considered by either examiner. The Board feels comfortable assigning an initial evaluation of 50 percent based on a holistic review of the totality of the evidence, which suggests occupational impairment based on reduced reliability and productivity. In this regard, the claim is granted, for the entire period on appeal. Bankhead v. Shulkin, 29 Vet. App. 10, 22 (2017); 38 C.F.R. § 4.130.
+
+ 
+
+G. William Riggs
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	A. Hennessy
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

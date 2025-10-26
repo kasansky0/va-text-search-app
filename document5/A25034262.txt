@@ -1,0 +1,103 @@
+Citation Nr: A25034262
+Decision Date: 04/14/25	Archive Date: 04/14/25
+
+DOCKET NO. 241105-488168
+DATE: April 14, 2025
+
+ORDER
+
+Service connection for erectile dysfunction secondary to major depressive disorder is granted.
+
+REMANDED
+
+A rating higher than 10 percent for left hip pain is remanded.
+
+A rating higher than 10 percent for right hip pain is remanded.
+
+Entitlement to special monthly compensation (SMC) based on the need for regular aid and attendance is remanded.
+
+FINDING OF FACT
+
+The Veteran's erectile dysfunction is aggravated by his service-connected major depressive disorder.
+
+CONCLUSION OF LAW
+
+The criteria for service connection for erectile dysfunction secondary to major depressive disorder have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran honorably served in the U.S. Army from August 1968 to May 1970. 
+
+This appeal comes to the Board of Veterans' Appeals (Board) from two November 2023 Department of Veterans Affairs (VA) rating decisions.  This appeal was previously before the Board in July 2023 where the claims were remanded for further development.  
+
+In the November 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Evidence Submission docket.  
+
+Therefore, the Board may only consider the evidence of record at the time of the November 2023 agency of original jurisdiction (AOJ) decisions on appeal, as well as any evidence submitted by the Veteran or his attorney with, or within 90 days from receipt of, the VA Form 10182. 38 C.F.R. § 20.303. If evidence was submitted either (1) during the period after the AOJ issued the decision on appeal and prior to the date the Board received the VA Form 10182, or (2) more than 90 days following the date the Board received the VA Form 10182, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.303, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claim[s], considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+However, because the Board is remanding the claims of bilateral hip pain and Special Monthly Compensation (SMC), any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+Erectile dysfunction 
+
+Service connection may be granted for a disability proximately due to or the result of a service-connected disease or injury.  38 C.F.R. § 3.310.  To establish secondary service connection, the Veteran must show: (1) a current, nonservice-connected disability; (2) at least one service-connected disability; and (3) evidence that the nonservice-connected disability was (a) caused by, or (b) aggravated by a service-connected disability.  38 C.F.R. § 3.310; Allen v. Brown, 7 Vet. App. 439 (1995).
+
+In the November 17, 2023, rating decision, the AOJ found the Veteran has a present diagnosis, a diagnosis for the primary disability, and that the primary disability aggravated the Veteran's erectile dysfunction, satisfying all three elements of secondary service connection.  
+
+However, the claim was denied under 38 C.F.R. § 3.310(b), which states the following: 
+
+VA will not concede that a nonservice-connected disease or injury was aggravated by a service-connected disease or injury unless the baseline level of severity of the nonservice-connected disease or injury is established by medical evidence created before the onset of aggravation or by the earliest medical evidence created at any time between the onset of aggravation and the receipt of medical evidence establishing the current level of severity of the nonservice-connected disease or injury. The rating activity will determine the baseline and current levels of severity under the Schedule for Rating Disabilities (38 CFR part 4) and determine the extent of aggravation by deducting the baseline level of severity, as well as any increase in severity due to the natural progress of the disease, from the current level. 
+
+Put another way, for secondary service connection to be granted, the medical evidence must enable the VA to determine to what extent a nonservice-connected disability has been aggravated above its baseline by the service-connected disability.  The purpose of this is so a disability may be rated appropriately under 38 C.F.R. § 4.22.  
+
+Here, the degree of disability is not relevant.  Erectile dysfunction is rated under 38 C.F.R. § 4.115b, Diagnostic Code 7522, which does not assign a compensable rating for any level of severity.  Further, under 38 USC § 1114, SMC for loss of use of a creative organ is awarded under paragraph (k) for a set amount regardless of severity.  Therefore, though the degree of disability is not necessarily determinable by the medical evidence, in this case it is not relevant.  
+
+Thus, having met all three requirements for service connection, the claim is granted. 
+
+The Board has considered previous version of 38 C.F.R. § 4.22, which was effective prior to the November 14, 2021. 86 Fed. Reg. 54,081 (Sept. 30, 2021).  However, under that version, a compensable rating is only assigned for penile deformity, for which the record is silent.  Therefore, the prior version is inapplicable to the above.  
+
+REASONS FOR REMAND
+
+Increased rating for left hip pain
+
+Increased rating for right hip pain
+
+The Veteran's right and left hip pain have been previously remanded by the Board.  Unfortunately, another remand is required to correct a predecisional duty to assist error.  38 C.F.R. § 20.802.  
+
+When the Secretary provides a veteran with a VA medical examination or opinion, it must be adequate.  A medical opinion is adequate when it is based upon consideration of the veteran's prior medical history and describes the disability in detail sufficient for the Board's evaluation of the claimed disability to be fully informed.  Barr v. Nicholson, 21 Vet. App. 303, 311 (2007); See also Martinak v. Nicholson, 21 Vet. App. 447 (2007).    
+
+When the Secretary undertakes to provide a veteran with a VA medical examination or opinion, it must be adequate.  See Barr v. Nicholson, 21 Vet. App. 303 (2007).  A medical opinion is adequate when it is based upon consideration of the veteran's prior medical history and examinations and also describes the disability in sufficient detail so that the Board's evaluation of the claimed disability will be a fully informed one.  Barr v. Nicholson, 21 Vet. App. 303, 311 (2007); See also Martinak v. Nicholson, 21 Vet. App. 447 (2007).  For joint testing, 38 C.F.R. § 4.59 requires an examination include testing for pain during active and passive motion, while weight-bearing and non-weight bearing, and, if possible, with range of motion measurements of the opposite undamaged joint.  See. Correia v. McDonald, 28 Vet. App. 158 (2016).
+
+Application of §§ 4.40 and 4.45 permits consideration under the General Rating Formula of an evaluation based on ankylosis if a claimant's functional loss is consistent with that contemplated by ankylosis-in other words, if it is the functional equivalent of ankylosis.  See Chavis v. McDonough, 34 Vet. App. 1 (2021).  
+
+In October 2023, the Veteran attended a VA examination regarding his hips.  For the following reasons, it is inadequate for adjudicatory purposes.
+
+First, the examiner's statements are internally inconsistent.  The Veteran reported flare-ups occurring daily, and though the examiner described them as "severe," they found the flare-ups do not cause any functional impairment.  These findings are in direct contradiction to each other and are therefore inadequate.  
+
+Second, the examiner failed to consider whether the Veteran's disability causes the functional equivalent of ankylosis.  During the examination, range of motion testing could not be performed because the "Veteran was unable to lay on the exam table.  [The] exam [was] attempted while standing, however [the] Veteran is unstable on his feet [and] unable to sustain movement."  Given the significant limitation described, functional ankylosis should have been considered.  
+
+Finally, though range of motion testing could not be completed, the record does not show the examiner attempted to elicit information from the Veteran regarding his range of motion to provide estimates which may be used for rating purposes.  
+
+Given the above, remand is required for a new examination. 
+
+SMC
+
+The Veteran has alleged entitlement to SMC based on the need for regular aid and attendance.  This issue is inextricably intertwined with the severity of the Veteran's left and right hip disabilities.  The appropriate remedy where a pending claim is inextricably intertwined with a claim currently on appeal is to remand the claim on appeal pending the adjudication of the inextricably intertwined claim. Harris v. Derwinski, 1 Vet. App. 180 (1991).  
+
+The matters are REMANDED for the following action:
+
+Obtain a new VA examination for the Veteran's left and right hip disabilities which determines the level of functional impact, to include on activities of daily living, caused by the disabilities, whether the Veteran's disability causes the functional equivalent of ankylosis, and if any range of motion estimates or measurements may be provided.  
+
+A complete rationale must be given for all opinions and conclusions expressed. If it is not possible to provide a specific measurement without resorting to mere speculation, the examiner must state whether the need to speculate is due to a deficiency in the state of general medical knowledge (no one could respond given medical science and the known facts), a deficiency in the record (additional facts are required), or the examiner (does not have the knowledge or training). 
+
+ 
+
+JOHN Z. JONES
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	N. Guarnieri, Associate Counsel
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

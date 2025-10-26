@@ -1,0 +1,83 @@
+Citation Nr: A25031610
+Decision Date: 04/07/25	Archive Date: 04/07/25
+
+DOCKET NO. 230123-317937
+DATE: April 7, 2025
+
+ORDER
+
+The appeal seeking review of the previously denied claim of service connection for heart conditions, to include angina, arrythmia, atrial tachycardia, and bradycardia is dismissed.
+
+Entitlement to service connection for renal disease is denied.
+
+FINDINGS OF FACT
+
+1.  The Veteran previously submitted a claim for service connection for heart conditions, which was denied in an October 2021 rating decision.  That decision became final because she did not timely appeal the claim within the appeal period.
+
+2.  Since that time, the Veteran has not submitted a valid claim to readjudicate her previously denied heart conditions claim, and there is no eligible rating decision that adjudicated such a claim in the year prior to receipt of her January 2023 VA Form 10182; good cause has not been shown that would permit the Board to extend the time for filing a VA Form 10182 with respect to the October 2021 rating decision.  
+
+3.  The Veteran has not been diagnosed with renal disease.
+
+CONCLUSIONS OF LAW
+
+1.  The criteria for dismissal of the claim for service connection for heart conditions based on the January 2023 VA Form 10182 are met.  38 U.S.C. § 7105; 38 C.F.R. §§ 20.201, 20.202, 20.203.
+
+2.  The criteria for service connection for renal disease are not met.  38 U.S.C. §§ 1110, 5107; 38 C.F.R. § 3.303.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served on active duty from August 28, 2012 to September 21, 2012.  
+
+In a September 2022 rating decision, the Agency of Original Jurisdiction (AOJ) denied service connection for renal disease.  The Veteran timely appealed the decision to the Board and requested direct review of the evidence considered by the AOJ.  See VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement) (NOD).  Therefore, the Board may only consider the evidence of record at the time of the September 2022 rating decision on appeal.  38 C.F.R. § 20.301.  
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence.  38 C.F.R. § 3.2501.  If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered.  Id.  Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+Dismissal 
+
+heart conditions
+
+The Veteran seeks readjudication of her previously denied claim of service connection for heart conditions.
+
+In September 2021, the Veteran filed a VA Form 21-526EZ for service connection for a chronic heart condition to include as secondary to mental disorders which was denied in an October 2021 rating decision.  She was notified of that denial on October 26, 2021 and informed that if she disagreed with the decision, she had one year from the date of the letter to take additional steps to appeal it.  In other words, she had until October 26, 2022, to file a proper response by submitting a Supplemental Claim (VA Form 20-0995), or requesting Higher-Level Review (VA Form 20-0996), or filing an NOD (VA Form 10182).
+
+In September 2022, the Veteran submitted a VA Form 21-526EZ in an attempt to readjudicate her previously denied heart conditions claim.  In a September 2022 letter, the AOJ informed her that VA regulations require that she file her request on the proper form and that no further action would be taken until the completed form was received.  The letter also provided the Veteran with a list of proper forms and instructions for how to proceed.  Because the Veteran did not submit the proper form the AOJ did not adjudicate the heart conditions claim in the subsequently issued September 2022 rating decision on appeal.
+
+In January 2023, the Veteran submitted a VA Form 10182 (NOD) listing heart conditions as an issue she wished to appeal.  Although the Board sent a docketing letter acknowledging receipt of her NOD, the appeal was incorrectly docketed as it was not filed within the time allowed to constitute a timely appeal as to the matter of service connection for heart conditions.  See 38?C.F.R. § 20.203(b) (a timely NOD must be filed within one year from the date the AOJ mails notice of a decision).  The January 2023 VA Form 10182 is clearly untimely as it was received more than one year after the October 2021 rating action.  There was no adjudication of a heart conditions claim in the September 2022 rating decision presently on appeal or in any other rating decision within one year prior to the receipt of the January 2023 VA Form 10182-NOD.  Moreover, the Veteran has not submitted any statement requesting an extension of the time to file a NOD as to the October 2021 decision or express good cause as to why her filing was not timely.  38 C.F.R. § 20.203(c).  As such, the appeal seeking review of the previously denied claim of service connection for heart conditions is dismissed.
+
+For any issue the Veteran wishes to pursue, she is encouraged to file a supplemental claim along with new and relevant evidence pursuant to 38 C.F.R. § 3.2501.
+
+Service Connection
+
+renal disease
+
+The Veteran is seeking service connection for renal disease caused by an in-service event, injury, or exposure but has otherwise expressed no specific contention in support of her claim.  See September 2022 VA Form 21-526EZ.
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).  To establish a right to compensation for a present disability, a Veteran must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service - the so-called "nexus" requirement.  Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)).  
+
+Certain chronic diseases are subject to presumptive service connection if manifest to a compensable degree within one year from separation from service even though there is no evidence of such disease during the period of service.  38 U.S.C. §§ 1112, 1113; 38 C.F.R. §§ 3.307(a)(3), 3.309(a).  Continuity of symptomatology may also provide a basis for a grant of service connection for those diseases defined as "chronic" by VA.  38 C.F.R. § 3.303(b); Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+Service connection may be granted for any disease initially diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Although the Veteran is claiming service connection for renal disease, the primary impediment to a grant of service connection is the absence of a current disability.  The Veteran's DD 214 shows the Veteran served only 24 days before being discharged from service.  Service treatment records for this brief period of service do not indicate any complaints or findings suggestive of renal disease or other chronic kidney problems.  This evidence weighs against a finding renal disease was present during service.
+
+Likewise, there is no objective evidence of renal or kidney problems in the immediate years after separation from service in 2012.  The Veteran has not presented any evidence of regular post-service treatment for renal issues and there are no specific renal/kidney complaints or preliminary/working diagnoses in active problem lists or in any report of past medical history.  In September 2022, a CAPRI response contained the notation "no problems found."  
+
+A VA examination has not been provided to address the Veteran's renal disease claim and the Board finds that one is not required.  At this point, the record does not establish evidence of signs or symptoms of a renal disease sufficient to trigger a VA examination through evidence of symptoms of a potential disability.  Duenas v. Principi, 18 Vet. App. 512, 519 (2004) (VA is not obligated to provide an examination for a medical nexus opinion where, as here, the supporting evidence of record consists of lay statements alone).  To the extent symptoms such as urinary frequency or incontinence are capable of lay observation, they are not equivalent to a diagnosis of an actual disability.  The matter of diagnosing a renal disorder is beyond what a layperson can reasonably be expected to have competence in accomplishing.  In other words, the determination of whether a symptom or symptoms actually constitute a disorder is one more suited to the realm of medical expertise.  See Jandreau v. Nicholson, 492 F.3d 1372, 1377 n.4 (Fed. Cir. 2007); Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007).  Consequently, the Veteran's opinion as to the presence of renal disease is not competent evidence.
+
+The weight of the evidence reflects no evidence of renal disease at any time during the appeal period.  Romanowsky v. Shinseki, 26 Vet. App. 289, 294 (2013); McClain v. Nicholson, 21 Vet. App. 319, 321 (2007) (stating that a service connection claim may be granted if a diagnosis of a chronic disability was made during the pendency of the appeal, even if the most recent medical evidence suggests that the disability resolved).  Absent evidence of a present renal disease, or at the very least a showing of this required disability at some point since the filing of this claim, service connection cannot be granted.  See Degmetich v. Brown, 104 F.3d 1328 (1997); see also Gilpin v. West, 155 F.3d 1353 (Fed. Cir. 1998); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992); Rabideau v. Derwinski, 2 Vet. App. 141, 143-44 (1992).
+
+Accordingly, the evidence is persuasively against the claim and there is no reasonable doubt to be resolved.  38 U.S.C. § 5107(b); 38 C.F.R. § 3.102; Lynch v. McDonough, 21 F.4th 776 (Fed. Cir. 2021).
+
+ 
+
+ 
+
+Thomas H. O'Shay
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J.R. Bryant
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

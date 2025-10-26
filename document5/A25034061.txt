@@ -1,0 +1,71 @@
+Citation Nr: A25034061
+Decision Date: 04/11/25	Archive Date: 04/11/25
+
+DOCKET NO. 240807-461838
+DATE: April 11, 2025
+
+REMANDED
+
+Entitlement to service connection for sleep apnea to include as secondary to service-connected Parkinson's Disease, cervical strain, and degenerative arthritis of the lumbar spine is remanded.
+
+REASONS FOR REMAND
+
+The Veteran served on active duty from March 1985 to October 1994.
+
+The matter comes before the Board of Veterans' Appeal (Board) on appeal of a July 2024 rating decision of a Department of Veterans Affairs (VA) Regional Office.?? 
+
+In the August 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket. 
+
+Therefore, the Board may only consider the evidence of record at the time of the July 2024 agency of original jurisdiction (AOJ) decision on appeal. 38?C.F.R. §?20.301. Any evidence submitted after the AOJ decision on appeal cannot be considered by the Board. 38 C.F.R. §§?20.300, 20.301, 20.801. 
+
+However, because the Board is remanding the claim of sleep apnea, any evidence the Board could not consider will be considered by the AOJ in the adjudication of those claims. 38 C.F.R. § 3.103(c)(2)(ii).
+
+1. Entitlement to service connection for sleep apnea to include as secondary to service-connected Parkinson's Disease, cervical strain, and degenerative arthritis is remanded.
+
+The Veteran is seeking service connection for his sleep apnea, which he contends is due to his service-connected Parkinson's Disease. See 5/29/24 VA Form 21-526EZ; see also 10/24/24 Appellate Brief at 2.  The Board further finds that the record raised the claim of the sleep apnea also being secondary to cervical and lumbar strain.  Although the Board regrets the delay, upon review of the claims file, additional development is required.
+
+Under the?AMA,?remand?is permissible only for correction of?pre-decisional?duty to assist errors and correction of an AOJ error in satisfying a regulatory or statutory duty, if correction of such error would have a reasonable possibility of aiding in substantiating the appellant's claim. 38 C.F.R. § 20.802. 
+
+The law provides that VA shall make reasonable efforts to notify a claimant of the evidence necessary to substantiate a claim and requires VA to assist a claimant in obtaining that evidence. 38 U.S.C. §§ 5103, 5103A; 38 C.F.R. § 3.159. Such assistance includes obtaining treatment records and providing the claimant a medical examination or obtaining a medical opinion when such an examination or opinion is necessary to decide a claim. 38 U.S.C. §§ 5103, 5103A; 38 C.F.R. § 3.159. The threshold for determining whether the evidence "indicates" that there "may" be a nexus between a current disability and an in-service event, injury, or disease is a low one. See McLendon v. Nicholson, 20?Vet. App.?79, 83 (2006).
+
+In January 2017, VA's Office of General Counsel (OGC) issued a precedential opinion regarding whether?obesity?may be considered a "disease" for the purposes of service connection. In general, OGC concluded that?obesity?is not a disease or injury for purposes of service connection. However, obesity can be an "intermediate step" between a service-connected disability and a current disability that may be service-connected on a secondary basis under?38 C.F.R. § 3.310. See Walsh v. Wilkie,?32?Vet. App.?300, 306-07?(2020). In other words, service connection may be established on a secondary basis for a disability which would not have occurred but for obesity that was caused or aggravated by a service-connected disability.?Id. 
+
+Here, the Veteran has a current disability of obstructive sleep apnea. See 6/17/24 VA Examination at 3. He contends that his sleep apnea is due to his Parkinson's Disease which is service connected. See 5/29/24 VA Form 21-526EZ.  (In an October 2024 Appellate Brief, the Veteran also contended that his claimed apnea is due to his service-connected tinnitus, but such contention was raised after the rating decision on appeal and thus no development is warranted as to this contention.) Service treatment records also show the Veteran complaining of fatigue and being tired most of the time regardless of how much he slept. See 2/24/98 STR at 249.
+
+Regarding direct service connection, there is no medical opinion of record as to whether the Veteran's sleep apnea was due to service. Therefore, the low threshold under McLendon has been satisfied in this case, and a VA opinion is required to adjudicate the claim on a direct basis.
+
+Regarding secondary service connection, while there is a medical opinion addressing whether the Veteran's Parkinson's Disease caused the Veteran's sleep apnea, there is no opinion as to whether the Parkinson's Disease aggravated his sleep apnea. See El-Amin v. Shinseki, 26?Vet. App.?136, 140-41 (2013). Finally, in the June 2024 VA opinion, the VA examiner stated that the Veteran's obesity, with a BMI of 38, is likely the explanation for his sleep apnea. See 6/14/24 VA Opinion at 3. The Veteran is service connected for two musculoskeletal disabilities, cervical strain and degenerative arthritis of the lumbar spine.  Thus, addendum opinions are necessary to determine whether the Veteran's obesity was caused or aggravated by his service-connected cervical strain and degenerative arthritis of the lumbar spine, and if so, whether the obesity or its aggravation was a substantial factor in causing his claimed sleep apnea. See Walsh,?32?Vet. App.?at 306-07?(2020). Accordingly, for the foregoing reasons, the evidence of record is insufficient to decide the claim on a secondary basis, and a remand is necessary to obtain such medical opinions.
+
+The matters are REMANDED for the following action:
+
+1. Obtain an addendum medical opinion from an appropriate VA clinician with sufficient expertise to determine the nature and etiology of the Veteran's obstructive sleep apnea. The examiner shall be provided with and review the claims file. No additional examination is necessary unless the examiner determines otherwise. With respect to OSA, the examiner shall provide a detailed opinion to the following:?
+
+(a.) Whether it is at least likely as not (likelihood of approximately 50 percent or greater) that the OSA had its onset in service or is otherwise causally or etiologically related to his active service.?
+
+(b.) Whether it is at least as likely as not that the OSA was aggravated by the Veteran's service-Parkinson's Disease.
+
+The examiner is advised that aggravation can include temporary worsening or flare-ups.? 
+
+If aggravation is found, the examiner should also state, to the extent possible, the baseline level of disability prior to aggravation. This may be ascertained by the medical evidence of record and by the Veteran's statements as to the nature, severity, and frequency of his observable symptoms over time. 
+
+(c.) Whether it is at least as likely as not (likelihood of approximately 50 percent or greater) that the Veteran's?obesity?was caused and/or aggravated by his service-connected cervical strain and degenerative arthritis of the lumbar spine. 
+
+(d.) If so, was the?obesity,?as a result of the service-connected cervical strain and degenerative arthritis, a substantial factor in causing the Veteran's OSA?
+
+The examiner is also advised that the Veteran is competent to report symptoms and treatment and that his reports, including his reports as to the onset and nature of his symptoms, must be taken into account along with the other evidence of record in formulating requested opinions. 
+
+The examiner should set forth all examination findings, along with the complete rationale for any conclusions reached. 
+
+ 
+
+ 
+
+Eric S. Leboff
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	J. Sproviero
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.

@@ -1,0 +1,99 @@
+Citation Nr: A25034840
+Decision Date: 04/15/25	Archive Date: 04/15/25
+
+DOCKET NO. 240606-445977
+DATE: April 15, 2025
+
+ORDER
+
+1. Entitlement to service connection for bilateral primary open angle glaucoma is granted.
+
+2. Entitlement to service connection for sleep related hypoxia is granted.
+
+FINDINGS OF FACT
+
+1. Resolving all reasonable doubt in favor of the Veteran, the Veteran's primary open angle glaucoma is at least as likely as not related to his in-service toxic exposure risk activity (TERA).
+
+2. Resolving all reasonable doubt in favor of the Veteran, the Veteran's sleep related hypoxia is due to or aggravated by his service-connected posttraumatic stress disorder (PTSD).
+
+CONCLUSIONS OF LAW
+
+1. The criteria for service connection for bilateral primary open angle glaucoma are met. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303.
+
+2. The criteria for service connection for sleep related hypoxia as secondary to posttraumatic stress disorder are met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.310.
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Veteran served in the United States Army from November 1976 to November 1979 and in the United States Air Force from November 1980 to November 1984 and January 1991 to May 1991 with service in Riyadh, Saudi Arabia.
+
+This matter comes before the Board of Veterans' Appeals (Board) from a June 2023 rating decision issued by a Department of Veterans Affairs (VA) Regional Office (RO) under the modernized review system, or Appeals Modernization Act (AMA).
+
+In February 2023, the Veteran submitted a VA Form 20-0996, Decision Review Request: Higher-Level Review (HLR), and requested review of a January 2023 Supplemental Statement of the Case (SSOC). In February 2023, the agency of original jurisdiction (AOJ) issued the HLR decision, which considered the evidence of record at the time of the January 2023 SSOC and identified a duty to assist error. Thereafter, the AOJ conducted additional development and the claims were readjudicated in a June 2023 rating decision. The Veteran filed a timely appeal to this rating decision on a VA Form 10182 in June 2024. Therefore, the Board may only consider the evidence of record at the time of the decision on appeal and any evidence submitted during an applicable evidentiary window.
+
+In the June 2024 VA Form 10182, Decision Review Request: Board Appeal (Notice of Disagreement), the Veteran elected the Direct Review docket.
+
+Therefore, the Board may only consider the evidence of record at the time of the June 2023 rating decision. 38 C.F.R. § 20.301. If evidence was submitted after the AOJ issued the decision on appeal, the Board did not consider it in its decision. 38 C.F.R. §§ 20.300, 20.301, 20.801. 
+
+If the Veteran would like VA to consider any evidence that was submitted that the Board could not consider, the Veteran may file a Supplemental Claim (VA Form 20-0995) and submit or identify this evidence. 38 C.F.R. § 3.2501. If the evidence is new and relevant, VA will issue another decision on the claims, considering the new evidence in addition to the evidence previously considered. Id. Specific instructions for filing a Supplemental Claim are included with this decision. 
+
+1. Entitlement to service connection for bilateral primary open angle glaucoma is granted.
+
+The Veteran seeks service connection for an eye condition, to include bilateral primary open angle glaucoma.
+
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. § 3.303. The three-element test for service connection requires evidence of: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the current disability and the in-service disease or injury. Shedden v. Principi, 381 F.3d 1163, 1166 -67 (Fed. Cir. 2004).
+
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102. When a Veteran seeks benefits and the evidence is in relative equipoise, the Veteran prevails. Gilbert v. Derwinski, 1 Vet. App. 49 (1990). The benefit-of-the-doubt rule does not apply when the evidence persuasively favors one side or the other. Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).
+
+In the June 2023 rating decision, the AOJ made the favorable findings that the Veteran has a current diagnosis of bilateral primary open angle glaucoma and that the Veteran had toxic exposure based on his service in Saudi Arabia. The Board is bound by these favorable findings.
+
+Therefore, the remaining question before the Board is if the Veteran's current disability is related to his toxic exposure.
+
+In August 2021, the Veteran was afforded a VA examination. The examiner opined that it is less likely than not that the claimed eye condition is due to service because service treatment records do not contain complaints, treatment, or diagnosis for glaucoma. See August 2021 Medical Opinion Disability Benefits Questionnaire. However, the examiner did not take into account the Veteran's toxic risk exposure activities (TERAs). Therefore, the Board assigns this opinion limited probative weight.
+
+In July 2022, the Veteran was afforded another VA examination. The examiner opined that it is less likely than not that the Veteran's glaucoma was caused by a specific exposure event in southwest Asia because there was no evidence that the Veteran was diagnosed with glaucoma during his service. The examiner further found that the disability pattern was a disease with a clear and specific etiology and diagnosis. See July 2022 Medical Opinion Disability Benefits Questionnaire. However, the examiner did not take into account the combination of the Veteran's disabilities and the Veteran's contentions that all his symptoms began shortly after returning from Saudi Arabia; the examiner instead looked at the eye condition in isolation. Therefore, the Board assigns this opinion limited probative weight.
+
+In April 2023, the Veteran was afforded a new VA opinion. The examiner opined that the Veteran's eye condition was less likely than not caused by his TERA because the Veteran's glaucoma is most likely related to genetic factors and not toxic exposure. See April 2023 Medical Opinion Disability Benefits Questionnaire. The Board finds, however, that the examiner did not provide a clear rationale, and instead just made a conclusory statement. Therefore, the Board assigns this opinion limited probative weight.
+
+In February 2021, the Veteran provided a private medical opinion. The physician opined that the Veteran's glaucoma is more likely than not due to his service in the Gulf War. Specifically, the physician opined that the Veteran's glaucoma was part of medically unexplained chronic multi-symptom illnesses (MUCMI). The physician explained that, while there is a specific medical diagnosis for the Veteran's eye condition, looking at the eye condition in a vacuum does not correctly identify the problem. The physician noted that the records show the Veteran complained of eye pain in 1995 which shows there was something ocular going on. Additionally, the Veteran's eye condition began after returning from the Gulf, was not the only system affected (the Veteran also noted headaches, respiratory, gastrointestinal, musculoskeletal, and psychological problems, and sleep disturbances), and has atypical onset and progression of symptoms for glaucoma. See February 2021 Medical Opinion of Dr. A. A. The Board gives great probative weight to the examiner's findings as it was based on a thorough consideration of the Veteran's medical records, exposure information, and is supported by medical literature.
+
+Based on the foregoing, the Board finds that the competent and credible evidence is at least in approximate balance that the Veteran's bilateral primary open angle glaucoma was at least as likely as not related to his in-service toxic exposure risk activity (TERA) while in Saudi Arabia. Resolving any doubt in favor of the Veteran, the Board finds that service connection for his bilateral primary open angle glaucoma is warranted. 38 U.S.C. § 5107(b); 38 C.F.R. § 4.3.
+
+2. Entitlement to service connection for sleep related hypoxia is granted.
+
+The Veteran seeks service connection for sleep related hypoxia.
+
+Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability. 38 C.F.R. § 3.310(a)-(b). Secondary causation exists when, but for the service-connected disability, the non-service-connected was caused by a service-connected disability either in a direct, etiological way or via multiple steps in a causal chain. Spicer v. McDonough, 61 F.4th 1360, 1365 (Fed. Cir. 2023) (citations omitted). Secondary aggravation exists when the non-service-connected disability not caused by a service-connected disability would be less severe were it not for a service-connected disability. Id. at 1364. For example, secondary aggravation may be established where the natural progression of the non-service-connected disability could have been arrested or improved but for the service-connected disability. Id.
+
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102. When a Veteran seeks benefits and the evidence is in relative equipoise, the Veteran prevails. Gilbert v. Derwinski, 1 Vet. App. 49 (1990). The benefit-of-the-doubt rule does not apply when the evidence persuasively favors one side or the other. Lynch v. McDonough, 21 F.4th 776, 781-82 (Fed. Cir. 2021).
+
+In the June 2023 rating decision, the AOJ made the favorable findings that the Veteran has a current disability of sleep related hypoxia and that the Veteran is service connected for PTSD. The Board is bound by these favorable findings.
+
+Therefore, the remaining question before the Board is if the Veteran's sleep related hypoxia was either caused by or aggravated by his service-connected PTSD.
+
+In October 2020, the Veteran submitted a private medical opinion. The examiner reviewed the Veteran's medical records and the medical literature surrounding PTSD and sleep disorders. The examiner opined it was more likely than not that the Veteran's sleep disorder was a consequence of his service-connected PTSD. See October 2020 Medical Treatment Record. The Board gives great probative weight to the examiner's findings as it was based on a thorough consideration of the Veteran's medical records and is supported by medical literature.
+
+In January 2022, the Veteran was afforded a VA examination. The examiner found that the Veteran did not have sleep apnea. Instead, the Veteran was diagnosed with sleep related hypoxia. The examiner did not provide an opinion on if the Veteran's sleep related hypoxia was related to his service. See January 2022 Sleep Apnea Disability Benefits Questionnaire.
+
+In April 2022, the Veteran was provided a VA medical opinion. The examiner opined that the Veteran's sleep disorder was a symptom of his service-connected PTSD. See April 2022 Medical Opinion Disability Benefits Questionnaire.
+
+In March 2023, the Veteran was afforded a VA examination. The examiner opined that the Veteran's sleep related hypoxia is less likely than not proximately due to or the result of the Veteran's service-connected PTSD because he does not have a diagnosis of obstructive sleep apnea. See March 2023 Medical Opinion Disability Benefits Questionnaire. However, the examiner did not address the Veteran's diagnosis of sleep related hypoxia. Therefore, the Board assigns this opinion limited probative weight.
+
+In June 2023, the Veteran was provided a toxic exposure risk activities (TERA) opinion. The examiner opined that the Veteran's sleep related hypoxia was less likely than not caused by the TERA because there is a lack of clear medical evidence that provides an indication of a relationship between the development of the condition and the TERA. The examiner noted that the Veteran had risk factors outside of exposure that likely contributed to the development of the claimed condition, including his history of asthma. See June 2023 Medical Opinion Disability Benefits Questionnaire.
+
+In May 2024, the Veteran was afforded another VA examination. The examiner opined that the Veteran's sleep condition was less likely than not incurred in or caused by the claimed in-service injury, event, or illness because there is no identifiable diagnosis of disability that can be attributed to the Veteran's complaints of a sleep disorder. See May 2024 Medical Opinion Disability Benefits Questionnaire. However, the Veteran does have a diagnosis of sleep related hypoxia. Therefore, the Board assigns this opinion limited probative weight.
+
+Based on the foregoing, the Board finds that the competent and credible evidence is at least in approximate balance that the Veteran's sleep related hypoxia was caused or aggravated by his service-connected PTSD. Resolving any doubt in favor of the Veteran, the Board finds that service connection for his sleep related hypoxia disability is warranted. 38 U.S.C. § 5107(b); 38 C.F.R. § 4.3.
+
+ 
+
+ 
+
+Ann K. Minami
+
+Veterans Law Judge
+
+Board of Veterans' Appeals
+
+Attorney for the Board	Ho, Ashley M.
+
+The Board's decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303.
