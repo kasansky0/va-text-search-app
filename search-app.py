@@ -306,7 +306,7 @@ def progressive_search(search_input, documents):
 search_input = st.text_input(
     "🔍 Enter condition or term. Use quotes for exact phrases.",
     value="",
-    placeholder="PTSD, Sleep apnea, Migraine..."
+    placeholder='PTSD, Sleep apnea, "Migraines is granted"...'
 )
 
 search_input = search_input.replace('“', '"').replace('”', '"')
