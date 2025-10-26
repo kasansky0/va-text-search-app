@@ -309,6 +309,8 @@ search_input = st.text_input(
     placeholder="PTSD, Sleep apnea, Migraine..."
 )
 
+search_input = search_input.replace('“', '"').replace('”', '"')
+
 if search_input:
     query = search_input.lower().strip()
     log_to_sheet(st.session_state.client_id, search_input, "")
