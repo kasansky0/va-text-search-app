@@ -8,7 +8,7 @@ from datetime import datetime
 # Streamlit Config
 # -----------------------------
 st.set_page_config(
-    page_title="BVA Finder Pro",
+    page_title="BVA Finder",
     page_icon="🔍",
     layout="centered",
     initial_sidebar_state="collapsed"
