@@ -179,8 +179,7 @@ SYNONYMS = {
     "ptsd": ["post-traumatic stress disorder"],
     "behcet": ["bechet", "behçet’s"],
     "suicide": ["suicidal ideation", "suicidal thoughts", "self-harm", "suicide attempt"],
-    "suicidal ideation": ["suicidal thoughts", "self-harm", "suicide attempt"],
-    "IBS": ["\(IBS\)"]
+    "suicidal ideation": ["suicidal thoughts", "self-harm", "suicide attempt"]
 }
 
 # Make synonyms bidirectional
