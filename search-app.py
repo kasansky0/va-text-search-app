@@ -198,7 +198,7 @@ SYNONYMS = bidirectional
 # -----------------------------
 # Stopwords
 # -----------------------------
-STOPWORDS = {"to", "and", "was", "not", "the", "a", "an", "of", "in", "on", "for", "with", "is", "are", "at", "by", "from"}
+STOPWORDS = {"to", "and", "was", "not", "the", "a", "an", "of", "but", "in", "on", "for", "with", "is", "are", "at", "by", "from"}
 
 # -----------------------------
 # Utility
