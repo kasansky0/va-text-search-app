@@ -209,7 +209,7 @@ def build_search_pattern(words, synonyms=None):
         all_terms += [w for w in synonyms if w not in STOPWORDS]
     if not all_terms:
         return None
-    escaped = [re.escape(t) + r"(s|es)?" for t in all_terms]
+    escaped = [re.escape(t) + r"(s|es)?[.,;:!']?" for t in all_terms]
     return re.compile(r"\b(" + "|".join(escaped) + r")\b", re.IGNORECASE)
 
 def highlight_text(text, pattern):
