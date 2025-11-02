@@ -309,6 +309,28 @@ search_input = st.text_input(
     placeholder='PTSD, Sleep apnea, "Migraines is granted"...'
 )
 
+# -----------------------------
+# Stats Div (below search input)
+# -----------------------------
+st.markdown("""
+<div id="stats-box" style="
+    background-color: #ffffff;
+    border: 1px solid #d0d7de;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    text-align: center;
+">
+    <b>📘 How to Search:</b><br>
+    🔹 <b>Single keywords</b> — e.g. PTSD, migraines, IBS<br>
+    🔹 <b>Multiple terms</b> — e.g. migraines denied, PTSD service connection<br>
+    🔹 <b>Exact phrases (in quotes)</b> — e.g. "migraines is granted", "sleep apnea is denied"<br>
+    🧠 <i>Tip:</i> Use quotes to match an exact phrase. Without quotes, the search will find the words separately, even if they appear in different parts of the document.
+</div>
+""", unsafe_allow_html=True)
+
 search_input = search_input.replace('“', '"').replace('”', '"')
 
 if search_input:
