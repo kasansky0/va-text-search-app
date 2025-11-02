@@ -277,9 +277,25 @@ def progressive_search(search_input, documents):
         found_phrases = try_phrases(phrases, content)
         found_terms.update(found_phrases)
 
+        # Require that all phrases and words are found in the same document
         required_terms = set(words + phrases)
-        if not required_terms.issubset(found_terms):
+
+        # Check if all exact phrases are in the content
+        missing_phrase = any(
+            not re.search(re.escape(phrase), content, re.IGNORECASE)
+            for phrase in phrases
+        )
+
+        # Check if all single words appear somewhere
+        missing_word = any(
+            not re.search(rf"\b{re.escape(word)}\b", content, re.IGNORECASE)
+            for word in words
+        )
+
+        # Skip if any required term is missing
+        if missing_phrase or missing_word:
             continue
+
 
         matches = [m for m in pattern.finditer(content) if m.group(0).lower() not in STOPWORDS]
         if not matches:
