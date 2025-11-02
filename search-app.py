@@ -242,6 +242,7 @@ def progressive_search(search_input, documents):
     phrase_pattern = r'"([^"]+)"'
     phrases = re.findall(phrase_pattern, search_input.lower())
     temp_input = re.sub(phrase_pattern, "", search_input.lower()).strip()
+    temp_input = re.sub(r'[.,;:!\'")(\[\]]', '', temp_input)
     words = [w for w in temp_input.split() if w not in STOPWORDS]
 
     synonyms = [s for w in words if w in SYNONYMS for s in SYNONYMS[w]]
